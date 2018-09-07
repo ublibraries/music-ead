@@ -1,0 +1,2647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead> 
+  
+   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 
+      <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 12.2::Slee Family Collection)//EN">ubmu0012_2
+		</eadid> 
+	 
+      <filedesc> 
+		
+         <titlestmt> 
+		  
+            <titleproper encodinganalog="title">Finding Aid for the Slee Family
+			 Collection, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1893/1981"> 1893-1981</date> 
+            </titleproper> 
+		  
+            <titleproper type="filing" altrender="nodisplay"> Slee Family
+			 Collection</titleproper> 
+		  
+            <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		
+         </titlestmt> 
+		
+         <publicationstmt> 
+		  
+            <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  
+            <address> 
+			 
+               <addressline>112 Baird Hall</addressline> 
+			 
+               <addressline>Buffalo, New York 14260-4750</addressline> 
+			 
+               <addressline>United States</addressline> 
+			 
+               <addressline>Phone: 716 645-2924</addressline> 
+			 
+               <addressline>Fax: 716 645-3906</addressline> 
+			 
+               <addressline>Email:<emph render="bold"> 
+				
+                     <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html" linktype="simple">musique@buffalo.edu</extref>
+                  </emph>
+               </addressline> 
+			 
+               <addressline>URL:<emph render="bold"> 
+				
+                     <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html" linktype="simple">http://library.buffalo.edu/music/</extref>
+                  </emph>
+				
+               </addressline> 
+		  
+            </address> 
+		  
+            <p>© 
+			 <date type="publication" encodinganalog="date" era="ce" calendar="gregorian">2010</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		
+         </publicationstmt> 
+	 
+      </filedesc> 
+	 
+      <profiledesc> 
+		
+         <creation>Finding aid encoded in EAD by John Bewley, March 2010.
+		  </creation> 
+		
+         <langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage> 
+		
+         <descrules>Finding aid prepared using DACS ( 
+		  <title render="italic" linktype="simple">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 
+      </profiledesc> 
+  
+   </eadheader> 
+  
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 
+      <did> 
+		
+         <head>Collection Overview</head> 
+		
+         <unittitle label="Title" encodinganalog="245$a"> Slee Family Collection, 
+		  <unitdate encodinganalog="245$f" normal="1893/1981" type="inclusive" datechar="creation" era="ce" calendar="gregorian"> 1893-1981 </unitdate>
+         </unittitle> 
+		
+         <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 12.2</unitid> 
+		
+         <origination label="Creator"> 
+		  
+            <famname rules="aacr2" role="creator" encodinganalog="100">Slee
+			 family</famname>
+         </origination> 
+		
+         <physdesc label="Extent"> 
+            <extent unit="box" encodinganalog="300$a">3
+		  boxes</extent> 
+            <extent unit="item" encodinganalog="300$a"> (90 items)</extent>
+		  
+         </physdesc> 
+		
+         <langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041" langcode="eng">English.</language> 
+         </langmaterial> 
+		
+         <repository label="Repository" encodinganalog="852"> 
+		  
+            <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea>
+            </corpname> 
+         </repository> 
+		
+         <abstract label="Abstract" encodinganalog="520$a"> Collection contains
+		  clippings, obituaries, correspondence, eighteen photographs of Alice and
+		  Frederick Slee, family, and friends, writings by Frederick Slee, documents
+		  about the Slee Bequest to the University of Buffalo, concert programs, and a
+		  log of a twenty-one day sailing trip undertaken by Frederick Slee and two
+		  friends in 1914. The log details their adventures along the northern shore of
+		  Lake Ontario. </abstract> 
+	 
+      </did> 
+	 
+      <descgrp type="admininfo"> 
+		
+         <head>Administrative Information</head>  
+		
+         <prefercite encodinganalog="524"> 
+		  
+            <head>Preferred Citation</head> 
+		  
+            <p>[Specified item], Slee Family Collection, 1893-1981, Music Library,
+			 The State University of New York at Buffalo.</p> 
+		
+         </prefercite> 
+		
+         <accessrestrict encodinganalog="506"> 
+		  
+            <head>Terms of Access</head> 
+		  
+            <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		
+         </accessrestrict> 
+		
+         <userestrict encodinganalog="540"> 
+		  
+            <head>Copyright</head> 
+		  
+            <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		
+         </userestrict> 
+	  
+		
+         <acqinfo encodinganalog="541"> 
+		  
+            <head>Acquisition Information</head> 
+		  
+            <p>The collection was given to the library by faculty member, Stephen
+			 Manes, who received it from Ansie Baird (Mrs. Brent Baird). Mrs. Baird received
+			 the collection from Charles G. Beaudette. Some clippings and programs were
+			 added by Music Library staff subsequent to the receipt of the collection. </p> 
+		
+         </acqinfo> 
+		
+         <accruals encodinganalog="584"> 
+		  
+            <head>Accruals and Additions</head> 
+		  
+            <p>No further accruals are expected to this collection. </p> 
+		
+         </accruals> 
+		
+         <altformavail encodinganalog="530"> 
+		  
+            <head>Alternate Forms</head> 
+		  
+            <p>Entire collection digitized and available in 
+			 <extref href="http://digital.lib.buffalo.edu/collection/LIB-MUS014/" show="replace" actuate="onrequest" role="text/html" linktype="simple">UB Libraries Digital Collections</extref>.</p> 
+		
+         </altformavail> 
+		
+         <processinfo encodinganalog="583"> 
+		  
+            <head>Processing Information</head> 
+		  
+            <p>Processed by John Bewley, 2006.</p> 
+		
+         </processinfo> 
+	 
+      </descgrp> 
+	 
+      <bioghist encodinganalog="545"> 
+		
+         <head>Biographical Note</head> 
+		
+         <p>Frederick Caldecott Slee (1870-1954), was a successful corporate
+		  lawyer in Buffalo, N.Y. His two passions in life were sailing and Beethoven.
+		  While at Harvard pursuing his law degree, Mr. Slee also studied music theory
+		  and composition. He later furthered his music education at the Sorbonne, in
+		  Paris. Mr. Slee and his wife Alice were devoted fans of chamber music and the
+		  music of Beethoven, especially the string quartets. They built a special music
+		  room in their Saybrook Place home with a raised platform for performers. The
+		  room was used most Sundays for recitals with friends. Mr. Slee was an
+		  accomplished musician, playing viola, violin, piano and the cello. </p> 
+		
+         <p>Alice Slee, née McDonald, was born August 20, 1875 in East Aurora, NY.
+		  She moved to Buffalo to attend business school. It was there that Alice met and
+		  married Frederick Slee in 1905. Mrs. Slee was active in many worthy causes,
+		  serving the Red Cross through the two World Wars. Mrs. Slee was honored as one
+		  of Western New York's outstanding citizens by the 
+		<title render="italic" linktype="simple">Buffalo News</title> in 1952. Mrs. Slee was also
+		devoted to the music of Beethoven and sponsored concerts for all of Buffalo to
+		enjoy. Mrs. Slee passed away exactly two years after her husband on May 19,
+		1956. </p> 
+		
+         <p>The Slee Bequest at the University at Buffalo provides for the annual
+		  performance of all of Beethoven's string quartets in an order prescribed by
+		  Frederick Slee. The concert series dates to 1955 and has featured some of the
+		  most renowned string quartets, including the Budapest, Guarnieri, Juilliard,
+		  Cleveland, Tokyo, Emerson, and Concord quartets. The Music Department at The
+		  State University of Buffalo administers the Slee Bequest and the annual series
+		  of concerts are held in Slee Concert Hall located at the University. The
+		  endowment also funds the Slee professorship in the Music Department. </p> 
+	 
+      </bioghist> 
+	 
+      <scopecontent encodinganalog="520"> 
+		
+         <head>Scope and Content Note</head> 
+		
+         <p>The collection contains various documents pertaining to the lives of
+		  Frederick Caldecott Slee and his wife, Alice, including music-related writings
+		  by Frederick Slee, correspondence, clippings about the Slees, documents
+		  concerning the Slee Bequest to the University of Buffalo, and concert programs.
+		  The collection contains eighteen photographs of friends and family. The
+		  majority of the family photographs are of Frederick C. Slee and his wife,
+		  Alice. There are two photographs of Slee's Sunday morning string quartet, taken
+		  in his music room, and a photograph of the Slee home at 59 Saybrook Place in
+		  Buffalo. </p> 
+		
+         <p>One of the highlights of the collection is a typewritten daily log of
+		  a sailing trip taken in 1914, by Frederick C. Slee and his friends, George T.
+		  Moseley and Louis Wright Simpson. The log includes 46 leaves, with 30
+		  photographs taken during their three week journey. The author of this log was
+		  also the purser, Louis Wright Simpson. Frederick Slee signed on as Captain, and
+		  Mr. George Moseley was the yacht's Mate. Mr. Slee and his companions left the
+		  Buffalo Yacht Club, beginning their trip on Lake Erie. The second day they
+		  traveled through the Welland Canal to Lake Ontario. Most of their time was
+		  spent sailing the northern shoreline of Lake Ontario. Many of the photographs
+		  show life aboard the Althea: hoisting the sails, cleaning up after cooking, and
+		  taking turns behind the wheel. The sailing trip commenced on July 11, 1914 and
+		  ended on August 1, 1914. The first world news they saw after twenty-one
+		  carefree days was the newspaper headline, "Germany Declares War", the beginning
+		  of World War I. </p> 
+	 
+      </scopecontent> 
+	 
+      <arrangement encodinganalog="351"> 
+		
+         <head>Arrangement</head> 
+		
+         <p>The collection is arranged in seven series: </p> 
+		
+         <list> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series1" linktype="simple">I. </ref>Log
+			 of the Good Yacht Althea on the Summer Cruise of 1914</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series2" linktype="simple">II.
+				</ref>Photographs</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series3" linktype="simple">III.
+				</ref>Writings of Frederick Slee</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series4" linktype="simple">IV.
+				</ref>Correspondence</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series5" linktype="simple">V.
+				</ref>Clippings</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series6" linktype="simple">VI.
+				</ref>Slee Bequest Documents</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series7" linktype="simple">VII.
+				</ref>Programs</item> 
+		
+         </list> 
+	 
+      </arrangement> 
+	 
+      <dsc type="combined"> 
+		
+         <head>Container List</head> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series1"> I.</unitid> 
+			 
+               <unittitle>Log of the Good Yacht Althea on the Summer Cruise of 1914,
+				
+				<unitdate type="inclusive" normal="1914-07-11/1914-08-01" datechar="creation" era="ce" calendar="gregorian"> July 11-August 1, 1914</unitdate> 
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent> Item 1</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">1</container> 
+				
+                  <unittitle>Log of the Good Yacht Althea on the Summer Cruise of
+				  1914, 
+				  <unitdate type="inclusive" normal="1914-07-11/1914-08-01" datechar="creation" era="ce" calendar="gregorian">July 11-August 1, 1914</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>46 typescript leaves ; 28 cm.</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+			 
+               <scopecontent> 
+				
+                  <p>Contains thirty 2 x 3 inch snapshots taken during the voyage.
+				  Participants were Frederick Slee, George T. Mosley, and Louis Wright Simpson.
+				  The logbook was written by Simpson.</p> 
+			 
+               </scopecontent> 
+			 
+               <note> 
+				
+                  <p>The entire logbook is available online in 
+					<extref href="http://digital.lib.buffalo.edu/items/show/22030" show="new" role="text/html" actuate="onrequest" linktype="simple">UB Libraries Digital Collections</extref>. All of the
+				  thirty photographs in the logbook are individually described and available in
+				  the 
+				  <extref href="http://digital.lib.buffalo.edu/collection/LIB-MUS014/" show="new" role="text/html" actuate="onrequest" linktype="simple">Slee Family Collection</extref>
+				  in UB Libraries Digital Collections.</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series2"> II.</unitid> 
+			 
+               <unittitle>Photographs, 
+				<unitdate type="inclusive" normal="1900/1910" era="ce" calendar="gregorian">circa 1900-1910
+				  </unitdate> 
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item 2-19 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <scopecontent> 
+			 
+               <p>Eighteen photographs of Slee family and friends.</p> 
+		  
+            </scopecontent> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp002</container> 
+				
+                  <unittitle>Frederick Caldecott Slee, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,51"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+				
+                  <origination label="Photographer"> 
+				  
+                     <persname role="creator">Beach, Howard</persname>
+                  </origination> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp003</container> 
+				
+                  <unittitle>Frederick Caldecott Slee, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1910</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,84"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+				
+                  <origination label="Photographer"> 
+				  
+                     <persname role="creator">Nussbaumer</persname>
+                  </origination> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp004</container> 
+				
+                  <unittitle>Alice Slee, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,63"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+				
+                  <origination label="Photographer"> 
+				  
+                     <persname role="creator">Freres, Leon</persname>
+                  </origination> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp005</container> 
+				
+                  <unittitle>John P. Seymour and Grace Gratten Collins, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,64"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp006</container> 
+				
+                  <unittitle>Charles Gus Augustus Collins and Frederick Caldecott
+				  Slee, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,89"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp007</container> 
+				
+                  <unittitle>Katie Simpson, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,77"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp008</container> 
+				
+                  <unittitle>Grace Cotton Collins and Alice Slee, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">March 1908</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,59"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp009</container> 
+				
+                  <unittitle>Alice Slee, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">March 1908</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,92"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp010</container> 
+				
+                  <unittitle>Grace Gratten Collins, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">March 1908</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,82"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp011</container> 
+				
+                  <unittitle>Alice Slee, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">March 1908</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,76"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp012</container> 
+				
+                  <unittitle>Saybrook String Quartet: Isabelle Workman Evans, violin, Nicholas D'Addio, violoncello, Frederick Slee, viola, and George Kogler, violin, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,69"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp013</container> 
+				
+                  <unittitle>Saybrook String Quartet: Isabelle Workman Evans, violin, Nicholas D'Addio, violoncello, Frederick Slee, viola, and George Kogler, violin, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,57"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp014</container> 
+				
+                  <unittitle>Flooding river, unidentified location, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,66"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+				
+                  <origination label="Photographer"> 
+				  
+                     <persname role="creator">Collins, Charles
+					 Augustus?</persname>
+                  </origination> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp015</container> 
+				
+                  <unittitle>Canal lock (possibly Lockport, N.Y.), 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,86"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+				
+                  <origination label="Photographer"> 
+				  
+                     <persname role="creator">Collins, Charles
+					 Augustus?</persname>
+                  </origination> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp016</container> 
+				
+                  <unittitle>Frederick Caldecott Slee in automobile, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,79"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp017</container> 
+				
+                  <unittitle>Group of eleven boys, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,71"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp018</container> 
+				
+                  <unittitle>Building, possibly in Buffalo, N.Y., 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,58"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">slp019</container> 
+				
+                  <unittitle>Interior view of room, possibly in Slee home, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> undated</unitdate> 
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS014,78"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series3"> III.</unitid> 
+			 
+               <unittitle>Writings of Frederick Slee, 
+				<unitdate type="inclusive" normal="1914/1938" era="ce" calendar="gregorian">1914-1938 </unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item 20-28 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Roughly in chronological order.</p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">20</container> 
+				
+                  <unittitle> 
+				  
+                     <title type="book" linktype="simple">From Wagner to Schoenberg</title> 
+				  
+                     <unitdate type="inclusive" era="ce" calendar="gregorian">1914</unitdate> 
+                  </unittitle> 
+<!-- <dao linktype="simple"href="../xtf/images/music/ubmu0012_2_020.pdf"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>Typescript (15 leaves)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">21</container> 
+				
+                  <unittitle>Untitled reminiscences, 
+				  <unitdate era="ce" calendar="gregorian">after 1924 </unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript with ms. additions ([26] leaves;
+				  numbered 4-6, 6 ½, 7-9, 9 ½, 9 1/2A, 10-19, 22-28)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">22</container> 
+				
+                  <unittitle>Concerts of Saybrook String Quartet, [programs and notes
+				  for concerts], 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">November 1931-May 30, 1937 </unitdate>
+				  
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript ([38] leaves; title page, 36 numbered
+				  leaves, with leaf 33 repeated)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">23</container> 
+				
+                  <unittitle>Saybrook String Quartet program, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">May 1938 </unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">24</container> 
+				
+                  <unittitle>Saybrook String Quartet program, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">September 1938 </unitdate>
+				  
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">25</container> 
+				
+                  <unittitle>Saybrook String Quartet program, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">April 2, 1939 </unitdate> 
+                  </unittitle>
+				
+				
+                  <physdesc>
+                     <extent>Typescript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">26</container> 
+				
+                  <unittitle>Saybrook String Quartet program, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">April 30, 1939 </unitdate>
+				  
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">27</container> 
+				
+                  <unittitle>Saybrook String Quartet program, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">May 30, 1939 </unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">28</container> 
+				
+                  <unittitle>Summary of Saybrook String Quartet repertoire, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series4"> IV .</unitid> 
+			 
+               <unittitle>Correspondence, 
+				<unitdate type="inclusive" normal="1896/1938" era="ce" calendar="gregorian">1896-circa 1938
+				  </unitdate> 
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item 29-34 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">29</container> 
+				
+                  <unittitle>Original letter from Mrs. Alice Slee concerning
+				  repertoire of the Saybrook String Quartet, sent to audience members to solicit
+				  recommendations for future seasons. Marked with answers by unknown recipient, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript with ms. additions (1
+				  leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">30</container> 
+				
+                  <unittitle>Capen, Grace, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Manuscript (3 leaves)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">31</container> 
+				
+                  <unittitle>Perry, Elizabeth(?), 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Manuscript (1 folded leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">32</container> 
+				
+                  <unittitle>Silverman, Oscar, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Manuscript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">33</container> 
+				
+                  <unittitle>Unidentified correspondent, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Manuscript (1 folded leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">34</container> 
+				
+                  <unittitle>Apthorp, William F. to Frederick Slee, concerning
+				  program notes for Boston Symphony Orchestra concerts, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">October 29, 1896</unitdate>
+				  
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Typescript (1 leaf)</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series5"> V.</unitid> 
+			 
+               <unittitle>Clippings, 
+				<unitdate type="inclusive" normal="1954/1981" era="ce" calendar="gregorian">1954-1981 </unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item 35-41 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Arranged in chronological order.</p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">35</container> 
+				
+                  <unittitle>Obituary for Frederick Caldecott Slee, 
+				  <unitdate era="ce" calendar="gregorian"> 1954</unitdate>
+                  </unittitle> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">36</container> 
+				
+                  <unittitle>Obituary for Frederick Caldecott Slee, 
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+                  </unittitle> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">37</container> 
+				
+                  <unittitle> 
+				  
+                     <title type="journal" linktype="simple">Buffalo Evening News</title> 
+				  
+                     <unitdate era="ce" calendar="gregorian">November 12, 1954</unitdate>
+                  </unittitle> 
+			 
+               </did> 
+			 
+               <scopecontent> 
+				
+                  <p>Report of Slee Bequest to the University of Buffalo (photocopy)
+				  </p> 
+			 
+               </scopecontent> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">38 </container> 
+				
+                  <unittitle> 
+				  
+                     <title type="journal" linktype="simple">Buffalo Evening News</title> 
+				  
+                     <unitdate era="ce" calendar="gregorian">October 1, 1955</unitdate>
+                  </unittitle> 
+			 
+               </did> 
+			 
+               <scopecontent> 
+				
+                  <p>Article about first cycle of Beethoven string quartets performed
+				  by the Budapest Quartet. </p> 
+			 
+               </scopecontent> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3 </container> 
+				
+                  <container type="item">39 </container> 
+				
+                  <unittitle> 
+				  
+                     <title type="journal" linktype="simple">Buffalo Evening News</title> obituary for
+				  Alice Slee (photocopy), 
+				  <unitdate era="ce" calendar="gregorian"> May 21, 1956</unitdate>
+                  </unittitle> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3 </container> 
+				
+                  <container type="item">40 </container> 
+				
+                  <unittitle> 
+				  
+                     <title type="journal" linktype="simple">Buffalo Evening News</title> article by
+				  John Dwyer about Frederick and Alice Slee and the twentieth anniversary of the
+				  Slee Beethoven String Quartet Cycle series, 
+				  <unitdate era="ce" calendar="gregorian">January 24, 1976</unitdate>
+                  </unittitle> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3 </container> 
+				
+                  <container type="item">41 </container> 
+				
+                  <unittitle> 
+				  
+                     <title type="journal" linktype="simple">Buffalo Evening News</title>, article by
+				  John Dwyer about Frederick and Alice Slee and the upcoming twenty-fifth season
+				  of the Slee Beethoven String Quartet Cycle series (photocopy) 
+				  <unitdate era="ce" calendar="gregorian">, July 19, 1981 </unitdate>
+                  </unittitle> 
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series6"> VI.</unitid> 
+			 
+               <unittitle>Slee Bequest Documents, 
+				<unitdate type="inclusive" normal="1952/1981" era="ce" calendar="gregorian">1952-1981 </unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item 42-44 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Arranged in chronological order.</p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">42</container> 
+				
+                  <unittitle>Last Will and Testament of Frederick C. and Alice Slee, 
+				  <unitdate era="ce" calendar="gregorian"> October 1952</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>3 leaves</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">43</container> 
+				
+                  <unittitle>Letter to Alice Slee from Claude E. Puffer, Treasurer of
+				  the University of Buffalo, thanking Mrs. Slee for receipt of funds to cover
+				  expense of concert by the Budapest String Quartet, 
+				  <unitdate era="ce" calendar="gregorian">September 20, 1955</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>1 leaf</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">44</container> 
+				
+                  <unittitle> 
+				  
+                     <title type="article" linktype="simple">The proper usage of the Slee Bequest and
+					 its integration with other departmental resources</title>, written by James
+				  McKinnon, The Music Department, SUNY at Buffalo, 
+				  <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>14 leaves</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series7"> VII.</unitid> 
+			 
+               <unittitle>Programs, 
+				<unitdate type="inclusive" normal="1894/2005" era="ce" calendar="gregorian">1894-2005 </unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item 45-90 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Arranged in seven subseries by location.</p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="subseries"> 
+			 
+               <did> 
+				
+                  <unitid id="series7a">VII. A.</unitid> 
+				
+                  <unittitle>Slee Beethoven Quartet Series, 
+				  <unitdate type="inclusive" normal="1955/2005" datechar="creation" era="ce" calendar="gregorian">1955-2005</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Item 45-48</extent>
+                  </physdesc> 
+			 
+               </did> 
+			 
+               <arrangement> 
+				
+                  <p>Arranged in chronological order.</p> 
+			 
+               </arrangement> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">45</container> 
+				  
+                     <unittitle>Program for performance of Beethoven string quartets
+					 by the Budapest String Quartet, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">February 22, 1955</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>2 leaves (photocopy)</extent>
+                     </physdesc> 
+				  
+                     <note> 
+					 
+                        <p>The concert was performed in memory of Frederick C.
+						Slee.</p> 
+				  
+                     </note> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">46</container> 
+				  
+                     <unittitle>Program for concerts at Samuel P. Capen Hall at the
+					 University of Buffalo of Beethoven string quartets by the Budapest String
+					 Quartet, the first two concerts presented in the continuing Slee Beethoven
+					 String Quartet Cycle series, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">September 23 1955</unitdate> and 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">September 24, 1955</unitdate>.
+					 </unittitle> 
+				  
+                     <physdesc>
+                        <extent>2 leaves (photocopy)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">47</container> 
+				  
+                     <unittitle>Program note booklet for twentieth consecutive playing
+					 of the Slee Beethoven Quartet Cycle, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>7 pages</extent>
+                     </physdesc> 
+				  
+                     <note> 
+					 
+                        <p>With notes written by John Dwyer.</p> 
+				  
+                     </note> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">48</container> 
+				  
+                     <unittitle>Fifty years of Beethoven, 1955-2005. Program booklet
+					 for Slee Beethoven Quartet Cycle, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">2005-2006</unitdate> 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>13 pages</extent>
+                     </physdesc> 
+				  
+                     <note> 
+					 
+                        <p>With notes by Paul Katz.</p> 
+				  
+                     </note> 
+				
+                  </did> 
+			 
+               </c03> 
+		  
+            </c02> 
+		  
+            <c02 level="subseries"> 
+			 
+               <did> 
+				
+                  <unitid id="series7b">VII. B.</unitid> 
+				
+                  <unittitle>Boston, Cambridge, and Northampton, Massachusetts, 
+				  <unitdate type="inclusive" normal="1894/1895" datechar="creation" era="ce" calendar="gregorian">1894-1895</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Item 49-70</extent>
+                  </physdesc> 
+			 
+               </did> 
+			 
+               <arrangement> 
+				
+                  <p>Alphabetically arranged by organization and then
+				  chronologically.</p> 
+			 
+               </arrangement> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">49</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">October 18, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">50</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">October 19, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">51</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">November 2, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">52</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">November 16, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">53</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">January 4, 1895</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">54</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">February 15, 1895</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">55</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">March 8, 1895</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">56</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">April 6, 1895</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">57</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Boston Symphony Orchestra</corpname>, Sanders
+					 Theatre, Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">April 26, 1895</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">58</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Handel and Haydn Society</corpname>, Boston Music
+					 Hall 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">December 18, 1893</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>5 pages</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">59</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Handel and Haydn Society</corpname>, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">April 18, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">60</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Pierian Sodality</corpname> of Harvard University,
+					 Radcliffe College 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">May 10, 1894</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">61</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Harvard Glee Club</corpname>, 
+					 <corpname>Pierian Sodality</corpname>, 
+					 <corpname>Harvard Banjo Club</corpname>, and 
+					 <corpname>Harvard Mandolin Club</corpname>, Sanders Theatre,
+					 Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">May 17, 1894</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 booklet (12 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">62</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Pierian Sodality</corpname> and 
+					 <corpname>Mandolin Club</corpname> of Harvard University,
+					 Assembly Hall, Smith College, Northampton, Massachusetts 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">May 23, 1894</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 folded leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">63</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Pierian Sodality</corpname>, 
+					 <corpname>Harvard Banjo Club</corpname>, and 
+					 <corpname>Harvard Mandolin Club</corpname>, Sanders Theatre,
+					 Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">December 18, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (12 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">64</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Pierian Sodality</corpname>, 
+					 <corpname>Harvard Banjo Club</corpname>, and 
+					 <corpname>Harvard Mandolin Club</corpname>, Sanders Theatre,
+					 Harvard University 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">May 23, 1895</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 booklet (11 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">65</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Metropolitan Opera (New York, N.Y.)</corpname>,
+					 Mechanics Hall Auditorium (Boston, Mass.) 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">February 27, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">66</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Metropolitan Opera (New York, N.Y.)</corpname>,
+					 Mechanics Hall Auditorium (Boston, Mass.) 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">March 2, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">67</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Metropolitan Opera (New York, N.Y.)</corpname> :
+					 Concert program of selections from various operas, Mechanics Hall Auditorium
+					 (Boston, Mass.) 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">March 4, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				  
+                     <note> 
+					 
+                        <p>Performers include Nellie Melba.</p> 
+				  
+                     </note> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">68</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Metropolitan Opera (New York, N.Y.)</corpname>,
+					 Mechanics Hall Auditorium (Boston, Mass.) 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">March 9, 1894</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">69</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>New York Symphony Orchestra</corpname>, Walter
+					 Damrosch, conductor, Boston Theatre 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">April 11-12, 1894? </unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">70</container> 
+				  
+                     <unittitle> 
+					 
+                        <persname>Sherwood, William H., b. 1854</persname>, Boston, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">1895?</unitdate> 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (6 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+		  
+            </c02> 
+		  
+            <c02 level="subseries"> 
+			 
+               <did> 
+				
+                  <unitid id="series7c">VII. C.</unitid> 
+				
+                  <unittitle> 
+				  
+                     <geogname>Buffalo (N.Y.)</geogname>, 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1897-1933</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Item 71-76</extent>
+                  </physdesc> 
+			 
+               </did> 
+			 
+               <arrangement> 
+				
+                  <p>Arranged in chronological order.</p> 
+			 
+               </arrangement> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">71</container> 
+				  
+                     <unittitle>
+					 
+                        <corpname>Buffalo Symphony Orchestra</corpname>, Music Hall
+					 (Buffalo, N.Y.), 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">January 7, 1897</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (16 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">72</container> 
+				  
+                     <unittitle>
+					 
+                        <corpname>Buffalo Symphony Orchestra</corpname>, Music Hall
+					 (Buffalo, N.Y.), 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">February 4, 1897</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (14 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">73</container> 
+				  
+                     <unittitle>
+					 
+                        <corpname>Buffalo Symphony Orchestra</corpname>, Music Hall
+					 (Buffalo, N.Y.), 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">February 3, 1898</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (16 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">74</container> 
+				  
+                     <unittitle>
+					 
+                        <corpname>Buffalo Symphony Orchestra</corpname>, Music Hall
+					 (Buffalo, N.Y.), 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">March 10, 1898</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (16 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">75</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Twentieth Century Club (Buffalo, N.Y.)</corpname>:
+					 Song recital by Mr. and Mrs. Georg Henschel, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">November 26, [1897?]</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (8 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">76</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Twentieth Century Club (Buffalo, N.Y.)</corpname>:
+					 String quartet concert, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">March 24, 1933</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+		  
+            </c02> 
+		  
+            <c02 level="subseries"> 
+			 
+               <did> 
+				
+                  <unitid id="series7d">VII. D.</unitid> 
+				
+                  <unittitle>
+                     <geogname>London (England)</geogname>, 
+				  <unitdate type="inclusive" normal="1924" era="ce" calendar="gregorian">1924</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Item 77-80</extent>
+                  </physdesc> 
+			 
+               </did> 
+			 
+               <arrangement> 
+				
+                  <p>Arranged in chronological order.</p> 
+			 
+               </arrangement> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">77</container> 
+				  
+                     <unittitle>Café Parisien, Hotel Savoy Menu, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">July 4, 1924</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 folded leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">78</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Worshipful Company of Musicians</corpname>,
+					 Stationers Hall 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">July 8, 1924</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">79</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Worshipful Company of Musicians</corpname>,
+					 Stationers Hall, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">July 8, 1924</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 leaf</extent>
+                     </physdesc> 
+				  
+                     <note> 
+					 
+                        <p>Diagram of banquet seating.</p> 
+				  
+                     </note> 
+				
+                  </did> 
+			 
+               </c03> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">80 </container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>Worshipful Company of Musicians</corpname>,
+					 Stationers Hall: Concert program, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">July 8, 1924</unitdate> 
+                     </unittitle>
+				  
+				  
+                     <physdesc>
+                        <extent>1 booklet (5 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+		  
+            </c02> 
+		  
+            <c02 level="subseries"> 
+			 
+               <did> 
+				
+                  <unitid id="series7e">VII. E.</unitid> 
+				
+                  <unittitle> 
+				  
+                     <geogname>New York (N.Y.)</geogname>, 
+				  <unitdate type="inclusive" normal="1910" era="ce" calendar="gregorian">April 11-May
+					 1910</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Item 81</extent>
+                  </physdesc> 
+			 
+               </did> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">81</container> 
+				  
+                     <unittitle> 
+					 
+                        <corpname>New Theatre (New York, N.Y.)</corpname>: Program for
+					 performance of 
+					 <title type="book" linktype="simple">Beethoven</title>, a dramatic biography by
+					 René Fauchois, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">April 11-May 1910</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 folded leaf</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+		  
+            </c02> 
+		  
+            <c02 level="subseries"> 
+			 
+               <did> 
+				
+                  <unitid id="series7f">VII. F.</unitid> 
+				
+                  <unittitle> 
+				  
+                     <geogname>Paris (France)</geogname>, 
+				  <unitdate type="inclusive" normal="1924-05/1925-02" era="ce" calendar="gregorian">May
+					 1924-February 1925</unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Item 82-89</extent>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="subseries"> 
+			 
+               <did> 
+				
+                  <unitid id="series7g">VII. G.</unitid> 
+				
+                  <unittitle>Rome (Italy), 
+				  <unitdate type="inclusive" normal="1924-12-24" era="ce" calendar="gregorian">December 24, 1924
+					 </unitdate>
+                  </unittitle> 
+				
+                  <physdesc>
+                     <extent>Item 90</extent>
+                  </physdesc> 
+			 
+               </did> 
+			 
+               <c03 level="item"> 
+				
+                  <did> 
+				  
+                     <container type="item">3</container> 
+				  
+                     <container type="item">90 </container> 
+				  
+                     <unittitle> 
+					 
+                        <persname>Busch, Adolf, 1891-1952</persname>: 
+					 <corpname>Accademica di Santa Cecilia</corpname>, 
+					 <unitdate type="inclusive" era="ce" calendar="gregorian">December 24, 1924</unitdate>
+					 
+                     </unittitle> 
+				  
+                     <physdesc>
+                        <extent>1 booklet (16 pages)</extent>
+                     </physdesc> 
+				
+                  </did> 
+			 
+               </c03> 
+		  
+            </c02> 
+		
+         </c01> 
+	 
+      </dsc> 
+	 
+      <controlaccess> 
+		
+         <head>Search Terms</head> 
+		
+         <note> 
+		  
+            <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		
+         </note> 
+		
+         <controlaccess encodinganalog="700"> 
+		  
+            <head>Contributors</head> 
+		  
+            <persname source="lcnaf" encodinganalog="700" role="creator">Slee, Alice, 1875-1956</persname> 
+		  
+            <persname encodinganalog="700" role="creator" source="lcnaf"> Slee, Frederick Caldecott, 1870-1954</persname> 
+		  
+            <persname rules="aacr2" role="creator">Simpson, Louis Wright</persname>
+		  
+		
+         </controlaccess> 
+		
+         <controlaccess> 
+		  
+            <head>Subjects</head> 
+		  
+            <subject source="lcsh" encodinganalog="650">Logbooks--1911-1920</subject> 
+		  
+            <famname encodinganalog="600" role="subject" rules="aacr2">Slee family--Photographs</famname> 
+		  
+            <subject source="lcsh" encodinganalog="650"> Yachting--Erie, Lake--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Yachting--Ontario, Lake (N.Y. and Ont.)--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Yachts--New York (State)--Buffalo--Photographs</subject> 
+		  
+            <geogname source="lcsh" encodinganalog="651" role="subject">Buffalo (N.Y.)--Photographs</geogname> 
+		
+         </controlaccess> 
+		
+         <controlaccess> 
+		  
+            <head>Genres</head> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Portraits</genreform> 
+		  
+            <genreform encodinganalog="655" source="aat">Photographs</genreform> 
+		  
+            <genreform encodinganalog="655" source="aat">Logs (records)</genreform>
+		  
+		
+         </controlaccess> 
+	 
+      </controlaccess> 
+	 
+      <descgrp type="add"> 
+		
+         <head>Associated Material</head> 
+		
+         <relatedmaterial encodinganalog="544 1"> 
+		  
+            <head>Related Resources</head> 
+		  
+            <list type="deflist"> 
+			 
+               <defitem> 
+				
+                  <label> 
+				  
+                     <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0012_1.xml " show="new" actuate="onrequest" role="text/html" linktype="simple">Frederick Caldecott Slee
+					 Collection of Manuscript Scores, 1890-1954 </archref>Mus. Arc. 12.1 </label> 
+				
+                  <item>The collection contains scores and parts of original
+				  compositions and arrangements by Frederick Slee . It also includes
+				  transcriptions of works by composers such as J.S. Bach, Mozart, and Haydn, as
+				  well as a lesson for recorder. </item> 
+			 
+               </defitem> 
+		  
+            </list> 
+		
+         </relatedmaterial> 
+	 
+      </descgrp> 
+  
+   </archdesc>
+
+</ead>

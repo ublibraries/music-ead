@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 12.1::Frederick Caldecott Slee Collection of Manuscript Scores)//EN"
+	  encodinganalog="identifier">ubmu0012_1</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Frederick
+			 Caldecott Slee Collection of Manuscript Scores, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1890/1954">1890-1954</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Slee (Frederick
+			 Caldecott) Collection of Manuscript Scores </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by Jason
+			 Imbesi.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2008</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by Jason Imbesi, May 2008.
+		  </creation> 
+		<langusage>Finding aid is in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Frederick Caldecott Slee
+		  Collection of Manuscript Scores, 
+		  <unitdate encodinganalog="245$f" normal="1890/1954" type="inclusive"
+			datechar="creation"> 1890-1954 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 12.1</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Slee,
+			 Frederick Caldecott, 1870-1954 </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">3
+		  boxes</extent><extent encodinganalog="300$a" unit="item"> (77 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> Includes
+		  song texts in <language encodinganalog="041"
+		  langcode="eng">English,</language><language langcode="fre"
+		  encodinganalog="041">French,</language><language encodinganalog="041"
+		  langcode="ger">German,</language>and
+		  <language encodinganalog="041" langcode="dut">Dutch</language>. </langmaterial>
+		
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">The collection contains
+		  scores and parts of original compositions and arrangements by Frederick Slee.
+		  It also includes transcriptions of works by composers such as J.S. Bach,
+		  Mozart, and Haydn, as well as a lesson for recorder.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Frederick Caldecott Slee Collection of Manuscript
+			 Scores, 1890-1954, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Jason Imbesi.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Frederick Caldecott Slee (1870-1954) was a successful corporate lawyer
+		  in Buffalo, N.Y. While at Harvard pursuing his law degree, he also studied
+		  music theory, composition, and performance. He later furthered his music
+		  education by studying under Ernest Schelling and Walter Damrosch in New York
+		  City and Nadia Boulanger at the Sorbonne in Paris. An accomplished musician who
+		  played viola, violin, piano and cello, Slee formed a string quartet that
+		  performed locally in Buffalo. He composed more than three dozen works including
+		  several songs, works for string quartet and other chamber ensembles, a choral
+		  work, a work for solo organ, and an orchestral work.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The Frederick Caldecott Slee Collection of Manuscript Scores,
+		  1890-1954 contains 77 folders of bound and unbound paper manuscript scores and
+		  parts, with many including photostatic reproductions. It also contains
+		  transcriptions of works by Alexander von Fielitz, J.S. Bach, Mozart, and Haydn;
+		  and a lesson for recorder. There are 41 original works and arrangements, 5
+		  transcriptions and 1 recorder lesson represented in the collection.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in two series: 
+		  <ref actuate="onrequest" show="replace" target="series1">I. Original
+			 works and arrangements by Frederick Caldecott Slee</ref>; 
+		  <ref actuate="onrequest" show="replace" target="series2">II.
+			 Transcriptions and recorder lesson</ref> </p> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I</unitid> 
+			 <unittitle>Original works and arrangements by Frederick Caldecott
+				Slee, 
+				<unitdate type="inclusive" normal="1890/1954">1890-1954</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 1-71</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by title of the composition.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">01</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Air and variations, string
+					 quartet</title><lb/> 
+				  <title type="transcribed">Air and variations / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[1927?]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([9] p.) + 4 ms. parts ; 35 cm.
+				  </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Score: holograph in pencil; parts: manuscript in ink with pencil
+				  emendations by composer. Title from caption on score. "Theme varie` (stringed
+				  quartet)"--original envelope. Parts marked "Last" in red pencil. Score is
+				  marked with a cut, an addition on insertion, and tacet markings; it is also
+				  marked with additional sketches on t.p. Major sections of the score are marked
+				  with the following tempo markings: Allegro -- Poco meno mosso -- Andante --
+				  Allegro vivace -- Moderato (marked to be omitted) -- Tempo di valse -- Allegro
+				  scherzando -- Adagio molto. 2nd violin part contain changes on pasted inserts.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">02</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Air and variations, string
+					 quartet</title><lb/> 
+				  <title type="transcribed">Air and variations / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[1927?]</unitdate> </unittitle> 
+				<physdesc><extent>4 ms. parts ; 35 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink with pencil emendations. Caption title. "Theme
+				  varie` (stringed quartet)"--original envelope. "Original"--enclosing piece of
+				  score paper. Major sections of the work are inconsistently marked with the
+				  following tempo markings: Allegro -- (Poco) meno mosso -- Allegretto -- Allegro
+				  -- Moderato -- Allegro scherzando -- Adagio molto. All parts contain changes on
+				  pasted inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">03</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Air and variations, string
+					 quartet</title><lb/> 
+				  <title type="transcribed">Air and variations / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[1927?]</unitdate> </unittitle> 
+				<physdesc><extent>4 ms. parts ; 35 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Title from caption of 1st violin
+				  part. "Theme varie` (stringed quartet)"--original envelope. The 2nd violin part
+				  contains a pencil sketch of an interior section of the work in full score
+				  format on its outer leaves. Major sections of the work are marked with the
+				  following tempo markings: Moderato -- Andante -- Allegro -- Allegro scherzando
+				  -- Adagio. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">04</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Air and variations, string quartet
+					 (Sketches)</title><lb/> 
+				  <title type="transcribed">[Air and variations / Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[1927?]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([6] p.) ; 20-37 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Pencil). Title from cataloger. Score varies from
+				  condensed to full format. Separated into three sheets. Page [1] of score is on
+				  verso of ms. score of one page of Slee's composition, Reminiscence, dated 1927.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">05</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Air varie´ : for cello / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[193-?]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (6 p.) + 1 ms. part ([2] p.) ; 32 cm.
+				  </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). For violoncello and piano. Cover title. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">06</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Air varie´ : for cello / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>1935.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (6 p.) + 1 ms. part ([2] p.) ; 32 cm.
+				  </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). For violoncello and piano. Cover title.
+				  "Revised Nov. 10, 1935"--Cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">07</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Bagatelle, violin, piano</title><lb/> 
+				  <title type="transcribed">Bagatelle / Caldecott.</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) + 1 ms. part ([1] p.) ; 35
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript (Ink). For violin and piano. Caption title. "For
+				  Isabelle"--p. [1]. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">08</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Bravery / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[193-?]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For voice and piano. Caption title.
+				  Setting of Robert Frost's poem, Bravado, from the collection, New Hampshire,
+				  1923. Contains changes marked on original score paper and on pasted inserts.
+				  Contains musical sketches on front and back covers. "Orig to be
+				  changed"--Cover. "Bravery. Bravery Bosh!"--Back cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">09</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Bravery / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[193-?]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 32 cm. + 1 ms. part ([2]
+				  p.) ; 15 x 23 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). For voice and piano. Caption title. Setting of
+				  Robert Frost's poem, Bravado, from the collection, New Hampshire, 1923. Two
+				  photostatic copies of score inserted. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">10</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Chorale, string quartet</title><lb/> 
+				  <title type="transcribed">Chorale / Caldecott.</title> 
+				  <unitdate>1944.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 32 cm. + 4 ms. parts ; 31
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For string quartet. Caption title.
+				  Score marked "Jan 1939" in the caption and "Apr 1944" in the colophon. Contains
+				  revisions in pencil and ink applied directly to manuscript. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">11</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Cocoon / [music by Frederick Caldecott
+					 Slee ; text by] Kathleen Millay.</title> 
+				  <unitdate>[193-?]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. + 1 ms. part (1
+				  leaf) ; 21 x 23 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For voice and piano. Caption title.
+				  Setting of Kathleen Millay's poem, Cocoon, from the collection, The Hermit
+				  Thrush, 1929. Vocal part contains sketches crossed out on back of leaf. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">12</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Cocoon / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[193-?]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). For voice and piano. Caption title. Setting of
+				  Millay's poem, Cocoon, from the collection, The Hermit Thrush, 1929. Two
+				  photostatic copies inserted. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">13</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Dialogue : poem from the Russian ;
+					 music adapted for soprano, mezzo soprano, violin and viola, from Grieg's
+					 orchestral version of a folk-song / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (5 p.) ; 35 cm. + 4 ms. parts ; 21-35
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Complete text in English on
+				  typescript piece of paper attached to verso of mezzo part. "Original Title
+				  "Glamour," song of the Caucasian mountaineers, translated through the Russian
+				  from the original Lesghian by Geo. Kennan."--Mezzo soprano part verso. "Final
+				  viola"--Viola part cover. All parts contain changes on pasted inserts. Violin
+				  and viola parts contain musical sketches crossed out on back covers; soprano
+				  part contains musical sketches crossed out on front and back covers. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">14 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Dialogue : poem from the Russian ;
+					 music adapted for soprano, mezzo soprano, violin and viola, from Grieg's
+					 orchestral version of a folk-song / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([5] p.) ; 35 cm. + 2 ms. parts ; 31
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Score and parts contain changes on
+				  pasted inserts. Includes violin and viola parts only. Viola part contains
+				  another version of the last page for the part. Score contains 2 versions of p.
+				  [4]; the later version attached on top of the original. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">15</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Eclogue / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>2 ms. scores ([3] p.) ; 35 cm. + 2 ms. parts ([1]
+				  leaf) ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For violin and piano. Caption
+				  title. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">16 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Facets : various aspects of the same
+					 theme / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (7 p.) ; 35 cm. </extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For piano trio. Caption title.
+				  Contains changes on pasted inserts. The original ink title in the caption,
+				  Fantasia, is crossed out in pencil. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">17 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Facets : trio for piano, violin and
+					 cello / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([7] p.) ; 33 cm. + 2 ms. parts ; 31
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Cover title. Two photostatic copies
+				  of the score and parts inserted. Cello part contains changes on pasted inserts.
+				  "Facettes: Aspects varie´s d'une melodie-Dictionnaire Musical"--Caption. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">18 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Fantasia, violin</title><lb/> 
+				  <title type="transcribed">Fantasia for violin alone / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>[2] p. of ms. music ; 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">19 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Fête galante. English &amp;
+					 French</title><lb/> 
+				  <title type="transcribed">Fe^te galante = Garden party /
+					 [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Setting of Paul Verlaine's
+				  Mandoline from his Fête galante. "English text and setting by Cal de Cott"--p.
+				  [1] caption, first photostatic copy. Includes 2 photostatic copies of the
+				  score; all 3 scores contain changes on ms. inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">20 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Gavotte, string quartet</title><lb/> 
+				  <title type="transcribed">Gavotte / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 35 cm. + 4 ms. parts ; 32
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Score: holograph in pencil; parts: manuscript in ink with pencil
+				  emendations by composer. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">21 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Gavotte, string quartet
+					 (Sketch)</title><lb/> 
+				  <title type="transcribed">Gavotte / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Pencil). Title supplied by cataloger. Complete sketch
+				  with 1st violin on its own stave and the remainder in piano score format. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">22</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Golden myth / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1940 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Text by Eugene Ginsberg. Contains a revision on
+				  a pasted insert. Includes three photostatic copies of score with brown paper
+				  covers bound separately. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">23 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Gulf stream / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Text by Walter W. Stephen. Cover
+				  includes words of song typewritten as text on a pasted insert. Score contains
+				  revisions in pencil and on a pasted insert. Two photostatic copies of score
+				  inserted. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">24 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Idylls</title><lb/> 
+				  <title type="transcribed">Five idylls : for piano / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>[7] p. of ms. music ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Score contains revisions in pencil
+				  and on a pasted insert in ink. Includes typewritten texts for all five works on
+				  inserts located at the beginning of each work. Loose insert containing the
+				  titles of the collection and the individual works clipped to the cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">25 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Idylls</title><lb/> 
+				  <title type="transcribed">Five idylls : for piano / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>[7] p. of ms. music ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Contains revisions applied directly
+				  on score and on pasted inserts. Contains loose inserts. Includes texts on
+				  inserts either handwritten in ink (1st-4th works) or typewritten (5th work)
+				  that are located at the beginning of each work. "These exercises in
+				  interpretation are printed without indication of tempo and nuances. The pupil
+				  will adopt such as seem to him appropriate to the sentiment of the verses.
+				  (This draft carries the marks of expression which are to be omitted if the
+				  suggestion above is adopted)"--Cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">26 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Last night I stole away alone /
+					 [Frederick Caldecott Slee].</title> 
+				  <unitdate>[1943] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) ; 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Caption title. Text by Celia
+				  Thaxter. "Revised Aug 1943"--Cover. Contains inserts and revisions in pencil
+				  and ink. Loose inserts stored in separate envelope. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">27 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Last night I stole away alone / [text
+					 by] Celia Thaxter ; [music by Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1900 and 1943] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) + 1 ms. part ([2] p.) ; 35
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Text by Celia Thaxter. "1 copy[,] 1
+				  voice part"--Cover. Contains revisions in pencil and ink directly on manuscript
+				  and on inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">28 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Last night I stole away alone;
+					 arr.</title><lb/> 
+				  <title type="transcribed">Last night I stole away alone : for
+					 voice and orchestra / [text by] (Celia Thaxter) ; setting by Slee ;
+					 orchestration by Frederick W. Krafft.</title> 
+				  <unitdate>[between 1900 and 1943] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([12] p.) ; 27 x 35 cm. + 23 ms.
+				  parts ; 31 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. in ink with pencil emendations by the composer. Orig. for
+				  voice and piano. Cover title. Score and parts contain tempo, dynamic, bowing
+				  and other markings in blue pencil. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">29 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Last night I stole away alone / text by
+					 Celia Thaxter ; music by Fred'k Caldecott Slee.</title> 
+				  <unitdate>[between 1900 and 1943] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([5] p.) ; 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink with pencil emendations. Caption title. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">30 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Last night I stole away alone / text by
+					 Celia Thaxter ; music by Fred'k Caldecott Slee.</title> 
+				  <unitdate>[between 1900 and 1943] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([5] p.) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink). Caption title. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">31 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Lay of the fascinating midget /
+					 [Frederick Caldecott Slee].</title> 
+				  <unitdate>[1898] </unitdate> </unittitle> 
+				<physdesc><extent>[2] p. of ms. music ; 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Caption title. Author of text
+				  unknown. "Her Beau August [3], 1898"--Caption. Text set above piano part; no
+				  separate vocal line. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">32 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Litany / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Song for voice and piano. Caption title.
+				  Setting of Robert Cameron Rogers's poem, The Rosary. Two photostatic copies of
+				  score inserted. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">33 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Love ye the Lord : (Psalm XXXI) /
+					 [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1940 and 1947] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) ; 35 cm. + 4 ms. parts ; 31
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Score: holograph in ink and pencil; parts: holograph (Ink). For
+				  SATB and organ. Cover title. Text derived from Psalm 31 of The Bible.
+				  "1948"--Colophon. "To be revised to 1948"--Cover, alto part. Score and parts
+				  contain revisions on pasted inserts. Includes 5 photostatic copies of the
+				  score. Each copy contains numerous ms. inserts to make them agree with the
+				  original. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">34</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Madrigal, voices (2)</title><lb/> 
+				  <title type="transcribed">Madrigal for two voices / [text by]
+					 Austin Dobson ; [music by Frederick Caldecott Slee].</title> 
+				  <unitdate>1941. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Duet for unaccompanied voices
+				  (bass-baritone and mezzo-soprano). Caption title. Additional title in caption,
+				  Phillis, crossed out in pencil. "Sept. 1941"--Colophon. Contains revisions in
+				  pencil. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">35 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Madrigal, voices (2)</title><lb/> 
+				  <title type="transcribed">Madrigal for two voices / [text by]
+					 Austin Dobson ; [music by Frederick Caldecott Slee].</title> 
+				  <unitdate>[1941?] </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. scores ([2] p. each) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Duet for unaccompanied voices
+				  (bass-baritone and mezzo-soprano). Caption title. Contains revisions in pencil.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">36 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Metaphor / [text] after Shakespeare ;
+					 [music by Frederick Caldecott Slee].</title> 
+				  <unitdate>[1944] </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. scores ([2] p. each) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Text from Shakespeare's Love's
+				  labour's lost: Spring (When daisies pied and violets blue), 2nd verse. "Aug.
+				  1944"--Cover of both copies, colophon of one copy; "Aug. 1942"--colophon, other
+				  copy. Contains revisions in pencil applied directly to manuscript and in ink on
+				  pasted inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">37 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Monody / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1934 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Caption title. Text by Jose´
+				  Garci´a Villa (stated as Jose´ Villa Garci´a in colophon). Contains words of
+				  the song typewritten as text on a pasted insert. Contains revisions in pencil
+				  applied directly to manuscript and in ink on pasted inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">38 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Monody / Cal de Cott.</title> 
+				  <unitdate>[between 1934 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>4 scores ([2] p.) ; 31 cm. + 3 parts (1 leaf) ;
+				  28 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Caption title. Text by Jose´ Garci´a Villa (stated as Jose´
+				  Villa Garci´a on scores). "Monody for baryton"--Cover, one copy of score. All
+				  copies of the score contain words of the song typewritten as text on a pasted
+				  ms. insert. All parts contain revisions on ms. inserts. All parts contain words
+				  of song typewritten as text at the end of the music. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">39 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Music, tenor, string quartet</title><lb/> 
+				  <title type="transcribed">Music for tenor voice and strings /
+					 poem by Eichendorff ; [music by Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([7] p.) ; 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Cover title. "Thine image pure and
+				  smiling, song, tenor &amp; string quartet"--Enclosing wrapper. "First
+				  draft"--Cover. Incomplete ink score of first 9 measures inserted. Contains
+				  revisions in pencil applied directly to manuscript and in pencil and ink on
+				  pasted inserts. Loose inserts enclosed in envelope. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">40</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Music, tenor, string quartet. English &amp;
+					 German</title><lb/> 
+				  <title type="transcribed">Dein Bildniss wunderselig : for tenor
+					 voice, 2 vln, viola, cello / of a poem by Eichendorff ; [music by Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([6] p.) ; 35 cm. + 6 ms. parts ; 35
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Score and parts include text in
+				  German and English on typewritten inserts. Two slightly different copies of
+				  tenor part included; one copy with caption title: Music for tenor voice, 2
+				  violins, viola + cello, poem by Eichendorff; other copy with caption title:
+				  Music for tenor voice and strings on insert over original title, Quintet for
+				  tenor voice, 2 Vlns, Vla, Cello. Score and one copy of tenor part contain
+				  revisions in ink applied directly to manuscript and on pasted inserts. Loose
+				  inserts from score and parts enclosed in envelope. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">41 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Music, tenor, string quartet. English &amp;
+					 German</title><lb/> 
+				  <title type="transcribed">Music for tenor voice and strings /
+					 based on a poem by Eichendorff ; [music by Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>5 ms. parts ; 31 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Title from caption of 1st violin
+				  part. "Quintet for Tenor Voice, 2 vlns, vla, + Cello (Verses by
+				  Eichendorff)"--Cover, tenor part. "Thy image"--Tenor part caption title. Tenor
+				  part contains revisions in pencil, red pencil and ink applied directly to
+				  manuscipt and on a pasted insert. First violin part marked with a cut and
+				  includes text in German and English typewritten on pasted inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">42 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Navarro's danse espagnole / Fred'k
+					 Slee.</title> 
+				  <unitdate>[1895] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([10] p.) ; 27 x 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in pencil and red ink. For flute, oboe, clarinet,
+				  bassoon, 2 cornets, trombone, horn, castanets (or bones), 2 violins, viola, and
+				  bass. Caption title. Separated into three sheets. Contains a cut and revisions.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">43</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Pienso en ti</title><lb/> 
+				  <title>Two Spanish dances by Navarro : (B) "Pienso en ti" /
+					 arranged by Frederick Slee.</title> 
+				  <unitdate>[1895]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) ; 18 x 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Pencil). For flute, oboe, clarinet, bassoon, horn, 2
+				  violins, viola, cello and bass. Caption title. Score incomplete. Originally
+				  included in folder containing Navarro's danse espagnole. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">44 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Navarro's danse espagnole</title><lb/> 
+				  <title type="transcribed">Navaro's [i.e. Navarro's] danse
+					 espagnole / Slee.</title> 
+				  <unitdate>[1895] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 27 x 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For flute, clarinet, cornet,
+				  trombone, percussion, 2 violins, viola, cello and bass. Caption title. Score
+				  incomplete. Separated into two sheets. Contains revisions. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">45 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Navarro's danse espagnole /
+					 Slee.</title> 
+				  <unitdate>[1895] </unitdate> </unittitle> 
+				<physdesc><extent>9 ms. parts ; 18-36 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil, except viola part: Ms. (Ink) with
+				  pencil emendations by the composer. For flute, oboe, horn, 2 violins, viola,
+				  and violoncello. Caption title. Includes one additional copy of 1st and 2nd
+				  violin parts. All parts contain revisions applied directly to manuscript; oboe
+				  part also contains revisions on pasted inserts. Verso of one copy of 1st violin
+				  part contains sketches. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">46 </container> 
+				<unittitle> 
+				  <persname role="composer">Ravel, Maurice, 1875-1937</persname> 
+				  <title type="uniform">Chants populaire.Chanson franc¸aise;
+					 arr.</title><lb/> 
+				  <title type="transcribed">The night light : Limousin folk-song /
+					 harmonised by Ravel ; adapted by Cal de Cott.</title> 
+				  <unitdate>[between 1910 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. + 1 ms. vocal part
+				  (1 leaf) ; 23 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Caption title. Text by Robert Frost. Cover
+				  contains words of the song typewritten as text on a pasted insert. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">47 </container> 
+				<unittitle> 
+				  <persname role="composer">Ravel, Maurice, 1875-1937</persname> 
+				  <title type="uniform">Chants populaires.Chanson franc¸aise;
+					 arr.</title><lb/> 
+				  <title type="transcribed">The night light : Limousin folk-song /
+					 harmonised by Ravel ; adapted by Cal de Cott.</title> 
+				  <unitdate>[between 1910 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (1 leaf) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Caption title. Text by Robert
+				  Frost. Contains a revision and words of the song typewritten as text on pasted
+				  inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">48</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Pastoral / [text by] Franc¸ois Coppe´e
+					 ; [music by Frederick Caldecott Slee].</title> 
+				  <unitdate>[betweeen 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 30 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Cover title. "To Chaminade"--Cover, one
+				  photostatic copy. Cover of all copies of score contain words of song
+				  typewritten as text on a pasted insert. All copies of score contain revisions
+				  on pasted manuscript inserts. "Ritournelle"--Title visible on cover beneath the
+				  pasted insert with song text ; Ritournelle is the title of the song by
+				  Chaminade based on the same text. Two photostatic copies of score inserted.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">49 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Pastoral</title><lb/> 
+				  <title type="transcribed">Ritournelle / [text by Franc¸ois
+					 Coppe´e ; music by Frederick Caldecott Slee].</title> 
+				  <unitdate>[betweeen 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 26 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Caption title. Work later revised and title changed to
+				  "Pastoral". </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">50</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title>Phantoms / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Song for voice and piano. Caption
+				  title. Author of text unknown. Two photostatic copies of score inserted. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">51 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Phantoms / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Score consists of a photostatic copy for p. [1] and ink ms. for
+				  p. [2]. Song for voice and piano. Caption title. Author of text unknown.
+				  Includes one photostatic copy of this revised score. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">52</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Trio, piano, strings, A major</title><lb/> 
+				  <title>Piano trio in A / [Frederick Caldecott Slee].</title> 
+				  <unitdate>1939.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) ; 35 cm. + 2 ms. parts ; 31
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Cover title. "Nov. 1939"--Cover.
+				  "6/39"--p. [4], score. Cello part contains a revision on a pasted insert. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">53</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title>Poet / [Frederick Caldecott Slee].</title> 
+				  <unitdate>1949.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Caption title. Text by Gustav
+				  Davidson. "Revised April 1949"--Cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">54</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Prelude and fugue, string
+					 quartet</title><lb/> 
+				  <title>Prelude and fugue / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (24 p.) ; 36 cm.+ 4 ms. parts ; 33
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink) with emendations by composer in pencil and ink.
+				  Caption title. Violin and viola parts are marked with additions on insertions
+				  and all parts contain tacet markings. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">55</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Quartet, strings, C major</title><lb/> 
+				  <title>Quartette in C / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (41 [i.e. 37] p.) ; 35 cm. + 4 ms.
+				  parts ; 32-34 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink) with emendations by composer in pencil and ink. Spine
+				  title. Score and parts contain revisions on pasted inserts. The parts and first
+				  two pages of the score are in one hand, the rest of the score is in another
+				  hand. "Revised Aug"--p. [1], score. Second movement excised from 2nd violin,
+				  viola, and violoncello parts. Second movement in score re-written to include
+				  additional vocal line with setting of text "Thy image pure and smiling," an
+				  English translation of the poem by J. Eichendorff, Dein bildness wunderselig;
+				  two pages of the movement within the score (p. 19-20) have been excised. Second
+				  movement later treated as a separate work by the composer, Music for tenor
+				  voice and strings. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">56 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Reminiscence : organ / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. scores ([3] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Cover title. Positive copy includes title, Adagio from Suite in
+				  F, on pasted insert. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">57 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Reminiscence; arr.</title><lb/> 
+				  <title type="transcribed">Reminiscence / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 34 cm. + 1 ms. part (1
+				  leaf) ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Originally for organ; arr. for violin and
+				  piano. Caption title. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">58</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Romance, piano, violin, G
+					 major</title><lb/> 
+				  <title type="transcribed">Romance in G : piano &amp; violin /
+					 [Frederick Caldecott Slee].</title> 
+				  <unitdate>1943.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 34 cm. + 1 ms. part (1
+				  leaf) ; 35 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Cover title. "May 1943"--Colophon.
+				  "First draft" [i.e. second draft]--Cover. Score and violin part contain
+				  revisions applied directly to manuscript and on pasted inserts. Score contains
+				  a performance instruction from composer in pencil on p. [2]: "Homer: To be
+				  played with left hand so right can turn". </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">59</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Romance, piano, violin, G
+					 major</title><lb/> 
+				  <title type="transcribed">Romance in G : violin &amp; piano /
+					 [Frederick Caldecott Slee].</title> 
+				  <unitdate>1940.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 34 cm. + 1 ms. part (1
+				  leaf) ; 31 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Cover title. "Jan 1940"--Colophon.
+				  "Second draft" [i.e. first draft]--Cover. Score contains a revision on a pasted
+				  insert. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">60 </container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Romance, piano, violin, G
+					 major</title><lb/> 
+				  <title type="transcribed">Romance in G : for violin and piano /
+					 [Frederick Caldecott Slee].</title> 
+				  <unitdate>1946. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 35 cm. + 1 ms. part ([2]
+				  p.) ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink). Cover title. "July 1946"--Cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">61</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Sarabande, string quartet</title><lb/> 
+				  <title type="transcribed">Sarabande / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>1943.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) ; 32 cm. + 4 ms. parts ;
+				  29-31 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. in ink with pencil emendations by the composer. For string
+				  quartet. Caption title. Score and parts contain numerous revisions applied
+				  directly to manuscript and on pasted inserts. Loose inserts in envelope. "Nov.
+				  1943"--Colophon. "April 1941[,] Dec. 1943"--Viola part. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">62.</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Sarabande, string quartet</title><lb/> 
+				  <title type="transcribed">Sarabande / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>1944.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([4] p.) ; 33 cm. + 4 ms. parts ;
+				  29-31 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. Caption title. Score and parts
+				  contain revisions applied directly to manuscript and on pasted inserts. "Feb.
+				  1944"--Cover, score. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">63</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Scherzo, string quartet</title><lb/> 
+				  <title type="transcribed">Scherzo / [Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([1] p. of music, [11] p.) ; 25 cm. +
+				  4 ms. parts ; 28-35 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Pencil). For string quartet. Caption title. Contains
+				  additional sketches on p. [1] verso. Viola part marked with a cut and a tacet
+				  marking. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">64</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title>The sea / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Pencil). Song for voice and piano. Cover title. The
+				  poem, setting of Triolet, by Theodore Gianakoulis. Music based on Larghetto
+				  movement from C. Franck's String Quartet in D major. Newsprint copy of song
+				  text pasted in caption. Contains a revision on a pasted insert. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">65</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">The sea / Franck-Slee.</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Song for voice and piano. Caption title. The
+				  poem, setting of Triolet, by Theodore Gianakoulis. Music based on Larghetto
+				  movement from C. Franck's String Quartet in D major. Two photostatic copies of
+				  score inserted. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">66</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Sun of the sleepless / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[betweeen 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Caption title. Text by Lord Byron. Cover
+				  contains words of song typewritten as text on a pasted insert. Scores contain a
+				  revision on a manuscript insert. Two photostatic copies of score inserted. </p>
+				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">67</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Variations on a hymn tune / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 37 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For solo viola. Caption title.
+				  Contains numerous revisions applied directly to manuscript and on pasted
+				  inserts. Contains additional sketches on front and back cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">68</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> <lb/> 
+				  <title type="transcribed">Variations on a hymn tune / [Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([3] p.) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink and pencil. For solo viola. Cover title. Score
+				  is marked with cuts and contains numerous revisions applied directly to
+				  manuscript and on pasted inserts. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">69</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="uniform">Variations on a hymn tune</title><lb/> 
+				  <title type="transcribed">Variations for viola solo on a hymn
+					 tune / [Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 31 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Cover title. Contains minor revisions in ink.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">70</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">Variations on an old Dutch melody:
+					 (1626) / [Frederick Caldecott Slee].</title> 
+				  <unitdate>1943.</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([7] p.) ; 35 cm. + 4 ms. parts ; 34
+				  cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink) with emendations by the composer in pencil and ink.
+				  For string quartet. Caption title. "Sept 1943"--Cover. "Adrianas Valerius
+				  Published in 1626, at Harlem. 'Nederlandtsche Gedenckclanck.' It is not known
+				  how many, if any, of the tunes he printed were composed by Valerius. At least
+				  some of them - there were nineteen in all - were folk tunes. The copies
+				  herewith are photographs from the original book furnished by the Library of
+				  Congress"--Inside cover, typewritten on pasted insert. Tune popularly known as:
+				  We gather together to ask the Lord's blessing. Score and parts contain
+				  revisions applied directly to manuscript and on pasted inserts. Includes a
+				  negative photostatic copy of Valerius' work as published in his Neder-Landtsche
+				  gedenck-clanck on a loose insert. Loose inserts in envelope. An alternative to
+				  the sixth variation in the composer's hand is included on a separate sheet of
+				  manuscript paper placed with the score; the verso contains an ink version of a
+				  viola part to another Slee work, Reminiscence. Typewritten English translation
+				  of text pasted inside back cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">71</container> 
+				<unittitle> 
+				  <persname role="composer">Slee, Frederick Caldecott,
+					 1870-1954</persname> 
+				  <title type="transcribed">[Untitled musical sketch / Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>[2] p. of ms. music ; 25 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Title provided by cataloger. Sketches in piano
+				  format, intended instrumentation unknown. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Transcriptions and recorder lesson, 
+				<unitdate type="inclusive" normal="1890/1954">1890-1954</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 72-77</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by name of the original composer.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">72 </container> 
+				<unittitle> 
+				  <persname role="composer">Bach, Johann Sebastian,
+					 1685-1750</persname> 
+				  <title type="uniform">Sonaten und Partiten, violin, BWV
+					 1001-1006.Sonata, no. 3.Largo.</title><lb/> 
+				  <title type="transcribed">Largo : de la 5'' sonate pour violin
+					 seul / J.S. Bach ; trans. par Gaston Choisnel [and Frederick Caldecott
+					 Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. part ([2] p.) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>First half of transcription (Choisnel): Holograph (Ink) with
+				  dynamic markings in pencil by Slee; Second half of transcription (Slee):
+				  Holograph (Pencil). Caption title. Transcription by Choisnel and Slee of the
+				  Largo movement from Johann Sebastian Bach's third sonata for solo violin, BWV
+				  1005. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">73</container> 
+				<unittitle> 
+				  <persname role="composer">Fielitz, Alexander von,
+					 1860-1930</persname> 
+				  <title type="uniform">Lieder, op. 26.Auf dunklen Wogen weil' ich
+					 allein</title><lb/> 
+				  <title type="transcribed">Six songs by Alexander von Fielitz, op.
+					 26 : 6 "Auf dunklen Wogen weil 'ich allein" / [transcribed by Frederick
+					 Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([2] p.) ; 34 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). Cover title. Includes English translation of
+				  text on cover. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">74 </container> 
+				<unittitle> 
+				  <persname role="composer">Haydn, Joseph, 1732-1809</persname> 
+				  <title type="uniform">Trios, piano, strings, H. XV, 28, E
+					 major</title><lb/> 
+				  <title type="uniform">J. Haydn trio #4 / [music by Joseph Hadyn ;
+					 transcribed by Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. part ([7] p.) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in pencil and ink. Caption title. Transcription by
+				  Slee of violin part from Haydn's piano trio, H. XV, 28. Contains various
+				  performance instructions and markings. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">75 </container> 
+				<unittitle> 
+				  <persname role="composer">Haydn, Joseph, 1732-1809</persname> 
+				  <title type="uniform">Trios, piano, strings, H. XV, 24, D
+					 major</title><lb/> 
+				  <title type="transcribed">J. Haydn trio #6 / [music by] J. Haydn
+					 ; [transcribed by Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. part ([4] p.) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in pencil and ink. Caption title. Transcription by
+				  Slee of violin part from Haydn's piano trio, H. XV, 24. Contains various
+				  performance instructions and markings. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">76 </container> 
+				<unittitle> 
+				  <persname role="composer">Mozart, Wolfgang Amadeus,
+					 1756-1791</persname> 
+				  <title type="uniform">Trios, piano, strings, K. 502, B?
+					 major</title><lb/> 
+				  <title type="transcribed">Mozart trio #2 / [music by Wolfgang
+					 Amadeus Mozart ; transcribed by Frederick Caldecott Slee].</title> 
+				  <unitdate>[between 1890 and 1954] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. part ([9] p.) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in pencil and ink. Caption title. Transcription by
+				  Slee of violin part from Mozart's piano trio, K. 502. Contains various
+				  performance instructions and markings. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">77</container> 
+				<unittitle> 
+				  <title type="transcribed">Recorder lesson.</title> 
+				  <unitdate>[between 1890 and 1954]</unitdate> </unittitle> 
+				<physdesc><extent>[3] p. of ms. music ; 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink). Title provided by cataloger. Not in Slee's hand; included with his manuscript collection. Contains recorder care and performance instructions, a short list of recommended repertoire for the instrument, and six tunes for practice. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this collection in the Library's online catalog:</p> 
+		</note> 
+				<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Music--Manuscripts</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Manuscripts</genreform> 
+		  <genreform source="aat" encodinganalog="655">Scores</genreform> 
+		  <genreform source="aat" encodinganalog="655">Holographs</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<otherfindaid encodinganalog="555"> 
+		  <head>Additional Guides</head> 
+		  <p>All scores in the collection are cataloged in WorldCat and are
+			 available in 
+			 <extref href="http://bison.buffalo.edu:8991/F" show="new"
+			  actuate="onrequest" role="text/html">BISON</extref>, the online catalog for the
+			 University at Buffalo Libraries, by performing a "Title begins with" search
+			 under "Frederick Caldecott Slee Collection of Manuscript Scores".</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0012_2.xml"
+					  show="new" actuate="onrequest" role="text/html"> Slee Family Collection,
+						1893-1981, </archref> Mus. Arc. 12.2</label> 
+				  <item>Documents pertaining to the lives of Frederick Caldecott
+					 Slee and his wife, Alice, including music-related writings by Frederick Slee,
+					 correspondence, clippings about the Slees, documents concerning the Slee
+					 Bequest to the University of Buffalo, and concert programs. The collection
+					 contains eighteen photographs of friends and family. Includes a typewritten
+					 daily log of a sailing trip taken in 1914, by Frederick C. Slee and his
+					 friends, George T. Moseley and Louis Wright Simpson.</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc> 
+</ead> 

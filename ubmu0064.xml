@@ -1,0 +1,2423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 64::Mischa Schneider Collection of Test Pressing Recordings)//EN">ubmu0064</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Mischa
+			 Schneider Collection of Test Pressing Recordings, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1940/1980" certainty="approximate"> circa
+				1940-1980</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Schneider (Mischa)
+			 Collection of Test Pressing Recordings</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2013</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, June 2013.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Mischa Schneider
+		  Collection of Test Pressing Recordings, 
+		  <unitdate encodinganalog="245$f" normal="1940/1980" type="inclusive"
+			datechar="creation" certainty="approximate"> circa
+			 1940-1980</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 64</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">
+			 Schneider, Mischa, 1903-1985 </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+		  boxes</extent> (<extent unit="sound recording" encodinganalog="300$a">51
+		  12-inch sound recordings</extent>,
+		  <extent unit="linear foot" encodinganalog="300$a">1 linear foot</extent>,
+		  <extent unit="folder" encodinganalog="300$a">1 folder</extent>)</physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> Printed
+		  material in collection in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The Mischa Schneider
+		  Collection of Test Pressing Recordings contains fifty-one sound recordings on
+		  12-inch discs. The content includes eighteen recordings of performances by the
+		  Budapest String Quartet and twelve recordings issued by the Marlboro Recording
+		  Society.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Mischa Schneider Collection of Test Pressing
+			 Recordings, circa 1940-1980, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of the estate of Mischa Schneider.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2013.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Mischa Schneider (Mojzesz Sznejder) was born in Vilnius, Lithuania
+		  February 5 1904 (stated as 1903 in some sources and in the authorized form of
+		  his name). He studied cello with Julius Klengel in Leipzig and in Paris with
+		  Diran Alexanian. In 1930 he became the cellist with the Budapest Quartet. The
+		  group was established around 1917 by the original members, Emil Hauser, Imre
+		  Poganyi, Istvan Ipolyi and Harry Son. Mischa was joined in the quartet by his
+		  brother Alexander in 1932. Eventually the personnel of the group stabilized as
+		  Josef Roisman, first violin, Alexander Schneider, 2nd violin, Boris Kroyt,
+		  viola, and Mischa Schneider, cello. Mischa Schneider's last performance with
+		  the quartet was in 1965. He continued teaching but never performed again. He
+		  died in Buffalo, New York October 3 1985.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The Mischa Schneider Collection of Test Pressing Recordings contains
+		  fifty-one sound recordings on 12-inch discs. The content includes eighteen
+		  recordings of performances by the Budapest String Quartet and twelve recordings
+		  issued by the Marlboro Recording Society. Some of the test pressings bear dates
+		  but it is not clear if the dates indicate date of the pressing or date of the
+		  recording. All recordings have been marked as undated in the container list.
+		  The collection was one component of a larger collection of recordings donated
+		  to the library by the family of Mischa Schneider. It is unclear how the test
+		  pressings were identified and separated from the original gift. Some of the
+		  recordings seem to be commercial releases rather than true test pressings.
+		  These have been left in the collection until further research demonstrates
+		  whether or not they are actually test pressings.</p> 
+		<p>Some of the Columbia recordings include annotations on the labels or
+		  sleeves that state the name of the engineer for the recording, including Thomas
+		  Shepard, Thomas Frost, and Sam Carter. The commercial releases associated with
+		  the test pressings have been identified where possible. In some cases it is not
+		  clear from the information provided which performance or recording date is
+		  represented on a disc. In at least one case no commercial recording of a work
+		  by the Budapest String Quartet has been identified. </p> 
+		<p>The collection also includes a portion of a recorded interview between
+		  Dr. Luther Evans (the tenth Librarian of Congress, 1945-1953) and Mischa
+		  Schneider. The interview contains comments about the association between the
+		  Budapest String Quartet and the Library of Congress. It was broadcast April 13
+		  1950 on WQQW-FM. One additional folder contains the only non-audio content,
+		  four scripts for the radio program Music in the Air. The program featured
+		  Columbia Records recordings and the scripts include mention of some of the
+		  recordings in the collection.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in four series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				Recordings issued by Columbia Records, including CBS, Sony, and Odyssey</ref>
+			 </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				Recordings issued by Marlboro Recording Society</ref> </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				Recordings issued by other labels and an unpublished recording</ref> </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV. Music in
+				the Air scripts</ref> </item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="subseries"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Recordings issued by Columbia Records, including CBS,
+				Sony, and Odyssey, 
+				<unitdate type="inclusive" normal="1940/1979">circa 1940-1979
+				  </unitdate> </unittitle> 
+			 <physdesc> <extent>Item 1-29</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in two series:</p> 
+			 <p> 
+				<list> 
+				  <item> 
+					 <ref show="replace" target="series1a" actuate="onrequest"
+					 role="text">I.A. Recordings of the Budapest String Quartet</ref> </item> 
+				  <item> 
+					 <ref show="replace" target="series1b" actuate="onrequest"
+					 role="text">I.B. Recordings of other performers</ref> </item> 
+				</list> </p> 
+		  </arrangement> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series1a">I.A.</unitid> 
+				<unittitle>Recordings of the Budapest String Quartet, 
+				  <unitdate normal="1940/1965"
+				  type="inclusive">1940-1965</unitdate></unittitle> 
+				<physdesc> <extent>Item 1-18</extent> </physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by first named composer on the
+				  recording.</p> 
+			 </arrangement> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">01</container> 
+				  <unittitle> Mischa Schneider Collection Disc 01, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 5008, 1956?</p> 
+					 <p>Side 1 matrix: None; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: May 1955</p> 
+					 <p>Label: "AL 35982"</p> 
+					 <p>"Columbia Recording Studios Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 01_01</head> 
+					 <item> 
+						<persname source="lcnaf">Mozart, Wolfgang Amadeus,
+						  1756-1791</persname> </item> 
+					 <item> 
+						<title type="uniform">Quartets, strings, K. 590, F
+						  major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Qt no. 23 in F major</title> </item> 
+					 <item>Performers: Budapest String Quartet</item> 
+				  </list> 
+				  <list> 
+					 <head>Work number: 01_02</head> 
+					 <item> 
+						<persname source="lcnaf">Beethoven, Ludwig van,
+						  1770-1827</persname> </item> 
+					 <item> 
+						<title type="uniform">Quartets, strings, no. 2, op. 18, no.
+						  2, G major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Qt no. 2 in G major</title> </item> 
+					 <item>Performers: Budapest String Quartet</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">02</container> 
+				  <unittitle> Mischa Schneider Collection Disc 02, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 5394/MS 6075, 1959</p> 
+					 <p>Side 1 matrix: None; Side 2 matrix: None</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: November 1958</p> 
+					 <p>Label: "AL 35983"; Sleeve: "Sam Carter"</p> 
+					 <p>"Columbia Recording Studios Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 02_01</head> 
+					 <item> 
+						<persname source="lcnaf">Beethoven, Ludwig van,
+						  1770-1827</persname> </item> 
+					 <item> 
+						<title type="uniform">Quartets, strings, no. 3, op. 18, no.
+						  3, D major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Qt no. 3 D major</title> </item> 
+					 <item>Performers: Budapest String Quartet</item> 
+				  </list> 
+				  <list> 
+					 <head>Work number: 02_02</head> 
+					 <item> 
+						<persname source="lcnaf">Beethoven, Ludwig van,
+						  1770-1827</persname> </item> 
+					 <item> 
+						<title type="uniform">Quartets, strings, no. 10, op. 74, E♭
+						  major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Qt. #10 in E flat major</title>
+						</item> 
+					 <item>Performers: Budapest String Quartet</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">03</container> 
+				  <unittitle> Mischa Schneider Collection Disc 03, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 5873/MS 6473, 1963</p> 
+					 <p>Side 1 matrix: None; Side 2 matrix: None</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: Jan. 1962</p> 
+					 <p>Label: "Job 65017 Side I"; Sleeve: "Tom Shepard; Beethoven
+						quartet #1 op. 16"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 03_01</head> 
+					 <item> 
+						<persname source="lcnaf">Schubert. Franz,
+						  1797-1828</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, piano, violin, viola, cello,
+						  double bass, D. 667, A major. Movement 5</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Trout last mvt.</title> </item> 
+					 <item>Performers: Budapest String Quartet; Mieczyslaw
+						Horszowski, piano; Julius Levine, bass</item> 
+				  </list> 
+				  <list> 
+					 <head>Work number: 03_02</head> 
+					 <item> 
+						<persname source="lcnaf">Beethoven, Ludwig van,
+						  1770-1827</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, piano, oboe, clarinet, horn,
+						  bassoon, op. 16, E♭ major; arranged</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Quartet</title> </item> 
+					 <item>Performers: Mieczyslaw Horszowski, piano; Joseph Roisman,
+						violin; Boris Kroyt, viola; Mischa Schneider, cello</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">04</container> 
+				  <unittitle> Mischa Schneider Collection Disc 04, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: CBS/Sony: SOCU-45, 1975</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: November 1959</p> 
+					 <p>Label: "AL 33309; BL33309"; "4/1/75"; Sleeve: "Tom
+						Frost/MW"</p> 
+					 <p>"Columbia Recording Studios Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 04_01</head> 
+					 <item> 
+						<persname source="lcnaf">Beethoven, Ludwig van,
+						  1770-1827</persname> </item> 
+					 <item> 
+						<title type="uniform">Septet, clarinet, bassoon, horn,
+						  violin, viola, cello, double bass, op. 20, E♭ major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Septet Eb Major</title> </item> 
+					 <item>Performers: Budapest String Quartet (without Alexander
+						Schneider); Julian Levine, double bass; David Oppenheim, clarinet; Eli Carmen,
+						bassoon; John Barrows, horn</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">05</container> 
+				  <unittitle> Mischa Schneider Collection Disc 05, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 6031/MS 6631, 1964</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Transco</p> 
+					 <p>Date of recording: September 1963</p> 
+					 <p>On blank side: "Transco 10 363"; Sleeve: "Job 77086 Side 1";
+						"Ref. Tom Shepard";</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 05_01</head> 
+					 <item> 
+						<persname source="lcnaf">Brahms, Johannes,
+						  1833-1897</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, piano, strings, op. 34, F
+						  minor. Movement 1-2</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Piano quintet (from sleeve)</title>
+						</item> 
+					 <item>Performers: Rudolf Serkin, piano; Budapest String
+						Quartet</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">06</container> 
+				  <unittitle> Mischa Schneider Collection Disc 06, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: [Columbia]: Unknown, Unknown</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Label: "Job 108134"; [Side 1] "23/46"; [Side 2] "14/38
+						"Mono"</p> 
+					 <p>"Columbia Recording Studios Reference Recording". A
+						published form of this recording has not been identified. It could be one of
+						seven known recordings made at the Library of Congress. Of those, the October 6
+						1960 performance with Walter Trampler, viola, and Gregor Piatigorsky, cello, is
+						possible.</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 06_01</head> 
+					 <item> 
+						<persname source="lcnaf">Brahms, Johannes,
+						  1833-1897</persname> </item> 
+					 <item> 
+						<title type="uniform">Sextets, violins, violas, cellos, no.
+						  1, op. 18, B♭major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">String sextet</title> </item> 
+					 <item>Performers: Budapest String Quartet (assumed) with
+						unidentified extra viola and cello players</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">07</container> 
+				  <unittitle> Mischa Schneider Collection Disc 07, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 6211 (or ML 5143 if the 1955
+						recording), 1956</p> 
+					 <p>Side 1 matrix: XYSM 111542-2; Side 2 matrix: none</p> 
+					 <p>Pressing company: Transco?</p> 
+					 <p>Date of recording: November 1964</p> 
+					 <p>Original sleeve: Transco, Linden, NJ</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 07_01</head> 
+					 <item> 
+						<persname source="lcnaf">Dvořák, Antonín,
+						  1841-1904</persname> </item> 
+					 <item> 
+						<title type="uniform">Quartet, strings, B. 179, F
+						  major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Qt. in F major</title> </item> 
+					 <item>Performers: Budapest String Quartet</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">08</container> 
+				  <unittitle> Mischa Schneider Collection Disc 08, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia/Odyssey: Y 33315, 1975</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: December 1956</p> 
+					 <p>Label: "MAL 33315"; "Curzon"; Sleeve: "Frost"</p> 
+					 <p>"Columbia Recording Studios Reference Recording". Note:
+						pianist identified as Jesús María Sanromá on Odyssey release.</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 08_01</head> 
+					 <item> 
+						<persname source="lcnaf">Franck, César, 1822-1890</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Quintets, piano, strings, op. 45, D
+						  major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Piano 5</title> </item> 
+					 <item>Performers: Clifford Curzon, piano; Budapest String
+						Quartet</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">09</container> 
+				  <unittitle> Mischa Schneider Collection Disc 09, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: CBS/Sony: SOCU-46, 1975</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: December 1961</p> 
+					 <p>Label: "AL 33308"; "Mono"; "4/1/75". Sleeve: "Tom Frost"</p>
+					 
+					 <p>"Columbia Recording Studios Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 09_01</head> 
+					 <item> 
+						<persname source="lcnaf">Mendelssohn-Bartholdy, Felix,
+						  1809-1847</persname> </item> 
+					 <item> 
+						<title type="uniform">Octet, violins (4), violas,
+						  violoncellos, op. 20, E♭ major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Octet op. 20</title> </item> 
+					 <item>Performers: Budapest String Quartet; Felix Galimir,
+						Isidor Cohen, violins; Walter Trampler, viola; Benar Heifetz, cello</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">10</container> 
+				  <unittitle> Mischa Schneider Collection Disc 10, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: CBS/Sony: SOCU-46, 1975</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: December 1961</p> 
+					 <p>Label: "Job 108134"; 2/7/75"; Side 7 of 8, Side 8 of 8.
+						Sleeve: "Tom Frost"</p> 
+					 <p>"Columbia Recording Studios Reference Recording"; this is a
+						recording of a live performance</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 10_01</head> 
+					 <item> 
+						<persname source="lcnaf">Mendelssohn-Bartholdy, Felix,
+						  1809-1847</persname> </item> 
+					 <item> 
+						<title type="uniform">Octet, violins (4), violas,
+						  violoncellos, op. 20, E♭ major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">String octet in E flat major op.
+						  20</title> </item> 
+					 <item>Performers: Budapest String Quartet; Felix Galimir,
+						Isidor Cohen, violins; Walter Trampler, viola; Benar Heifetz, cello</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">11</container> 
+				  <unittitle> Mischa Schneider Collection Disc 11, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: CBS/Sony: SOCU-46, 1975</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: December 1961</p> 
+					 <p>Label: "BL 33308"; "Mono"; "4/1/75". Sleeve: "Tom Frost"</p>
+					 
+					 <p>"Columbia Recording Studios Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 11_01</head> 
+					 <item> 
+						<persname source="lcnaf">Mendelssohn-Bartholdy, Felix,
+						  1809-1847</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, violins, violas, cello, no.
+						  1, op. 18, A major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Quintet in A major</title> </item> 
+					 <item>Performers: Budapest String Quartet; Walter Trampler,
+						viola</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">12</container> 
+				  <unittitle> Mischa Schneider Collection Disc 12, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: Y3 35240 (Y 35981--Y 35983), 1979</p>
+					 
+					 <p>Side 1 matrix: Q010200 (imprint on blank side); Side 2
+						matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: February 1940?</p> 
+					 <p>On label: "AL 35981"; Title on label states B flat minor,
+						with minor crossed out</p> 
+					 <p>"Columbia Recording Studios Reference Recording"; Not
+						positive this is the same recording issued in the Odyssey set but the matrix
+						number matches.</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 12_01</head> 
+					 <item> 
+						<persname source="lcnaf">Mozart, Wolfgang Amadeus,
+						  1756-1791</persname> </item> 
+					 <item> 
+						<title type="uniform">Quartets, strings, K. 458,
+						  B♭major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Qt. no. 17 in B flat</title> </item> 
+					 <item>Performers: Budapest String Quartet</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">13</container> 
+				  <unittitle> Mischa Schneider Collection Disc 13, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 5873/MS 6473, 1963</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: January 1962</p> 
+					 <p>On sleeve: "Job 65017 Side II" ; "Tom Shepard"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 13_01</head> 
+					 <item> 
+						<persname source="lcnaf">Schubert, Franz,
+						  1797-1828</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, piano, violin, viola, cello,
+						  double bass, D. 667, A major. Movements 1-4</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Trout Mvts 1, 2, 3, 4</title> </item> 
+					 <item>Performers: Budapest String Quartet; Mieczyslaw
+						Horszowski, piano; Julius Levine, bass</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">14</container> 
+				  <unittitle> Mischa Schneider Collection Disc 14, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML5936/MS 6536, 1964</p> 
+					 <p>Side 1 matrix: XXLP75810; Side 2 matrix: XXLP75811</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: June 1962</p> 
+					 <p>On sleeve: "Att Tom Shepard; Monaural two sides; Schubert
+						string quintet</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 14_01</head> 
+					 <item> 
+						<persname source="lcnaf">Schubert, Franz,
+						  1797-1828</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, violins, viola, cellos, D.
+						  956, C major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Quintet</title> </item> 
+					 <item>Performers: Budapest String Quartet; Benar Heifetz,
+						cello</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">15</container> 
+				  <unittitle> Mischa Schneider Collection Disc 15, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML5936/MS 6536, 1964</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: June 1962</p> 
+					 <p>On label: "108134 29/29, 18/39"</p> 
+					 <p>"Columbia Recording Studios Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 15_01</head> 
+					 <item> 
+						<persname source="lcnaf">Schubert, Franz,
+						  1797-1828</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, violins, viola, cellos, D.
+						  956, C major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">String quintet</title> </item> 
+					 <item>Performers: Budapest String Quartet; Benar Heifetz,
+						cello</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">16</container> 
+				  <unittitle> Mischa Schneider Collection Disc 16, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML5936/MS 6536, 1964</p> 
+					 <p>Side 1 matrix: XXSM 75812 (20965); Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: June 1962</p> 
+					 <p>On label: "Reference Shepherd"; On sleeve: "stereo"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 16_01</head> 
+					 <item> 
+						<persname source="lcnaf">Schubert, Franz,
+						  1797-1828</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, violins, viola, cellos, D.
+						  956, C major. Movements 1-2</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Cello 5</title> </item> 
+					 <item>Performers: Budapest String Quartet; Benar Heifetz,
+						cello</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">17</container> 
+				  <unittitle> Mischa Schneider Collection Disc 17, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML5936/MS 6536, 1964</p> 
+					 <p>Side 1 matrix: XXSM 78813 (20965); Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: June 1962</p> 
+					 <p>On label: "Reference Shepherd"; On sleeve: "stereo"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 17_01</head> 
+					 <item> 
+						<persname source="lcnaf">Schubert, Franz,
+						  1797-1828</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, violins, viola, cellos, D.
+						  956, C major. Movements 3-4</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Cello 5</title> </item> 
+					 <item>Performers: Budapest String Quartet; Benar Heifetz,
+						cello</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">18</container> 
+				  <unittitle> Mischa Schneider Collection Disc 18, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: Unknown, Unknown</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Label: "4/9/75 Mono N+2 Job 108134"; Sleeve: "Tom Frost,
+						Masterworks"</p> 
+					 <p>"Columbia Recording Studios Reference Recording". Cannot
+						identify related commercial release. Two recordings were made at the Library of
+						Congress, 1958 and 1960. There is also a 1978 release on Columbia/Odyssey by
+						the Borodin Quartet.</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 18_01</head> 
+					 <item> 
+						<persname source="lcnaf">Tchaikovsky, Peter Ilich,
+						  1840-1893</persname> </item> 
+					 <item> 
+						<title type="uniform">Souvenir de Florence</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">String sextet in D minor, op.
+						  70</title> </item> 
+					 <item>Performers: probably Guarneri Quartet with Mischa
+						Schneider and Boris Kroyt</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series1b">I.B.</unitid> 
+				<unittitle>Recordings of the other performers, 
+				  <unitdate normal="1940/1965"
+				  type="inclusive">1940-1965</unitdate></unittitle> 
+				<physdesc> <extent>Item 19-29</extent> </physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by first named composer on the
+				  recording.</p> 
+			 </arrangement> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">19</container> 
+				  <unittitle> Mischa Schneider Collection Disc 19, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: M 35163, 1979</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Label: "AL 35163 Marlboro normal level"</p> 
+					 <p>"Columbia Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 19_01</head> 
+					 <item> 
+						<persname source="lcnaf">Hummel, Johann Nepomuk,
+						  1778-1837</persname> </item> 
+					 <item> 
+						<title type="uniform">Grand septuor</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Septet</title> </item> 
+					 <item>Performers: Judith Mendenhall, flute; Rudolph Vrbsky,
+						oboe; Robert Routch, horn; Caroline Levine, viola; Lisa Lancaster, cello;
+						Julius Levine, bass; Beth Levin, piano</item> 
+				  </list> 
+				  <list> 
+					 <head>Work number: 19_02</head> 
+					 <item> 
+						<persname source="lcnaf">Boccherini, Luigi,
+						  1743-1805</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, violins, viola, violoncellos,
+						  G. 298, C major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Boccherini</title> </item> 
+					 <item>Performers: Pina Carmirelli, Naoko Tanaka, violins;
+						Philipp Naegele, viola; Jerry Grossman, Marcy Rosen, cellos</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">20</container> 
+				  <unittitle> Mischa Schneider Collection Disc 20, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: M 35163, 1979</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Label: "MBL-35163"; "5-14-79"</p> 
+					 <p>"Columbia Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 20_01</head> 
+					 <item> 
+						<persname source="lcnaf">Hummel, Johann Nepomuk,
+						  1778-1837</persname> </item> 
+					 <item> 
+						<title type="uniform">Grand septuor. Movement 4</title>
+						</item> 
+					 <item> Transcribed title: 
+						<title render="italic">Septet IV Mvmt.</title> </item> 
+					 <item>Performers: Judith Mendenhall, flute; Rudolph Vrbsky,
+						oboe; Robert Routch, horn; Caroline Levine, viola; Lisa Lancaster, cello;
+						Julius Levine, bass; Beth Levin, piano</item> 
+				  </list> 
+				  <list> 
+					 <head>Work number: 20_02</head> 
+					 <item> 
+						<persname source="lcnaf">Boccherini, Luigi,
+						  1743-1805</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, violins, viola, violoncellos,
+						  G. 298, C major</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Quintet in C maj. Op. 25 no. 4</title>
+						</item> 
+					 <item>Performers: Pina Carmirelli, Naoko Tanaka, violins;
+						Philipp Naegele, viola; Jerry Grossman, Marcy Rosen, cellos</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">21</container> 
+				  <unittitle> Mischa Schneider Collection Disc 21, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 6031/MS 6631, 1964</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Transco</p> 
+					 <p>Date of recording: September 1963</p> 
+					 <p>On blank side: "Transco 10 363"; Sleeve: "Job 77086 Side 2";
+						"Ref. Tom Shepard";</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 21_01</head> 
+					 <item> 
+						<persname source="lcnaf">Brahms, Johannes,
+						  1833-1897</persname> </item> 
+					 <item> 
+						<title type="uniform">Quintets, piano, strings, op. 34, F
+						  minor. Movement 3-4</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Piano quintet (from sleeve)</title>
+						</item> 
+					 <item>Performers: Rudolf Serkin, piano; Budapest String
+						Quartet</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">22</container> 
+				  <unittitle> Mischa Schneider Collection Disc 22, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: MS 7207, 1969</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: XXSM138444-2A</p> 
+					 <p>Pressing company: Pitman</p> 
+					 <p>Date of recording: unknown</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 22_02</head> 
+					 <item> 
+						<persname source="lcnaf">Partch, Harry, 1901-1974</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Wayward. Barstow</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Barstow</title> </item> 
+					 <item>Performers: Ensembles of instruments developed by the
+						composer, narration by the composer and John Stannard ; Danlee Mitchell,
+						conductor.</item> 
+				  </list> 
+				  <list> 
+					 <head>Work number: 22_03</head> 
+					 <item> 
+						<persname source="lcnaf">Partch, Harry, 1901-1974</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Plectra and percussion dances. Castor
+						  and Pollux</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Castor and Pollux</title> </item> 
+					 <item>Performers: Ensembles of instruments developed by the
+						composer; Danlee Mitchell, conductor</item> 
+				  </list> 
+				  <list> 
+					 <head>Work number: 22_01</head> 
+					 <item> 
+						<persname source="lcnaf">Partch, Harry, 1901-1974</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Daphne of the dunes</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Daphne</title> </item> 
+					 <item>Performers: Ensembles of instruments developed by the
+						composer, narration by the composer and John Stannard ; Danlee Mitchell,
+						conductor</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">23</container> 
+				  <unittitle> Mischa Schneider Collection Disc 23, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: MS 6891, 1966</p> 
+					 <p>Side 1 matrix: XTV-91980-2A; Side 2 matrix: XTV-91981-2A</p>
+					 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: 1963</p> 
+					 <p>No indication of Columbia on item</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 23_01</head> 
+					 <item> 
+						<persname source="lcnaf">Reger, Max, 1873-1916</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Sonatas, cello, piano, no. 4, op. 116,
+						  A minor</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">As performed at the Marlboro Music
+						  Festival 1963: Cello sonata in A minor, op. 116</title> </item> 
+					 <item>Performers: Mischa Schneider, cello; Peter Serkin,
+						piano</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">24</container> 
+				  <unittitle> Mischa Schneider Collection Disc 24, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: MS 6891, 1966</p> 
+					 <p>Side 1 matrix: XTV-91980-2A; Side 2 matrix: XTV-91981-2A</p>
+					 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: 1963</p> 
+					 <p>No indication of Columbia on item</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 24_01</head> 
+					 <item> 
+						<persname source="lcnaf">Reger, Max, 1873-1916</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Sonatas, cello, piano, no. 4, op. 116,
+						  A minor</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">As performed at the Marlboro Music
+						  Festival 1963: Cello sonata in A minor, op. 116</title> </item> 
+					 <item>Performers: Mischa Schneider, cello; Peter Serkin,
+						piano</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">25</container> 
+				  <unittitle> Mischa Schneider Collection Disc 25, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: MS 6891, 1966</p> 
+					 <p>Side 1 matrix: XTV-91980-2A; Side 2 matrix: XTV-91981-2A</p>
+					 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: 1963</p> 
+					 <p>No indication of Columbia on item</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 25_01</head> 
+					 <item> 
+						<persname source="lcnaf">Reger, Max, 1873-1916</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Sonatas, cello, piano, no. 4, op. 116,
+						  A minor</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">As performed at the Marlboro Music
+						  Festival 1963: Cello sonata in A minor, op. 116</title> </item> 
+					 <item>Performers: Mischa Schneider, cello; Peter Serkin,
+						piano</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">26</container> 
+				  <unittitle> Mischa Schneider Collection Disc 26, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 6291, 1966</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Label: "Att Mr Tom Shepard 10-23-63, Job 77086, Mono."</p> 
+					 <p>"Columbia Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 26_01</head> 
+					 <item> 
+						<persname source="lcnaf">Reger, Max, 1873-1916</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Sonatas, cello, piano, no. 4, op. 116,
+						  A minor. Movement 1-2</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Cello sonata Part 1</title> </item> 
+					 <item>Performers: Mischa Schneider, cello; Peter Serkin,
+						piano</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">27</container> 
+				  <unittitle> Mischa Schneider Collection Disc 27, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (Single side
+					 only)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 6291, 1966</p> 
+					 <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Label: "Att Tom Shepard 10-23-63, Job 77086"</p> 
+					 <p>"Columbia Reference Recording"</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 27_01</head> 
+					 <item> 
+						<persname source="lcnaf">Reger, Max, 1873-1916</persname>
+						</item> 
+					 <item> 
+						<title type="uniform">Sonatas, cello, piano, no. 4, op. 116,
+						  A minor. Movement 3-4</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">Cello sonata Part 2</title> </item> 
+					 <item>Performers: Mischa Schneider, cello; Peter Serkin,
+						piano</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">28</container> 
+				  <unittitle> Mischa Schneider Collection Disc 28, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 4488, 1956?</p> 
+					 <p>Side 1 matrix: FXLP 6991; Side 2 matrix: XLP 6992</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Looks like commercial release rather than test pressing.</p>
+					 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 28_01</head> 
+					 <item> 
+						<persname source="lcnaf">Rodgers, Richard,
+						  1902-1979</persname> </item> 
+					 <item> 
+						<title type="uniform">Babes in arms. Selections; arr.</title>
+						</item> 
+					 <item> Transcribed title: 
+						<title render="italic">Babes in arms</title> </item> 
+					 <item>Performers: Mary Martin, Mardi Bayne and Jack Cassidy,
+						vocals ; Lehman Engel, conductor ; various arrangers</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1 </container> 
+				  <container type="item">29</container> 
+				  <unittitle> Mischa Schneider Collection Disc 29, 
+					 <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				  <physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+					 sides)</extent> </physdesc> 
+				  <note> 
+					 <p>Released on: Columbia: ML 4487, 1953</p> 
+					 <p>Side 1 matrix: XLP 9012; Side 2 matrix: XLP 9013</p> 
+					 <p>Pressing company: Unknown</p> 
+					 <p>Date of recording: unknown</p> 
+					 <p>Originally a piano suite; arr. for piano and orchestra.
+						Looks like the commercial release rather than a test pressing.</p> 
+				  </note> 
+				</did> 
+				<scopecontent> 
+				  <list> 
+					 <head>Work number: 29_01</head> 
+					 <item> 
+						<persname source="lcnaf">Tchaikovsky, Peter Ilich,
+						  1840-1893</persname> </item> 
+					 <item> 
+						<title type="uniform">Vremena goda; arr.</title> </item> 
+					 <item> Transcribed title: 
+						<title render="italic">The months, op. 37a</title> </item> 
+					 <item>Performers: Morton Gould Orchestra, Morton Gould piano
+						and conductor</item> 
+				  </list> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Recordings issued by Marlboro Recording Society, 
+				<unitdate type="inclusive" normal="1970/1980"
+				certainty="approximate">circa 1970-1980 </unitdate> </unittitle> 
+			 <physdesc> <extent>Item 30-45 </extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in numerical order by Marlboro Recording Society
+				publisher number.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">30</container> 
+				<unittitle> Mischa Schneider Collection Disc 30, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-1, 1970?</p> 
+				  <p>Side 1 matrix: MRS 1A-1B; Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: 1968?</p> 
+				  <p>Final movement (Rondo) on Side 2</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 30_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Brahms, Johannes, 1833-1897</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Serenades, orchestra, no. 2, op. 16, A
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Serenade in A major, op. 16</title>
+					 </item> 
+				  <item>Performers: Marlboro Festival Orchestra; Pablo Casals,
+					 conductor</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 30_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Mozart, Wolfgang Amadeus,
+						1756-1791</persname> </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, violin, piano, K. 13, F
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Sonata in F major, K. 13</title> </item>
+				  
+				  <item>Performers: Pina Carmirelli, violin; David Cole, cello;
+					 Rudolf Serkin, piano</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 30_03</head> 
+				  <item> 
+					 <persname source="lcnaf">Mozart, Wolfgang Amadeus,
+						1756-1791</persname> </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, violin, piano, K. 12, A
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Sonata in A major, K. 12</title> </item>
+				  
+				  <item>Performers: Pina Carmirelli, violin; David Cole, cello;
+					 Rudolf Serkin, piano</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">31</container> 
+				<unittitle> Mischa Schneider Collection Disc 31, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-2, 1970?</p> 
+				  <p>Side 1 matrix: MRS-2-A ; 38095-A; Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: 1966 or 1967</p> 
+				  <p>AL</p> 
+				  <p>Printed labels loose; beneath them is a symbol like two
+					 interlocked M's. The remainder of the Suite (the Gigue) opens Side 2 of the
+					 disc.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 31_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Schoenberg, Arnold,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title type="uniform">Suites, piano, clarinets (3), strings,
+						op. 29</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Suite. Op. 29: Overture/Tanzschritte,
+						Thema mit Variationen, Gigue</title> </item> 
+				  <item>Performers: James Corwin, Harold Wright, Don Stewart,
+					 clarinets; Jamie Laredo, violin; Samuel Rhodes, viola; Madeline Foley, cello;
+					 Ruth Laredo, piano; Leon Kirchner, conductor</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 31_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Boccherini, Luigi,
+						1743-1805</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quintets, violins, viola, violoncellos,
+						G. 348, F minor</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Quintet in F major, op. 42, no.
+						1</title> </item> 
+				  <item>Performers: Pina Carmirelli, Jon Toth, violins; Philipp
+					 Naegele, viola; Fortunato Arico, Dorothy Reichenberger, cellos</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">32</container> 
+				<unittitle> Mischa Schneider Collection Disc 32, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-3, 1970-1979</p> 
+				  <p>Side 1 matrix: MRS 3A (34276); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Serenade completed on Side 2.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 32_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Schoenberg, Arnold,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title type="uniform">Serenades, bass, instrumental ensemble,
+						op. 24</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Serenade op. 24</title> </item> 
+				  <item>Performers: Thomas Paul, bass; Harold Wright, clarinet; Don
+					 Stewart, bass clarinet; Stanley Silverman, guitar; Jacob Glick, mandolin; Leon
+					 Kirchner, conductor</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 32_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Schubert, Franz, 1797-1828</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Introduction et variations sur un thème
+						original</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Introduction and variations, op.
+						160</title> </item> 
+				  <item>Performers: Paula Robison, flute; Rudolf Serkin,
+					 piano</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">33</container> 
+				<unittitle> Mischa Schneider Collection Disc 33, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-4, 1970</p> 
+				  <p>Side 1 matrix: MRS-4A RE-1 (27493); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Printed label</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 33_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Beethoven, Ludwig van,
+						1770-1827</persname> </item> 
+				  <item> 
+					 <title type="uniform">Trios, oboes, English horn, op. 87, C
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Trio in C major, op. 87</title> </item> 
+				  <item>Performers: John Mack, Joseph Turner, oboes; Patricia
+					 Grignet, English horn</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 33_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Beethoven, Ludwig van,
+						1770-1827</persname> </item> 
+				  <item> 
+					 <title type="uniform">Variations, piano trio, op. 44, E♭
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Variations in Eb major, op. 44</title>
+					 </item> 
+				  <item>Performers: Hidetaro Suzuki, violin; Ronald Leonard, cello;
+					 Rudolf Serkin, piano</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">34</container> 
+				<unittitle> Mischa Schneider Collection Disc 34, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-5, 1970-1979</p> 
+				  <p>Side 1 matrix: MRS-5A (30548); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test pressing"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 34_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Nielsen, Carl, 1865-1931</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Quintets, winds, op. 43</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Wind quintet</title> </item> 
+				  <item>Performers: Paula Robison, flute; Joseph Turner, oboe;
+					 Larry Combs, clarinet; William Winstead, bassoon; Richard Solis, horn</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 34_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Weber, Carl Maria von,
+						1786-1826</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quintet, clarinet, violins, viola, cello,
+						op. 34, B♭ major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Clarinet quintet</title> </item> 
+				  <item>Performers: Harold Wright, clarinet; Vera Beths, Mari
+					 Tsumura, violins; Philipp Naegele, viola; Jeffrey Solow, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">35</container> 
+				<unittitle> Mischa Schneider Collection Disc 35, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-5, 1970-1979</p> 
+				  <p>Side 1 matrix: MRS-5A -1A; Side 2 matrix: none</p> 
+				  <p>Pressing company: Pitman</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test pressing"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 35_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Nielsen, Carl, 1865-1931</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Quintets, winds, op. 43</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Wind 5</title> </item> 
+				  <item>Performers: Paula Robison, flute; Joseph Turner, oboe;
+					 Larry Combs, clarinet; William Winstead, bassoon; Richard Solis, horn</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 35_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Weber, Carl Maria von,
+						1786-1826</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quintet, clarinet, violins, viola, cello,
+						op. 34, B♭ major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Clar. 5</title> </item> 
+				  <item>Performers: Harold Wright, clarinet; Vera Beths, Mari
+					 Tsumura, violins; Philipp Naegele, viola; Jeffrey Solow, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">36</container> 
+				<unittitle> Mischa Schneider Collection Disc 36, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-6, 1971</p> 
+				  <p>Side 1 matrix: MRS-6A-1A; Side 2 matrix: none</p> 
+				  <p>Pressing company: Pitman</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Sleeve: "9/24/71"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 36_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Beethoven, Ludwig van,
+						1770-1827</persname> </item> 
+				  <item> 
+					 <title type="uniform">Trios, strings, op. 9, no. 1</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">String trio G major</title> </item> 
+				  <item>Performers: Isidore Cohen, violin; Nobuko Imai, viola;
+					 Nathaniel Rosen, cello</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 36_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Beethoven, Ludwig van,
+						1770-1827</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quartets, piano, strings, WoO 36</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Piano quartet C maj.</title> </item> 
+				  <item>Performers: Rudolf Serkin, piano; Felix Galimir, violin;
+					 Nobuko Imai, viola, Nathaniel Rosen, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">37</container> 
+				<unittitle> Mischa Schneider Collection Disc 37, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-6, 1971</p> 
+				  <p>Side 1 matrix: MRS-6A (30276); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Arizona pressing"; Lead-out groove: "JB", "MO#2"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 37_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Beethoven, Ludwig van,
+						1770-1827</persname> </item> 
+				  <item> 
+					 <title type="uniform">Trios, strings, op. 9, no. 1</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">String trio G major</title> </item> 
+				  <item>Performers: Isidore Cohen, violin; Nobuko Imai, viola;
+					 Nathaniel Rosen, cello</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 37_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Beethoven, Ludwig van,
+						1770-1827</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quartets, piano, strings, WoO 36</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Piano quartet C major</title> </item> 
+				  <item>Performers: Rudolf Serkin, piano; Felix Galimir, violin;
+					 Nobuko Imai, viola, Nathaniel Rosen, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">38</container> 
+				<unittitle> Mischa Schneider Collection Disc 38, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-7, 1977?</p> 
+				  <p>Side 1 matrix: MRS-7-1 (24813); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "test pressing"; "1-8-75"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 38_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Haydn, Joseph, 1732-1809</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Trios, piano, flute, cello, H. XV, 15, G
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Flute trio</title> </item> 
+				  <item>Performers: Rudolf Serkin, piano; Michel Debost, flute;
+					 Peter Wiley, cello</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 38_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Beethoven, Ludwig van,
+						1770-1827</persname> </item> 
+				  <item> 
+					 <title type="uniform">Trios, piano, clarinet, cello, op. 11, B♭
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Clar. Trio, op. 11</title> </item> 
+				  <item>Performers: Rudolf Serkin, piano; Richard Stoltzman,
+					 clarinet; Alain Meunier, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">39</container> 
+				<unittitle> Mischa Schneider Collection Disc 39, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-8, 1975-1979?</p>
+				  
+				  <p>Side 1 matrix: MRS-8-1 (24814); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test Pressing"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 39_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Mozart, Wolfgang Amadeus,
+						1756-1791</persname> </item> 
+				  <item> 
+					 <title type="uniform">Serenades, K. 375, E♭ major. (2d
+						version)</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Wind serenade</title> </item> 
+				  <item>Performers: Eric Arbiter, Alexander Heller, bassoons; Frank
+					 Cohen, Richard Stoltzman, clarinets; Robert Routch, John Serkin, horns; Richard
+					 Woodhams, Rudolph Vrbsky, oboes</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 39_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Gounod, Charles, 1818-1893</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Petite symphonie</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Petit symphonie</title> </item> 
+				  <item>Performers: Paul Dunkel, flute; Rudolph Vrbsky, Allan
+					 Vogel, oboes; Frank Cohen, John Fullam, clarinets; Alexander Heller, Vincent
+					 Ellin, bassoons; Robert Routch, E. Scott Brubaker, horns</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">40</container> 
+				<unittitle> Mischa Schneider Collection Disc 40, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-10, 1977</p> 
+				  <p>Side 1 matrix: MRS-10A (28568); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test pressing"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 40_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Boccherini, Luigi,
+						1743-1805</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quintets, guitar, violins (2), viola,
+						violoncello, G. 451, E minor</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Quintet in E minor for guitar and
+						strings, G. 451</title> </item> 
+				  <item>Performers: David Starobin, guitar; Pina Carmirelli, Philip
+					 Setzer, violins; Philipp Naegele, viola; Peter Wiley, cello</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 40_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Ravel, Maurice, 1875-1937</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Chansons madécasses</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Chan-Mad</title> </item> 
+				  <item>Performers: Katherine Ciesinski, mezzo-soprano, Judith
+					 Mendenhall, flute, Paul Tobias, cello, Luis Batlle, piano</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 40_03</head> 
+				  <item> 
+					 <persname source="lcnaf">Mozart, Wolfgang Amadeus,
+						1756-1791</persname> </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, bassoon, violoncello, K. 292, B♭
+						major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Bassoon son.</title> </item> 
+				  <item>Performers: Alexander Heller, bassoon, Yo-Yo Ma,
+					 cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">41</container> 
+				<unittitle> Mischa Schneider Collection Disc 41, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-11,
+					 1970-1976?</p> 
+				  <p>Side 1 matrix: MRS-11A (29176); Side 2 matrix: MRS-11B
+					 (29176)</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test Pressing"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 41_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Mozart, Wolfgang Amadeus,
+						1756-1791</persname> </item> 
+				  <item> 
+					 <title type="uniform">Serenades, K. 361, B♭ major</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Gran partita</title> </item> 
+				  <item>Performers: Instrumentalists from the Marlboro Music
+					 Festival; Marcel Moyse, conductor</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">42</container> 
+				<unittitle> Mischa Schneider Collection Disc 42, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS 12, 1976?</p> 
+				  <p>Side 1 matrix: MRS-12-1 (29648); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test pressing"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 42_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Bach, Johann Sebastian,
+						1685-1750</persname> </item> 
+				  <item> 
+					 <title type="uniform">Canons, BWV 1087</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Aria</title> </item> 
+				  <item>Performers: Rudolf Serkin, piano, with instrumental
+					 ensemble</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 42_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Reger, Max, 1873-1916</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, clarinet, piano, no. 3, op. 107,
+						B♭ major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Clar. Son.</title> </item> 
+				  <item>Performers: David Singer, clarinet; Rudolf Serkin,
+					 piano</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">43</container> 
+				<unittitle> Mischa Schneider Collection Disc 43, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS 12, 1976?</p> 
+				  <p>Side 1 matrix: MRS-12-1 (29648); Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test pressing"</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 43_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Bach, Johann Sebastian,
+						1685-1750</persname> </item> 
+				  <item> 
+					 <title type="uniform">Canons, BWV 1087</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Canons (from sleeve)</title> </item> 
+				  <item>Performers: Rudolf Serkin, piano, with instrumental
+					 ensemble</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 43_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Reger, Max, 1873-1916</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, clarinet, piano, no. 3, op. 107,
+						B♭ major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Clarinet sonata (from sleeve)</title>
+					 </item> 
+				  <item>Performers: David Singer, clarinet; Rudolf Serkin,
+					 piano</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">44</container> 
+				<unittitle> Mischa Schneider Collection Disc 44, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-13, 1980?</p> 
+				  <p>Side 1 matrix: none; Side 2 matrix: MRS-13B-RE-2</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test pressing"</p> 
+				  <p>Label on side 1 bears crossed out inscription "Dumky Trio".
+					 The side contains 5 tracks of unidentified popular music.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 44_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Dvořák, Antonín, 1841-1904</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Trios, piano, strings, op. 90, E minor.
+						Movement 4-5</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">End of Dumky</title> </item> 
+				  <item>Performers: Bruno Canino, piano; Daniel Phillips, violin;
+					 Jerry Grossman, cello</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 44_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Boccherini, Luigi,
+						1743-1805</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quintets, guitar, violins, viola,
+						violoncello, G. 449, D major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Guitar 5</title> </item> 
+				  <item>Performers: David Starobin, guitar; Pina Carmirelli, Joseph
+					 Genualdi, violins; Philipp Naegele, viola; Marcy Rosen, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">45</container> 
+				<unittitle> Mischa Schneider Collection Disc 45, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Marlboro Recording Society: MRS-13, 1980?</p> 
+				  <p>Side 1 matrix: MRS-13-A-RE-1; Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Label: "Test pressing"</p> 
+				  <p>Dumky trio completed on Side 2.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 45_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Dvořák, Antonín, 1841-1904</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Trios, piano, strings, op. 90, E
+						minor</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Dumky trio beg.</title> </item> 
+				  <item>Performers: Bruno Canino, piano; Daniel Phillips, violin;
+					 Jerry Grossman, cello</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 45_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Boccherini, Luigi,
+						1743-1805</persname> </item> 
+				  <item> 
+					 <title type="uniform">Quintets, guitar, violins, viola,
+						violoncello, G. 449, D major</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Guitar quintet</title> </item> 
+				  <item>Performers: David Starobin, guitar; Pina Carmirelli, Joseph
+					 Genualdi, violins; Philipp Naegele, viola; Marcy Rosen, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Recordings issued by other labels and an unpublished
+				recording, 
+				<unitdate type="inclusive" normal="1970/1980"
+				 certainty="approximate">circa 1970-1980 </unitdate> </unittitle> 
+			 <physdesc> <extent>Item 46-51 </extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in alphabetical order by manufacturer name and then by
+				publisher number. The one unpublished item is at the end of the sequence.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">46</container> 
+				<unittitle> Mischa Schneider Collection Disc 46, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Heliodor: 2549-004 (Wergo 60036), 197-?</p> 
+				  <p>Side 1 matrix: 25-49004B-1A (HEL 90038); Side 2 matrix:
+					 none</p> 
+				  <p>Pressing company: Sonic Recording Products (Holbrook, NY)</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>RL ss</p> 
+				  <p>Stamp on label: August 1969</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 46_03</head> 
+				  <item> 
+					 <persname source="lcnaf">Webern, Anton, 1883-1945</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Kleine stücke</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Webern</title> </item> 
+				  <item>Performers: Siegfried Palm, cello ; Aloys Kontarsky,
+					 piano</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 46_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Ligeti, György, 1923-2006</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Concertos, cello, orchestra</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Ligeti</title> </item> 
+				  <item>Performers: Siegfried Palm, cello; Hessian Radio Symphony ;
+					 Michael Gielen, conductor</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 46_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Penderecki, Krzysztof,
+						1933-</persname> </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, cello, orchestra</title> </item>
+				  
+				  <item> Transcribed title: 
+					 <title render="italic">Penderecki</title> </item> 
+				  <item>Performers: Siegfried Palm, cello; Poznan Philharmonic ;
+					 Andzej Markowski, conductor</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 46_04</head> 
+				  <item> 
+					 <persname source="lcnaf">Hindemith, Paul, 1895-1963</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, cello, op. 25, no. 3</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Hindemith</title> </item> 
+				  <item>Performers: Siegfried Palm, cello</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 46_05</head> 
+				  <item> 
+					 <persname source="lcnaf">Zimmermann, Bernd Alois,
+						1918-1970</persname> </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, cello</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Zimmermann</title> </item> 
+				  <item>Performers: Siegfried Palm, cello</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">47</container> 
+				<unittitle> Mischa Schneider Collection Disc 47, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: His Master's Voice (RCA Red Seal): LHMV 13,
+					 1955</p> 
+				  <p>Side 1 matrix: E4RP 0390; Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Looks like commercial release rather than test pressing.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 47_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Schumann, Robert, 1810-1856</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Symphonies, no. 4, op. 120, D
+						minor</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Symphony no. 4 in D minor, op.
+						120</title> </item> 
+				  <item>Performers: Philharmonia Orchestra; Guido Cantelli,
+					 conductor</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 47_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Wagner, Richard, 1813-1883</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Siegfried-Idyll</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Siegfried Idyll</title> </item> 
+				  <item>Performers: Philharmonia Orchestra; Guido Cantelli,
+					 conductor</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">48</container> 
+				<unittitle> Mischa Schneider Collection Disc 48, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: His Master's Voice: LHMV 18, Unknown</p> 
+				  <p>Side 1 matrix: E4RP 8533; Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Looks like commercial release rather than test pressing;
+					 program notes inserted</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 48_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Schumann, Robert, 1810-1856</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Carnaval</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Carnaval, op. 9</title> </item> 
+				  <item>Performers: Alfred Cortot, piano</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 48_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Chopin, Frédéric, 1810-1849</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Sonatas, piano, no. 2, op. 35, B♭
+						minor</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Sonata no. 2 in B flat minor, op.
+						35</title> </item> 
+				  <item>Performers: Alfred Cortot, piano</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">49</container> 
+				<unittitle> Mischa Schneider Collection Disc 49, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: London: LL.1283, 1955</p> 
+				  <p>Side 1 matrix: ARL-2647-4A; Side 2 matrix: ARL 2647-4A</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>This looks like the commercial release rather than a test
+					 pressing.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 49_02</head> 
+				  <item> 
+					 <persname source="lcnaf">Tchaikovsky, Peter Ilich,
+						1840-1893</persname> </item> 
+				  <item> 
+					 <title type="uniform">Romeo et Juliette
+						(Fantasy-overture)</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Romeo and Juliet: Fantasy
+						overture</title> </item> 
+				  <item>Performers: Vienna Philharmonic Orchestra; Rafael Kubelik,
+					 conductor</item> 
+				</list> 
+				<list> 
+				  <head>Work number: 49_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Dvořák, Antonín, 1841-1904</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Slovanské tance, op. 46.
+						Selections</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Slavonic dances: Set 1 (no. 1-5)</title>
+					 </item> 
+				  <item>Performers: Vienna Philharmonic Orchestra; Rafael Kubelik,
+					 conductor</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">50</container> 
+				<unittitle> Mischa Schneider Collection Disc 50, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: London: LL.1284, 1955</p> 
+				  <p>Side 1 matrix: ARL 2645-1A; Side 2 matrix: ARL 2646-1A</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: unknown</p> 
+				  <p>Contains dances from op. 46 (no. 6-8) and op. 72 (no. 1-8).
+					 This looks like the commercial release rather than a test pressing.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 50_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Dvořák, Antonín, 1841-1904</persname>
+					 </item> 
+				  <item> 
+					 <title type="uniform">Slovanské tance. Selections</title>
+					 </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Slavonic dances</title> </item> 
+				  <item>Performers: Vienna Philharmonic Orchestra; Rafael Kubelik,
+					 conductor</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="item">51</container> 
+				<unittitle> Mischa Schneider Collection Disc 51, 
+				  <unitdate type="inclusive">undated </unitdate> </unittitle> 
+				<physdesc> <extent>1 33 rpm sound disc ; 12 inches (2
+				  sides)</extent> </physdesc> 
+				<note> 
+				  <p>Released on: Unpublished: Not applicable, Not applicable</p> 
+				  <p>Side 1 matrix: none; Side 2 matrix: none</p> 
+				  <p>Pressing company: Unknown</p> 
+				  <p>Date of recording: April 13 1950</p> 
+				  <p>Label: "Order no. LWO 1518"</p> 
+				  <p>Library of Congress Music Division Recording Laboratory. 78
+					 rpm. In poor condition.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<list> 
+				  <head>Work number: 51_01</head> 
+				  <item> 
+					 <persname source="lcnaf">Schneider, Mischa, 1903-1985
+						</persname>(interviewee) </item> 
+				  <item> 
+					 <title type="uniform">Interview of Mischa Schneider by Luther
+						Evans, Part 1 of 3</title> </item> 
+				  <item> Transcribed title: 
+					 <title render="italic">Dr. Evans and Mischa Schneider recorded
+						4/11/50 for WQQW broadcast on 4/13/50</title> </item> 
+				  <item>Performers: Mischa Schneider, Luther Evans</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Music in the Air scripts, 
+				<unitdate type="inclusive" normal="1953">circa 1953</unitdate>
+				</unittitle> 
+			 <physdesc> <extent>Item 52</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in numerical order.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Four printed scripts for the announcer of the radio show, Music in
+				the Air, featuring Columbia Records. A few of the recordings mentioned in the
+				scripts are contained in the collection. </p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">52</container> 
+				<unittitle>Music in the air scripts, numbers 6-9, 
+				  <unitdate certainty="approximate">circa
+					 1953</unitdate></unittitle> 
+				<physdesc> <extent>1 folder ( 4 scripts)</extent> </physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <corpname source="lcnaf" encodinganalog="710"
+		  role="contributor">Budapest String Quartet</corpname> 
+		  <corpname source="lcnaf" encodinganalog="710"
+		  role="contributor">Columbia Records, Inc.</corpname> 
+		  <corpname encodinganalog="710" role="contributor">Marlboro Recording
+			 Society</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">String quartets (Musical
+			 groups)</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Schneider,
+			 Mischa, 1903-1985</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Sound
+			 recordings</genreform> 
+		  <genreform encodinganalog="655" source="aat">Interviews</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

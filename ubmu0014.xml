@@ -1,0 +1,5768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 14::John Clough Papers)//EN">ubmu0014</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the John Clough
+			 Papers, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1959/2002" certainty="approximate"> circa 1959-2002
+				</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Clough (John)
+			 Papers</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2009</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley. </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">John Clough Papers, 
+		  <unitdate encodinganalog="245$f" normal="1959/2002" type="inclusive"
+			datechar="creation" certainty="approximate"> circa
+			 1959-2002</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 14</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Clough,
+			 John (John L.) </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">17
+		  boxes</extent> <extent unit="folder" encodinganalog="300$a">(407
+		  folders)</extent> </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Chiefly secondary
+		  materials such as articles and symposium papers collected by John Clough, many
+		  with correspondence. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], John Clough Papers, circa 1959-2002, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of the estate of John Clough, 2003. </p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>John Clough was born in Dover, Delaware in 1930. He graduated from
+		  Dover High School in 1947, earned his bachelor's degree in music at Oberlin
+		  College Conservatory of Music and earned his Master's degree in music at Yale
+		  University in 1955. He taught at Oberlin 1955-70 and at the University of
+		  Michigan 1970-81. He was the Slee Professor of Music Theory at the University
+		  at Buffalo, The State University of New York from 1981 until his retirement in
+		  2002. </p> 
+		<p>John Clough was one of the major music theorists during the second
+		  half of the twentieth century. He produced two music theory text books: Scales,
+		  Intervals, Keys, and Triads (1964; expanded edition, 1983; 3rd edition, 1999)
+		  and Basic Harmonic Progressions (1984). Clough was also the author of at least
+		  eighteen published articles, seven published reviews, and more than two dozen
+		  conference papers and lectures. He served as editor of Music Theory Spectrum
+		  1985-55 and on the editorial boards of The Journal of Music Theory and Music
+		  Theory Online. His special area of expertise was the interaction of music and
+		  mathematics. His influence in the field of music theory extends beyond his own
+		  research and findings. He also shaped the field through his teaching and
+		  support he demonstrated for the work of other colleagues. </p> 
+		<p>John Clough died September 3, 2003 in Knoxville, Tennessee. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection comprises 407 folders in 17 boxes. The majority of the
+		  material (296 folders) consists of writings by authors in the field in which
+		  John Clough specialized: mathematics as it applies to music. Many of the
+		  articles and papers are accompanied by notes or correspondence by John Clough
+		  or other scholars. The group of scholars represented in the collection includes
+		  noted music theorists, Etyan Agmon, Jay Rahn, David Lewin, David Clampitt,
+		  Stephen Soderberg, Jack Douthett, Charles J. Smith, Norman Carey, John
+		  Chalmers, Richard Cohn, and many others. The collection also includes Clough's
+		  own writings, research notes, and musical analyses. </p> 
+		<p>Correspondence in the collection is almost entirely work-related and
+		  very subject-specific. Therefore, correspondence located with articles was left
+		  with the article rather than creating a separate correspondence series. Folders
+		  that contain only correspondence have been placed in the same series with
+		  articles by other authors. These correspondence folders are placed before any
+		  other folders of items by the same author. As a result, it is important to note
+		  that correspondence by any single author may be scattered throughout many
+		  folders in the collection. John Clough's original subject-oriented arrangement
+		  was deemed more significant than collation by personal name. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in nine series, with subseries as
+		  indicated:</p> 
+		<list type="simple"> 
+		  <item> 
+			 <ref target="series1" actuate="onrequest" show="replace">I.
+				Personal documents</ref> </item> 
+		  <item> 
+			 <ref target="series2" actuate="onrequest" show="replace">II.
+				Writings </ref> 
+			 <list type="simple"> 
+				<item> 
+				  <ref target="series2a" actuate="onrequest" show="replace">A.
+					 Articles and lectures</ref></item> 
+				<item> 
+				  <ref target="series2b" actuate="onrequest" show="replace">B.
+					 Writings with others</ref></item> 
+				<item> 
+				  <ref target="series2c" actuate="onrequest" show="replace">C.
+					 Analyses: pre-20th century</ref></item> 
+				<item> 
+				  <ref target="series2d" actuate="onrequest" show="replace">D.
+					 Analyses: 20th century</ref></item> 
+			 </list> </item> 
+		  <item> 
+			 <ref target="series3" actuate="onrequest" show="replace">III.
+				Research notes</ref> </item> 
+		  <item> 
+			 <ref target="series4" actuate="onrequest" show="replace">IV.
+				Articles and papers by other authors</ref> </item> 
+		  <item> 
+			 <ref target="series5" actuate="onrequest" show="replace">V.
+				Subject and conference files</ref> </item> 
+		  <item> 
+			 <ref target="series6" actuate="onrequest" show="replace">VI.
+				Grant applications</ref> </item> 
+		  <item> 
+			 <ref target="series7" actuate="onrequest" show="replace">VII.
+				Publications</ref> </item> 
+		  <item> 
+			 <ref target="series8" actuate="onrequest" show="replace">VIII.
+				Bibliographies</ref> </item> 
+		  <item> 
+			 <ref target="series9" actuate="onrequest" show="replace">IX.
+				Annotated books</ref> </item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Personal Documents, 
+				<unitdate type="inclusive" normal="1988/1992"
+				 certainty="approximate">circa 1990</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 1</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>R&#x00e9;sum&#x00e9;, 
+				  <unitdate type="inclusive" normal="1988/1992"
+					certainty="approximate">circa 1990</unitdate> </unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Writings, 
+				<unitdate type="inclusive" datechar="creation"
+				 normal="1979/2002">1979-2002</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 2-52</extent></physdesc> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2a">II.A</unitid> 
+				<unittitle>Articles and lectures (some with commentary by others), 
+				  <unitdate type="inclusive"
+					normal="1979/2002">1979-2002</unitdate></unittitle> 
+				<physdesc><extent>Folders 2-16</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by title. Some folders contain notes and correspondence with others.</p> 
+			 </arrangement> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">2</container>
+				  <unittitle>
+					 <title type="article">Aspects of diatonic sets</title> In 
+					 <title type="journal">Journal of Music Theory</title>,  23:1, 1979</unittitle>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">3</container>
+				  <unittitle>
+					 <title>Chord personality profiles: the exclusion relation
+						</title>
+				  </unittitle>
+				  <note>
+					 <p>Lecture, 17 March 1981, with notes, illustrations, and
+						notes</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">4</container>
+				  <unittitle>
+					 <title>Diatonic interval sets </title>
+				  </unittitle>
+				  <note>
+					 <p>Commentary from Jay Rahn</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">5</container>
+				  <unittitle>
+					 <title type="article">Diatonic interval sets and transformational structures
+						</title>
+				  </unittitle>
+				  <note>
+					 <p>Reprint from 
+					 <title type="journal">Perspectives of New Music</title> Fall-Winter 1979</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">6</container>
+				  <unittitle>
+					 <title type="article">Diatonic trichords in two pieces from Kurt&#x00E1;g's
+						Kafka-Fragmente: a neo-Riemannian approach </title>
+				  </unittitle>
+				  <note>
+					 <p>Offprint from 
+					 <title type="journal">Studia Musicologica Academiae Scientarium
+						Hungaricae</title> 43:3-4, 2002</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">7</container>
+				  <unittitle>
+					 <title>An example of diatonic hierarchy in Beethoven's Symphony no. 5 in C minor, second movement </title>
+				  </unittitle>
+				  <note>
+					 <p>Lecture, 30 April 1981, University at Buffalo</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">8</container>
+				  <unittitle>
+					 <title>Game of triad </title>
+				  </unittitle>
+				  <note>
+					 <p>Originally housed in Folder 15 with 
+					 <title>Some unstudied diatonic structures in classical
+						music</title></p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">9</container>
+				  <unittitle>
+					 <title>Interval circles </title>
+				  </unittitle>
+				  <note>
+					 <p>Lecture, 2 May 1990, University at Buffalo</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">10</container>
+				  <unittitle>
+					 <title>Motivic shape in the late string quartets of Beethoven
+						</title>
+				  </unittitle>
+				  <note>
+					 <p>Typescript with annotations, January 1982</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">11</container>
+				  <unittitle>
+					 <title>Music and mathematics </title>
+				  </unittitle>
+				  <note>
+					 <p>Lecture, 11 March 1980, University of Michigan</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">12</container>
+				  <unittitle>
+					 <title>Music and mathematics: some recent connections </title>
+				  </unittitle>
+				  <note>
+					 <p>Lecture, 24 February 1994, Mt. Holyoke College</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">13</container>
+				  <unittitle>
+					 <title>A new theorem of the diatonic set </title>
+				  </unittitle>
+				  <note>
+					 <p>Lecture, with illustrations and annotations, 25 April 1984, University at Buffalo</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">14</container>
+				  <unittitle>
+					 <title>Scale theory, finger exercises, and ear training
+						</title>
+				  </unittitle>
+				  <note>
+					 <p>Lecture, 31 October 1987, Music Teachers' National
+						Association Meeting, Buffalo</p>
+				  </note>
+				</did>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">15</container>
+				  <unittitle>
+					 <title>Some unstudied diatonic structures in classical music
+						</title>
+				  </unittitle>
+				</did>
+				<scopecontent>
+				  <p>Examples only</p>
+				</scopecontent>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">16</container>
+				  <unittitle>
+					 <title>Trichords and transformations in two pieces from Gy&#x00F6;rgy
+						Kurt&#x00E1;g's Kafka-Fragments </title>
+				  </unittitle>
+				  <note>
+					 <p>Version of paper presented at Buffalo Symposium on
+						Neo-Riemannian Theory, 20-21 July 2001, with notes, examples, and
+						correspondence. </p>
+				  </note>
+				</did>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2b">II.B</unitid> 
+				<unittitle>Writings with others, 
+				  <unitdate normal="1989/2000"
+					datechar="creation" type="inclusive">1981-2000</unitdate> </unittitle> 
+				<physdesc><extent>Folder 17-21</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by co-author names, then by title. Some
+				  folders contain notes or correspondence. </p> 
+			 </arrangement> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">17</container>
+				  <unittitle>
+					 <persname>Douthett, Jack</persname>
+					 <title>Hyperscales and the generalized tetrachord</title>
+				  </unittitle>
+				</did>
+				<scopecontent>
+				  <p>The article itself is not included. Two readers' reports and
+					 notes. The article was published in 
+				  <title type="journal">Journal of Music Theory</title> 41:1, Spring 1997.</p>
+				</scopecontent>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">18</container>
+				  <unittitle>
+					 <persname>Douthett, Jack</persname> 
+					 <title>Maximally even sets</title></unittitle>
+				</did>
+				<scopecontent>
+				  <p>Includes version presented in October 1989, with examples and
+					 notes.</p>
+				</scopecontent>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">19</container>
+				  <unittitle>
+					 <persname>Douthett, Jack</persname>, and  
+					 <persname>Krantz, Richard</persname>
+					 <title>Maximally even sets: a discovery in mathematical music
+						theory is found to apply in physics</title></unittitle>
+				</did>
+				<scopecontent>
+				  <p>Different versions of the text, with older title, 
+				  <title>Music, mathematics, and magnetic ordering</title>.
+				  Includes correspondence and notes for revisions, 1996-2000.</p>
+				</scopecontent>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">1</container>
+				  <container type="folder">20</container>
+				  <unittitle>
+					 <persname>Ehrenkreutz, Stefan</persname>
+					 <title>Diatonic hierarchies in tonal music</title></unittitle>
+				</did>
+				<scopecontent>
+				  <p>Partial draft, with examples for 29 October 1981 presentation,
+					 notes, and correspondence.</p>
+				</scopecontent>
+			 </c03> 
+			 <c03 level="item">
+				<did>
+				  <container type="box">2</container>
+				  <container type="folder">21</container>
+				  <unittitle>
+					 <persname>Myerson, Gerald </persname>
+					 <title>Variety and multiplicity in diatonic
+						systems</title></unittitle>
+				</did>
+				<scopecontent>
+				  <p>Includes preliminary form under Clough's name alone, titled 
+				  <title>Chord structure and multiplicity in embedded diatonic
+					 systems</title>. Also submitted as 
+				  <title>Musical scales and the generalized circle of
+					 fifths</title> to 
+				  <title type="journal">American Mathematical Monthly</title>, a version for
+				  scientists.</p>
+				</scopecontent>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2c">II.C</unitid> 
+				<unittitle>Analyses: pre-20th century, 
+				  <unitdate normal="1959/2002"
+					datechar="creation"  type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>Folder 22-31</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by name of composer, with miscellaneous
+				  folder at end of sequence. </p> 
+			 </arrangement> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">22</container> 
+				  <unittitle>18th century counterpoint (chiefly Johann Sebastian
+					 Bach)</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">23</container> 
+				  <unittitle>Beethoven, Ludwig van </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">24</container> 
+				  <unittitle>Brahms, Johannes </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">25</container> 
+				  <unittitle>Chopin, Fr&#x00e9;d&#x00e9;ric </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">26</container> 
+				  <unittitle>Haydn, Joseph </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">27</container> 
+				  <unittitle>Mozart, Wolfgang Amadeus </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">28</container> 
+				  <unittitle>Schubert, Franz </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">29</container> 
+				  <unittitle>Schumann, Robert </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">30</container> 
+				  <unittitle>Wagner, Richard </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <container type="folder">31</container> 
+				  <unittitle>Pre-20th century miscellaneous </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2d">II.D</unitid> 
+				<unittitle>Analyses: 20th century, 
+				  <unitdate normal="1959/2002"
+					datechar="creation" type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>Folder 32-52</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by name of composer, with miscellaneous
+				  folder at end of sequence.</p> 
+			 </arrangement> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">32</container> 
+				  <unittitle>Babbitt, Milton </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">33</container> 
+				  <unittitle>Barber, Samuel </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">34</container> 
+				  <unittitle>Bartók, B&#x00e9;la </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">35</container> 
+				  <unittitle>Berg, Alban </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">36</container> 
+				  <unittitle>Capers, Valerie </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">37</container> 
+				  <unittitle>Coltrane, John </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">38</container> 
+				  <unittitle>Dallapiccola, Luigi </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">39</container> 
+				  <unittitle>Debussy, Claude </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">40</container> 
+				  <unittitle>Hindemith, Paul </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">41</container> 
+				  <unittitle>Messiaen, Olivier </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">42</container> 
+				  <unittitle>Reich, Steve </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">43</container> 
+				  <unittitle>Schoenberg, Arnold - General </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">44</container> 
+				  <unittitle>Schoenberg, Arnold - Op. 33a, 33b </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">45</container> 
+				  <unittitle>Schoenberg, Arnold - Moses und Aron </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <container type="folder">46</container> 
+				  <unittitle>Scriabin, Aleksandr Nikolayevich </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <container type="folder">47</container> 
+				  <unittitle>Stravinsky, Igor </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <container type="folder">48</container> 
+				  <unittitle>Webern, Anton von - Op. 22 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <container type="folder">49</container> 
+				  <unittitle>Webern, Anton von - Op. 24 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <container type="folder">50</container> 
+				  <unittitle>Webern, Anton von - Op. 29 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <container type="folder">51</container> 
+				  <unittitle>Webern, Anton von - Collected </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <container type="folder">52</container> 
+				  <unittitle>20th century - Miscellaneous </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Research notes, 
+				<unitdate type="inclusive" normal="1959/1999"
+				 datechar="creation">1959-1999</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 53-71</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by folder title. Extent of contents
+				varies, including articles, clippings, notes, and correspondence. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">53</container> 
+				<unittitle>Change ringing </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Articles by Arthur White</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">54</container> 
+				<unittitle>Concentric circle problem </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>6 leaves, no date</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">55</container> 
+				<unittitle>Diatonic interval cycles and hierarchical structure
+				  </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Reviews of Clough's article, notes, and correspondence with Jay
+				  Rahn, David Lewin, Gerald Myerson, 1989-1990</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">56</container> 
+				<unittitle>Indian scales </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Notes and correspondence with Jack Douthett, Lewis Rowell </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">57</container> 
+				<unittitle>Indian scales, part 2 </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Articles by Lewis Rowell: How universal is the idea of mode?
+				  Evidence from Asia ; Scale and mode in ancient Tamil music literature; The
+				  origin of the Indian 22-tone system by Mieczyslaw Kolinski (1961); Pitch-class
+				  techniques, the pure fifth, and the East Indian grama family by Jack Douthett
+				  (Aug. 1982) With notes by John Clough, correspondence with Jack Douthett, Lewis
+				  Rowell, and Jay Rahn</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">58</container> 
+				<unittitle>Kurt&#x00E1;g research </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Notes, clippings, articles, and correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">59</container> 
+				<unittitle>Long-range plans, etc. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">60</container> 
+				<unittitle>Microtonality </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Collection of articles and papers by Chris Mohr, John Chalmers,
+				  Richard Sanford, and Jim Horton</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">61</container> 
+				<unittitle>Music and mathematics, etc. </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence with David Clampitt and Jack Douthett,
+				  1988-1991</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">62</container> 
+				<unittitle>Number theory at University of Michigan </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>March 1979 issue of 
+				<title>Research News: Pure mathematics: problems and prospects in
+				  number theory</title></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">63</container> 
+				<unittitle>Positional evenness</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">64</container> 
+				<unittitle>Projects in diatonic theory and evenness </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">65</container> 
+				<unittitle>Research notes 1 </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">66</container> 
+				<unittitle>Research notes 2 </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">67</container> 
+				<unittitle>Research notes - Summer 1959 </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">68</container> 
+				<unittitle> Scales, sets, and interval cycles: a taxonomy
+				  </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Residual notes for article printed in 
+				<title>Music Theory Spectrum</title> 21:1, Spring 1999</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">69</container> 
+				<unittitle>Science and art </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Clippings</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">70</container> 
+				<unittitle>Set theory - miscellaneous </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">71</container> 
+				<unittitle>Wong proof (x set) ; Clough proof (hex theorem)
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Articles and papers by other authors, 
+				<unitdate type="inclusive" normal="1960/2000"
+				datechar="creation">1960-2000</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 72-368</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by author names. Folders containing only
+				correspondence are filed before other entries for an author. Many articles or
+				papers also include correspondence specifically related to that paper. Some
+				folders contain only the handouts or examples used with a presentation rather
+				than the entire paper. Papers by unidentified authors are at the end of the
+				sequence, arranged alphabetically by title. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">72</container> 
+				<unittitle> 
+				  <persname>Agmon, Etyan </persname>, 
+				  <unitdate type="inclusive">1988-1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 14 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">73</container> 
+				<unittitle> 
+				  <persname>Agmon, Etyan </persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Categories and prototypes in music: diatonic intonation and
+				  functional harmony</title>. Handout Paper for Society for Music Theory 15th
+				Annual Meeting</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">74</container> 
+				<unittitle> 
+				  <persname>Agmon, Etyan </persname>, 
+				  <unitdate type="inclusive">1989</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>A mathematical model of the diatonic system</title>, In 
+				<title render="italic">Journal of Music Theory</title> 33:1, 1989.
+				Incomplete photocopy of typescript, two printed copies, and comments. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">75</container> 
+				<unittitle> 
+				  <persname>Agmon, Etyan </persname>, 
+				  <unitdate type="inclusive">1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Music theory as a cognitive science: some conceptual and
+				  methodological issues</title>, In 
+				<title render="italic">Music Perception</title> 7:3, Spring
+				1990</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">76</container> 
+				<unittitle> 
+				  <persname>Agmon, Etyan </persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Towards a diatonic theory of intonation</title>. Two
+				versions: Photocopy of typescript, presented at meeting of the European Society
+				for the Cognitive Science of Music, Oct. 1991; Reprint from 
+				<title render="italic">Interface</title> 22, 1993.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">77</container> 
+				<unittitle> 
+				  <persname>Agmon, Etyan </persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>When formal truths are intuitively problematic: inversional
+				  equivalence, distance, and the normed space.</title></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">78</container> 
+				<unittitle> 
+				  <persname>Agmon, Etyan</persname> and 
+				  <persname>Ramat-Gan</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Linear transformations between cyclically generated chords
+				  </title>, In 
+				<title render="italic">Musikometria</title> 3, 1991</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">79</container> 
+				<unittitle> 
+				  <persname>Ahn, So-Yung </persname>, 
+				  <unitdate type="inclusive">circa 2002</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Dissertation materials</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">80</container> 
+				<unittitle> 
+				  <persname>Alegant, Brian</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence and notes</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">81</container> 
+				<unittitle> 
+				  <persname>Alegant, Brian</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Generalizing twelve-tone combinatoriality</title> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">82</container> 
+				<unittitle> 
+				  <persname>Alegant, Brian</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Programs for the enumeration and analysis of twelve-tone
+				  mosaics</title></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">83</container> 
+				<unittitle> 
+				  <persname>Alegant, Brian</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Six of one half a dozen of the other: partitions and Milton
+				  Babbitt's Sextets</title></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">84</container> 
+				<unittitle> 
+				  <persname>Alegant, Brian</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">When even becomes odd: a partitional approach to inversion
+				 </title>. Paper Paper for Society for Music Theory Meeting, 1996</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">85</container> 
+				<unittitle> 
+				  <persname>Alegant, Brian</persname> and 
+				  <persname>McLean, Don</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">On the nature of enlargement</title>. Paper for
+				Society for Music Theory Meeting, November 4, 1995</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">86</container> 
+				<unittitle> 
+				  <persname>Alpern, Wayne</persname>, 
+				  <unitdate type="inclusive"> 1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Minimum aggregate partitions: mapping timepoints in
+				  Babbitt's third and fourth string quartets</title>. Paper for Society for
+				Music Theory Meeting, November 2, 1996</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">87</container> 
+				<unittitle> 
+				  <persname>Althius, Theo. A.</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title  render="italic">Mathematical structures in atonal music</title>. Master's
+				thesis, Feb. 2000</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">88</container> 
+				<unittitle> 
+				  <persname>Balzano, Gerald J.</persname>, 
+				  <unitdate type="inclusive">1980</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The group-theoretic description of 12-fold and microtonal
+				  pitch systems </title>, In 
+				<title type="journal">Computer Music Journal</title> 4:4, Winter
+				1980</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">89</container> 
+				<unittitle> 
+				  <persname>Balzano, Gerald J.</persname>, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The pitch set as a level of description for studying musical
+				  pitch perception </title>, In 
+				<title type="journal">Music, Mind, and Brain: the neuropsychology
+				  of music</title>, 1982</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">90</container> 
+				<unittitle> 
+				  <persname>Barbaud, Pierre</persname>, 
+				  <unitdate type="inclusive">1993</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Vademecum de l'ing&#x00e9;nieur en musique</title>,
+				1993. Chapter 3. Triades at Accords</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">91</container> 
+				<unittitle> 
+				  <persname>Bass, Richard</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title  render="italic">Half-diminished functions and transformations in
+				  late-Romantic music</title>. Examples, 2000?</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">92</container> 
+				<unittitle> 
+				  <persname>Berry, David Carson</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The exclusion quotient</title>. With correspondence.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">93</container> 
+				<unittitle> 
+				  <persname>Bier, Carol</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Elements of plane symmetry in Oriental carpets </title>, In 
+				<title type="journal">Textile Museum Journal</title>, 1992</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">94</container> 
+				<unittitle> 
+				  <persname>Blau, Stephen K.</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The hexachordal theorem: a mathematical look at interval
+				  relations in twelve-tone composition </title>, In 
+				<title type="journal">Mathematics Magazine</title> 72:4, Oct.
+				1999</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">95</container> 
+				<unittitle> 
+				  <persname>Boge, Claire</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">96</container> 
+				<unittitle> 
+				  <persname>Boge, Claire</persname>, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Idea and analysis: aspects of unification in musical explanation </title>, 1988</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">6</container> 
+				<container type="folder">97</container> 
+				<unittitle> 
+				  <persname>Boge, Claire</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Poetic analysis and the musical experience</title>. Paper
+				presented at Music Theory Midwest Meeting, May 17, 1991</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">98</container> 
+				<unittitle> 
+				  <persname>Bombieri, Enrico</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Prime territory: exploring the infinite landscape at the
+				  base of the number system </title>, In 
+				<title type="journal">The Sciences</title>, September/October
+				1992</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">99</container> 
+				<unittitle> 
+				  <persname>Browne, Richmond</persname>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Tonal implications of the diatonic set </title>, In 
+				<title type="journal">In Theory Only</title> 5:6-7, 1981</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">100</container> 
+				<unittitle> 
+				  <persname>Buchler, Michael</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">An alternative to the interval-class vector and its use in
+				  relating abstract pitch-class sets</title>. Paper presented at Society for
+				Music Theory Meeting, November 3, 1995</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">101</container> 
+				<unittitle> 
+				  <persname>Buchler, Michael</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A cycle-based system for relating pitch-class sets</title>.
+				Paper presented at Society for Music Theory Meeting, 1997</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">102</container> 
+				<unittitle> 
+				  <persname>Buchler, Michael</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Scale-step sequences in tonal music</title>. Paper
+				presented at Music Theory Midwest Meeting, May 14, 1999</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">103</container> 
+				<unittitle> 
+				  <persname>Cambouropoulos, Emilios</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">A general pitch interval representation: theory and
+				  applications</title>. Reprint from 
+				<title type="journal">Journal of New Music Research</title> 25,
+				1996</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">104</container> 
+				<unittitle> 
+				  <persname>Cambouropoulos, Emilios</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Unscramble: a new unsupervised symbolic machine learning
+				  algorithm - excerpt</title>. March 1997</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">105</container> 
+				<unittitle> 
+				  <persname>Capuzzo, Guy</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">CUP spaces in post-tonal music</title>. Paper presented at
+				Society for Music Theory Meeting, November 5, 2000</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">106</container> 
+				<unittitle> 
+				  <persname>Capuzzo, Guy</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Pitch space ordering types in the recent solo music of
+				  Elliott Carter</title>. Paper presented at Music Theory Society of New York
+				State Meeting, April 13, 1997</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">107</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 1 item</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">108</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Amarantha</title>. Composition with
+				correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">109</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Coherence and failure: a general theory of ambiguity and
+				  contradiction</title>. Paper presented at Society for Music Theory Meeting,
+				November 5, 2000</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">110</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Generic ordering in well-formed scales</title>. With
+				correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">111</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Illustrations for lecture, University at Buffalo, October 26,
+				  1992</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">112</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The ordering of generic intervals in well-formed
+				  scales</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">113</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Well-formed scales and the invariant generator</title>. </p>
+				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">114</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname> and 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1989</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Aspects of well-formed scales </title>, In 
+				<title type="journal">Music Theory Spectrum</title> 11:2, 1989</p>
+				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">115</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname> and <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Pythagorean scales and the Nicomachus triangle</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">116</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname> and <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Regions: a theory of tonal spaces in early Medieval
+				  treatises</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">117</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname> and <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1986</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Structural properties of musical scales</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">118</container> 
+				<unittitle> 
+				  <persname>Carey, Norman</persname> and <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Two theorems concerning rational approximations</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">119</container> 
+				<unittitle> 
+				  <persname>Chailley, J.</persname>, 
+				  <unitdate type="inclusive">1960</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Essai analytique sur la formation de l'octoechos latin
+				  </title>, In 
+				<title type="journal">Essays presented to Egon Wellesz</title>,
+				1960</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">120</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname>, 
+				  <unitdate type="inclusive">1994-1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">121</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Construction and harmonization of microtonal scales in
+				  non-twelve-tone equal temperaments</title>. With copy in Italian</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">122</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname>, 
+				  <unitdate type="inclusive">1975</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Cyclic scales</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">123</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Music and geometry</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">124</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Tritriadic scales with seven tones</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">125</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname>, 
+				  <unitdate type="inclusive">1986</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Tritriadic scales with seven tones, Part Two: derived forms
+				  and structural properties</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">126</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Tritriadic scales with seven tones, Part Three: The M-T and
+				  D-M matrices</title></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">127</container> 
+				<unittitle> 
+				  <persname>Chalmers, John H.</persname> and <persname>Wilson, Ervin M.</persname>, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Combination product sets and other harmonic and melodic
+				  structures</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">128</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1988-1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 6 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">129</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1994-1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence with Richard Cohn and David Lewin, 3 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">130</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Alternative interpretations of some measures from Parsifal
+				 </title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">131</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Aspects of taxonomic and transformational music theories
+				 </title>. Examples, March 16, 2000</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">132</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Brahms paper</title>. Fall 1999</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">133</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Lumpiness is orthogonal to smoothness</title>. Examples,
+				March 18, 1992</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">134</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Maximally even sets summary</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">7</container> 
+				<container type="folder">135</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>nlog23</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">136</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Notes on Pythagorean tuning and well-formed scales</title>.
+				6 NOvember 1992 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">137</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Ramsey theory, unary transformations, and Webern's op. 5,
+				  no. 4</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">138</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Recent diatonic theory and the <emph render="bold">Scholia
+				  Enchiriadis</emph></title>. October 1992</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">139</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Riemann groups</title>. 1 December 1996</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">140</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Some refinements on the three gap theorem with applications to music</title>. Paper presented at International Symposium on Music and Mathematics, May 29-30, 1994</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">141</container> 
+				<unittitle> 
+				  <persname>Clampitt, David</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Structural and transformational properties of pairwise
+				  well-formed scales</title>. Paper presented at Society for Music Theory
+				Meeting, October 1997</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">142</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 4 items between Clough, Cohn, Jack Douthett,
+				  David Clampitt, and David Lewin; with other examples</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">143</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1998</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Brahms's complex hemiolas</title>. October 1998</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">144</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Maximally smooth cycles, hexatonic systems, and the analysis
+				  of late-Romantic triadic progressions </title>, In 
+				<title type="journal">Music analysis</title> 15:1, March 1996</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">145</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Metric and hypermetric dissonance in the Menuetto of
+				  Mozart's Symphony in G Minor, K. 550 </title>, In 
+				<title type="journal">Int&#x00e9;gral</title> 6, 1993</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">146</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1998</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Music theory's new pedagogability </title>, In 
+				<title type="journal">Music Theory Online</title> 4:2, 1998 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">147</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Neo-Riemannian operations, parsimonious trichords, and their
+				  Tonnetz representations </title>, In 
+				<title type="journal">Journal of Music Theory</title> 41:1, 1997
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">148</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1994-1998</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The over-determined triad: a group-theoretic approach to
+				  chromatic harmony</title>. Book prospectus, 1994, 1998</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">149</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1992-1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">P-related sets</title>. With correspondence, including with
+				Paul Ishihara </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">150</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Properties and generability of transpositionally invariant sets </title>, In 
+				<title type="journal">Journal of Music Theory</title> 35, 1991
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">151</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Thematicized hemiolas, rhythmic normalization, and the
+				  metric consonance/dissonance metaphor</title>. Examples for paper presented at
+				Society for Music Theory Meeting, October 18, 1992</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">152</container> 
+				<unittitle> 
+				  <persname>Cohn, Richard</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Transpositional combination of beat-class sets in Steve
+				  Reich's phase-shifting music (with earlier version) </title>, In 
+				<title type="journal">Perpspectives of New Music</title> 30:2,
+				Summer 1992. Earlier working title: 
+				<title render="italic">Teleology, craft, tradition, and analysis in a minimalist
+				  context: transpositional combination of beat-class sets in Steve Reich's
+				  phase-shifting music</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">153</container> 
+				<unittitle> 
+				  <persname>Corless, Robert M.</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Continued fractions and chaos </title>, In 
+				<title type="journal">American Mathematical Monthly</title> 99:3,
+				March 1992</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">154</container> 
+				<unittitle> 
+				  <persname>Cuciurean, John</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Properties of equal-tempered microtonal scales in Easley
+				  Blackwood's 12 Microtonal etudes, op. 28.</title>. 14 December 1994</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">155</container> 
+				<unittitle> 
+				  <persname>Dembski, Stephen</persname>, 
+				  <unitdate type="inclusive">1989</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Steps and skips from content and order: aspects of a
+				  generalized step-class system</title>. With correspondence (1 item) to Clough.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">156</container> 
+				<unittitle> 
+				  <persname>Derrick, William</persname>; <persname>Eidswick, Jack</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Continued fractions, Chebychev polynomials, and chaos
+				  </title>, In 
+				<title type="journal">American Mathematical Monthly</title> 102:4,
+				April 1995</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">157</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1989-1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence and miscellaneous notes, 18 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">158</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence on Knuth problem</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">8</container> 
+				<container type="folder">159</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1992-1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence on Pn relations</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">160</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">An approach to ETS theory</title>. Lecture notes</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">161</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Boolean rings</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">162</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">November 1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Circular distribution and measurements</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">163</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1989</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Combinatorial properties of diatonic scale theory</title>.
+				Lecture notes</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">164</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Floor functions and maximally even sets and
+				  configurations</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">165</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Formal mathematical intervallic notation</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">166</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Inversion graphs</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">167</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Iterated symmetry and the dynamics of voice leading</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">168</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Me and music</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">169</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">P-relations</title>. Addressed to Richard Cohn</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">170</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Pn-relations and scale theory</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">171</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A perceptual approach to the metastructure of music</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">172</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Pitch-class techniques, the pure fifth, and the East Indian
+				  grama family</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">173</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Set properties of the series type used in Webern's Concerto
+				  for Nine Instruments, op. 24</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">174</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>3-dimensional tiling</title>. 29 October 1997</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">175</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>The twin primes problem and musical scales and chords (MP,
+				  CV, and twin primes)</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">176</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">July 1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>The 2-dimensional antiferromagnetic Ising model</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">177</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, 
+				  <unitdate type="inclusive">1991-1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>[Wheels and maximally even sets]</title>. Pencil ms., 5
+				June 1991. Typescript, 26 June 1996</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">178</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname> and <persname>Block, Steven</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Vector products and intervallic weighting</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">179</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname> and <persname>Entringer, Roger</persname> and <persname>Krantz, Richard</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Tuning and continued fractions</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">180</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname> and <persname>Entringer, Roger</persname> and <persname>Mullhaupt, Andrew</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Musical scale construction: the continued fraction
+				  compromise</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">181</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname> and <persname>Krantz, Richard</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Construction and interpretation of equal-tempered scales
+				  using frequency ratios, maximally even sets, and P-cycles </title>, In 
+				<title type="journal">Journal of the Acoustical Society of
+				  America</title> 107:5, May 2000</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">182</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname> and <persname>Krantz, Richard</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Energy extremes and spin configurations for the
+				  one-dimensional antiferromagnetic Ising model with arbitrary-range interaction
+				  </title>, In 
+				<title type="journal">Journal of Mathematical Physics</title>
+				37:7, July 1996</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">183</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname> and <persname>Krantz, Richard</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A measure of the reasonableness of equal-tempered musical
+				  scales</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">184</container> 
+				<unittitle> 
+				  <persname>Douthett, Jack</persname>, <persname>Krantz, Richard</persname> and <persname>Doty, Steven D.</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Maximally even sets and the devil's staircase phase diagram
+				  for the one-dimensional Ising antiferromagnet with arbitrary-range interaction
+				 </title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">185</container> 
+				<unittitle> 
+				  <persname>Dubiel, Joseph</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Function, explanation, and interpretation</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">186</container> 
+				<unittitle> 
+				  <persname>Dugger, Ed</persname>, 
+				  <unitdate type="inclusive">July 27 1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 1 item</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">187</container> 
+				<unittitle> 
+				  <persname>Dunne, Edward</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Pianos and continued fractions</title>. Paper presented at
+				American Mathematical Society Meeting, January 10 1999</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">188</container> 
+				<unittitle> 
+				  <persname>Engebretsen, Nora</persname>, 
+				  <unitdate type="inclusive">December 1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Some comments on the generation of certain scales with
+				  multiple constraints</title>. Notes from John Clough, David Clampitt, and
+				Engebretsen; article itself not included . Originally in folder with residual
+				notes for 
+				<title render="italic">Scales, sets, and interval cycles: a taxonomy</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">189</container> 
+				<unittitle> 
+				  <persname>Erlich, Paul</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Tuning, tonality, and twenty-two-tone temperament</title>.
+				With correspondence, 15 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">190</container> 
+				<unittitle> 
+				  <persname>Forte, Allen</persname>, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Pitch-class set genera and the origin of modern harmonic
+				  species </title>, In 
+				<title type="journal">Journal of Music Theory</title> 32:2, Fall
+				1988 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">191</container> 
+				<unittitle> 
+				  <persname>Foulkes-Levy, Laurdella</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">LFB: Diatonic theory notes</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">192</container> 
+				<unittitle> 
+				  <persname>Foulkes-Levy, Laurdella</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Three categories of chord connection and their interactions
+				  with harmonic activity and musical form</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">193</container> 
+				<unittitle> 
+				  <persname>Fraenkel, Aviezri S.</persname>, 
+				  <unitdate type="inclusive">1969</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The bracket function and complementary sets of integers
+				  </title>, In 
+				<title type="journal">Canadian Journal of Mathematics</title>,
+				1969 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">9</container> 
+				<container type="folder">194</container> 
+				<unittitle> 
+				  <persname>Fuller, Sarah</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Examples for Fuller: "Defending the <emph
+				  render="italic">Dodecachordon</emph>" . Written by Clough</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">195</container> 
+				<unittitle> 
+				  <persname>Gamer, Carlton</persname>, 
+				  <unitdate type="inclusive">1967</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Deep scales and difference sets in equal-tempered systems
+				 </title>. American Society of University Composers: Proceedings of the annual
+				conference. II (1967). With accompanying notes by Clough </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">196</container> 
+				<unittitle> 
+				  <persname>Gamer, Carlton</persname>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Et setera: some temperamental speculations </title>, In 
+				<title type="journal">Music Theory</title>: special topics, 1981
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">197</container> 
+				<unittitle> 
+				  <persname>Gamer, Carlton</persname>, 
+				  <unitdate type="inclusive"> 1967</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Some combinatorial resources of equal-tempered systems
+				  </title>, In 
+				<title type="journal">Journal of Music Theory</title> 11:1, Spring
+				1967 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">198</container> 
+				<unittitle> 
+				  <persname>Gamer, Carlton</persname>, <persname>Roeder, David W.</persname>, and <persname>Watkins, John J.</persname>, 
+				  <unitdate type="inclusive">1985</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Trapezoidal numbers </title>, In 
+				<title type="journal">Mathematics Magazine</title> 58:2, March
+				1985 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">199</container> 
+				<unittitle> 
+				  <persname>Gamer, Carlton</persname> and <persname>Wilson, Robin J.</persname>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Musical block designs </title>, In 
+				<title type="journal">Ars combinatorial</title> 16-A, 1983 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">200</container> 
+				<unittitle> 
+				  <persname>Gauldin, Robert</persname>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The cycle-7 complex: relations of diatonic set theory to the
+				  evolution of ancient tonal systems </title>, In 
+				<title type="journal">Music Theory Spectrum</title> 5, Spring 1983
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">201</container> 
+				<unittitle> 
+				  <persname>George, Thomas F.</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Clusters and microstructures</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">202</container> 
+				<unittitle> 
+				  <persname>George, Thomas F.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Derivation of the model </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">203</container> 
+				<unittitle> 
+				  <persname>George, Thomas F.</persname> and <persname>Jelski, Daniel A.</persname>, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Clusters: link between molecules and solids </title>, In 
+				<title type="journal">Journal of Chemical Education</title> 65,
+				October 1988 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">204</container> 
+				<unittitle> 
+				  <persname>George, Thomas F.</persname>, <persname>Jelski, Daniel A.</persname> and <persname> Wu, Z. C.</persname>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Vibrational motions of Buckminsterfullerene </title>, In 
+				<title type="journal">Chemical Physics Letters</title> 137:3, 12
+				June 1987 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">205</container> 
+				<unittitle> 
+				  <persname>George, Thomas F.</persname>, <persname>Wang, Youqi</persname>, <persname>Lindsay, D. M.</persname>, and <persname> Beri, A. C.</persname>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The Hückel model for small metal clusters. I. Geometry,
+				  stability and relationship to graph theory </title>, In 
+				<title type="journal">Journal of Chemical Physics</title> 86:6, 15
+				March 1987 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">206</container> 
+				<unittitle> 
+				  <persname>George, Thomas F.</persname>, <persname>Wang, Youqi,</persname> and <persname> Lindsay, D. M.</persname>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The Hückel model for small metal clusters. II. Orbital
+				  energies, shell structures, ionization potentials, and extrapolation to the
+				  bulk limit </title>, In 
+				<title type="journal">Journal of Chemical Physics</title> 86:6, March 15 1987 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">207</container> 
+				<unittitle> 
+				  <persname>George, Thomas F.</persname>, <persname>Wang, Youqi</persname>, and <persname>Lindsay, D. M.</persname>, 
+				  <unitdate type="inclusive">1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The Hückel model for small metal clusters. IV. Orbital
+				  properties and cohesive energies for model clusters of up to several hundred
+				  atoms </title>, In 
+				<title type="journal">Journal of Cluster Science</title> 1:1,
+				March 1990 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">208</container> 
+				<unittitle> 
+				  <persname>Gollin, Edward</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Crystallographic space lattices … Tonnetz. Figures for paper
+				  presented at Buffalo Music Theory Symposium, July 18-19, 1997. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">209</container> 
+				<unittitle> 
+				  <persname>Gollin, Edward</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">An interesting dihedral group, its automorphisms, and
+				  transformations in Bartók's "Minor seconds, major sevenths"</title>. Paper
+				presented at New England Conference of Music Theorists, 6 April 1997 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">210</container> 
+				<unittitle> 
+				  <persname>Gollin, Edward</persname>, 
+				  <unitdate type="inclusive">1998</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Transformational spaces and metaphorical journeys in some
+				  Schubert Lieder</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">211</container> 
+				<unittitle> 
+				  <persname>Gordon, Carolyn</persname> and <persname> Webb, David</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">You can't hear the shape of a drum </title>, In 
+				<title type="journal">American Scientist</title> 84,
+				January-February 1996 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">212</container> 
+				<unittitle> 
+				  <persname>Graham, R. L.</persname>, 
+				  <unitdate type="inclusive">1973</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Covering the positive integer by disjoint sets of the form …
+				  </title>, In 
+				<title type="journal">Journal of Combinatorial Theory</title> 15,
+				1973 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">213</container> 
+				<unittitle> 
+				  <persname>Grmela, Sylvia</persname>, 
+				  <unitdate type="inclusive">2000-2004</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Dissertation material on Kurtág </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">214</container> 
+				<unittitle> 
+				  <persname>Grmela, Sylvia</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Messiaen's <emph render="bold"> Pièce pour piano et
+				  quatuor à cordes</emph></title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">215</container> 
+				<unittitle> 
+				  <persname>Grmela, Sylvia</persname> 
+				  <unitdate type="inclusive">1997</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Paper presented at Society for Music Theory meeting, 1997 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">216</container> 
+				<unittitle> 
+				  <persname>Guy, Richard K.</persname>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Unsolved problems in number theory</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">217</container> 
+				<unittitle> 
+				  <persname>Guy, Richard K.</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Western number theory problems</title>. 19 December 1992,
+				22 December 1992 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">218</container> 
+				<unittitle> 
+				  <persname>Haack, Joel K.</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Clapping music - a combinatorial problem </title>, In 
+				<title type="journal">College Mathematics Journal</title> 22, 1991
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">219</container> 
+				<unittitle> 
+				  <persname>Hanson, Howard</persname>, 
+				  <unitdate type="inclusive">1960</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">The projection and interrelation of sonorities in equal
+				  temperament</title> from <title type="book">Harmonic Materials of Modern
+				  Music</title> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">220</container> 
+				<unittitle> 
+				  <persname>Hauptmann, Moritz</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The nature of harmony and metre (1888)</title>. Photocopy
+				of Da Capo Press reprint, 1991 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">221</container> 
+				<unittitle> 
+				  <persname>Heinemann, Stephen</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Boulez's elegant operation: pitch-class set multiplication
+				  in <emph render="bold">Le marteau sans ma&#x00E0;t;re</emph></title> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">222</container> 
+				<unittitle> 
+				  <persname>Herron, Amy J.</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Exploring melodic patterns in diatonic and chromatic music
+				 </title>. With correspondence </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">223</container> 
+				<unittitle> 
+				  <persname>Herstein, I. N.</persname>, 
+				  <unitdate type="inclusive">1964</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Topics in algebra</title>. Photocopy of p. 1-38 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">224</container> 
+				<unittitle> 
+				  <persname>Hook, Julian L.</persname>, 
+				  <unitdate type="inclusive">1999-2001</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence between Hook, Jack Douthett, and John Clough, 5
+				  items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">225</container> 
+				<unittitle> 
+				  <persname>Hook, Julian L.</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Cross-type transformations, GIS homomorphisms, and
+				  generalized transposition and inversion</title>. Paper presented at Indiana
+				Graduate Theory Association Symposium, Feb. 25, 2000 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">226</container> 
+				<unittitle> 
+				  <persname>Hook, Julian L.</persname>, 
+				  <unitdate type="inclusive">1 May 1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Equal-tempered approximations to intervals by the method of
+				  continued fractions</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">227</container> 
+				<unittitle> 
+				  <persname>Hook, Julian L.</persname>, 
+				  <unitdate type="inclusive">1999-2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Uniform triadic transformations: A Unified theory of triadic
+				  transformations</title>. Dissertation proposal, with correspondence </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">228</container> 
+				<unittitle> 
+				  <persname>Hughes, J. Robin</persname>, 
+				  <unitdate type="inclusive">1986</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 2 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">229</container> 
+				<unittitle> 
+				  <persname>Hyde, Martha</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">Dodecaphony: Schoenberg (op. 33b)</title>. From 
+				<title type="book">Early Twentieth Century Music</title>, 1993
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">230</container> 
+				<unittitle> 
+				  <persname>Hyer, Brian</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Reimag(in)ing Riemann </title>, In 
+				<title type="journal">Journal of Music Theory</title> 39:1, Spring
+				1995 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">231</container> 
+				<unittitle> 
+				  <persname>Isaacson, Eric J.</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Similarity relations in music analysis</title>. Paper
+				presented at Society for Music Theory Meeting, 1992 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">232</container> 
+				<unittitle> 
+				  <persname>Ishihara, Paul</persname> and <persname> Knapp, Michael</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Basic Z12 analysis of musical chords </title>, In 
+				<title type="journal">Tools for Teaching</title>, 1993 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">233</container> 
+				<unittitle> 
+				  <persname>Jefferis, Jim</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Analytically rich Klumpenhouwer networks: their properties
+				  and conditions</title>. Class paper for MUS613, 16 December 1996 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">234</container> 
+				<unittitle> 
+				  <persname>Johnson, Timothy</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 1 item </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">235</container> 
+				<unittitle> 
+				  <persname>Johnson, Timothy</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Foundations of diatonic theory: a supplemental text for
+				  introductory music theory classes</title>. With review by Clough </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">236</container> 
+				<unittitle> 
+				  <persname>Jones, Mari Reiss</persname>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Music as a stimulus for psychological motion: Part I. Some
+				  determinants of expectancies </title>, In 
+				<title type="journal">Psychomusicology</title> 1:2, 1981 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">237</container> 
+				<unittitle> 
+				  <persname>Jung, Jiyoung</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The new approach respect to contour theory in
+				  <emph render="bold">Deut</emph> by Milton Babbitt</title>. Notes for class
+				presentation, 10 December 1999 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">238</container> 
+				<unittitle> 
+				  <persname>K&#x00E1;rp&#x00E1;ti, J&#x00E1;nos</persname>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Alternative structures in Bart&#x00F3;k's <emph
+				  render="italic">Contrasts</emph></title>, In 
+				<title type="journal">Studia Musicologica Academiae Scientiarum
+				  Hungaricae</title> 23, 1981 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">239</container> 
+				<unittitle> 
+				  <persname>Kleeman, Emily</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Number theoretical relationships between mathematics and
+				  music</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">240</container> 
+				<unittitle> 
+				  <persname>Klein, Michael</persname>, 
+				  <unitdate type="inclusive">2001</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">241</container> 
+				<unittitle> 
+				  <persname>Klein, Michael</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Chopin's <emph render="bold">Etude in C</emph>, op. 10/1:
+				  text, context, and intertext</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">242</container> 
+				<unittitle> 
+				  <persname>Klumpenhouwer, Henry</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Essay on Lewin's and Hyer's use of transformations derived
+				  from Riemann's work </title>, In 
+				<title type="journal">Music Theory Online</title>, 1994 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">243</container> 
+				<unittitle> 
+				  <persname>Kochavi, Jonathan</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Musical groups </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">244</container> 
+				<unittitle> 
+				  <persname>Kochavi, Jonathan</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Sequences </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">245</container> 
+				<unittitle> 
+				  <persname>Kopp, D.</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A system of pentatonic organization in a Debussy prelude
+				 </title>. Paper presented at Society for Music Theory Meeting, Oct. 16, 1992
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">246</container> 
+				<unittitle> 
+				  <persname>Kreyszig, Walter</persname>, 
+				  <unitdate type="inclusive">1996-1998</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 8 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">247</container> 
+				<unittitle> 
+				  <persname>Krumhansl, Carol L.</persname>, 
+				  <unitdate type="inclusive">1995-1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 2 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">248</container> 
+				<unittitle> 
+				  <persname>Krumhansl, Carol L.</persname>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">General properties of musical pitch systems: some
+				  psychological considerations</title>. From 
+				<title type="book">Harmony and Tonality</title>, 1987 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">249</container> 
+				<unittitle> 
+				  <persname>Krumhansl, Carol L.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Perceptual analysis: tension and topic in music</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">250</container> 
+				<unittitle> 
+				  <persname>Krumhansl, Carol L.</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Rhythm and pitch in musical cognition </title>, In 
+				<title type="journal">Psychological Bulletin</title> 126:1, 2000
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">251</container> 
+				<unittitle> 
+				  <persname>Krumhansl, Carol L.</persname>, 
+				  <unitdate type="inclusive">1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">Tonal hierarchies in atonal and non-Western tonal music</title> ; <title type="chapter">
+				  Music cognition: theoretical and empirical generalizations</title>. Chapters
+				10 and 11 from the author's 
+				<title type="book">Cognitive Foundations of Musical
+				  Pitch</title> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">252</container> 
+				<unittitle> 
+				  <persname>Krumhansl, Carol L.</persname> and <persname> Kessler, Edward J.</persname>, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Tracing the dynamic changes in perceived tonal organization
+				  in a spatial representation of musical keys </title>, In 
+				<title type="journal">Psychological Review</title> 89:4, 1982 </p>
+				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">253</container> 
+				<unittitle> 
+				  <persname>Kurth, Richard</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A partition-lattice model of prolongation and progression in
+				  twelve-tone music</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">254</container> 
+				<unittitle> 
+				  <persname>Kurth, Richard</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Schoenberg and combinatoriality: another perspective</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">255</container> 
+				<unittitle> 
+				  <persname>Lefkoff, Gerald</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The complex functional fields in diatonic-tonal compositions
+				 </title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">256</container> 
+				<unittitle> 
+				  <persname>Lekkas, Demetrios E.</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence and excerpt from book </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">257</container> 
+				<unittitle> 
+				  <persname>Lerdahl, Fred</persname>, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">Cognitive constraints on compositional systems</title>.
+				From 
+				<title type="book">Cognitive Processes in Music</title> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">258</container> 
+				<unittitle> 
+				  <persname>Lewin, David</persname>, 
+				  <unitdate type="inclusive">1993-1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence with Clough, Richard Cohn, David Clampitt </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">259</container> 
+				<unittitle> 
+				  <persname>Lewin, David</persname>, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Formal theory of generalized tonal functions </title>, In 
+				<title type="journal">Journal of Music Theory</title> 26:1, Spring
+				1982. With correspondence </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">260</container> 
+				<unittitle> 
+				  <persname>Lewin, David</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Interesting cases of the interval function between
+				  pitch-class sets X and Y</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">261</container> 
+				<unittitle> 
+				  <persname>Lewin, David</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Transformational considerations in Schoenberg's Opus 23,
+				  number 3</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">262</container> 
+				<unittitle> 
+				  <persname>Lindley, Mark</persname>, 
+				  <unitdate type="inclusive">1980</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Mersenne on keyboard tuning </title>, In 
+				<title type="journal">Journal of Music Theory</title> 24:2, Fall
+				1980 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11</container> 
+				<container type="folder">263</container> 
+				<unittitle> 
+				  <persname>Lindley, Mark</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A systematic approach to chromaticism</title>. With
+				correspondence, 2 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">264</container> 
+				<unittitle> 
+				  <persname>Makeig, Scott</persname>, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">Affective versus analytic perception of musical intervals
+				 </title>. From 
+				<title type="book">Music, Mind, and Brain</title> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">265</container> 
+				<unittitle> 
+				  <persname>Mandell, Arnold J.</persname>, <persname>Selz, Karen A.</persname>, and <persname> Giangrande, Janice</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Eigenfunction themes and ergodic variations in jazz and
+				  classical music</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">266</container> 
+				<unittitle> 
+				  <persname>Mathews, M. V.</persname>, <persname>Pierce, J. R.</persname>, and <persname> Roberts, L. A.</persname>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">Harmony and new scales</title>. From 
+				<title type="book">Harmony and tonality: Papers given at a
+				  seminar organized by the Music Acoustics Committee of the Royal Swedish Academy
+				  of Music</title>, 1987 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">267</container> 
+				<unittitle> 
+				  <persname>Mavromatis, Panayotis</persname> and <persname> Williamson, Virginia</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Similarity of pitch class sets: a perceptual study</title>.
+				Paper presented at Society for Music Theory Meeting, 30 October 1997</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">268</container> 
+				<unittitle> 
+				  <persname>Mazzola, Guerino</persname> and <persname> Zahorka, Oliver</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Rubato: the open standard workstation for analysis and
+				  performance of music</title>. With correspondence regarding Mazzola's planned
+				lecture in Buffalo and a 
+				<title type="journal">Perspectives of New Music</title> article by
+				John Roeder: <title type="article">A MaMuTh achievement</title>, about Mazzola's work. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">269</container> 
+				<unittitle> 
+				  <persname>McCartin, Brian J.</persname>, 
+				  <unitdate type="inclusive">1998</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Prelude to musical geometry </title>, In 
+				<title type="journal">College Mathematics Journal</title> 29:5,
+				1998 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">270</container> 
+				<unittitle> 
+				  <persname>McLaren, Brian</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">General methods for generating musical scales</title>. </p>
+				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">271</container> 
+				<unittitle> 
+				  <persname>McLaren, Brian</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Postings on modern theory and microtonality</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">272</container> 
+				<unittitle> 
+				  <persname>McLaren, Brian</persname> and <persname> Darreg, I.</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Biases in xenharmonic scales </title>, In 
+				<title type="journal">Xenharmonikon</title> 13, Spring 1991 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">273</container> 
+				<unittitle> 
+				  <persname>Mead, Andrew</persname>, 
+				  <unitdate type="inclusive">1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Webern, tradition, and "composing with twelve tones …"
+				 </title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">274</container> 
+				<unittitle> 
+				  <persname>Meredith, David</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Tonal scales and graph theory</title>. With correspondence,
+				3 items, between Clough, Meredith, and Jack Douthett </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">275</container> 
+				<unittitle> 
+				  <persname>Morris, Robert D.</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Equivalence and similarity in pitch and their interaction in
+				  Pcset theory</title>. Paper presented at Society for Music Theory Meeting,
+				1994 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">276</container> 
+				<unittitle> 
+				  <persname>Morris, Robert D.</persname>, 
+				  <unitdate type="inclusive">1998</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Sets, scales, and rhythmic cycles: a classification of talas
+				  in Indian music</title>. Examples for paper presented at Society for Music
+				Theory Meeting, 1998 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">277</container> 
+				<unittitle> 
+				  <persname>Morris, Robert D.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Voice-leading spaces</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">278</container> 
+				<unittitle> 
+				  <persname>Morris, Robert D.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Why weight? Pitch-class duplications in twelve-tone
+				  polyphony</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">279</container> 
+				<unittitle> 
+				  <persname>Myerson, Gerry</persname>, 
+				  <unitdate type="inclusive">1987-1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 9 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">280</container> 
+				<unittitle> 
+				  <persname>Neal, Jocelyn</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Graphic representation of trichord-partition symmetries in
+				  selected hexachords</title>. Paper presented at Music Theory Society of New
+				York State, 1997 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">281</container> 
+				<unittitle> 
+				  <persname>Nolan, Cathy</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Appendix: Interval cycles generalized</title>. With
+				correspondence, 2 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">282</container> 
+				<unittitle> 
+				  <persname>O'Connell, Walter</persname>, 
+				  <unitdate type="inclusive">1959</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Tone spaces</title>. With correspondence </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">283</container> 
+				<unittitle> 
+				  <persname>Olds, C. D.</persname>, 
+				  <unitdate type="inclusive">1963</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Continued fractions</title>. Photocopy of 5th printing,
+				1963 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">284</container> 
+				<unittitle> 
+				  <persname>Olivastro, Dominic</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Object lessons: state of grace </title>, In 
+				<title type="journal">The Sciences</title>, May/June 1991 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">285</container> 
+				<unittitle> 
+				  <persname>Oña, Erik</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Preliminary remarks on voice leading pattern
+				  classes</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">286</container> 
+				<unittitle> 
+				  <persname>Park, Jae-Sung</persname>, 
+				  <unitdate type="inclusive">17 October 1990</unitdate>
+				  </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 1 item</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">287</container> 
+				<unittitle> 
+				  <persname>Payne, Maribeth Anderson, on behalf of Schirmer Books
+					</persname>, 
+				  <unitdate type="inclusive">1989</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">288</container> 
+				<unittitle> 
+				  <persname>Peck, Robert W.</persname>, 
+				  <unitdate type="inclusive">2001</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">289</container> 
+				<unittitle> 
+				  <persname>Peifer, David</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">An introduction to combinatorial group theory and the word
+				  problem </title>, In 
+				<title type="journal">Mathematics Magazine</title> 70:1, February
+				1997 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">290</container> 
+				<unittitle> 
+				  <persname>Peles</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Partial orderings as compositional prototypes</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">291</container> 
+				<unittitle> 
+				  <persname>Polansky, Larry</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">More on morphological mutation functions, recent techniques
+				  and developments</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">292</container> 
+				<unittitle> 
+				  <persname>Pressing, Jeff</persname>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Cognitive isomorphisms between pitch and rhythm in world
+				  musics: West Africa, the Balkans and Western tonality </title>, In 
+				<title type="journal">Studies in Musici</title> 17, 1983 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">293</container> 
+				<unittitle> 
+				  <persname>Quinn, Ian</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Fuzzy transposition of pitch sets</title>. Paper presented
+				at Society for Music Theory Meeting, 2 November 1996 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">294</container> 
+				<unittitle> 
+				  <persname>Quinn, Ian</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">On relations, similarity, and similarity relations</title>.
+				Paper presented at Society for Music Theory Meeting, 1997 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">295</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1991-1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, circa 20 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">296</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">An advance on A Theory for all music: at-least-as predicates
+				  for pitch, time and loudness; figures and appendix</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">297</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Asymmetrical ostinatos in sub-Saharan music: time, pitch,
+				  and cycles reconsidered </title>, In 
+				<title type="journal">In Theory Only</title> 9:7, March 1987 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">298</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">"Chinese harmony" and contemporary non-tonal music theory
+				  </title>, In 
+				<title type="journal">Canadian University Music Review</title>
+				19:2, 1999 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">299</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1978</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Constructs for modality, ca. 1300-1500 </title>, In 
+				<title type="journal">Canadian Association of University Schools
+				  of Music Journal</title> 8:2, Autumn 1978 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">12</container> 
+				<container type="folder">300</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Counting pairs that match or differ, and the gestalt
+				  principle of similarity in music</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">301</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">The isomorphism of pitch and time</title>. From <title type="book">A Theory for All Music</title>, 1983 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">302</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Perceptual aspects of tuning in a Balinese gamelan angklung
+				  for North American students </title>, In 
+				<title type="journal">Canadian University Music Review</title>
+				16:2, 1996 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">303</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Recent diatonic theory and Curwen's tonic sol-fa method:
+				  formal models for a kinesic-harmonic system </title>, In 
+				<title type="journal">Proceedings of the Third Triennial ESCOM
+				  conference</title>, June 1997 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">304</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1985</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Restricted relational richness and musical analysis
+				  </title>, In 
+				<title type="journal">Journal of Comparative Literature and
+				  Aesthetics</title> 8:1-2, 1985 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">305</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Structure and frequency in South Indian melas </title>, In 
+				<title type="journal">Proceedings of the Saint Thyagaraja music
+				  festivals</title>, 1981 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">306</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Turning the analysis around: Africa-derived rhythms and
+				  Europe-derived music theory </title>, In 
+				<title type="journal">Black Music Research Journal</title> 16:1,
+				Spring 1996 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">307</container> 
+				<unittitle> 
+				  <persname>Rahn, Jay</persname> and <persname> Xue-Qing, Xu</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">"Chinese harmony" and contemporary non-tonal music
+				  theory</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">308</container> 
+				<unittitle> 
+				  <persname>Randolph, John</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">On Lewin's generalized interval systems</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">309</container> 
+				<unittitle> 
+				  <persname>Ravenstein, Tony van</persname>, 
+				  <unitdate type="inclusive">1989</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Optimal spacing of points on a circle </title>, In 
+				<title type="journal">Fibonacci Quarterly</title>, February 1989
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">310</container> 
+				<unittitle> 
+				  <persname>Reiner, David L.</persname>, 
+				  <unitdate type="inclusive">1985</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Enumeration in music theory </title>, In 
+				<title type="journal">The American Mathematical Monthly</title>
+				92:1, January 1985 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">311</container> 
+				<unittitle> 
+				  <persname>Roeder, John</persname>, 
+				  <unitdate type="inclusive">1990</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A calculus of accent</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">312</container> 
+				<unittitle> 
+				  <persname>Roeder, John</persname>, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Issues of representation in the analysis of atonal music
+				  </title>, In 
+				<title type="journal">Proceedings of the First Workshop on
+				  Artificial Intelligence and Music</title>, 1988 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">313</container> 
+				<unittitle> 
+				  <persname>Roeder, John</persname>, 
+				  <unitdate type="inclusive">1989</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">A Prolog program for music segmentation </title>, In 
+				<title type="journal">Musicus</title> 1:2, December 1989 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">314</container> 
+				<unittitle> 
+				  <persname>Roeder, John</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Second thoughts: pretension and form in Fauré's Prelude, op.
+				  103, no. 9</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">315</container> 
+				<unittitle> 
+				  <persname>Roeder, John</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Semiotic aspects of music analysis</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">316</container> 
+				<unittitle> 
+				  <persname>Roeder, John</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Voice leading as transformation</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">317</container> 
+				<unittitle> 
+				  <persname>Rogers, John</persname>, 
+				  <unitdate type="inclusive">1966</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Some properties of non-duplicating rotational arrays
+				 </title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">318</container> 
+				<unittitle> 
+				  <persname>Rogers, John</persname> and <persname> Mitchell, Barry</persname>, 
+				  <unitdate type="inclusive">1968</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">A problem in mathematics and music </title>, In 
+				<title type="journal">American Mathematical Monthly</title> 75,
+				1968. With notes </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">319</container> 
+				<unittitle> 
+				  <persname>Roiter, Robert</persname>, 
+				  <unitdate type="inclusive">10 November 1983</unitdate>
+				  </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Set transformation geometry</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">320</container> 
+				<unittitle> 
+				  <persname>Rothenberg, David</persname>, 
+				  <unitdate type="inclusive">1978</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">A model for pattern perception with musical applications
+				  Part II: The information content of pitch structures </title>, In 
+				<title type="journal">Mathematical Systems Theory</title> 11, 1978
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">321</container> 
+				<unittitle> 
+				  <persname>Rowell, Lewis</persname>, 
+				  <unitdate type="inclusive">1994-1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 6 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">322</container> 
+				<unittitle> 
+				  <persname>Rowell, Lewis</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The pentatonic dialect(s) of India</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">324</container> 
+				<unittitle> 
+				  <persname>Rudin, Cynthia</persname>, 
+				  <unitdate type="inclusive">15 December 1998</unitdate>
+				  </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The complement theorem and its applications</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">324</container> 
+				<unittitle> 
+				  <persname>Samplaski, Artie</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Axiomatic derivations of scales: a comparative
+				  review/critique of three approaches</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">325</container> 
+				<unittitle> 
+				  <persname>Santa, Matthew</persname>, 
+				  <unitdate type="inclusive">2001</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Hexatonic and nonatonic systems in late nineteenth century
+				  music</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">326</container> 
+				<unittitle> 
+				  <persname>Santa, Matthew</persname>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Modular sets and modular set types</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">327</container> 
+				<unittitle> 
+				  <persname>Schat, Peter</persname>, 
+				  <unitdate type="inclusive">1984</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">On harmony and tonality </title>, In 
+				<title type="journal">Key Notes</title> 19, 1984 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">328</container> 
+				<unittitle> 
+				  <persname>Schat, Peter</persname>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The tone clock: or, the zodiac of the twelve tonalities
+				  </title>, In 
+				<title type="journal">Key Notes</title> 17, 1983 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">329</container> 
+				<unittitle> 
+				  <persname>Scott, Damon</persname> and <persname> Isaacson, Eric J.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The interval angle: a similarity measure for pitch-class
+				  sets</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">330</container> 
+				<unittitle> 
+				  <persname>Shepard, Roger N.</persname> and <persname> Jordan, Daniel S.</persname>, 
+				  <unitdate type="inclusive">1984</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Auditory illusions demonstrating that tones are assimilated
+				  to an internalized musical scale </title>, In 
+				<title type="journal">Science</title> 226, December 1984 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">331</container> 
+				<unittitle> 
+				  <persname>Slawson, Wayne</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Subaggregate braids</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">332</container> 
+				<unittitle> 
+				  <persname>Sloan, Donald</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Fuzzy set theory, fuzzy measures, and their application to
+				  resemblance theories in music</title>. Handouts for paper presented at Society
+				for Music Theory Meeting, 3 November 1995 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">333</container> 
+				<unittitle> 
+				  <persname>Slottow, Stephen</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A Ruggles compositional model and its unfoldings</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">334</container> 
+				<unittitle> 
+				  <persname>Smith, Charles J.</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 1 item </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">335</container> 
+				<unittitle> 
+				  <persname>Smith, Charles J.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Appreciation for John Clough</title>. Two versions </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">336</container> 
+				<unittitle> 
+				  <persname>Smith, Charles J.</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Diatonic sequences</title>. Lecture notes </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">337</container> 
+				<unittitle> 
+				  <persname>Smith, Charles J.</persname>, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Tonal models of music. ch. 2.6, 5, 6</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">13</container> 
+				<container type="folder">338</container> 
+				<unittitle> 
+				  <persname>Smith, J. David</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 2 items</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">339</container> 
+				<unittitle> 
+				  <persname>Snell, James</persname>, 
+				  <unitdate type="inclusive">19 October 1990</unitdate>
+				  </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Mathematics and music</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">340</container> 
+				<unittitle> 
+				  <persname>Soderberg, Stephen</persname>, 
+				  <unitdate type="inclusive">2001</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 5 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">341</container> 
+				<unittitle> 
+				  <persname>Soderberg, Stephen</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">White note fantasy</title>. With review, correspondence,
+				and notes </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">342</container> 
+				<unittitle> 
+				  <persname>Steinbach, Peter</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A case for the heptagon</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">343</container> 
+				<unittitle> 
+				  <persname>Steinbach, Peter</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">Golden fields: a case for the heptagon </title>, In 
+				<title type="journal">Mathematics Magazine</title> 70:1, February
+				1997 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">344</container> 
+				<unittitle> 
+				  <persname>Steinbach, Peter</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Sections beyond golden</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">345</container> 
+				<unittitle> 
+				  <persname>Stephens, Peter W.</persname> and <persname> Goldman, Alan I.</persname>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="article">The structure of quasicrystals </title>, In 
+				<title type="journal">Scientific American</title> April 1991 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">346</container> 
+				<unittitle> 
+				  <persname>Stoecker, Philip</persname>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Axial isography as an extension of Klumpenhouwer networks
+				 </title>. Examples for paper presented at Music Theory Society of New York
+				State, April 8-9, 2000 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">347</container> 
+				<unittitle> 
+				  <persname>Straus, Joseph N.</persname>, 
+				  <unitdate type="inclusive">2001</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A new model for voice leading in atonal music</title>.
+				Examples for paper presented at Society for Music Theory Meeting, Nov. 10, 2001
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">348</container> 
+				<unittitle> 
+				  <persname>Straus, Joseph N.</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Voice leading in atonal music</title>. Paper presented at
+				Florida State University Music Theory Forum, 27 February 1993 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">349</container> 
+				<unittitle> 
+				  <persname>Swinden, Kevin</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Aspects of current theoretical thought on interval cycles
+				 </title>. for class, MUS613, Theory of Scales, 14 December 1994. Originally in
+				folder with residual notes for 
+				<title render="italic">Scales, sets, and interval cycles: a
+				  taxonomy</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">350</container> 
+				<unittitle> 
+				  <persname>Swinden, Kevin</persname>, 
+				  <unitdate type="inclusive">December 1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Scriabin's late period: independent study report</title>.
+				Originally in folder with residual notes for 
+				<title render="italic">Scales, sets, and interval cycles: a
+				  taxonomy</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">351</container> 
+				<unittitle> 
+				  <persname>Tam, Christine</persname>, 
+				  <unitdate type="inclusive">2002</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The musical theory and microtonal compositions of Alois Haba
+				  (1893-1973)</title>. Thesis proposal, July 2, 2002 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">352</container> 
+				<unittitle> 
+				  <persname>Thomas, Scott</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 1 item </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">353</container> 
+				<unittitle> 
+				  <persname>Thomas, Scott</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Millileau rows</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">354</container> 
+				<unittitle> 
+				  <persname>Thomas, Scott</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Vector products, evenness, and altered sets</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">355</container> 
+				<unittitle> 
+				  <persname>Vieru, Anatol</persname>, 
+				  <unitdate type="inclusive">1996-1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 17 items </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">356</container> 
+				<unittitle> 
+				  <persname>Vieru, Anatol</persname>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The "Other" music</title>. With correspondence </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">357</container> 
+				<unittitle> 
+				  <persname>Vinogradov, I. M.</persname>, 
+				  <unitdate type="inclusive">1954</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Elements of number theory</title>. Photocopy. Translated
+				from the fifth rev. ed. by Saul Kravetz. 1954 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">358</container> 
+				<unittitle> 
+				  <persname>Watkins, Glenn</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence, 1 item </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">359</container> 
+				<unittitle> 
+				  <persname>Watkins, Glenn</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Stravinsky and a theory of games</title>. Examples for
+				paper presented at University at Buffalo, 16 October 1995 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">360</container> 
+				<unittitle> 
+				  <persname>Westergaard, Peter</persname>, 
+				  <unitdate type="inclusive">1975</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title type="chapter">Constructing a pitch system for tonal music</title>. From <title type="book">An introduction to tonal theory</title>,
+				1975 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">361</container> 
+				<unittitle> 
+				  <persname>Wilson, Ervin M.</persname>, 
+				  <unitdate type="inclusive">1964-1975</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence with John H. Chalmers </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">362</container> 
+				<unittitle> 
+				  <persname>Wilson, Ervin M.</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>AILM 29, et al. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">363</container> 
+				<unittitle> 
+				  <persname>Wilson, Ervin M.</persname>, 
+				  <unitdate type="inclusive">1994-1995</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Scale-tree</title>, 1994. With correspondence, 1995 </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">364</container> 
+				<unittitle> 
+				  <persname>Wilson, Ervin M.</persname>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Some basic patterns underlying genus 12 &amp; 17</title>.
+				</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">365</container> 
+				<unittitle> 
+				  <persname>Unidentified</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title>Appendix: Functions on groups</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">366</container> 
+				<unittitle> 
+				  <persname>Peck, Robert</persname>, 
+				  <unitdate type="inclusive">2002</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">Composite interval cycle sets, their relations, and
+				  applications</title>. With review by Clough </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">367</container> 
+				<unittitle> 
+				  <persname>Unidentified</persname>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">A measure of eveness and maximally even sets</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">14</container> 
+				<container type="folder">368</container> 
+				<unittitle> 
+				  <persname>Unidentified</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				<title render="italic">The mystic chord and its chromatic modifications,
+				  (Scriabin)</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Subject and conference files, 
+				<unitdate type="inclusive" normal="1992/2000"
+				datechar="creation">1992-2000</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 369-378</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by subject. Folders also include notes and
+				correspondence. </p> 
+		  </arrangement> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">369</container>
+				<unittitle>
+				  <persname>Berry, Wallace</persname>, 
+				  <unitdate type="inclusive">1992-1993</unitdate>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Correspondence regarding proposed publication of Berry's
+				  unpublished works</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">370</container>
+				<unittitle>Buffalo Music Theory Working Group Meeting held at
+				  University at Buffalo, 28-29 July 1993 </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Correspondence, bibliography, proposal notes, etc.</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">371</container>
+				<unittitle>Buffalo Music Theory Working Group Meeting held at
+				  University at Buffalo, July 28-29, 1993</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>John Clough's notes</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">372</container>
+				<unittitle>Buffalo Music Theory Working Group Meeting held at
+				  University at Buffalo, July 18-19, 2001. </unittitle>
+				<note>
+				  <p>The meeting was titled "2nd Buffalo Music Theory Symposium:
+					 Neo-Riemannian Transformations: mathematics and applications"</p>
+				</note>
+			 </did>
+			 <scopecontent>
+				<p>Correspondence</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">373</container>
+				<unittitle>
+				  <persname>Evans, Bill</persname></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Music for tunes composed or performed by pianist Bill Evans</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">374</container>
+				<unittitle>International Symposium on Music and Mathematics (1994 :
+				  Bucharest, Rumania)</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Program and correspondence</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">375</container>
+				<unittitle>Neo-Riemannian theory issue of 
+				  <title type="journal">Journal of Music Theory</title> 42:2, 
+				  <unitdate type="inclusive">1997-1998</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Correspondence</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">376</container>
+				<unittitle>Neo-Riemannian Theory Symposium, University at Buffalo,
+				  July 2001, 
+				  <unitdate type="inclusive">2000-2001</unitdate>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Correspondence</p>
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">377</container>
+				<unittitle>Society for Music Theory Meeting, Chapel Hill, North
+				  Carolina, December 1998 </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Papers on Riemann: 
+				  <list type="marked">
+					 <item>
+						<bibref>
+						  <persname>Brown, Stephen C. </persname>
+						  <title render="italic">Dual interval space in twentieth-century music
+							 </title>
+						</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Childs, Adrian P. </persname>
+						  <title render="italic">Symmetric family values: notions of closeness in
+							 transformational systems </title>
+						</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Engebretsen, Nora. </persname>
+						  <title render="italic">Psychological-aesthetic foundations and
+							 group-theoretic perspectives: triadic relations in Hostinský's Die Lehre von
+							 den musikalischen Klängen </title> </bibref>
+					 </item>
+					 <item>
+						<bibref>
+						  <persname>Gauldin, Robert. </persname>
+						  <title render="italic">Further manifestation of the Douth2 relation in
+							 Tristan and Wagner's other music dramas </title>
+						</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Kopp, David. </persname>
+						  <title render="italic">Subverting the dominant paradigm? shifting concepts
+							 of V in influential 19th century theories and some implications for today
+							 </title>
+						</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Mooney, Kevin. </persname>
+						  <title render="italic">Musical syntax, the Tonnetz, Schubert's Impromptu
+							 </title>
+						</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Murphy, Scott. </persname>
+						  <title render="italic">Generalized cyclical motions in Wagnerian triadic
+							 progressions </title>
+						</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Rehding, Alexander. </persname>
+						  <title render="italic">Major thirds and German nationhood: Hugo Riemann's
+							 Myth of Ethnic Election </title></bibref>
+					 </item>
+				  </list>
+				</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">15</container>
+				<container type="folder">378</container>
+				<unittitle>Three-gap theory, miscellaneous </unittitle>
+			 </did>
+			 <scopecontent>
+				<p> 
+				  <list type="marked">
+					 <item>
+						<bibref>
+						  <persname>Fried, E.</persname>, 
+						  <persname>S&#x00F3;s, Vera T. </persname>
+						  <title type="article">A generalization of the three-distance theorem for
+							 groups</title>, In 
+						  <title type="journal">Algebra Universalis</title> 29, 1992</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Halton, John H. </persname>
+						  <title type="article">The distribution of the sequence </title> In 
+						  <title type="journal">Proceedings of the Cambridge Philosophical
+							 Society</title> 61, 1965</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Ruzsa, Imre Z. </persname>
+						  <title type="article">Generalized arithmetical progressions and
+							 sumsets</title> Preprint no.: 38/1992, 
+						  <title type="journal">Mathematical Institute of the Hungarian Academy of
+							 Sciences</title>
+						</bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>Slater, Noel B. </persname>
+						  <title type="article">Gaps and steps for the sequence n0 mod 1 </title> In
+						  
+						  <title type="journal">Proceedings of the Cambridge Philosophical
+							 Society</title> 63, 1967 </bibref>
+					 </item> 
+					 <item>
+						<bibref>
+						  <persname>S&#x00F3;s, Vera T. </persname>
+						  <title type="article">On the distribution Mod 1 of the sequence na
+							 </title>In 
+						  <title type="journal">Annales Universitatis Scientiarum
+							 Budapestinensis</title>, 1958 </bibref>
+					 </item>
+				  </list>
+				</p>
+			 </scopecontent>
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Grant applications, 
+				<unitdate type="inclusive" normal="1987/1991"
+				datechar="creation">1987-1991</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 379-382</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by name of grant-funding institution. </p>
+			 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">379</container> 
+				<unittitle> 
+				  <corpname>American Society of Learned Societies</corpname>, 
+				  <unitdate type="inclusive">1987 </unitdate> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">380</container> 
+				<unittitle> 
+				  <corpname>John Simon Guggenheim Memorial Foundation
+					 Fellowship</corpname>, 
+				  <unitdate type="inclusive">1990 </unitdate> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">381</container> 
+				<unittitle> 
+				  <corpname>John Simon Guggenheim Memorial Foundation
+					 Fellowship</corpname>, 
+				  <unitdate type="inclusive">1988 </unitdate> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">382</container> 
+				<unittitle> 
+				  <corpname>National Endowment for the Humanities application for
+					 Fellowships for University Teachers</corpname>, 
+				  <unitdate type="inclusive">1987?</unitdate>, 
+				  <unitdate type="inclusive">1991 </unitdate> </unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII.</unitid> 
+			 <unittitle>Publications, 
+				<unitdate type="inclusive" normal="1959/2002"
+				datechar="creation">undated</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 383-386</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chiefly correspondence from publisher W. W. Norton regarding
+				Clough's two books. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">383</container> 
+				<unittitle> 
+				  <title render="italic">Basic Harmonic
+					 Progressions</title></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Comment cards from W.W. Norton</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">384</container> 
+				<unittitle> 
+				  <title render="italic">Scales, Intervals, Keys, Triads, Rhythm,
+					 and Meter</title> </unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Reviews, etc.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">385</container> 
+				<unittitle> 
+				  <corpname>W.W. Norton</corpname></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Statements of royalties</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">16</container> 
+				<container type="folder">386</container> 
+				<unittitle> 
+				  <corpname>W.W. Norton</corpname></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series8">VIII.</unitid> 
+			 <unittitle>Bibliographies, 
+				<unitdate type="inclusive" normal="1969/1991"
+				 datechar="creation">1969-1991</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 387-402</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by author of bibliography, interfiled with
+				journal titles separately indexed. </p> 
+		  </arrangement> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">387</container>
+				<unittitle>
+				  <persname>Benjamin, William E. </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Publications record </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">388</container>
+				<unittitle>
+				  <persname>Browne, Richmond </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Mind/Brain "stuff" </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">389</container>
+				<unittitle>
+				  <persname>Christensen, Thomas </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Bibliography on tonal rhythm </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">390</container>
+				<unittitle>
+				  <persname>Clough, John </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>A bibliography of writings in English on atonal and serial music
+				  and set-theoretic analysis (1979-1985) </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">391</container>
+				<unittitle>
+				  <title render="italic">The computer and the humanities</title>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Indexes for 1969-1975 </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">392</container>
+				<unittitle>
+				  <title render="italic">Dissertation Abstracts International.
+					 </title>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Music and the performing arts, selected collection of doctoral
+				  dissertations and masters theses, 1987-1991</p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">393</container>
+				<unittitle>
+				  <title render="italic">In Theory Only</title>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Indexes for 1955-1970 </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">394</container>
+				<unittitle>
+				  <title render="italic">Indiana Theory Review</title>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Indexes for v.1-3 </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">395</container>
+				<unittitle>
+				  <title render="italic">Int&#x00e9;gral</title>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Indexes to 1987-2000 </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">396</container>
+				<unittitle>
+				  <title render="italic">Journal of Music Theory</title>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Indexes for v. 1-17 </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">397</container>
+				<unittitle>
+				  <persname>Lewin, David </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Bibliography of his works </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">398</container>
+				<unittitle>
+				  <persname>Nolan, Catherine </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Bibliography from master's thesis, 
+				<title render="italic">Symmetric inversion: a sign of
+				  tonality</title>, 1983 </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">399</container>
+				<unittitle>
+				  <title render="italic">Perspectives of New Music</title>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Indexes to v. 1-15 </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">400</container>
+				<unittitle>
+				  <persname>Smith, Charles J. </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>An annotated bibliography of the work of Heinrich Schenker </p>
+			 </scopecontent>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">401</container>
+				<unittitle>
+				  <persname>Smith, Charles J. </persname>
+				  <title render="italic"> Gioseffo Zarlino: a beginner's guide and
+					 bibliography</title>
+				</unittitle>
+			 </did>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">402</container>
+				<unittitle>
+				  <persname>Van den Toorn, Pieter C. </persname>
+				</unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Stravinsky </p>
+			 </scopecontent>
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series9">IX.</unitid> 
+			 <unittitle>Annotated books, 
+				<unitdate type="inclusive" normal="1973/1990"
+				 datechar="creation">1973-1990</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 403-407</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by author and then in order by receipt.
+				</p> 
+		  </arrangement> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">403</container>
+				<unittitle>
+				  <persname>Forte, Allan </persname>
+				  <title render="italic">The Structure of Atonal Music</title>, 
+				  <unitdate type="inclusive"> 1973 </unitdate>
+				</unittitle>
+			 </did>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">404</container>
+				<unittitle>
+				  <persname>Forte, Allan </persname>
+				  <title render="italic">The Structure of Atonal Music</title>, 
+				  <unitdate type="inclusive"> 1977 printing (paperback) </unitdate>
+				</unittitle>
+			 </did>
+		  </c02> 
+		  <c02 level="item">
+			 <did>
+				<container type="box">17</container>
+				<container type="folder">405</container>
+				<unittitle>
+				  <persname>Stark, Harold M. </persname>
+				  <title render="italic">An Introduction to Number Theory</title>, 
+				  <unitdate type="inclusive"> 1981 printing (paperback) </unitdate>
+				</unittitle>
+			 </did>
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Music theorists--New York (State)--Buffalo</subject> 
+		  <subject encodinganalog="650" source="lcsh">Music theory--20th century</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music theory--Bibliography</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+		  
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

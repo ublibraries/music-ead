@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 8.2::Pan-American Exposition Sheet Music Collection)//EN">ubmu0008_2
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Pan-American
+			 Exposition Sheet Music Collection, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1899/1909"> 1899-1909</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Pan-American
+			 Exposition Sheet Music Collection</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2010</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, March 2010.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard ).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Pan-American Exposition
+		  Sheet Music Collection, 
+		  <unitdate encodinganalog="245$f" normal="1899/1909" type="inclusive"
+			datechar="creation"> 1899-1909</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 8.2</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="creator" source="lcnaf"> State
+			 University of New York at Buffalo. Music Library </corpname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="item" encodinganalog="300">(36 items)</extent> </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Thirty-five titles of
+		  sheet music related to the 1901 Pan-American Exposition in Buffalo and one
+		  title related to an exposition held in 1905 in Buffalo. All but nine of the
+		  titles are photocopies of works in the Buffalo &amp; Erie County Public
+		  Library. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Pan-American Exposition Sheet Music Collection,
+			 1899-1909, Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>The Buffalo &amp; Erie County Library graciously loaned their
+			 collection of sheet music related to the Pan-American Exposition to the Music
+			 Library in 2001 in order to have preservation copies made and to have the music
+			 digitized. Other titles came from other sources, including the University
+			 Archives and individual donors, Brenda Battleson, Kerry Grant, and John Bewley.
+			 </p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>All of the titles in the collection have been digitized. They are
+			 available online at: 
+			 <extref
+			  href="http://library.buffalo.edu/pan-am/exposition/music/sheetmusic.html"
+			  show="new" role="text/html" actuate="onrequest">Sheet Music of the Pan-American
+				Exposition</extref>, part of the University Libraries exhibit, 
+		  <title>Illuminations: Revisiting the Buffalo Pan-American Exposition of
+			 1901</title>. </p> 
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, May 2004.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>The Pan-American Exposition held in Buffalo in 1901 was one of a
+		  series of world expositions that were mounted at the end of the 19th century
+		  and the beginning of the 20th century, including the 1876 Centennial Exposition
+		  in Philadelphia , the Paris Exposition in 1889, the Columbian Exposition of
+		  1893 in Chicago, and the Louisiana Purchase Exposition held in St. Louis in
+		  1904. Like the other expositions, the Pan-American provided an opportunity to
+		  showcase the latest developments in technology and industries. It also provided
+		  a showcase for the arts, including music. Most of the musical display was in
+		  the form of performance, be it by renowned bands like those of John Philip
+		  Sousa or Thomas Preston Brooke, or by any of the seventy-one organists who
+		  performed on the Emmons Howard organ installed in the Temple of Music.</p> 
+		<p>Music composed for the Exposition was predominantly in the form of
+		  popular pieces that drew on the celebrity of the event in order to sell music.
+		  For this reason, most of the music is ephemeral in nature, much like other
+		  Exposition memorabilia. Music that stands out is that composed by John Philip
+		  Sousa and the other band leaders who performed at the Exposition, Thomas
+		  Preston Brooke (Chicago Marine Band) and Francesco Fanciulli (71st Regiment
+		  Band). Victor Herbert, who conducted the Pittsburgh Orchestra at the
+		  Exposition, composed his PanAmericana especially for the Exposition and it
+		  reputedly won a gold medal for composition, though no record of any other
+		  entrants exists. The assassination of President William McKinley at the
+		  Exposition was also memorialized in music.</p> 
+		<p>Sheet music at the turn of the century was still prevalently issued in
+		  a larger format with illustrated title pages. The illustrations include
+		  portraits of band leaders and dignitaries, views of Exposition buildings and
+		  scenes, and general boosterism for the Exposition and the city of Buffalo. </p>
+		
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains thirty-five pieces of music, thirty-four of
+		  which are related to the Pan-American Exposition. The one exception is a work
+		  written for the Exposition held in Buffalo in the summer of 1909. Nine of the
+		  pieces are in original form; 26 are photocopies. There are songs in the
+		  collection and works for solo piano (some of the marches were also available in
+		  arrangement for band). There are also works in the collection that commemorate
+		  the death of President McKinley. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in one series.</p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">1</container>
+<unittitle><persname source="lcnaf">Anderson, Edward D., composer</persname>
+<title type="transcribed">Pan-American march : Buffalo, 1901</title>
+<imprint><geogname>Washington, D.C.: </geogname><publisher>Sanders and Stayman</publisher></imprint>
+<unitdate type="inclusive">1899</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n16.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : col. ill. ; 37 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: photograph of bison over map of the Americas.</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">2</container>
+<unittitle><persname source="lcnaf">Austin, B. P.</persname>
+<title type="transcribed">Pan-American : march : op. 195</title>
+<imprint><geogname>Hammondsport, N.Y.: </geogname><publisher>Hammondsport Music Co., </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/kg1.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : col. ill. ; 35 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: inset drawing of the Pan-American Exposition’s United States Government Building on red, white, and blue background.
+</p></scopecontent>
+<note>
+<p>For band and orchestra; arranged for piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">3</container>
+<unittitle><persname source="lcnaf">Austin, James H., composer</persname>
+<title type="transcribed">Pan-American : march and two-step</title>
+<imprint><geogname>New York: </geogname><publisher>Richard A. Saalfield, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/austinj.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>[3] p. of music : col. ill. ; 37 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: drawing of North and South America shaking hands, symbolized by George Washington and Simón Bolívar.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">4</container>
+<unittitle><persname source="lcnaf">Bradley, D. F., composer</persname>
+<title type="transcribed">Pan-American march : for piano : op. 44</title>
+<imprint><geogname>Utica, N.Y.: </geogname><publisher>D.F. Bradley, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/bradley.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music ; 36 cm. </extent></physdesc>
+</did>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">5</container>
+<unittitle><persname source="lcnaf">Brooke, Thomas Preston, 1856-1921</persname>
+<title type="transcribed">Buffalo march : for the piano</title>
+<imprint><geogname>Cincinnati: </geogname><publisher>John Church Company, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n3.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : ill. ; 32 cm. </extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: bandmaster Thomas Preston Brooke; a buffalo jumping through the letter B in the title.
+</p></scopecontent>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">6</container>
+<unittitle><persname source="lcnaf">Dillon, John, composer</persname>
+<title type="transcribed">Put me off at Buffalo : the one and only Buffalo 
+      song</title>
+<imprint><geogname>New York: </geogname><publisher>M. Witmark and Sons,</publisher></imprint>
+<unitdate type="inclusive">1895</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n20.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>[5] p. of music : col. ill. ; 34 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: Caricatures of an African, an Arab, a Native American, an East Asian, and a frontiersman.
+</p></scopecontent>
+<note>
+<p>For medium voice and piano. </p>
+<p>Words by Harry Dillon</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">7</container>
+<unittitle><persname source="lcnaf">Douglas, Theo., composer</persname>
+<title type="transcribed">At the Pan-American Fair : in 1901</title>
+<imprint><geogname>[Buffalo, N.Y.?] (45 Division St.): </geogname><publisher> Graser Bros.,</publisher></imprint>
+<unitdate type="inclusive">1899</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n2.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score ([16] p.) ; 36 cm.</extent></physdesc>
+</did>
+<note>
+<p>Songs for voice and piano. </p>
+<p>With: Two boys in blue / [music] by Erwin C. Koeppen</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">8</container>
+<unittitle><persname source="lcnaf">Edwards, Estelle</persname>
+<title type="transcribed">Pan-American : characteristic march and 
+      two-step</title>
+<imprint><geogname>Baltimore, Md.: </geogname><publisher>Cohen and Hughes, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n11.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5, [1] p. of music : col. ill. ; 35 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: drawing of Native American holding globe in which 
+title is set / Rickert.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">9</container>
+<unittitle><persname source="lcnaf">Edwards, Gus, 1879-1945</persname>
+<title type="transcribed">Pan, Pan, Pan</title>
+<imprint><geogname>New York: </geogname><publisher>Howley, Haviland and Dresser, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n18.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score ([8] p.) : col. ill. ; 35 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: drawing of three ladies and two gentlemen walking towards Pan-American Exposition grounds. 
+Small photographic portraits of the composer and lyricist at bottom of page.
+</p></scopecontent>
+<note>
+<p>Song for medium voice and piano. </p>
+<p>Words by Will. D. Cobb</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">10</container>
+<unittitle><persname source="lcnaf">Evans, H. Geo.</persname>
+<title type="transcribed">Pan-American Exposition march : two-step, op. 
+      29 ; D.M.V. march : two step, op. 28</title>
+<imprint><geogname>Johnstown, Pa.: </geogname><publisher>Pepper-Evans Music Co., </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/evans.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>[6] p. of music : ill. ; 36 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration (1st work): inset photo. of H. Geo. Evans.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">11</container>
+<unittitle><persname source="lcnaf">Fanciulli, F. (Francesco), 1853-1915</persname>
+<title type="transcribed">Electric century : march and two step</title>
+<imprint><geogname>New York: </geogname><publisher>W. Paris Chambers, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n5.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>6 p. of music : col. ill. ; 36 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: the Electric Tower at the 1901 Pan-American Exposition set over an American flag.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">12</container>
+<unittitle><persname source="lcnaf">Fearis, J. S. (John Sylvester), 1867-1932</persname>
+<title type="transcribed">Beautiful isle of somewhere</title>
+<imprint><geogname>Chicago: </geogname><publisher>Forster Music, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate>, <unitdate type="inclusive">1897</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/blb2.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5, [1] p.) : ill. ; 31 cm.</extent></physdesc>
+</did><scopecontent>
+<p>"As sung at the funeral of our martyred President William McKinley by the Euterpean Quartette." 
+ Cover illustration: Inset photographs of President McKinley by Courtney Studio, Canton, Oh., and the members of the Euterpean Quartette: Harriet Levinger, Fannie Levinger, Jeanette Bauhof, and Katherine Baehrens. Decorative lithography by Falk and Co., Chicago.
+</p></scopecontent>
+<note>
+<p>For soprano voice and piano or organ. </p>
+<p>Words by Jessie Brown Pounds</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">13</container>
+<unittitle><persname source="lcnaf">Gethoefer, Ida A.</persname>
+<title type="transcribed">Pan-American Exposition : three step</title>
+<imprint><geogname>Buffalo, N.Y. (269 Main St.) : </geogname><publisher>Denton, Cottier and Daniels,</publisher></imprint>
+<unitdate type="inclusive">1898 </unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n15.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : col. ill. ; 37 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: drawing of head of Native American set within a frying pan.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">14</container>
+<unittitle><persname source="lcnaf">Hartenstine, W. Franklin</persname>
+<title type="transcribed">Exposition march and two step : 1901, Buffalo, N.Y.</title>
+<imprint><geogname>Buffalo, N.Y.: </geogname><publisher>Denton, Cottier and Daniels, </publisher></imprint>
+<unitdate type="inclusive">1900</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n6.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : col. ill. ; 35 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: the official medallion logo of the 1901 Pan-American Exposition, by Raphael Beck.</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">15</container>
+<unittitle><persname source="lcnaf">Haussauer, Meranda H.</persname>
+<title type="transcribed">Pan-American waltz</title>
+<imprint><geogname>Buffalo, N.Y. (217 Virginia St.): </geogname><publisher>J.S. and M.H. Haussauer, </publisher></imprint>
+<unitdate type="inclusive">1899</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n17.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>[3] p. of music : col. ill. ; 35 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: map of the Americas.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">16</container>
+<unittitle><persname source="lcnaf">Hedger, Harry D., Mrs.</persname>
+<title type="transcribed">Our country's loss</title>
+<imprint><geogname>Boston: </geogname><publisher>Mrs. Harry D. Hedger, </publisher></imprint>
+<unitdate type="inclusive">1902</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/loss.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5 p.) : ill. ; 34 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: photograph of President William McKinley set between two U.S. flags and a photograph of Mrs. Harry D. Hedger, captioned "First lady cycle rider in the U.S.A."
+</p></scopecontent>
+<note>
+<p>For solo voice, chorus (SATB), and piano. </p>
+<p>Words by the composer</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">17</container>
+<unittitle><persname source="lcnaf">Herbert, Victor, 1859-1924</persname>
+<title type="transcribed">Panamericana : morceau characteristique</title>
+<imprint><geogname>New York: </geogname><publisher>M. Witmark and Sons, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n19.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>[6] p. of music : ill. ; 35 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: illuminated grounds of the 1901 Pan-American Exposition at night.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">18</container>
+<unittitle><persname source="lcnaf">Klock, Homer R. S.</persname>
+<title type="transcribed">Pan-American : two step and march of 1901</title>
+<imprint><geogname>Stamford, Conn.: </geogname><publisher>Homer R.S. Klock, </publisher></imprint>
+<unitdate type="inclusive">1900</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/klock.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5, [1] p. of music ; 36 cm.</extent></physdesc>
+</did>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">19</container>
+<unittitle><persname source="lcnaf">Kohn, Milton H.</persname>
+<title type="transcribed">Hymn</title>
+<imprint><geogname>New York: </geogname><publisher>Vandersloot Music Co., </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n8.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5, [1] p.) : ill. ; 28 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: drawing of William S. McKinley / A.J. Dewey.
+</p></scopecontent>
+<note>
+<p>Song for medium voice and piano. </p>
+<p>Words by the composer.</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">20</container>
+<unittitle><persname source="lcnaf">Lincoln, Harry J., 1878-1937</persname>
+<title type="transcribed">McKinley's memorial march : in memory of our 
+      late beloved President</title>
+<imprint><geogname>Williamsport, Pa.: </geogname><publisher>United States Music Co., </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/lincoln.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5, [1] p. of music : ill. ; 36 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: photograph of William S. McKinley.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">21</container>
+<unittitle><persname source="lcnaf">Liné, Hans S.</persname>
+<title type="transcribed">Pan-American Exposition march and two-step</title>
+<imprint><geogname>Chicago: </geogname><publisher>Windsor Music Co., </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n13.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>[5] p. of music : ill. ; 37 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: drawings of the Albright-Knox Art Gallery and two buildings from the 1901 Pan-American Exposition in Buffalo: the U.S. Government Building and the Service Building.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">22</container>
+<unittitle><persname source="lcnaf">Loraine, William, b. 1869</persname>
+<title type="transcribed">Trip to Buffalo : a musical extravaganza. Maidie, come be my lady </title>
+<imprint><geogname>New York: </geogname><publisher>M. Witmark and Sons, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n22.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5, [1] p.) : col. ill. ; 31 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: gondolas on canal at the 1901 Pan-American Exposition in Buffalo, with the Exposition grounds in the background.
+</p></scopecontent>
+<note>
+<p>Song for medium voice and piano. </p>
+<p>Words by Harry B. Marshall </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">23</container>
+<unittitle><persname source="lcnaf">Loraine, William, b. 1869</persname>
+<title type="transcribed">Trip to Buffalo : a musical extravaganza. In Buffalo</title>
+<imprint><geogname>New York: </geogname><publisher>M. Witmark and Sons, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n21.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5, [1] p.) : col. ill. ; 31 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: gondolas on canal at the 1901 Pan-American Exposition in Buffalo, with the Exposition grounds in the background.
+</p></scopecontent>
+<note>
+<p>Song for medium voice and piano. </p>
+<p>Words by Harry B. Marshall </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">24</container>
+<unittitle><persname source="lcnaf">Loraine, William, b. 1869</persname>
+<title type="transcribed">A trip to Buffalo : a musical extravaganza. An oriental maid</title>
+<imprint><geogname>New York: </geogname><publisher>M. Witmark and Sons, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n23.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5, [1] p.) : col. ill. ; 31 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: gondolas on canal at the 1901 Pan-American Exposition in Buffalo, with the Exposition grounds in the background.
+</p></scopecontent>
+<note>
+<p>Song for high voice and piano. </p>
+<p>Words by Harry B. Marshall </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">25</container>
+<unittitle>
+<title type="transcribed">President Wm. McKinley's favorite hymns : words 
+      and music</title>
+<imprint><geogname>Chicago: </geogname><publisher>Edwards Deutsch and Heitmann,</publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/nearer.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score ([2] p.) : ill. ; 35 cm. </extent></physdesc>
+</did><scopecontent>
+<p>Contains  Nearer my God to Thee / [words by] Sarah F. Adams; [music by] Dr. Lowell Mason -- Lead kindly Light / [words by] John H. Newman; [music by] John B. Dykes.
+      Title page illustration: portrait of President William McKinley set inside wreath, below eagle holding U.S. banner.
+</p></scopecontent>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">26</container>
+<unittitle><persname source="lcnaf">Near, Myron Fowler</persname>
+<title type="transcribed">Hurrah! for Buffalo 1901 : souvenir song</title>
+<imprint><geogname>Buffalo, N.Y. (269 Main St.): </geogname><publisher>Denton, Cottier and Daniels</publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n7.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (3 p.) : ill. ; 31 cm. </extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: small images of Niagara Falls, a buffalo head, and the Electric Tower at the Pan-American Exposition.
+</p></scopecontent>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">27</container>
+<unittitle><persname source="lcnaf">Ralph, E. B.</persname>
+<title type="transcribed">Pan-American Exposition march and two-step</title>
+<imprint><geogname>Buffalo, N.Y. (269 Main St.): </geogname><publisher> Denton, Cottier and Daniels,</publisher></imprint>
+<unitdate type="inclusive">1898</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n14.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : ill. ; 32 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: inset photographs of J.M. Brinker and Fred C.M. Lautz.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">28</container>
+<unittitle><persname source="lcnaf">Ryder, Fred L.</persname>
+<title type="transcribed">March of the buffaloes : two-step</title>
+<imprint><geogname>Chicago: </geogname><publisher>McKinley Music, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle><dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/ryder.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>[4] p. of music : ill. ; 35 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Cover illustration: a herd of buffalo.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">29</container>
+<unittitle><persname source="lcnaf">Schultz, Herman E.</persname>
+<title type="transcribed">Buffalo means business : song / words by Walter 
+      H. Cluxton ; music by Herman E. Schultz</title>
+<imprint><geogname>Buffalo, N.Y.: </geogname><publisher>Celebrity Music Co., </publisher></imprint>
+<unitdate type="inclusive">1909</unitdate></unittitle>
+<physdesc><extent>1 score (5, [1] p.) : col. ill. ; 36 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: drawing of lady’s head in profile, by M. Wilson Craig.
+</p></scopecontent>
+<note>
+<p>For medium voice and piano. </p>
+<p>Words by Walter H. Cluxton.</p>
+
+<p>This item postdates the Pan-American Exposition so was not digitized for the University Libraries exhibition. The photocopy is missing page 4.</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">30</container>
+<unittitle><persname source="lcnaf">Schwartz, Jean, 1878-1956</persname>
+<title type="transcribed">Don't put me off at Buffalo any more</title>
+<imprint><geogname>New York: </geogname><publisher>Shapiro, Bernstein, and von Tilzer, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n4.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5, [1] p.) : col. ill. ; 33 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: four scenes depicted in the song, two scenes of the 1901 Pan-American Exposition in Buffalo, and a photographic portrait of Maude Nugent.
+</p></scopecontent>
+<note>
+<p>For medium voice and piano. </p>
+<p>Words by William Jerome.</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">31</container>
+<unittitle><persname source="lcnaf">Sousa, John Philip, 1854-1932</persname>
+<title type="transcribed">Invincible eagle march</title>
+<imprint><geogname>Cincinnati: </geogname><publisher>John Church Company, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n9.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : port. ; 35 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: portrait of Sousa.
+</p></scopecontent>
+<note>
+<p>Originally for band; arranged for piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">32</container>
+<unittitle><persname source="lcnaf">Von Tilzer, Harry, 1872-1946</persname>
+<title type="transcribed">Are you a buffalo?</title>
+<imprint><geogname>New York: </geogname><publisher>Shapiro, Bernstein and von Tilzer, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n1.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (5, [1] p.) : col. ill. ; 36 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Library has one copy of music, with two different versions of cover.
+ Title page illustration on 2nd copy: photograph of Lew Dockstader in blackface set within frame formed by four buffalo heads and a Native American headress.
+</p></scopecontent>
+<note>
+<p>Song for voice and piano. </p>
+<p>Words by Edward P. Moran</p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">33</container>
+<unittitle><persname source="lcnaf">Weiler, Harry J.</persname>
+<title type="transcribed">Pan-American cake walk : 1901 : grand characteristic march and 2 step</title>
+<imprint><geogname>Buffalo, N.Y.: </geogname><publisher>Harry J. Weiler, </publisher></imprint>
+<unitdate type="inclusive">1900</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/n10.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : col. ill. ; 35 cm.</extent>
+<physfacet> Photocopy</physfacet></physdesc>
+</did><scopecontent>
+<p>Title page illustration: a buffalo set within a frying pan.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">34</container>
+<unittitle><persname source="lcnaf">Weldon, A. F. (Alfred F.), 1862-1914</persname>
+<title type="transcribed">From Mexico to Buffalo : march</title>
+<imprint><geogname>Chicago, Ill.: </geogname><publisher>N. Nelson, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/weldon.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5 p. of music : col. ill. ; 36 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: oval photographs of the Castle of Chapultepec, the National Palace, City of Mexico, and Francisco E. Lacroix, in setting with Mexican and United States flags.
+</p></scopecontent>
+<note>
+<p>For piano; also available for band. </p></note>
+</c01>
+
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">35</container>
+<unittitle><persname source="lcnaf">Wright, E. R., composer</persname>
+<title type="transcribed">Pan-American march and two-step</title>
+<imprint><geogname>Fargo, N.D.: </geogname><publisher>Stones Music House, </publisher></imprint>
+<unitdate type="inclusive">1900</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/blb1.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>5, [1] p. of music : col. ill. ; 32 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: photograph of the composer(?) set within a blue and gold ribbon, with caption: Seal of success.
+</p></scopecontent>
+<note>
+<p>For piano. </p></note>
+</c01>
+
+<c01 level="item">
+<did>
+<container type="box">1</container>
+<container type="item">36</container>
+<unittitle><persname source="lcnaf">Bendix, Theo. (Theodore)</persname>
+<title type="transcribed">A trip to Buffalo : descriptive</title>
+<imprint><geogname>New York: </geogname><publisher>M. Witmark &amp; Sons, </publisher></imprint>
+<unitdate type="inclusive">1901</unitdate></unittitle>
+<dao linktype="simple" href="http://library.buffalo.edu/pan-am/exposition/music/pdf/ubmu0008_2_36.pdf" actuate="onrequest" show="new"/>
+<physdesc><extent>1 score (7, [1] p.) : col. ill. ; 36 cm.</extent></physdesc>
+</did><scopecontent>
+<p>Title page illustration: illustration of a traveler arriving at the Pan American Exposition of 1901 in Buffalo, New York, in green, white, and black.
+</p></scopecontent>
+<note>
+<p>For voice and piano. </p></note>
+</c01>
+
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Songs with piano</subject> 
+		  <subject source="lcsh" encodinganalog="650">Marches</subject> 
+		  <subject source="lcsh" encodinganalog="650">Piano music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Piano music, Arranged</subject> 
+		  <corpname encodinganalog="611" source="lcnaf"
+		  role="subject">Pan-American Exposition (1901 : Buffalo, N.Y.)--Songs and music</corpname> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">McKinley, William, 1843-1901--Assassination--Songs and music</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Sheet music</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<otherfindaid encodinganalog="555"> 
+		  <head>Additional Guides</head> 
+		  <p>All scores in the collection are cataloged in WorldCat and are
+			 available in 
+			 <extref href="http://bison.buffalo.edu:8991/F" show="new"
+			 actuate="onrequest" role="text/html">BISON</extref>, the online catalog for the
+			 University at Buffalo Libraries, by performing a "Title begins with" search
+			 under "Pan American Exposition Sheet Music Collection".</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <list type="deflist"> 
+			 <defitem> 
+				<label> 
+				  <archref
+				  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0008.xml" show="new"
+				  actuate="onrequest" role="text/html"> Finding Aid for the Music Images from the Pan-American
+					 Exposition, Buffalo, 1901 </archref> Mus. Arc. 8</label> 
+				<item>The images in this collection include scenes of music venues
+				  at the Pan-American Exposition held in Buffalo in 1901, including the Temple of
+				  Music, the Midway, and bandstands. The collection also contains images of
+				  musicians who performed at the Exposition and musical instruments used at the
+				  Exposition. </item> 
+			 </defitem> 
+			 <defitem>
+				<label>
+				  <extref show="new" role="text/html"
+				  href="http://library.buffalo.edu/pan-am/exposition/music/"
+				  actuate="onrequest">Music and Musicians at the Pan-American
+					 Exposition</extref></label>
+				<item>Music portion of the larger exhibition, 
+				  <extref
+				  href="http://library.buffalo.edu/pan-am/exposition/"
+				  show="new" role="text/html" actuate="onrequest">Illuminations: Revisiting the
+					 Buffalo Pan-American Exposition of 1901</extref>.</item>
+			 </defitem>
+		  </list> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

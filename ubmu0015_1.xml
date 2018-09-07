@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 15.1::Michael Pugliese Papers)//EN"
+	  encodinganalog="identifier">ubmu0015_1</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Michael
+			 Pugliese Papers, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1978/1996"> 1978-1996</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Pugliese (Michael),
+			 Papers </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2007</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, June
+		  2007.</creation> 
+		<langusage>Finding aid is in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Michael Pugliese Papers,
+		  
+		  <unitdate encodinganalog="245$f" normal="1978/1996" type="inclusive"
+			datechar="creation"> 1978-1996 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 15.1</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Pugliese,
+			 Michael </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent><extent unit="folder" encodinganalog="300$a"> (10
+		  folders)</extent> </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The Michael Pugliese
+		  Papers consist of copies of his curriculum vitae, a small selection of programs
+		  of concerts in which he performed, reviews and clippings, and correspondence.
+		  </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Michael Pugliese Papers, 1978-1996, Music Library,
+			 The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of the Michael Pugliese Estate, 2004. </p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Michael Gabriel Pugliese was born Sept. 26, 1956 in Buffalo, N.Y. He
+		  studied percussion with Jan Williams at the University at Buffalo, The State
+		  University of New York, completing his Bachelor of Fine Arts degree in 1979. He
+		  then continued his studies at the Manhattan School of Music, completing a
+		  Master of Music degree in 1981. Once in New York City, Michael quickly
+		  established himself as a percussionist specializing in avant-garde music. He
+		  co-directed a 12-hour marathon of music by John Cage at Cooper Union in New
+		  York in 1982. His association with the music of John Cage continued, leading to
+		  his first performances of Cage's Etdues Boreales, Ryoanji, Voiceless Essay,
+		  Five Stone Wind, Sculpture Musicales, and Four3. This association with Cage
+		  also lead to work with the Merce Cunningham Dance Company as performer and
+		  composer. Pugliese toured extensively with the dance company beginning in 1985.
+		  He composed Peace Talks (1989) and Mixed Signals (1991) for the company. Other
+		  percussion works composed by Michael Pugliese include his Jinxed, June 22, Not
+		  Jinxed, Not Waves, and Peaceful Pond at Dusk. He also composed popular songs
+		  under the name of Mike Gabriel. </p> 
+		<p>Pugliese made his solo debut at Merkin Hall in New York City in 1989
+		  (the performance is available on a Mode compact disc under the title Perkin' at
+		  Merkin'). He appeared as a percussionist with the New Music Consort, the Bowery
+		  Ensemble, and the Michael Gordon Philharmonic. He also performed at several new
+		  music festivals, including the North American New Music Festival (Buffalo,
+		  N.Y.), the American Festival in 1985 (London), New Music America (Houston 1986
+		  and Miami 1988), and the Los Angeles Festival in 1987. He was the founding
+		  member of the experimental percussion trio, Talking Drums. Pugliese also
+		  performed in the pit orchestras for musicals, including Miss Saigon, Nunsense,
+		  Jesus Christ Superstar, and Les Miserables. Michael Pugliese died Nov. 3, 1997
+		  in New York City.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The Michael Pugliese Papers is a relatively small collection of
+		  personal documents, programs, reviews, and correspondence. The correspondence
+		  files include a telegram from John Cage as well as instructions from Cage on a
+		  macrobiotic diet. The six versions of Pugliese's curriculum vitae provide a
+		  fairly good representation of his career as of 1991, date of the most recent
+		  version. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p> Arranged into four series:</p> 
+		<list type="simple"> 
+		  <item> 
+			 <ref target="series1" show="replace" actuate="onrequest">I. Personal
+				documents</ref> </item> 
+		  <item> 
+			 <ref target="series2" show="replace" actuate="onrequest">II. Programs
+				and clippings</ref></item> 
+		  <item> 
+			 <ref target="series3" show="replace" actuate="onrequest">III.
+				Correspondence</ref></item> 
+<item> 
+			 <ref target="series4" show="replace" actuate="onrequest">IV.
+				Framed title pages of John Cage scores</ref></item> 				
+		</list> 
+	 </arrangement> 
+	 <dsc type="othertype"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Personal documents 
+				<unitdate type="inclusive" normal="1978/1991">1978-1996</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folders 1-2</extent></physdesc> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>Curriculum vitae, 
+				  <unitdate type="inclusive"
+					normal="1978/1991">1978-1991</unitdate> </unittitle> 
+				<physdesc><extent>6 versions</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle>Contract, Mode Records, 
+				  <unitdate type="inclusive" normal="1985-07-08">July 8,
+					 1985</unitdate> </unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle> Programs and reviews, 
+				<unitdate type="inclusive" normal="1978/1996">1978-1996</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folders 3-5</extent></physdesc> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">3</container> 
+				<unittitle>Concert programs, 
+				  <unitdate type="inclusive"
+					normal="1978/1989">1978-1989</unitdate> </unittitle> 
+				<physdesc><extent>13 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">4</container> 
+				<unittitle>Reviews and clippings </unittitle> 
+				<physdesc><extent>7 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">5</container> 
+				<unittitle>Tigerbeats (Musical group) </unittitle> 
+				<physdesc><extent>Photographs and concert
+				  announcements</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Correspondence, </unittitle> 
+			 <physdesc><extent>Folders 6-10</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by correspondent.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">6</container> 
+				<unittitle>Cage, John 
+				  <unitdate type="inclusive"
+					normal="1978/1989">1978-1989</unitdate> </unittitle> 
+				<physdesc><extent>4 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<list type="simple"> 
+				  <item>Article from March 1978 <emph render="italic"> Electronic
+					 Musician</emph></item> 
+				  <item>7 typescript leaves about macrobiotic cooking</item> 
+				  <item>3 typescript leaves of notes about <emph render="italic">
+					 Etudes Boreales</emph></item> 
+				  <item>1 telegram about <emph render="italic"> Child of Tree,
+					 Branches, and Inlets</emph> </item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">7</container> 
+				<unittitle>Harbaum, Georg 
+				  <unitdate type="inclusive"
+					normal="1978/1989">1978-1989</unitdate> </unittitle> 
+				<physdesc><extent>1 ms. letter (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Contains examples in color and black and white of Harbaum's
+				  art.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">8</container> 
+				<unittitle>Keene, Steven 
+				  <unitdate type="inclusive"
+				  normal="1978/1989">1978-1989</unitdate> </unittitle> 
+				<physdesc><extent>2 items </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<list type="simple"> 
+				  <item>Letter from Pugliese to Keene (1 leaf)</item> 
+				  <item>Typescript copy of Keene's poem <emph render="italic">
+					 Peace talks, war shouts</emph> (3 leaves).</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">9</container> 
+				<unittitle>Kelly, Fergus 
+				  <unitdate type="inclusive"
+					normal="1978/1989">1978-1989</unitdate> </unittitle> 
+				<physdesc><extent>4 ms. letters</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letters from Kelly to Pugliese with clippings, photographs, and
+				  articles about Kelly's sound sculptures.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">10</container> 
+				<unittitle>Newman, Chris, 1958- 
+				  <unitdate type="inclusive"
+				  normal="1978/1989">1978-1989</unitdate> </unittitle> 
+				<physdesc><extent>3 ms. letters (3 leaves) and 1 ms.
+				  postcard.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Framed title pages of John Cage scores,
+				<unitdate type="inclusive" normal="1981/1991">1981-1991</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 1-3</extent></physdesc> 
+		  </did>
+		  <scopecontent><p>Three framed title pages of works composed by John Cage 
+		  and dedicated by him to Michael Pugliese. </p>
+		  </scopecontent>
+		  <arrangement><p>Arranged in alphabetical order by title of composition.</p></arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">1</container> 
+				<unittitle><title>Etudes boreales, for piano solo,</title>
+				  <unitdate type="inclusive"
+					normal="1981">1981</unitdate> </unittitle> 
+							 </did> 
+							 <note><p>Autographed by Cage, 25 October 1984.</p></note>
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">2</container> 
+				<unittitle><title>Ryoanji, for percussion, </title>
+				  <unitdate type="inclusive"
+					normal="1983">1983</unitdate> </unittitle> 
+							 </did> 
+							 <note><p>Autographed by Cage, 6 November 1983.</p></note>
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">3</container> 
+				<unittitle><title>Three&#x00B2;, for three percussionists</title>
+				  <unitdate type="inclusive"
+					normal="1991">1991</unitdate> </unittitle> 
+							 </did> 
+							
+		  </c02> 		  		  
+		  </c01>		
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Composers--New York (State)--Buffalo</subject> 
+		  <subject source="lcsh" encodinganalog="650">Percussionists--New York (State)--Buffalo</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Programs</genreform> 
+		  <genreform encodinganalog="655" source="aat">Clippings</genreform> 
+		  <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+		  
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0015_2.xml "
+					  show="new" actuate="onrequest" role="text/html"> Michael Pugliese Collection of Scores,
+ circa 1976-1997 </archref> Mus. Arc. 15.2 </label> 
+				  <item>The Michael Pugliese Collection of Scores consists of 107
+					 scores and/or parts. Some items are also accompanied by additional copies or
+					 photocopies. The collection contains at least 22 works or arrangements by
+					 Pugliese, including compositions for percussion ensembles as well as popular
+					 songs written under his pen name, Michael Gabriel. The collection includes 22
+					 compositions by John Cage. Two of these works, Etudes boreales and Three2, are
+					 dedicated to Pugliese. Among other significant works in the collection are five
+					 works by Morton Feldman, including a rare copy of the score to Samuel Beckett,
+					 words and music, written as incidental music for a radio play. Pugliese's
+					 career included performances in the pit orchestras for musicals. This is
+					 documented by inclusion of the marked percussion parts for Miss Saigon, Jesus
+					 Christ Superstar, and A Christmas Carol. </item> 
+				</defitem> 
+			 </list> 
+	
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc> 
+</ead> 

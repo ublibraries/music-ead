@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 26::Milton Rogovin Photographs of Storefront Churches and Musicians in Buffalo)//EN"
+	  encodinganalog="identifier">ubmu0026</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Milton Rogovin
+			 Photographs of Storefront Churches and Musicians in Buffalo, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1958/1961"> 1958-1961 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Rogovin (Milton)
+			 Photographs of Storefront Churches and Musicians in Buffalo</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2007</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, April 2007.
+		  </creation> 
+		<langusage>Finding aid is in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 .</title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Milton Rogovin
+		  Photographs of Storefront Churches and Musicians in Buffalo, 
+		  <unitdate encodinganalog="245$f" normal="1958/1961" type="inclusive"
+			datechar="creation" certainty="approximate"> 1958-1961 </unitdate> </unittitle>
+		
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 26</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Rogovin,
+			 Milton, 1909- </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="item" encodinganalog="300$a">(17 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">No
+		  textual materials are included in the collection. </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Seventeen black and
+		  white photographs of storefront churches in Buffalo including interior shots
+		  during services and exterior shots of the buildings. This small collection
+		  chiefly focuses on the musical activities during the church services.
+		  </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Milton Rogovin Photographs of Storefront Churches
+			 and Musicians in Buffalo, 1958-1961, Music Library, The State University of New
+			 York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Purchased from Milton Rogovin, February 2004.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>Digitally reformatted versions of the photographs are available in 
+			 <extref
+			  href="http://digital.lib.buffalo.edu/collection/LIB-MUS007/"
+			  role="text/html" actuate="onrequest" show="new">University at Buffalo Libraries Digital Collections</extref> </p>
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Milton Rogovin, born December 30, 1909 in New York City, was trained
+		  as an optometrist at Columbia University, where he received his degree in 1931.
+		  He moved to Buffalo, New York in 1939, where he established his own optometric
+		  pratice on Chippewa Street near the city's Lower West Side. This region of the
+		  city would serve as a source of material for Rogovin's career as a
+		  photographer. </p> 
+		<p>Rogovin served in the United States Army from 1942-1945. When he
+		  returned to Buffalo he continued his career as an optometrist and became active
+		  in local politics, including the local chapter of the communist party. As a
+		  result of these activities, Rog ovin was called to testify before the House
+		  Committee on Un-American Activities in 1957. He refused to cooperate with the
+		  committee, pleading his rights under the Fifth Amendment. He was ostracized
+		  upon his return to Buffalo and his optometry practice suf fered badly. It was
+		  at this time that Rogovin, aged 49, began his career as a photographer. His
+		  first project was a series of photographs taken of storefront churches in
+		  Buffalo's African-American community. </p> 
+		<p>The photographic series on storefront churches was followed by other
+		  series that documented the lives of workers and people living in poverty. These
+		  series included more work in Buffalo's Lower West Side where he was able to
+		  photograph the same people over the course of three decades of their lives. He
+		  also photographed coal miners in Appalachia, Scotland, France, China, Mexico,
+		  and Spain. Rogovin is quoted as saying, "The rich have their photographers, I
+		  photograph the forgotten ones."</p> 
+		<p> Rogovin earned his master of arts degree from the State University of
+		  New York at Buffalo in 1972 and taught documentary photography there until
+		  1974. His works have been published in at least four collections under his own
+		  name as well as in other col lections and numerous periodicals. Rogovin's
+		  photographs have also been exhibited at institutions across the United States
+		  and internationally, and are included in the collections of more than 20
+		  institutions, including the Metropoliltan Museum of Art, the Museum of Modern
+		  Art, the International Museum of Photography at the George Eastman House and
+		  the J. Paul Getty Center. Milton Rogovin donated his entire collection to the
+		  Library of Congress in 1999. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Seventeen black and white photographs of storefront churches in
+		  Buffalo including interior shots during services and exterior shots of the
+		  buildings. This small collection chiefly focuses on the musical activities
+		  during the church services. The photographs are from a series by Rogovin titled
+		  Storefront churches 1958-61. It was with this series that Rogovin began his
+		  career as a photographer. Rogovin did not title individual photographs; titles
+		  as stated in the container list have been supplied for descriptive purposes.
+		  </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>One sequence of photographs without assigned order.</p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Photographs,</unittitle> 
+			 <unitdate type="inclusive" normal="1958/1961"
+			 certainty="approximate">1958-1961</unitdate> 
+<physdesc><extent>Items 1-17</extent></physdesc> 
+			 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">1</container> 
+				<unittitle>Store front church of Pastor Bishop H. Abdullah,
+				  Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple" href="http://digital.lib.buffalo.edu/items/show/22288" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">2</container> 
+				<unittitle>Entrance of Mother Tokio’s store front church, Buffalo,
+				  New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22297" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">3</container> 
+				<unittitle>Mother Tokio with pianist, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22304" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">4</container> 
+				<unittitle>Mother Tokio laying on hands, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22293" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">5</container> 
+				<unittitle>Harmonica player, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22299" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">6</container> 
+				<unittitle>Woman with tambourine, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22290" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">7</container> 
+				<unittitle>Woman at bass drum with woman singing and playing
+				  washboard, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22294" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">8</container> 
+				<unittitle>Man playing drum, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22301" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">9</container> 
+				<unittitle>Hands of a man on a bass drum, Buffalo, New York,
+				  <unitdate type="inclusive">undated</unitdate></unittitle>  
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22291" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">10</container> 
+				<unittitle>Man with tambourine, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22300" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">11</container> 
+				<unittitle>Two standing women singing, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22298" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">12</container> 
+				<unittitle>Woman with glasses, clapping or playing tambourine,
+				  Buffalo, New York, undated </unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22295" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">13</container> 
+				<unittitle>Man with cymbals, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22303" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">14</container> 
+				<unittitle>Man at microphone while infant on lap takes a bottle,
+				  Buffalo, New York, undated </unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22292" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">15</container> 
+				<unittitle>Woman singing while playing washboard, Buffalo, New
+				  York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22296" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">16</container> 
+				<unittitle>Little girl clapping while women around her sing,
+				  Buffalo, New York, undated </unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22302" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">17</container> 
+				<unittitle>Pastor during sermon, Buffalo, New York, <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://digital.lib.buffalo.edu/items/show/22289" actuate="onrequest"
+				show="new"/> 
+				  <physdesc><extent>1 black and white photograph,</extent>
+					 <dimensions>8 x 10 inches</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Churches--New York
+			 (State)--Buffalo</subject> 
+		  <subject source="lcsh" encodinganalog="650">Church musicians--New
+			 York (State)--Buffalo--Portraits</subject> 
+		  <subject source="lcsh" encodinganalog="650">African Americans--New
+			 York (State)--Buffalo--Portraits</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="gmgpc">Portraits--1950-1970</genreform> 
+		  <genreform encodinganalog="655" source="gmgpc">Photographic prints--1950-1970</genreform> 
+		  <genreform encodinganalog="655" source="aat">Photographs</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	
+  </archdesc> 
+</ead> 

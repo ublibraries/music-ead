@@ -1,0 +1,2163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead> 
+  
+   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 
+      <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 8::Music Images from the Pan-American Exposition, Buffalo)//EN">ubmu0008</eadid>
+	 
+	 
+      <filedesc> 
+		
+         <titlestmt> 
+		  
+            <titleproper encodinganalog="title">Finding Aid for the Music Images
+			 from the Pan-American Exposition, Buffalo, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1901"> 1901</date> 
+            </titleproper> 
+		  
+            <titleproper type="filing" altrender="nodisplay"> Music Images from the
+			 Pan-American Exposition, Buffalo </titleproper> 
+		  
+            <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		
+         </titlestmt> 
+		
+         <publicationstmt> 
+		  
+            <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  
+            <address> 
+			 
+               <addressline>112 Baird Hall</addressline> 
+			 
+               <addressline>Buffalo, New York 14260-4750</addressline> 
+			 
+               <addressline>United States</addressline> 
+			 
+               <addressline>Phone: 716 645-2924</addressline> 
+			 
+               <addressline>Fax: 716 645-3906</addressline> 
+			 
+               <addressline>Email:<emph render="bold"> 
+				
+                     <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html" linktype="simple">musique@buffalo.edu</extref>
+                  </emph>
+               </addressline> 
+			 
+               <addressline>URL:<emph render="bold"> 
+				
+                     <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html" linktype="simple">http://library.buffalo.edu/music/</extref>
+                  </emph>
+				
+               </addressline> 
+		  
+            </address> 
+		  
+            <p>© 
+			 <date type="publication" encodinganalog="date" era="ce" calendar="gregorian">2010</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		
+         </publicationstmt> 
+	 
+      </filedesc> 
+	 
+      <profiledesc> 
+		
+         <creation>Finding aid encoded in EAD by John Bewley, March 2010.
+		  </creation> 
+		
+         <langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage> 
+		
+         <descrules>Finding aid prepared using DACS ( 
+		  <title render="italic" linktype="simple">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 
+      </profiledesc> 
+  
+   </eadheader> 
+  
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 
+      <did> 
+		
+         <head>Collection Overview</head> 
+		
+         <unittitle label="Title" encodinganalog="245$a"> Music Images from the
+		  Pan-American Exposition, Buffalo, 
+		  <unitdate encodinganalog="245$f" normal="1901" type="inclusive" datechar="creation" era="ce" calendar="gregorian"> 1901</unitdate>
+         </unittitle> 
+		
+         <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 8</unitid> 
+		
+         <origination label="Creator"> 
+		  
+            <corpname encodinganalog="110" role="creator" source="lcnaf"> State
+			 University of New York at Buffalo. Music Library </corpname> 
+         </origination> 
+		
+         <physdesc label="Extent"> 
+            <extent unit="box" encodinganalog="300$a">3
+		  boxes</extent> 
+            <extent unit="item" encodinganalog="300$a"> (50 items)</extent>
+		  
+         </physdesc> 
+		
+         <langmaterial label="Language of Material" encodinganalog="546"> No
+		  textual materials are included in the collection. </langmaterial> 
+		
+         <repository label="Repository" encodinganalog="852"> 
+		  
+            <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea>
+            </corpname> 
+         </repository> 
+		
+         <abstract label="Abstract" encodinganalog="520$a"> The images in this
+		  collection include scenes of music venues at the Pan-American Exposition held
+		  in Buffalo in 1901, including the Temple of Music, the Midway, and bandstands.
+		  The collection also contains images of musicians who performed at the
+		  Exposition and musical instruments used at the Exposition. </abstract> 
+	 
+      </did> 
+	 
+      <descgrp type="admininfo"> 
+		
+         <head>Administrative Information</head>  
+		
+         <prefercite encodinganalog="524"> 
+		  
+            <head>Preferred Citation</head> 
+		  
+            <p>[Specified item], Music Images from the Pan-American Exposition,
+			 Buffalo, 1901, Music Library, The State University of New York at Buffalo.</p> 
+		
+         </prefercite> 
+		
+         <accessrestrict encodinganalog="506"> 
+		  
+            <head>Terms of Access</head> 
+		  
+            <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		
+         </accessrestrict> 
+		
+         <userestrict encodinganalog="540"> 
+		  
+            <head>Copyright</head> 
+		  
+            <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		
+         </userestrict> 
+	  
+		
+         <acqinfo encodinganalog="541"> 
+		  
+            <head>Acquisition Information</head> 
+		  
+            <p>This collection was compiled by Music Library staff in 2001 while
+			 creating the Music Library portion of the University at Buffalo Libraries
+			 exhibition, Illuminations: Revisiting the Buffalo Pan-American Exposition of
+			 1901. </p> 
+		
+         </acqinfo> 
+		
+         <accruals encodinganalog="584"> 
+		  
+            <head>Accruals and Additions</head> 
+		  
+            <p>No further accruals are expected to this collection. </p> 
+		
+         </accruals> 
+		
+         <altformavail encodinganalog="530"> 
+		  
+            <head>Alternate Forms</head> 
+		  
+            <p>Entire collection digitized and available in 
+			 <extref href="http://digital.lib.buffalo.edu/collection/LIB-005/" show="replace" actuate="onrequest" role="text/html" linktype="simple">UB Libraries Digital Collections</extref>.</p> 
+		
+         </altformavail> 
+		
+         <processinfo encodinganalog="583"> 
+		  
+            <head>Processing Information</head> 
+		  
+            <p>Processed by John Bewley, February 2002.</p> 
+		
+         </processinfo> 
+	 
+      </descgrp> 
+	 
+      <bioghist encodinganalog="545"> 
+		
+         <head>Historical Note</head> 
+		
+         <p>Music was an integral component of the activities provided at the
+		  Pan-American Exposition in Buffalo in 1901. The Temple of Music was the
+		  principal venue for music performance. It was designed by architect August C.
+		  Esenwein and featured an organ built by Emmons Howard. More than seventy
+		  renowned organists performed on the Temple instrument during the course of the
+		  Exposition. </p> 
+		
+         <p>Music was also performed at five bandstands located on Exposition
+		  grounds: the Plaza bandstand north of the Electric Tower, the East and West
+		  bandstands in the Esplanade near the Temple of Music and Ethnology Building,
+		  the Casino bandstand on the shore of the lake close to where the Casino
+		  building stands today, and another bandstand on the lake near what is now the
+		  Albright-Knox Art Gallery. The heavy schedule of band performances by more than
+		  twenty-six different bands kept these bandstands in almost constant use
+		  throughout the Exposition. </p> 
+		
+         <p>The Midway also served as a venue for performances of music, including
+		  an assortment of music from different cultures. These included representatives
+		  from Africa, the Middle-East, Hawaii, Mexico, Italy, Germany, and Puerto Rico.
+		  For many visitors to the Exposition, it was their first opportunity to
+		  experience anything of these cultures. </p> 
+	 
+      </bioghist> 
+	 
+      <scopecontent encodinganalog="520"> 
+		
+         <head>Scope and Content Note</head> 
+		
+         <p>The collection contains fifty images collected or reproduced for use
+		  in the Music Library exhibition, Music and Musicians at the Pan-American
+		  Exposition. This exhibition, displayed in the Music Library June-September
+		  2001, was part of the larger, University Libraries exhibition, Illuminations:
+		  Revisiting the Buffalo Pan-American Exposition of 1901. </p> 
+		
+         <p>There are only four original items in the collection: two postcards of
+		  the Temple of Music, an informal photograph of the interior of the Temple of
+		  Music, and a digital photograph of the piano that was housed in the New York
+		  State Building, now the home of the Buffalo and Erie County Historical Society.
+		  </p> 
+	 
+      </scopecontent> 
+	 
+      <arrangement encodinganalog="351"> 
+		
+         <head>Arrangement</head> 
+		
+         <p>The collection is arranged in seven series: </p> 
+		
+         <list> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series1" linktype="simple">I.
+				</ref>Temple of Music</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series2" linktype="simple">II.
+				</ref>Bandstands</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series3" linktype="simple">III.
+				</ref>Piano</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series4" linktype="simple">IV.
+				</ref>Musicians</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series5" linktype="simple">V.
+				</ref>Bands and ensembles</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series6" linktype="simple">VI.
+				</ref>African instruments</item> 
+		  
+            <item> 
+			 
+               <ref actuate="onrequest" show="replace" target="series7" linktype="simple">VII.
+				</ref>Large color reprints</item> 
+		
+         </list> 
+	 
+      </arrangement> 
+	 
+      <dsc type="combined"> 
+		
+         <head>Container List</head> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series1">I. </unitid> 
+			 
+               <unittitle>Temple of Music </unittitle> 
+			 
+               <physdesc>
+                  <extent> Item PA01-PA12</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA01</container> 
+				
+                  <unittitle>Temple of Music from Ethnology Building </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,299"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 19.5 x 14
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Pan-American Exposition Illustrated, p. 54</p> 
+				
+                  <p>Fountain of Abundance in foreground</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA02</container> 
+				
+                  <unittitle>Temple of Music From Cascade near Manufactures Building
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,295"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 13 x 20
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Hewitt, Arthur</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Everybody's Magazine, v.5, no.26, 10/01, p.399</p> 
+				
+                  <p>Night scene</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA03</container> 
+				
+                  <unittitle>Temple of Music </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,292"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7.5 x 10
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Kerry Grant photo album</p> 
+				
+                  <p>Mines Bld. to left of Temple</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA04</container> 
+				
+                  <unittitle>Temple of Music </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,279"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 8 x 10
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo &amp; Erie County Historical Society</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA05</container> 
+				
+                  <unittitle>Temple of Music from Ethnology Building </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,280"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 8 x 10
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Pan-American Exposition Illustrated, p. 29</p> 
+				
+                  <p>Taken Dedication Day. Horticulture Building to left.</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA06</container> 
+				
+                  <unittitle>Temple of Music from Manufactures Building </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,274"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6 x 8.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Hewitt, Arthur</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Everybody's Magazine, v.5, no.26, 10/01, p.432</p> 
+				
+                  <p>Mines Building to left.</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA07</container> 
+				
+                  <unittitle>Temple of Music from Ethnology Building </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,258"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 8 x 6
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Pan-American Exposition Illustrated, p. 32</p> 
+				
+                  <p>Night scene</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA08</container> 
+				
+                  <unittitle>Temple of Music from Ethnology Building </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,255"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 color postcard,</extent> 
+                     <dimensions> 3.5 x 5.5
+				  inches</dimensions> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: F.F. Rick &amp; Cie. Postcard</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA09</container> 
+				
+                  <unittitle>Temple of Music </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,267"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 color illustration,</extent> 
+                     <dimensions> 3.5 x
+				  5.5 inches</dimensions> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Retrograph Co. postcard</p> 
+				
+                  <p>With inset portrait of William McKinley.</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA10</container> 
+				
+                  <unittitle>Temple of Music interior with organ </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,277"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6.5 x 9.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Esenwein &amp; Johnson,
+					 architects</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: The Rainbow City</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA11</container> 
+				
+                  <unittitle>Temple of Music interior with stage and organ
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,273"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 5.75 x 9.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo's Pan-American Exposition, p.123</p> 
+				
+                  <p>X on stage marks scene of McKinley assassination</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">PA12</container> 
+				
+                  <unittitle>Temple of Music interior </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,261"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 4 x 5
+				  inches</dimensions> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Gift photograph</p> 
+				
+                  <p>Shows part of organ and audience</p>
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series2">II .</unitid> 
+			 
+               <unittitle>Bandstands </unittitle> 
+			 
+               <physdesc>
+                  <extent> Item PA13-PA16</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA13</container> 
+				
+                  <unittitle>East Esplanade Bandstand towards the Triumphal Bridge
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,259"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 10
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Pan-American Exposition Illustrated, p. 40</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA14</container> 
+				
+                  <unittitle>Plaza Bandstand north of Electric Tower </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,285"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 5 x 9
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Cummins, Carlos
+					 E.</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA15</container> 
+				
+                  <unittitle>Plaza Bandstand </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,296"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6 x 5.75
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA16</container> 
+				
+                  <unittitle>Esplanade Bandstands and Temple of Music from top of
+				  Electric Tower </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,290"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6.5 x 9.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Pan-American Exposition Illustrated, p.26</p> 
+				
+                  <p>Court of Fountains with buildings on either side</p>
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series3"> III.</unitid> 
+			 
+               <unittitle>Piano </unittitle> 
+			 
+               <physdesc>
+                  <extent> Item PA17</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA17</container> 
+				
+                  <unittitle>Steinway piano for New York State Building </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,293"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 10
+				  inches</dimensions> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Battleson,
+					 Brenda</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Gift</p> 
+				
+                  <p>Now in Buffalo &amp; Erie County Historical Society</p>
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series4"> IV.</unitid> 
+			 
+               <unittitle>Musicians </unittitle> 
+			 
+               <physdesc>
+                  <extent> Item PA18-PA27</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA18</container> 
+				
+                  <unittitle>Emmons Howard, organbuilder </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,288"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 3.25 x 2
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.6</p> 
+				
+                  <p>Builder of organ in Temple of Music</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA19</container> 
+				
+                  <unittitle>Clarence Eddy, organist </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,253"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 3.25 x 2
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.12</p> 
+				
+                  <p>Organist</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA20</container> 
+				
+                  <unittitle>Henry Gordon Thunder, organist </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,284"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 3.25 x 2
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.24</p> 
+				
+                  <p>Organist</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA21</container> 
+				
+                  <unittitle>William J. Gomph, organist </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,252"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 3.25 x 2
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.15</p> 
+				
+                  <p>Official Exposition Organist</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA22</container> 
+				
+                  <unittitle>Mary Florence McConnell, organist </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,282"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 3.25 x 2
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.19</p> 
+				
+                  <p>Organist</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA23</container> 
+				
+                  <unittitle>Benita Liza Gray, singer </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,251"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6 x 3.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Sandford, D. S.</persname>
+                  </origination>
+				
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Carolyn Fix</p> 
+				
+                  <p>Singer with Utica choir; with William Gray</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA24</container> 
+				
+                  <unittitle>Nina Morgana, singer at age 10 </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,291"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 10 x 8
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Courier, Nov. 16, 1902</p> 
+				
+                  <p>Singer at Venice in America</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA25</container> 
+				
+                  <unittitle>Nina Morgana, singer </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,271"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 10 x 8
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Mishkui?, C.</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Metropolitan Opera Archives</p> 
+				
+                  <p>Singer at Venice in America; as Rosina at Met.</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA26</container> 
+				
+                  <unittitle>Nina Morgana, singer </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,270"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 10 x 8
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Metropolitan Opera Archives</p> 
+				
+                  <p>Metropolitan Opera soprano</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA27</container> 
+				
+                  <unittitle>John Philip Sousa with Hawaiian musicians at Exposition
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,275"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 9.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Cosmopolitan v.31 no.5 Sept. 1901, p.504</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series5"> V.</unitid> 
+			 
+               <unittitle>Bands and ensembles </unittitle> 
+			 
+               <physdesc>
+                  <extent> Item PA28-PA40</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA28</container> 
+				
+                  <unittitle>Victor Herbert with Pittsburgh Orchestra </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,281"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 4 x 9.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.32</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA29</container> 
+				
+                  <unittitle>Serafino Scinta's Band </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,260"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 3.5 x 7.75
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.41</p> 
+				
+                  <p>Interior of Ellicott Sq. Building, Buffalo, NY</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">PA30</container> 
+				
+                  <unittitle>65th Regiment Band, Buffalo NY with John Powell,
+				  conductor </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,283"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 3.25 x 8.75
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.37</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA31</container> 
+				
+                  <unittitle>74th Regiment Band, Buffalo NY, Justus G. Miller,
+				  conductor </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,298"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 9.75
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.36</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA32</container> 
+				
+                  <unittitle>Carlisle Indian Band, Joel Bernice Ettinger, conductor
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,272"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6 x 9.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.42</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA33</container> 
+				
+                  <unittitle>71st Regiment Band, New York, Francesco Fanciulli,
+				  conductor </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,297"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6.5 x 9.75
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.37</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA34</container> 
+				
+                  <unittitle>Brooke's Marine Band, Thomas Preston Brooke, conductor
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,256"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 4 x 8.75
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.45</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA35</container> 
+				
+                  <unittitle>Boston Ladies' Military Band </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,263"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 5.75 x 8
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Music at the Pan-American Exposition, p.46</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA36</container> 
+				
+                  <unittitle>First Artillery Band, Mexico City, Ricardo Pacheco,
+				  conductor </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,269"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6 x 9.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: ??</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA37</container> 
+				
+                  <unittitle>Musicians at Venice in America </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,264"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 5.75 x 7.75
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Kerry Grant photo album</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA38</container> 
+				
+                  <unittitle>Drummer in Beautiful Orient in Midway </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,265"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 6 x 8.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Arnold, C. D. (Charles Dudley), b.
+					 1844</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Pan-American Exposition Illustrated, p.90</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA39</container> 
+				
+                  <unittitle>Drummers in Beautiful Orient </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,257"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 4.25 x 6
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Hewitt, Arthur</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Everybody's Magazine, p. 435</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA40</container> 
+				
+                  <unittitle>African musicians in procession through Midway
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,254"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 5 x 5.5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Cummins, Carlos
+					 E.</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series6">VI.</unitid> 
+			 
+               <unittitle>African instruments, </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item PA41-PA47 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA41</container> 
+				
+                  <unittitle>African guitar </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,294"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA42</container> 
+				
+                  <unittitle>African carved drum </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,286"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA43</container> 
+				
+                  <unittitle>African carved drum </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,289"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA44</container> 
+				
+                  <unittitle>African harp </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,276"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA45</container> 
+				
+                  <unittitle>African drum </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,250"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA46</container> 
+				
+                  <unittitle>African drum </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,287"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA47</container> 
+				
+                  <unittitle>African drum </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,262"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 photograph,</extent> 
+                     <dimensions> 7 x 5
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Unidentified</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo Museum of Science</p> 
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series7"> VII.</unitid> 
+			 
+               <unittitle>Large color reprints </unittitle> 
+			 
+               <physdesc>
+                  <extent>Item PA48-PA50 </extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA48</container> 
+				
+                  <unittitle>Map of Exposition with music venues marked </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,278"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 color map,</extent> 
+                     <dimensions> 15.5 x 10
+				  inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Pelz, C. E. ; Dunston, G.
+					 H.</persname>
+                  </origination> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA49</container> 
+				
+                  <unittitle>Cover of The Electric Century March and Two Step
+				  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,268"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 color illustration,</extent> 
+                     <dimensions> 13 x
+				  10.25 inches</dimensions>    <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">W. Paris Chambers
+					 (Publisher)</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo &amp; Erie County Public Library</p> 
+				
+                  <p>Composed by Francesco Fanciulli</p>
+			 
+               </note> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">3</container> 
+				
+                  <container type="item">PA50</container> 
+				
+                  <unittitle>Temple of Music from the Triumphal Bridge </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS013,266"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 color illustration,</extent> 
+                     <dimensions> 10 x
+				  16 inches</dimensions>   <physfacet>Reprint </physfacet> 
+                  </physdesc> 
+				
+                  <origination label="Photographer">
+				  
+                     <persname role="creator">Key, John Ross,
+					 1832-1920</persname>
+                  </origination> 
+			 
+               </did> 
+			 
+               <note>
+				
+                  <p> Source: Buffalo &amp; Erie County Historical Society</p> 
+				
+                  <p>Electric Tower in right background</p>
+			 
+               </note> 
+		  
+            </c02> 
+		
+         </c01> 
+	 
+      </dsc> 
+	 
+      <controlaccess> 
+		
+         <head>Search Terms</head> 
+		
+         <note> 
+		  
+            <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		
+         </note> 
+		
+         <controlaccess> 
+		  
+            <head>Subjects</head> 
+		  
+            <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+		  
+            <corpname encodinganalog="610" source="lcnaf" role="subject">Pan-American Exposition (1901 : Buffalo, N.Y.)--Photographs</corpname> 
+		  
+            <subject source="lcsh" encodinganalog="650">Music--New York (State)--Buffalo</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Music-halls--New York (State)--Buffalo</subject> 
+		
+         </controlaccess> 
+		
+         <controlaccess> 
+		  
+            <head>Genres</head> 
+		  
+            <genreform encodinganalog="655" source="aat">Photographs</genreform> 
+		
+         </controlaccess> 
+	 
+      </controlaccess> 
+	 
+      <descgrp type="add"> 
+		
+         <head>Associated Material</head> 
+		
+         <relatedmaterial encodinganalog="544 1"> 
+		  
+            <head>Related Resources</head> 
+		  
+            <list type="deflist"> 
+			 
+               <defitem> 
+				
+                  <label> 
+				  
+                     <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0008_2.xml " show="new" actuate="onrequest" role="text/html" linktype="simple"> Pan-American Exposition Sheet
+					 Music Collection, 1899-1909 </archref> Mus. Arc. 8.2 </label> 
+				
+                  <item>Thirty-five titles of sheet music related to the 1901
+				  Pan-American Exposition in Buffalo and one title related to an exposition held
+				  in 1905 in Buffalo. All but nine of the titles are photocopies of works in the
+				  Buffalo &amp; Erie County Public Library. </item> 
+			 
+               </defitem> 
+			 
+               <defitem> 
+				
+                  <label> 
+				  
+                     <extref show="new" role="text/html" href="http://library.buffalo.edu/libraries/exhibits/panam/music/intro/music.html" actuate="onrequest" linktype="simple">Music and Musicians at the Pan-American
+					 Exposition</extref>
+                  </label> 
+				
+                  <item>Music portion of the larger exhibition, 
+				  <extref href="http://library.buffalo.edu/libraries/exhibits/panam/index.html" show="new" role="text/html" actuate="onrequest" linktype="simple">Illuminations: Revisiting the
+					 Buffalo Pan-American Exposition of 1901</extref>.</item> 
+			 
+               </defitem> 
+		  
+            </list> 
+		
+         </relatedmaterial> 
+	 
+      </descgrp> 
+  
+   </archdesc>
+
+</ead>

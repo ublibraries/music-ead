@@ -1,0 +1,2326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 28::Music Calendar Collection)//EN"
+	  encodinganalog="identifier">ubmu0028</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Music Calendar
+			 Collection, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1968/2007"> 1968-2007 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Music Calendar
+			 Collection </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by Rebecca
+			 Belford.</author> 
+		</titlestmt>
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2007</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by Rebecca Belford, April 2007.
+		  </creation> 
+		<langusage encodinganalog="546">Finding aid is in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" relatedencoding="marc21" type="inventory"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Music Calendar
+		  Collection, 
+		  <unitdate encodinganalog="245$f" normal="1968/2007" type="inclusive"
+			datechar="creation">1968-2007 </unitdate> </unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 28</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="creator" source="lcnaf"> State
+			 University of New York at Buffalo. <subarea>Music Library</subarea></corpname>
+		  </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">11
+		  boxes</extent> <extent unit="item" encodinganalog="300$a">149 items</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="041">
+		  Collection material in <language encodinganalog="041" langcode="eng">English,
+		  </language> <language encodinganalog="041" langcode="ger">German, </language>
+		  <language langcode="fre" encodinganalog="041">French,</language> and
+		  <language langcode="ita" encodinganalog="041"> Italian</language>
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> A collection of
+		  calendars with music-themed artwork and text, mostly published in the United
+		  States and Germany.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Music Calendar Collection, 1968-2007, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Music calendars acquired intermittently by the Music Library.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>Further accruals are possible. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Rebecca Belford.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Most of the calendars in the collection feature reproductions of art
+		  and photographs that depict musical scenes, composers, performers, or
+		  instruments. Among the more well-represented topics in the collection are
+		  musical instruments, opera, jazz, and music manuscripts. Many calendars also
+		  include historical or biographical information, significant dates in musical
+		  history, and biographical or historical information about the creators of the
+		  artwork. In addition to reproductions of photographs and paintings, media
+		  represented include musical instruments, realia, sheet-music and album covers,
+		  and illuminated manuscripts and miniatures. </p> 
+	 </scopecontent> 
+	 <bioghist encodinganalog="545">
+		<head>Historical Note</head>
+		<p>The Music Library staff created this collection by a variety of means:
+		  solicitation, collation of calendars received with existng serial
+		  subscriptions, and donation of calendars from personal sources.</p>
+	 </bioghist>
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p> The collection is one series, arranged by size, then grouped by publisher and
+		  arranged chronologically. </p> 
+	 </arrangement> 
+	 <dsc> 
+		<head>Container List</head> 
+		<c01 level="file"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Calendars, 
+				<unitdate type="inclusive"
+				 normal="1968/2007">1968-2007</unitdate></unittitle> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01</container> 
+				<container type="item">CAL001</container> 
+				<unittitle>Kontrapunkt: Musik Kalender 
+				  <unitdate type="inclusive" normal="YYYY">1989</unitdate>
+				  <imprint><lb/> 
+				  <publisher>Furore</publisher></imprint></unittitle> 
+				<physdesc> <dimensions>11 x 15 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01</container> 
+				<container type="item">CAL002 </container> 
+				<unittitle>Fur Musikfreunde 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Ackermanns Kunstverlag
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>25 x 17 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL003 </container> 
+				<unittitle>Metropolitan Opera Guild Engagement Calendar: Giuseppe
+				  Verdi, His Life and Works in Pictures 
+				  <unitdate type="inclusive" normal="YYYY">1974</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>18 x 19 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL004 </container> 
+				<unittitle>Metropolitan Opera Guild Engagement Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1972</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 15 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL005 </container> 
+				<unittitle>Opera Stars 
+				  <unitdate type="inclusive" normal="YYYY">1982</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>24 x 19 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL006 </container> 
+				<unittitle>Metropolitan Opera Guild Engagement Calendar: Donizetti 
+				  <unitdate type="inclusive" normal="YYYY">1979</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>24 x 19 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL007 </container> 
+				<unittitle>Metropolitan Opera Guild Engagement Calendar: Mozart 
+				  <unitdate type="inclusive" normal="YYYY">1978</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>24 x 19 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL008 </container> 
+				<unittitle>Christophe Landon Rare Violins 
+				  <unitdate type="inclusive" normal="YYYY">2006</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Christophe Landon </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>18 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL009 </container> 
+				<unittitle>Early Music Vancouver: Vancouver Early Music Festival
+				  2005 &amp; Early Music Vancouver 2005-06 Season 
+				  <unitdate type="inclusive" normal="YYYY">2005</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Early Music Vancouver
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 21 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">01 </container> 
+				<container type="item">CAL010 </container> 
+				<unittitle>Guitar Player Presents: First Act Guitars 
+				  <unitdate type="inclusive" normal="YYYY">2006</unitdate>
+				  <imprint><lb/> 
+				  <publisher> First Act </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>18 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL011 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1969</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL012 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1970</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL013 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1973</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL014 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1976</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc><dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL015 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1977</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL016 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1978</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL017 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1979</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">02 </container> 
+				<container type="item">CAL018 </container> 
+				<unittitle>Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1980</unitdate>
+				  <imprint><lb/> 
+				  <publisher> C. F. Peters </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>26 x 18 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">03 </container> 
+				<container type="item">CAL019 </container> 
+				<unittitle>Metropolitan Opera Guild Engagement Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1971</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>15 x 21 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">03 </container> 
+				<container type="item">CAL020 </container> 
+				<unittitle>Metropolitan Opera Guild Engagement Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1973</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>18 x 19 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">03 </container> 
+				<container type="item">CAL021 </container> 
+				<unittitle>Metropolitan Opera Guild Engagement Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1975</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>18 x 19 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>weekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">03 </container> 
+				<container type="item">CAL022 </container> 
+				<unittitle>Fur Musikfreunde: Ackermann Einsteckkalender fur 12
+				  Postkarten 
+				  <unitdate type="inclusive" normal="YYYY">1987</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Ackermanns Kunstverlag
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>25 x 20 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">03 </container> 
+				<container type="item">CAL023 </container> 
+				<unittitle>Fur Musikfreunde: Ackermann Einsteckkalender 
+				  <unitdate type="inclusive" normal="YYYY">1984</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Ackermanns Kunstverlag
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>25 x 20 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">03 </container> 
+				<container type="item">CAL024 </container> 
+				<unittitle>Fur Musikfreunde: Ackermann Einsteckkalender fur 12
+				  Postkarten 
+				  <unitdate type="inclusive" normal="YYYY">1989</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Ackermanns Kunstverlag
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>25 x 20 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL025 </container> 
+				<unittitle>Art of Sheet Music 1996 Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1996</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Elliott &amp; Clark
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 24 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL026 </container> 
+				<unittitle>Steinway: Family and Factory 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> LaGuardia Community College
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>23 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL027 </container> 
+				<unittitle>D'Addario 1994 Players Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> D'Addario </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL028 </container> 
+				<unittitle>Dr. Jazz Calendar: Bop Issue 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Jazz and Blues Centre
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>24 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL029 </container> 
+				<unittitle>Music 
+				  <unitdate type="inclusive" normal="YYYY">1998</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Prentice Hall </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL030 </container> 
+				<unittitle>Musical Album 
+				  <unitdate type="inclusive" normal="YYYY">1980</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Sandals Unlimited Designs
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL031 </container> 
+				<unittitle>Musical Album 
+				  <unitdate type="inclusive" normal="YYYY">1981</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Sandals Unlimited Designs
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL032 </container> 
+				<unittitle>Musical Album 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Sandals Unlimited Designs
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL033 </container> 
+				<unittitle>International Society of Bassists Portrait Calendar 
+				  <unitdate type="inclusive" normal="YYYY">2005</unitdate>
+				  <imprint><lb/> 
+				  <publisher> International Society of Bassists
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">04 </container> 
+				<container type="item">CAL034 </container> 
+				<unittitle>Country Music History Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1982</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Country Music Foundation
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 19 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL035 </container> 
+				<unittitle>Musica 1968: Ein Kunstkalender fur Musikfreunde 
+				  <unitdate type="inclusive" normal="YYYY">1968</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL036 </container> 
+				<unittitle>Musica 1969: Ein Kunstkalender fur Musikfreunde 
+				  <unitdate type="inclusive" normal="YYYY">1969</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL037 </container> 
+				<unittitle>Musica 1970: Ein Kunstkalender fur Musikfreunde 
+				  <unitdate type="inclusive" normal="YYYY">1970</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL038 </container> 
+				<unittitle>Musica 1971: Ein Kunstkalender fur Musikfreunde 
+				  <unitdate type="inclusive" normal="YYYY">1971</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL039 </container> 
+				<unittitle>Musica 1972: Ein Kunstkalender fur Musikfreunde 
+				  <unitdate type="inclusive" normal="YYYY">1972</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL040 </container> 
+				<unittitle>Organa Europae 
+				  <unitdate type="inclusive" normal="YYYY">1971</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Imprimeries Loos </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>38 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL041 </container> 
+				<unittitle>Organa Europae 
+				  <unitdate type="inclusive" normal="YYYY">1979</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Imprimeries Loos </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>38 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL042 </container> 
+				<unittitle>Great Composer Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1977</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Bellerophon Books </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 36 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL043 </container> 
+				<unittitle>Great Composer Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Bellerophon Books </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 36 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL044 </container> 
+				<unittitle>Great Composer Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1984</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Bellerophon Books </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 36 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL045 </container> 
+				<unittitle>Great Composer Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1988</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Bellerophon Books </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 36 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL046 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1981</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL047 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1982</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL048 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL049 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1984</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL050 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1985</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL051 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL052 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1987</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL053 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1988</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">05 </container> 
+				<container type="item">CAL054 </container> 
+				<unittitle>Compleat Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1989</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Vince Danca </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>29 x 26 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL055 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1974</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL056 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1975</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL057 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1977</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL058 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1978</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL059 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1979</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL060 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1980</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL061 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1981</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL062 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1982</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL063 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL064 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1984</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL065 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1985</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL066 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">06 </container> 
+				<container type="item">CAL067 </container> 
+				<unittitle>Musica 
+				  <unitdate type="inclusive" normal="YYYY">1988</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>27 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL068 </container> 
+				<unittitle>Jose Carreras 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Verlag A. Barylli </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 24 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL069 </container> 
+				<unittitle>Musikbilder auf Postkarten Calendarium 
+				  <unitdate type="inclusive" normal="YYYY">1989</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 25 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL070 </container> 
+				<unittitle>Calendarium 
+				  <unitdate type="inclusive" normal="YYYY">1979</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>34 x 30 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL071 </container> 
+				<unittitle>Official 1983 Country Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Country Music Foundation
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL072 </container> 
+				<unittitle>Opera 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Tide Mark </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL073 </container> 
+				<unittitle>Opera 
+				  <unitdate type="inclusive" normal="YYYY">1985</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Tide Mark </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL074 </container> 
+				<unittitle>Opera 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Tide Mark </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL075 </container> 
+				<unittitle>Opera 
+				  <unitdate type="inclusive" normal="YYYY">1987</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Tide Mark </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL076 </container> 
+				<unittitle>Opera 
+				  <unitdate type="inclusive" normal="YYYY">1988</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Tide Mark </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL077 </container> 
+				<unittitle>Opera 
+				  <unitdate type="inclusive" normal="YYYY">1989</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Tide Mark </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL078 </container> 
+				<unittitle>Opera 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Tide Mark </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL079 </container> 
+				<unittitle>Eastman: Reflections 
+				  <unitdate type="inclusive" normal="YYYY">1997</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Eastman School of Music
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 36 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">07 </container> 
+				<container type="item">CAL080 </container> 
+				<unittitle>Official 1984 Country Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1984</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Country Music Foundation
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>28 x 36 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL081 </container> 
+				<unittitle>1992 Classical Music Lovers' Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1992</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>37 x 41 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL082 </container> 
+				<unittitle>Classical Music 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>37 x 41 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL083 </container> 
+				<unittitle>Classical Music 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>37 x 41 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL084 </container> 
+				<unittitle>Internationaler Opernkalender 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Verlag A. Barylli </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 45 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL085 </container> 
+				<unittitle>Internationaler Opernkalender 
+				  <unitdate type="inclusive" normal="YYYY">1996</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Verlag A. Barylli </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 45 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL086 </container> 
+				<unittitle>Strad: The Amati Influence 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Strad </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>43 x 30 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL087 </container> 
+				<unittitle>Strad: The Venetian School 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Strad </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>43 x 30 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL088 </container> 
+				<unittitle>Early Music Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Musical Times </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>32 x 43 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL089 </container> 
+				<unittitle>Wiener Opernkalender 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Verlag A. Barylli </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 45 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL090 </container> 
+				<unittitle>Jazz '83 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Engelhardt &amp; Bauer
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>48 x 33 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL091 </container> 
+				<unittitle>Komponisten Kalendar 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>49 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">08 </container> 
+				<container type="item">CAL092 </container> 
+				<unittitle>Tibia-Calendarium 
+				  <unitdate type="inclusive" normal="YYYY">1983</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>38 x 38 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL093 </container> 
+				<unittitle>Klingende Jahr 
+				  <unitdate type="inclusive" normal="YYYY">1978</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Breitkopf &amp; Hartel
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>38 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL094 </container> 
+				<unittitle>Klingende Jahr 
+				  <unitdate type="inclusive" normal="YYYY">1980</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Breitkopf &amp; Hartel
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>38 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL095 </container> 
+				<unittitle>Calendarium 
+				  <unitdate type="inclusive" normal="YYYY">1980</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>42 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL096 </container> 
+				<unittitle>Tibia-Calendarium 
+				  <unitdate type="inclusive" normal="YYYY">1982</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>42 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL097 </container> 
+				<unittitle>Tibia-Calendarium 1984: Holzblasinstrumente auf Bildern
+				  des 17. und 18. Jahrhunderts 
+				  <unitdate type="inclusive" normal="YYYY">1984</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>40 x 27 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL098 </container> 
+				<unittitle>Tibia-Calendarium 
+				  <unitdate type="inclusive" normal="YYYY">1985</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>40 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL099 </container> 
+				<unittitle>Musiker in "Kaiser Maximilian des Ersten diss namens
+				  hochloblichister gedechtnus Triumph" 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Moeck </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>40 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL100 </container> 
+				<unittitle>Zeugnisse alter Musik 
+				  <unitdate type="inclusive" normal="YYYY">1970</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Wolfgang Schwarze </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>40 x 30 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>biweekly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL101 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1991</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL102 </container> 
+				<unittitle>Medieval and Renaissance Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1992</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL103 </container> 
+				<unittitle>Medieval and Renaissance Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL104 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL105 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1995</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL106 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1996</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL107 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1997</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL108 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">1998</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL109 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">2005</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>49 x 33 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL110 </container> 
+				<unittitle>Great Composers 1990 Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1990</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Bellerophon Books </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>44 x 29 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL111 </container> 
+				<unittitle>Kompomistinnen 
+				  <unitdate type="inclusive" normal="YYYY">1987</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Furore </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>43 x 30 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL112 </container> 
+				<unittitle>Musik im Grunen 
+				  <unitdate type="inclusive" normal="YYYY">1989</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Barenreiter </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>43 x 30 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL113 </container> 
+				<unittitle>Minnesanger aus der Heidelberger Liederhandschrift
+				  Medieval Minstrels 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Dr. Rudolf Georgi </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>48 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL114 </container> 
+				<unittitle>Minnesanger aus der Heidelberger Liederhandschrift
+				  Medieval Minstrels 
+				  <unitdate type="inclusive" normal="YYYY">1988</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Dr. Rudolf Georgi </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>48 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">09 </container> 
+				<container type="item">CAL115 </container> 
+				<unittitle>Minnesanger aus der Heidelberger Liederhandschrift
+				  Medieval Minstrels 
+				  <unitdate type="inclusive" normal="YYYY">1990</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Dr. Rudolf Georgi </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>48 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL116 </container> 
+				<unittitle>Blue Note Jazz: The 60th Anniversary 1999 Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1999</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Avalanche </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL117 </container> 
+				<unittitle>Blue Note Years: The Jazz Photography of Francis Wolff 
+				  <unitdate type="inclusive" normal="YYYY">1999</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Universe </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL118 </container> 
+				<unittitle>Magic of the Met: 1986 Metropolitan Opera Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Metropolitan Opera Guild
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL119 </container> 
+				<unittitle>Musical Magic 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> CEDCO </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL120 </container> 
+				<unittitle>Official 1986 Country Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1986</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Country Music Foundation
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>32 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL121 </container> 
+				<unittitle>Official 1987 Country Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1987</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Country Music Foundation
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>32 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL122 </container> 
+				<unittitle>Official Country Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1989</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Country Music Foundation
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>32 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL123 </container> 
+				<unittitle>Classical Music 
+				  <unitdate type="inclusive" normal="YYYY">1996</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL124 </container> 
+				<unittitle>Classical Music 
+				  <unitdate type="inclusive" normal="YYYY">1997</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL125 </container> 
+				<unittitle>Classic Jazz Calendar 
+				  <unitdate type="inclusive" normal="YYYY">1984</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL126 </container> 
+				<unittitle>Classic Jazz 
+				  <unitdate type="inclusive" normal="YYYY">1988</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>34 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL127 </container> 
+				<unittitle>Classic Jazz 
+				  <unitdate type="inclusive" normal="YYYY">1991</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL128 </container> 
+				<unittitle>Classic Jazz 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL129 </container> 
+				<unittitle>Classic Jazz 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL130 </container> 
+				<unittitle>Classic Jazz 
+				  <unitdate type="inclusive" normal="YYYY">1996</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL131 </container> 
+				<unittitle>Classic Jazz 
+				  <unitdate type="inclusive" normal="YYYY">1999</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL132 </container> 
+				<unittitle>Blues 
+				  <unitdate type="inclusive" normal="YYYY">1992</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL133 </container> 
+				<unittitle>Blues 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL134 </container> 
+				<unittitle>Blues 
+				  <unitdate type="inclusive" normal="YYYY">1994</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL135 </container> 
+				<unittitle>Blues 
+				  <unitdate type="inclusive" normal="YYYY">1996</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL136 </container> 
+				<unittitle>Blues 
+				  <unitdate type="inclusive" normal="YYYY">1997</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL137 </container> 
+				<unittitle>Metropolitan Opera Presents 
+				  <unitdate type="inclusive" normal="YYYY">1991</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Pomegranate </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 34 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL138 </container> 
+				<unittitle>Metropolitan Opera 
+				  <unitdate type="inclusive" normal="YYYY">1993</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Rizzoli </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>33 x 33 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL139 </container> 
+				<unittitle>Zeugnisse alter Musik IX 
+				  <unitdate type="inclusive" normal="YYYY">1978</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Wolfgang Schwarze </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL140 </container> 
+				<unittitle>Zeugnisse alter Musik X 
+				  <unitdate type="inclusive" normal="YYYY">1979</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Wolfgang Schwarze </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL141 </container> 
+				<unittitle>Zeugnisse alter Musik XII 
+				  <unitdate type="inclusive" normal="YYYY">1981</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Wolfgang Schwarze </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>35 x 32 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL142 </container> 
+				<unittitle>Zeugnisse alter Musik XIII 
+				  <unitdate type="inclusive" normal="YYYY">1982</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Wolfgang Schwarze </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>32 x 35 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL143 </container> 
+				<unittitle>Jazz &amp; Rock '75 
+				  <unitdate type="inclusive" normal="YYYY">1975</unitdate>
+				  <imprint><lb/> 
+				  <publisher> te Neues KG </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>43 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">10 </container> 
+				<container type="item">CAL144 </container> 
+				<unittitle>Early Music Vancouver: Vancouver Early Music Festival
+				  2006 &amp; Early Music Vancouver 2006-07 Season 
+				  <unitdate type="inclusive" normal="YYYY">2006</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Early Music Vancouver
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>22 x 21 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11 </container> 
+				<container type="item">CAL145 </container> 
+				<unittitle>Teatro alla Scala 
+				  <unitdate type="inclusive" normal="YYYY">1992</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Ricordi </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>56 x 43 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11 </container> 
+				<container type="item">CAL146 </container> 
+				<unittitle>Christophe Landon Rare Violins 
+				  <unitdate type="inclusive" normal="YYYY">2007</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Christophe Landon </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>31 x 31 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11 </container> 
+				<container type="item">CAL147 </container> 
+				<unittitle>Guild of American Luthiers 
+				  <unitdate type="inclusive" normal="YYYY">2007</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Guild of American Luthiers
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>48 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>yearly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11 </container> 
+				<container type="item">CAL148 </container> 
+				<unittitle>Medieval Book Illumination 
+				  <unitdate type="inclusive" normal="YYYY">2007</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Muller und Schindler
+					 </publisher></imprint></unittitle> 
+				<physdesc> <dimensions>46 x 28 cm.</dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">11 </container> 
+				<container type="item">CAL149 </container> 
+				<unittitle>Out to Lunch, Dedicated to Eric Dolphy, 1928-1964: A
+				  Celebration of Jazz 
+				  <unitdate type="inclusive" normal="YYYY">1991</unitdate>
+				  <imprint><lb/> 
+				  <publisher> Oscar Schneider
+					 Design</publisher></imprint></unittitle> 
+				<physdesc> <dimensions>69 x 45 cm. </dimensions> </physdesc> 
+				<note> 
+				  <p>monthly</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Calendars</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music calendars</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music in art</subject> 
+		  <subject source="lcsh" encodinganalog="650">Musical instruments</subject> 
+		  <subject source="lcsh" encodinganalog="650">Musicians</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="gmgpc">Calendars</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <p> 
+			 <extref
+			  href="http://libweb.lib.buffalo.edu/ml/calendars/calendarssearch.asp"
+			  show="new" actuate="onrequest" role="text/html">Music Calendars Database
+				</extref>searchable online. </p> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc> 
+</ead> 

@@ -1,0 +1,3098 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 23.1::Livingston Gearhart Papers)//EN">ubmu0023_1
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Livingston
+			 Gearhart Papers, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1933/1997">1933-1997</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Gearhart (Livingston)
+			 Papers</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2011</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, April 2011.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Livingston Gearhart
+		  Papers, 
+		  <unitdate encodinganalog="245$f" normal="1933/1997" type="inclusive" datechar="creation">1933-1997</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 23.1</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Gearhart,
+			 Livingston</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">4
+		  boxes</extent> (<extent unit="folder" encodinganalog="300$a">194
+		  folders</extent>) </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">Collection material in
+		  <language encodinganalog="041" langcode="eng">English</language> and
+		  <language encodinganalog="041" langcode="fre">French.</language>
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">The collection of
+		  Livingston Gearhart Papers contains prose writings, vitae, correspondence,
+		  teaching materials, programs, and clippings. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Livingston Gearhart Papers, 1933-1997, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions.</p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Pamela Gearhart. Additional content donated by the estate of
+			 Livingston Gearhart. </p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Kathryn M. Blough, 1999; re-processed as separate
+			 collection by John Bewley, 2011. Additions processed by John Bewley, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Livingston Gearhart was born in Buffalo, New York December 31, 1916.
+		  His mother was Lillian Hawley Gearhart, a pianist who had studied for a year
+		  under Theodor Leschetizky in Vienna. As a child Gearhart studied piano, oboe,
+		  violoncello, and sang in church choirs in Buffalo and New York City. He
+		  graduated from high school in East Orange, New Jersey in 1935. He entered
+		  Curtis Institute of Music in Philadelphia in 1935 as an oboe student of Marcel
+		  Tabuteau. In his second year he switched his major to study composition with
+		  Rosario Scalero and piano with Nadia Reisenberg. </p> 
+		<p>Gearhart sailed to Paris aboard the Normandie in 1937. With generous
+		  support from a wealthy American expatriate, he was able to enroll at the
+		  Conservatoire Américain de Fontainebleau where he studied music theory and
+		  composition with Nadia Boulanger. He was awarded the school's 2nd prize (no
+		  first prize was awarded that year) in the Prix Stovall composition competition
+		  in 1937. While in Paris he also met Igor Stravinsky, Darius Milhaud, Robert
+		  Casadesus, pianist Isidor Philipp, and his future wife and duo-piano partner,
+		  Virginia Clotfelter. He and Virginia performed their debut in Paris February 1,
+		  1939 at the Salle Chopin. They received good reviews and were then able to give
+		  concerts in other French and Swiss locations until the conditions of World War
+		  II caused them to return to the United States in 1939.</p> 
+		<p>Virginia Clotfelter adopted the professional name Morley and married
+		  Gearhart February 28, 1940 in New York City. They worked at numerous venues,
+		  including the Hotel Brevoort and the club, Ruban Bleu, both operated by Herbert
+		  Jacoby. The pair spent the summers of 1942 and 1943 as Artists-in-Residence at
+		  Morley's alma mater, Mills College in Oakland, California. While there Gearhart
+		  was able to study composition with Darius Milhaud. The Budapest String Quartet
+		  was also in residence at Mills College during those years and Gearhart and
+		  Morley formed friendships with quartet members Alexander and Mischa Schneider.
+		  The Morley Gearhart duo was very successful, performing works by Milhaud,
+		  Norman Dello Joio, David Diamond, and Stravinsky's 
+		<title render="italic">Concerto per due pianoforte soli</title>. </p> 
+		<p>The duo received contracts with Columbia Concerts and the Fred Waring
+		  Show that extended from 1943-1953. During 1941 to 1953, the two-piano team of
+		  Morley and Gearhart performed over 2000 concerts throughout the United States and Canada
+		  in addition to recording for Columbia Masterworks and Decca Records. Included
+		  among the many concert dates was a performance by the duo at the White House
+		  for President Dwight D. Eisenhower in 1953. During this period Gearhart also
+		  worked as a staff arranger for the Fred Waring Show. </p> 
+		<p>A two-CD retrospective released in 2001, 
+		<title render="italic">Morley and Gearhart Rediscovered</title> by Ivory
+		Classics, features 22 of Gearhart's two-piano arrangements. Some of these
+		arrangements survive at Penn State in their collection, Fred Waring's America.
+		In many cases Gearhart never fully wrote out his part of a duo so no written
+		arrangement survives. </p> 
+		<p>Livingston Gearhart's output contains several collections written for
+		  pedagogical purposes. The first of these works to be published was 
+		<title render="italic">Clarinet Sessions</title> in 1945. That was
+		followed by similar collections for trumpet, violin, flute, and duos.
+		Gearhart's entire compositional and arranging output includes 400-500 works
+		(counting individual works within the collections).</p> 
+		<p>Gearhart returned to Buffalo in 1955 and was appointed to the faculty
+		  of the music department at the University of Buffalo. After a divorce from
+		  Virginia Morley, he married violinist and conductor Pamela Gerhart (not a
+		  misspelling) in 1955. He taught various courses in keyboard, theory, and
+		  orchestration until his retirement in 1985.</p> 
+		<p>Livingston Gearhart had four children: Paul, born to Virginia Morley
+		  Gearhart; Kim, Martha, and Fritz, born to Pamela Gearhart. Livingston Gearhart
+		  died in Buffalo at the age of 79 on July 14, 1996.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains the prose writings of Livingston Gearhart
+		  along with correspondence received by him, materials he compiled for teaching
+		  classes, programs, and clippings. Many of the writings consist of personal
+		  recollections, some of which Gearhart wrote in response to Virginia Gearhart
+		  Waring's request for material for her book, 
+		<title render="italic">Letters from Fontainebleau</title> and the program
+		notes for the Ivory compact discs. The subjects of these writings include his
+		studies at Curtis Institute of Music in 1935, his studies with Nadia Boulanger
+		in 1937-1939, summaries of different stages of his career and life, and
+		assessments of music education at the college level. More of his thoughts about
+		Nadia Boulanger can be found in his lecture notes for the memorial concert he
+		organized in 1980 (Series VI.). His writings about other people he met include
+		portraits of his mother, Lillian Hawley Gearhart, Igor Stravinsky, Leonard
+		Bernstein, Robert Casadesus, Fred Waring, Darius Milhaud, and Béla Bartók.
+		Other writings with advice about performing were written to one or more of his
+		children. The teaching materials include statements that express much of his
+		philosophy about teaching the practical materials of music from the standpoint
+		of a successful working professional.</p> 
+		<p>Correspondence in the collection includes letters by Louise Talma,
+		  Peggy Glanville-Hicks, David Diamond, Richard Arnell, Norman Dello Joio,
+		  Vittorio Rieti, Robert Motherwell, Alexandre Tansman, and Marcel Tabuteau.
+		  There was a relatively small number of programs and clippings originally
+		  included with the collection, ranging from a 1933 performance with his mother
+		  through his own memorial concert. These were augmented with the additions
+		  received from his estate to include substantial documentation of the career of
+		  the Morley and Gearhart piano duo, more family performances, and later
+		  performances of compositions and arrangements by Gearhart. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in thirteen series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I. Personal
+				documents</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II. Writings
+				by Livingston Gearhart</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				Correspondence</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV. Teaching
+				materials</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series5">V. Programs
+				and clippings</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series6">VI. Nadia
+				Boulanger subject folders</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series7">VII.
+				Additional personal documents</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series8">VIII.
+				Contracts for scores and recordings</ref> </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series9">IX.
+				Inscribed texts</ref> </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series10">X.
+				Additional writings and artwork</ref> </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series11">XI.
+				Additional correspondence</ref> </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series12">XII.
+				Additional programs, clippings, and publicity</ref> </item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series13">XIII. Works
+				lists</ref> </item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Personal documents, 
+				<unitdate type="inclusive" normal="1977/1996" datechar="creation">1967-1996</unitdate> </unittitle> 
+			 <physdesc><extent>Folders 1-2 </extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>Curriculum vitae, 
+				  <unitdate normal="1967/1978" type="inclusive">1967-1978</unitdate></unittitle> 
+				<physdesc><extent>8 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes a partial works list with dates.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle>Obituaries, biographies, and memorial service, 
+				  <unitdate normal="1996" type="inclusive">1996</unitdate></unittitle> 
+				<physdesc><extent>19 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes obituaries, death notices, and program of memorial
+				  concert.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Writings by Livingston Gearhart, 
+				<unitdate type="inclusive" normal="1977/1993" certainty="approximate">1977-1993 </unitdate> </unittitle> 
+			 <physdesc><extent>Folder 3-52 </extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in three subseries: 
+				<list> 
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2a">A.
+						Biographical</ref></item> 
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2b">B.
+						Musical topics</ref></item> 
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2c">C.
+						People</ref></item> 
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2d">D.
+						Nadia Boulanger</ref></item> 
+				</list></p> 
+		  </arrangement> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2a">II. A</unitid> 
+				<unittitle>Biographical writings, 
+				  <unitdate type="inclusive" normal="1977/1993">1977-1993</unitdate></unittitle> 
+				<physdesc><extent>Folders 3-12</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by folder title which has been either
+				  transcribed from a title on the item or from a first line of text.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">3</container> 
+				  <unittitle>Curtis memories, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about Curtis Institute of Music in 1935.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">4</container> 
+				  <unittitle>Dry bones, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (3 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript about working in New York City 1940-1942 and the
+					 origination of his arrangement of the tune, 
+				  <title render="italic">Dry bones</title>, which he first heard
+				  performed by the Delta Rhythm Boys. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">5</container> 
+				  <unittitle>From College Street in Bflo (ca. 1925-7)..., 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript recollection of train whistles. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">6</container> 
+				  <unittitle>In 1940, all nightclub entertainers were required to
+					 ..., 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about working in New York City and people
+					 encountered, including club owner Herbert Jacoby, singer Elsie Houston, and
+					 harpist Caspar Reardon.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">7</container> 
+				  <unittitle>In East Orange c. 1930 ... , 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript recollection of hearing his mother and Lili Balint
+					 play piano. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">8</container> 
+				  <unittitle>Memories, in high school ... , 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about his teenage years.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">9</container> 
+				  <unittitle>It's only in my sixties ... , 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about his parents and upbringing in Buffalo.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">10</container> 
+				  <unittitle>Memories (1945-46), 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (3 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about family life during 1945-46.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">11</container> 
+				  <unittitle>A ship called the Normandie was special to me ... , 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about the ship on which he sailed to France.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">12</container> 
+				  <unittitle>When I was a kid, Country Gardens was a popular piano
+					 solo, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about folk songs as musical material, with mention
+					 of Percy Grainger.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2b">II. B</unitid> 
+				<unittitle>Musical topics, 
+				  <unitdate normal="1977/1993" datechar="creation" certainty="approximate" type="inclusive">1977-1993</unitdate></unittitle> 
+				<physdesc><extent>Folders 13-31</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by folder title which has been either
+				  transcribed from a title on the item or from a first line of text.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">13</container> 
+				  <unittitle>Articles (music) 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript list. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">14</container> 
+				  <unittitle>Art &amp; psychology of musical programing, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>2 item (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">15</container> 
+				  <unittitle>Born into a professional musical family ... , 
+					 <unitdate type="inclusive" normal="1977" certainty="approximate">1977</unitdate> </unittitle> 
+				  <physdesc>1 item (3 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about the state of music education in general and
+					 at the University at Buffalo.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">16</container> 
+				  <unittitle>Brahms notes, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>4 items (4 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscripts of notes with ideas about articles concerning
+					 Johannes Brahms. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">17</container> 
+				  <unittitle>Hints on zipping thru the program, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript comments about practicing music.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">18</container> 
+				  <unittitle>The history of the Arts goes back far enough ... , 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about artistic and educational trends in the
+					 twentieth century.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">19</container> 
+				  <unittitle>How to practice the piano without much profit, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript pointing out common errors in practice
+					 technique.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">20</container> 
+				  <unittitle>It was about 31 years ago, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about joy in music performance.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">21</container> 
+				  <unittitle>On teaching, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript about what makes a good teacher.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">22</container> 
+				  <unittitle>Playing from memory, 
+					 <unitdate type="inclusive" normal="1979" certainty="approximate">1979</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">23</container> 
+				  <unittitle>Saint-Saëns lived fourscore years ... , 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript with comments about composers Saint-Saëns, Chopin,
+					 and Milhaud.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">24</container> 
+				  <unittitle>Searching for the formulas that develop functional
+					 keyboard, with no time wasted, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>2 items (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript notes about keyboard skills. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">25</container> 
+				  <unittitle>Some composer writes piano variations on a theme of
+					 Handel ... , 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript notes about tonal keys in music. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">26</container> 
+				  <unittitle>Some theories about theory, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (4 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Mimeographed typescript notes concerning music theory
+					 pedagogy.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">27</container> 
+				  <unittitle>There are hundreds of talented, ambitious,
+					 hard-working soloists ... , 
+					 <unitdate type="inclusive" normal="1980" certainty="approximate">1980</unitdate> </unittitle> 
+				  <physdesc>1 item (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Photocopied typescript of letter without addressee about the
+					 music profession. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">28</container> 
+				  <unittitle>Unsuccessful syncopation, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript list of musical examples. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">29</container> 
+				  <unittitle>Untitled list of musical works, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript list of musical examples. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">30</container> 
+				  <unittitle>Variations on an American Air (a joke for musicians) 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript notes on performance of his piece Variations on an
+					 American Air: Chautauqua Symphony Orchestra, Walter Hendl, conductor and piano
+					 soloist, Aug. 14, 1962.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">31</container> 
+				  <unittitle>X-number of basic principles of ensemble performance, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript notes to one of his children about musical
+					 performance.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2c">II. C</unitid> 
+				<unittitle>People, 
+				  <unitdate normal="1977/1993" datechar="creation" certainty="approximate" type="inclusive">1977-1993</unitdate></unittitle> 
+				<physdesc><extent>Folders 32-44</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged in alphabetical order by person who is subject of the
+				  writing. A list of names is in the first folder. It only partially corresponds
+				  to the writings in the collection. </p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">32</container> 
+				  <unittitle>Personages, 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript list. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">33</container> 
+				  <unittitle> 
+					 <persname role="subject">Bartók, Béla, 1881-1945</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">34</container> 
+				  <unittitle> 
+					 <persname role="subject">Bernstein, Leonard,
+						1918-1990</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>3 items (3 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Two manuscripts and one typescript. One manuscript also
+					 contains comments about Antonia Brico.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">35</container> 
+				  <unittitle> 
+					 <persname role="subject"> Brico, Antonia</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">36</container> 
+				  <unittitle> 
+					 <persname role="subject">Casadesus, Robert,
+						1899-1972</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">37</container> 
+				  <unittitle> 
+					 <persname role="subject">Dushkin, Samuel, 1891-1976</persname>:
+					 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. Also contains paragraph about his mother, Lillian
+					 Hawley Gearhart.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">38</container> 
+				  <unittitle> 
+					 <persname role="subject">Gearhart, Lillian, b. 1889</persname>:
+					 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">39</container> 
+				  <unittitle> 
+					 <persname role="subject"> Hutcheson, Ernest,
+						1871-1951</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">40</container> 
+				  <unittitle> 
+					 <persname role="subject"> Milhaud, Darius,
+						1892-1974</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>3 items (4 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Two typescripts and one manuscript. The manuscript is also
+					 about the musical scene in Paris in the late 1930s. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">41</container> 
+				  <unittitle> 
+					 <persname role="subject"> Philipp, Isidore,
+						1863-1958</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. Also contains one paragraph about Fritz
+					 Reiner.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">42</container> 
+				  <unittitle> 
+					 <persname role="subject"> Schnabel, Artur,
+						1882-1951</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">43</container> 
+				  <unittitle> 
+					 <persname role="subject"> Stravinsky, Igor,
+						1882-1971</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">44</container> 
+				  <unittitle> 
+					 <persname role="subject">Waring, Fred, 1900-1984</persname>: 
+					 <unitdate type="inclusive" normal="1977/1993" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>3 items (4 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript and manuscripts.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2d">II. D</unitid> 
+				<unittitle> 
+				  <persname role="subject"> Boulanger, Nadia</persname>: 
+				  <unitdate type="inclusive" normal="1977/1991" era="ce" datechar="creation" certainty="approximate">1977-1991</unitdate></unittitle> 
+				<physdesc><extent>Folders 45-51</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by document title or first line of
+				  text.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">45</container> 
+				  <unittitle>At Rue Ballu ... , 
+					 <unitdate type="inclusive" normal="1977/1991" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (5 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">46</container> 
+				  <unittitle>Memories of Nadia Boulanger, 
+					 <unitdate type="inclusive" normal="1977/1991" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>2 items (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">47</container> 
+				  <unittitle>Nadia Boulanger, 
+					 <unitdate type="inclusive" normal="1977/1991" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">48</container> 
+				  <unittitle>She lectured me ... , 
+					 <unitdate type="inclusive" normal="1977/1991" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">49</container> 
+				  <unittitle>That woman arranged for my funding by an expatriate
+					 affluent American, Atherton Curtis, 
+					 <unitdate type="inclusive" normal="1977" certainty="approximate">1977</unitdate> </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">50</container> 
+				  <unittitle>There is absolutely no trace of memory to explain how
+					 I happened to be sitting at Nadia Boulanger's elbow, 
+					 <unitdate type="inclusive" normal="1977/1991" certainty="approximate">undated</unitdate> </unittitle> 
+				  <physdesc>1 item (2 leaves)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Typescript. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">51</container> 
+				  <unittitle>With Nadia, 
+					 <unitdate type="inclusive" normal="1991">1991</unitdate>
+					 </unittitle> 
+				  <physdesc>1 item (1 leaf)</physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Manuscript. </p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Correspondence, 
+				<unitdate type="inclusive" normal="1937/1997" datechar="creation">
+				  1937-1997</unitdate> </unittitle> 
+			 <physdesc><extent> Folders 52-97</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Chiefly consists of correspondence received by Livingston
+				Gearhart. Correspondence written by Gearhart can be found in the following
+				folders: James Coover, under Gearhart's name, Pamela Gearhart, C. Paul
+				Herfurth, Harriet Simons, and William Thomson.</p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by correspondent name.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">52</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Althouse, Jay</persname>: 
+				  <unitdate normal="1984-07-26">July 26, 1984,</unitdate> 
+				  <unitdate normal="1986-09-25">September 25, 1986</unitdate>, 
+				  <unitdate normal="2005-12-08">December 8, 2005</unitdate>
+				  </unittitle> 
+				<physdesc><extent>3 items (4 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescripts on behalf of Shawnee Press. 1984 letter addressed to
+				  Virginia Waring. Manuscript letter from Pamela Gearhart to Althouse </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">53</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Arnell, Richard, 1917-2009</persname>: 
+				  <unitdate normal="1942-11-07">November 7,
+					 1942</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript. Mentions possible performance of his work by Sir
+				  Thomas Beecham.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">54</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Boulanger, Nadia</persname>: 
+				  <unitdate normal="1937-09-05">September 5,
+					 1937</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript in French with separate English translation.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">55</container> 
+				<unittitle> 
+				  <corpname>Bureau de concerts Alfred Lyon</corpname> : 
+				  <unitdate normal="1939-04-01">April 1,
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript contract in French for performance with Virginia
+				  Clotfelter.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">56</container> 
+				<unittitle> 
+				  <corpname>Bureau de concerts Marcel de Valmalète</corpname> : 
+				  <unitdate normal="1937/1939">undated</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript contract in French for performance by Virginia
+				  Clotfelter at Salle Chopin.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">57</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Casadesus, Robert, 1899-1972</persname>
+				  : 
+				  <unitdate normal="1938-12-27">December 27, 1938</unitdate>, 
+				  <unitdate normal="1939-08-23">August 23,
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>1 manuscript, 1 typescript, both in French. 1939 letter written
+				  on behalf of Casino de Vichy by unidentified author with additional handwritten
+				  note by Casadesus.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">58</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Coover, James, 1925-2004</persname> : 
+				  <unitdate normal="1977/1981">circa
+					 1977-1981</unitdate></unittitle> 
+				<physdesc><extent>3 items (4 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescripts from Livingston Gearhart to James Coover.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">59</container> 
+				<unittitle> 
+				  <persname source="lcnaf">De Lancie, John, 1921-2002</persname> : 
+				  <unitdate normal="1984/1997">1984-1997</unitdate></unittitle> 
+				<physdesc><extent>5 items (5 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript letters. The last letter from De Lancie is addressed
+				  to Pamela Gearhart. Also includes one unsent, undated letter from Gearhart to
+				  De Lancie.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">60</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Decreus, Camille, 1876-1939</persname> :
+				  
+				  <unitdate normal="1939">1939</unitdate></unittitle> 
+				<physdesc><extent>3 items (3 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letters in French by the director of the
+				  Conservatoire américain de Fontainebleau.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">61</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Dello Joio, Norman, 1913-2008</persname>
+				  : 
+				  <unitdate normal="1937/1997">undated</unitdate>, 
+				  <unitdate normal="1951-11-15">November 15,
+					 1951</unitdate></unittitle> 
+				<physdesc><extent>2 items (3 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscripts.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">62</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Diamond, David, 1915-2005</persname> : 
+				  <unitdate normal="1943-10-08">October 8,
+					 1943</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letter with references to Theodore Chanler and Oscar
+				  Levant.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">63</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Diller, Angela, 1877-1968</persname> : 
+				  <unitdate normal="1937/1997">undated</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">64</container> 
+				<unittitle> 
+				  <persname>Durand, Jacques, Madame, d. 1958</persname> : 
+				  <unitdate normal="1939-11-01">November 1,
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letter in French.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">65</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Dushkin, Samuel, 1891-1976</persname> : 
+				  <unitdate normal="1940/1941">1940 or 1941</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">66</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Firkušný, Rudolf, 1912-1994</persname> :
+				  
+				  <unitdate normal="1937/1997">undated</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">67</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Gearhart, Livingston</persname> : 
+				  <unitdate normal="1937/1997">undated</unitdate></unittitle> 
+				<physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript addressed to "Diane" without surname.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">68</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Gearhart, Pamela</persname> : 
+				  <unitdate normal="1937/1997">undated</unitdate></unittitle> 
+				<physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript from Livingston to Pamela; manuscript from Pamela
+				  Gearhart to Norma Jean Lamb.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">69</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Glanville-Hicks, Peggy</persname> : 
+				  <unitdate normal="1942-11-17">November 17,
+					 1942</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letter signed "Peggy Bate" with mention of husband
+				  Stanley Bate.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">70</container> 
+				<unittitle> 
+				  <persname>Harper, Raymond, Mrs.</persname> : 
+				  <unitdate normal="1945-02-22">February 22,
+					 1945</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">71</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Herfurth, C. Paul (Clarence Paul),
+					 1893-1988</persname> : 
+				  <unitdate normal="1975/1979">1975-1979</unitdate></unittitle> 
+				<physdesc><extent>10 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript letters; 5 from Herfurth; 4 in response from
+				  Livingston Gearhart; 1 from Pamela Gearhart to Herfurth.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">72</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Hill, Richard S. (Richard Snyder),
+					 1901-1961</persname> : 
+				  <unitdate normal="1944-11-08">November 8,
+					 1944</unitdate></unittitle> 
+				<physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript addressed to Don E. Cassel care of Livingston
+				  Gearhart. Written on Library of Congress Music Division letterhead.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">73</container> 
+				<unittitle> 
+				  <persname>Jacoby, Herbert</persname> : 
+				  <unitdate normal="1940">1940</unitdate></unittitle> 
+				<physdesc><extent>2 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letters confirming employment of Livingston Gearhart
+				  and Virginia Morley at the Hotel Brevoort Supper Club or Le Ruban Bleu club
+				  owned by Jacoby.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">74</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Klein, John, 1915-1981</persname> : 
+				  <unitdate normal="1946-03-14">March 14,
+					 1946</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">75</container> 
+				<unittitle> 
+				  <persname>Lamb, Norma Jean</persname> : 
+				  <unitdate normal="1978-09-28">September 28, 1978</unitdate>, 
+				  <unitdate normal="1979-02-12">February 12,
+					 1979</unitdate></unittitle> 
+				<physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>1 manuscript and 1 typescript. Typescript written on Buffalo
+				  &amp; Erie County Public Library letterhead.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">76</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Lawton, Dorothy, 1881-1960</persname> : 
+				  <unitdate normal="1945-02-10">February 10,
+					 1945</unitdate></unittitle> 
+				<physdesc><extent>1 item</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letter on paper with New York Public Library
+				  letterhead.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">77</container> 
+				<unittitle> 
+				  <persname>MacDermott, Theo</persname> : 
+				  <unitdate normal="1939-07-12">July 12,
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript. Note inserted states that Theo MacDermott was
+				  personal secretary to Sir Basil Zaharoff.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">78</container> 
+				<unittitle> 
+				  <persname>Massing, Jeanne Jettas</persname> : 
+				  <unitdate normal="1984-07-04">July 4, 1984</unitdate></unittitle>
+				
+				<physdesc><extent>1 item (3 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letter with two small photographs attached: one of
+				  the author's mother, the other of Lillian Hawley Gearhart. Also enclosed, one
+				  newspaper clipping about a concert in 1933 by Lillian and Livingston Gearhart,
+				  with photograph of the pair.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">79</container> 
+				<unittitle> 
+				  <persname>Phillips, Benjamin</persname> : 
+				  <unitdate normal="1993-06-25">June 25,
+					 1993</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">80</container> 
+				<unittitle> 
+				  <corpname>Pleyel (Firm)</corpname> : 
+				  <unitdate normal="1939-03-29">March 29,
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript in French.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">81</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Reinhardt, Aurelia Henry,
+					 1877-1948</persname> : 
+				  <unitdate normal="1940/1943">circa 1942</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">82</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Reisenberg, Nadia</persname> : 
+				  <unitdate normal="1940-02-18">February 18,
+					 1940</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">83</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Rieti, Vittorio, 1898-1994</persname> : 
+				  <unitdate normal="1943-03-30">March 30,
+					 1943</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">84</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Robertson, Rae, 1893-1956</persname> : 
+				  <unitdate normal="1945-01-14">January 14,
+					 1945</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript letter marked Urgent, informing Gearhart that the
+				  piano duo Bartlett and Robertson would be filling in for concerts for Morley
+				  and Gearhart in their absence. The other member of the duo was Ethel Bartlett
+				  (1896-1978).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">85</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Schaeffer, Myron</persname> : 
+				  <unitdate normal="1945-12-04">December 4,
+					 1945</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">86</container> 
+				<unittitle> 
+				  <corpname>Section musicale du conseil superieur de la
+					 radiodiffusion</corpname> : 
+				  <unitdate normal="1939-07">July 1939</unitdate></unittitle> 
+				<physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript in French.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">87</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Schneider, Alexander,
+					 1908-1993</persname> : 
+				  <unitdate normal="1937/1997">undated</unitdate></unittitle> 
+				<physdesc><extent>3 items (3 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscripts. One item possibly by Alexander Schneider's
+				  daughter, Natascha.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">88</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Schneider, Mischa, 1905-1985</persname>
+				  : 
+				  <unitdate normal="1946-08-03">August 3, 1946</unitdate>, 
+				  <unitdate normal="1965-06-24">June 24,
+					 1965</unitdate></unittitle> 
+				<physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">89</container> 
+				<unittitle> 
+				  <corpname>Shawnee Press</corpname> : 
+				  <unitdate normal="1988/2005">1988-2005</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence between employees of Shawnee Press and either
+				  Livingston or Pamela Gearhart.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">90</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Simons, Harriet</persname> : 
+				  <unitdate normal="1975-07-17">July 17,
+					 1975</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript letter from Gearhart to conductor Harriet Simons
+				  concerning planned performance of Gearhart's 
+				<title type="book">Dry bones</title> and Gearhart's association
+				with John Cage.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">91</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Stewart, Reginald</persname> : 
+				  <unitdate normal="1945-08-25">August 28,
+					 1945</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">92</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Tabuteau, Marcel, 1887-1966</persname> :
+				  
+				  <unitdate normal="1943-05-27">May 27, 1943</unitdate></unittitle>
+				
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">93</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Talma, Louise, 1906-1996</persname> : 
+				  <unitdate normal="1946-05-08">May 8, 1946</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript with notice of May 11, 1946 performance of her 
+				<title type="book">Toccata for Orchestra</title> by the NBC
+				Orchestra.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">94</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Tansman, Alexandre, 1897-1986</persname>
+				  : 
+				  <unitdate normal="1943">1943</unitdate></unittitle> 
+				<physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescripts. One in French.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">95</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Thomson, William, 1927-</persname> : 
+				  <unitdate normal="1937/1997">undated</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Typescript by Gearhart to Thomson with manuscript response by
+				  Thomson.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">96</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Waring, Virginia</persname> : 
+				  <unitdate normal="1985-02-13">February 13, 1985</unitdate>, 
+				  <unitdate normal="1993">circa 1993</unitdate></unittitle> 
+				<physdesc><extent>2 items (6 leaves)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript.</p>
+				<p>One item consists of undated notes by Livingston Gearhart to
+				  Virginia Waring.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">97</container> 
+				<unittitle>Unidentified correspondent, 
+				  <unitdate normal="1937/1997">undated</unitdate></unittitle> 
+				<physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript in French.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Teaching materials, 
+				<unitdate type="inclusive" normal="1955/1985">1955-1985 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folders 98-104 </extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>These folders contain examples, exercises, and examinations
+				prepared by Gearhart for use in his classes. They also include his notes that
+				critique how the courses are taught and related matters.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">98</container> 
+				<unittitle> Basic keyboard class notes, 
+				  <unitdate normal="1955/1985">1955-1985</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">99</container> 
+				<unittitle> Basic keyboard class proposals and policies, 
+				  <unitdate normal="1955/1985">1955-1985</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">100</container> 
+				<unittitle> Basic keyboard class outlines, 
+				  <unitdate normal="1955/1985">1955-1985</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">101</container> 
+				<unittitle>Basic keyboard class music and examinations, 
+				  <unitdate normal="1955/1985">1955-1985</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">102</container> 
+				<unittitle>Basic keyboard class assorted documents, 
+				  <unitdate normal="1955/1985">1955-1985</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">103</container> 
+				<unittitle> Keyboard harmony, 
+				  <unitdate normal="1955/1985">1955-1985</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">104</container> 
+				<unittitle>Orchestration, 
+				  <unitdate normal="1955/1985">1955-1985</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Programs and clippings, 
+				<unitdate type="inclusive" normal="1933/1979">1933-1979 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folders 105-106 </extent></physdesc> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">105</container> 
+				<unittitle>Programs, 
+				  <unitdate normal="1939/1979">1939-1979</unitdate></unittitle> 
+				<physdesc><extent>6 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">106</container> 
+				<unittitle>Clippings, 
+				  <unitdate normal="1957/1977">1933-1977</unitdate></unittitle> 
+				<physdesc><extent>16 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Nadia Boulanger subject folders, 
+				<unitdate type="inclusive" normal="1976/1980">1976-1980 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folders 107-108 </extent></physdesc> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">107</container> 
+				<unittitle>Nadia Boulanger memorial concert folder, 
+				  <unitdate normal="1980">1980</unitdate></unittitle> 
+				<physdesc><extent>4 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Contains program of October 22, 1980 memorial concert held at
+				  University at Buffalo, concert announcement, and lecture notes written by
+				  Gearhart.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">108</container> 
+				<unittitle>Nadia Boulanger clippings, 
+				  <unitdate normal="1976">1976</unitdate>. 
+				  <unitdate normal="1979">1979</unitdate>, 
+				  <unitdate normal="1980">1980</unitdate></unittitle> 
+				<physdesc><extent>3 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII.</unitid> 
+			 <unittitle>Additional personal documents, 
+				<unitdate type="inclusive" normal="1935/1974">1935-1974</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folders 109-113</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in chronological order.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">109</container> 
+				<unittitle>East Orange High School (New Jersey) diploma, 
+				  <unitdate normal="1935">24 June 1935</unitdate></unittitle> 
+				<physdesc><extent>1 item</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">110</container> 
+				<unittitle>Curtis Institute of Music transcript of grades, 
+				  <unitdate normal="1955">8 March 1955</unitdate></unittitle> 
+				<physdesc><extent>2 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Dated 8 March 1955, but contains transcript of grades for
+				  courses taken 1935-1937.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">111</container> 
+				<unittitle>Divorce decree for Livingston and Virginia Gearhart, 
+				  <unitdate normal="1954">1954</unitdate></unittitle> 
+				<physdesc><extent>3 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">112</container> 
+				<unittitle>Marriage certificate for Livingston and Pamela Gearhart,
+				  
+				  <unitdate normal="1954">25 November 1955</unitdate></unittitle> 
+				<physdesc><extent>2 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">113</container> 
+				<unittitle>Appointment papers, Music Department, University at
+				  Buffalo, 
+				  <unitdate normal="1955/1974">1955-1974</unitdate></unittitle> 
+				<physdesc><extent>34 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series8">VIII.</unitid> 
+			 <unittitle>Contracts for scores and recordings, 
+				<unitdate type="inclusive" normal="1945/1981">1945-1981</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folders 114-124</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged as received with folder titles and contents retained.</p>
+			 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Some contracts accompanied by correspondence or additional
+				descriptions.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">114</container> 
+				<unittitle>Shawnee Press contracts: Vocal, Fred Waring choral
+				  arrangements, 
+				  <unitdate normal="1949/1951">1949-1951</unitdate></unittitle> 
+				<physdesc><extent>6 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">115</container> 
+				<unittitle>Shawnee Press contracts: Vocal collections, 
+				  <unitdate normal="1955/1962">1955-1962</unitdate></unittitle> 
+				<physdesc><extent>5 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">116</container> 
+				<unittitle>Shawnee Press contracts: Orchestra, 
+				  <unitdate normal="1962/1976">1962-1976</unitdate></unittitle> 
+				<physdesc><extent>14 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">117</container> 
+				<unittitle>Shawnee Press contracts: Band, 
+				  <unitdate normal="1955/1965">1955-1965</unitdate></unittitle> 
+				<physdesc><extent>3 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">118</container> 
+				<unittitle>Shawnee Press contracts: Vocal singles, 
+				  <unitdate normal="1955">1955</unitdate></unittitle> 
+				<physdesc><extent>16 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">119</container> 
+				<unittitle>Shawnee Press contracts: Single vocals, 
+				  <unitdate normal="1956/1959">1956-1959</unitdate></unittitle> 
+				<physdesc><extent>17 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">120</container> 
+				<unittitle>Shawnee Press contracts: revision for collections, vocal
+				  singles, exclusivity contract, 
+				  <unitdate normal="1949/1951">1960-1966</unitdate></unittitle> 
+				<physdesc><extent>25 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">121</container> 
+				<unittitle>Shawnee Press contracts: Vocals, 
+				  <unitdate normal="1970/1976">1970-1976</unitdate></unittitle> 
+				<physdesc><extent>11 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">122</container> 
+				<unittitle>Shawnee Press contracts: 2-piano, 
+				  <unitdate normal="1949/1978">1949-1978</unitdate></unittitle> 
+				<physdesc><extent>4 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">123</container> 
+				<unittitle>Shawnee Press contracts: Sessions, 
+				  <unitdate normal="1945/1965">1945-1965</unitdate></unittitle> 
+				<physdesc><extent>6 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">124</container> 
+				<unittitle>Omni Sound, Inc. contracts, 
+				  <unitdate normal="1978/1981">1978-1981</unitdate></unittitle> 
+				<physdesc><extent>3 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">125</container> 
+				<unittitle>ASCAP contracts and correspondence, 
+				  <unitdate normal="1959/1997">1959-1997</unitdate></unittitle> 
+				<physdesc><extent>12 items</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">126</container> 
+				<unittitle>Copyright assignment for Gearhart arrangement of 
+				  <title render="italic">Star spangled banner</title>, 
+				  <unitdate normal="2002-02-14">February 14
+					 2002</unitdate></unittitle> 
+				<physdesc><extent>1 item</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series9">IX.</unitid> 
+			 <unittitle>Inscribed texts, 
+				<unitdate type="inclusive" normal="1947/1988">1947-1988 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 127-128</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chronologically arranged.</p> 
+		  </arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">127</container> 
+				<unittitle>
+				  <title render="italic">What is life? The physical aspect of the
+					 living cell</title> by Erwin Schrödinger, 
+				  <unitdate normal="1946">1946</unitdate></unittitle> 
+				<physdesc><extent>1 item</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Published by Cambridge Unbiversity Press/Macmillan </p>
+				<p>Inscribed by Livingston Gearhart indicating the book was a gift
+				  from Goddard Lieberson.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">128</container> 
+				<unittitle>
+				  <title render="italic">3 for Bedroom C</title> by Goddard
+				  Lieberson, 
+				  <unitdate normal="1947">1947</unitdate></unittitle> 
+				<physdesc><extent>1 item</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Published by Doubleday and Co. </p>
+				<p>Inscribed to Virginia and Livingston from the author.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">129</container> 
+				<unittitle>Music for Mischa, 
+				  <unitdate normal="1988">1988</unitdate></unittitle> 
+				<physdesc><extent>1 item</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Program booklet for concerts presented October 2 and 23, and
+				  December 4, 1988 in the Gindi Auditorium at the University of Judaism, Los
+				  Angeles, California.</p>
+				<p>Inscribed by Mischa Schneider's wife, June.</p>
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series10">X.</unitid> 
+			 <unittitle>Additional writings and artwork, 
+				<unitdate type="inclusive" normal="1939/1993">1939-1993</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 130-140</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Various manuscript, typescript and printed writings by Livingston
+				Gearhart.</p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Roughly categorized by topics.</p> 
+		  </arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">130</container> 
+				<unittitle>Composers, 
+				  <unitdate normal="1993">1993</unitdate>, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>6 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Composers mentioned include Stravinsky, Barber, Menotti, Dupré,
+				  Ravel, Couperin, and Bach.</p>
+				<p>Manuscript notes.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">131</container> 
+				<unittitle>Geophysical variables and behavior: XXXIII. Onsets of
+				  historical and contemporary poltergeist episodes occurred with sudden increases
+				  in geomagnetic activity, 
+				  <unitdate normal="1986">1986</unitdate></unittitle> 
+				<physdesc><extent>4 pages</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Offprint of article co-written with M. A. Persinger, published
+				  in 
+				<title render="italic">Perceptual and motor skills</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">132</container> 
+				<unittitle>Notes on hearing, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>9 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript notes.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">133</container> 
+				<unittitle>Notes on the paranormal and other issues, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript notes.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">134</container> 
+				<unittitle>Notes on Robert Motherwell, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript notes.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">135</container> 
+				<unittitle>Notes on Stravinsky's Firebird and Petrouschka, 
+				  <unitdate normal="1939">circa 1939</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript notes accompanied by letter from Virginia Waring to
+				  Pamela Gearhart, and letter from Pamela to Martha Gearhart Schermerhorn.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">136</container> 
+				<unittitle>Personal history, 
+				  <unitdate normal="1970/1992">circa
+					 1970-1992</unitdate></unittitle> 
+				<physdesc><extent>25 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript notes.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">137</container> 
+				<unittitle>Piano pedagogy, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript notes.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">138</container> 
+				<unittitle>Proposed plan for a school of music, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>21 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript accompanied by note from Bea Long.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">139</container> 
+				<unittitle>Recollections, 
+				  <unitdate normal="1970/1993">circa
+					 1970-1993</unitdate></unittitle> 
+				<physdesc><extent>17 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript notes.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">140</container> 
+				<unittitle>Artworks, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Sketches and drawings by Livingston Gearhart, chiefly in
+				  pencil.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series11">XI.</unitid> 
+			 <unittitle>Additional correspondence, 
+				<unitdate type="inclusive" normal="1936/2006">1936-2006</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 141-179</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes both personal and business correspondence.</p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Alphabetically arranged by correspondent surname, with
+				unidentified names following, and a closing sequence of collected
+				correspondence regarding Gearhart publications. </p> 
+		  </arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">141</container> 
+				<unittitle>
+				  <persname source="lcnaf">Both, Ernst E.</persname> : 
+				  <unitdate normal="1976-11-17">November 17,
+					 1986</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">142</container> 
+				<unittitle>
+				  <persname>Brookbank, Ricki</persname> : 
+				  <unitdate normal="1939/1993">undated</unitdate>, 
+				  <unitdate normal="1946-10-05">October 5, 1946</unitdate>,
+				  </unittitle> 
+				<physdesc><extent>3 items</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">143</container> 
+				<unittitle>
+				  <persname>Farmer, Ernest</persname> : 
+				  <unitdate normal="1981/1999">1981-1999</unitdate></unittitle> 
+				<physdesc><extent>4 items (5 leaves)</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript.</p>
+				<p>Includes correspondence from Livingston Gearhart to Ernie and
+				  Majorie Farmer, from Ernie to Livingston, and Ernie to Pamela Gearhart.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">144</container> 
+				<unittitle>
+				  <corpname source="lcnaf">G. Schirmer, Inc.</corpname> : 
+				  <unitdate normal="2004/2006">2004-2006</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript.</p>
+				<p>Correspondence between Pamela Gearhart and G. Schirmer
+				  concerning publication of works by Livingston Gearhart.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">145</container> 
+				<unittitle>
+				  <persname>Gearhart, Lillian Hawley, 1889-1975</persname> : 
+				  <unitdate normal="1938-09-08">September 8, 1938</unitdate>, 
+				  <unitdate normal="1939/1950">undated</unitdate></unittitle> 
+				<physdesc><extent>6 items</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscripts.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">146</container> 
+				<unittitle>
+				  <persname>Gearhart, Lynn Livingston, 1886-1966</persname> : 
+				  <unitdate normal="1955-11-20">November 20, 1955</unitdate>, 
+				  <unitdate normal="1956-01-15">January 15,
+					 1956</unitdate></unittitle> 
+				<physdesc><extent>2 items</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscripts accompanied by photograph of Lynn Livingston
+				  Gearhart in 1961.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">147</container> 
+				<unittitle>
+				  <persname>Harberg, Margery</persname> :  
+				  <unitdate normal="1984-07-02">July 2, 1984</unitdate></unittitle>
+				
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">148</container> 
+				<unittitle>
+				  <persname source="lcnaf">Hutson, Wihla</persname> : 
+				  <unitdate normal="1960">1960</unitdate>, 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscripts and typescripts, including the score of the song, 
+				<title render="italic">Christmas as it used to be</title>, with
+				words and music by Hutson.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">149</container> 
+				<unittitle>
+				  <persname source="lcnaf">Kiefer, Peter T. </persname>: 
+				  <unitdate normal="1996/1997">1996-1997</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript notes between Peter Kiefer, for Penn State's Fred Waring's America collection, and Pamela Gearhart.</p>
+<p>Includes list of Livingston Gearhart's two-piano manuscripts in Penn State's collection.</p>				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">150</container> 
+				<unittitle>
+				  <persname>Kimball, Patricia</persname> :
+				  <unitdate normal="1996-12-17">December 17, 1996</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript note on behalf of the Buffalo Phillharmonic Orchestra.</p>
+<p>Includes manuscript list by Pamela Gearhart of Livingston Gearhart manuscripts believed to be held by the Buffalo Philharmonic Orchestra.</p>				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">151</container> 
+				<unittitle>
+				  <persname source="lcnaf">Kovach, Jules</persname> : 
+				  <unitdate normal="1996-11-15">November 15, 1996</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript addressed to Pamela Gearhart concerning Livingston manuscripts believed to be held by the Buffalo Philharmonic Orchestra.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">152</container> 
+				<unittitle>
+				  <persname source="lcnaf">Lawrence, Vera Brodsky</persname> : 
+				  <unitdate normal="1936-11-22">November 22, 1936</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">153</container> 
+				<unittitle>
+				  <persname source="lcnaf">Lieberson, Goddard, 1911-1977</persname> : 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript card inscribed with a melody and text.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">154</container> 
+				<unittitle>
+				  <persname>Long, Marvin W.</persname> : 
+				  <unitdate normal="1980-12-11">December 11, 1980</unitdate></unittitle> 
+				<physdesc><extent>3 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript list of works by Livingston Gearhart held by the Fred Waring Music Library, with manuscript annotations.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">155</container> 
+				<unittitle>
+				  <persname>Most, Anne</persname> : 
+				  <unitdate normal="1991-10-27">October 27, 1991</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript letter accompanied by printed program for piano recital by Barbara Lewsi, May 4, 1923 in Buffalo, New York.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">156</container> 
+				<unittitle>
+				  <persname source="lcnaf">Motherwell, Robert</persname> : 
+				  <unitdate normal="1939-12-21">December 21, 1939</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">157</container> 
+				<unittitle>
+				  <persname source="lcnaf">Motherwell, Robert</persname> : 
+				  <unitdate normal="1942-05-21">May 21, 1942</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">159</container> 
+				<unittitle>
+				  <persname source="lcnaf">Motherwell, Robert</persname> : 
+				  <unitdate normal="1943-05-24">May 24, 1943</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript with mention of meeting John Cage.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">160</container> 
+				<unittitle>
+				  <persname source="lcnaf">Motherwell, Robert</persname> : 
+				  <unitdate normal="1943-09-16">September 16, 1943</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">161</container> 
+				<unittitle>
+				  <persname source="lcnaf">Philipp, Isidore, 1863-1958</persname> :
+				  <unitdate normal="1939-01-22">January 22, 1939</unitdate>, <unitdate normal="1939-01-23">January 23, 1939</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">162</container> 
+				<unittitle>
+				  <persname source="lcnaf">Reese, Gustave, 1899-1977</persname> : 
+				  <unitdate normal="1937-02-15">February 15, 1937</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript on behalf of G. Schirner music publisher.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">163</container> 
+				<unittitle>
+				  <persname>Schermerhorn, Martha</persname> :  
+				  <unitdate normal="1995-10-11">October 11, 1995</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">164</container> 
+				<unittitle>
+				  <persname source="lcnaf">Stegall, Joel R.</persname> : 
+				  <unitdate normal="1983-06-07">June 7, 1983</unitdate></unittitle> 
+				<physdesc><extent> leaves</extent></physdesc> 
+			 </did>
+<scopecontent>
+				<p>Typescript list of Livingston Gearhhart works dontated to Ithaca College School of Music.</p>
+			 </scopecontent> 			 
+		  </c02> 
+		 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">165</container> 
+				<unittitle>
+				  <persname source="lcnaf">Tillstrom, Burr</persname> : 
+				  <unitdate normal="1949-12-17">December 17, 1949</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript from creator of Kukla, Fran and Ollie. </p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">166</container> 
+				<unittitle>
+				  <persname source="lcnaf">Torberg, Friedrich, 1908-1979</persname> : 
+				  <unitdate normal="1945">1945</unitdate></unittitle> 
+				<physdesc><extent>3 items (3 leaves)</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">167</container> 
+				<unittitle>
+				  <persname source="lcnaf">Valéry, François</persname> : 
+				  <unitdate normal="1939-07-26">July 26, 1939</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">168</container> 
+				<unittitle>
+				  <persname>Valéry, Jeannie</persname> : 
+				  <unitdate normal="1939-06-06">June 6, 1939</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript.</p>
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">169</container> 
+				<unittitle>
+				  <persname source="lcnaf">Waring, Fred, 1900-1984</persname> : 
+				  <unitdate normal="1945-05-07">May 7, 1945</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Photocopy of typescript with annotation by Livingston Gearhart.</p>
+			 </scopecontent> 
+		  </c02>
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">170</container> 
+				<unittitle>
+				  <persname>Waring, Paul Gearhart</persname> : 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript from Livingston Gearhart to his son Paul.</p>
+			 </scopecontent> 
+		  </c02> 		   
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">171</container> 
+				<unittitle>
+				  <persname>Bogdan, N. A.</persname> : 
+				  <unitdate normal="1948-08-21">August 21, 1948</unitdate></unittitle> 
+				<physdesc><extent>2 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript.</p>
+<p>Letterhead: "n.a.b."; reference in letter to being "Bogdanesque".</p>				
+			 </scopecontent> 
+		  </c02> 
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">172</container> 
+				<unittitle>Unidentified surname, forename Alex : 
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript on Hotel Algonquin (New York, New York) letterhead.</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">173</container> 
+				<unittitle>Unidentified surname, forename Bill :  
+				  <unitdate normal="1993-09-08">September 8, 1993</unitdate>, <unitdate normal="1996-06-01">June 1, 1996</unitdate>, <unitdate normal="1939/1993">undated</unitdate> </unittitle> 
+				<physdesc><extent>6 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript notes written by Livingston Gearhart, addressed to "Bill".</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">174</container> 
+				<unittitle>Unidentified surname, forename Earl :
+				  <unitdate normal="1939/1993">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript note written by Livingston Gearhart, addressed to "Earl" concerning Gearhart's arrangement of <title render="italic">We shall overcome</title>.</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">175</container> 
+				<unittitle>Unidentified surname, forename John :
+				  <unitdate normal="1994-03-31">March 31, 1994</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript note from "John" to Gearhart.</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">176</container> 
+				<unittitle>Unidentified surname, forenames Mildred and Lara :
+				  <unitdate normal="1989-05-01">May 1, 1989</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Typescript note from Livingston Gearhart to "Mildred and Lara".</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">177</container> 
+				<unittitle>Unidentified surname, forename Yoshio :
+				  <unitdate normal="1981-02-18">Feburary 18, 1981</unitdate></unittitle> 
+				<physdesc><extent>1 leaf</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript note written by Livingston Gearhart, addressed to "Yoshio".</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">178</container> 
+				<unittitle>Unidentified correspondents :				  
+				  <unitdate normal="1936/1940">1936-1940</unitdate></unittitle> 
+				<physdesc><extent>5 items</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript notes.</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">179</container> 
+				<unittitle>Correspondence regarding Livingston Gearhart's "Bass materials" :				  
+				  <unitdate normal="2002">2002</unitdate></unittitle> 
+				<physdesc><extent>12 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript correspondence between Pamela Gearhart and correspondents.</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">180</container> 
+				<unittitle>Correspondence regarding Livingston Gearhart's "Rhythm sessions" and "Reading sessions" :				  
+				  <unitdate normal="1998/2000">1998-2000</unitdate></unittitle> 
+				<physdesc><extent>24 leaves</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript correspondence between Pamela Gearhart and correspondents, including proofreading lists.</p>
+			 </scopecontent> 
+		  </c02>
+
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">181</container> 
+				<unittitle>Correspondence regarding Livingston Gearhart's "Sax sessions" :
+				  <unitdate normal="1997/2004">1997-2004</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Manuscript and typescript correspondence between Pamela Gearhart and correspondents, including proofreading lists.</p>
+			 </scopecontent> 
+		  </c02>		  		  		  		  		  		  		  		  		  		  
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series12">XII. </unitid> 
+			 <unittitle>Additional programs, clippings, and publicity, 
+				<unitdate type="inclusive" normal="1932/2006">1932-2006</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 182-188</extent></physdesc> 
+		  </did> 
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">182</container>
+			 <unittitle>Clippings concerning the career of Livingston Gearhart, 
+			 <unitdate normal="1932/1963">1932-1963</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Chiefly photocopies.</p>
+<p>Documentation includes clippings about early performances with his mother Lillian Hawley Gearhart and his sister, Martha.</p>			 
+			 </scopecontent>
+		  </c02>	
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">183</container>
+			 <unittitle>Programs documenting performances of music by Livingston Gearhart, 
+			 <unitdate normal="1951/2006">1951-2006</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>			 
+			 </did>		 
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">184</container>
+			 <unittitle>Programs documenting performances by the Morley and Gearhart piano duo, 
+			 <unitdate normal="1938/1953">1938-1953</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>			 
+			 </did>
+			 <scopecontent>
+			 <p>Chiefly photocopies.</p>
+			 </scopecontent>
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">185</container>
+			 <unittitle>Publicity materials for the Morley and Gearhart piano duo, 
+			 <unitdate normal="1940/1953">circa 1940-1953</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>			 
+			 </did>
+			 <scopecontent>
+<p>Chiefly photocopies.</p>			 
+			 <p>Includes Press book created by Columbia Masterwork Records.</p>
+			 </scopecontent>
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">186</container>
+			 <unittitle>Clippings documenting performances by the Morley and Gearhart piano duo, 
+			 <unitdate normal="1940/1953">circa 1940-1953</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>			 
+			 </did>			 
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">187</container>
+			 <unittitle>Virginia Waring's synopsis of Morley and Gearhart piano duo performance at the White House on November 17, 1953 :
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>3 leaves</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Typescript.</p>
+			 </scopecontent>
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">188</container>
+			 <unittitle>Caricature of Livingston Gearhart by C. Brodine, 
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>1 leaf</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Photocopy.</p>
+			 </scopecontent>
+		  </c02>	
+	  	
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series13">XIII.</unitid> 
+			 <unittitle>Works lists, 
+				<unitdate type="inclusive" normal="1947/2005">1947-2005</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 189-194</extent></physdesc> 
+		  </did> 
+		 
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">189</container>
+			 <unittitle>Catalog of works by Livingston Gearhart, 
+			 <unitdate>circa 2005</unitdate></unittitle>
+<physdesc><extent>1 volume</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Spiral bound inventory compiled by Pamela Gearhart, including some of her annotations.</p>
+			 </scopecontent>
+		  </c02>		
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">190</container>
+			 <unittitle>Livingston Gearhart Seletced works list,  
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>1 leaf</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Issued by Shawnee Press.</p>
+			 </scopecontent>
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">191</container>
+			 <unittitle>Manuscript lists of works by Livingston Gearhart published by Shawnee Press, 
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Compiled by Pamela Gearhart, including some sales figures.</p>
+			 </scopecontent>
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">192</container>
+			 <unittitle>LG wks: toward an archive, 
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>5 leaves</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Typescript, including proposed filing system. </p>
+			 </scopecontent>
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">193</container>
+			 <unittitle>LG works in Ithaca storage, 
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>1 leaf</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+			 <p>Manuscript list by Pamela Gearhart.</p>
+			 </scopecontent>
+		  </c02>	
+
+<c02 level="item">
+			 <did>
+			 <container type="box">4</container>
+			 <container type="item">194</container>
+			 <unittitle>Contents listings of compilations by Livingston Gearhart,  
+			 <unitdate>1947-2000</unitdate></unittitle>
+<physdesc><extent>8 items</extent></physdesc>
+			 
+			 </did>
+			 <scopecontent>
+<p>Photocopies.</p>			 
+			 <p><list>
+<item><title render="italic">Bass clef sessions</title></item>
+<item><title render="italic">Clarinet sessions</title></item>
+<item><title render="italic">Fiddle sessions</title></item>
+<item><title render="italic">Flute sessions</title></item>
+<item><title render="italic">String mix</title></item>
+<item><title render="italic">Duet sessions</title></item>	
+<item><title render="italic">Treble clef sessions</title></item>	
+<item><title render="italic">Trumpet sessions</title></item>			 
+			 </list>
+			 </p>
+			 </scopecontent>
+		  </c02>	
+
+ 		  		  		  			  	  
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <persname source="lcnaf" encodinganalog="700" role="creator">Gearhart,
+			 Pamela</persname> 
+		  <persname source="lcnaf" encodinganalog="700" role="creator">Waring,
+			 Virginia</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Boulanger,
+			 Nadia</persname> 
+		  <persname encodinganalog="600" rules="aacr2" role="subject">Gearhart,
+			 Lillian Hawley, 1889-1975</persname> 
+		  <subject source="lcsh" encodinganalog="650">Composers--New York
+			 (State)--Buffalo</subject> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Conservatoire américain de Fontainebleau</corpname>
+		  <corpname rules="aacr2" encodinganalog="610" role="subject">Morley and
+			 Gearhart</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Curtis
+			 Institute of Music</corpname> 
+		  <subject source="lcsh" encodinganalog="650">Musicians</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">clippings (information
+			 artifacts)</genreform> 
+<genreform encodinganalog="655" source="aat">concert programs</genreform> 			 
+		  <genreform encodinganalog="655" source="aat">correspondence</genreform>
+		  
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<separatedmaterial encodinganalog="544 0"> 
+		  <head>Separated Material</head> 
+		  <p>Photographs received with the collection were removed to form a
+			 separate collection, Mus. Arc. 23.3.</p> 
+		</separatedmaterial> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_2.xml" show="new" actuate="onrequest" role="text/html"> Livingston Gearhart Collection
+						of Scores, 1930-1996 </archref>Mus. Arc. 23.2 </label> 
+				  <item>Extensive collection (26 boxes) of manuscript and published
+					 scores composed or arranged by Livingston Gearhart. Also includes published
+					 scores of other composers as annotated by Gearhart. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_3.xml" show="new" actuate="onrequest" role="text/html"> Livingston Gearhart Collection
+						of Photographs,1896-1941 </archref> Mus. Arc. 23.3 </label> 
+				  <item>Collection of 192 images, including photographs of Nadia
+					 Boulanger and her summer class of 1938, Gearhart and his first wife, Virginia
+					 Morley (Waring) at Mills College in California, with composer Darius Milhaud
+					 and his family, and the Budapest String Quartet. The collection also includes
+					 four photographs of composer Johannes Brahms in 1896. Also available as a
+					 digital collection in 
+					 <archref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS019" show="new" actuate="onrequest" role="text/html"> University Libraries Digital
+						Collections</archref>.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_4.xml" show="new" actuate="onrequest" role="text/html"> Livingston Gearhart
+						Recordings, 1949-2001 </archref> Mus. Arc. 23.4 </label> 
+				  <item>Collection of 24 recordings, including compositions and
+					 arrangements by Livingston Gearhart, his memorial service, and the recordings
+					 of duo-pianists, Morley and Gearhart. </item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		  <relatedmaterial> 
+			 <head>Related Resources at Other Institutions </head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref href="https://libraries.psu.edu/about/collections/fred-warings-america" show="new" actuate="onrequest" role="text/html"> Fred Waring's America
+						Collection</archref> </label> 
+				  <item>Pennsylvania State University's collection of material
+					 related to the Fred Waring shows, including some of Livingston Gearhart's
+					 arrangements.</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

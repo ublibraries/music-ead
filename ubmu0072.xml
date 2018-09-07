@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 72::Slee Visiting Professor in Music Papers)//EN">
+	 ubmu0072</eadid> 
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Slee Visiting
+		Professor in Music Papers, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1957/1993">1957-1993 </date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Slee Visiting
+		Professor in Music Papers </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, January 2015.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Slee Visiting Professor
+	   in Music Papers, 
+	   <unitdate encodinganalog="245$f" normal="1957/1993" type="inclusive"
+	    datechar="creation">1957-1993 </unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 72</unitid> 
+	 <origination label="Creator"> 
+	   <corpname encodinganalog="110" role="creator" source="lcnaf"> State
+		University of New York at Buffalo. Music Department </corpname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   box</extent> <extent unit="folder" encodinganalog="300$a">(33 folders)</extent>
+	   </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">
+	   Collection material in <language encodinganalog="041"
+	   langcode="eng">English</language> and
+	   <language encodinganalog="041" langcode="fre">French</language>.</langmaterial>
+	 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The collection chiefly
+	   consists of correspondence between thirty-two composers being considered or
+	   invited to fill the position of Slee Visiting Professor in Music at the State
+	   University of New York at Buffalo. It also contains clippings pertaining to the
+	   composers.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Slee Visiting Professor in Music Papers,
+		1957-1993, Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of State University of New York at Buffalo Music
+		Department.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <altformavail encodinganalog="530"> 
+	   <head>Alternate Forms</head> 
+	   <p>The collection only contains photocopies. The original documents are
+		held by University Archives at the University at Buffalo.</p> 
+	 </altformavail> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>The position of Slee Visiting Professor in Music at the University at
+	   Buffalo was funded by Frederick Caldecott Slee. Slee (1870-1954) was a
+	   corporate lawyer in Buffalo who was also a talented amateur musician who
+	   composed and played viola. He and his wife, Alice MacDonald Slee, funded
+	   through their estates two major musical events at the University at Buffalo:
+	   the annual performance of the complete cycle of Beethoven's string quartets by
+	   some of the world's leading string quartet ensembles, and a visiting position
+	   in the Music Department to be filled by a leading composer or music theorist of
+	   the day. The Slee Visiting Professors presented lectures and recitals of music
+	   selected by them. This series of lecture-recitals occurred from 1957 to 1975.
+	   The fund was later shifted to be used for a Slee Chair position in music theory
+	   within the department rather than funding visiting faculty.</p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection chiefly consists of correspondence between thirty-two
+	   composers being considered or invited to fill the position of Slee Visiting
+	   Professor in Music at the State University of New York at Buffalo. It also
+	   contains clippings pertaining to the composers. The folder of correspondence 
+	   concerning Aaron Copland, who was appointed the first Slee Visting Professor 
+	   in Music in 1957, is especially noteworthy due to the controversy caused by 
+	   accusations that he was affiliated with the Communist Party.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is in one series arranged alphabetically by the
+	   composers' surnames. </p> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">01</container> 
+		<unittitle> 
+		  <title>Lists and articles</title> 
+		  <unitdate type="inclusive">1960-1993</unitdate> </unittitle> 
+		<physdesc> <extent>8 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 leaf, January 24 1976 Buffalo Evening News article about
+		    Frederick and Alice Slee's funding of the annual Beethoven string quartet
+		    cycle</item> 
+		  <item>1 leaf, list of Slee Professors at the University at Buffalo
+		    Music Department, 1957-1975</item> 
+		  <item>1 leaf, January 17 1960 list of composers contacted regarding
+		    the Slee Professorship</item> 
+		  <item>1 leaf, 1967-1968, Possible candidates for Slee Chair</item> 
+		  <item>2 leaves, October 17 1960, from Allen Giles inviting unnamed
+		    composer to become the Slee Professorship</item> 
+		  <item>1 leaf, December 2 1974 from Terry Charles Schwarz to
+		    publisher W. W. Norton concerning inaccuracies about the Slee gift in Philip
+		    Hart's <title render="italic">Orpheus in the New World</title></item> 
+		  <item>3 leaves, March 1 1967 from Joel Spiegelman to Vladimir
+		    Prokofieff</item> 
+		  <item>2 leaves, January 27 1993 concert announcement for program
+		    including music by Slee Professors</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">02</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Barber, Samuel, 1910-1981 </persname> 
+		  <unitdate type="inclusive">10 November 1960</unitdate> </unittitle>
+		
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, November 10 1960, from Barber to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">03</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Berger, Arthur, 1912-2003</persname> 
+		  <unitdate type="inclusive">1 November 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>2 typescript leaves, November 1 1960, from Berger to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">04</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Britten, Benjamin, 1913-1976</persname> 
+		  <unitdate type="inclusive">25 October 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, October 25 1960, written by J. W. Cullum
+		    on behalf of Britten to Allen Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">05</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Carter, Elliott, 1908-2012</persname> 
+		  <unitdate type="inclusive">1960-1962</unitdate> </unittitle> 
+		<physdesc> <extent>3 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, November 3 1960, from Carter to Allen
+		    Giles</item> 
+		  <item>1 typescript leaf, June 22, 1962, from Carter to Allen
+		    Sapp</item> 
+		  <item>1 typescript transcription of cablegram sent to Elliott
+		    Carter, June 19, 1962, from Allen Sapp</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">06</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Chávez, Carlos, 1899-1978</persname> 
+		  <unitdate type="inclusive">19 July 1957</unitdate>, 
+		  <unitdate type="inclusive">12 August 1957</unitdate> </unittitle> 
+		<physdesc> <extent>4 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>2 typescript leaves, July 19 1957, from Chávez to Cameron
+		    Baird</item> 
+		  <item>2 typescript leaves, August 12 1957, from Chávez to Cameron
+		    Baird</item> 
+		  <item>2 clippings about performances of Chávez's music</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">07</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Copland, Aaron, 1900-1990</persname> 
+		  <unitdate type="inclusive">14 January 1957-June 1957</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>17 items</extent> </physdesc> 
+ <note>
+		<p>Content from this folder related to accusations about Copland's
+		  alleged ties to Communism can also be found in digital form within the summary
+		  (see pages 33 and following)of the Music Library's exhibition, 
+		  <extref
+		   href="http://libweb1.lib.buffalo.edu:8080/xtf/data/pdf/music/exhibits/ubmu_pdf_baird2014/ubmu_pdf_baird2014.pdf"
+		   show="new" actuate="onrequest" role="text/html"> 
+		    <title render="italic">Cameron Baird: Bringing Paul Hindemith and
+			 Aaron Copland to Buffalo</title></extref></p>
+	   </note> 		
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, January 14 1957, from Copland to Cameron
+		    Baird</item> 
+		  <item>2 manuscript leaves, January 27 1957, from Copland to Cameron
+		    Baird</item> 
+		  <item>1 typescript leaf, February 5 1957, from W. L. Barnette (Les)
+		    to Cameron Baird</item> 
+		  <item>2 typescript leaves, February 5 1957, from Cameron Baird to
+		    Joseph McNamara</item> 
+		  <item>1 typescript leaf, February 8 1957, from Joseph McNamara to
+		    Cameron Baird</item> 
+		  <item>2 typescript leaves, February 11 1957, from Copland to
+		    Cameron Baird</item> 
+		  <item>1 typescript leaf, February 26 1957, from Cameron Baird to
+		    Joseph McNamara </item> 
+		  <item>1 typescript leaf, April 5 1957, from Copland to Cameron
+		    Baird</item> 
+		  <item>2 typescript leaves, with manuscript notes on verso, April 23
+		    1957, from Copland to Cameron Baird</item> 
+		  <item>2 manuscript leaves, June 1 1957, from Copland to Cameron
+		    Baird</item> 
+		  <item>1 manuscript leaf, Friday (June 1957), from Copland to
+		    Cameron Baird</item> 
+		  <item>1 Addendum for summer catalog and for summer music brochure
+		    1957, from Cameron Baird</item> 
+		  <item>5 clippings</item> 
+		</list> 
+	   </scopecontent> 
+	  
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">08</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Cowell, Henry, 1897-1965</persname> 
+		  <unitdate type="inclusive">1960-1963</unitdate> </unittitle> 
+		<physdesc> <extent>3 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, October 27 1960, from Cowell to Allen
+		    Giles</item> 
+		  <item>1 typescript leaf, December? 17 1960, from Cowell to Allen
+		    Giles</item> 
+		  <item>1 typescript leaf, July 17 1963, from Cowell to Norma Sapp
+		    (not related to lectureship)</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">09</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Creston, Paul, 1906-1985</persname> 
+		  <unitdate type="inclusive">10 November 1960</unitdate> </unittitle>
+		
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, November 10 1960, from Creston to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">10</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Dallapiccola, Luigi, 1904-1975</persname> 
+		  <unitdate type="inclusive">June 1962</unitdate> </unittitle> 
+		<physdesc> <extent>2 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 telegram, June 11 1962, from Allen Sapp to
+		    Dallapiccola</item> 
+		  <item>1 telegram, June 16 1962, from Dallapiccola to Allen
+		    Sapp</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">11</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Dello Joio, Norman, 1913-2008</persname> 
+		  <unitdate type="inclusive">28 October 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, October 28 1960, from Dello Joio to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">12</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Diamond, David, 1915-2005</persname> 
+		  <unitdate type="inclusive">1960-1963</unitdate> </unittitle> 
+		<physdesc> <extent>3 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 cablegram, November 7 1960, from Allen Giles to
+		    Diamond</item> 
+		  <item>1 cablegram, November 8 1960, from Diamond to Allen Giles
+		    </item> 
+		  <item>1 program flyer for Diamond lecture-concerts, 1963,
+		    University at Buffalo</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">13</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Feldman, Morton, 1926-1987</persname> 
+		  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		<physdesc> <extent>6 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>6 clippings about Feldman, originally sent to Allen Sapp by
+		    Lukas Foss</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">14</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Fine, Irving, 1914-1962</persname> 
+		  <unitdate type="inclusive">2 November 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>2 typescript leaves, November 2 1960, from Fine to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">15</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Foss, Lukas, 1922-2009</persname> 
+		  <unitdate type="inclusive">1960-1964</unitdate> </unittitle> 
+		<physdesc> <extent>6 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>2 manuscript leaves, October 31 1960, from Foss to Allen
+		    Giles</item> 
+		  <item>2 typescript leaves, December 5 1960, unsigned, on Music
+		    Department letterhead to Foss</item> 
+		  <item>1 typescript leaf, May 15 1961, from Milton Albrecht to
+		    Foss</item> 
+		  <item>1 typescript leaf, June 8 1961, from Milton Albrecht to
+		    Foss</item> 
+		  <item>1 typescript leaf, June 13 1961, from Foss to Milton
+		    Albrecht</item> 
+		  <item>1 typescript leaf, July 14 1964, from Foss to Allen
+		    Sapp</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">16</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Haieff, Alexei, 1914-1994</persname> 
+		  <unitdate type="inclusive">1961-1966</unitdate> </unittitle> 
+		<physdesc> <extent>14 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>14 leaves (manuscript and typescript), July 24 1961- July 12
+		    1966, to and from Haieff, and additional correspondence concerning
+		    Haieff</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">17</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Harris, Roy, 1898-1979</persname> 
+		  <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>3 manuscript leaves, 1960, from Harris to Allen Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">18</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Harrison, Lou, 1917-2003</persname> 
+		  <unitdate type="inclusive">October 1961</unitdate> </unittitle> 
+		<physdesc> <extent>2 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, October 8 1961, from Harrison to Allen
+		    Sapp</item> 
+		  <item>1 typescript leaf, October 26 1961, from Allen Sapp to
+		    Harrison</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">19</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Kirchner, Leon</persname> 
+		  <unitdate type="inclusive">11 June 1964</unitdate>, 
+		  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		<physdesc> <extent>2 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, June 11 1964, from Allen Sapp to
+		    Kirchner</item> 
+		  <item>1 manuscript leaf, undated, unsigned, probably internal memo
+		    to Allen Sapp about Kirchner</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">20</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Lees, Benjamin, 1924-2010</persname> 
+		  <unitdate type="inclusive">1961-1963</unitdate> </unittitle> 
+		<physdesc> <extent>5 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, July 16 1961, from Lees to Allen
+		    Sapp</item> 
+		  <item>1 typescript leaf, July 26 1961, from Allen Sapp to
+		    Lees</item> 
+		  <item>1 typescript leaf, Sept. 29 1961, from Lees to Allen
+		    Sapp</item> 
+		  <item>1 typescript leaf, March 8 1963, from Lees to Allen
+		    Sapp</item> 
+		  <item>1 typescript leaf, March 13 1963, from Allen Sapp to
+		    Lees</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">21</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Lutosławski, Witold, 1913-1994</persname> 
+		  <unitdate type="inclusive">May-June 1964</unitdate> </unittitle> 
+		<physdesc> <extent>5 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, May 6 1964, from Lutosławski to Allen
+		    Sapp</item> 
+		  <item>1 typescript leaf, May 21 1964, to Allen Sapp from "Bob"
+		    regarding Lutosławski</item> 
+		  <item>1 typescript leaf, May 26 1964, text of cablegram from Allen
+		    Sapp to Lutosławski</item> 
+		  <item>1 cablegram, May 26 1964, from Allen Sapp to
+		    Lutosławski</item> 
+		  <item>1 typescript leaf, June 25 1964, from Allen Sapp to
+		    Lutosławski</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">22</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Milhaud, Darius, 1892-1974</persname> 
+		  <unitdate type="inclusive">1960-1964</unitdate> </unittitle> 
+		<physdesc> <extent>3 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, October 28 [1960?], from Milhaud to Allen
+		    Giles</item> 
+		  <item>1 telegram, January 21 1964, from Allen Sapp to
+		    Milhaud</item> 
+		  <item>1 manuscript leaf, January 21 1964, from Milhaud to Allen
+		    Sapp</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">23</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Panufnik, Andrzej, 1914-1991</persname> 
+		  <unitdate type="inclusive">circa 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 folder</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>14 leaves of promotional material from Arthur Judson,
+		    Columbia Artists Management</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">24</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Persichetti, Vincent, 1915-1987</persname>
+		  
+		  <unitdate type="inclusive">29 October 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, October 29 1960, from Persichetti to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">25</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Piston, Walter, 1894-1976</persname> 
+		  <unitdate type="inclusive">1 November 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, November 1 1960, from Piston to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">26</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Plamenac, Dragan, 1895-1983</persname> 
+		  <unitdate type="inclusive">14 February 1968</unitdate> </unittitle>
+		
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, February 14 1968, from Plamenac to Allen
+		    Sapp</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">27</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Porter, Quincy, 1897-1966</persname> 
+		  <unitdate type="inclusive">25 October 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, October 25 1960, from Porter to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">28</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Poulenc, Francis, 1899-1963</persname> 
+		  <unitdate type="inclusive">2 November 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, November 2 1960, from Poulenc to unnamed
+		    correspondent</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">29</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Powell, Mel</persname> 
+		  <unitdate type="inclusive">27 April 1967</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 telegram, April 27 1967, from Allen Sapp to Powell with 1
+		    typescript leaf transcription of text</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">30</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Rorem, Ned, 1923-</persname> 
+		  <unitdate type="inclusive">3 July 1962</unitdate>, 
+		  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		<physdesc> <extent>2 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, July 3 1962, from Rorem to Allen
+		    Sapp</item> 
+		  <item>1 typescript leaf, undated, of Rorem's recommendations of
+		    composers for the Slee Lectures</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">31</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Stockhausen, Karlheinz,
+		    1928-2007</persname> 
+		  <unitdate type="inclusive">1964</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>5 typescript leaves from Music Dept., University of
+		    Pennsylvania, announcing Stockhausen's appointment to teach composition Spring
+		    1964</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">32</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Thompson, Randall, 1899-1984</persname> 
+		  <unitdate type="inclusive">3 November 1960</unitdate> </unittitle> 
+		<physdesc> <extent>1 item</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 manuscript leaf, November 3 1960, from Thompson to Allen
+		    Giles</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">33</container> 
+		<unittitle> 
+		  <persname source="lcnaf">Wolpe, Stefan</persname> 
+		  <unitdate type="inclusive">September 1968</unitdate> </unittitle> 
+		<physdesc> <extent>2 items</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<list type="simple"> 
+		  <item>1 typescript leaf, September 18 1968, from Josef Marx on
+		    behalf of Stefan Wolpe to Allen Sapp</item> 
+		  <item>1 typescript leaf, September 26 1968, from Esther Swartz on
+		    behalf of Allen Sapp to Josef Marx</item> 
+		</list> 
+	   </scopecontent> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Contributors</head> 
+	   <persname encodinganalog="700" source="lcnaf" role="creator">Giles,
+		Allen</persname> 
+	   <persname encodinganalog="700" source="lcnaf" role="creator">Sapp,
+		Allen, 1922-1999</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <persname source="lcnaf" role="subject" encodinganalog="600">Copland,
+		Aaron, 1900-1990--Correspondence</persname> 
+	   <subject source="lcsh"
+	   encodinganalog="650">Composers--Correspondence</subject> 
+	   <corpname source="lcnaf" encodinganalog="610" role="subject">State
+		University of New York at Buffalo. Music Department</corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655"
+	   source="gmgpc">Correspondence</genreform> 
+	   <genreform encodinganalog="655" source="gmgpc">Clippings</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label><archref href="http://libweb1.lib.buffalo.edu:8080/findingaids/data/html/music/concerts/ubmu_html_sleelect/ubmu_html_sleelect.html" show="new" actuate="onrequest"
+			 role="text/html">Slee Lecture Recitals Inventory</archref>		   
+			</label> 
+		    <item>Inventory of lectures and recitals presented by the Slee
+			 Visiting Professors in Music, 1957-1975. </item> 
+		  </defitem> 
+<defitem>
+		<label>
+		<extref href="http://library.buffalo.edu/music/exhibits/slee/" show="new" actuate="onrequest"
+			 role="text/html"><title render="italic">Frederick and Alice Slee</title></extref>
+			 </label>
+			 <item>Online exhibit about the lives of Frederick and Alice Slee, with examples of Frederick 
+			 Slee's prose and musical writing and information about the Beethoven quartet cycle funded by the Slees. </item>
+		</defitem>		  
+		</list> 
+		
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

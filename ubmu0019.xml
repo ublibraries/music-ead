@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead> 
+  
+   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 
+      <eadid countrycode="US" mainagencycode="NBuU-Mu" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 19::Irene Haupt Photographs of June in Buffalo 2001)//EN" encodinganalog="identifier">ubmu0019</eadid> 
+	 
+      <filedesc> 
+		
+         <titlestmt> 
+		  
+            <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
+			 Photographs of June in Buffalo, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="2001-06">2001</date> 
+            </titleproper> 
+		  
+            <titleproper type="filing" altrender="nodisplay"> Haupt (Irene)
+			 Photographs of June in Buffalo 2001 </titleproper> 
+		  
+            <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		
+         </titlestmt> 
+		
+         <publicationstmt> 
+		  
+            <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  
+            <address> 
+			 
+               <addressline>112 Baird Hall</addressline> 
+			 
+               <addressline>Buffalo, New York 14260-4750</addressline> 
+			 
+               <addressline>United States</addressline> 
+			 
+               <addressline>Phone: 716 645-2924</addressline> 
+			 
+               <addressline>Fax: 716 645-3906</addressline> 
+			 
+               <addressline>Email:<emph render="bold"> 
+				
+                     <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html" linktype="simple">musique@buffalo.edu</extref>
+                  </emph>
+               </addressline> 
+			 
+               <addressline>URL:<emph render="bold"> 
+				
+                     <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html" linktype="simple">http://library.buffalo.edu/music/</extref>
+                  </emph>
+				
+               </addressline> 
+		  
+            </address> 
+		  
+            <p>© 
+			 <date encodinganalog="date" type="publication" normal="2005" era="ce" calendar="gregorian">2005</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		
+         </publicationstmt> 
+	 
+      </filedesc> 
+	 
+      <profiledesc> 
+		
+         <creation>Finding aid encoded in HTML by John Bewley, 2005; encoded in
+		  EAD by John Bewley, July 2007.</creation> 
+		
+         <langusage>Finding aid is in
+		  <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage> 
+		
+         <descrules>Finding aid prepared using DACS ( 
+		  <title render="italic" linktype="simple">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 
+      </profiledesc> 
+  
+   </eadheader> 
+  
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 
+      <did> 
+		
+         <head>Collection Overview</head> 
+		
+         <unittitle label="Title" encodinganalog="245$a"> Irene Haupt Photographs
+		  of June in Buffalo, 
+		  <unitdate encodinganalog="245$f" normal="2001-06" type="inclusive" datechar="creation" era="ce" calendar="gregorian"> 2001 </unitdate>
+         </unittitle> 
+		
+         <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 19</unitid> 
+		
+         <origination label="Creator"> 
+		  
+            <persname encodinganalog="100" role="creator" source="lcnaf"> Haupt,
+			 Irene </persname> 
+         </origination> 
+		
+         <physdesc label="Extent"> 
+            <extent unit="box" encodinganalog="300$a">1
+		  box</extent> 
+            <extent encodinganalog="300$a" unit="photograph">(48
+		  photographs)</extent> 
+         </physdesc> 
+		
+         <langmaterial label="Language of Material" encodinganalog="546">No
+		  textual content in the collection.</langmaterial> 
+		
+         <repository label="Repository" encodinganalog="852"> 
+		  
+            <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea>
+            </corpname> 
+         </repository> 
+		
+         <abstract label="Abstract" encodinganalog="520$a"> Contains 48
+		  photographs of musicians who participated in the June in Buffalo Festival 2001
+		  at the University at Buffalo. </abstract> 
+	 
+      </did> 
+	 
+      <descgrp type="admininfo"> 
+		
+         <head>Administrative Information</head>  
+		
+         <prefercite encodinganalog="524"> 
+		  
+            <head>Preferred Citation</head> 
+		  
+            <p>[Specified item], Irene Haupt Photographs of June in Buffalo, 2001,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		
+         </prefercite> 
+		
+         <accessrestrict encodinganalog="506"> 
+		  
+            <head>Terms of Access</head> 
+		  
+            <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		
+         </accessrestrict> 
+		
+         <userestrict encodinganalog="540"> 
+		  
+            <head>Copyright</head> 
+		  
+            <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		
+         </userestrict> 
+	  
+		
+         <acqinfo encodinganalog="541"> 
+		  
+            <head>Acquisition Information</head> 
+		  
+            <p>Purchased from Irene Haupt, 2002.</p> 
+		
+         </acqinfo> 
+		
+         <accruals encodinganalog="584"> 
+		  
+            <head>Accruals and Additions</head> 
+		  
+            <p>No further accruals are expected to this collection. </p> 
+		
+         </accruals> 
+	 	
+         <altformavail encodinganalog="530"> 
+	 		
+            <head>Alternate Forms</head> 
+	 		
+            <p>
+	 			All images are available in the UB Libraries Digital Collections as part of the overall <extref href="http://digital.lib.buffalo.edu/collection/LIB-MUS009/" actuate="onrequest" show="new" linktype="simple"> June in Buffalo Collection.</extref>
+            </p>
+	 	
+         </altformavail>
+		
+         <processinfo encodinganalog="583"> 
+		  
+            <head>Processing Information</head> 
+		  
+            <p>Processed by John Bewley.</p> 
+		
+         </processinfo> 
+	 
+      </descgrp> 
+	 
+      <bioghist encodinganalog="545"> 
+		
+         <head>Biographical Note</head> 
+		
+         <p>Irene Haupt, a graduate of the State University of New York at
+		  Buffalo, has been documenting the Buffalo arts scene through her photography
+		  since 1976. During that time she has worked for, or with, some of the most
+		  notable institutions in Buffalo, including the Irish Classical Theatre, Studio
+		  Arena Theater, the Kavinoky Theatre, the Buffalo Philharmonic Orchestra, the
+		  Theatre of Youth, the Albright-Knox Art Gallery, and the State University of
+		  New York at Buffalo. In addition to her specialty of theater photography, Irene
+		  Haupt has also devoted much of her career to the photography of musicians and
+		  musical events. Most notable is her documentation of the contemporary music
+		  scene in Buffalo, including coverage of the University at Buffalo's June in
+		  Buffalo festival of new music, 1982-1987, and 2001 to the present. Over the
+		  course of those years, she has created a visual record that contains images of
+		  some of the most significant composers and performers of the last quarter
+		  century. The list of names is impressive: Aaron Copland, Morton Feldman, Leo
+		  Smit, Virgil Thomson, Steve Reich, Ralph Shapey, Henry Brant, Earle Brown,
+		  Ursula Oppens, Jan Williams, Lukas Foss, Philip Glass, Otto Luening, Conlon
+		  Nancarrow, Ernst Krenek, Larry Austin, Lejaren Hiller, Elliott Carter, Milton
+		  Babbitt, John Cage, Charles Wuorinen, Jacob Druckman, and Yvar Mikhashoff,
+		  among others. </p> 
+		
+         <p>The June in Buffalo festival of contemporary music was begun at the
+		  University at Buffalo in 1975 by composer Morton Feldman. He directed the
+		  festival 1975-1978 and in 1980. The festival was dormant from 1981 through
+		  1985. David Felder revived the festival in 1986 and has been its director since
+		  that time.</p> 
+	 
+      </bioghist> 
+	 
+      <scopecontent encodinganalog="520"> 
+		
+         <head>Scope and Content Note</head> 
+		
+         <p>The collection of Irene Haupt Photographs of June in Buffalo 2001
+		  contains 48 images of participants in the festival for 2001. The list of
+		  musicians includes Pierre-Yves Artaud, Helena Bugallo, Amy Williams, Cassatt
+		  String Quartet, Dora Ohrenstein, Cort Lippe, Jeffrey Stadelman, David Felder,
+		  Magnus Martensson, and Jonathan Golove. </p> 
+	 
+      </scopecontent> 
+	 
+      <arrangement encodinganalog="351"> 
+		
+         <head>Arrangement</head> 
+		
+         <p>One sequence of images in alphabetical order by principal subject of
+		  the image.</p> 
+	 
+      </arrangement> 
+	 
+      <dsc type="in-depth"> 
+		
+         <head>Container List</head> 
+		
+         <c01 level="file"> 
+		  
+            <did> 
+			 
+               <unitid id="series1">I.</unitid> 
+			 
+               <unittitle>Photographs, 
+				<unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				
+               </unittitle> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">01</container> 
+				
+                  <unittitle>Pierre-Yves Artaud, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,74"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">02</container> 
+				
+                  <unittitle>Pierre-Yves Artaud and Cheryl Gobbetti-Hoffman, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,105"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">03</container> 
+				
+                  <unittitle>Robert Berkman at pianola, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,80"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">04</container> 
+				
+                  <unittitle>Kevin Bowyer at Slee organ, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,104"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">05</container> 
+				
+                  <unittitle>Bugallo Williams Piano Duo, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,83"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">06</container> 
+				
+                  <unittitle>Bugallo Williams Piano Duo, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,116"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">07</container> 
+				
+                  <unittitle>Bugallo Williams Piano Duo and John Gibson, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,91"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">08</container> 
+				
+                  <unittitle>Cassatt String Quartet, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,108"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">09</container> 
+				
+                  <unittitle>Kerry Grant and David Felder, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,79"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">10</container> 
+				
+                  <unittitle>David Felder, Magnus Martensson, and Pierre-Yves Artaud, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,102"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">11</container> 
+				
+                  <unittitle>David Felder, Cort Lippe, Jonathan Golove, and Jeff
+				  Stadelman, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,82"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">12</container> 
+				
+                  <unittitle>Erik Ona, Cort Lippe, Jeff Stadelman, David Felder, and
+				  Jonathan Golove, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,100"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">13</container> 
+				
+                  <unittitle>David Felder, Alejandro Rutty, Jonathan Golove, and June
+				  in Buffalo students, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,86"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">14</container> 
+				
+                  <unittitle>Mara Gibson, composer and June in Buffalo administrator, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,113"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">15</container> 
+				
+                  <unittitle>Mara Gibson, Alejandro Rutty, Lorena Guillen, Eryk
+				  Anspach, Justin Kagan, Rin Ozaki, and Satoshi Takagi, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,77"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">16</container> 
+				
+                  <unittitle>Jonathan Golove, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,99"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">17</container> 
+				
+                  <unittitle>Kerry Grant, Dean of the College of Arts and Sciences, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,78"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">18</container> 
+				
+                  <unittitle>Emil Harnas, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,94"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">19</container> 
+				
+                  <unittitle>Emil Harnas and Kevin Bowyer, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,71"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">20</container> 
+				
+                  <unittitle>Hye-Jeong Lee, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,90"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">21</container> 
+				
+                  <unittitle>Cort Lippe, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,114"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">22</container> 
+				
+                  <unittitle>Cort Lippe, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,89"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">23</container> 
+				
+                  <unittitle>Cort Lippe lecturing in Baird Recital Hall, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,111"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">24</container> 
+				
+                  <unittitle>Magnus Martensson conducting, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,84"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">25</container> 
+				
+                  <unittitle>Anthony Miranda, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,109"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">26</container> 
+				
+                  <unittitle>Sam Mirelman, Elise LaVoie, and Clemens Merkel, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,85"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">27</container> 
+				
+                  <unittitle>Sam Mirelman with Quatuor Bozzini, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,110"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">28</container> 
+				
+                  <unittitle>Dora Ohrenstein, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,87"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">29</container> 
+				
+                  <unittitle>Dora Ohrenstein with ensemble, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,112"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">30</container> 
+				
+                  <unittitle>Erik Ona conducting brass and percussion ensemble, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,81"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">31</container> 
+				
+                  <unittitle>Outer Circle Orchestra performing at UB Student Commons, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,107"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">32</container> 
+				
+                  <unittitle>Pedro Rivadenera and Stephanie Bozzini, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,88"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">33</container> 
+				
+                  <unittitle>Pedro Rivadenera and Isabelle Bozzini, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,106"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">34</container> 
+				
+                  <unittitle>Jane Romano, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,72"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">35</container> 
+				
+                  <unittitle>Jane Romano, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,93"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">36</container> 
+				
+                  <unittitle>Alejandro Rutty conducting Lorena Guillen and ensemble, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,73"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">37</container> 
+				
+                  <unittitle>Eric Rynes, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,95"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">38</container> 
+				
+                  <unittitle>Eric Rynes, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,115"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">39</container> 
+				
+                  <unittitle>Jeffrey Stadelman reading musical score, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,98"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">40</container> 
+				
+                  <unittitle>Jeffrey Stadelman checking musical score, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,75"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">41</container> 
+				
+                  <unittitle>Jeffrey Stadelman, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,96"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">42</container> 
+				
+                  <unittitle>Jeffrey Stadelman, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,97"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">43</container> 
+				
+                  <unittitle>Jeffrey Stadelman and Erik Ona, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,92"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">44</container> 
+				
+                  <unittitle>Jeffrey Stadelman and Cassatt String Quartet, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,103"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">45</container> 
+				
+                  <unittitle>Suzanne Thomas and Beth Ann Brenneman, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,76"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">48</container> 
+				
+                  <unittitle>Cort Lippe, Cheryl Gobbetti-Hoffman, David Felder, Jeff
+				  Stadelman, Jonathan Golove, <unitdate type="inclusive" normal="2001-06" era="ce" calendar="gregorian">June 2001</unitdate>
+				  
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,101"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph,</extent>
+					 
+                     <dimensions>8 x 10 inches</dimensions>
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+	 
+      </dsc> 
+	 
+      <controlaccess> 
+		
+         <head>Search Terms</head> 
+		
+         <note> 
+		  
+            <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		
+         </note> 
+		
+         <controlaccess> 
+		  
+            <head>Subjects</head> 
+		  
+            <corpname source="lcnaf" encodinganalog="611">June in Buffalo (Festival) (Buffalo, N.Y.)--Photographs</corpname> 
+		  
+            <subject source="lcsh" encodinganalog="650">Composers--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Music festivals--New York (State)--Buffalo--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+		
+         </controlaccess> 
+		
+         <controlaccess> 
+		  
+            <head>Genres</head> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Photographs</genreform> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Portraits</genreform> 
+		
+         </controlaccess> 
+	 
+      </controlaccess> 
+	 
+      <descgrp type="add"> 
+		
+         <head>Associated Material</head> 
+		
+         <relatedmaterial encodinganalog="544 1"> 
+		  
+            <head>Related Resources</head> 
+		  
+            <relatedmaterial> 
+			 
+               <head>Related Resources in the Music Library</head> 
+			 
+               <list type="deflist"> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0018.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2000 </archref> Mus. Arc. 18 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2000 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0020.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2002 </archref> Mus. Arc. 20 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2002 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0021.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2003 </archref> Mus. Arc. 21 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2003 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0025.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2004 </archref> Mus. Arc. 25 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2004 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2005 </archref> Mus. Arc. 27 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2005 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0029.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2006 </archref> Mus. Arc. 29 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2006 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0038.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2007</archref> Mus. Arc. 38 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2007 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0039.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2008 </archref> Mus. Arc. 39 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2008 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0050.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2009 </archref> Mus. Arc. 50 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2009 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0055.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2010 </archref> Mus. Arc. 55 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2010 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0056.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2011 </archref> Mus. Arc. 56 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2011 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0060.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2012</archref> Mus. Arc. 60 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2012 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0066.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2013 </archref> Mus. Arc. 66 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2013 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0067.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2014 </archref> Mus. Arc. 67 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2014 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" role="text/html" linktype="simple">June in Buffalo Photograph
+						Collection</archref>
+                     </label> 
+				  
+                     <item>A selection of images from the June in Buffalo festivals is available through University at Buffalo Libraries Digital Collections.</item> 
+				
+                  </defitem> 
+			 
+               </list> 
+		  
+            </relatedmaterial> 
+		
+         </relatedmaterial> 
+	 
+      </descgrp> 
+  
+   </archdesc> 
+
+</ead>

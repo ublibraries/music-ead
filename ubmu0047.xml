@@ -1,0 +1,2138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 47::Collection of Sheet Music)//EN">ubmu0047 </eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Collection of
+			 Sheet Music, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1790/1950" certainty="approximate">circa 1790-1950
+				</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Collection of Sheet
+			 Music </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, July 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Collection of Sheet
+		  Music, 
+		  <unitdate encodinganalog="245$f" normal="1790/1950" type="inclusive"
+			datechar="creation" certainty="approximate">circa 1790-1950
+			 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 47</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="compiler" source="lcnaf"> State
+			 University of New York at Buffalo. Music Library</corpname> </origination> 
+		<physdesc label="Extent">
+		  <extent unit="linear foot" encodinganalog="300$a">2 linear feet</extent>
+		  (<extent unit="box" encodinganalog="300$a">2 boxes</extent>,
+		  <extent unit="item" encodinganalog="300$a">92 items</extent>) </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Collection of 92 pieces
+		  of sheet music, chiefly from the United States, most with title page
+		  illustrations. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Collection of Sheet Music, circa 1790-1950, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Collection compiled by the Music Library from a combination of
+			 purchases and gifts.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Julia Cordani, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains 92 pieces of sheet music, 77 of which were
+		  published in the United States, 13 in England, and 1 each in Ireland and
+		  France. The musical content is split almost evenly between piano music and
+		  vocal music with piano accompaniment. The piano music includes works in dance
+		  forms, including galops, waltzes, polkas, marches, Schottisches, quadrilles,
+		  and mazurkas. The topical subjects of the music and illustrations (43 of which
+		  are in color) American Civil War battles and persons, the transatlantic cable,
+		  and celebrities of the stage.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged alphabetically by composer surname,
+		  followed by title.</p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">01</container> 
+			 <unittitle> 
+				<persname>Badarzewska, Thekla, 1834-1861</persname> 
+				<title type="uniform">Modlitwa dziewicy ; arranged</title> 
+				<title type="transcribed">Maiden's prayer for the piano
+				  forte,</title> 
+				<unitdate>1859</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): S. T. Gordon</p> 
+				<p>For piano, four hands.</p> 
+				<p>Arranger: Bellak, Ja's (James)</p> 
+				<p>Other title: Prière exaucée (Prayer granted)</p> 
+				<p>Although the title Prière exaucée is stated on the title page,
+				  the music matches the work titled Prière d'une vierge.</p> 
+				<p>Title page illustration: a woman kneeling in prayer / printed by
+				  P. S. Duval and Son.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">02</container> 
+			 <unittitle> 
+				<persname>Baker, Thomas, active 19th century</persname> 
+				<title type="uniform">Black crook. Transformation polka ;
+				  arranged</title> 
+				<title type="transcribed">Transformation polka,</title> 
+				<unitdate>1867</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (8 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Wm. A. Pond and Co.</p> 
+				<p>For piano.</p> 
+				<p>Other title: Black crook</p> 
+				<p>Dedicated to Mrs. R. D. Holmes.</p> 
+				<p>Color title page illustration: portrait of ballerina Mdlle.
+				  Bonfanti / lithographed by Major and Knapp Eng. Mf'g. and Lith. Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">03</container> 
+			 <unittitle> 
+				<persname>Baker, Thomas, active 19th century</persname> 
+				<title type="uniform">Palace garden polka</title> 
+				<title type="transcribed">Palace garden polka,</title> 
+				<unitdate>1858</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Horace Waters</p> 
+				<p>For piano.</p> 
+				<p>Bird song parts indicated on music.</p> 
+				<p>Dedicated to the Lady Patrons [of the Promenade Concerts].</p> 
+				<p>Color title page illustration: view of the Palace Garden, New
+				  York City, with a bandstand and fountain, and crowd of people in attendance /
+				  lithographed by Sarony, Major, and Knapp.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">04</container> 
+			 <unittitle> 
+				<persname>Balfe, M. W. (Michael William), 1808-1870</persname> 
+				<title type="uniform">O take me to thy heart again</title> 
+				<title type="transcribed">O take me to thy heart again,</title> 
+				<unitdate>between 1866-1879</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Beer and Schirmer</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Rankin, Jessica</p> 
+				<p>Other title: Oh take me to thy heart again</p> 
+				<p>Title page illustration: various types of filigree illuminating
+				  title / lithographed by Pearson.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">05</container> 
+			 <unittitle> 
+				<persname>Becket, Thomas à, approximately 1817-approximately
+				  1871</persname> 
+				<title type="uniform">He was such a nice young man</title> 
+				<title type="transcribed">He was such a nice young man : a
+				  celebrated comic song,</title> 
+				<unitdate>between 1832 and 1847</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Firth and Hall</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Alldridge, R. W.</p> 
+				<p>Lyricist name stated as W. R. Aldridge in caption title.</p> 
+				<p>Title page illustration: a man apprehending another man, with
+				  onlookers in the street and in houses above / lithographed by Fleetwood.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">06</container> 
+			 <unittitle> 
+				<persname>Blewitt, J.</persname> 
+				<title type="uniform">Tarnation strange</title> 
+				<title type="transcribed">Tarnation strange, or Yankee wonders :
+				  comic song sung by Mr. Buckingham at the Royal Gardens Vauxhall,</title> 
+				<unitdate>circa 1840</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Firth and Hall</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Coleman, Henry (Lyricist)</p> 
+				<p>Other title: Yankee wonders</p> 
+				<p>Caption title: Tarnation strange, or Yankee wonders, written by
+				  the American Boz, composed by T. Blewett. Blewitt, or Blewett, is possibly a
+				  pseudonym of publisher James Hewitt rather than English composer Jonathan
+				  Blewitt. Copy trimmed, with loss of information.</p> 
+				<p>Title page illustration: five comic scenes with lyrics beneath
+				  them depicting various situations described in the lyrics.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">07</container> 
+			 <unittitle> 
+				<persname>Blumenthal, Jacques</persname> 
+				<title type="uniform">Fleurs emblématiques. Pensée</title> 
+				<title type="transcribed">Pensée, no. 2 des fleurs emblématiques
+				  pour le piano,</title> 
+				<unitdate>between 1858-1860</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Cramer, Beale and Co.</p> 
+				<p>For piano.</p> 
+				<p>Other title: Fleurs emblématiques</p> 
+				<p>Dedicated to Miss Marshall. Full publication statement: Londres
+				  : Cramer, Beale &amp; Co. ; Paris : Brandus &amp; Co. ; Philadelphia : G.
+				  André &amp; Co.</p> 
+				<p>Color title page illustration: wreath of flowers around title
+				  text.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">08</container> 
+			 <unittitle> 
+				<persname>Boieldieu, Adrien, 1775-1834</persname> 
+				<title type="uniform">Dame blanche. Chantez joyeux menestrels.
+				  Vocal score. English</title> 
+				<title type="transcribed">Robin Adair as sung by Theodore Habelmann
+				  in the opera of La dame Blanche,</title> 
+				<unitdate>1866</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Philadelphia (Pa.): G. Andre and Co.</p> 
+				<p>For voice and piano.</p> 
+				<p>"Correct edition as sung by Mr. Habelmann"--Caption.</p> 
+				<p>Title page illustration: a man playing a lute on a street to a
+				  woman above looking out from a window.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">09</container> 
+			 <unittitle> 
+				<persname>Braham, David, 1838-1905</persname> 
+				<title type="uniform">Mulligan guard ; arranged</title> 
+				<title type="transcribed">Mulligan guard,</title> 
+				<unitdate>1873</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Wm. A. Pond and Co.</p> 
+				<p>For piano.</p> 
+				<p>Arranger: Angelo, D.</p> 
+				<p>Drum and fife parts indicated on music.</p> 
+				<p>Dedicated to Mr. Josh Hart. Composed, arranged and performed
+				  with great success by Harrigan and Hart.</p> 
+				<p>Title page illustration: Harrigan &amp; Hart in Mulligan guard
+				  uniform, with an African American boy in background holding a sign reading
+				  "M.G.".</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">10</container> 
+			 <unittitle> 
+				<persname>Brougham, John, 1810-1880</persname> 
+				<title type="uniform">Fine ould Irish gintleman</title> 
+				<title type="transcribed">Fine ould Irish gintleman,</title> 
+				<unitdate>1845</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Geo. P. Reed</p> 
+				<p>For voice and piano.</p> 
+				<p>Written and sung by John Brougham and dedicated to his friend
+				  Oliver C. Wyman of Boston.</p> 
+				<p>Title page illustration: a man with a pipe and cane in tattered
+				  clothes / lithographed by Bufford and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">11</container> 
+			 <unittitle> 
+				<persname>Brown, Francis H. (Francis Henry), 1818-1891</persname> 
+				<title type="uniform">Early dawn polka</title> 
+				<title type="transcribed">Early dawn polka,</title> 
+				<unitdate>1853</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): William Hall and Son</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Miss Rebecca S. Burge.</p> 
+				<p>Color title page illustration: rooster with snowy farm in
+				  background / lithographed and printed in color by Sarony, Major, and Knapp.</p>
+				
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">12</container> 
+			 <unittitle> 
+				<persname>Brown, Francis H. (Francis Henry), 1818-1891</persname> 
+				<title type="uniform">Happy family polka</title> 
+				<title type="transcribed">Happy family polka,</title> 
+				<unitdate>1851</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Firth, Pond and Co.</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to S. P. Wardwell of Providence, R. I.</p> 
+				<p>Title page illustration: family sitting by a fire in the parlor
+				  / lithographed by Sarony and Major.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">13</container> 
+			 <unittitle> 
+				<persname>Brown, Francis H. (Francis Henry), 1818-1891</persname> 
+				<title type="uniform">Ocean telegraph march</title> 
+				<title type="transcribed">Ocean telegraph march,</title> 
+				<unitdate>1858</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Firth, Pond and Co.</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Cyrus W. Field.</p> 
+				<p>Title page illustration: portrait of Cyrus W. Field surrounded
+				  by flags, ships, and an ocean telegraph line side view / lithographed by
+				  Sarony, Major, and Knapp.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">14</container> 
+			 <unittitle> 
+				<persname>Buckley, Frederick, 1833-1864</persname> 
+				<title type="uniform">I shouldn't like to tell</title> 
+				<title type="transcribed">I shouldn't like to tell : a semi comic
+				  ballad,</title> 
+				<unitdate>1858</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Buffalo (N.Y.): Sheppard and Cottier</p> 
+				<p>For voice and piano.</p> 
+				<p>Dedicated to Miss. Hattie Bronn.</p> 
+				<p>Title page illustration: filigree surrounding title /
+				  lithographed by Wakelam and Bro.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">15</container> 
+			 <unittitle> 
+				<persname>Callcott, John Wall, 1766-1821</persname> 
+				<title type="uniform">Multiplication table</title> 
+				<title type="transcribed">Multiplication table,</title> 
+				<unitdate>between 1798-1807</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Dublin (Ireland): Gough's Piano Forte, Harp, and Music
+				  Warehouse</p> 
+				<p>For voice and piano.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">16</container> 
+			 <unittitle> 
+				<persname>Clarke, J. P. (James Power), 1816-1889</persname> 
+				<title type="uniform">Queen's Hussars' polka</title> 
+				<title type="transcribed">Queen's Hussars' polka,</title> 
+				<unitdate>between 1848-1858</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Jullien and Co.</p> 
+				<p>For voice.</p> 
+				<p>Dedicated to Lieutenant Colonel Shirley and the officers of the
+				  7th (Queen's Own) Hussars.</p> 
+				<p>Color title page illustration: a soldier riding on a horse /
+				  lithographed by M. and N. Hanhart.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">17</container> 
+			 <unittitle> 
+				<persname>Cook, T. J. (Thomas J.)</persname> 
+				<title type="uniform">Four bells polka</title> 
+				<title type="transcribed">Four bells polka : composed as a
+				  companion to the popular "Three bells polka",</title> 
+				<unitdate>1855</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): S. T. Gordon</p> 
+				<p>For piano.</p> 
+				<p>Addressed to Miss Elizabeth Nelson, dedicated to Captn.
+				  Creighton, of the ship Three Bells.</p> 
+				<p>Title page illustration: filigree featuring bells and an
+				  enlarged four note incipit / lithographed by Sarony and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">18</container> 
+			 <unittitle> 
+				<persname>Coote, Charles, Jr.</persname> 
+				<title type="uniform">Snow drift galop</title> 
+				<title type="transcribed">Snow-drift galop,</title> 
+				<unitdate>1870</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Hopwood and Crew</p> 
+				<p>For piano.</p> 
+				<p>Color title page illustration: a sled with two occupants being
+				  pulled by a horse through the snow / lithographed by Stannard and Son.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">19</container> 
+			 <unittitle> 
+				<persname>Coote, Charles, Jr.</persname> 
+				<title type="uniform">Eclipse galop</title> 
+				<title type="transcribed">Eclipse galop,</title> 
+				<unitdate>1865</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Hopwood and Crew</p> 
+				<p>For piano.</p> 
+				<p>Color title page illustration: red, blue, and yellow curved and
+				  ornamented title lettering / lithographed by Concanen, Lee, and Siebe.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">20</container> 
+			 <unittitle> 
+				<persname>Crosby, L. V. H., -1884</persname> 
+				<title type="uniform">Kitty Clyde</title> 
+				<title type="transcribed">Kitty Clyde,</title> 
+				<unitdate>1853</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Syracuse (N.Y.): T. Hough</p> 
+				<p>For voice and piano.</p> 
+				<p>Dedicated to [his] friend T. Hough.</p> 
+				<p>Color title page illustration: portrait of a young girl fishing
+				  on a stream with a house in the background / lithographed by Sarony and
+				  Major.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">21</container> 
+			 <unittitle> 
+				<persname>Densmore, John H. (John Hopkins), 1880-1943</persname> 
+				<title type="uniform">Longing, dear, for you</title> 
+				<title type="transcribed">Longing, dear, for you,</title> 
+				<unitdate>1919</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages) and 2 parts (1 page
+				each)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For voice, piano, violin, and violoncello.</p> 
+				<p>Includes parts for violin and violoncello. The parts are not
+				  indicated in the score</p> 
+				<p>Color title page illustration: a woman holding a string of beads
+				  amidst a flowery grove with a column in the background / E. M. Selfridge.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Title page notes that there are available versions for "high voice
+				in G; medium voice in F; low voice in Eb". This edition is for medium voice in
+				F.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">22</container> 
+			 <unittitle> 
+				<persname>Dewing, A. A. M.</persname> 
+				<title type="uniform">Pharmacy</title> 
+				<title type="transcribed">Pharmacy : age-less art still
+				  majestically marches on,</title> 
+				<unitdate>1936</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Baltimore (Md.): J. Casper Sauer</p> 
+				<p>For voice and piano.</p> 
+				<p>Dedicated to the American Pharmaceutical Association.</p> 
+				<p>Title page illustration: floral filigree illuminating the name
+				  of the composer.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Title page notes "the author endeavors to portray a parallel of
+				the two dramatic arts, - MUSIC and PHARMACY. Exemplifying an exaltation
+				accompanying any creative effort. Despite disappointments and meager
+				encouragement, each never-the-less still lavishly contributes a solace to
+				posterity."</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">23</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">Dearer than life!</title> 
+				<title type="transcribed">Dearer than life!,</title> 
+				<unitdate>1869</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (2 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): W. J. Demorest</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Cooper, George, 1840-1927</p> 
+				<p>Attributed to Foster by his friend and collaborator George
+				  Cooper, who claims they worked on this song 3 weeks before Foster's death.</p> 
+				<p>Title page illustration: four women in late 1800's clothing with
+				  the caption "latest style of spring walking-costumes for March, 1869".
+				  Illustration on rear cover: "Latest style of street and ball costumes for
+				  March, 1869".</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">24</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">Give this to mother</title> 
+				<title type="transcribed">Give this to Mother : Stephen C. Foster's
+				  last musical idea,</title> 
+				<unitdate>1864</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): P. A. Wundermann</p> 
+				<p>For voice and piano.</p> 
+				<p>From a poem by S. W. Harding.</p> 
+				<p>Title page illustration: battle scene depicting the text of the
+				  song / lithographed by Deutz Bros.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">25</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">I will be true to thee</title> 
+				<title type="transcribed">I will be true to thee,</title> 
+				<unitdate>1862</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Horace Waters</p> 
+				<p>For voice and piano.</p> 
+				<p>Color title page illustration: red and blue filigree in
+				  geometric pattern forming a frame around the cover page text, which is the
+				  cover for a sheet music series entitled "Foster's melodies" / lithographed by
+				  Warren.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">26</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">Kissing in the dark</title> 
+				<title type="transcribed">Kissing in the dark : ballad,</title> 
+				<unitdate>1863</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): John J. Daly</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Cooper, George, 1840-1927</p> 
+				<p>Title page illustration: filigree illuminating title text /
+				  engraved by Quidor.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">27</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">Laura Lee</title> 
+				<title type="transcribed">Laura Lee : song,</title> 
+				<unitdate>1851</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Baltimore (Md.): F. D. Benteen</p> 
+				<p>For voice and piano.</p> 
+				<p>Title page illustration: filigree illuminating title text.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">28</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">Merry, merry month of May; arranged</title> 
+				<title type="transcribed">Merry, merry month of May : song and
+				  chorus written and composed for Clarke's School Visitor (Philadelphia),</title>
+				
+				<unitdate>1862</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For voice, chorus, and piano.</p> 
+				<p>The music, in the Key of B♭, is arranged as a vocal solo with
+				  piano accompaniment and as an unaccompanied mixed quartet. The air is Foster's
+				  "The White House Chair" arranged in this setting by Foster.</p> 
+				<p>Title page illustration: filigree illuminating title text.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">29</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">Oh! Lemuel! Go down to de cotton
+				  field</title> 
+				<title type="transcribed">Oh! Lemuel! Go down to de cotton field :
+				  Ethiopian song,</title> 
+				<unitdate>1850</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Baltimore (Md.): F. D. Benteen</p> 
+				<p>For voice and piano, with choral refrain.</p> 
+				<p>Title page notes that this piece was originally performed by the
+				  Christy Minstrels and the Campbell's Minstrels.</p> 
+				<p>Title page illustration: filigree illuminating title text /
+				  engraved by Webb.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">30</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">No one to love?</title> 
+				<title type="transcribed">Why, no one to love? Answer to No one to
+				  love,</title> 
+				<unitdate>1862</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): S. T. Gordon</p> 
+				<p>For voice and piano.</p> 
+				<p>In response to "No one to love", by M. H. Frank.</p> 
+				<p>Title page illustration: filigree illuminating title text /
+				  engraved by Webb.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">31</container> 
+			 <unittitle> 
+				<persname>Foster, Stephen Collins, 1826-1864</persname> 
+				<title type="uniform">Willie we have missed you</title> 
+				<title type="transcribed">Willie we have missed you,</title> 
+				<unitdate>1854</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Firth, Pond and Co.</p> 
+				<p>For voice and piano.</p> 
+				<p>At head of title: "Foster's melodies, no. 25".</p> 
+				<p>Title page illustration: a woman greeting a man at home with
+				  children's toys on the floor / lithographed by Sarony and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">32</container> 
+			 <unittitle> 
+				<persname>Fowler, J. A., 1819-1878</persname> 
+				<title type="uniform">Watchman's polka mazurka</title> 
+				<title type="transcribed">Watchman's polka mazurka,</title> 
+				<unitdate>1855</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): William Hall and Son</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Henry Long Esq.</p> 
+				<p>Title page illustration: a watchman looks over a young child
+				  sitting on a step on a snowy night / lithographed by Sarony and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">33</container> 
+			 <unittitle> 
+				<persname>Franklin, Malvin M.</persname> 
+				<title type="uniform">Miserable rag</title> 
+				<title type="transcribed">Miserable rag,</title> 
+				<unitdate>1915</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Waterson, Berlin and Snyder Co.</p> 
+				<p>For piano.</p> 
+				<p>Color title page illustration: three dark figures playing
+				  instruments in a tree in front of a green background / illustrated by
+				  Barbelle.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">34</container> 
+			 <unittitle> 
+				<persname>Fry, William Henry, 1813-1864</persname> 
+				<title type="uniform">Leonora. Affection waltz; arranged</title> 
+				<title type="transcribed">Affection waltz : composed and arranged
+				  for the piano forte,</title> 
+				<unitdate>1850</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Buffalo (N.Y.): J. Sage and Sons</p> 
+				<p>For piano.</p> 
+				<p>Title page illustration: filigree around the cover page text,
+				  which is the cover for a sheet music series entitled "J. Sage and Sons
+				  Collection of Popular and Standard Waltzes, Songs, and Quick Steps, Arranged
+				  for the Piano Forte" / lithographed by Warren.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">35</container> 
+			 <unittitle> 
+				<persname>Grantham, William, composer</persname> 
+				<title type="uniform">Who'd a thought of seeing you?</title> 
+				<title type="transcribed">Who'd a thought of seeing you? Comic song
+				  sung by Mr. Buckingham, Mr. Howell, [and] Mr. Herbert,</title> 
+				<unitdate>between 1834-1858</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): T. E. Purday</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Farmer, Frederick</p> 
+				<p>Title page illustration: two men at the counter of a pawn shop
+				  with attending clerk / lithographed by George Edward Madeley.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">36</container> 
+			 <unittitle> 
+				<persname>Grobe, Charles</persname> 
+				<title type="uniform">Battle of Port Royal</title> 
+				<title type="transcribed">Battle of Port Royal, or the Bombardment
+				  of Forts Walker and Beauregard,</title> 
+				<unitdate>1861</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For piano.</p> 
+				<p>Other title: Bombardment of Forts Walker and Beauregard</p> 
+				<p>Programmatic narrative of the Civil War Battle of Port Royal
+				  printed above music.</p> 
+				<p>Dedicated to Commodore S. F. DuPont and his brave
+				  associates.</p> 
+				<p>Title page illustration: ships in battle at Port Royal with
+				  small battle map in bottom left corner / lithographed by John Henry
+				  Bufford.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">37</container> 
+			 <unittitle> 
+				<persname>Handy, W. C. (William Christopher), 1873-1958</persname> 
+				<title type="uniform">Saint Louis Blues</title> 
+				<title type="transcribed">Saint Louis Blues : the international
+				  melody ; the most widely known ragtime composition,</title> 
+				<unitdate>1942</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Handy Brothers Music Co.</p> 
+				<p>For voice, ukulele in D, or piano.</p> 
+				<p>Ukulele tablature written above piano staves.</p> 
+				<p>Color title page illustration: a view of St. Louis with the sun
+				  in the background; a small portrait of composer W. C. Handy in bottom right
+				  corner.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">38</container> 
+			 <unittitle> 
+				<persname>Haywood, Harry</persname> 
+				<title type="uniform">Beautiful land of somewhere</title> 
+				<title type="transcribed">Beautiful land of somewhere,</title> 
+				<unitdate>1918</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Cleveland (Ohio): F. Heltman</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Kramer, Clyde N.</p> 
+				<p>Color title page illustration: a woman in a yellow dress looking
+				  out over water / illustrated by Frank R. Bill.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">39</container> 
+			 <unittitle> 
+				<persname>Helmsmüller, F. B.</persname> 
+				<title type="uniform">Parade march</title> 
+				<title type="transcribed">Parade march of the 22nd regiment N. Y.
+				  S. M. Union greys,</title> 
+				<unitdate>1862</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For piano.</p> 
+				<p>Inscribed to the Officers and Members of the 22d. Regt.</p> 
+				<p>Title page illustration: three members of the 22nd Regiment from
+				  the Civil War, one sitting, one standing and pointing, and one looking through
+				  a spyglass.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">40</container> 
+			 <unittitle> 
+				<persname>Herbert, Victor, 1859-1924</persname> 
+				<title type="uniform">Mlle. Modiste. If I were on the stage ;
+				  arranged</title> 
+				<title type="transcribed">Kiss me again,</title> 
+				<unitdate>1915</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): M. Witmark and Sons</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Blossom, Henry, 1866-1919</p> 
+				<p>Written on the theme of "If I were on the stage" from the comic
+				  opera Mlle. Modiste.</p> 
+				<p>Originally sung by Miss Fritzi Scheff.</p> 
+				<p>Title page illustration: filigree illuminating title text.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">41</container> 
+			 <unittitle> 
+				<persname>Herman, John L. (Composer)</persname> 
+				<title type="uniform">Hop-a-long one step and turkey trot</title> 
+				<title type="transcribed">Hop-a-long one step and turkey
+				  trot,</title> 
+				<unitdate>1913</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Jos. W. Stern and Co.</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to the Sororities of the Schools of St. Louis.</p> 
+				<p>Color title page illustration: woman in red dress and man in
+				  tuxedo dancing together in front of a red and blue checkered background.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">42</container> 
+			 <unittitle> 
+				<persname>Herz, Jacques, 1794-1880</persname> 
+				<title type="uniform">Cellarius valse</title> 
+				<title type="transcribed">Cellarius valse for the
+				  pianoforte,</title> 
+				<unitdate>between 1853-1861</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Cramer, Beale and Co.</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Mrs. Torre of Leamington.</p> 
+				<p>Color title page illustration: frame with filigree and geometric
+				  patterns around title text / illustrated by E. Bauer and printed by C.
+				  Graf.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">43</container> 
+			 <unittitle> 
+				<persname>Hess, Clifford</persname> 
+				<title type="uniform">Bric-a-brac</title> 
+				<title type="transcribed">Bric-a-brac : a novelty fox trot,</title>
+				
+				<unitdate>1915</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Waterson, Berlin and Snyder Co.</p> 
+				<p>For piano.</p> 
+				<p>Color title page illustration: anthropomorphized housewares
+				  walking amongst each other.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">44</container> 
+			 <unittitle> 
+				<persname>Himmel, Friedrich Heinrich, 1765-1814</persname> 
+				<title type="uniform">Gebet während der Schlacht. English</title> 
+				<title type="transcribed">Battle prayer,</title> 
+				<unitdate>circa 1845</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): E. H. Wade</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Besant, Walter, 1836-1901</p> 
+				<p>Words by Walter Maurice.</p> 
+				<p>Color title page illustration: a knight kneeling in prayer and
+				  looking upward / lithographed by W. Sharp.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">45</container> 
+			 <unittitle> 
+				<persname>Hobson, M. (Martin)</persname> 
+				<title type="uniform">Somebody</title> 
+				<title type="transcribed">Somebody : semi comic song,</title> 
+				<unitdate>1859</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Buffalo (N.Y.): Blodgett and Bradford</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Gildersleeve, C. H., Mrs.</p> 
+				<p>Addressed to Miss Ellen Hart, Buffalo.</p> 
+				<p>Title page illustration: filigree illuminating the title text
+				  along with a small woman drawn in the letter "S" of "Somebody".</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">46</container> 
+			 <unittitle> 
+				<persname>Hook, Mr. (James), 1746-1827</persname> 
+				<title type="uniform">Dear is my little native vale</title> 
+				<title type="transcribed">Dear is my little native vale,</title> 
+				<unitdate>circa 1790</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Preston and Son</p> 
+				<p>For voice and orchestra.</p> 
+				<p>Condensed score with flute, horn, and additional violin parts
+				  indicated on music.</p> 
+				<p>"Sung by Miss Milne at Vauxhall".</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">47</container> 
+			 <unittitle> 
+				<persname>Hook, Mr. (James), 1746-1827</persname> 
+				<title type="uniform">Sweet lillies of the valley</title> 
+				<title type="transcribed">Sweet lillies of the valley : a favorite
+				  song,</title> 
+				<unitdate>1793?</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Longman and Broderip</p> 
+				<p>For voice, two violins, and continuo (unfigured bass).</p> 
+				<p>Lyricist: Richardson, Mr., active 18th century</p> 
+				<p>Condensed score on three staves; with a version for the
+				  guitar.</p> 
+				<p>"Sung with universal applause at Vauxhall Gardens by Master
+				  Shepherd".</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">48</container> 
+			 <unittitle> 
+				<persname>Hunt, G. W. (George W.), approximately
+				  1839-1904</persname> 
+				<title type="uniform">That's where you make the mistake</title> 
+				<title type="transcribed">That's where you make the
+				  mistake,</title> 
+				<unitdate>1869</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Hopwood and Crew</p> 
+				<p>For voice and piano.</p> 
+				<p>Arranger: Hobson, M. (Martin)</p> 
+				<p>Other title: That's where you make a mistake</p> 
+				<p>Color title page illustration: portrait of George Leybourne,
+				  original singer of the piece / lithographed by Alfred Concanen.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">49</container> 
+			 <unittitle> 
+				<persname>Kaye, Buddy</persname> 
+				<title type="uniform">Penny a kiss, a penny a hug</title> 
+				<title type="transcribed">Penny a kiss - a penny a hug,</title> 
+				<unitdate>1950</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Shapiro, Bernstein and Co.</p> 
+				<p>For voice and piano (or ukelele).</p> 
+				<p>Ukulele tablature written above piano staves.</p> 
+				<p>Color title page illustration: a man and woman hugging while the
+				  woman places a penny in a jar, along with a portrait of Eddy Howard.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">50</container> 
+			 <unittitle> 
+				<persname>Kern, Jerome, 1885-1945</persname> 
+				<title type="uniform">Show boat. Ol' man river. Vocal score</title>
+				
+				<title type="transcribed">Ol' man river [from] Show boat : adapted
+				  from Edna Ferber's novel of the same name,</title> 
+				<unitdate>1927</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): T. B. Harms Company</p> 
+				<p>For voice and piano (or ukelele).</p> 
+				<p>Lyricist: Hammerstein, Oscar, II, 1895-1960</p> 
+				<p>Other title: Show boat</p> 
+				<p>Ukulele tablature written above piano staves.</p> 
+				<p>Title notes that this piece is an excerpt from a Florence
+				  Ziegfeld presentation.</p> 
+				<p>Color title page illustration: women and men in fancy dress
+				  boarding a boat / lithographed by Doubleday, Page, and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">51</container> 
+			 <unittitle> 
+				<persname>Ketèlbey, Albert W. (Albert William),
+				  1875-1959</persname> 
+				<title type="uniform">Tangled tunes</title> 
+				<title type="transcribed">Tangled tunes: a pot-pourri of 106
+				  favourite melodies humorously entangled,</title> 
+				<unitdate>1915, 1918</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (17 pages) and 1 part (9 pages)</extent>
+				</physdesc> 
+			 <note> 
+				<p>London (England): Ascherberg, Hopwood and Crew</p> 
+				<p>For piano or orchestra.</p> 
+				<p>Other title: Tangled tunes. Selection of 106 favourite
+				  melodies</p> 
+				<p>Part is for violin/conductor.</p> 
+				<p>Color title page illustration: a man in a red cape standing over
+				  a cauldron with smoke containing titles of some included song selections /
+				  lithographed by W. George.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>First page of 1st violin score notes "this selection is so
+				arranged that it can be played in two parts, with finish (adlib) at Page 5. The
+				Conductor should instruct the Orchestra before-hand to omit the six bars before
+				'Lass of Richmond Hill' (19 bars before letter G) if the whole Selection is to
+				be played without break. It is essential for the success of this selection that
+				the tempo should not be changed from tune to tune, but that each melody should
+				run into the next as nearly L'istesso tempo as possible - otherwise the musical
+				joke is lost. Columbia Records of this Selection, Conducted by A. W. Ketèlbey
+				may be obtained".</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">52</container> 
+			 <unittitle> 
+				<persname>Kinkel, Charles</persname> 
+				<title type="uniform">Strawberries and cream march</title> 
+				<title type="transcribed">Strawberries and cream : march,</title> 
+				<unitdate>1868</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): J. L. Peters</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Miss Ella Lutkins.</p> 
+				<p>Color title page illustration: a bowl of strawberries and cream
+				  on a patterned tablecloth / lithographed by Ehrgott, Forbriger and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">53</container> 
+			 <unittitle> 
+				<persname>Kleber, H. (Henry), 1816-1897</persname> 
+				<title type="uniform">Atlantic telegraph schottisch</title> 
+				<title type="transcribed">Atlantic telegraph schottisch,</title> 
+				<unitdate>1857</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Firth, Pond and Co.</p> 
+				<p>For piano.</p> 
+				<p>2nd edition.</p> 
+				<p>Title page illustration: the USS Niagara and SS Agamemnon in the
+				  water off Newfoundland completing the transatlantic cable, with onlookers on
+				  land / lithographed by Sarony, Major and Knapp.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">54</container> 
+			 <unittitle> 
+				<persname>Kleber, H. (Henry), 1816-1897</persname> 
+				<title type="uniform">Rainbow schottisch</title> 
+				<title type="transcribed">Rainbow schottisch,</title> 
+				<unitdate>1852</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Firth, Pond and Co.</p> 
+				<p>For piano.</p> 
+				<p>Color title page illustration: a grassy path on the water lined
+				  with trees with a rainbow in the background / lithographed by Sarony and
+				  Major.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">55</container> 
+			 <unittitle> 
+				<persname>Kleber, Henry, 1816-1897</persname> 
+				<title type="uniform">Rainbow schottisch</title> 
+				<title type="transcribed">Rainbow schottisch,</title> 
+				<unitdate>1864</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For piano.</p> 
+				<p>120th edition.</p> 
+				<p>Color title page illustration: a man and two women viewing a
+				  rainbow / lithographed by N.E. Lith. Steam.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Bound with: Jolly brothers galop / F. Budik (Newburgh, New York :
+				Demorest and Burr) -- Gertrude's dream : waltz / Beethoven (New York : Wm. A.
+				Pond and Co., plate no. 1762)</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">56</container> 
+			 <unittitle> 
+				<persname>Klickmann, F. Henri (Frank Henri), 1885-1966</persname> 
+				<title type="uniform">Hesitation waltz</title> 
+				<title type="transcribed">Hesitation waltz : the last waltz
+				  together,</title> 
+				<unitdate>1923</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Chicago (Ill.): Frank K. Root and Co.</p> 
+				<p>For piano.</p> 
+				<p>Other title: Valse Boston</p> 
+				<p>At head of title page: "Valse Boston".</p> 
+				<p>Color title page illustration: scene of a couple dancing in a
+				  ballroom, with a floral border.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">57</container> 
+			 <unittitle> 
+				<persname>Lampe, J. B. (Jens Bodewalt), 1869-1929</persname> 
+				<title type="uniform">Hero of the isthmus</title> 
+				<title type="transcribed">Hero of the isthmus : military march and
+				  two-step,</title> 
+				<unitdate>1912</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Jerome H. Remick and Co.</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Col. George W. Goethals, Chief Engineer of The
+				  Panama Canal.</p> 
+				<p>Color title page illustration: a photographic portrait of Col.
+				  George W. Goethals, flanked by two men in USA military uniforms /
+				  Clinedinst.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">58</container> 
+			 <unittitle> 
+				<persname>Lauder, Harry, Sir, 1870-1950</persname> 
+				<title type="uniform">She is my rosie</title> 
+				<title type="transcribed">She is my rosie,</title> 
+				<unitdate>1915</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): T. B. Harms and Francis, Day and Hunter</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Harper, J. D.</p> 
+				<p>Music includes written text for patter (spoken after 1st verse)
+				  and dialogue (spoken after 1st chorus).</p> 
+				<p>Notes that the piece was originally sung by Harry Lauder.</p> 
+				<p>Color title page illustration: photographic portrait of Harry
+				  Lauder in costume.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">59</container> 
+			 <unittitle> 
+				<persname>Leduc, A. (Alphonse), 1804-1868</persname> 
+				<title type="uniform">Jenny of the mill</title> 
+				<title type="transcribed">Jenny of the mill,</title> 
+				<unitdate>between 1845-1898</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Robert, Cocks and Co.</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Linley, George, 1798-1865</p> 
+				<p>Notes that the piece was originally sung by Madme. Lemmens
+				  Sherrington.</p> 
+				<p>Color title page illustration: a young woman in a red skirt
+				  sitting outside of a mill / S. Rosenthal</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">60</container> 
+			 <unittitle> 
+				<persname>Liszt, Franz, 1811-1886</persname> 
+				<title type="uniform">Liebestraum ; arranged</title> 
+				<title type="transcribed">Liebestraum = Dream of love,</title> 
+				<unitdate>1940</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Amsco Music Publishing Co.</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Whitehall, Michel</p> 
+				<p>Other title: Dream of love</p> 
+				<p>At head of title page: Amsco elite series</p> 
+				<p>Color title page illustration: a branch of flowers and leaves /
+				  illustrated by Barbelle.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">61</container> 
+			 <unittitle> 
+				<persname>Mack, Edward, 1826-1882</persname> 
+				<title type="uniform">General Grant's grand march</title> 
+				<title type="transcribed">General Grant's grand march,</title> 
+				<unitdate>1862</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Philadelphia (Pa.): Lee and Walker</p> 
+				<p>For piano.</p> 
+				<p>Title page illustration: a portrait of General Ulysses S. Grant
+				  in military uniform / lithographed by T. Sinclair's.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Bound with: Grand march, illustrative of Stonewall Jackson's way /
+				Chas. Young (New York: J. L. Peters, 1864) (portrait by Endicott and Co.
+				Lith.)</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">62</container> 
+			 <unittitle> 
+				<persname>Marschner, Heinrich, 1795-1861</persname> 
+				<title type="uniform">Juchheissa. English</title> 
+				<title type="transcribed">Hurrah = Juchheissa,</title> 
+				<unitdate>1883</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Buffalo (N.Y.): August Rottenbach</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Underwood, Laura M.</p> 
+				<p>Lyrics in German and English (by Laura M. Underwood).</p> 
+				<p>"The Morning and Evening Musicale : A choice collection of songs
+				  carefully edited and selected for use in the Concert-hall and Parlor."</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">63</container> 
+			 <unittitle> 
+				<persname>Masquelie, V.</persname> 
+				<title type="uniform">Amica polka</title> 
+				<title type="transcribed">Amica polka,</title> 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Paris (France): Bonoldi Frères</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Pauline Fauvel.</p> 
+				<p>Title page illustration: two women sitting together /
+				  lithographed by Bertauts.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">64</container> 
+			 <unittitle> 
+				<persname>Millard, H. (Harrison), 1830-1895</persname> 
+				<title type="uniform">Waiting</title> 
+				<title type="transcribed">Waiting : song for soprano or
+				  tenor,</title> 
+				<unitdate>1867</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Unidentified</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Flagg, E. H. (Ellen H.)</p> 
+				<p>"Compliments of HM"--possible inscription by the composer on
+				  title page. Back cover: "List of some of H. Millard's recent compositions".</p>
+				
+				<p>Color title page illustration: a woman standing amidst a field
+				  of hay lined with trees / engraved, lithographed and printed by C. O.
+				  Clayton.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">65</container> 
+			 <unittitle> 
+				<persname>Miller, Fred (Composer)</persname> 
+				<title type="uniform">I have no mother now</title> 
+				<title type="transcribed">I have no mother now : ballad,</title> 
+				<unitdate>1858</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Buffalo (N.Y.): Blodgett and Bradford</p> 
+				<p>For voice and piano.</p> 
+				<p>Notes that the piece was originally sung by Miss Hattie Brown.
+				  Dedicated to Miss N. M. Andrus of Buffalo.</p> 
+				<p>Title page illustration: title text illuminated by filigree.</p>
+				
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">66</container> 
+			 <unittitle> 
+				<persname>Miné, Jacques Claude Adolphe, 1796-1854</persname> 
+				<title type="uniform">Fouyous. Faucheux</title> 
+				<title type="transcribed">Fouyous. Trois quadrilles extrémement
+				  faciles.,</title> 
+				<unitdate>between 1845-1848</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): A. A. Van-Gelder</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Mademoiselle Emilie Wandell by the editor.</p> 
+				<p>Title page illustration: a group of young children playing
+				  marbles as a dog scratches his ear nearby / lithographed by Lewis and
+				  Brown.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>5 movements of the piece are labeled in the score as the
+				following: No. 1. Pantalon, No. 2. Été, No. 3. Poule, No. 4. Pastourelle, No.
+				5. Finale.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">67</container> 
+			 <unittitle> 
+				<persname>Openshaw, John</persname> 
+				<title type="uniform">Love sends a little gift of roses</title> 
+				<title type="transcribed">Love sends a little gift of roses: a
+				  ballad,</title> 
+				<unitdate>1919</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): T. B. Harms</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Cooke, Leslie</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">68</container> 
+			 <unittitle> 
+				<persname>Phelps, E. S.</persname> 
+				<title type="uniform">Dream kisses</title> 
+				<title type="transcribed">Dream kisses : caprice for
+				  pianoforte,</title> 
+				<unitdate>1899</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Schroeder and Gunther</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Mr. Robert L. Fernald of Brooklyn, New York.</p> 
+				<p>Color title page illustration: title outlined by an oval frame
+				  of pink roses with green leaves.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">69</container> 
+			 <unittitle> 
+				<persname>Polla, William C., 1876-1939</persname> 
+				<title type="uniform">If you would care for a lonely heart</title> 
+				<title type="transcribed">If you would care for a lonely heart = La
+				  tristess du coeur,</title> 
+				<unitdate>1919</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Hartford (Conn.): C. C. Church and Company</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Lamb, Arthur J., 1870-1928</p> 
+				<p>Other title: Tristess du coeur</p> 
+				<p>Color title page illustration: a portrait of a woman decorated
+				  with pink roses / lithographed by Knapp Co. Inc. N.Y. Additional illustrations
+				  on verso of title page and back cover.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">70</container> 
+			 <unittitle> 
+				<persname>Purdy, W. T. (William Thomas), 1883-1918</persname> 
+				<title type="uniform">On, Wisconsin!</title> 
+				<title type="transcribed">On, Wisconsin! : March song,</title> 
+				<unitdate>1910</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Milwaukee (Wis.): Joseph Flanner</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Beck, Carl, 1885-1963</p> 
+				<p>Lyrics for the voice part do not have their own staff - they are
+				  written above the piano staves.</p> 
+				<p>Excerpts from Love's loyalty waltzes by Emil E. Tanner; Silver
+				  buckle "Rag" two-step by Jos. Sikorra; and "Dope," a rag novellettee two-step
+				  by W.C. Powell on p. [4] and p. [3] and [4] of cover.</p> 
+				<p>Color title page illustration: a man playing football in a
+				  uniform with red accents / illustrated by Carl Beck.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">71</container> 
+			 <unittitle> 
+				<persname>Richmond, Benjamin</persname> 
+				<title type="uniform">Dance of the honey bees</title> 
+				<title type="transcribed">Dance of the honey bee's,</title> 
+				<unitdate>1902</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Jos. W. Stern and Co.</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to [his] brother Maurice Richmond.</p> 
+				<p>Title page illustration: honeybees dancing in lineups
+				  surrounding a king and queen honeybee.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">72</container> 
+			 <unittitle> 
+				<persname>Roberts, Lee S., 1884-1949</persname> 
+				<title type="uniform">Smiles</title> 
+				<title type="transcribed">Smiles,</title> 
+				<unitdate>1918</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Detroit (Mich.): Jerome H. Remick and Co.</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Callahan, J. Will, 1874-1946</p> 
+				<p>Color title page illustration: a portrait of a smiling woman
+				  with dark hair and red lips.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">73</container> 
+			 <unittitle> 
+				<persname>Romberg, Sigmund, 1887-1951</persname> 
+				<title type="uniform">Student prince. Serenade ; arranged</title> 
+				<title type="transcribed">Serenade solo [from] the student prince
+				  in Heidelberg,</title> 
+				<unitdate>1925</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Harms Inc.</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Donnelly, Dorothy, 1880-1928</p> 
+				<p>At head of title: The Messrs Shubert the Student prince of
+				  Heidelberg, a stupendous musical production. Other songs available from this
+				  production listed on title page.</p> 
+				<p>Color title page illustration: flowery filigree illuminating the
+				  title.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">74</container> 
+			 <unittitle> 
+				<persname>Romberg, Sigmund, 1887-1951</persname> 
+				<title type="uniform">Maytime. Will you remember. Vocal
+				  score</title> 
+				<title type="transcribed">Will you remember (sweetheart),</title> 
+				<unitdate>1917</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): G. Schirmer</p> 
+				<p>For two voices and piano.</p> 
+				<p>Lyricist: Young, Rida Johnson</p> 
+				<p>Duet parts are for female voice (Ottilie) and male voice
+				  (Dick).</p> 
+				<p>Color title page illustration: a woman carrying a large bouquet
+				  of green flowers and wearing a green skirt / Ray Van Buren.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">75</container> 
+			 <unittitle> 
+				<persname>Russell, Henry, 1812-1900</persname> 
+				<title type="uniform">Fine old English gentleman</title> 
+				<title type="transcribed">Fine old English gentleman : a popular
+				  English ballad,</title> 
+				<unitdate>circa 1835</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Atwill's Music Saloon</p> 
+				<p>For voice and piano.</p> 
+				<p>Other title: Old English gentleman</p> 
+				<p>Title page notes that the piece was originally sung by Mr. H.
+				  Russell. 2nd edition.</p> 
+				<p>Title page illustration: a man sitting with dogs at his feet
+				  while a banquet goes on in the background</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">76</container> 
+			 <unittitle> 
+				<persname>Russell, Henry, 1812-1900</persname> 
+				<title type="uniform">Rockaway</title> 
+				<title type="transcribed">Rockaway, or On old Long Island's
+				  sea-girt shore : a ballad,</title> 
+				<unitdate>1840</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Geo. P. Reed</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Sharpe, Henry John</p> 
+				<p>Other title: On old Long Island's sea-girt shore</p> 
+				<p>Dedicated to Mrs. T. C. Grattan.</p> 
+				<p>Title page illustration: a beach with a ship at sea visible in
+				  the distance / lithographed by Bufford and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">77</container> 
+			 <unittitle> 
+				<persname>Schaum, John W. (John Walter), 1905-1988</persname> 
+				<title type="uniform">True blue lady</title> 
+				<title type="transcribed">True blue lady (a tribute to
+				  mother),</title> 
+				<unitdate>1945</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Belwin Inc.</p> 
+				<p>For voice and piano.</p> 
+				<p>Title page notes that the piece is a "piano solo with
+				  words".</p> 
+				<p>Color title page illustration: image based on James Whistler's
+				  Arrangement in Grey and black no. 1 (Whistler's mother) of a woman in a blue
+				  gown sitting in a chair.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">78</container> 
+			 <unittitle> 
+				<persname>Searing, J. H.</persname> 
+				<title type="uniform">Parodi mazurka</title> 
+				<title type="transcribed">Parodi mazurka or the Searing waltz :
+				  composed and taught by J. H. Searing at his private academy 56 Bond
+				  Street,</title> 
+				<unitdate>1851</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): William Hall and Son</p> 
+				<p>For piano.</p> 
+				<p>Arranger: Brown, P.</p> 
+				<p>Other title: Searing waltz</p> 
+				<p>Dedicated to Signorina Teresa Parodi.</p> 
+				<p>Title page illustration: a couple dancing / lithographed by
+				  Sarony and Major.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">79</container> 
+			 <unittitle> 
+				<persname>Shaw, Oliver, 1779-1848</persname> 
+				<title type="uniform">Gov. Wright's grand march</title> 
+				<title type="transcribed">Gov. Wright's grand march,</title> 
+				<unitdate>1844</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For piano.</p> 
+				<p>Bugle and ophiclyde solos indicated on music.</p> 
+				<p>"Composed and respectfully dedicated to His Excellency, Governor
+				  of New York".</p> 
+				<p>Color title page illustration: New York sate arms, with a shield
+				  showing the rising sun over a landscape with a canal bridge; below is the state
+				  motto "Excelsior." The shield is flanked by two classical figures: Justice
+				  (left) with scales and sword, and Hope holding an anchor and a scythe
+				  symbolizing agriculture. Above is an eagle holding arrows, olive branches, and
+				  a streamer reading "E Pluribus Unum" / F. F. Oakley's Lith.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">80</container> 
+			 <unittitle> 
+				<persname>Shaw, Oliver, 1779-1848</persname> 
+				<title type="uniform">Kalamazoo polka brillante</title> 
+				<title type="transcribed">Kalamazoo : polka brillante,</title> 
+				<unitdate>1858</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For piano.</p> 
+				<p>Cordially inscribed to the Board of Trustees of the Michigan
+				  State Institution for the Insane.</p> 
+				<p>Color title page illustration: a scene of a building complex
+				  entitled "Michigan Asylum for the Insane" / lithographed by F. F. Oakley's.</p>
+				
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">81</container> 
+			 <unittitle> 
+				<persname>Sherwood, E. H. (Edgar Harmon), b. 1845</persname> 
+				<title type="uniform">Velocipede gallop</title> 
+				<title type="transcribed">New velocipede : song of the last
+				  sensation,</title> 
+				<unitdate>1869</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Rochester (N.Y.): J. P. Shaw</p> 
+				<p>For piano.</p> 
+				<p>Addressed to Mercer and Monod, of New York. Dedicated to [his]
+				  friend W. T. Winsley.</p> 
+				<p>Title page illustration: a man riding a velocipede while another
+				  man watches in the background / Kingdon and Boyd.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Title page notes that this is one of two pieces available in this
+				series, the other being Velocipede polka.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">82</container> 
+			 <unittitle> 
+				<persname>Slade, Charles</persname> 
+				<title type="uniform">Thou hast learned to love another</title> 
+				<title type="transcribed">Thou hast learned to love another :
+				  ballad arranged for the piano forte,</title> 
+				<unitdate>1849</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): Oliver Ditson and Co.</p> 
+				<p>For voice and piano.</p> 
+				<p>Title page illustration: a scene of the Oliver Ditson and Co.
+				  publisher building in Boston / lithographed by J. H. Bufford.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">83</container> 
+			 <unittitle> 
+				<persname>Széchényi, Imre, gróf, 1825-1898</persname> 
+				<title type="uniform">Schnee-polka</title> 
+				<title type="transcribed">Schnee-polka : für das
+				  piano-forte,</title> 
+				<unitdate>between 1854 and 1861</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): C. Breusing</p> 
+				<p>For piano.</p> 
+				<p>Pages are out of order, and page 3 is missing. At head of title
+				  page: Der frau Metzler-Lutterot gewidmet.</p> 
+				<p>Title page illustration: a cottage in the mountains with scenery
+				  covered in snow.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">84</container> 
+			 <unittitle> 
+				<persname>Wade, Herman Avery</persname> 
+				<title type="uniform">I've got a pain in my sawdust</title> 
+				<title type="transcribed">I've got a pain in my sawdust,</title> 
+				<unitdate>1909</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): Jos. W. Stern and Co.</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Warner, Henry Edward</p> 
+				<p>Other title: Plaint of the little bisque doll</p> 
+				<p>Title page notes that the piece was "sung with Tremendous
+				  Success by Kitty Cheatham under the title 'The Plaint of the little bisque
+				  doll'".</p> 
+				<p>Dedicated to Miss Kitty Cheatham. Title page erroneously
+				  attributes lyrics to Henry C. Warner, a misprint of the lyricist's middle
+				  initial.</p> 
+				<p>Color title page illustration: a girl in a white dress leaning
+				  over a table with drawings and a doll in the background.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">85</container> 
+			 <unittitle> 
+				<persname>Wallace, William Vincent, 1812-1865</persname> 
+				<title type="uniform">Lurline. Selections ; arranged</title> 
+				<title type="transcribed">Lurline quadrilles,</title> 
+				<unitdate>1860</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (10 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Cramer, Beale and Chappell</p> 
+				<p>For piano with cornet accompaniment.</p> 
+				<p>Arranger: Coote, Charles, 1809-1880</p> 
+				<p>Other title: Quadrille Lurline</p> 
+				<p>Excerpts from William Vincent Wallace's opera, Lurline, arranged
+				  as quadrilles.</p> 
+				<p>Color title page illustration: a scene from William Vincent
+				  Wallace's opera, Lurline: Rudolph and Lurline at a feast on the banks of the
+				  Rhine river / lithographed by T. Packer ; Stannard and Dixon.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>No. 1. Pantalon: Sail, sail, on the midnight gale ; Come away to
+				the chase -- No. 2. Été: Overture ; Sad as my soul ; Gentle troubadour -- No.
+				3. Poule: Take this cup of sparkling wine ; Flow on thou silver Rhine -- No. 4.
+				Trenise: Now with joy ; A father's love -- No. 5. Finale: Though the world with
+				transport bless thee ; Gentle troubadour ; Oh thou to whom this heart.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">86</container> 
+			 <unittitle> 
+				<persname>Wallerstein, A. (Anton), 1813-1892</persname> 
+				<title type="uniform">Brigand polka</title> 
+				<title type="transcribed">Brigand polka,</title> 
+				<unitdate>1846</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>New York (N.Y.): William Hall and Son</p> 
+				<p>For piano.</p> 
+				<p>Title page illustration: a man and a woman in costume dancing /
+				  lithographed by Bufford and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">87</container> 
+			 <unittitle> 
+				<persname>Warren, Charles</persname> 
+				<title type="uniform">Hail, glorious banner of our land</title> 
+				<title type="transcribed">Hail! Glorious banner of our
+				  land,</title> 
+				<unitdate>1861</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Cincinnati (Ohio): John Church, Jr.</p> 
+				<p>For voice and piano.</p> 
+				<p>Inscribed to Major General George B. McClellan by Mrs. Mary
+				  Farrell Moore, Cincinnati, Ohio, July 4th 1861.</p> 
+				<p>Color title page illustration: female figure of Columbia holding
+				  an American flag, standing on an axe and wood bundle and in front of a bald
+				  eagle, with ships in the background / lithographed by Gibson and Co.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">88</container> 
+			 <unittitle> 
+				<persname>Weber, Carl Maria von, 1786-1826</persname> 
+				<title type="uniform">Freischütz. Schaut, o schaut ;
+				  arranged</title> 
+				<title type="transcribed">Wilt thou tempt the wave with me [from]
+				  Weber's Der Freischutz,</title> 
+				<unitdate>1825</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+			 <note> 
+				<p>London (England): Mayhew and Co.</p> 
+				<p>For two voices and piano.</p> 
+				<p>Lyricist: Van Dyk, Harry Stoe, 1798-1828</p> 
+				<p>Arranger: Barnett, John, 1802-1890</p> 
+				<p>Free arrangement of excerpts from the opera's finale for vocal
+				  duet with piano accompaniment with words by H. S. Van Dyk.</p> 
+				<p>Title page illustration: a man and woman walking by water with
+				  ship in background.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">89</container> 
+			 <unittitle> 
+				<persname>White, C. A. (Charles Albert), 1832-1892</persname> 
+				<title type="uniform">Mother take me home again</title> 
+				<title type="transcribed">Three beautiful home songs : 2. mother,
+				  take me home again,</title> 
+				<unitdate>1870</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): White, Smith and Perry</p> 
+				<p>For voice and piano.</p> 
+				<p>Lyricist: Smith, Dexter, 1842?-1909</p> 
+				<p>Each page is bordered by a filigree frame. First page notes that
+				  the piece was originally sung by Rollin Howard.</p> 
+				<p>Title page illustration: a little girl kneeling in prayer amidst
+				  toys and shoes on the floor / lithographed by J. H. Bufford.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Title page notes that this is a three-piece series, and included
+				is the second piece in the series only.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">90</container> 
+			 <unittitle> 
+				<persname>Winner, Septimus, ǂd 1827-1902</persname> 
+				<title type="uniform">Col. Ellsworth's funeral march</title> 
+				<title type="transcribed">Col. Ellsworth : funeral march,</title> 
+				<unitdate>1861</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Philadelphia (Pa.): Lee and Walker</p> 
+				<p>For piano.</p> 
+				<p>Dedicated to Francis E. Brownell Esq. First page also
+				  erroneously attributes dedication to Francis C. Brownell, a misprint of the
+				  dedicatee's middle initial.</p> 
+				<p>Color title page illustration: portrait of Elmer Ephraim
+				  Ellsworth in uniform standing on an American flag.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Second title page includes text reading "I am perfectly content to
+				accept whatever my fortune may be, confident that he who noteth even the fall
+				of a sparrow, will have some purpose even in the fate of one like me.".</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">91</container> 
+			 <unittitle> 
+				<persname>Woodworth, Fannie S.</persname> 
+				<title type="uniform">Fiddle stick polka</title> 
+				<title type="transcribed">Fiddle stick polka,</title> 
+				<unitdate>1859</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Buffalo (N.Y.): J. Sage and Sons</p> 
+				<p>For piano.</p> 
+				<p>Inscribed to Miss Georgia L. Houghton of Buffalo N. Y.</p> 
+				<p>Title page illustration: filigree illuminating title text</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">92</container> 
+			 <unittitle> 
+				<persname>Zeuner, Charles, 1795-1857</persname> 
+				<title type="uniform">New England Guards quick step</title> 
+				<title type="transcribed">New England Guards quick step,</title> 
+				<unitdate>1835</unitdate> </unittitle> 
+			 <physdesc> <extent>1 score (2 pages)</extent> </physdesc> 
+			 <note> 
+				<p>Boston (Mass.): John Ashton and Co.</p> 
+				<p>For piano.</p> 
+				<p>First page notes that the piece was originally performed by the
+				  Boston Brass Band. Dedicated to Capt. Thos. Dwight, the officers and members of
+				  the corps</p> 
+				<p>Title page illustration: New England Guards perform a military
+				  exercise in front of the Massachusetts State House / lithographed by
+				  Pendleton's.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Popular music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Piano music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Songs with piano</subject> 
+		  <geogname source="lcsh" encodinganalog="651" role="subject">United
+			 States--History--Civil War, 1861-1865--Songs and music</geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">sheet music</genreform> 
+		  <genreform encodinganalog="655" source="aat">sheet music
+			 covers</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

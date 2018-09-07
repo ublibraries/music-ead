@@ -1,0 +1,3778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead>
+	<eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924"
+		relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1"
+		dateencoding="iso8601">
+		<eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier"
+			publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 2.2::Morton Feldman Collection of Audio Recordings)//EN"
+			>ubmu0002_2</eadid>
+
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Finding Aid for the Morton Feldman Collection of
+					Audio Recordings, <date encodinganalog="date" era="ce" calendar="gregorian"
+						type="inclusive" normal="1966/1993" certainty="approximate">circa 1966-1993
+					</date>
+				</titleproper>
+				<titleproper type="filing" altrender="nodisplay">Feldman (Morton) Collection of
+					Audio Recordings </titleproper>
+				<author encodinganalog="contributor">Finding aid prepared by John Bewley.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="publisher">State University of New York at Buffalo. Music
+					Library</publisher>
+				<address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address>
+				<p>© <date type="publication" encodinganalog="date">2013</date>. State University of
+					New York at Buffalo. All rights reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded in EAD by John Bewley, February 2013. </creation>
+			<langusage>Finding aid written in <language encodinganalog="language" langcode="eng"
+					>English.</language></langusage>
+			<descrules>Finding aid prepared using DACS ( <title render="italic">Describing Archives:
+					A Content Standard </title>).</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="marc21">
+		<did>
+			<head>Collection Overview</head>
+			<unittitle label="Title" encodinganalog="245$a"> Morton Feldman Collection of Audio
+				Recordings, <unitdate encodinganalog="245$f" normal="1966/1993" type="inclusive"
+					datechar="creation" certainty="approximate">circa 1966-1993
+				</unitdate></unittitle>
+			<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+				label="Collection Number">Mus. Arc. 2.2</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100" role="creator" source="lcnaf">Feldman, Morton,
+					1926-1987 </persname>
+			</origination>
+			<physdesc label="Extent">
+				<extent unit="box" encodinganalog="300$a">6 boxes</extent> ( <extent
+					unit="soundrecording" encodinganalog="300$a">87 audio recordings </extent>
+					(<extent unit="reel" encodinganalog="300$a">52 reel to reel tapes</extent>,
+					<extent unit="cassette" encodinganalog="300$a">35 cassettes</extent>) (<extent
+					unit="CD" encodinganalog="300$a">97 compact discs</extent>)) (<extent
+					unit="linear foot" encodinganalog="300$a">5 linear feet</extent>) </physdesc>
+
+
+			<materialspec label="Material specifications" encodinganalog="255">The contents were
+				digitally reformatted. The preservation files were created as WAV files at
+				96kHZ/24bit resolution. The service copies exist as CD audio files and as WAV files
+				at 44kHZ/24bit resolution. </materialspec>
+
+			<langmaterial label="Language of Material" encodinganalog="546">Some spoken word content
+				in <language encodinganalog="041" langcode="eng">English.</language>
+			</langmaterial>
+			<repository label="Repository" encodinganalog="852">
+				<corpname>State University of New York at Buffalo. <subarea>Music
+					Library</subarea></corpname>
+			</repository>
+			<abstract label="Abstract" encodinganalog="520$a">The Morton Feldman Collection of Audio
+				Recordings contains 52 reel to reel tapes and 35 cassette recordings, including
+				performances of 38 compositions by Morton Feldman. The collection also includes some
+				events, including the conversations between John Cage and Feldman recorded in 1966
+				as Radio Happenings I and II, the memorial service for Feldman at St. Mark's Church
+				in New York City, a tribute radio program broadcast by WNYC 7 November 1987 in New
+				York City, and an interview of Jan Williams by Sebastian Claren about Feldman. Other
+				composers represented by recordings include Harrison Birtwistle, Pierre Boulez, John
+				Cage, Barbara Monk Feldman, and Bunita Marcus.</abstract>
+		</did>
+		<descgrp type="admininfo">
+			<head>Administrative Information</head>
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation</head>
+				<p>[Specified item], Morton Feldman Collection of Audio Recordings, circa 1966-1993,
+					Music Library, The State University of New York at Buffalo.</p>
+			</prefercite>
+			<accessrestrict encodinganalog="506">
+				<head>Terms of Access</head>
+				<p>Materials can be examined by qualified researchers in the Music Library during
+					hours of operation during which Music Librarians are present. In order to insure
+					access, researchers are advised to contact the Music Library in advance of
+					visits. </p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<head>Copyright</head>
+				<p>Copyright for the materials in the collection does not reside with the Music
+					Library. Therefore, patrons wishing to publish any item, or part of an item from
+					this collection for any purpose, are responsible for securing requisite
+					permissions. </p>
+			</userestrict>
+			<acqinfo encodinganalog="541">
+				<head>Acquisition Information</head>
+				<p>Gift of Barbara Monk Feldman.</p>
+			</acqinfo>
+			<accruals encodinganalog="584">
+				<head>Accruals and Additions</head>
+				<p>No further accruals are expected to this collection. </p>
+			</accruals>
+
+
+			<altformavail encodinganalog="530">
+				<head>Alternate Forms</head>
+				<p>The original recordings were made on reel-to-reel tapes and cassettes. The
+					contents were digitized in 2013 onto a hard drive with service copies on CDs.
+					Preservation wav files that match the original reel faces are named with roots
+					that match the tape numbering. For example preservation files for the first tape
+					are named ubmu0002_2_01.wav. The CD audio tracks match the contents of the
+					original sources, one track per musical work. Wav files were created from the CD
+					audio and are named using the work numbers listed in the container list with the
+					addition of the suffix "sc" for service copy. Preservation and service audio
+					files are stored in the Institutional Repository.</p>
+			</altformavail>
+
+
+			<processinfo encodinganalog="583">
+				<head>Processing Information</head>
+				<p>Processed by John Bewley, 2013.</p>
+			</processinfo>
+		</descgrp>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Composer Morton Feldman (1926-1987) was best known for his association with the New
+				York School of experimentalist musicians, including composers John Cage, Christian
+				Wolff, and Earle Brown, and pianist David Tudor. In addition to composing
+				approximately 150 works, Feldman also wrote more than three dozen articles about
+				various aspects of music and art. </p>
+			<p>Feldman was a member of the music department faculty at the State University of New
+				York at Buffalo from 1972-1987. During those years he served as Slee Professor of
+				Music 1972-1973, Edgar Varèse Professor 1975-1987, and Director of the Center of the
+				Creative and Performing Arts, 1976-1980. He was also responsible for creating the
+				June in Buffalo festival of contemporary music in 1975. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Morton Feldman Collection of Audio Recordings contains 52 reel to reel tapes and
+				35 cassette recordings that were in Feldman's personal collection. They contain
+				performances of 38 compositions by Morton Feldman. Most of the recordings have never
+				been issued commercially. The collection also includes some events, including the
+				conversations between John Cage and Feldman recorded in 1966 as Radio Happenings I
+				and II, the memorial service for Feldman at St. Mark's Church in New York City, a
+				tribute radio program broadcast by WNYC 7 November 1987 in New York City, and an
+				interview of Jan Williams by Sebastian Claren about Feldman. Other composers
+				represented by recordings include Harrison Birtwistle, Pierre Boulez, John Cage,
+				Barbara Monk Feldman, and Bunita Marcus.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is arranged in two series: </p>
+			<list>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series1">I. </ref>Reel to reel
+					tapes</item>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series2">II. </ref>Cassette
+					tapes</item>
+			</list>
+		</arrangement>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unitid id="series1">I.</unitid>
+					<unittitle>Reel to reel tapes, <unitdate type="inclusive" normal="1966/1993"
+							certainty="approximate">circa 1966-1993 </unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Tape 1-52 </extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Arranged in three subseries: <list>
+							<item>
+								<ref target="series1a" actuate="onrequest" show="replace">I.A. Reel
+									to reel tapes of compositions by Morton Feldman</ref></item>
+							<item>
+								<ref target="series1b" show="replace" actuate="onrequest">I.B. Reel
+									to reel tapes of events with Morton Feldman</ref></item>
+							<item>
+								<ref target="series1c" show="replace" actuate="onrequest">I.C. Reel
+									to reel tapes of compositions by other composers</ref></item>
+						</list></p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series1a">I.A</unitid>
+						<unittitle>Reel to reel tapes of compositions by Morton Feldman, <unitdate
+								normal="1965/1981" type="inclusive">circa
+							1965-1981</unitdate></unittitle>
+						<physdesc>
+							<extent>Tape 1-40</extent>
+						</physdesc>
+					</did>
+					<arrangement>
+						<p>Arranged alphabetically by the title of the first Feldman work on the
+							tape.</p>
+					</arrangement>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">01</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings, Tape 1,
+									<unitdate type="inclusive">25 January 1974</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; tail
+								out</materialspec>
+							<note>
+								<p>Location of performance: Boston (Mass.)</p>
+								<p>Second of two tapes containing the entire concert. First tape is
+									Tape 50, containing works by Boulez, Stravinsky, and
+									Knussen.</p>
+								<p>Includes spoken word introductions to each work by announcer
+									William Pierce and conductor Tilson Thomas.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_01_01">Work number: ubmu0002_2_01_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Cello and orchestra</title>
+									</item>
+									<item>Performers: Jules Eskin, cello; Boston Symphony Orchestra;
+										Michael Tilson Thomas, conductor</item>
+									<item>Duration: 24:50</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_01_02">Work number: ubmu0002_2_01_02</head>
+									<item>
+										<persname>Reich, Steve</persname>
+									</item>
+									<item>
+										<title render="italic">Music for mallet instruments, voices,
+											and organ</title>
+									</item>
+									<item>Performers: Boston Symphony Orchestra; Michael Tilson
+										Thomas, organ and conductor; Joan Heller, Pamela Fraley,
+										Patricia Miller, voices</item>
+									<item>Duration: 21:15</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">02</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings, Tape 2,
+									<unitdate type="inclusive">2 August 1967</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; mono ; tail
+								out</materialspec>
+							<note>
+								<p>Location of performances: Unknown</p>
+								<p>Container marked "New version"</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_02_01">Work number: ubmu0002_2_02_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Chorus and instruments, no. 1</title>
+									</item>
+									<item>Performers: Unidentified</item>
+									<item>Duration: 5:17</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_02_02">Work number: ubmu0002_2_02_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Christian Wolff in Cambridge</title>
+									</item>
+									<item>Performers: Unidentified</item>
+									<item>Duration: 3:52</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">03</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings, Tape 3,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 10 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips</materialspec>
+							<note>
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Divided into two files.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_03_01">Work number: ubmu0002_2_03_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Crippled symmetry</title>
+									</item>
+									<item>Duration: 89:27</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">04</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 4,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo</materialspec>
+							<note>
+								<p>Location of performance: Unknown</p>
+								<p>Performers: Unidentified</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_04_01">Work number: ubmu0002_2_04_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Elemental procedures</title>
+									</item>
+
+									<item>Duration: 18:55</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">05</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 5,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; 2 track stereo ; tail
+								out</materialspec>
+							<note>
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_05_01">Work number: ubmu0002_2_05_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">False relationships and the extended
+											ending</title>
+									</item>
+									<item>Duration: 18:21</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">06</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings Tape 6,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips</materialspec>
+							<note>
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Marked and crossed out on original container: "Piano (1977) Roger
+									Woodward - piano, Baden Baden 1977"</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_06_01">Work number: ubmu0002_2_06_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Flute and orchestra</title>
+									</item>
+									<item>Duration: 34:44</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">07-11</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 7-11,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>5 10 inch reels</extent>
+							</physdesc>
+							<note>
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Divided into five files.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_07_01--ubmu0002_2_11_01">Work numbers:
+										ubmu0002_2_07_01--ubmu0002_2_11_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">For Christian Wolff</title>
+									</item>
+									<item>Duration: 3:23:18</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">12</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 12,
+									<unitdate type="inclusive">February 1974</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Performers: Office de Radiodiffusion-Télévision Française</p>
+								<p>Location of performance: Paris (France)?</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_12_01">Work number: ubmu0002_2_12_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">For Frank O'Hara</title>
+									</item>
+									<item>Duration: 18:00</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">01</container>
+							<container type="item">13</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings Tape 13,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Duration of entire tape: 44 minutes</p>
+								<p>Performers: Creative Associates?</p>
+								<p>Location of performance: Buffalo (New York)</p>
+								<p>All three pieces done on Evenings for New Music, but different
+									programs</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_13_01">Work number: ubmu0002_2_13_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">For Frank O'Hara</title>
+									</item>
+									<item>Duration: 21:36</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_13_02">Work number: ubmu0002_2_13_02</head>
+									<item>
+										<persname>Moran, Robert</persname>
+									</item>
+									<item>
+										<title render="italic">L'apres-midi du Dracoula</title>
+									</item>
+									<item>Duration: 12:36</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_13_03">Work number: ubmu0002_2_13_03</head>
+									<item>
+										<persname>Scherchen, Tona</persname>
+									</item>
+
+									<item>
+										<title render="italic">Tzoue</title>
+									</item>
+									<item>Duration: 10:07</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">14-15</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 14-15,
+									<unitdate type="inclusive">13 March 1982</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>2 7 inch reels</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Paul Zukofsky, violin; Aki Takahashi, piano</p>
+								<p>Location of performance: Symphony Space (New York, N.Y.)</p>
+
+								<p>Marked Part I and II</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_14_01--ubmu0002_2_15_01">Work numbers:
+										ubmu0002_2_14_01--ubmu0002_2_15_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">For John Cage</title>
+									</item>
+									<item>Duration: 1:04:15</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">16</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings Tape 16,
+									<unitdate type="inclusive">January 1975</unitdate>
+							</unittitle>
+
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo</materialspec>
+							<note>
+
+								<p>Performers: S.E.M. Ensemble</p>
+								<p>Location of performance: Unknown</p>
+								<p>"Studio Recording" ; Piece Commissioned by S.E.M. Ensemble</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_16_01">Work number: ubmu0002_2_16_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Instruments, no. 1</title>
+									</item>
+
+									<item>Duration: 22:08</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">17</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 17,
+									<unitdate type="inclusive">27 October 1981</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; 1/4 track
+								stereo</materialspec>
+							<note>
+
+								<p>Performers: Bowery Ensemble</p>
+								<p>Location of performance: Unknown</p>
+								<p>Recording has a pronounced audio hum. Musical work followed by 16
+									minutes of ambient sound.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_17_01">Work number: ubmu0002_2_17_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Instruments, no. 1 </title>
+									</item>
+
+									<item>Duration: 19:36</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">18</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 18,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo ; ½
+								track</materialspec>
+							<note>
+								<p>Contents from label on front which states "BBC". Handwritten
+									contents on back of container not Feldman works.</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_18_01">Work number: ubmu0002_2_18_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic"> Instruments, no. 1</title>
+									</item>
+									<item>Performers: Creative Associates</item>
+									<item>Duration: 26:25 </item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_18_02">Work number: ubmu0002_2_18_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Voice and Instruments 2</title>
+									</item>
+									<item>Performers: Matrix: Jane Manning, soprano; Francis
+										Christou, clarinet; Jennifer Ward Clarke, cello; Robin
+										McGee, double bass</item>
+									<item>Duration: 11:44</item>
+									<item>Recorded from BBC Music in our time broadcast 9 December
+										1975.</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">19</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 19,
+									<unitdate type="inclusive">4 June 1976</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; 2 track stereo ; tail
+								out</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_19_01">Work number: ubmu0002_2_19_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+
+									<item>
+										<title render="italic">Instruments, no. 2</title>
+									</item>
+									<item>Duration: 20:23</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">20</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 20,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 3/4 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Eberhard Blum, flute; Han de Vries, oboe; Jan
+									Williams, percussion</p>
+								<p>Location of performance: Cologne (Germany)?</p>
+								<p>"W.D.R." (Westdeutscher Rundfunk)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_20_01">Work number: ubmu0002_2_20_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Instruments, no. 3 </title>
+									</item>
+
+									<item>Duration: 22:29</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">21</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 21,
+									<unitdate type="inclusive">13 July, no year</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo ; ½
+								track</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_21_01">Work number: ubmu0002_2_21_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Madame Press died last week at
+											ninety</title>
+									</item>
+
+									<item>Duration: 4:55</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">22</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 22,
+									<unitdate type="inclusive">16 March 1972</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo ; tail
+								out</materialspec>
+							<note>
+
+								<p>Location of performance: London (England)</p>
+								<p>"BBC Invitation Concert Part II, Broadcasting House"</p>
+
+								<p>Each work preceded and followed by commentary.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_22_01">Work number: ubmu0002_2_22_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Madame Press died last week at
+											ninety</title>
+									</item>
+									<item>Performers: Fires of London (Michael Laird, trumpet, Roger Brenner, trombone, Avera Williams, flute, John Pigneguy, horn, Martin Fry, tuba, John Steer, Rodney Slatford, bass, Madeline Sampson, violoncello); Peter Maxwell Davies,
+										conductor</item>
+
+									<item>Duration: 7:28</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_22_02">Work number: ubmu0002_2_22_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Three clarinets, cello and
+											piano</title>
+									</item>
+									<item>Performers: Matrix: Francis Christou, Alan Hacker, Tony
+										Coe, clarinets; Jennifer Ward Clarke, cello; Paul Crossley,
+										piano</item>
+									<item>Duration: 12:42 </item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_22_03">Work number: ubmu0002_2_22_03</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">I met Heine on the Rue
+											Fürstenburg</title>
+									</item>
+									<item>Performers: Mary Thomas, voice; Fires of London; Peter
+										Maxwell Davies, conductor</item>
+									<item>Duration: 14:21 </item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_22_04">Work number: ubmu0002_2_22_04</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Piano three hands</title>
+									</item>
+
+									<item>Duration: 7:24</item>
+									<item>Performers: Morton Feldman and Harrison Birtwistle,
+										piano</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">23</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 23,
+									<unitdate type="inclusive">2 June 1976</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 3/4 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo</materialspec>
+							<note>
+
+								<p>Performers: Han de Vries, oboe; Hilversum Radio Philharmonic
+									Orchestra; Jean Fournet, conductor</p>
+								<p>Location of performance: Rotterdam, Netherlands</p>
+								<p>Followed by announcement of personnel</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_23_01">Work number: ubmu0002_2_23_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Oboe and orchestra</title>
+									</item>
+
+									<item>Duration: 17:39</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">24</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 24,
+									<unitdate type="inclusive">18 September 1976</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 3/4 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; NAB
+								stereo</materialspec>
+							<note>
+
+								<p>Performers: Scottish National Orchestra ; Elgar Howarth,
+									conductor</p>
+								<p>Location of performance: Bute Hall, Glasgow University</p>
+								<p>World premiere performance</p>
+								<p>Preceded and followed by announcer's introduction</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_24_01">Work number: ubmu0002_2_24_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Orchestra</title>
+									</item>
+
+									<item>Duration: 20:32</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">25</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 25,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; mono ;
+								fulltrack</materialspec>
+							<note>
+
+								<p>Performers: New York Philharmonic; Leonard Bernstein,
+									conductor</p>
+								<p>Location of performance: New York (N.Y.)</p>
+								<p>The back of the container also lists <title>Swallows of
+										Salangan</title> but it is not on the tape. </p>
+								<p>Probably the performance by New York Philharmonic originally on
+									Columbia Records, 1965.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_25_01">Work number: ubmu0002_2_25_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Out of "Last pieces"</title>
+									</item>
+
+									<item>Duration: 10:47</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">26</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 26,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">Tail out</materialspec>
+							<note>
+								<p>Location of performance: Unknown</p>
+								<p><title render="italic">Swallows of Salangan</title> crossed out
+									on back of container but it is on the tape. The performance is
+									preceded by an announcement in French.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_26_01">Work number: ubmu0002_2_26_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Out of "Last pieces"</title>
+									</item>
+									<item>Performers: Unidentified</item>
+
+									<item>Duration: 10:58</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_26_02">Work number: ubmu0002_2_26_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Swallows of Salangan</title>
+									</item>
+									<item>Performers: Unidentified but possibly Henri Pousseur,
+										conductor</item>
+									<item>Duration: 5:47</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">02</container>
+							<container type="item">27</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 27,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; mono</materialspec>
+							<note>
+
+								<p>Location of performance: Unknown</p>
+								<p>Box is marked "Do not open - has to be spliced"</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_27_01">Work number: ubmu0002_2_27_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Out of "Last pieces"</title>
+									</item>
+									<item>Performers: Unidentified</item>
+
+									<item>Duration: 10:58</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_27_02">Work number: ubmu0002_2_27_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Swallows of Salangan</title>
+									</item>
+									<item>Performers: Unidentified but possibly Henri Pousseur,
+										conductor</item>
+									<item>Duration: 4:57</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">28</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 28,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">tail out</materialspec>
+							<note>
+
+								<p>Performers: Roger Woodward, piano</p>
+								<p>Location of performance: Unknown</p>
+								<p>Marked "R.W. Piano"</p>
+								<p>Preceded by one minute of unidentified content.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_28_01">Work number: ubmu0002_2_28_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Piano (1977)</title>
+									</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">29</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 29,
+									<unitdate type="inclusive">10 November 1980</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; tail
+								out</materialspec>
+							<note>
+
+								<p>Performers: Aki Takahashi</p>
+								<p>Location of performance: Buffalo (New York)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_29_01">Work number: ubmu0002_2_29_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Piano (1977)</title>
+									</item>
+									<item>Duration: 31:28</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">30</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 30
+									<unitdate type="inclusive">28 August 1980</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">3 3/4 ips ; NAB stereo ; 2
+								tracks</materialspec>
+							<note>
+
+								<p>Location of performance: Edinburgh (Scotland)</p>
+								<p>First U.K. performances of both pieces.</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_30_spoken_01">Work number:
+										ubmu0002_2_30_spoken_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item> Conversation with composer Morton Feldman, pianist Roger
+										Woodward, and cellist Christopher Gough </item>
+									<item>Duration: 7:50</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_30_01">Work number: ubmu0002_2_30_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Piano and orchestra</title>
+									</item>
+									<item>Performers: Roger Woodward, piano; BBC Scottish Symphony
+										Orchestra; Henry Lewis, conductor</item>
+									<item>Duration: 22:52</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_30_02">Work number: ubmu0002_2_30_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">String quartet and orchestra</title>
+									</item>
+									<item>Performers: Edinburgh String Quartet; BBC Scottish
+										Symphony Orchestra; Henry Lewis, conductor</item>
+									<item>Duration: 30:14</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">31</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 31,
+									<unitdate type="inclusive">28 August 1980</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 10 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Location of performance: Edinburgh (Scotland)</p>
+								<p>Copy of reel 30. There was a previous unexplained note about this
+									being unplayable.</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_31_spoken_01">Work number:
+										ubmu0002_2_31_spoken_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item> Conversation with composer Morton Feldman, pianist Roger
+										Woodward, and cellist Christopher Gough </item>
+									<item>Duration: 7:51</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_31_01">Work number: ubmu0002_2_31_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Piano and orchestra</title>
+									</item>
+									<item>Performers: Roger Woodward, piano; BBC Scottish Symphony
+										Orchestra; Henry Lewis, conductor</item>
+									<item>Duration: 22:52</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_31_02">Work number: ubmu0002_2_31_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">String quartet and orchestra</title>
+									</item>
+									<item>Performers: Edinburgh String Quartet; BBC Scottish
+										Symphony Orchestra; Henry Lewis, conductor</item>
+									<item>Duration: 30:14</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">32</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 32,
+									<unitdate type="inclusive">4 February 1967</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Neely Bruce, Dennis Kam, Morton Feldman, pianos</p>
+								<p>Location of performance: University of Illinois Festival of
+									Contemporary Arts</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_32_01">Work number: ubmu0002_2_32_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Pieces, piano (3)</title>
+									</item>
+
+									<item>Duration: 14:34</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">33</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 33,
+									<unitdate type="inclusive">1976?</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo ; ½
+								track</materialspec>
+							<note>
+
+								<p>Performers: Gregg Smith Singers, Gregg Smith, conductor</p>
+								<p>Location of performance: Columbia Studios, New York or London</p>
+								<p>"from AL 34138" (issued on Odyssey)</p>
+								<p>Audible click from turntable needle on LP</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_33_01">Work number: ubmu0002_2_33_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Rothko Chapel</title>
+									</item>
+
+									<item>Duration: 26:21</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">34</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 34,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo ; ½
+								track</materialspec>
+							<note>
+
+								<p>Performers: Unidentified, probably Gregg Smith Singers</p>
+								<p>Location of performance: Unknown</p>
+								<p>"copy of job 86665" - a copy of Tape 33 with Gregg Smith
+									Singers</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_34_01">Work number: ubmu0002_2_34_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Rothko Chapel</title>
+									</item>
+
+									<item>Duration: 25:37</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">35</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 35,
+									<unitdate type="inclusive">2 June 1978</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; 2
+								tracks</materialspec>
+							<note>
+
+								<p>Performers: Paul Zukofsky, violin ; Ursula Oppens, piano</p>
+
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_35_01">Work number: ubmu0002_2_35_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Spring of Chosroes</title>
+									</item>
+
+									<item>Duration: 20:28</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">36</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 36,
+									<unitdate type="inclusive">3 June 1980</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 10 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Benjamin Hudson, Carol Zeavin, violins; Janet Lyman
+									Hill, viola; Andre Emelianoff, violoncello</p>
+								<p>Location of performance: Buffalo</p>
+								<p>Only date supplied on box. Must be June in Buffalo performance. </p>
+								<p>Defective audio</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_36_01">Work number: ubmu0002_2_36_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Quartets, strings, no. 1</title>
+									</item>
+
+									<item>Duration: 1:43:37</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">37</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 37,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Performers: Unidentified</p>
+								<p>Label on original container states Swallows of Salangan, Sveriges
+									Radio, Stockholm '65 (or '68), Kagel.</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_37_01">Work number: ubmu0002_2_37_01</head>
+
+									<item> Unidentified orchestral work not by Feldman </item>
+
+									<item>Duration: 5:58</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">03</container>
+							<container type="item">38</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 38,
+									<unitdate type="inclusive">1965?</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Mauricio Kagel, conductor?</p>
+								<p>Location of performance: Stockholm</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_38_01">Work number: ubmu0002_2_38_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Swallows of Salangan</title>
+									</item>
+
+									<item>Duration: 6:25</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">39</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 39,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_39_01">Work number: ubmu0002_2_39_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Turfan fragments</title>
+									</item>
+
+									<item>Duration: 29:54</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">40</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 40,
+									<unitdate type="inclusive">September 1971</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 3/4 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Location of performance: Venice Biennale (for Viola in my life
+									no. 4)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_40_01">Work number: ubmu0002_2_40_01</head>
+									<item> Unidentified work for piano, electronics, and percussion </item>
+									<item>Duration: 12:05</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_40_spoken_01">Work number:
+										ubmu0002_2_40_spoken_01</head>
+
+									<item>German language instruction, preceded by brief excerpt of
+										a German song </item>
+									<item>Duration: 30:21</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_40_02">Work number: ubmu0002_2_40_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Viola in my life IV</title>
+									</item>
+									<item>Karen Phillips, viola; Orchestre Philharmonique de
+										l'O.R.T.F.; Marcello Panni, conductor</item>
+									<item>Duration</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_40_03">Work number: ubmu0002_2_40_03</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Viola in my life IV</title>
+									</item>
+									<item>Karen Phillips, viola; Orchestre Philharmonique de
+										l'O.R.T.F.; Marcello Panni, conductor</item>
+									<item>Duration: 19:30 </item>
+									<item>Same performance as above</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_40_04">Work number: ubmu0002_2_40_04</head>
+									<item> Unidentified work for piano, electronics, and percussion </item>
+									<item>Duration: 19:58</item>
+									<item>Same performance as first work on tape</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series1b">I.B</unitid>
+						<unittitle>Reel to reel tapes of events with Morton Feldman, <unitdate
+								normal="1966" type="inclusive">1966</unitdate></unittitle>
+						<physdesc>
+							<extent>Tape 41-45</extent>
+						</physdesc>
+					</did>
+					<arrangement>
+						<p>Arranged in chronological order.</p>
+					</arrangement>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">41</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 41,
+									<unitdate type="inclusive">July 1966</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Performers: John Cage and Morton Feldman in conversation</p>
+								<p>Location of performance: WBAI, New York (New York)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_41_01">Work number: ubmu0002_2_41_01</head>
+									<item>
+										<title render="italic">Radio happening I part 1</title>
+									</item>
+									<item>Duration: 28:25</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">42</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 42,
+									<unitdate type="inclusive">July 1966</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Performers: John Cage and Morton Feldman in conversation</p>
+								<p>Location of performance: WBAI, New York (New York)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_42_01">Work number: ubmu0002_2_42_01</head>
+									<item>
+										<title render="italic">Radio happening I part 2</title>
+									</item>
+									<item>Duration: 16:30</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">43</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 43,
+									<unitdate type="inclusive">12 September 1966</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Performers: John Cage and Morton Feldman in conversation</p>
+								<p>Location of performance: WBAI, New York (New York)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_43_01">Work number: ubmu0002_2_43_01</head>
+									<item>
+										<title render="italic">Radio happening II part 1</title>
+									</item>
+									<item>Duration: 29:20</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">44</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 44,
+									<unitdate type="inclusive">12 September 1966</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Performers: John Cage and Morton Feldman in conversation</p>
+								<p>Location of performance: WBAI, New York (New York)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_44_01">Work number: ubmu0002_2_44_01</head>
+									<item>
+										<title render="italic">Radio happening II part 2</title>
+									</item>
+									<item>Duration: 25:26</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">45</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 45,
+									<unitdate type="inclusive">12 September 1966</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+								<p>Performers: John Cage and Morton Feldman in conversation</p>
+								<p>Location of performance: WBAI, New York (New York)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_45_01">Work number: ubmu0002_2_45_01</head>
+									<item>
+										<title render="italic">Radio happening II (complete)</title>
+									</item>
+									<item>Duration: 55:55</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+
+
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series1c">I.C</unitid>
+						<unittitle>Reel to reel tapes of compositions by other composers, <unitdate
+								normal="1974/1980" type="inclusive">
+							1974-1980</unitdate></unittitle>
+						<physdesc>
+							<extent>Tape 46-52</extent>
+						</physdesc>
+					</did>
+					<arrangement>
+						<p>Arranged alphabetically by composer's surname and then by the title of
+							the first composition on the tape.</p>
+					</arrangement>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">46</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 46,
+									<unitdate type="inclusive">9 October 1979?</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; NAB
+								stereo</materialspec>
+							<note>
+
+								<p>Performers: Ensemble Inter-Contemporaine ; John Alldis Choir ;
+									Peter Estvös, conductor</p>
+								<p>Location of performance: Royal Albert Hall</p>
+								<p>First U.K. performance.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_46_01">Work number: ubmu0002_2_46_01</head>
+									<item>
+										<persname>Birtwistle, Harrison</persname>
+									</item>
+									<item>
+										<title render="italic">agm</title>
+									</item>
+									<item>Duration: 33:54</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">47</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 47,
+									<unitdate type="inclusive">25-26 January 1974</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Location of performance: Boston (Mass.)</p>
+								<p>First of two tapes containing the entire concert which also
+									included Feldman's Cello and orchestra and Reich's Music for
+									mallet instruments (Tape 1)</p>
+								<p>Spoken introductions by Boston Symphony announcer William Pierce
+									and conductor Michael Tilson Thomas precede each work.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_47_01">Work number: ubmu0002_2_47_01</head>
+									<item>
+										<persname>Boulez, Pierre</persname>
+									</item>
+									<item>
+										<title render="italic">Eclat</title>
+									</item>
+									<item>Performers: Boston Symphony Orchestra ; Michael Tilson
+										Thomas, conductor</item>
+									<item>Duration: 11:20</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_47_02">Work number: ubmu0002_2_47_02</head>
+									<item>
+										<persname>Stravinsky, Igor</persname>
+									</item>
+									<item>
+										<title render="italic">Abraham and Isaac</title>
+									</item>
+									<item>Performers: David Evitts, baritone; Boston Symphony
+										Orchestra ; Michael Tilson Thomas, conductor</item>
+									<item>Duration: 12:25</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_47_03">Work number: ubmu0002_2_47_03</head>
+									<item>
+										<persname>Knussen, Oliver</persname>
+									</item>
+									<item>
+										<title render="italic">Symphony no. 3. Introduction and
+											masque</title>
+									</item>
+									<item>Performers: Boston Symphony Orchestra ; Michael Tilson
+										Thomas, conductor</item>
+									<item>Duration: 7:10</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">48</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 48,
+									<unitdate type="inclusive">19 December 1980</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_48_01">Work number: ubmu0002_2_48_01</head>
+									<item>
+										<persname>Cage, John</persname>
+									</item>
+									<item>
+										<title render="italic">Cheap imitation</title>
+									</item>
+
+									<item>Duration: 34:44</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">49</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 49,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; ½ track ; tail
+								out</materialspec>
+
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_49_01">Work number: ubmu0002_2_49_01</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Oboe, clarinet, bass clarinet,
+											trumpet, trombone</title>
+									</item>
+
+									<item>Duration: 18:10</item>
+									<item>Performed April 17, 1978</item>
+									<item>Location of performance: Buffalo (N.Y.)</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_49_02">Work number: ubmu0002_2_49_02</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Piano piece (1979)</title>
+									</item>
+
+									<item>Duration: 12:58</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">50</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 50,
+									<unitdate type="inclusive">11 April 1978</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 5 3/4 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips ; stereo</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_50_01">Work number: ubmu0002_2_50_01</head>
+									<item>
+										<persname>Xenakis, Iannis</persname>
+									</item>
+									<item>
+										<title render="italic">Dmaathen</title>
+									</item>
+
+									<item>Duration: 11:40</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">51</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 51,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 7 inch reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_51_01">Work number: ubmu0002_2_51_01</head>
+									<item>
+										<persname>Xenakis, Iannis</persname>
+									</item>
+									<item>
+										<title render="italic">Gmeeoorh</title>
+									</item>
+
+									<item>Duration: 29:19</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">04</container>
+							<container type="item">52</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 52,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 11 cm reel</extent>
+							</physdesc>
+							<materialspec label="Technical details">7 ½ ips</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_52_01">Work number: ubmu0002_2_52_01</head>
+									<item>
+										<persname>Xenakis, Iannis</persname>
+									</item>
+									<item>
+										<title render="italic">Nuits</title>
+									</item>
+
+									<item>Duration: 9:37</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid id="series2">II.</unitid>
+					<unittitle>Cassette tapes, <unitdate type="inclusive" normal="1966/1993"
+							certainty="approximate">circa 1966-1993 </unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Tape 53-87</extent>
+					</physdesc>
+					<note>
+						<p>All cassettes stored in one flat container.</p>
+					</note>
+				</did>
+				<arrangement>
+					<p>Arranged in three subseries: <list>
+							<item>
+								<ref target="series2a" actuate="onrequest" show="replace">I.A.
+									Cassette tapes of compositions by Morton Feldman</ref></item>
+							<item>
+								<ref target="series2b" show="replace" actuate="onrequest">I.B.
+									Cassette tapes of events concerning or with Morton
+								Feldman</ref></item>
+							<item>
+								<ref target="series2c" show="replace" actuate="onrequest">I.C.
+									Cassette tapes of compositions by other composers</ref></item>
+						</list></p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series2a">II.A</unitid>
+						<unittitle>Cassette tapes of compositions by Morton Feldman, <unitdate
+								normal="1967/1987" type="inclusive">1967-1987</unitdate></unittitle>
+						<physdesc>
+							<extent>Tape 53-71</extent>
+						</physdesc>
+					</did>
+					<arrangement>
+						<p>Arranged alphabetically by the title of the first Feldman work on the
+							tape.</p>
+					</arrangement>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">53</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 53,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">BASF 60 CR-E-II</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Probably same performance as Tape 54.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_53_01">Work number: ubmu0002_2_53_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Coptic light</title>
+									</item>
+
+									<item>Duration: 30:58</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">54</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 54,
+									<unitdate type="inclusive">20 June 1987</unitdate>
+							</unittitle>
+
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII 60</materialspec>
+							<note>
+
+								<p>Performers: Nederlands Philharmonisch Orkest; Koor Nieuwe Muziek;
+									Huub Kerstens, conductor</p>
+								<p>Location of performance: Middelburg (Netherlands)</p>
+								<p>Performers and date from program in Feldman papers</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_54_01">Work number: ubmu0002_2_54_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Coptic light</title>
+									</item>
+
+									<item>Duration: 22:17</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">55</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 55,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TKD SA-60</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Probably same performance as Tape 53 and 54 but tape begins with
+									applause and there is more space before the work begins.</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_55_01">Work number: ubmu0002_2_55_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Coptic light</title>
+									</item>
+
+									<item>Duration: 31:37</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">56</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 56,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TKD D60</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Divided into two files</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_56_01">Work number: ubmu0002_2_56_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Crippled symmetry</title>
+									</item>
+
+									<item>Duration: 90:18</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">57</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 57,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell UR90</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Feldman work on Side B. Side A is labeled Schoenberg: Moses and
+									Aron</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_57_01">Work number: ubmu0002_2_57_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Elemental procedures</title>
+									</item>
+
+									<item>Duration: 19:00</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_57_02">Work number: ubmu0002_2_57_02</head>
+									<item>
+										<persname>Schoenberg, Arnold</persname>
+									</item>
+									<item>
+										<title render="italic">Moses und Aron (incomplete)</title>
+									</item>
+
+									<item>Duration: 47:14</item>
+
+								</list>
+							</p>
+
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">58</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 58,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII 90</materialspec>
+							<note>
+
+								<p>Performers: Erik Skjoldan, piano</p>
+								<p>Location of performance: Unknown</p>
+								<p>Issued by Universal Edition</p>
+								<p>Divided into two files</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_58_01">Work number: ubmu0002_2_58_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">For Bunita Marcus</title>
+									</item>
+
+									<item>Duration: 82:47</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">59</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 59,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK SA90</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_59_01">Work number: ubmu0002_2_59_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">For Samuel Beckett</title>
+									</item>
+
+									<item>Duration: 57:29</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">60</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 60,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII-S 90</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_60_01">Work number: ubmu0002_2_60_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">For Stefan Wolpe</title>
+									</item>
+
+									<item>Duration: 36:00</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">61</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 61,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell UR90</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+								<p>Marked "good performance (unknown)"</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_61_01">Work number: ubmu0002_2_61_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Madame Press died last week at
+											ninety</title>
+									</item>
+
+									<item>Duration: 4:19</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_61_02">Work number: ubmu0002_2_61_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">False relationships and the extended
+											ending (rehearsal)</title>
+									</item>
+									<item>Feldman can be heard speaking, asking to repeat a section
+										at 10:47.</item>
+
+									<item>Duration: 13:00</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">62</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 62,
+									<unitdate type="inclusive">18 September 1976</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">No marking</materialspec>
+
+							<note>
+
+								<p>Performers: Scottish National Orchestra; Elgar Howarth,
+									conductor</p>
+								<p>Location of performance: Glasgow</p>
+								<p>Label on spine: David W. Maves Concerto for 2 pianos &amp; Orch.
+									Appollinaire song</p>
+								<p>World premiere performance; duplicate of Reel to reel tape 24</p>
+								<p>Same performance recorded two times</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_62_01">Work number: ubmu0002_2_62_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Orchestra</title>
+									</item>
+
+									<item>Duration: 18:18</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_62_02">Work number: ubmu0002_2_62_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Orchestra</title>
+									</item>
+
+
+									<item>Duration: 18:21</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">63</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 63,
+									<unitdate type="inclusive">20 November 1986</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK SA90; Dolby B</materialspec>
+							<note>
+
+								<p>Location of performance: Unknown</p>
+								<p>Label on spine: Salon concert, Clementi's</p>
+								<p>Feldman work on Side B. </p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_63_01">Work number: ubmu0002_2_63_01</head>
+									<item>
+										<persname>Cage, John</persname>
+									</item>
+									<item>
+										<title render="italic">Music for six</title>
+									</item>
+									<item>Duration: 30:40</item>
+									<item>Performers: Unidentified</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_63_02">Work number: ubmu0002_2_63_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Palais de Mari</title>
+									</item>
+									<item>Performer: Bunita Marcus, piano</item>
+									<item>Duration: 26:21</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_63_03">Work number: ubmu0002_2_63_03</head>
+									<item>
+										<persname>Wolff, Christian</persname>
+									</item>
+									<item>
+										<title render="italic">Bowery preludes</title>
+									</item>
+									<item>Duration: 15:34</item>
+									<item>Performers: Unidentified</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">64</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 64,
+									<unitdate type="inclusive">22 June 1987</unitdate>
+							</unittitle>
+
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK SA90; Dolby B</materialspec>
+							<note>
+
+								<p>Performers: Bunita Marcus, piano</p>
+								<p>Location of performance: New York (N.Y.)</p>
+								<p>Side A: 1st version: "Strong -- Mellow"; Side B: Version #2:
+									"Volatile"</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_64_01">Work number: ubmu0002_2_64_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Palais de Mari</title>
+									</item>
+									<item>Duration: 26:22</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_64_02">Work number: ubmu0002_2_64_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Palais de Mari</title>
+									</item>
+									<item>Duration: 26:17</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">65</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 65,
+									<unitdate type="inclusive">28 August 1980</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell UD90</materialspec>
+							<note>
+
+
+								<p>Location of performance: London (England)</p>
+								<p>Date from Reel Tape 30 - this is likely a duplicate but not the
+									Schoenberg</p>
+								<p>Feldman work on Side B. </p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_65_01">Work number: ubmu0002_2_65_01</head>
+									<item>
+										<persname>Schoenberg, Arnold</persname>
+									</item>
+									<item>
+										<title render="italic">Piano concerto</title>
+									</item>
+									<item>Performers: Roger Woodward, piano; BBC Scottish Symphony
+										Orchestra; Lawrence Foster, conductor</item>
+									<item>Duration: 20:51</item>
+									<item>Recording date: 4 August 1979</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_65_02">Work number: ubmu0002_2_65_02</head>
+									<item>
+										<persname>Liszt, Franz</persname>
+									</item>
+									<item>
+										<title render="italic">Totentanz</title>
+									</item>
+
+									<item>Performers: Roger Woodward, piano; BBC Scottish Symphony
+										Orchestra; Lawrence Foster, conductor</item>
+									<item>Duration: 17:33</item>
+									<item>Recording date: 4 August 1979</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_65_03">Work number: ubmu0002_2_65_03</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Piano and orchestra</title>
+									</item>
+									<item>Performers: Roger Woodward, piano; BBC Scottish Symphony
+										Orchestra; Henry Lewis, conductor</item>
+									<item>Duration: 21:57</item>
+									<item>Recording date: 28 August 1980</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_65_04">Work number: ubmu0002_2_65_04</head>
+
+									<item> Unidentified work for orchestra </item>
+									<item>Performers: Unidentified</item>
+									<item>Duration: 14:27</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">66</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 66,
+									<unitdate type="inclusive">2 November 1985</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK SF90</materialspec>
+							<note>
+
+								<p>Performers: Aki Takahashi, piano; Kronos Quartet</p>
+								<p>Location of performance: Bing Theatre, Los Angeles (Calif.)</p>
+								<p>Marked: "Tape defective - radio stations overlap"</p>
+								<p>Divided into two files</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_66_01">Work number: ubmu0002_2_66_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Piano and string quartet</title>
+									</item>
+
+									<item>Duration: 77:23</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">67</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 67,
+									<unitdate type="inclusive">4 February 1967</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII90</materialspec>
+							<note>
+
+								<p>Two pieces for 3 pianos is duplicate of performance on Reel Tape
+									32</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_67_01">Work number: ubmu0002_2_67_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Two pieces for three pianos</title>
+									</item>
+
+									<item>Performers: Neely Bruce, Dennis Kam, Morton Feldman,
+										pianos</item>
+									<item>Recording date: 4 February 1967</item>
+									<item>Duration: 14:42</item>
+									<item>Location of performance: University of Illinois Festival
+										of Contemporary Arts</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_67_02">Work number: ubmu0002_2_67_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Turfan fragments</title>
+									</item>
+									<item>Performers: Swiss Italian Radio (Radiotelevisione svizzera
+										di lingua italiana); Marc Andreae, conductor</item>
+									<item>Recording date: March 1981</item>
+									<item>Duration: 29:34</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">68</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 68,
+									<unitdate type="inclusive">17 May 1986?</unitdate>
+							</unittitle>
+
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Sony UCX60</materialspec>
+
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_68_01">Work number: ubmu0002_2_68_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Rothko Chapel</title>
+									</item>
+
+									<item>Duration: 31:05</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">69</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 69,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK AD-X90</materialspec>
+
+							<note>
+
+								<p>Performers: Simon Rowland-Jones, viola; John Scott, celeste;
+									Terence Emery, Charles Fulbrook, percussion; Sarah Leonard,
+									soprano; BBC Singers; Simon Joly, conductor</p>
+								<p>Location of performance: St. Alban's Church (Holborn, London)</p>
+								<p>Issued by Universal Edition</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_69_01">Work number: ubmu0002_2_69_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Rothko Chapel</title>
+									</item>
+
+									<item>Duration: 25:13</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">70</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 70,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII90</materialspec>
+							<note>
+
+								<p>Cello and orchestra performance is duplicate of Reel Tape 1;
+									Kagel performance is duplicate of Reel Tape 37 and 38</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_70_01">Work number: ubmu0002_2_70_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Swallows of Salangan</title>
+									</item>
+									<item>Performers: possibly Henri Pousseur, conductor</item>
+									<item>Preceded by French announcer</item>
+
+									<item>Duration: 6:05</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_70_02">Work number: ubmu0002_2_70_02</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Cello and orchestra</title>
+									</item>
+									<item>Performers: Jules Eskin, cello; Boston Symphony Orchestra,
+										Michael Tilson Thomas, conductor</item>
+									<item>Preceded by introduction by Michael Tilson Thomas
+										(2:11)</item>
+									<item>Recording date: 25 January 1974</item>
+									<item>Duration: 25:42</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_70_03">Work number: ubmu0002_2_70_03</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Swallows of Salangan</title>
+									</item>
+									<item>Performers: Mauricio Kagel, conductor</item>
+
+									<item>Duration: 5:23</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_70_04">Work number: ubmu0002_2_70_04</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Swallows of Salangan</title>
+									</item>
+									<item>Performers: possibly Mauricio Kagel, conductor</item>
+
+									<item>Duration: 6:12</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">71</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 71,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK SA-C90 ; Dolby
+								C</materialspec>
+							<note>
+								<p>Performers: Aki Takahashi, piano</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_71_01">Work number: ubmu0002_2_71_01</head>
+									<item>
+										<persname>Feldman, Morton</persname>
+									</item>
+									<item>
+										<title render="italic">Triadic memories</title>
+									</item>
+
+									<item>Duration: 1:01:03</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series2b">II.B</unitid>
+						<unittitle>Cassette tapes of events concerning or with Morton Feldman,
+								<unitdate normal="1966/1993" type="inclusive"
+							>1966-1993</unitdate></unittitle>
+						<physdesc>
+							<extent>Tape 72-78</extent>
+						</physdesc>
+					</did>
+					<arrangement>
+						<p>Arranged in chronological order.</p>
+					</arrangement>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">72</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 72,
+									<unitdate type="inclusive">July 1966</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK SA-X60</materialspec>
+
+							<note>
+
+								<p>Performers: John Cage and Morton Feldman in conversation</p>
+
+								<p>Location of performance: New York (N.Y.)</p>
+								<p>Duplicate of Reel Tape 41-42</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_72_01">Work number: ubmu0002_2_72_01</head>
+
+									<item>
+										<title render="italic">Radio happening I</title>
+									</item>
+
+									<item>Duration: 45:17</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">73</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 73,
+									<unitdate type="inclusive">12 September 1966</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK SA-X60</materialspec>
+
+							<note>
+
+								<p>Performers: John Cage and Morton Feldman in conversation</p>
+
+								<p>Location of performance: New York (N.Y.)</p>
+								<p>Duplicate of Reel Tape 43-44</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_73_01">Work number: ubmu0002_2_73_01</head>
+
+									<item>
+										<title render="italic">Radio happening II</title>
+									</item>
+
+									<item>Duration: 55:14</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">74</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 74,
+									<unitdate type="inclusive">4 September 1987</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<note>
+
+								<p>Performers: Peter Whorf, radio host </p>
+								<p>Location of performance: New York (N.Y.)</p>
+								<p>Issued by Universal Edition</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_74_01">Work number: ubmu0002_2_74_01</head>
+
+									<item> WNYC-FM radio show "Morning edition" piece on the death
+										of Morton Feldman, including interview segments with John
+										Cage, Bunita Marcus, and Christian Wolff </item>
+
+									<item>Duration: 5:08</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">75</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings Tape 75,
+									<unitdate type="inclusive">9 September 1987</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII90</materialspec>
+							<note>
+
+								<p>Performers: Speakers include Bunita Marcus, Howie Kanowitz, Nils
+									Vigeland, David Shapiro, Christian Wolff, Brian O'Daugherty,
+									Steve Sloman, Dore Ashton</p>
+								<p>Location of performance: St. Marks Cathedral, New York (N.Y.)</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_75_01">Work number: ubmu0002_2_75_01</head>
+									<item> Memorial service for Morton Feldman at St. Mark's in New
+										York City </item>
+									<item>Duration: 1:09:43</item>
+									<item>Divided into two files</item>
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_75_02">Work number: ubmu0002_2_75_02</head>
+
+									<item> WNYC-FM radio show "Morning edition", hosted by Peter
+										Whorf, piece on the death of Morton Feldman, including
+										interview segments with John Cage, Bunita Marcus, and
+										Christian Wolff </item>
+
+									<item>Duration: 5:16</item>
+									<item>Duplicate of Tape 74</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">76-77</container>
+							<unittitle> Morton Feldman Collection of Audio Recordings Tape 76-77,
+									<unitdate type="inclusive">7 November 1987</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>2 cassettes</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII90</materialspec>
+							<note>
+
+								<p>Location of performance: New York (N.Y.)</p>
+							</note>
+						</did>
+
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_76_01--ubmu0002_2_77_01">Work number:
+										ubmu0002_2_76_01--ubmu0002_2_77_01</head>
+									<item>
+										<persname>Dreier, Ruth</persname> and <persname>Whorf,
+											Peter</persname>
+									</item>
+									<item>WNYC radio show tribute to Morton Feldman, part 1-2 </item>
+
+									<item>Duration: 2:57:35</item>
+									<item>Includes performance of Feldman's Oboe and orchestra,
+										Palais de Marais (performed by Bunita Marcus), comments by
+										William Colleran, recordings of Artur Rubinstein performing
+										Chopin mazurkas, and a recording of the second movement of a
+										Sibelius symphony.</item>
+									<item>Divided into four files</item>
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">78</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 78,
+									<unitdate type="inclusive">16 June 1993</unitdate>
+							</unittitle>
+
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII90</materialspec>
+							<note>
+								<p>Location of performance: Buffalo (N.Y.)</p>
+								<p>"The interview took place on Wednesday 16 June 1993 at 4 P.M. in
+									the Buffalo, New York home of Jan Williams (only the first 45
+									minutes were recorded on tape). Among other things, Williams
+									indicates when Feldman began to collect rugs."</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_77_01">Work number: ubmu0002_2_77_01</head>
+									<item>Interview of Jan Williams by Sebastian Claren on subject
+										of Morton Feldman </item>
+									<item>Duration: 46:41</item>
+								</list>
+							</p>
+
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series2c">II.C</unitid>
+						<unittitle>Cassette tapes of compositions by other composers, <unitdate
+								normal="1974/1986" type="inclusive" certainty="approximate">circa
+								1974-1986</unitdate></unittitle>
+						<physdesc>
+							<extent>Tape 79-87</extent>
+						</physdesc>
+					</did>
+					<arrangement>
+						<p>Arranged alphabetically by composer's surname and then by the title of
+							the first composition on the tape or a supplied collective title.</p>
+					</arrangement>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">79</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 79,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell XLII90</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_79_01">Work number: ubmu0002_2_79_01</head>
+									<item>
+										<persname>Alrich, Alexis</persname>
+									</item>
+									<item>
+										<title render="italic">Variations for two pianos, from
+											Oakland variations</title>
+									</item>
+
+									<item>Duration: 5:34</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_79_02">Work number: ubmu0002_2_79_02</head>
+									<item>
+										<persname>Alrich, Alexis</persname>
+									</item>
+									<item>
+										<title render="italic">Prelude and jig for mandolin and
+											guitar</title>
+									</item>
+
+									<item>Duration: 9:19</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_79_03">Work number: ubmu0002_2_79_03</head>
+									<item>
+										<persname>Alrich, Alexis</persname>
+									</item>
+									<item>
+										<title render="italic">Set for piano</title>
+									</item>
+
+									<item>Duration: 17:23</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_79_04">Work number: ubmu0002_2_79_04</head>
+									<item>
+										<persname>Alrich, Alexis</persname>
+									</item>
+									<item>
+										<title render="italic">"Water" from the Four
+											elements</title>
+									</item>
+
+									<item>Duration: 7:26</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_79_05">Work number: ubmu0002_2_79_05</head>
+									<item>
+										<persname>Alrich, Alexis</persname>
+									</item>
+									<item>
+										<title render="italic">Lento from Trio for violin, cello,
+											and piano</title>
+									</item>
+
+									<item>Duration: 3:20</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">80</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 80,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Realistic Supertape 60 ; Dolby
+								B</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_80_01">Work number: ubmu0002_2_80_01</head>
+									<item>
+										<persname>Feldman, Barbara Monk</persname>
+									</item>
+									<item>
+										<title render="italic">Variations for six string
+											instruments</title>
+									</item>
+
+									<item>Duration: 24:57</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_80_02">Work number: ubmu0002_2_80_02</head>
+									<item>
+										<persname>Feldman, Barbara Monk</persname>
+									</item>
+									<item>
+										<title render="italic">Trio for violin, cello, and
+											piano</title>
+									</item>
+
+									<item>Duration: 13:57</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">81</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 81,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Memorex MRXI 60</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_81_01">Work number: ubmu0002_2_81_01</head>
+									<item>
+										<persname>Nam, Inhwa</persname>
+									</item>
+									<item>
+										<title render="italic">Music for violin and piano</title>
+									</item>
+
+									<item>Duration: 10:25</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">82</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 82,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Dolby B</materialspec>
+							<note>
+
+								<p>Performers: Unidentified</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_82_01">Work number: ubmu0002_2_82_01</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Adam and Eve</title>
+									</item>
+
+									<item>Duration: 36:26</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">83</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 83,
+									<unitdate type="inclusive">1985</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">TDK D60</materialspec>
+
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_83_01">Work number: ubmu0002_2_83_01</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Lecture for Jo Kondo</title>
+									</item>
+									<item>Performers: Unidentified</item>
+									<item>Location of performance: California Institute of the
+										Arts</item>
+									<item>Duration: 21:02</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_83_02">Work number: ubmu0002_2_83_02</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Solo (for flute)</title>
+									</item>
+									<item>Performers: Eberhard Blum, flute</item>
+									<item>Recording date: 1985</item>
+									<item>Location of performance: Berlin</item>
+									<item>Duration: 27:11</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">84</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 84,
+									<unitdate type="inclusive">5 July 1986</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_84_01">Work number: ubmu0002_2_84_01</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Rugmaker</title>
+									</item>
+									<item>Recording date: 1985</item>
+									<item>Performers: Kronos Quartet</item>
+									<item>Location of performance: Middelburg (Netherlands)</item>
+									<item>Duration: 19:08</item>
+
+								</list>
+							</p>
+							<p>
+								<list>
+									<head id="ubmu0002_2_84_02">Work number: ubmu0002_2_84_02</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Lecture for Jo Kondo</title>
+									</item>
+									<item>Performers: UC San Diego Faculty, Bunita Marcus,
+										conductor</item>
+									<item>Recording date: April 1986</item>
+									<item>Duration: 15:12</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">85</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 85,
+									<unitdate type="inclusive">7 April 1984</unitdate>
+							</unittitle>
+
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell ULII90</materialspec>
+							<note>
+
+								<p>Performers: Eberhard Blum, flute</p>
+								<p>Location of performance: Buffalo (N.Y.)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_85_01">Work number: ubmu0002_2_85_01</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>
+										<title render="italic">Solo (for flute)</title>
+									</item>
+
+									<item>Duration: 42:34</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">86</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 86,
+									<unitdate type="inclusive">2 April 1986</unitdate>
+							</unittitle>
+
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Dolby B</materialspec>
+							<note>
+
+								<p>Performers: Bunita Marcus, lecturer</p>
+								<p>Location of performance: San Diego (Calif.)</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_86_01">Work number: ubmu0002_2_86_01</head>
+									<item>
+										<persname>Marcus, Bunita</persname>
+									</item>
+									<item>Lecture on Morton Feldman's "Sound-mass" </item>
+									<item>Duration: 49:23</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container type="box">05</container>
+							<container type="item">87</container>
+							<unittitle>Morton Feldman Collection of Audio Recordings Tape 87,
+									<unitdate type="inclusive">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>1 cassette</extent>
+							</physdesc>
+							<materialspec label="Technical details">Maxell P/I 60</materialspec>
+							<note>
+
+								<p>Performers: SMCQ (Société de musique contemporaine du Québec);
+									Serge Garant, conductor</p>
+								<p>Location of performance: Unknown</p>
+							</note>
+						</did>
+						<scopecontent>
+							<p>
+								<list>
+									<head id="ubmu0002_2_87_01">Work number: ubmu0002_2_87_01</head>
+									<item>
+										<persname>Rea, John</persname>
+									</item>
+									<item>
+										<title render="italic">Treppenmusik</title>
+									</item>
+
+									<item>Duration: 16:21</item>
+
+								</list>
+							</p>
+						</scopecontent>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+		<controlaccess>
+			<head>Search Terms</head>
+			<note>
+				<p>The following terms have been used to index the description of this collection in
+					the Library's online catalog. </p>
+			</note>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh" encodinganalog="650">Music--20th century</subject>
+				<persname encodinganalog="600" source="lcnaf" role="subject">Feldman, Morton,
+					1926-1987--Archives</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Genres</head>
+				<genreform encodinganalog="655" source="aat">Sound recordings</genreform>
+				<genreform encodinganalog="655" source="aat">Audiocassettes</genreform>
+
+				<genreform encodinganalog="655" source="aat">Audiotapes</genreform>
+			</controlaccess>
+		</controlaccess>
+		<descgrp type="add">
+			<head>Associated Material</head>
+			<relatedmaterial encodinganalog="544 1">
+				<head>Related Resources</head>
+				<relatedmaterial>
+					<head>Related Resources in the Music Library</head>
+					<list type="deflist">
+						<defitem>
+							<label>
+								<archref show="new" actuate="onrequest" role="text/html"
+									href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0002_1.xml "
+									> Morton Feldman Papers, 1950-1999 </archref> Mus. Arc. 2.1 </label>
+							<item>The Morton Feldman Papers comprise personal and business
+								correspondence, writings by and about Feldman, clippings, programs,
+								and photographs. </item>
+						</defitem>
+						<defitem>
+							<label>
+								<archref show="new" actuate="onrequest" role="text/html"
+									href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0002_4.xml "
+									> C. F. Peters Collection of Morton Feldman Manuscripts,
+									1961-1969</archref> Mus. Arc. 2.4</label>
+							<item>The collection consists of 79 works by Morton Feldman in either
+								score or part formats (72 scores; 7 sets of parts). All but one item
+								are ink manuscripts on vellum. These served as the masters that
+								Feldman submitted to C. F. Peters and Peters published directly from
+								these masters. </item>
+						</defitem>
+					</list>
+				</relatedmaterial>
+			</relatedmaterial>
+		</descgrp>
+	</archdesc>
+</ead>

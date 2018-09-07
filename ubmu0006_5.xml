@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 6.5::Leo Smit Interviews with Tina Pelikan)//EN">ubmu0006_5</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for Leo Smit Interviews
+		with Tina Pelikan, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1992" certainty="definite">1992</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> Smit (Leo) Interviews
+		with Tina Pelikan</titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2017</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, August 2017.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Leo Smit Interviews with
+	   Tina Pelikan, 
+	   <unitdate encodinganalog="245$f" normal="1992" type="inclusive"
+	    datechar="creation" certainty="definite">1992</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 6.5</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf">Smit, Leo,
+		1921-1999 </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   box</extent> (<extent unit="cassette" encodinganalog="300$a">9
+	   audio-cassettes</extent> , <extent unit="photograph" encodinganalog="300$a">5
+	   color photographs</extent>) </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">Spoken
+	   word content in <language encodinganalog="041">English</language>.
+	   </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library.</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The Leo Smit Interviews
+	   with Tina Pelikan were recorded on nine audio-cassettes during a cross-country
+	   drive from New York to California in 1992. The conversations focus upon the
+	   life and career of Leo Smit. The cassettes are accompanied by five color
+	   photographs taken during the trip.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Leo Smit Interviews with Tina Pelikan, 1992, Music
+		Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+    </descgrp> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Tina Pelikan, 2015.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection.</p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley.</p> 
+	 </processinfo> 
+	 <altformavail> 
+	   <head>Alternate Forms</head> 
+	   <p>The collection was digitally reformatted in 2016 resulting in
+		preservation master and service copy files.</p> 
+	 </altformavail> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Leo Smit was born to Russian immigrants on January 12, 1921, in
+	   Philadelphia. He received his earliest musical training from his father, Kolman
+	   Smit, beginning at age five. Kolman Smit was a professional violinist who
+	   performed in the Philadelphia Orchestra (1926-1931) under Leopold Stokowski,
+	   the Cincinnati Symphony under Fritz Reiner, and the NBC Symphony under Arturo
+	   Toscanini.</p> 
+	 <p>After private piano studies with Martha Lantner, Joseph Wissof, and
+	   Bert Shefter, Smit traveled to Moscow with his mother in 1929 to study piano
+	   for three months with Dmitri Kabalevsky on scholarship at the Moscow
+	   Conservatory. Upon his return to Philadelphia, Smit received a scholarship in
+	   1930 to study piano at Curtis Institute of Music with noted piano pedagogue
+	   Isabelle Vengerova. He continued his studies on scholarship in New York,
+	   studying piano with José Iturbi (1933-35) and composition with Nicolas Nabokov
+	   (1935). It was under Nabokov's tutelage that Smit produced his first original
+	   composition in 1935, Zvay, a song setting of a Yiddish poem by Mani Loeb for
+	   soprano and piano. </p> 
+	 <p>Smit began his professional career as a pianist while still in his
+	   teens. His first professional engagement was as rehearsal pianist for George
+	   Balanchine's American Ballet Company in 1936-37. A year after beginning in this
+	   position, Smit met Igor Stravinsky during rehearsals of the composer's ballet,
+	   Jeu de Cartes. Smit gave his debut recital as a solo pianist at Carnegie Hall
+	   in February 1939. His successful debut was followed by a concert tour of the
+	   United States in 1940. </p> 
+	 <p>Leo Smit's career as composer, pianist, conductor, and educator
+	   spanned seven decades of musical life in the United States. He established
+	   close working relationships, and/or friendships, with many of the most
+	   prominent musicians of the 20th century, including Igor Stravinsky, Béla
+	   Bartók, Aaron Copland, Leonard Bernstein, Harold Shapero, William Schuman, Alex
+	   Haieff, Leopold Stokowski, and Lukas Foss. As a performer, Smit was an
+	   enthusiastic and persuasive advocate and interpreter of the music of his time,
+	   especially the solo piano music of Aaron Copland. His compositional output
+	   totals more than one hundred works, including two operas, three symphonies,
+	   more than ninety songs, two ballets, and numerous chamber and piano works. </p>
+	 
+	 <p>Smit was also a talented photographer. In addition to the many
+	   photographs he took of noted musicians, Smit also used his skill as a
+	   photographer to capture images from his travels. Many of his travel pictures
+	   reflect his reverence for nature. As part of his innovative approach to
+	   programming, Smit would often include displays of his photography in his
+	   theme-based concerts. </p> 
+	 <p>During his career Leo Smit earned several awards and honors, including
+	   Fulbright (piano) and Guggenheim (composition) Fellowships in 1950, a
+	   fellowship at the American Academy in Rome for 1950-51, the Boston Symphony
+	   Merit Award in 1953 for his Symphony No. 1 (premiered October 16, 1953 by the
+	   Boston Symphony Orchestra, conducted by Charles Munch), the New York Critics
+	   Circle Award in 1957 (also for his Symphony No. 1), his selection as an artist
+	   for a State Department concert tour of Latin America in 1967-68, and the
+	   Buffalo Evening News Man of the Year award in 1969. As an educator, Smit held
+	   positions at Sarah Lawrence College (1947-49), UCLA (1957-63), and the State
+	   University of New York at Buffalo (1962-84). </p> 
+	 <p>Leo Smit died December 12, 1999 in Scripps Hospital, Encinitas,
+	   California. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The Leo Smit Interviews with Tina Pelikan were recorded on nine
+	   audio-cassettes during a cross-country drive from New York to California in
+	   1992. The conversations focus upon the life and career of Leo Smit. Topics of
+	   conversation include Aaron Copland, Leonard Bernstein, Lukas Foss, Morton
+	   Feldman, Smit's teaching at University at Buffalo, Pete Johnson, Harold
+	   Shapero, and more. The cassettes are accompanied by five color photographs
+	   taken during the trip.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>Arranged in chronological order.</p> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">1</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 1, 
+		  <unitdate type="inclusive">1992-11-06</unitdate> </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/6/92 (1)</p> 
+		  <p>Durations: 47:15 ; 47:12</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: Beethoven, Mozart, Aaron
+		  [Copland]</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_01_01
+			 _am.wav ; ubmu0006_5_01_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_01_01 _sc.mp3 ;
+			 ubmu0006_5_01_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">2</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 2, 
+		  <unitdate type="inclusive">1992-11-06--1991/11-07</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/6 and 11/7 (2)</p> 
+		  <p>Durations: 47:27 ; 47:27</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: Rome - Academy, Leo's music, Betty
+		  Freeman, Slonimsky, Cole Porter, Copland 81st birthday concert at Library of
+		  Congress, A[aron] C[opland] last visit</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_02_01_am.wav
+			 ; ubmu0006_5_02_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_02_01_sc.mp3 ;
+			 ubmu0006_5_02_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">3</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 3, 
+		  <unitdate type="inclusive">1992-11-07</unitdate> </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/7 (3)</p> 
+		  <p>Durations: 47:24 ; 45:19</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: Fairborn [to] St. Louis: Stravinsky,
+		  Copland, Bernstein, Shostakovich, Concert in Zagreb, Morton Feldman, students
+		  at Buffalo, Judy Sherman, Cole Porter, Foss, Teaching at Buffalo, Jan</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_03_01_am.wav
+			 ; ubmu0006_5_03_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_03_01_sc.mp3 ;
+			 ubmu0006_5_03_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">4</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 4, 
+		  <unitdate type="inclusive">1992-11-07--1992-11-08</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/7 (4)</p> 
+		  <p>Durations: 47:18 ; 47:20</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: Left Springfield: Kagel, Mozart and
+		  Salieri, Beethoven</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_04_01
+			 _am.wav ; ubmu0006_5_04_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_04_01 _sc.mp3 ;
+			 ubmu0006_5_04_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">5</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 5, 
+		  <unitdate type="inclusive">1992-11-08</unitdate> </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/8 (5)</p> 
+		  <p>Durations: 47:14 ; 47:13</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: Liszt, L[eo's]. debut [at] age 18,
+		  Leo's concerts, State Department tours, jazz piano record, Tracy Stern,
+		  Horowitz visit, Plaskin bio of Horowitz</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_05_01
+			 _am.wav ; ubmu0006_5_05_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_05_01 _sc.mp3 ;
+			 ubmu0006_5_05_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">6</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 6, 
+		  <unitdate type="inclusive">1992-11-08</unitdate> </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/8 (6)</p> 
+		  <p>Durations: 47:15 ; 46:11</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: Pete Johnson, L's ideas for book
+		  about people he's known, Lukas Foss</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_06_01
+			 _am.wav ; ubmu0006_5_06_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_06_01 _sc.mp3 ;
+			 ubmu0006_5_06_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">7</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 7, 
+		  <unitdate type="inclusive">1992-11-09</unitdate> </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/8 (7)</p> 
+		  <p>Durations: 45:40 ; 47:16</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: Amarillo to Albuquerque: Haieff
+		  concerto with NBC (Toscanini shows up), Stravinsky, Furtwängler, C[harles]
+		  Munch, jazz, Koussevitsky, N[icholas]. Nabokov, H[arold] Shapero, Billy the
+		  Kid, D[avid] Diamond, …?, Stravinsky, Barber, Cole [Porter], Begin story, Not
+		  B. Goodman</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_07_01
+			 _am.wav ; ubmu0006_5_07_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_07_01 _sc.mp3 ;
+			 ubmu0006_5_07_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">8</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 8, 
+		  <unitdate type="inclusive">1992-11-09</unitdate> </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 11/9 (8)</p> 
+		  <p>Durations: 47:13 ; 40:19</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: B. Goodman, Stravinsky, Balanchine,
+		  Auden, Ruth Anshen parties, Werner Eisen, Fred Hoyle, Beethoven/Diabelli,
+		  Missa, State Department Tour Bogota, Brazil 1967/68, Lukas [Foss]</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_08_01
+			 _am.wav ; ubmu0006_5_08_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_08_01 _sc.mp3 ;
+			 ubmu0006_5_08_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">9</container> 
+		<unittitle>Leo Smit Interviews with Tina Pelikan, 1992, Tape 9, 
+		  <unitdate type="inclusive">1992-11-09?</unitdate> </unittitle> 
+		<physdesc> <extent>1 90 minute audiocassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: (9)</p> 
+		  <p>Durations: 47:24 ; 39:32</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Content description on label: W. H. Auden's Quatrains, Father
+		  reading to L., Theodore Roethke, Norman Rosenthal commission, 2nd symphony, Len
+		  Ber[nstein], Party, Bernstein and Pope, Hand surgery, Teachers, Composing,
+		  Copland as critic of L., Copland fund, Shapero, Fine, In woods (after
+		  listening), Tzadek, Copland</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master files: ubmu0006_5_09_01
+			 _am.wav ; ubmu0006_5_09_02_am.wav</item> 
+		    <item>Service copy files: ubmu0006_5_09_01 _sc.mp3 ;
+			 ubmu0006_5_09_02_sc.mp3</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Contributors</head> 
+	   <persname role="creator" source="lcnaf" encodinganalog="700">Pelikan,
+		Tina</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <persname role="subject" source="lcnaf"
+	   encodinganalog="600">Smit, Leo, 1921-1999 -- Interviews</persname>
+	   <subject source="lcsh"
+	   encodinganalog="650">Musicians--Interviews</subject> 
+	   <subject source="lcsh" encodinganalog="650">Music -- United States --
+		20th century -- History and criticism</subject>
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">audiocassettes</genreform>
+	   
+	   <genreform encodinganalog="655" source="aat">oral histories (document
+		genres)</genreform>
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_1.xml"
+			 show="new" actuate="onrequest" role="text/html"> Leo Smit Score Collection,
+			   circa 1940-1998</archref> Mus. Arc. 6.1 </label> 
+		    <item>The collection consists of 104 scores by Leo Smit,
+			 principally in copies of holographs. There are also another 43 items arranged
+			 or transcribed by Smit, inscribed to or by Smit, scores marked for performance
+			 by Smit, and miscellaneous scores.</item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_2.xml"
+			 show="new" actuate="onrequest" role="text/html">Leo Smit Papers,
+			   1939-2000</archref>Mus. Arc. 6.2</label> 
+		    <item>A small collection of personal documents, writings by Smit,
+			 correspondence (chiefly photocopies of letters from Aaron Copland to Smit),
+			 clippings, programs, and lecture materials. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_3.xml"
+			 show="new" actuate="onrequest" role="text/html"> Leo Smit Photograph
+			   Collection, circa 1926-1999</archref> Mus. Arc. 6.3 </label> 
+		    <item>Chiefly black and white photographs documenting Leo Smit's
+			 life and career in music. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://library.buffalo.edu/libraries/units/music/exhibits/smit/"
+			 show="new" role="text/html" actuate="onrequest">Remembering Leo Smit
+			   (1921-1999)</archref> </label> 
+		    <item>An online exhibit commemorating the life and career of Leo
+			 Smit. It contains many images of Smit as well as photographs taken by him. A
+			 list of Smit's compositions, compiled by the composer, is also included.</item>
+		    
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead>

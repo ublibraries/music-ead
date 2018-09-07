@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 57::Music Library Autograph and Letter Collection)//EN">ubmu0057
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Music Library
+			 Autograph and Letter Collection, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1825/1998" certainty="approximate">circa 1825-1998
+				</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Music Library
+			 Autograph and Letter Collection </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2011</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, August 2011.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Music Library Autograph
+		  and Letter Collection, 
+		  <unitdate encodinganalog="245$f" normal="1825/1998" type="inclusive"
+			datechar="creation" certainty="approximate">circa 1825-1998
+			 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 57</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="creator" source="lcnaf"> State
+			 University of New York at Buffalo. Music Library </corpname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="box" encodinganalog="300$a">(43 folders)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English</language>,
+		  <language encodinganalog="041" langcode="fre">French</language>,
+		  <language langcode="ger">German</language>, <language
+		  langcode="hun">Hungarian</language>, and <language
+		  langcode="ita">Italian</language>. </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Collection of
+		  holograph materials collected by the Music Library, including letters by
+		  composers such as Béla Bartók, Arnold Bax, Gaetano Donizetti, Giuseppe Verdi,
+		  and Richard Wagner, as well as other musicians.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Music Library Autograph and Letter Collection,
+			 circa 1825-1998, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Accumulated through gifts and purchases.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>Further accruals are possible but not scheduled for this collection.
+			 </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>Items in the public domain and items still in copyright for which permissions have been attained
+		   have been digitized and are available linked from the container list. Folders containing multiple 
+		   items are digitally represented by a single PDF file containing all the items in the folder. Some of the
+		   digitized versions are also accompanied by transcriptions and/or translations.</p> 
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley 2011.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>The collection was compiled in the Music Library through acquisition
+		  by donation and purchase.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Collection of holograph materials collected by the Music Library,
+		  including letters by composers such as Béla Bartók, Arnold Bax, Charles de Bériot, Henri Berton,
+		   Paul Bowles, Hans von Bülow, Gustave Charpentier, Gaetano Donizetti, Leonard Ellinwood, 
+			Charles-Joseph Alphonse Greuse, Sir George Grove, John Lessard, Gabriel Pierné, Dragan Plamenac,
+			 Artur Schneider, John Stainer, Giuseppe Verdi, and Richard Wagner, as well as other musicians. Some
+		  items are signed programs and some folders contain small sets of correspondence
+		  (up to five items). </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is in one series arranged alphabetically by signer or
+		  author's surname with the exception of the folder for correspondence received
+		  by Artur Schneider. Additions to the collection, beginning with Folder 40, are in order of receipt.</p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">1</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Babin, Victor, 1908-1972</persname>: 
+				<unitdate type="inclusive" normal="1965-07-29">29 July
+				  1965</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Typescript in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed "To whom it may concern" in regard to reference for
+				Diana Hoagland.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">2</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Bartók, Béla, 1881-1945</persname>: 
+				<unitdate>undated</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript in Hungarian.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to violinist 
+				<persname normal="Ara´nyi, Jelly d', 1893-1966">Jelly
+				  d'Arányi</persname> from Hotel Majestic, Paris, France. English translation (1
+				leaf) also included.</p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Purchased rom Richard MacNutt Ltd. Catalog ___ Item 590.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">3</container> 
+			 <unittitle> 
+				<persname>Basurko, Carlos</persname>: 
+				<unitdate normal="1988-03-24" type="inclusive">24 March
+				  1988</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Buffalo New Music Ensemble". </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">4</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Bax, Arnold, 1883-1953</persname>: 
+				<unitdate>undated</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_04.pdf" actuate="onrequest" show="new"/>				
+			 <physdesc><extent>4 items (4 leaves)</extent></physdesc> 
+			 <note> 
+				<p>4 manuscript letters in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Three notes addressed to "My dear Calvo" ( 
+				<persname normal="Calvocoressi, M. D. (Michel D.), 1877-1944">M. D.
+				  Calvocoressi</persname>), Greek musicologist and critic, and one addressed to
+				"Dear Heseltine" ( 
+				<persname normal="Warlock, Peter, 1894-1930">Philip
+				  Heseltine</persname>(also known as Peter Warlock)).</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">5</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Bennett, Richard Rodney</persname>: 
+				<unitdate normal="1997-11-27">27 November
+				  1997</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 folded leaf)</extent></physdesc> 
+			 <note> 
+				<p>Printed program from the collection of Joseph Chouinard.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Program for BargeMusic program, Brooklyn, New York, signed by
+				composer and pianist Richard Rodney Bennett and oboist Gerard Reuter.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">6</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Bériot, Ch. de (Charles),
+				  1802-1870</persname>: 
+				<unitdate normal="1850-02">February 1850</unitdate></unittitle>
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_06.pdf" actuate="onrequest" show="new"/> 				 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in French.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Monsieur Troupenas", French music publisher 
+				<persname>Eugène-Théodore Troupenas </persname>(1798-1850)</p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Purchased from Dan Fog Musikforlag Liste 326, Item 37.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">7</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Berton, H. (Henri), 1767-1844</persname>: 
+				<unitdate normal="1800/1844"
+				type="inclusive">undated</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_07.pdf" actuate="onrequest" show="new"/> 				
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in French.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Madame".</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">8</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Bowles, Paul, 1910-1999</persname>: 
+				<unitdate type="inclusive" normal="1985-03-08">8 March
+				  1985</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Typescript in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to Michael Finkelman concerning a list of his musical
+				works.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">9</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Bülow, Hans von, 1830-1894</persname>: 
+				<unitdate normal="1862-01-09" type="inclusive">9 January
+				  1862</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_09.pdf" actuate="onrequest" show="new"/> 				  
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in German.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "... Herr Professor". </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">10</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Charpentier, Gustave,
+				  1860-1956</persname>: 
+				<unitdate normal="1933-04-28" type="inclusive">28 April
+				  1933</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letter in French.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Monsieur Emile Drain, de la Comédie Française". 
+				<persname normal="Drain, Emile, d. 1966">Emile Drain</persname>
+				(1890-1966) was a French actor.</p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Purchased from Dan Fog Musikforlag, Liste 326, Item 63</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">11</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Ciurciura, Leoncjusz</persname>: 
+				<unitdate normal="1797-03-26" type="inclusive">26 March
+				  1979</unitdate></unittitle> 
+			 <physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in Polish.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">12</container> 
+			 <unittitle> 
+				<persname>Cruz-Romo, Gilda</persname>: 
+				<unitdate>undated</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Signed promotional flyer.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">13</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Donizetti, Gaetano, 1797-1848</persname>: 
+				<unitdate type="inclusive">undated</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_13.pdf" actuate="onrequest" show="new"/> 				
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in Italian.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to librettist and playwright, 
+				<persname normal="Cammarano, Salvatore, 1801-1852"
+				source="lcnaf">Salvatore Cammarano</persname>. </p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Purchased from Richard MacNutt Ltd. Catalogue 100, Item 490.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">14</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Dufourt, Hugues</persname>: 
+				<unitdate normal="1969-11-20" type="inclusive">20 November
+				  1969</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in French.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Cher Monsieur" regarding a request for his score, 
+			 <title render="italic">Mura della città di dite</title>. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">15</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Ellinwood, Leonard, 1905-1994</persname>: 
+				<unitdate normal="1938-03-14" type="inclusive">14 March
+				  1938</unitdate></unittitle> 
+			 <physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to musicologist, 
+				<persname normal="Parrish, Carl" source="lcnaf">Carl
+				  Parrish</persname>. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">16</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Erb, Donald, 1927-2008</persname>: 
+				<unitdate normal="1998-06-02" type="inclusive">2 June
+				  1998</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript note in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Cover sheet addressed to "June in Buffalo and Music Library". </p>
+			 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">17</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Felciano, Richard</persname>: 
+				<unitdate normal="1993-11-23" type="inclusive">23 November
+				  1993</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript note returned on original typescript he received.</p>
+				
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to University at Buffalo librarian, David Nuzzo in
+				response to request for score and parts to Felciano's work, 
+			 <title render="italic">Glossolalia</title>. The note is accompanied a
+			 second typescript letter from Nuzzo dated 4 August 1994 and a manuscript note
+			 requesting Nuzzo to order the score. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">18</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Globokar, Vinko, 1934- </persname>: 
+				<unitdate normal="1998-06-18" type="inclusive">18 June
+				  1998</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to organist Michael Burke. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">19</container> 
+			 <unittitle> 
+				<persname>Greuse, Charles-Joseph Alphonse</persname>: 
+				<unitdate normal="1874-06-05" type="inclusive">5 June
+				  1874</unitdate> and 
+				<unitdate normal="1874-06-17" type="inclusive">17 June
+				  1874</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_19.pdf" actuate="onrequest" show="new"/>  				  
+			 <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Two manuscript letters in French.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to Archbishop of Bologna concerning Greuse's 1872
+				publication, 
+			 <title render="italic"> Antiphonaire de Saint Gre´goire: Fac-simile´
+				du manuscrit de Saint-Gall </title>. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">20</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Grove, George, Sir, 1820-1900</persname>: 
+				<unitdate normal="1865-08-02" type="inclusive">2 August
+				  1865</unitdate></unittitle>
+				 <dao linktype="simple" href="../xtf/images/music/ubmu0057_20.pdf" actuate="onrequest" show="new"/>  
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript postcard in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "C. A. Barry" (Charles Ainslie Barry, 1830-1915)
+				about a female singer he would like to recommend for performances at Bayreuth.
+				</p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Purchased from Dan Fog Musikforlag, Liste 326, Item 163.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">21</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Kodály, Zoltán, 1882-1967</persname>: 
+				<unitdate normal="1965-08-10" type="inclusive">10 August
+				  1965</unitdate></unittitle> 
+			 <physdesc><extent>1 printed program (8 pages)</extent></physdesc> 
+			 <note> 
+				<p>Signature on program cover.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Printed program for concert in honor of Kodály at Indiana
+				University School of Music, Bloomington, Indiana.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">22</container> 
+			 <unittitle> 
+				<persname source="lcnaf">La Grange, Henry-Louis de,
+				  1924-</persname>: 
+				<unitdate normal="1978-12-29" type="inclusive">29 December
+				  1978</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to University at Buffalo Music Library. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">23</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Ledoux, Claude</persname>: 
+				<unitdate normal="1984-09-25" type="inclusive">25 September
+				  1984</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Mister" concerning score of his work, 
+			 <title render="italic">Festival pour 10 cuivres</title>. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">24</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Lessard, John, 1920-2003</persname>: 
+				<unitdate type="inclusive">undated</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Dear Alan".</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">25</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Lutyens, Elizabeth, 1943- </persname>: 
+				<unitdate normal="1973-03-23" type="inclusive">23 March
+				  1973</unitdate> and 
+				<unitdate normal="1973-08-17" type="inclusive">17 August
+				  1973</unitdate></unittitle> 
+			 <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>1 typescript and 1 manuscript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Mr. Gay, Curator, Poetry Collection, Lockwood
+				Memorial Library" concerning songs written by Lutyens. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">26</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Morawetz, Oskar, 1917-2007</persname>: 
+				<unitdate normal="1965-08-03" type="inclusive">3 August
+				  1965</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Dear Mr. Foss", conductor and composer 
+				<persname source="lcnaf" normal="Foss, Lukas, 1922-2009">Lukas
+				  Foss</persname> about a possible performance of Morawetz's score, 
+			 <title render="italic">Passacaglia on a Bach Chorale</title>. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">27</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Munsel, Patrice, 1925- </persname>: 
+				<unitdate normal="1983-03" type="inclusive">March
+				  1983</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript note in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Everyone at the Music Library". Accompanied by
+				Buffalo Philharmonic program booklet for March 11 - March 26 1983, including
+				March 25-26 performances by Munsel.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">28</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Pierné, Gabriel, 1863-1937</persname>: 
+				<unitdate normal="1919-06-17" type="inclusive">circa 17 June
+				  1919</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_28.pdf" actuate="onrequest" show="new"/>				  
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in French.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to composer and conductor Arnold Cornelissen
+				(1887-1953). </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">29</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Plamenac, Dragan, 1895-1983</persname>: 
+				<unitdate normal="1950-03-22" type="inclusive">22 March
+				  1950</unitdate>, 
+				<unitdate normal="1950-05-06" type="inclusive">6 May
+				  1950</unitdate>, 
+				<unitdate normal="1950-08-26" type="inclusive">26 August
+				  1950</unitdate>, 
+				<unitdate normal="1951-02-05" type="inclusive">5 February
+				  1951</unitdate>, 
+				<unitdate normal="1951-04-08" type="inclusive">8 April
+				  1951</unitdate>, and 
+				<unitdate normal="1975-06-19" type="inclusive">19 June
+				  1975</unitdate> </unittitle> 
+			 <physdesc><extent>5 items (5 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript and typescript letters in French and English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Four items (one with response written on the original) between
+				Plamenac and musicologist 
+				<persname source="lcnaf"
+				normal="Thibault, G. Geneviève), 1902-1975">Madame Geneviève Thibault (Comtesse
+				  de Chambure) </persname> and one to Plamenac from musicologist 
+				<persname source="lcnaf" normal="Petrobelli, Pierluigi">Pierluigi
+				  Petrobelli</persname>.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">30</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Schneider, Artur, Dr.</persname>: 
+				<unitdate normal="1913-07-21" type="inclusive">21 July
+				  1913</unitdate>, 
+				<unitdate normal="1913-07-26" type="inclusive">26 July
+				  1913</unitdate>, and 
+				<unitdate normal="1915-09-23" type="inclusive">23 September
+				  1915</unitdate> </unittitle> 
+			 <physdesc><extent>3 items (4 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letters in German (1) and French (2).</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Three letters addressed to Dr. Artur Schneider (1879-1946),
+				Croatian art historian, writer on music, art critic, and director of the
+				Graphic Collection, National and University Library, Zagreb. The correspondents
+				are: 
+				<list> 
+				  <item> 
+					 <persname>Olof ...berg</persname>, 21 July 1913, on behalf of
+					 the Nationalmuseum Stockholm</item> 
+				  <item> 
+					 <persname source="lcnaf"
+					 normal="Bell, C. F. (Charles Francis), b. 1871">Charles Francis Bell</persname>
+					 (1871-1966), first keeper of the Ashmolean Museum's Department of Fine Art,
+					 Oxford, England, 26 July 1913.</item> 
+				  <item> 
+					 <corpname source="lcnaf" normal="Leo Liepmannsohn (Firm)">Leo
+						Liepmannssohn Antiquariat</corpname>, 23 September 1915</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">31</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Shapey, Ralph, 1921-2002</persname>: 
+				<unitdate normal="1965-07-08" type="inclusive">8 July
+				  1965</unitdate></unittitle> 
+			 <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in English with typescript response.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to Agnes Lang, secretarial assistant to Allen Sapp,
+				chair of the Music Department at the University of Buffalo, concerning payment
+				for travel. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">32</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Sonneck, Oscar George Theodore,
+				  1873-1928</persname>: 
+				<unitdate>undated</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Bindery Division" from the Music Division which
+				Sonneck headed at the Library of Congress 1902-1917. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">33</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Stainer, John, 1840-1901</persname>: 
+				<unitdate normal="1900-07-23" type="inclusive">23 July
+				  1900</unitdate>, 
+				<unitdate normal="1900-07-25" type="inclusive">25 July
+				  1900</unitdate>, 
+				<unitdate normal="1900-12-17" type="inclusive">17 December
+				  1900</unitdate>, and 
+				<unitdate normal="1900-12-20" type="inclusive">20 December
+				  1900</unitdate> </unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_33.pdf" actuate="onrequest" show="new"/>				  
+			 <physdesc><extent>4 items (4 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letters in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to 
+				<persname normal="Cummings, William Hayman, 1831-1915"
+				source="lcnaf">"Dr. Cummings" </persname>, singer and music antiquarian.
+				Subjects include the tune for 
+			 <title render="italic">Hark, the herald angels sing</title> and a
+			 visit to assess the library of the Sacred Harmonic Society with its librarian, 
+			 <persname normal="Husk, William Henry, 1814-1887"
+			 source="lcnaf">William Henry Husk</persname> (1814-1887) for 
+			 <persname normal="Grove, George, Sir, 1820-1900" source="lcnaf">Sir
+				George Grove</persname>. </p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Purchased from Dan Fog Musikforlag (Copenhagen): Liste 326, Item
+				398 and Liste 226, Item 403.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">34</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Stevens, Denis, 1922-2004</persname>: 
+				<unitdate normal="1972-04-21" type="inclusive">21 April
+				  1972</unitdate> 
+				<unitdate normal="1972-05-01" type="inclusive">1 May
+				  1972</unitdate> </unittitle> 
+			 <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letters in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Letter from Stevens to Music Department chairman 
+				<persname normal="cohen, Albert, 1929- " source="lcnaf">Albert
+				  Cohen</persname> proposing a lecture with reply from Cohen. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">35</container> 
+			 <unittitle> 
+				<persname>Stoye, Paul</persname>: 
+				<unitdate normal="1930-04-13" type="inclusive">13 April
+				  1930</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Signed concert program.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Concert by pianist Paul Stoye at Drake Conservatory of Music
+				(Drake University, Des Moines, Iowa). </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">36</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Trimble, Lester, 1923-1986</persname>: 
+				<unitdate normal="1964-03-15" type="inclusive">15 March
+				  1964</unitdate> and 
+				<unitdate normal="1964-04-23" type="inclusive">23 April
+				  1964</unitdate> </unittitle> 
+			 <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letters in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Letter to clarinetist 
+				<persname source="lcnaf" normal="Sigel, Allen">Allen
+				  Sigel</persname> about a performance of his work, 
+			 <title render="italic">Four fragments from "The Canterbury
+				Tales"</title> and response from Sigel. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">37</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Verdi, Giuseppe, 1813-1901</persname>: 
+				<unitdate>undated</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_37.pdf" actuate="onrequest" show="new"/>				
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in Italian.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "mon cher Leon", possibly Leon Escudier or Leon
+				Carvalho. </p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p> Purchased from Richard MacNutt Ltd. Catalogue 100, Item 578.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">38</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Wagner, Richard, 1813-1883</persname>: 
+				<unitdate normal="1872-04-04"
+				type="inclusive">4 April 1873</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_38.pdf" actuate="onrequest" show="new"/>				
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript letter in German.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Letter to <persname source="lcnaf" normal="Davidsohn, Georg">George Davidsohn</persname> (1835-1897), 
+founder and publisher of the Berlin newspaper <title render="italic">Börsen-Courier</title> and member 
+of the Berlin Wagner Association concerning issues with Bernhard
+				Loeser at Berlin's Victoria Theatre. Typescript transcription in German and English translation included. </p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p> Purchased from Richard MacNutt Ltd. Catalogue 100, Item 581.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">39</container> 
+			 <unittitle> Unidentified, 
+				<unitdate>undated</unitdate></unittitle> 
+<dao linktype="simple" href="../xtf/images/music/ubmu0057_39.pdf" actuate="onrequest" show="new"/>				
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript in Latin and English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>"Conticuere omnes intentique ora tene bant", a line from Virgil's 
+			 <title render="italic">Aeneid</title> is used to generate lists of
+			 words through "affinity by sound" and "affinity by meaning".</p> 
+		  </scopecontent> 
+		</c01> <c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">40</container> 
+			 <unittitle> 
+				<persname>Spalding, Marie Boardman</persname>: 
+				<unitdate normal="1916-12-22" type="inclusive">22 December 1916</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Manuscript note card (6 x 8 cm.) in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>To an unknown addressee ("you and Margarita") from vocalist, pianist, and harpist Marie Boardman 
+			 Spalding, wife of James Walter Spalding, and mother of violinist Albert Spalding.</p> 
+		  </scopecontent> 
+		</c01> 
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">41</container> 
+			 <unittitle> 
+				<corpname source="lcnaf">Theater der Stadt Koblenz</corpname>: 
+				<unitdate normal="1953-05-06" type="inclusive">6 May 1953</unitdate> and
+				<unitdate normal="1953-05-16" type="inclusive">16 May 1953</unitdate></unittitle> 
+			 <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letters in German on letterhead for Theater der Stadt Koblenz. </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Herrn Lenz Winkler". One letter possibly signed by music director Otto Winkler. </p> 
+		  </scopecontent> 
+		</c01>
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">42</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Edmunds, John, 1913-1986</persname>: 
+				<unitdate normal="1962-03-13" type="inclusive">13 March
+				  1962</unitdate></unittitle> 
+			 <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+			 <note> 
+				<p>Typescript letter in English.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Addressed to "Dear Peter", music critic and poet, 
+				<persname normal="Yates, Peter, 1909-1976" source="lcnaf">Peter
+				  Yates</persname>. The letter, on Composers Forum letterhead, is largely about
+				a concert and party honoring composer 
+				<persname normal="Cowell, Henry,1897-1965" source="lcnaf">Henry
+				  Cowell</persname> in New York City March 12, 1962. The letter is accompanied by
+				a program for the concert, a review by Harold C. Schonberg in the 
+			 <title render="italic">New York Times</title>, and the booklet
+			 published by Broadcast Music Inc. in 1962 celebrating the 50th anniversary of
+			 Cowell's first performance. </p> 
+		  </scopecontent> 
+		</c01> 	
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="folder">43</container> 
+			 <unittitle> 
+				<persname source="lcnaf">Boucourechliev, André</persname>: 
+				<unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate></unittitle> 
+			 <physdesc><extent>1 folder (3 manuscript leaves, 10 typescript leaves)</extent></physdesc> 
+			 
+		  </did> 
+		  <scopecontent> 
+			 <p>Correspondence with University at Buffalo graduate student Peter Carlin (Karlinski)
+concerning a catalog of Boucourechliev's works compiled by Carlin. The ten typescript leaves contain a biographical sketch of Boucourechliev and catalog entries by Carlin, with annotations on some pages by Boucourechliev. 
+			 </p> 
+		  </scopecontent> 
+		</c01> 			 		
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Composers--Correspondence</subject> 
+		  <subject encodinganalog="650" source="lcsh">Musicians--Correspondence</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655"
+		  source="gmgpc">Correspondence</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

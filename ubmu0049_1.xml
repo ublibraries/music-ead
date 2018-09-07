@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 49.1::George L. Kirchmyer Collection of Song Lyrics Lantern Slides//EN">ubmu0049_1</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the George L.
+			 Kirchmyer Collection of Song Lyric Lantern Slides, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1920/1938" certainty="approximate">circa 1920-1938
+				</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Kirchmyer (George L.)
+			 Collection of Song Lyric Lantern Slides</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley. </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> George L. Kirchmyer
+		  Collection of Song Lyric Lantern Slides, 
+		  <unitdate encodinganalog="245$f" normal="1920/1938" type="inclusive"
+			datechar="creation">circa 1920-1938</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 49.1</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" rules="aacr2"> Kirchmyer,
+			 George L., 1893-1987</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  linear foot</extent> (<extent unit="box" encodinganalog="300$a">145 lantern
+		  slides in 3 containers</extent> ) </physdesc> 
+		<materialspec label="Material specifications" encodinganalog="255">The
+		  majority of the slides are glass.</materialspec> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">The collection contains 145
+		  large format slides that form 37 sets corresponding to popular song
+		  lyrics.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], George L. Kirchmyer Collection of Song Lyric
+			 Lantern Slides, circa 1920-1938, Music Library, The State University of New
+			 York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of James Kirchmyer, 2017.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Nicole Coolican.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>George L. Kirchmyer was born July 30 1893. He grew up in Buffalo, New
+		  York. He graduated from the Academic Department division (high school) of
+		  Canisius College in 1909. Kirchmyer became a musician, working as a pianist and
+		  organist, as well as a choral director and teacher of voice, piano, and organ.
+		  He worked extensively as a theater organist, accompanying silent films at
+		  venues such as Shea's Theater in Buffalo. He served as choral director at the
+		  Holy Name of Jesus Church in Buffalo and for the Buffalo Knights of Columbus
+		  Chorus. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains 145 large format slides that form 37 sets corresponding
+		  to popular song lyrics. They would have been used to engage audiences in
+		  sing-alongs during intermissions or reel changes at movie theaters while George
+		  L. Kirchmyer performed the songs at the theater organ. Only one of the slides
+		  contains illustrations beyond the song lyrics. While the songs themselves were
+		  written 1899-1938, the slides were most likely issued dating from the 1920s.
+		  </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged alphabetically by slide set (not necessarily
+		  the same as song) title.</p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">01_01-01_02 </container> 
+			 <unittitle>Ain't We Got Fun, 
+				<unitdate type="inclusive">undated </unitdate> </unittitle> 
+			 <physdesc> <extent>2 glass slides</extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+				<p>Labeled #10,#11</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">02_01</container> 
+			 <unittitle>April Showers, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  top of slide. "PAT NO. 1,018,230" on bottom of slide. Publishing information on cardboard frame.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">03_01-03_16</container> 
+			 <unittitle>Big Parade, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>16 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corporation</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Slide series: Art Melody Slides</p> 
+				<p>First slide unnumbered (title slide), the rest are labeled
+				  #1-#14. Images on first 8 slides, (Title unnumbered slide and slides #1-7)</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">04_01-04_11</container> 
+			 <unittitle>Blue Hawaii, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>11 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Maurice Workstel, Inc.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Slide series: Song-Hit Slides</p> 
+				<p>All 11 slides are labeled #1-#11, all 11 slides include lyrics
+				  and corresponding images.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">05_01-05_14</container> 
+			 <unittitle>Charley, My Boy!, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>14 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Quality Slide &amp; FlashAGraph Co.</p> 
+				<p>Place of manufacture: Chicago, IL</p> 
+				<p>Slide series: Song and Commercial slides</p> 
+				<p>Labeled #1-14, each slide contains a picture and lyrics</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">06_01</container> 
+			 <unittitle>Charley, My Boy!, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Irving Berlin, Inc.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">07_01</container> 
+			 <unittitle>Consolairs, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">08_01-08_02</container> 
+			 <unittitle>George L. Kirchmyer Organist Presents, Patron's Community
+				Chorus, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>2 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">09_01</container> 
+			 <unittitle>How 'Ya Gonna Keep 'Em Down on the Farm?, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  top of slide. "PAT. NO. 1,018,230" on bottom of slide.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">10_01-10_14</container> 
+			 <unittitle>I Kiss Your Hand Madame, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>14 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: National Studios, Inc.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Slide series: Art Melody Slides</p> 
+				<p>Labeled #1-#14, each slide contains a picture and lyrics</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">11_01</container> 
+			 <unittitle>I Wonder What's Become of Sally?, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Ager, Yellen &amp; Bernstein, Inc.</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Film-material slide, cardboard cut-out edge</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">12_01-12_02</container> 
+			 <unittitle>I'm Forever Blowing Bubbles, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>2 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+				<p>Labeled #13, #14</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">13_01</container> 
+			 <unittitle>I'm Forever Blowing Bubbles, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, "PAT NO. 1,018,230"
+				  on bottom of slide.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">14_01-_14_08</container> 
+			 <unittitle>Irving Berlin's All Alone, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>8 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corporation</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Slide series: Art Melody Slides</p> 
+				<p>7 numbered slides, one is unnumbered (title slide), the other
+				  are labeled #1-#6. There are lyrics and images on each slide. Outer edge of
+				  slide is wrapped in paper.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">15_01-15_40</container> 
+			 <unittitle>It Goes Like This, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>40 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: National Studios, Inc.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Slide series: Art Melody Slides</p> 
+				<p>Labeled #1-#40, each slide contains a picture and lyrics</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">16_01</container> 
+			 <unittitle>Looks Like a Big Night Tonight, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+				<p>Labeled #2</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">17_01</container> 
+			 <unittitle>Lots of things may be around the corner but this tune is
+				here to stay, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">18_01</container> 
+			 <unittitle>Love Sends a Little Gift of Roses, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  top of slide. "PAT NO. 1,018,230" on bottom of slide.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">19_01</container> 
+			 <unittitle>Medley of Popular Hits, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">20_01</container> 
+			 <unittitle>Musical Interlude, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">21_01</container> 
+			 <unittitle>My Dream of the Big Parade, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Jack Mills, Inc.</p> 
+				<p>Place of manufacture: New York City</p> 
+				<p>Film-material slide, cardboard cut-out edge,</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">22_01</container> 
+			 <unittitle>Night Shall Be Filled with Music, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">23_01_01</container> 
+			 <unittitle>Oh! How I Hate to Get Up in the Morning, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Greater N.Y. Slide Co.</p> 
+				<p>Place of manufacture: N.Y.</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  top of slide</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">24_01-24_02</container> 
+			 <unittitle>Pack Up Your Troubles, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>2 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+				<p>Labeled Slide #15, #16</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">25_01</container> 
+			 <unittitle>Parade of the "Tin Soldiers", 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">26_01-26_02</container> 
+			 <unittitle>Perfect Day, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>2 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">27_01</container> 
+			 <unittitle>Roses of Picardy, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  top of slide. "PAT NO. 1,018,230" on bottom of slide.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">28_01</container> 
+			 <unittitle>Selection From Naughty Marietta- Victor Herbert, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">29_01</container> 
+			 <unittitle>Selection from The Only Girl- Victor Herbert, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">30_01</container> 
+			 <unittitle>Selection The Student Prince - Romberg, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Not Listed</p> 
+				<p>Place of manufacture: Not Listed</p> 
+				<p>Blank Label dot with no number on lower left hand corner</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">31_01</container> 
+			 <unittitle>Song of Songs, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Chappell-Herms, Inc.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  left side of slide.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">32_01</container> 
+			 <unittitle>There's a Long, Long Trail, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY.</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  top of slide. "PAT NO. 1,018,230" on bottom of slide. "Written by Stoddard King
+				  and Composed by Zo Elliott"</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">33_01-33_02</container> 
+			 <unittitle>Wabash Far Away, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>2 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">34_01-34_04</container> 
+			 <unittitle>When I Leave the World Behind, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>4 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Art Slide Studio</p> 
+				<p>Place of manufacture: Buffalo, NY</p> 
+				<p>Labeled #17-#20</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">35_01-35_05</container> 
+			 <unittitle>When Mother Played the Organ, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>5 glass slides </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Maurice Workstel, Inc.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Slide series: Song-Hit Slides</p> 
+				<p>Labeled #1-#5</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">36_01 </container> 
+			 <unittitle>World is Waiting for the Sunrise, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, "PAT NO. 1,018,230"
+				  on bottom of slide. Publishing information on cardboard frame. #3 label on back
+				  of slide.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">37_01</container> 
+			 <unittitle>Yes! We Have No Bananas, 
+				<unitdate type="inclusive"> undated </unitdate> </unittitle> 
+			 <physdesc> <extent>1 glass slide </extent> </physdesc> 
+			 <note> 
+				<p>Manufacturer: Standard Slide Corp.</p> 
+				<p>Place of manufacture: New York, NY</p> 
+				<p>Film-material slide, cardboard cut-out edge, Kirchmyer stamp on
+				  top of slide. "PAT NO. 1,018,230" on bottom of slide.</p> 
+			 </note> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Songs--Texts</subject> 
+		  <subject source="lcsh" encodinganalog="650">Popular music</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Lantern slides</genreform>
+		  
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

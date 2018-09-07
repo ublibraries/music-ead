@@ -1,0 +1,2766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 6.3::Leo Smit Photograph Collection)//EN"
+	  encodinganalog="identifier">ubmu0006_3</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Leo Smit
+			 Photograph Collection, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1926/1999" certainty="approximate"> circa
+				1926-1999</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Smit (Leo) Photograph
+			 Collection</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2008</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, 
+		  <date normal="2008-10" era="ce" calendar="gregorian"
+			type="inclusive">October 2008</date>, updated in 
+		  <date normal="2012-01" era="ce" calendar="gregorian"
+			type="inclusive">January 2012.</date></creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Leo Smit Photograph
+		  Collection, 
+		  <unitdate encodinganalog="245$f" normal="1926/1999" type="inclusive"
+			datechar="creation" certainty="approximate"> circa 1926-1999
+			 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 6.3</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"
+			authfilenumber="676907">Smit, Leo, 1921-1999</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">5
+		  boxes</extent><extent unit="item" encodinganalog="300$a"> (458 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> No
+		  textual materials are included in the collection.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Chiefly black and
+		  white photographs documenting Leo Smit's life and career in music.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Leo Smit Photograph Collection, circa 1926-1999,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions.</p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>The collection was in part a gift from Leo Smit in 1998. The
+			 remainder of the collection was given to the Music Library by Nils Vigeland,
+			 executor of Smit's estate. </p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>Collection contents have been digitized in part and are available in
+			 
+			 <extref
+			  href="http://ubdigit.buffalo.edu/collections/lib/lib-mus/lib-mus002_Smit.php"
+			  actuate="onrequest" show="new">UBdigit.</extref></p> 
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Leo Smit was born to Russian immigrants on January 12, 1921, in
+		  Philadelphia. He received his earliest musical training from his father, Kolman
+		  Smit, beginning at age five. Kolman Smit was a professional violinist who
+		  performed in the Philadelphia Orchestra (1926-1931) under Leopold Stokowski,
+		  the Cincinnati Symphony under Fritz Reiner, and the NBC Symphony under Arturo
+		  Toscanini.</p> 
+		<p>After private piano studies with Martha Lantner, Joseph Wissof, and
+		  Bert Shefter, Smit traveled to Moscow with his mother in 1929 to study piano
+		  for three months with Dmitri Kabalevsky on scholarship at the Moscow
+		  Conservatory. Upon his return to Philadelphia, Smit received a scholarship in
+		  1930 to study piano at Curtis Institute of Music with noted piano pedagogue
+		  Isabelle Vengerova. He continued his studies on scholarship in New York,
+		  studying piano with José Iturbi (1933-35) and composition with Nicolas Nabokov
+		  (1935). It was under Nabokov's tutelage that Smit produced his first original
+		  composition in 1935, Zvay, a song setting of a Yiddish poem by Mani Loeb for
+		  soprano and piano. </p> 
+		<p>Smit began his professional career as a pianist while still in his
+		  teens. His first professional engagement was as rehearsal pianist for George
+		  Balanchine's American Ballet Company in 1936-37. A year after beginning in this
+		  position, Smit met Igor Stravinsky during rehearsals of the composer's ballet,
+		  Jeu de Cartes. Smit gave his debut recital as a solo pianist at Carnegie Hall
+		  in February 1939. His successful debut was followed by a concert tour of the
+		  United States in 1940. </p> 
+		<p>Leo Smit's career as composer, pianist, conductor, and educator
+		  spanned seven decades of musical life in the United States. He established
+		  close working relationships, and/or friendships, with many of the most
+		  prominent musicians of the 20th century, including Igor Stravinsky, Béla
+		  Bartók, Aaron Copland, Leonard Bernstein, Harold Shapero, William Schuman, Alex
+		  Haieff, Leopold Stokowski, and Lukas Foss. As a performer, Smit was an
+		  enthusiastic and persuasive advocate and interpreter of the music of his time,
+		  especially the solo piano music of Aaron Copland. His compositional output
+		  totals more than one hundred works, including two operas, three symphonies,
+		  more than ninety songs, two ballets, and numerous chamber and piano works. </p>
+		
+		<p>Smit was also a talented photographer. In addition to the many
+		  photographs he took of noted musicians, Smit also used his skill as a
+		  photographer to capture images from his travels. Many of his travel pictures
+		  reflect his reverence for nature. As part of his innovative approach to
+		  programming, Smit would often include displays of his photography in his
+		  theme-based concerts. </p> 
+		<p>During his career Leo Smit earned several awards and honors, including
+		  Fulbright (piano) and Guggenheim (composition) Fellowships in 1950, a
+		  fellowship at the American Academy in Rome for 1950-51, the Boston Symphony
+		  Merit Award in 1953 for his Symphony No. 1 (premiered October 16, 1953 by the
+		  Boston Symphony Orchestra, conducted by Charles Munch), the New York Critics
+		  Circle Award in 1957 (also for his Symphony No. 1), his selection as an artist
+		  for a State Department concert tour of Latin America in 1967-68, and the
+		  Buffalo Evening News Man of the Year award in 1969. As an educator, Smit held
+		  positions at Sarah Lawrence College (1947-49), UCLA (1957-63), and the State
+		  University of New York at Buffalo (1962-84). </p> 
+		<p>Leo Smit died December 12, 1999 in Scripps Hospital, Encinitas,
+		  California. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The Leo Smit Photograph Collection consists of a mixture of
+		  photographs documenting Smit's life. These include images of Smit as a child
+		  and young man, photographs with friends and colleagues, including Aaron
+		  Copland, Pete Johnson, Leonard Bernstein, and Sir Fred Hoyle, photographs
+		  documenting Smit's tour of Latin America 1967-1968, portraits of Smit, and
+		  images of scenes from Smit's chamber opera, Magic Water. The collection also
+		  includes several photographs by Leo Smit. These include images of Leonard
+		  Bernstein, William Schuman, members of the University at Buffalo Music
+		  Department (including Morton Feldman), and members of the Buffalo Sabres hockey
+		  team, as well as photographs of Smit's collection of Kachina dolls. Portraits
+		  by other photographers include those of Aaron Copland, Pete Johnson, and Smit's
+		  father, Kolman Smit. There is also a single postcard portrait of composer Peter
+		  Ilyich Tchaikovsky and a single reproduction of a photograph of Franz Liszt.
+		  Some items in the collection have been dated according to date stamps on the
+		  image verso. These are most likely more reflective of when a print was made
+		  rather than when it was shot.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p> The collection is arranged in nine series:</p> 
+		<list> 
+		  <item> 
+			 <ref target="series1" actuate="onrequest" show="replace"
+			 role="text/html">I. Photographs of Leo Smit, with and without other people.
+				Arranged in approximate chronological order.</ref></item> 
+		  <item> 
+			 <ref target="series2" show="replace" actuate="onrequest"
+			 role="text/html">II. Photographs of people and places without Leo Smit.
+				Arranged alphabetically by name of subject.</ref></item> 
+		  <item> 
+			 <ref target="series3" actuate="onrequest" show="replace">III.
+				Photographs by Leo Smit of a 1976 hockey game between the Buffalo Sabres and
+				the New York Rangers.</ref></item> 
+		  <item> 
+			 <ref target="series4" show="replace" actuate="onrequest"
+			 role="text/html">IV. Photographs by Leo Smit of Istanbul, Turkey. </ref></item>
+		  
+		  <item> 
+			 <ref actuate="onrequest" role="text/html" show="replace"
+			 target="series5">V. Photographs of Leo Smit's collection of Kachina
+				dolls.</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" role="text/html" show="replace"
+			  target="series6">VI. Postcard portrait of Peter Ilyich
+				Tchaikovsky</ref>.</item> 
+		  <item> 
+			 <ref actuate="onrequest" role="text/html" show="replace"
+			  target="series7">VII. Photographs by Leo Smit of faculty members of the
+				University at Buffalo Music Department taken at a retreat April 9, 1975 at the
+				First Presbyterian Church, Buffalo, N.Y.</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" role="text/html" show="replace"
+			  target="series8">VIII. Negatives for photographs in the
+				collection.</ref></item> 
+		  <item> 
+			 <ref role="text/html" actuate="onrequest" show="replace"
+			  target="series9">IX. Oversized color portrait of Leo Smit </ref>(2
+			 copies).</item> 
+		  <item> 
+			 <ref role="text/html" actuate="onrequest" show="replace"
+			  target="series10">X. Additional photographs</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Photographs of Leo Smit, with and without other people 
+				<unitdate type="inclusive" normal="1943/1996">1926-1998</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 1-78</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in approximate chronological order.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit001</container> 
+				<unittitle>Leo Smit at 5 years old, 
+				  <unitdate type="inclusive">1926</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,234" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit002</container> 
+				<unittitle>Leo Smit at 9 years old, 
+				  <unitdate type="inclusive">1930</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,188" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Eisenburg,
+					 Maurice</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit003</container> 
+				<unittitle>Leo Smit at 15 years old, 
+				  <unitdate type="inclusive">1936</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,135" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Astor Studio (Astoria, Long
+					 Island)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit004</container> 
+				<unittitle>Leo Smit at age 17 years old, 
+				  <unitdate type="inclusive">1938</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,241" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Talbot (New York
+					 City)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit005</container> 
+				<unittitle>Leo Smit at age 17 years, 
+				  <unitdate type="inclusive">1938</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,207" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Talbot (New York
+					 City)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit006</container> 
+				<unittitle>Leo Smit at age 17 years, 
+				  <unitdate type="inclusive">1938</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,160" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Talbot (New York
+					 City)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit007</container> 
+				<unittitle>Leo Smit (center) with Igor Stravinsky, 
+				  <unitdate type="inclusive">1936</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,122" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Schaal, Eric</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit008</container> 
+				<unittitle>Leo Smit (left) with Igor Stravinsky, 
+				  <unitdate type="inclusive">1936</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,99" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Schaal, Eric</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit009</container> 
+				<unittitle>Leo Smit with Benny Goodman, 
+				  <unitdate type="inclusive">1950</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,216" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit010</container> 
+				<unittitle>Leo Smit at piano, 
+				  <unitdate type="inclusive">195-?</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,157" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit011</container> 
+				<unittitle>Leo Smit with Aaron Copland, 
+				  <unitdate type="inclusive">1958</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,187" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit012</container> 
+				<unittitle>Leo Smit's hands at piano keyboard, 
+				  <unitdate type="inclusive">ca. 1965</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,172" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smith, Gordon S</persname>
+				  </origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit013</container> 
+				<unittitle>Leo Smit with Pete Johnson, 
+				  <unitdate type="inclusive">1966?</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,103" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit014</container> 
+				<unittitle>Leo Smit (at piano) in recital at the National
+				  Conservatory of Music, Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,215" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit015</container> 
+				<unittitle>Leo Smit (at piano) at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,174" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit016</container> 
+				<unittitle>Leo Smit (at piano) at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,143" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit017</container> 
+				<unittitle>Leo Smit lecturing at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,109" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit018</container> 
+				<unittitle>Leo Smit with student at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,214" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit019</container> 
+				<unittitle>Leo Smit with student at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,152" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit020</container> 
+				<unittitle>Leo Smit at piano at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,111" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit021</container> 
+				<unittitle>Leo Smit at piano at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,237" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit022</container> 
+				<unittitle>Leo Smit at piano at National Conservatory of Music,
+				  Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,209" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit023</container> 
+				<unittitle>Leo Smit with students at National Conservatory of
+				  Music, Santo Domingo, 
+				  <unitdate type="inclusive">March 8, 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,169" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit024</container> 
+				<unittitle>Leo Smit at piano, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,104" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit025</container> 
+				<unittitle>Leo Smit reading a lecture at Asuncion Bi-National
+				  Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,190" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit026</container> 
+				<unittitle>Leo Smit at piano with students at Asuncion Bi-National
+				  Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,149" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit027</container> 
+				<unittitle>Leo Smit at piano at Asuncion Bi-National Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,101" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit028</container> 
+				<unittitle>Leo Smit at piano at Asuncion Bi-National Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,165" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit029</container> 
+				<unittitle>Leo Smit at piano before audience at Asuncion
+				  Bi-National Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,113" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit030</container> 
+				<unittitle>Leo Smit with Gladys Vallejo at Asuncion Bi-National
+				  Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,205" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit031</container> 
+				<unittitle>Leo Smit at piano at Asuncion Bi-National Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,123" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit032</container> 
+				<unittitle>Leo Smit with dignitaries at Asuncion Bi-National
+				  Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,217" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit033</container> 
+				<unittitle>Leo Smit with dignitaries at Asuncion Bi-National
+				  Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,154" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit034</container> 
+				<unittitle>Leo Smit with dignitaries at Asuncion Bi-National
+				  Center, 
+				  <unitdate type="inclusive">April 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,213" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto India (Asuncion,
+					 Paraguay)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit035</container> 
+				<unittitle>Leo Smit at piano, 
+				  <unitdate type="inclusive">1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,198" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">Foto Miguel
+					 (Brazil)</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit036</container> 
+				<unittitle>Six local musicians on 1967-68 Latin American tour, 
+				  <unitdate type="inclusive">1967-68</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,159" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit037</container> 
+				<unittitle>Leo Smit with Ambassador Clarence Boonstra at reception
+				  for Costa Rican writers and national arts prizewinners, 
+				  <unitdate type="inclusive">April 21, 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,108" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit038</container> 
+				<unittitle>Leo Smit with Ambassador Clarence Boonstra at reception
+				  for Costa Rican writers and national arts prizewinners, 
+				  <unitdate type="inclusive">April 21, 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,228" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit039</container> 
+				<unittitle>Leo Smit at piano before audience at National
+				  Conservatory, 
+				  <unitdate type="inclusive">April 25, 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,167" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit040</container> 
+				<unittitle>Leo Smit being greeted at La Paz airport, 
+				  <unitdate type="inclusive">March 25, 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,125" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit041</container> 
+				<unittitle>Leo Smit being greeted at La Paz airport, 
+				  <unitdate type="inclusive">March 25, 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,141" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit042</container> 
+				<unittitle>Leo Smit at La Paz airport, 
+				  <unitdate type="inclusive">March 25, 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,200" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit043</container> 
+				<unittitle>Proof sheet with three images of Leo Smit at piano, 
+				  <unitdate type="inclusive">ca. 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,201" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit044</container> 
+				<unittitle>Proof sheet with 27 images of Leo Smit alone at piano
+				  and 6 with students, 
+				  <unitdate type="inclusive">ca. 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,147" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 proof sheet</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit045</container> 
+				<unittitle>Leo Smit at piano, 
+				  <unitdate type="inclusive">1960's</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,146" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit046</container> 
+				<unittitle>Leo Smit at piano, 
+				  <unitdate type="inclusive">1960's</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,239" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit047</container> 
+				<unittitle>Leo Smit at piano, 
+				  <unitdate type="inclusive">1960's</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,178" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit048</container> 
+				<unittitle>Leo Smit portrait, 
+				  <unitdate type="inclusive">1960s</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,110" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit049</container> 
+				<unittitle>Leo Smit portrait, 
+				  <unitdate type="inclusive">1960's</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,192" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit050</container> 
+				<unittitle>Leo Smit performing his Piano Concerto with Buffalo
+				  Philharmonic, 
+				  <unitdate type="inclusive">Nov. 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,116" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Tuttle, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit051</container> 
+				<unittitle>Leo Smit performing his Piano Concerto with Buffalo
+				  Philharmonic, Lukas Foss conducting, 
+				  <unitdate type="inclusive">Nov. 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,197" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Tuttle, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit052</container> 
+				<unittitle>Leo Smit, after performing his Piano Concerto with
+				  Buffalo Philharmonic, Lukas Foss conducting, 
+				  <unitdate type="inclusive">Nov. 1968</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,126" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Tuttle, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit053</container> 
+				<unittitle>Leo Smit giving a lecture, 
+				  <unitdate type="inclusive">ca. 1970?</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,210" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <corpname role="creator">SUNY Buffalo Audio-Visual
+					 Center</corpname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit054</container> 
+				<unittitle>Leo Smit with Sir Fred Hoyle at premiere of Smit's
+				  Copernicus, 
+				  <unitdate type="inclusive">1973</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,139" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit055</container> 
+				<unittitle>Leo Smit with Sir Fred Hoyle at piano, 
+				  <unitdate type="inclusive">ca. 1970</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,224" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit057</container> 
+				<unittitle>Leo Smit portrait, 
+				  <unitdate type="inclusive">ca. 1970</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,155" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit058</container> 
+				<unittitle>Leo Smit at piano, 
+				  <unitdate type="inclusive">ca. 1970</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,95" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Ursillo,
+					 Catherine</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit059</container> 
+				<unittitle>University at Buffalo production of Leo Smit's chamber
+				  opera, Magic Water, 
+				  <unitdate type="inclusive">October 29-30,
+					 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,219" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Haupt, Irene</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit060</container> 
+				<unittitle>University at Buffalo production of Leo Smit's chamber
+				  opera, Magic Water, 
+				  <unitdate type="inclusive">October 29-30,
+					 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,181" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Haupt, Irene</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit061</container> 
+				<unittitle>University at Buffalo production of Leo Smit's chamber
+				  opera, Magic Water, 
+				  <unitdate type="inclusive">October 29-30,
+					 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,148" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Haupt, Irene</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit062</container> 
+				<unittitle>Leo Smit conducting University at Buffalo production of
+				  his chamber opera, Magic Water, 
+				  <unitdate type="inclusive">October 29-30,
+					 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,134" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Haupt, Irene</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">smit063</container> 
+				<unittitle>Leo Smit conducting University at Buffalo production of
+				  his chamber opera, Magic Water, 
+				  <unitdate type="inclusive">October
+					 29-30,1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,97" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Haupt, Irene</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit064</container> 
+				<unittitle>Leo Smit portrait, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,195" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Houghton, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit065</container> 
+				<unittitle>Leo Smit portrait, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,120" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Houghton, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit066</container> 
+				<unittitle>Leo Smit portrait, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,206" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Houghton, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit067</container> 
+				<unittitle>Leo Smit portrait, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,131" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Houghton, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit068</container> 
+				<unittitle>Leo Smit portrait, in Rome?, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,225" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Kaish, Luize
+					 (?)</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit069</container> 
+				<unittitle>Leo Smit portrait, in Rome?, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,166" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Kaish, Luize
+					 (?)</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit070</container> 
+				<unittitle>Leo Smit portrait, in Rome?, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,119" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Kaish, Luize
+					 (?)</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit071</container> 
+				<unittitle>Leo Smit portrait, in Rome?, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,222" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Kaish, Luize
+					 (?)</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit072</container> 
+				<unittitle>Leo Smit with Aaron Copland in Copland's studio, 
+				  <unitdate type="inclusive">1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,179" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Houghton, Jim</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit073</container> 
+				<unittitle>Leo Smit with Aaron Copland and Leonard Bernstein
+				  backstage at Kennedy Center, Copland 80th birthday concert, 
+				  <unitdate type="inclusive">November 14,
+					 1980</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,138" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit074</container> 
+				<unittitle>Leo Smit, Rosalynn Carter, Aaron Copland, President
+				  Jimmy Carter, Leonard Bernstein, and Mstislav Rostropovich - Copland 80th
+				  birthday concert, 
+				  <unitdate type="inclusive">November 14,
+					 1980</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,202" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit075</container> 
+				<unittitle>Leo Smit with Aaron Copland at Copland 80th birthday
+				  concert, 
+				  <unitdate type="inclusive">November 16,
+					 1980</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,183" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit076</container> 
+				<unittitle>Leo Smit self portrait, 
+				  <unitdate type="inclusive">circa 1967</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,106" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit077</container> 
+				<unittitle>Leo Smit in chair, 
+				  <unitdate type="inclusive">1980</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,189" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit078</container> 
+				<unittitle>Leo Smit, 
+				  <unitdate type="inclusive">circa 1998</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,145" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Photographs of people and places without Leo Smit 
+				<unitdate type="inclusive" normal="1936/1977"
+				 certainty="approximate" datechar="creation">circa 1936-1977</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 79-91</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by name of subject.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit079</container> 
+				<unittitle>Leonard Bernstein conducting at the Vatican, 
+				  <unitdate type="inclusive">1973</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,96" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit080</container> 
+				<unittitle>Frederick Burgomaster, conductor, organist, 
+				  <unitdate type="inclusive">Jan. 10, 1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,204" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit081</container> 
+				<unittitle>Aaron Copland conducting, 
+				  <unitdate type="inclusive">1968?</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,142" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit082</container> 
+				<unittitle>Martha Herr Hanneman, soprano, 
+				  <unitdate type="inclusive">Jan. 10, 1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,235" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit083</container> 
+				<unittitle>Pete Johnson signing autographs, 
+				  <unitdate type="inclusive">1966?</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,171" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">SUNY Buffalo Audio-Visual
+					 Center</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit084</container> 
+				<unittitle>Pete Johnson portrait, 
+				  <unitdate type="inclusive">1966?</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,100" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit085</container> 
+				<unittitle>Pete Johnson portrait with inscription, 
+				  <unitdate type="inclusive">1966</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,194" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit086</container> 
+				<unittitle>Carol Plantamura, soprano, 
+				  <unitdate type="inclusive">Jan. 10, 1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,127" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit087</container> 
+				<unittitle>Heinz Rehfuss, baritone, 
+				  <unitdate type="inclusive">Jan. 10, 1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,221" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit088</container> 
+				<unittitle>Suze Leal Rehfuss, mezzo-soprano, 
+				  <unitdate type="inclusive">Jan. 10, 1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,161" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit089</container> 
+				<unittitle>William Schuman, 
+				  <unitdate type="inclusive">1960s?</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,94" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit090</container> 
+				<unittitle>Kolman Smit (Leo Smit's father), violin, with Leo Smit
+				  in background, 
+				  <unitdate type="inclusive">ca. 1936-1938</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,199" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit091</container> 
+				<unittitle>Henrik Svitzer, flutist, 
+				  <unitdate type="inclusive">Jan. 10, 1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,136" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Photographs by Leo Smit of 1976 hockey game between the
+				Buffalo Sabres and New York Rangers 
+				<unitdate type="inclusive" normal="1976"
+				datechar="creation">1976</unitdate> </unittitle> 
+			 <physdesc><extent>Items 92-99</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Randomly arranged.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit092</container> 
+				<unittitle>Buffalo Sabres player Gilbert Perreault on bench, 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,230" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit093</container> 
+				<unittitle>Buffalo Sabres player Don Luce (no. 20), 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,182" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit094</container> 
+				<unittitle>Buffalo Sabres player Rick Martin, with no. 22 Jocelyn
+				  Guevremont in background, 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,115" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit095</container> 
+				<unittitle>Proof sheet of 20 images of Buffalo Sabres/New York
+				  Rangers game, 1976, 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,158" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit096</container> 
+				<unittitle>Faceoff with Rangers no. 77 Phil Esposito, Danny Gare
+				  (18), Jerry Korab (4), Terry Martin (25), Jim Schoenfeld (6), 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,163" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit097</container> 
+				<unittitle>Buffalo Sabres shot on Rangers goalie, 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,130" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit098</container> 
+				<unittitle>Male and female couple at Buffalo Sabres game, 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,238" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit099</container> 
+				<unittitle>Buffalo Sabres player Jerry Korab on ice, 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,173" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Photographs by Leo Smit of Istanbul, Turkey 
+				<unitdate type="inclusive" normal="1979" certainty="approximate"
+				datechar="creation">circa 1979</unitdate> </unittitle> 
+			 <physdesc><extent>Items 100-102</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Randomly arranged.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit100</container> 
+				<unittitle>Topkapi Sarayi Muzesi, Istanbul, Turkey, interior view, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,117" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit101</container> 
+				<unittitle>Blue Mosque, Istanbul, Turkey, interior view, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,223" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit102</container> 
+				<unittitle>Minaret, Istanbul, Turkey, 
+				  <unitdate type="inclusive">circa 1979</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,151" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Photographs of Leo Smit's collection of Kachina dolls 
+				<unitdate type="inclusive" normal="1980/1989"
+				 certainty="approximate" datechar="creation">circa 1980-1989</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 103-115</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Randomly arranged.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit103</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,240" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit104</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,180" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit105</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,114" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit106</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,208" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit107</container> 
+				<unittitle>Kachina doll, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,140" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit108</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,232" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit109</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,168" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit110</container> 
+				<unittitle>Kachina doll, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,107" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit111</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,196" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit112</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,156" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit113</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,105" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit114</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,220" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit115</container> 
+				<unittitle>Kachina dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,186" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Portrait postcard of Peter Ilyich Tchaikovsky 
+				<unitdate type="inclusive" normal="1890" certainty="approximate"
+				 datechar="creation">circa 1890</unitdate> </unittitle> 
+			 <physdesc><extent>Item 116</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit116</container> 
+				<unittitle>Portrait postcard of Peter Ilyich Tchaikovsky, 
+				  <unitdate type="inclusive">circa 1890</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,133" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII.</unitid> 
+			 <unittitle>Photographs by Leo Smit of faculty members of the
+				University at Buffalo music department taken at a retreat held at the First
+				Presbyterian Church, Buffalo, N.Y. 
+				<unitdate type="inclusive" normal="1975-04-09"
+				 datechar="creation">April 9 1975</unitdate> </unittitle> 
+			 <physdesc><extent>Items 117-146</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Randomly arranged.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit117</container> 
+				<unittitle>Unidentified person, 
+				  <unitdate type="inclusive">April 19, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,229" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit118</container> 
+				<unittitle>Sylvia Dimiziani, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,175" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit119</container> 
+				<unittitle>Unidentified person and Stephen Manes, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,121" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit120</container> 
+				<unittitle>Morton Feldman, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,212" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit121</container> 
+				<unittitle>Morton Feldman, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,153" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit122</container> 
+				<unittitle>David Kuen, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,98" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit123</container> 
+				<unittitle>Morton Feldman and Edmund Strainchamps, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,184" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit124</container> 
+				<unittitle>Unidentified person, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,128" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit125</container> 
+				<unittitle>Unidentified person and Muriel Wolf, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,231" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit126</container> 
+				<unittitle>Livingston Gearhart, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,191" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit127</container> 
+				<unittitle>Edmund Strainchamps, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,144" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit128</container> 
+				<unittitle>Edmund Strainchamps, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,226" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit129</container> 
+				<unittitle>Harriet Simons, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,162" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit130</container> 
+				<unittitle>Allen Sigel, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,112" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit131</container> 
+				<unittitle>Ed Gordon, Frina Boldt, and James McKinnon, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,218" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit132</container> 
+				<unittitle>William Thomson and Ted Mayer, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,170" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit133</container> 
+				<unittitle>Carlo Pinto, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,118" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit134</container> 
+				<unittitle>Unidentified person, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,211" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit135</container> 
+				<unittitle>Robert Mols, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,137" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit136</container> 
+				<unittitle>James McKinnon and Lejaren Hiller, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,236" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit137</container> 
+				<unittitle>Heinz Rehfuss, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,185" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit138</container> 
+				<unittitle>Charlotte Roederer, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,124" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit139</container> 
+				<unittitle>Heinz Rehfuss, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,227" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit140</container> 
+				<unittitle>Muriel Wolf and Sylvia Dimiziani, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,176" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit141</container> 
+				<unittitle>Unidentified male and Charlotte Roederer, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,129" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit142</container> 
+				<unittitle>Frina Boldt, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,233" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit143</container> 
+				<unittitle>Robert Mols, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,177" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit144</container> 
+				<unittitle>David Fuller?, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,102" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit145</container> 
+				<unittitle>Robert Mols, Harriet Simons, Sylvia Dimiziani, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,203" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit146</container> 
+				<unittitle>Unidentified person, 
+				  <unitdate type="inclusive">April 9, 1975</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,150" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series8">VIII.</unitid> 
+			 <unittitle>Negatives for photographs in the collection 
+				<unitdate type="inclusive" normal="1926/1989"
+				 certainty="approximate" datechar="creation">circa 1926-1989</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 147-149</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Randomly arranged.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit147</container> 
+				<unittitle>Negatives for photographs of Buffalo Sabres game, 
+				  <unitdate type="inclusive">1976</unitdate></unittitle> 
+				<physdesc><extent>8 negatives</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit148</container> 
+				<unittitle>16 negatives of photographs from the Leo Smit estate,
+				  all printed for this collection, 
+				  <unitdate type="inclusive">1926-1999</unitdate></unittitle> 
+				<physdesc><extent>16 negatives</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">smit149</container> 
+				<unittitle>Color negatives for Leo Smit's photographs of Kachina
+				  dolls, 
+				  <unitdate type="inclusive">circa 1980-1989</unitdate></unittitle>
+				
+				<physdesc><extent>13 negatives</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Smit, Leo,
+					 1921-1999</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series9">IX.</unitid> 
+			 <unittitle>Oversize color portrait of Leo Smit (3 copies), 
+				<unitdate type="inclusive" normal="1977"
+				datechar="creation">1977</unitdate> </unittitle> 
+			 <physdesc><extent>Items 150-152</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">smit150</container> 
+				<unittitle>Leo Smit color portrait, 
+				  <unitdate type="inclusive">1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,164" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">smit151</container> 
+				<unittitle>Leo Smit color portrait, 
+				  <unitdate type="inclusive">1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,193" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">smit152</container> 
+				<unittitle>Leo Smit color portrait, 
+				  <unitdate type="inclusive">1977</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="http://ubdigit.buffalo.edu/u?/LIB-MUS002,132" actuate="onrequest"
+				show="new"/> 
+				<physdesc><extent>1 photograph</extent></physdesc> 
+				<origination label="Photographer"> 
+				  <persname role="creator">Unidentified</persname></origination> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series10">X.</unitid> 
+			 <unittitle>Additional photographs, 
+				<unitdate type="inclusive" normal="1950/1979">circa
+				  1950-1979</unitdate> </unittitle> 
+			 <physdesc><extent>Boxes 4-5 (306 items)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in two subseries: 
+				<list> 
+				  <item> 
+					 <ref show="replace" actuate="onrequest"
+					 role="text/html" target="series10a">A. People</ref></item> 
+				  <item> 
+					 <ref actuate="onrequest" role="text/html"
+					 show="replace" target="series10b">B. Places</ref></item> 
+				</list></p> 
+		  </arrangement> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series10a">A.</unitid> 
+				<unittitle>People, 
+				  <unitdate type="inclusive" normal="1950/1979">circa
+					 1950-1979</unitdate> </unittitle> 
+				<physdesc><extent>Item 153-205</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged in approximate topical order.</p> 
+			 </arrangement> 
+			 <c03> 
+				<did> 
+				  <container type="box">4</container> 
+				  <container type="item">smit153</container> 
+				  <unittitle>Leo Smit sitting in unidentified location, 
+					 <unitdate type="inclusive">March 1959</unitdate></unittitle> 
+				  <physdesc><extent>1 photograph</extent></physdesc> 
+				  <origination label="Photographer"> 
+					 <persname role="creator">Unidentified</persname></origination> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series10b">B.</unitid> 
+				<unittitle>Places, 
+				  <unitdate type="inclusive" normal="1950/1979">circa
+					 1950-1979</unitdate> </unittitle> 
+				<physdesc><extent>Remainder of Box 4 and all Box 5 (154
+				  items)</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged in approximate topical order.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Locations in the remainder of Box 4 include Italy and Turkey.
+				  Locations in Box 5 include sites in the Pacific Northwest, Canyon de Chelly in
+				  Arizona, Yosemite National Park, Mount McKinley, images from a television
+				  screen of a lunar landing, Rio de Janiero, and the Pyramid of the Magician in
+				  Uxmal, Mexico.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh"
+			encodinganalog="650">Musicians--Photographs</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Smit, Leo, 1921-1999--Photographs</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="gmgpc">Photographs</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_1.xml"
+					  show="new" actuate="onrequest" role="text/html"> Leo Smit Score Collection,
+						circa 1940-1998</archref> Mus. Arc. 6.1 </label> 
+				  <item>The collection consists of 104 scores by Leo Smit,
+					 principally in copies of holographs. There are also another 43 items arranged
+					 or transcribed by Smit, inscribed to or by Smit, scores marked for performance
+					 by Smit, and miscellaneous scores.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_2.xml"
+					  show="new" actuate="onrequest" role="text/html">Leo Smit Papers,
+						1939-2000</archref>Mus. Arc. 6.2</label> 
+				  <item>A small collection of personal documents, writings by Smit,
+					 correspondence (chiefly photocopies of letters from Aaron Copland to Smit),
+					 clippings, programs, and lecture materials. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://library.buffalo.edu/libraries/units/music/exhibits/smit/"
+					  show="new" role="text/html" actuate="onrequest">Remembering Leo Smit
+						(1921-1999)</archref></label> 
+				  <item>An online exhibit commemorating the life and career of Leo
+					 Smit. It contains many images of Smit as well as photographs taken by him. A
+					 list of Smit's compositions, compiled by the composer, is also included.</item>
+				  
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_3.xml"
+					 show="new" actuate="onrequest" role="text/html">Leo Smit Slide Collection,
+						circa 1966-1991, </archref>Mus. Arc. 6.3</label> 
+				  <item>A collection of Collection contains approximately 13,705 35
+					 millimeter slides taken by Smit. The contents include images of notable
+					 musicians, images used in his lecture recitals, and images taken during his
+					 many journeys in the United States and abroad, including Central and South
+					 America, Italy, and various other European countries. </item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		  <relatedmaterial> 
+			 <head>Related Resources Outside the Music Library</head> 
+			 <list> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://www.nypl.org/research/manuscripts/music/mussmit.xml"
+					 role="text/html" show="new" actuate="onrequest">Guide to the Leo Smit Papers,
+						1905-1998</archref>JPB 00-42</label> 
+				  <item>Finding aid for the collection at the New York Public
+					 Library for the Performing Arts. Music Division. The Leo Smit collection
+					 contains scores, correspondence, and research materials.</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc> 
+</ead> 

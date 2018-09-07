@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 43::Pearl Radcliffe Lindal Papers)//EN">ubmu0043</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Pearl Radcliffe
+			 Lindal Papers, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1938/1947">1938-1947</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Lindal (Pearl
+			 Radcliffe) Papers </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2012</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley. </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Pearl Radcliffe Lindal
+		  Papers, 
+		  <unitdate encodinganalog="245$f" normal="1938/1947" type="inclusive"
+			datechar="creation">1938-1947</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 43</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Lindal,
+			 Pearl Radcliffe</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+		  boxes</extent> (<extent unit="folder" encodinganalog="300$a">73
+		  folders</extent>)</physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Collection consists of
+		  1 scrapbook of clippings about Pearl Radcliffe Lindal's career as a songwriter
+		  and eleven of her songs as published in collections. Material inserted into the
+		  scrapbook includes correspondence and additional prose writings by
+		  Lindal.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Pearl Radcliffe Lindal Papers, 1938-1947, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Ida Mae Hussey, 2008.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Gabrielle Carlo and John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Pearl Radcliffe Lindal was born April 22 1889 to Elizabeth Higson. She was a composer
+and music teacher in the Buffalo, New York area. She was elected to serve as pianist of the local 
+Waldensian Society probably around 1940. She began to write cowboy songs sometime in the 1930s
+and secured a contract from American Music Publishing for at least eight songs. She married
+ Lewis Lindal, an attorney in Buffalo. Presumably after his death she remarried, becoming 
+the wife of Richard R. Lennartz. She died November 25 1966 in Buffalo. The obituary in the 
+November 26 1966 <title render="italic">Buffalo News</title> noted that she had been a life
+member of the Osseo Chapter Number 386, Order of the Eastern Star. She was buried in the 
+Lancaster Rural Cemetery (Lancaster, New York).</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection as received consisted of a scrapbook of clippings and
+		  letters regarding Pearl Radcliffe Lindal's career as a songwriter. There were
+		  only seven leaves of the scrapbook with content attached to pages; the rest of
+		  the material was loosely inserted. The contents of the scrapbook were removed
+		  from the scrapbook after the original organization was photocopied. Contents
+		  were then organized into series as stated in the Arrangement section. The
+		  collection also includes eleven of Lindal's songs, ten of which are contained
+		  within published song collections.</p> 
+		<p>The writings in the collection are a mix of poems and short tales or
+		  aphorisms. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<list type="simple"> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				Writings</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				Correspondence</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				Programs and bulletins</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV.
+				Clippings</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series5">V. Scrapbook
+				copies</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series6">VI.
+				Songs</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Writings, 
+				<unitdate type="inclusive" normal="1938/1947">1938-1947</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 1-30</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by title.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">1</container> 
+				<unittitle> 
+				  <title type="book">Are you lonesome Mr. Moon</title>, 
+				  <unitdate type="inclusive" normal="1938-08-24">August 24
+					 1938</unitdate> </unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">2</container> 
+				<unittitle> 
+				  <title type="book">Children's day</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">3</container> 
+				<unittitle> 
+				  <title type="book">Come unto me</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">4</container> 
+				<unittitle> 
+				  <title type="book">Coronation</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">5</container> 
+				<unittitle> 
+				  <title type="book">Danny Cupid</title>, 
+				  <unitdate type="inclusive" normal="1947-02-18">February 18
+					 1947</unitdate> </unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>On verso: Lindal's 
+				  <title render="italic">Are you lonesome Mr. Moon</title></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">6</container> 
+				<unittitle> 
+				  <title type="book">A day in the woods</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>2 typescript leaves</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">7</container> 
+				<unittitle> 
+				  <title type="book">Dusty road</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">8</container> 
+				<unittitle> 
+				  <title type="book">An early morning walk</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">9</container> 
+				<unittitle> 
+				  <title type="book">Evening on the prairie</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">10</container> 
+				<unittitle> 
+				  <title type="book">The family picnic day</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">11</container> 
+				<unittitle> 
+				  <title type="book">Grieve not beloved (To a friend)</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">12</container> 
+				<unittitle> 
+				  <title type="book">Little white house</title>, 
+				  <unitdate type="inclusive" normal="1939-08-14">August 14
+					 1939</unitdate> </unittitle> 
+				<physdesc><extent>4 typescript leaves</extent></physdesc> 
+				<note> 
+				  <p>Four typed copies. Two copies are dated; one copy has pencil
+					 manuscript verses on verso.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">13</container> 
+				<unittitle> 
+				  <title type="book">Making use of odd moments</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">14</container> 
+				<unittitle> 
+				  <title type="book">The master's hand</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">15</container> 
+				<unittitle> 
+				  <title type="book">My dog</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">16</container> 
+				<unittitle> 
+				  <title type="book">My dream</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">17</container> 
+				<unittitle> 
+				  <title type="book">My part time gardener</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">18</container> 
+				<unittitle> 
+				  <title type="book">My song to you</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">19</container> 
+				<unittitle> 
+				  <title type="book">An old lady</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">20</container> 
+				<unittitle> 
+				  <title type="book">People I like</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">21</container> 
+				<unittitle> 
+				  <title type="book">People who win</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">22</container> 
+				<unittitle> 
+				  <title type="book">Presto</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">23</container> 
+				<unittitle> 
+				  <title type="book">Resting</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">24</container> 
+				<unittitle> 
+				  <title type="book">Should children be reasoned with or
+					 spanked</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">25</container> 
+				<unittitle> 
+				  <title type="book">Spring sonnet</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">26</container> 
+				<unittitle> 
+				  <title type="book">Things I love</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">27</container> 
+				<unittitle> 
+				  <title type="book">The traveling ant</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">28</container> 
+				<unittitle> 
+				  <title type="book">Wanted... A song, a lovely song</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">29</container> 
+				<unittitle> 
+				  <title type="book">Where the stars peek-a-boo</title>, 
+				  <unitdate type="inclusive" normal="1939-05-22">May 22
+					 1939</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">30</container> 
+				<unittitle> 
+				  <title type="book">Where Western skies are shining</title>, 
+				  <unitdate type="inclusive">June 7 1939</unitdate> </unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1939/1941">1939-1941</unitdate></unittitle> 
+			 <physdesc><extent>Folder 31-47</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Folders arranged in alphabetical order by correspondent. Some
+				folders include responses from Lindal.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">31</container> 
+				<unittitle> 
+				  <persname>Bossard, Belle R.</persname>: Correspondence to Pearl
+				  Lindal, 
+				  <unitdate type="inclusive" normal="1939-08-30">August 30
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 signed card</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">32</container> 
+				<unittitle> 
+				  <persname>Bingel, Mrs. D.</persname>: Correspondence to Pearl
+				  Lindal, 
+				  <unitdate type="inclusive" normal="1939-07-23">July 23
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 signed card</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">33</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Boyd, Bill, 1910-1977</persname>:
+				  Correspondence to Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1939-07-29">July 29
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1940-01-11">January 11
+					 1940</unitdate></unittitle> 
+				<physdesc><extent>2 signed typescript leaves</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letterhead: Bill Boyd and His Cowboy Ramblers. Also includes a
+				  flyer with complete list of recordings by Bill Boyd and His Cowboy
+				  Ramblers.</p> 
+			 </scopecontent> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">34</container> 
+				<unittitle> 
+				  <persname>Crummet, Evelyn</persname>: Correspondence to and from
+				  Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1939-07-23">July 23
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1939-07-26">July 26
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1939-09-04">September 4
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>2 typescript leaves from Crummet, 1 typescript
+				  leaf from Lindal</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">35</container> 
+				<unittitle> 
+				  <persname>Fitts, Ada M., 1869-</persname> : Correspondence to
+				  Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1939-08-16">August 16
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>2 manuscript leaves</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">36</container> 
+				<unittitle> 
+				  <corpname>Flower Grower</corpname>: Correspondence to Pearl
+				  Lindal, 
+				  <unitdate type="inclusive" normal="1941-02-12">February 12
+					 1941</unitdate></unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">37</container> 
+				<unittitle> 
+				  <persname>Green, John F. C. (Frederick Carl), b. 1892</persname>:
+				  Correspondence to Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1940-07-21">July 21
+					 1940</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>Letterhead: Evangelical Congregational Church, McKeesport,
+					 Pennsylvania.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">38</container> 
+				<unittitle> 
+				  <persname>Lenkow, Jennie M.</persname>: Correspondence to Pearl
+				  Lindal, 
+				  <unitdate type="inclusive" normal="1939-07-22">July 22
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>Letterhead: Lebanon Shrine No. 3, Buffalo, New York.</p> 
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">39</container> 
+				<unittitle> 
+				  <persname>McMichael, C. H. (Henry)</persname>: Correspondence to
+				  and from Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1939-07-20">July 20
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1939-07-22">July 22
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>2 typescript leaves</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">40</container> 
+				<unittitle> 
+				  <persname>Mitchell, Edna E.</persname> 
+				  <unitdate type="inclusive" normal="1939-07-21">July 21
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 business card with envelope</extent></physdesc>
+				
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">41</container> 
+				<unittitle> 
+				  <persname>Myers, Mary</persname>: Correspondence to and from
+				  Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1939-08-02">August 2
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1939-08-12">August 12
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf, 1 typescript
+				  leaf</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">42</container> 
+				<unittitle> 
+				  <persname>Nelson, Margaret</persname>: Correspondence to Pearl
+				  Lindal, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc>
+				<note> 
+				  <p>Letterhead: Avon House Publishers, New York.</p> 
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">43</container> 
+				<unittitle> 
+				  <persname>Reiman, Theodore F.</persname>: Correspondence to and
+				  from Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1939-07-20">July 20
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1939-07-22">July 22
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1939-08-15">August 15
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>2 typescript leaves from Reiman, 1 typescript
+				  leaf from Lindal</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">44</container> 
+				<unittitle> 
+				  <persname>Russell, Richard</persname>: Correspondence to and from
+				  Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1939-07-20">July 20
+					 1939</unitdate>, 
+				  <unitdate type="inclusive" normal="1939-07-22">July 22
+					 1939</unitdate> </unittitle> 
+				<physdesc><extent>2 typescript leaves</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">45</container> 
+				<unittitle> 
+				  <persname>S., A. W.</persname>: Mail to Pearl Lindal, 
+				  <unitdate type="inclusive" normal="1940-09-25">September 25
+					 1940</unitdate></unittitle> 
+				<physdesc><extent>1 printed folded leaf</extent></physdesc> 
+				<note> 
+				  <p>Flyer about painting of Charles M. Russell.</p> 
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">46</container> 
+				<unittitle> 
+				  <persname>Thomson, L. H.</persname>: Correspondence to Pearl
+				  Lindal, 
+				  <unitdate type="inclusive" normal="1940-08-06">August 6
+					 1940</unitdate></unittitle> 
+				<physdesc><extent>1 envelope</extent></physdesc> 
+				<note> 
+				  <p>Actual correspondence is missing, only the envelope
+					 remains.</p> 
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">47</container> 
+				<unittitle> 
+				  <persname>Wurtz, Olive U. S.</persname>: Correspondence to Pearl
+				  Lindal, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Programs and bulletins, 
+				<unitdate type="inclusive"
+				 normal="1939/1944">1939-1944</unitdate></unittitle> 
+			 <physdesc><extent>Folder 48-51</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Folders arranged in alphabetical order by organization.</p> 
+		  </arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">48</container> 
+				<unittitle> 
+				  <corpname>American Music Inc.</corpname>: Bulletin, 
+				  <unitdate type="inclusive" normal="1944-06">June
+					 1944</unitdate></unittitle> 
+				<physdesc><extent>3 typescript leaves</extent></physdesc> 
+				<note> 
+				  <p>Lindal songs are listed under two sections in the bulletin:
+					 Songs featured on the radio, and Cross section of Radio Logging.</p> 
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">49</container> 
+				<unittitle> 
+				  <corpname source="lcnaf">National League of American Pen Women.
+					 Western New York Branch</corpname>: Concert program featuring June Hards,
+				  violin, Kenneth Gill, tenor, and Walter Peek, piano, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">50</container> 
+				<unittitle> 
+				  <corpname>St. Stephen's Episcopal Church (Buffalo, New
+					 York)</corpname>: Concert program, 
+				  <unitdate type="inclusive" normal="1939-10-24">October 24
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">51</container> 
+				<unittitle> 
+				  <corpname>Zorah Berry Concert Management</corpname>: Flyer for
+				  concert season, 
+				  <unitdate type="inclusive"
+				  normal="1939/1940">1939-1940</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Clippings, 
+				<unitdate type="inclusive"
+				normal="1939/1940">1939-1940</unitdate></unittitle> 
+			 <physdesc><extent>Folder 52-61</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Folders arranged in chronological order. Undated items arranged
+				alphabetically by caption of article. Folders 60-61 are oversized and are
+				housed in Box 2.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">52</container> 
+				<unittitle> 
+				  <title type="article">Local woman author of several new
+					 songs</title> , 
+				  <unitdate type="inclusive" normal="1939-08-03">August 3
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: 
+				  <title render="italic">Walden-Bailey-Genesee News</title></p> 
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">53</container> 
+				<unittitle> 
+				  <title type="article">Altar Guild to hold silver tea</title> , 
+				  <unitdate type="inclusive" normal="1939-10">October
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 scrapbook leaf with 3 newspaper
+				  clippings</extent></physdesc> 
+				<note> 
+				  <p>Source: Unknown.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Three clippings: Song writer is 77 (about Carrie Jacobs Bond);
+				  Altar Guild to hold silver tea (refers to program in Folder 50); Guild holds
+				  musical.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">54</container> 
+				<unittitle> 
+				  <title type="article">Radio dispute brings arrest of Gene
+					 Buck</title> , 
+				  <unitdate type="inclusive" normal="1940-02-23">February 23
+					 1940</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: Unknown.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">55</container> 
+				<unittitle> 
+				  <title type="article">A little greenhouse for $94.61</title> , 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 printed pages</extent></physdesc> 
+				<note> 
+				  <p>Source: Unknown magazine, possibly 
+				  <title render="italic">Flower Grower</title>.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">56</container> 
+				<unittitle> 
+				  <title type="article">Buffalo woman writes cowboy songs though
+					 she never went West</title> , 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: Unknown.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">57</container> 
+				<unittitle> 
+				  <title type="article">Hold annual rally: Rev. Seymour traces
+					 Waldensian history</title> , 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: Unknown. Manuscript note indicates Pearl Lindal was
+					 elected pianist for the Waldensian Society at this meeting.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">58</container> 
+				<unittitle> 
+				  <title type="article">Popular songwriter sees
+					 opportunities</title> , 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: Unknown. Reprinted from article originally published
+					 in Portland Oregon News-Telegram November 25 1932.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Article about songwriter Sylvester Cross.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">59</container> 
+				<unittitle> 
+				  <title type="article">Stockton boyhood theme of song written by
+					 wife</title> , 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: Fredonia Censor.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">60</container> 
+				<unittitle> 
+				  <title type="article">Local woman writes cowboy songs and she's
+					 never seen a cowpuncher</title> , 
+				  <unitdate type="inclusive" normal="1939-07-20">July 20
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: 
+				  <title render="italic">Buffalo Evening News</title>. </p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Attached to scrapbook leaf with additional manuscript
+				  marginalia.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">61</container> 
+				<unittitle> 
+				  <title type="article">Full house enjoys musicale at St.
+					 Stephen's: Western songs composed by guild president on program</title> , 
+				  <unitdate type="inclusive" normal="1939-11-02">November 2
+					 1939</unitdate></unittitle> 
+				<physdesc><extent>1 printed leaf</extent></physdesc> 
+				<note> 
+				  <p>Source: 
+				  <title render="italic">Walden-Bailey-Genesee News</title></p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Attached to scrapbook leaf that also holds the concert program
+				  for the event.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Scrapbook copies, 
+				<unitdate type="inclusive"
+				normal="1939">1939</unitdate></unittitle> 
+			 <physdesc><extent>Folder 62</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Photocopied leaves (seven) in order as originally received in
+				scrapbook.</p> 
+		  </arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">62</container> 
+				<unittitle>Original scrapbook binder with photocopies of leaves as
+				  received, 
+				  <unitdate type="inclusive"
+				  normal="1939">1939</unitdate></unittitle> 
+				<physdesc><extent>7 photocopied leaves</extent></physdesc> 
+				<note> 
+				  <p>Does not include all the materials that had been loosely
+					 inserted into the scrapbook. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Songs, 
+				<unitdate type="inclusive"
+				normal="1938/1941">1938-1941</unitdate></unittitle> 
+			 <physdesc><extent>Folder 63-73</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Folders arranged in alphabetical order by title of Lindal song
+				within collection.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">63</container> 
+				<unittitle> 
+				  <title render="italic">Church out on the plain </title>, 
+				  <unitdate type="inclusive" normal="1939"
+				  datechar="creation">1939</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Pearl R. Lindal</persname>, 
+				  <persname>Ann Luger </persname>, and 
+				  <persname>J. L. Mitchell</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">"Dude" Martin's folio of original songs of the
+						  plains</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						 normal="1939">1939</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">64</container> 
+				<unittitle> 
+				  <title render="italic">He’s sleeping tonight by the trail
+					 </title>, 
+				  <unitdate type="inclusive" normal="1939"
+					datechar="creation">1939</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Carrie P. Kirby</persname>, 
+				  <persname>Pearl R. Lindal</persname>, and 
+				  <persname>Helen C. Olson</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Jerry Smith's folio of original home
+						  and range songs. No. 1.</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						normal="1939">1939</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">65</container> 
+				<unittitle> 
+				  <title render="italic">In old Virginia</title>, 
+				  <unitdate type="inclusive" normal="1941"
+				  datechar="creation">1941</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Ethyl Isabel De Planque</persname>, 
+				  <persname>Pearl R. Lindal</persname>, and 
+				  <persname>Florence L. Yarwood</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Home and hill country ballads. Folio
+						  no. 4</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						normal="1941">1941</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">66</container> 
+				<unittitle> 
+				  <title render="italic">Mammy's little honey chile</title>, 
+				  <unitdate type="inclusive" normal="1941"
+					datechar="creation">1941</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Modena Gage</persname>, 
+				  <persname>Pearl R. Lindal</persname>, and 
+				  <persname>Hulda M. McCollom</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Home and hill country ballads. Folio
+						  no. 6</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						 normal="1941">1941</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">67</container> 
+				<unittitle> 
+				  <title render="italic">My boyhood home</title>, 
+				  <unitdate type="inclusive" normal="1938"
+					datechar="creation">1938</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Pearl Radcliffe Lindal</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Album of new radio favorites,
+						  containing twenty beautiful new songs</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						 normal="1938">1938</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">68</container> 
+				<unittitle> 
+				  <title render="italic">Prairie lullaby</title>, 
+				  <unitdate type="inclusive" normal="1939"
+					datechar="creation">1939</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Pearl R. Lindal</persname>, 
+				  <persname>C. Henry Wilkerson </persname>, and 
+				  <persname>Bill Boyd</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Bill Boyd and his Cowboy Ramblers'
+						  folio of western songs, no. 1 : containing 20 original songs complete with
+						  words and music, guitar, ukulele and banjo chords</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						normal="1939">1939</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">69</container> 
+				<unittitle> 
+				  <title render="italic">Prairie rose</title>, 
+				  <unitdate type="inclusive" normal="1940"
+				  datechar="creation">1940</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Thomas J. Byrnes,</persname>, 
+				  <persname>Pearl R. Lindal</persname>, and 
+				  <persname>Joseph Dobbs</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Cowboy ballads : containing 20 new
+						  songs, complete with words &amp; music, guitar, ukulele &amp; banjo
+						  chords</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						normal="1940">1940</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">70</container> 
+				<unittitle> 
+				  <title render="italic">Sweet Ida mine </title>, 
+				  <unitdate type="inclusive" normal="1941"
+				  datechar="creation">1941</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>James Grant Alcorn</persname>, 
+				  <persname>Henry J. Sommers </persname>, and 
+				  <persname>Pearl Lindal</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Home and hill country ballads. Folio
+						  no. 5</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date type="inclusive"
+						normal="1941">1941</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">71</container> 
+				<unittitle> 
+				  <title render="italic">Swingtime symphony</title>, 
+				  <unitdate type="inclusive" normal="1939/1940"
+				  datechar="creation">undated</unitdate></unittitle> 
+				<origination>By 
+				  <persname>Pearl Radcliffe Lindal</persname></origination> 
+				<physdesc><extent>1 songsheet</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">72</container> 
+				<unittitle> 
+				  <title render="italic">Under the Western sky</title>, 
+				  <unitdate type="inclusive" normal="1939"
+				  datechar="creation">1939</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Pearl R. Lindal</persname> and
+				  <persname>Robert M. Burney </persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Golden West Cowboys' folio of songs of
+						  the golden West. No. 1.</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date normal="1939"
+						 type="inclusive">1939</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">73</container> 
+				<unittitle> 
+				  <title render="italic">When it's honeysuckle time in
+					 Caroline</title>, 
+				  <unitdate type="inclusive" normal="1941"
+				  datechar="creation">1941</unitdate></unittitle> 
+				<origination>Words and music by 
+				  <persname>Pearl R. Lindal</persname>, 
+				  <persname>Hulda M. McCollom </persname>, and 
+				  <persname>Gertrude I. MacLeod</persname></origination> 
+				<note> 
+				  <p>Published in 
+					 <bibref> 
+						<title render="italic">Heart ballads, folio no.
+						  8</title>. <imprint> 
+						<geogname>Portland, Ore.</geogname>: 
+						<publisher>American Music</publisher>, 
+						<date normal="1941"
+						type="inclusive">1941</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Cowboys--West (U.S.)--Songs and music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Songs, American</subject> 
+		  <subject source="lcsh" encodinganalog="650">Songs with piano</subject> 
+		  <subject source="lcsh" encodinganalog="650">Composers--New York (State)--Buffalo</subject> 
+		  <subject source="lcsh" encodinganalog="650">Women composers--New York (State)--Buffalo</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Songs (document genre)</genreform> 
+		  <genreform encodinganalog="655" source="aat">Scores</genreform> 
+		  <genreform encodinganalog="655" source="aat">Scrapbooks</genreform> 
+		  <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

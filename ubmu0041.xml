@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 41::Michael Sahl Score Collection)//EN">ubmu0041</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Michael Sahl
+			 Score Collection, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1953/2009"> 1953-2009</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Sahl (Michael)
+			 Score Collection</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by Jason
+			 Imbesi.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2010</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by Jason Imbesi.</creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Michael Sahl Collection
+		  of Manuscript Scores, 
+		  <unitdate encodinganalog="245$f" normal="1953/2009" type="inclusive"
+			datechar="creation"> 1953-2009</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 41</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Sahl,
+			 Michael, 1934- </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+		  boxes</extent>, <extent unit="item" encodinganalog="300$a">(43 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">No
+		  textual materials are included in the collection.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection
+		  contains 42 manuscript scores, many of them reproductions by photocopy or
+		  ozalid, and 3 compact discs containing mp3 audio files of 10 works.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Michael Sahl Score Collection,
+			 1953-2009, Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions.</p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Michael Sahl, 2009.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>Further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Jason Imbesi.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Michael Sahl was born on September 2, 1934 in Boston. In 1942, after
+		  his family moved to New York, he commenced his formal musical training. In
+		  1947, he began studying with Israel Citkowitz and has cited the composer and
+		  critic as particularly instrumental in endowing him with a love for American
+		  popular music. As a result, Sahl's increased involvement with and interest in
+		  folk, blues, jazz and American popular vocal standards influenced much of his
+		  compositional output. He later studied at Amherst College and Princeton
+		  University, where his teachers included Roger Sessions and Milton Babbitt. He
+		  also worked with Lukas Foss, Luigi Dallapiccola and Aaron Copland.</p>
+		<p>Sahl's academic training at Princeton centered on 12-note and serial
+		  techniques. In 1957-58, he received a Fulbright Fellowship in Europe and spent
+		  the following few years overseas attempting to compose in a Modernist style,
+		  but eventually realized that his inclination to write tonal melodies was too
+		  strong to ignore. In 1963, Sahl returned to the USA and became active in
+		  folk-rock music circles. After serving as a Creative Associate at the State
+		  University of New York at Buffalo in 1965, he became the pianist and music
+		  director for Judy Collins. Following his departure from Collins in 1969, Sahl
+		  made his reputation as a composer of operas, musical shows, and instrumental
+		  works, several of which are written in a musical style dominated by the
+		  hybridization of Romanticism, jazz and rock. He became acclaimed as one of the
+		  earliest composers to write in a genre-blending style that successfully managed
+		  to straddle the boundaries between classical "new music," pop, rock, jazz, and
+		  musical theater.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains 42 manuscript scores, many of them reproductions by photocopy or
+		  ozalid, and 3 compact discs containing mp3 audio files of 10 works.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in two series:</p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				Scores</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II. Audio
+				files</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Scores, 
+				<unitdate type="inclusive" normal="1953/2009"
+				 datechar="creation">1953-2009 </unitdate> </unittitle> 
+			 <physdesc><extent>Item 1-42</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in alphabetical order by uniform title.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">01</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">An anarchist dream : for 2 keyboards /
+					 M. Sahl.</title> 
+				  <unitdate>[2002] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (16 p.) ; 44 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For one electric and one acoustic
+				  keyboard. Caption title.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">02</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Baby music</title> 
+				  <title type="transcribed">Baby music '07 / Sahl.</title> 
+				  <unitdate>2007. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (11 p.) ; 43 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For soprano saxophone, tenor saxophone,
+				  trumpet, bass trombone, drum set, guitar, piano, violin, violoncello and double
+				  bass. Caption title. Includes a duplicate of p. 1 with p. 3 on verso. At end:
+				  ½0/07.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">03</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Blood ferry lecture / music, Michael
+					 Sahl ; text, Margaret Yard.</title> 
+				  <unitdate>1992. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([18] p.) ; 43 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For high voice (spoken and sung) and
+				  piano. English words; also printed as typescript text and containing cross-outs
+				  and emendations by the composer preceding score. Includes photocopy of
+				  typescript text (8 leaves). Contains minor revisions by composer in blue ink.
+				  At end: Sketch 7/16/92.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">04</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Blues for Margaret : for solo piano /
+					 Michael Sahl.</title> 
+				  <unitdate>1991. </unitdate> </unittitle> 
+				<physdesc><extent>7 p. of ms. music ; 43 cm.</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>2 photocopies of holograph; 2nd copy missing caption. At end:
+				  10/24/91.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">05</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Cloud city : string quartet / Michael
+					 Sahl.</title> 
+				  <unitdate>c2006. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (15, 11, 16 leaves) ; 22 x 28
+				  cm.</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Computer-generated holograph. Caption title.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">06</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Cloud city walk / Sahl.</title> 
+				  <unitdate>c2004. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (50 p.) ; 28 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Computer-generated holograph. For electric violin, electric
+				  guitar, synthesizer and double bass. Cover title. "For the New York Art
+				  Ensemble"--Caption.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">07</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Concerto, violin, instrumental
+					 ensemble</title> 
+				  <title type="transcribed">Concerto for electric violin / Michael
+					 Sahl.</title> 
+				  <unitdate>2001. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (35 p.) ; 22 x 36 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For solo electric violin, soprano
+				  saxophone, tenor saxophone, trumpet, bass trombone, drum set, guitar, piano,
+				  electric viola, electric violoncello and double bass. Caption title. "(gypsy
+				  music)"--Caption, in composer's hand in pencil. "For Mary Rowell"--Caption. At
+				  end: 11/8/99, revised ½8/01.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">08</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Dancing in the landscapes / Michael
+					 Sahl.</title> 
+				  <unitdate>[1993] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (11 p.) ; 28 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Computer-generated holograph. For string quartet. Caption title.
+				  Date from composer's Web site. "For the Sirius String Quartet"--Caption.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">09</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Doina / Michael Sahl.</title> 
+				  <unitdate>1979. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (36 p.) ; 22 x 36 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For violin, percussion, piano and double
+				  bass. Caption title. At end: April 11th, 1979 223 E. 5th Street. Contains minor
+				  revisions and other markings by the composer in pencil and ink.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">10</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Dumb, mixed solo voices</title> 
+				  <title type="transcribed">Dumb / [music by] Michael Sahl ; [text
+					 by] Margaret Yard.</title> 
+				  <unitdate>2002. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (5 p.) ; 28 cm.</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Computer-generated holograph. For 2 sopranos, mezzo-soprano, 2
+				  contraltos and tenor, unaccompanied. English words. Caption title. At end:
+				  Michael Sahl 05/16/02 for Boudewijn Buckinx.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">11</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Dumb, sopranos (5), tenor</title> 
+				  <title type="transcribed">Dumb / [music by] Michael Sahl ; [text
+					 by] Margaret Yard.</title> 
+				  <unitdate>2002. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink). For 5 sopranos and tenor, unaccompanied.
+				  English words; also printed as typescript text following score. Title from
+				  holograph caption. "(Correction)"--Holograph caption, in composer's hand in
+				  pencil. Contains revisions in pencil and ink on a pasted insert and using white
+				  correction fluid applied directly to manuscript. At end of holograph: Michael
+				  Sahl 1/16/02 for Boudewijn Buckinx. Includes two photocopies of p. 1 and one
+				  complete photocopy (4 p.) of holograph. Includes ms. sketch in pencil (1
+				  leaf).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">12</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">The exiles' café / Michael
+					 Sahl.</title> 
+				  <unitdate>1984. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([44] p.) ; 44 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For clarinet, tenor saxophone, trumpet,
+				  percussion, piano, violin and double bass. Contains 88 leaves photocopied onto
+				  [44] p. "For the Allbright-Knox [i.e. Albright-Knox] Gallery"--Caption. At end:
+				  July 7th, 1984 223 E. 5th St. New York.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">13</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Exiles' café. Tango; arr.</title> 
+				  <title type="transcribed">Tango from "The exiles' café" / Michael
+					 Sahl.</title> 
+				  <unitdate>1984. </unitdate> </unittitle> 
+				<physdesc><extent>5 leaves of ms. music ; 22 x 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>2 photocopies of holograph. Orig. for clarinet, tenor saxophone,
+				  trumpet, percussion, piano, violin and double bass; arr. for piano solo.
+				  Caption title. At end: 11/6/84.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">14</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Fire song / Michael Sahl.</title> 
+				  <unitdate>1996. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (55 p.) ; 36 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For soprano saxophone, tenor saxophone,
+				  trumpet, bass trombone, drum set, guitar, piano, violin, violoncello, and
+				  double bass. Caption title. Contains 110 leaves photocopied onto 55 p. At end:
+				  6/19/96.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">15</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Grand sonata : for violin &amp; piano /
+					 Michael Sahl.</title> 
+				  <unitdate>1999. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (13 p.) ; 44 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. Caption title. Contains 26 leaves
+				  photocopied onto 13 p. "For Mary Rowell"--Caption.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">16</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Heartsplit tundra / [music by] Michael
+					 Sahl ; [text by] Margaret Yard.</title> 
+				  <unitdate>[2008] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For high voice and piano. English words.
+				  Caption title. Contains revisions by the composer using white correction fluid
+				  applied directly to manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">17</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Home / [music by] Michael Sahl ; [text
+					 by] Margaret Yard.</title> 
+				  <unitdate>[2008] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For high voice and piano. English words.
+				  Caption title. Contains revisions by the composer using white correction fluid
+				  applied directly to manuscript.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">18</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">In the woods / Michael Sahl.</title> 
+				  <unitdate>1984. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (34 p.) ; 22 x 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in pencil. For clarinet, piano, violin and double
+				  bass. Caption title. At end: Nov. 1, 1984 223 E 5 St NYC. Contains noticeable
+				  erasures and revisions by the composer in pencil.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">19</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Instrumental music. Selections</title> 
+				  <title type="transcribed">3 pieces for band / Michael
+					 Sahl.</title> 
+				  <unitdate>2007. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (15, 15, 11 p.) ; 36 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>2 photocopies of holograph. All works for soprano saxophone,
+				  tenor saxophone, trumpet, bass trombone, drum set, guitar, piano, violin,
+				  violoncello and double bass. Cover title. Although bound together with a
+				  collective title on the cover, these works are listed separately in the
+				  composer's own list of works. Contains 82 leaves photocopied onto 41 p.
+				  Contains minor emendations by the composer in pencil. At end: 8/25/07 (1st
+				  work); 9/7/07 (2nd work); 11/27/07 (3rd work). Old strollers -- In the dark --
+				  Apatrides.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">20.</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Jungles / Sahl.</title> 
+				  <unitdate>1990. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (40 p.) ; 36 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For electric violin, electric guitar,
+				  drum set, piano and double bass. Caption title. Contains 80 leaves photocopied
+				  onto 40 p. At end: Dec. 17, 1990; bottom of p. 3: 12/1/90; bottom of p. 24:
+				  ½9/90.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">21</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Katrina : voices of the lost / [music
+					 by] Michael Sahl ; [text by] Margaret Yard.</title> 
+				  <unitdate>2006. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score ([36] p.) ; 44 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. Cantata for SATBar, percussion, piano
+				  and synthesizer. English words. Caption title. Contains 70 leaves photocopied
+				  onto [36] p. At end: 04/13/06. Contains revisions and other markings by the
+				  composer in pencil.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">22</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Lord of my love / Michael Sahl ; [text
+					 by] Wm. Shakespeare.</title> 
+				  <unitdate>1956. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (2 leaves) ; 36 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink on vellum. For high voice and piano. English
+				  words. Received with another song, That time of the year, in folder marked
+				  "Shakespeare songs". "Nov. 13, 1956"--Caption.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">23</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Millay songs / [music by] Michael Sahl
+					 ; [text by] Edna Millay.</title> 
+				  <unitdate>[1956] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (5 leaves) ; 36 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in pencil on vellum. For soprano and piano. English
+				  words. Title from enclosing manila folder. Thou art not lovelier than lilacs --
+				  I being born a woman and distressed.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">24</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Milltown gypsy ball; arr.</title> 
+				  <title type="transcribed">The milltown gypsy ball / Michael
+					 Sahl.</title> 
+				  <unitdate>1986. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (32 p.) ; 22 x 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. Orig. for violin solo and winds; arr.
+				  for two string quartets (1st violin of quartet A is solo violin), drum set and
+				  double bass. Caption title. "Commissioned by Mary Rowell and the Vermont Youth
+				  Orchestra"--Caption. "Arranged for String Fever"--Caption. At end: July 19,
+				  1986 Lake Eaton Campground New York. Contains minor emendations by the composer
+				  in pencil and ink.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">25</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">A mitzvah for the dead : concerto for
+					 violin + tape / [Michael Sahl].</title> 
+				  <unitdate>[1966] </unitdate> </unittitle> 
+				<physdesc><extent>11 p. of ms. music ; 33 cm.</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Reverse photoreproduction of holograph. Title from enclosing
+				  envelope. "Masters"--Enclosing envelope. Fourth movement entitled "Var's [i.e.
+				  variations] on Last Rose of Summer."</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">26</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Old strollers / [Michael Sahl].</title>
+				  
+				  <unitdate>2007. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (15 p.) ; 44 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For soprano saxophone, tenor saxophone,
+				  trumpet, bass trombone, drum set, guitar, piano, violin, violoncello and double
+				  bass. Caption title. Contains 30 leaves photocopied onto 15 p. At end:
+				  8/25/07.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">27</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Prothalamium / [music by] Michael Sahl
+					 ; [text by] Aaron Kramer.</title> 
+				  <unitdate>1953. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For baritone and piano. English words.
+				  Caption title.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">28</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Quartets, strings (1957)</title> 
+				  <title type="transcribed">String quartet 1957 / Michael
+					 Sahl.</title> 
+				  <unitdate>1957. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (61 p.) ; 33 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Ozalid copy of holograph. "To Mara"--T.p. At end: January 8,
+				  1957.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">29</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Quartets, strings (2000)</title> 
+				  <title type="transcribed">String quartet 2000 / Michael
+					 Sahl.</title> 
+				  <unitdate>2000. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (22 p.) ; 22 x 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. Caption title. At end: 5/23/00.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">30</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Screen song / [music by] Michael Sahl ;
+					 [text by] Margaret Yard.</title> 
+				  <unitdate>[2008] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (12 p.) ; 28 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For high voice and piano. English words.
+				  Caption title. Contains pencil markings by the composer.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">31</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Serenades, piano</title> 
+				  <title type="transcribed">Serenades for piano solo, 1994 /
+					 Sahl.</title> 
+				  <unitdate>1994. </unitdate> </unittitle> 
+				<physdesc><extent>19 p. of ms. music ; 44 cm.</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. At end: 7/1/94.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">32</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Sonatas, piano (1972)</title> 
+				  <title type="transcribed">Piano sonata / Michael Sahl.</title> 
+				  <unitdate>1972. </unitdate> </unittitle> 
+				<physdesc><extent>20 p. of ms. music ; 28 cm.</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. Caption title. Includes duplicate copy
+				  (20 p. photocopied onto [10] p. ; 22 x 28 cm.) of holograph. At end: November
+				  2, 1972, 82 E 3 St New York N.Y.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">33</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Songs (1957)</title> 
+				  <title type="transcribed">3 songs / Michael Sahl ; poems of
+					 Gerard Manley Hopkins.</title> 
+				  <unitdate>1957. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (17 leaves) ; 44 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of ms. For soprano and piano. English words. Cover
+				  title. "December, 1957"--Cover. The windhover -- Carrion comfort -- To R.B.</p>
+				
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">34</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Songs (1990)</title> 
+				  <title type="transcribed">Two songs / [music by] Michael Sahl ;
+					 [text by] Margaret Yard.</title> 
+				  <unitdate>[1990] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (18 p.) ; 28 x 44 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For high voice and piano. English words.
+				  Title from bottom of p. 1. Contains 36 leaves photocopied onto 18 p. The old
+				  ones -- Last day years end.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">35</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Songs (1990)</title> 
+				  <title type="transcribed">Two songs / [music by] Michael Sahl ;
+					 [text by] Margaret Yard.</title> 
+				  <unitdate>1990. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (9, 15 leaves) ; 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For high voice and piano. English words.
+				  Includes photocopy of typescript text ([3] leaves). Cover title.
+				  "Master"--Enclosing envelope. "2 songs revised"--Enclosing envelope. Contains
+				  revisions using a pasted insert and white correction fluid applied directly to
+				  manuscript. Os velhos = The old ones -- Last day year's end.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">36</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Storms / Michael Sahl.</title> 
+				  <unitdate>1985. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (55 p.) ; 28 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For saxophone quartet (soprano, alto,
+				  tenor and baritone) and string quartet. Caption title. "For the Amherst
+				  Saxophone Quartet, 1985"--Caption. At end: 6/13/85, 223 E 5 St NYC.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">37</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Strangers in the land of Beulah : based
+					 on the old hymn, written for Ma Prem Alimo / Michael Sahl.</title> 
+				  <unitdate>1982. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (14 p.) ; 28 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For high voice and piano. English words.
+				  Caption title. At end: ½9/82, 223 E. 5 St NYC.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">38</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Symphonies, instrumental ensemble</title> 
+				  <title type="transcribed">Symphony 1983 / Michael Sahl.</title> 
+				  <unitdate>1983. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (48 leaves) ; 28 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For clarinet, tenor saxophone,
+				  flugelhorn, bass trombone, electric guitar, drum set, piano, electric violin,
+				  and double bass. Caption title. At end: March 22, 1983, 223 E 5 St. NYC.
+				  "Symphony 1983 score 8 ½ x 11 submaster"--Enclosing envelope.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">39</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Symphonies (1988)</title> 
+				  <title type="transcribed">Symphony 1988 / Michael Sahl.</title> 
+				  <unitdate>1988. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (97 p.) ; 23 x 36 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. At end: 10/14/87, 223 E 5 St NY.
+				  Original title, Symphony 1987, visible in caption beneath label containing
+				  revised title.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">40</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">That time of year / Michael Sahl ;
+					 [text by] Wm. Shakespeare.</title> 
+				  <unitdate>1956. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (3 leaves) ; 36 cm.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph in ink on vellum. For high voice and piano. English
+				  words. Received with another song, Lord of my love, in folder marked
+				  "Shakespeare songs". "Nov. 11, 1956"--Caption.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">41</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">Volcano pie / Michael Sahl.</title> 
+				  <unitdate>2006. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (24 p.) ; 44 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For soprano saxophone, tenor saxophone,
+				  trumpet, bass trombone, electric guitar, drum set, piano, electric violin,
+				  electric violoncello and electric bass. Caption title. Contains 48 leaves
+				  photocopied onto 24 p. At end: 11/14/06.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">42</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="transcribed">A walk : for 2 keyboards / [Michael
+					 Sahl].</title> 
+				  <unitdate>[2000] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (12 p.) ; 41 cm.</extent> </physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Photocopy of holograph. For one electric and one acoustic
+				  keyboard. Contains crossouts and revisions in pencil.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Audio files, 
+				<unitdate type="inclusive" normal="2009"
+				datechar="creation">2009</unitdate> </unittitle> 
+			 <physdesc><extent>Item 43</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">43</container> 
+				<unittitle> 
+				  <persname role="composer">Sahl, Michael, 1934- </persname> 
+				  <title type="uniform">Selections</title> 
+				  <title type="transcribed">[Music by Michael Sahl].</title> 
+				  <unitdate>[2009] </unitdate> </unittitle> 
+				<physdesc><extent>3 sound discs : digital ; 4 3/4 in.</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>MP3 files. The 1st-5th, 10th works for instrumental ensemble;
+				  the 6th for piano, guitar, percussion, violin and double bass; the 7th for
+				  string quartet; the 8th for violin and piano; the 9th a cantata for SATBar,
+				  piano, percussion and synthesizer. The 9th work sung in English. Title supplied
+				  by cataloger. Text of the 9th work by Margaret Yard. Unknown performers.
+				  Recording dates and locations unknown. Compact discs. [Disc 1]. Fire song ;
+				  Baby music ; Old strollers ; In the dark ; Apatrides ; Jungles -- [Disc 2].
+				  Quartet 2000 ; Grand sonata for violin and piano -- [Disc 3]. Katrina : voices
+				  of the lost ; Volcano pie.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <persname source="lcnaf" encodinganalog="600" role="subject">Sahl, Michael, 1934- --Manuscripts</persname> 
+		  <subject source="lcsh"
+		  encodinganalog="650">Music--Manuscripts</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<otherfindaid encodinganalog="555"> 
+		  <head>Additional Guides</head> 
+		  <p>All scores in the collection are cataloged in WorldCat and are
+			 available in 
+			 <extref href="http://bison.buffalo.edu:8991/F" show="new"
+			 actuate="onrequest" role="text/html">BISON</extref>, the online catalog for the
+			 University at Buffalo Libraries, by performing a "Title begins with" search
+			 under "Michael Sahl Score Collection".</p> 
+		</otherfindaid> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

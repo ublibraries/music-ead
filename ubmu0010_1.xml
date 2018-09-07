@@ -1,0 +1,4499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 10.1::Jan Williams Collection of Annotated Scores)//EN">
+		ubmu0010_1</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Jan Williams
+			 Collection of Annotated Scores, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1950/1999">1950-1999</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Williams (Jan),
+			 Collection of Annotated Scores </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2009</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley. </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard ).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Jan Williams Collection
+		  of Annotated Scores 
+		  <unitdate encodinganalog="245$f" normal="1950/1999" type="inclusive"
+			datechar="creation"> 1950-1999</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 10.1</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator"
+			normal="Williams, Jan, 1939- " source="lcnaf">Williams, Jan, 1939- </persname>
+		  </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">15
+		  boxes</extent> <extent unit="item" encodinganalog="300$a">(219 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">Some
+		  collection material in <language encodinganalog="041"
+		  langcode="eng">English</language>.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Scores owned by
+		  percussionist and conductor, Jan Williams. The majority of the scores were
+		  marked by Williams for use in performance. Some scores bear inscriptions from
+		  composers to Williams. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Jan Williams Collection of Annotated Scores,
+			 1950-1999, Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Jan Willams, 1994.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Jan Gardner Williams was born July 17, 1939 in Utica, New York. He
+		  earned his Bachelor's and Master's Degrees in Music at Manhattan School of
+		  Music where he studied percussion with Paul Price and he was a member of the
+		  American Symphony Orchestra 1962-1964 under conductor Leopold Stokowski.
+		  Williams was selected as one of the first class of Creative Associates for the
+		  Center of the Creative and Performing Arts in 1964 at the University at
+		  Buffalo. He remained at the University at Buffalo where he created the
+		  University at Buffalo Percussion Ensemble in 1964, was appointed to the Music
+		  Faculty in 1967, served as Chair of the Music Department 1981-1984, and retired
+		  in 1996. He also served as artistic director of the Center of the Creative and
+		  Performing Arts 1974-1979 and as its resident conductor 1976-1980. He
+		  co-directed the North American New Music Festival with Yvar Mikhashoff
+		  1983-1991. </p> 
+		<p>Jan Williams has performed as solo percussionist with orchestras in
+		  Paris, Berlin, Israel, Detroit, New York, and Copenhagen. He has appeared as
+		  percussionist, conductor, and instructor throughout the United States and
+		  internationally. Composers who have written works for him include John Cage,
+		  Elliott Carter, Joel Chadabe, Luis De Pablo, Gustavo Matamoros, Frederic
+		  Rzewski, Iannis Xenakis, Morton Feldman, Orlando Garcia, Nils Vigeland, and
+		  Lukas Foss. His playing and conducting has been captured on at least three
+		  dozen commercial recordings and hundreds of archival recordings. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains two hundred sixteen music scores owned by
+		  percussionist and conductor Jan Williams. The majority of the scores, chiefly
+		  from the 1950s to 1990s, contain markings by Williams (and others) for
+		  performing the compositions. While some of the performance markings are
+		  negligible, others constitute full realizations of aleatoric compositions. In
+		  some cases only handwritten notes indicate how a composition was to be
+		  performed. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p> The collection is basically arranged in alphabetical order by
+		  composer name and then by title, with some exceptions.</p> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">1</container> 
+			 <unittitle> 
+				<persname role="composer">Albright, William</persname> 
+				<title type="transcribed">Tic : a spectacle for two groups of
+				  performers, soloist, films, and tape / William Albright.</title> 
+				<unitdate>[1967?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([1] leaf) + 6 ms. parts ; 36 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid reproduction). Cover title. For any combination
+				of the following: 2 pianos, 2 amplified guitars, 2 percussionists, 2 string
+				basses, and 2 voices. Graphic notation. Duration: 11:46. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">2</container> 
+			 <unittitle> 
+				<persname role="composer">Amy, Gilbert</persname> 
+				<title type="uniform">Inventions, instrumental ensemble</title> 
+				<title type="transcribed">[Inventions I-II / Gilbert Amy].</title> 
+				<unitdate>[1965?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (29, 13 leaves) ; 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Ms. (Ink on vellum). For flute, piano/celesta, harp, and
+				vibraphone/marimba. Lacking "Interludes pour harpe" to be played between
+				Inventions I and II; also lacking p.30-39 of the Heugel published score (1964).
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">3</container> 
+			 <unittitle> 
+				<persname role="composer">Austin, Larry</persname> 
+				<title type="uniform">Life pulse music</title> 
+				<title type="transcribed">Charles Ives' life pulse music : for
+				  percussion orchestra. / Larry Austin</title> <imprint>[S.l., </imprint> 
+				<unitdate>1984] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (90 p.) ; 37 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). "Realization drawn from Ives' sketches for
+				his Universe Symphony." Use of multi-track cue tape is strongly recommended by
+				the composer. At end: 2/2/84. Denton, TX. Marked for performance by
+				percussionist and conductor, Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">4</container> 
+			 <unittitle> 
+				<persname role="composer">Austin, Larry</persname> 
+				<title type="uniform">Life pulse prelude. Snare drum cycles</title>
+				
+				<title type="transcribed">Snare drum cycles : from the Life pulse
+				  prelude / Larry Austin</title> <imprint>Baltimore, : Smith Publications,
+				</imprint> 
+				<unitdate>c1987. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (4 p.) ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For solo snare drum. "Based on sketches and plans for percussion
+				orchestra music from a portion of Charles Ives's unfinished Universe Symphony."
+				Inscription on title page. from the composer to Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">5</container> 
+			 <unittitle> 
+				<persname role="composer">Bergamo, John</persname> 
+				<title type="uniform">Haiku</title> 
+				<title type="transcribed">Five Haiku : for young voices and chamber
+				  orchestra / by John Bergamo.</title> 
+				<unitdate>[1964] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (16 p.) ; 33 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For mixed voices (SATB), percussion (4
+				players), and piano. Instrumentation page indicates parts for Violins 1 and 2,
+				Flute, and Bb clarinet, but no parts for them identified in score. At end of
+				score: "Buffalo, November 10, 1964." Marked for performance by percussionist,
+				conductor Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">6</container> 
+			 <unittitle> 
+				<persname role="composer">Bergamo, John</persname> 
+				<title type="transcribed">Shradhanjali : percussion solo with
+				  percussion ensemble / by John Bergamo.</title> 
+				<unitdate>[1964] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([5] leaves) ; 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Score consists of written, prose
+				instructions. Includes extra copy of instructions. Marked for performance by
+				percussionist, conductor Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">7</container> 
+			 <unittitle> 
+				<persname role="composer">Bergamo, John</persname> 
+				<title type="transcribed">Tanka / John Bergamo.</title> 
+				<unitdate>1964. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (17 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Caption title. For solo percussion. At
+				end: March 5, 1964. Marked for performance by percussionist, Jan Williams. </p>
+			 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">8</container> 
+			 <unittitle> 
+				<persname role="composer">Berlioz, Hector, 1803-1869</persname> 
+				<title type="uniform">Symphonie fantastique. March to the scaffold;
+				  arr.</title> 
+				<title type="transcribed">March to the scaffold : from the
+				  "Fantastic symphony" / Hector Berlioz ; arranged for percussion ensemble by
+				  Harold Farberman</title> <imprint>New York, N.Y. : Cortelu Pub. Co., </imprint>
+				
+				<unitdate>1983. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (16 p.) + 10 parts ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Arranged for percussion ensemble by Harold Farberman Inscribed by
+				the arranger. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">9</container> 
+			 <unittitle> 
+				<persname role="composer">Bertoncini, Mario, 1932-</persname> 
+				<title type="transcribed">Tune : per x serie di 5 piatti sospesi /
+				  Mario Bertoncini.</title> 
+				<unitdate>1965. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (3 leaves) ; 33 x 46 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Caption title. "Rome, 15 ottobre
+				1965"--Caption. Marked for performance by percussionist, Jan Williams.
+				Performance instructions in Italian ([4] leaves) inserted. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">10</container> 
+			 <unittitle> 
+				<persname role="composer">Boone, Charles</persname> 
+				<title type="transcribed">Lightfall : [for] solo snare drum /
+				  Charles Boone.</title> 
+				<unitdate>1989. </unitdate> </unittitle> 
+			 <physdesc><extent>2 leaves of ms. music ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Photocopy). Score consists of typed,
+				numerical patterns. Performance instructions and personal note from composer to
+				percussionist, Jan Williams, inserted. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">11</container> 
+			 <unittitle> 
+				<persname role="composer">Boone, Charles</persname> 
+				<title type="transcribed">Watts towers : for solo drummer / Charles
+				  Boone.</title> 
+				<unitdate>[1959-1999] </unitdate> </unittitle> 
+			 <physdesc><extent>[6] ms. leaves of music ; 26 x 33 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Ms. (Photocopy). Caption title. For one percussionist playing "an
+				array of six drums: concert bongos, tomtoms, snares (snares off), floor
+				tomtoms, etc." Duration: 8:00. Leaves mounted on cardboard backing. Marked for
+				performance by percussionist, Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">12</container> 
+			 <unittitle> 
+				<persname role="composer">Boulez, Pierre, 1925-</persname> 
+				<title type="uniform">Pli selon pli. Improvisation sur Mallarmé,
+				  no. 1</title> 
+				<title type="transcribed">Improvisation sur Mallarmé : le vierge,
+				  le vivace et le bel aujourd'hui / Pierre Boulez</title> <imprint>[Wien :
+				Universal Edition, </imprint> 
+				<unitdate>c1958] </unitdate> </unittitle> 
+			 <physdesc><extent>2 scores (24 p. each) ; 24 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For soprano, harp, vibraphone, bells, and percussion (4 players).
+				Two photocopies of Universal Edition score (pl. no. U.E. 12855 LW) marked as
+				percussion parts, cut and pasted onto cardboard backings. Prepared by John
+				Bergamo. Acc. by personal note (3 ms. pages) from Bergamo to Jan Williams.
+				Duration: 06:00. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">13</container> 
+			 <unittitle> 
+				<persname role="composer">Brewaeys, Luc</persname> 
+				<title type="transcribed">Sig-mords : for solo percussion : opus 40
+				  / L. Brewaeys.</title> 
+				<unitdate>[1980?] </unitdate> </unittitle> 
+			 <physdesc><extent>11 ms. leaves of music ; 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). At end of score: 13-11-80. Inscription on
+				title page. from the composer. Marked for performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">14</container> 
+			 <unittitle> 
+				<persname role="composer">Brown, Earle, 1926-2002</persname> 
+				<title type="transcribed">Calder piece : for 4 percussionists and
+				  mobile / Earle Brown.</title> 
+				<unitdate>[1965-1966] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (7 leaves) ; 29 x 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Caption title. For 4 percussionists,
+				performed with mobile by Alexander Calder. Marked for performance by
+				percussionist, Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">15</container> 
+			 <unittitle> 
+				<persname role="composer">Brown, Earle, 1926-2002</persname> 
+				<title type="uniform">Folio, no. 2. Selections</title> 
+				<title type="transcribed">[Folio II / Earle Brown].</title> 
+				<unitdate>[1980-1994] </unitdate> </unittitle> 
+			 <physdesc><extent>[3] leaves of ms. music ; 21-35 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holographs (Photocopies). For indeterminate instrumentation.
+				Graphic notation. Marked for performance by percussionist Jan Williams.
+				Includes ms. note (1 leaf) by Eberhard Blum about performance of "for Ann" and
+				additional, unmarked photocopy of same work. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">16</container> 
+			 <unittitle> 
+				<persname role="composer">Brown, Earle, 1926-2002</persname> 
+				<title type="uniform">Folio, no. 2. Selections</title> 
+				<title type="transcribed">Folio II : after 1970 / [Earle
+				  Brown].</title> 
+				<unitdate>[1980-1994] </unitdate> </unittitle> 
+			 <physdesc><extent>[5] leaves of ms. music ; 21 x 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holographs (Photocopies). Title from leaf 1 of "Remarks for
+				performers." Graphic notation. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">17</container> 
+			 <unittitle> 
+				<persname role="composer">Brown, Earle, 1926-2002</persname> 
+				<title type="uniform">Hodograph, no. 1</title> 
+				<title type="transcribed">Hodograph 1 / Earle Brown</title>
+				<imprint>New York : Associated Music Publishers, </imprint> 
+				<unitdate>c1961. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (8 leaves) ; 37 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For flute, piano, celeste, orchestral
+				bells, Vibraphone, and marimba (3 players). At end of score: June 1959 N.Y.C.
+				Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">18</container> 
+			 <unittitle> 
+				<persname role="composer">Burge, David, 1930- </persname> 
+				<title type="uniform">Sources, no. 3</title> 
+				<title type="transcribed">Sources III : for two performers
+				  (clarinet and percussion) / David Burge</title> <imprint>[S.l.] : Tetra Music
+				Corp. ;New York, N.Y. : Sole selling agent : A. Broude, </imprint> 
+				<unitdate>c1968. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (3 folded leaves) ; 46 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p> Performance score. Reproduced from holograph. At end of score:
+				"January 25, 1967 Boulder, Colorado." Marked for performance by percussionist
+				Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">19</container> 
+			 <unittitle> 
+				<persname role="composer">Burritt, Michael</persname> 
+				<title type="transcribed">Sticks of eloquence : for multiple
+				  percussion solo / Michael Burritt</title> <imprint>Cleveland, Ohio (557 E.
+				140th St., Cleveland 44110-1999) : Ludwig Music, </imprint> 
+				<unitdate>c1987. </unitdate> </unittitle> 
+			 <physdesc><extent>7 p. of music ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Inscribed by the composer. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">20</container> 
+			 <unittitle> 
+				<persname role="composer">Bussotti, Sylvano</persname> 
+				<title type="uniform">Fogli. Coeur</title> 
+				<title type="transcribed">Sette fogli : una collezione
+				  occulta.[Coeur] / Sylvano Bussotti</title> <imprint>[London : Universal
+				Edition, </imprint> 
+				<unitdate>c1963] </unitdate> </unittitle> 
+			 <physdesc><extent>1 folder ([5] leaves) ; 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title from caption on instruction sheet. Consists of: photocopies
+				of performance instructions (1 leaf) and score (1 leaf) from Universal Edition
+				(pl. no. 13238) publication; photocopy of same score marked in preparation for
+				realization; score realized by Jan Williams (1 folded leaf, April 2001); and 1
+				leaf of pencil ms. notes by Jan Williams. Graphic notation. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">21</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="transcribed">Atlas eclipticalis / John Cage</title>
+				<imprint>New York : Henmar Press : C.F. Peters, </imprint> 
+				<unitdate>c1961. </unitdate> </unittitle> 
+			 <physdesc><extent>1 part (4 p.) ; 30 x 45 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>"Instrumental parts to be played in whole or part in any ensemble,
+				chamber or orchestral, with or without Winter music." Percussion I part,
+				reproduced from holograph. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">22</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="uniform">Composed improvisation, snare drum</title> 
+				<title type="transcribed">C : composed improvisation : for snare
+				  drum / John Cage</title> <imprint>[S.l.] : Henmar, </imprint> 
+				<unitdate>c1987. </unitdate> </unittitle> 
+			 <physdesc><extent>2 p. of music ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Score consists of performance instructions. Includes realization
+				(1991) by percussionist Jan Williams: list of instruments (1 leaf); 5 leaves
+				ms. notes; realization (3 ms. leaves plus 1 photocopy of same leaves),
+				amplifier operator score (1 ms. leaf; 1 typescript leaf plus photocopy of same
+				leaf). </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">23</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="transcribed">Music for ... : parts for flute,
+				  clarinet, trombone, three percussion, piano, violin, and cello without score
+				  (no fixed relation), title to be completed by adding to "Music for"--The number
+				  of players performing / John Cage</title> <imprint>New York : Henmar Press :
+				Sole selling agents : C.F. Peters, </imprint> 
+				<unitdate>c1984. </unitdate> </unittitle> 
+			 <physdesc><extent>1 part (6 leaves) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Percussion I part. Marked for performance by
+				percussionist Jan Williams. Includes published performance instructions and
+				additional notes by Jan Williams (1 ms. leaf).Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">24</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="transcribed">Music for ... : parts for voice and
+				  instruments without score (no fixed relation), title to be completed by adding
+				  to "Music for"--The number of players performing / John Cage</title>
+				<imprint>New York : Henmar Press : [Sole selling agents, C.F. Peters],
+				</imprint> 
+				<unitdate>c1984, [1987] </unitdate> </unittitle> 
+			 <physdesc><extent>1 part (6 leaves) ; 35 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Percussion IV part. Marked for performance by percussionist Jan
+				Williams. Includes published performance instructions, additional notes by Jan
+				Williams (7 ms. leaves), and additional photocopy of leaves 1-4 of the part
+				(also marked).Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">25</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="transcribed">Music for ... : parts for voice and
+				  instruments without score (no fixed relation), title to be completed by adding
+				  to "Music for"--The number of players performing / John Cage</title>
+				<imprint>New York : Henmar Press : [Sole selling agents, C.F. Peters],
+				</imprint> 
+				<unitdate>c1984, [1987] </unitdate> </unittitle> 
+			 <physdesc><extent>1 part (6 leaves) ; 35 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Percussion IV part. Marked for performance by percussionist Jan
+				Williams. Includes published performance instructions. Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">26</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="transcribed">Ryoanji / John Cage</title> <imprint>[New
+				York : Henmar Press, </imprint> 
+				<unitdate>c1983] </unitdate> </unittitle> 
+			 <physdesc><extent>1 part ([2] leaves) ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Printed part of ensemble player A. "At least two
+				only slightly resonant instruments of different material (wood and metal, not
+				metal and metal) played in unison"--Leaf [2]. Marked for performance by
+				percussionist Jan Williams. Includes 2nd photocopy of part (21 cm.).Photocopy.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">27</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="uniform">She is asleep. Quartet</title> 
+				<title type="transcribed">She is asleep. Quartet, 12 tom toms /
+				  John Cage</title> <imprint>New York, N.Y. : Henmar Press, </imprint> 
+				<unitdate>c1960. </unitdate> </unittitle> 
+			 <physdesc><extent>6 scores (6 p. each) ; 30 cm. </extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>For 4 players, 3 tom toms each graduated in pitch. "Edition
+				Peters"--Cover. Marked for performance by percussionist Jan Williams. Includes
+				additional photocopy of score. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">28</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="uniform">27'10.544"</title> 
+				<title type="transcribed">27'10.544" : for a percussionist / John
+				  Cage</title> <imprint>New York, N.Y. : Henmar Press, </imprint> 
+				<unitdate>c1960. </unitdate> </unittitle> 
+			 <physdesc><extent>28 p. of music ; 22 x 33 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. Photocopied clippings which make
+				reference to Marcel Duchamp are taped into the score at various places. Marked
+				for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">29</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="uniform">Variations, no. 3</title> 
+				<title type="transcribed">[Variations III / John Cage]</title>
+				<imprint>New York : Henmar Press, </imprint> 
+				<unitdate>c1963. </unitdate> </unittitle> 
+			 <physdesc><extent>1 folder ([5] leaves, 1 envelope) ; 33 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Lacking score; contains published performance instructions, 1
+				envelope of circles on transparencies, [4] leaves of notes for realization by
+				Jan Williams (4/13/95). For one or any number of people performing any actions.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">30</container> 
+			 <unittitle> 
+				<persname role="composer">Carter, Elliott, 1908-</persname> 
+				<title type="uniform">Pieces, timpani</title> 
+				<title type="transcribed">Eight pieces : for four timpani (one
+				  player) / Elliott Carter</title> <imprint>New York : Associated Music,
+				</imprint> 
+				<unitdate>c1968. </unitdate> </unittitle> 
+			 <physdesc><extent>23 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Marked for performance by percussionist Jan Williams; some pages
+				duplicated to ease page-turning. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">31</container> 
+			 <unittitle> 
+				<persname role="composer">Carter, Elliott, 1908-</persname> 
+				<title type="uniform">Pieces, timpani</title> 
+				<title type="transcribed">Eight pieces : for four timpani (one
+				  player) / Elliott Carter</title> <imprint>New York : Associated Music,
+				</imprint> 
+				<unitdate>c1968. </unitdate> </unittitle> 
+			 <physdesc><extent>23 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Inscription on title page. from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">32</container> 
+			 <unittitle> 
+				<persname role="composer">Carter, Elliott, 1908-</persname> 
+				<title type="uniform">Pieces, timpani</title> 
+				<title type="transcribed">Eight pieces : for four timpani (one
+				  player) / Elliott Carter</title> <imprint>New York : Associated Music,
+				</imprint> 
+				<unitdate>c1968. </unitdate> </unittitle> 
+			 <physdesc><extent>23 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">33</container> 
+			 <unittitle> 
+				<persname role="composer">Carter, Elliott, 1908-</persname> 
+				<title type="uniform">Pieces, timpani. Selections</title> 
+				<title type="transcribed">[Eight pieces for four timpani : revised
+				  score / Elliott Carter].</title> 
+				<unitdate>[1966] </unitdate> </unittitle> 
+			 <physdesc><extent>[9], 2, 2 leaves of ms. music ; 32-37 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Marked for performance by percussionist
+				Jan Williams, with markings by the composer. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">34</container> 
+			 <unittitle> 
+				<persname role="composer">Carter, Elliott, 1908-</persname> 
+				<title type="uniform">Pieces, timpani. Recitative</title> 
+				<title type="transcribed">Recitative and improvisation : for four
+				  kettledrums (one player) / Elliott Carter</title> <imprint>New York :
+				Associated Music, </imprint> 
+				<unitdate>c1960. </unitdate> </unittitle> 
+			 <physdesc><extent>7 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Both movements incorporated into Eight pieces for timpani in 1968
+				published score. Duration: 6:45. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">35</container> 
+			 <unittitle> 
+				<persname role="composer">Carter, Elliott, 1908-</persname> 
+				<title type="uniform">Pieces, timpani. Recitative</title> 
+				<title type="transcribed">Recitative and improvisation : for four
+				  kettledrums (one player) / Elliott Carter</title> <imprint>New York :
+				Associated Music, </imprint> 
+				<unitdate>c1960. </unitdate> </unittitle> 
+			 <physdesc><extent>7 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Both movements incorporated into Eight pieces for timpani in 1968
+				published score. Duration: 6:45. Typescript notes (1 leaf) by the composer
+				inserted. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="item">36</container> 
+			 <unittitle> 
+				<persname role="composer">Carter, Elliott, 1908- </persname> 
+				<title type="uniform">Pieces, timpani. Selections</title> 
+				<title type="transcribed">Six pieces : for kettledrums (4) : 1950 /
+				  Elliott Carter.</title> 
+				<unitdate>1950. </unitdate> </unittitle> 
+			 <physdesc><extent>11 leaves of ms. music ; 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For one percussionist. At end: Tucson, Nov.
+				1950. "Property of Paul Price"--stamp on title page., crossed out. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">37</container> 
+			 <unittitle> 
+				<persname role="composer">Chadabe, Joel</persname> 
+				<title type="transcribed">Echoes : for percussion and electronics /
+				  Joel Chadabe.</title> 
+				<unitdate>[1972] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (3 leaves) ; 24 x 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For percussionist and assistant with
+				microphone; or with accompanying pre-recorded tape of echoes. Graphic notation.
+				At end of score: Albany, 9/2/72. Marked for performance by percussionist Jan
+				Williams. Typescript performance instructions (1 leaf, photocopied) inserted.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">38</container> 
+			 <unittitle> 
+				<persname role="composer">Chadabe, Joel</persname> 
+				<title type="transcribed">Flyby / Joel Chadabe.</title> 
+				<unitdate>[1991] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. leaf ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Ms. notes by Jan Williams in preparation for April 20, 1991
+				performance of work for percussion and MIDI electronics at North American New
+				Music Festival. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">39</container> 
+			 <unittitle> 
+				<persname role="composer">Chadabe, Joel</persname> 
+				<title type="transcribed">Follow me softly / Chadabe.</title> 
+				<unitdate>[1984] </unitdate> </unittitle> 
+			 <physdesc><extent>3 ms. leaves ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Ms. notes by Jan Williams in preparation for April
+				12, 1984 performance of work for percussion at North American New Music
+				Festival. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">40</container> 
+			 <unittitle> 
+				<persname role="composer">Chadabe, Joel</persname> 
+				<title type="transcribed">Rhythms : for percussion and computer /
+				  Joel Chadabe.</title> 
+				<unitdate>c1980. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([7] leaves) ; 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Manuscript. "The percussionist may accompany, be
+				accompanied by, complement and/or articulate rhythms generated by, or improvise
+				melodies with, the computer"--Instructions. Includes performance instructions
+				and description of one realization by Jan Williams. Another copy of realization
+				(3 leaves) laid in container. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">41</container> 
+			 <unittitle> 
+				<persname role="composer">Chadabe, Joel</persname> 
+				<title type="transcribed">Round trip / Chadabe.</title> 
+				<unitdate>[1992] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. leaf ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Ms. notes by Jan Williams in preparation for April
+				5, 1992 performance of work for percussion and computer at North American New
+				Music Festival. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">42</container> 
+			 <unittitle> 
+				<persname role="composer">Colgrass, Michael</persname> 
+				<title type="transcribed">Light spirit / by Michael
+				  Colgrass.</title> 
+				<unitdate>1963. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. part (10 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy) Percussion I and II part. Cover title. For
+				flute, viola, guitar, and percussion, 2 players. Performance instructions on
+				verso of cover. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">43</container> 
+			 <unittitle> 
+				<persname role="composer">Crumb, George</persname> 
+				<title type="uniform">Madrigals, book 1</title> 
+				<title type="transcribed">Madrigals : book I for soprano,
+				  vibraphone, and contrabass / George Crumb</title> <imprint>[S.l., </imprint> 
+				<unitdate>1965] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (6 p.) ; 28 x 39 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Reproduced from ms. Spanish words and phonetics;
+				text from poems by Federico García Lorca; also printed as texts with English
+				translations. Includes performance instructions. "The 4 books of Lorca
+				madrigals may be performed: (a) as separate works ... (b) as a larger cycle in
+				which the 4 books are played in sequence"--Performance notes. At end: 1965
+				Buffalo, N.Y. Marked for performance (minimally) by percussionist Jan Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">44</container> 
+			 <unittitle> 
+				<persname role="composer">Di Pietro, Rocco</persname> 
+				<title type="transcribed">Melodia Nera : (1980-1982) : timpani solo
+				  / Rocco Di Pietro</title> <imprint>Lancaster, NY (P.O. Box 436, Lancaster, NY
+				14086) : A.M. Percussion Publications, </imprint> 
+				<unitdate>c1985. </unitdate> </unittitle> 
+			 <physdesc><extent>5 p. of music ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Includes performance instructions. Marked for performance by
+				percussionist Jan Williams. Inscription on title page. from the composer to Jan
+				and Diane Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">45</container> 
+			 <unittitle> 
+				<persname role="composer">Di Pietro, Rocco</persname> 
+				<title type="uniform">Overture, organ, synthesizer,
+				  percussion</title> 
+				<title type="transcribed">Overture : [for] percussion orchestra /
+				  Rocco Di Pietro.</title> 
+				<unitdate>[1980] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (8 leaves) ; 49 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. Handwritten emendations by the
+				composer. Marked for performance by percussionist Jan Williams. "[For]
+				percussion orchestra, organ and synthesizer"--Caption. At end: November- Fine-
+				December 1980 R.D.P. Handwritten quotations from Richard Wagner and Luigi
+				Russolo on l. 1A. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">45a</container> 
+			 <unittitle> 
+				<persname role="composer">Di Pietro, Rocco.</persname> 
+				<title type="uniform">Overture, organ, synthesizer,
+				  percussion</title> 
+				<title type="transcribed">Overture to Combats for history : per
+				  gruppi di percussione, organo e sintetizzante = [for] percussion orchestra,
+				  organ and synthesizer instruments / Rocco Di Pietro.</title> 
+				<unitdate>[1980] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([9] leaves) ; 49 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid reproduction). Caption title. Original title
+				blacked out: Overature. "For Jan Williams"--At top of page. "For percussion
+				orchestra - 80 instruments in six groups - 12-15 players"--Caption. Prefatory
+				leaf contains lists of percussion instruments in six groups. Changes to
+				sectional durations changed on leaf [8]; prefatory leaf marked by percussionist
+				Jan Williams with list of instruments needed to acquire. At end of score:
+				November- Fine- December 1980 R.D.P. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">46</container> 
+			 <unittitle> 
+				<persname role="composer">Di Pietro, Rocco</persname> 
+				<title type="uniform">Popular songs</title> 
+				<title type="transcribed">Three popular songs : per soprano,
+				  pianoforte e percussione (1984) ; op. 74 no. 1 / Rocco Di Pietro ; di testi su
+				  Luis A. Rosario Quiles, Bertolt Brecht, e Allen Pettersson.</title> 
+				<unitdate>[1984] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (3 leaves) ; 35 x 57 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Reproduced from holograph. For soprano, piano, and
+				percussion. English words. At end: May 27, 1984. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">47</container> 
+			 <unittitle> 
+				<persname role="composer">Dubrovay, László, 1943-</persname> 
+				<title type="uniform">Duos, violin, percussion</title> 
+				<title type="transcribed">Sei duo : per violino e percussioni /
+				  Dubrovay László</title> <imprint>Budapest : Editio Musica, </imprint> 
+				<unitdate>1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (7 p.) ; 34 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Duration: about 7 min. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">48</container> 
+			 <unittitle> 
+				<persname role="composer">Duchamp, Marcel, 1887-1968</persname> 
+				<title type="transcribed">La mariée mise à par ses cé libataires
+				  même / Marcel Duchamp ; realization by Petr Kotík, </title> 
+				<unitdate>1974. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (28 leaves) ; 29 x 45 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Photocopy of Kotík holograph. Title from added title page. For
+				alto flute, celeste, trombone, glockenspiel, and marimba. At end: October 22,
+				1974. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">49</container> 
+			 <unittitle> 
+				<persname role="composer">Felder, David</persname> 
+				<title type="uniform">Lines from twenty poems</title> 
+				<title type="transcribed">Three lines from twenty poems : for
+				  chamber orchestra / David Felder.</title> 
+				<unitdate>1987, c1986. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (26 p.) ; 43 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For tape and orchestra: 1_2_1_1_/1121/timp, perc(2)/hrp/pno/str
+				(6-6-5-5-4). Based on the writings of Pablo Neruda. Reproduced from signed
+				holograph. Duration: ca. 8:45. "Commissioned by the Research Foundation of
+				S.U.N.Y. with the assistance of the Jory Fund of the American Music Center."
+				Marked for performance by conductor Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">50</container> 
+			 <unittitle> 
+				<persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				<title type="transcribed">Crippled symmetry / Morton
+				  Feldman.</title> 
+				<unitdate>1983. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (38 leaves) ; 37 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). For flute (bass flute), vibraphone
+				(glockenspiel), and piano (celesta). Caption title. "C1983 Universal
+				EDT."--Inscription bottom of leaf 1. Marked for performance by percussionist
+				Jan Williams. "1st perf. Akademie der Künste, Berlin, Feb. 5, 1984, [Eberhard]
+				Blum, [Nils] Vigeland, [Jan] Williams"--Bottom of leaf 1. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">51</container> 
+			 <unittitle> 
+				<persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				<title type="transcribed">For Philip Guston / Morton
+				  Feldman.</title> 
+				<unitdate>c1985. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (102 p.) ; 44 cm. </extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). For flute (piccolo, alto flute),
+				percussion (1 player, including vibraphone, glockenspiel, chimes, marimba), and
+				piano (celesta). Caption title. "C1984 Universal EDT"--Bottom of p. 1. Marked
+				for performance by percussionist Jan Williams. Score disbound; individual
+				sheets re-ordered, and some duplicated, to facilitate page-turning. At end of
+				score: Nov. 9, 1984. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <container type="item">52</container> 
+			 <unittitle> 
+				<persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				<title type="uniform">Instruments, no. 1</title> 
+				<title type="transcribed">Instruments : [I] / Morton
+				  Feldman.</title> 
+				<unitdate>c1974. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (9 leaves) ; 37 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). For alto flute, oboe, trombone, celesta
+				and percussion. Caption title. "Commissioned by the S.E.M. Ensemble"--Caption.
+				"Copyright Universal EDT 1974"--Bottom of leaf 1. At end of score: July 29,
+				1974. Marked for performance by percussionist Jan Williams. All staves of
+				percussion part replaced with new staves on manuscript paper with notation of
+				percussion part enlarged. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">53</container> 
+			 <unittitle> 
+				<persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				<title type="uniform">Instruments, no. 3</title> 
+				<title type="transcribed">Instruments III / Morton Feldman.</title>
+				
+				<unitdate>c1977. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (14 leaves) ; 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). For flute (alto flute, piccolo), oboe
+				(English horn), and percussion. Caption title. "Copyright Universal EDT
+				1977"--Bottom of leaf 1. At end of score: July 15, '77. Marked for performance
+				by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">54</container> 
+			 <unittitle> 
+				<persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				<title type="transcribed">The King of Denmark : percussion / Morton
+				  Feldman</title> <imprint>New York, N.Y. : C.F. Peters, </imprint> 
+				<unitdate>c1965. </unitdate> </unittitle> 
+			 <physdesc><extent>3 leaves of music ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For solo percussionist. Cover title. At end of score: Aug. 1964.
+				Marked for performance by percussionist Jan Williams. Includes additional 9
+				leaves: 1 heavily marked photocopy of score; 1 photocopy of leaf 1 of score; 5
+				leaves containing diagrams of instrument set-up and lists of instruments
+				required. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">55</container> 
+			 <unittitle> 
+				<persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				<title type="transcribed">Why patterns? / M. Feldman.</title> 
+				<unitdate>[1978] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (15 leaves) ; 42 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). For flute (doubling alto &amp; bass
+				flute), piano and glockenspiel. Caption title. At end of score: April, 1978.
+				Marked for performance by percussionist Jan Williams. Markings include some
+				changes to score. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">56</container> 
+			 <unittitle> 
+				<persname role="composer">Festinger, Richard</persname> 
+				<title type="transcribed">A serenade for six : for flute,
+				  clarinet/bass clarinet, violin, cello, percussion, and piano / Richard
+				  Festinger.</title> 
+				<unitdate>c1993. </unitdate> </unittitle> 
+			 <physdesc><extent>1 part (9 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Computer printout of percussion part. Dedicated to the New York
+				New Music Ensemble. Performance instructions on verso of title page. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">57</container> 
+			 <unittitle> 
+				<persname role="composer">Finnissy, Michael</persname> 
+				<title type="transcribed">Hinomi : for solo percussionist / Michael
+				  Finnissy.</title> 
+				<unitdate>[1979] </unitdate> </unittitle> 
+			 <physdesc><extent>7 p. of ms. music ; 28 x 41 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. Composer's instructions, in English,
+				prelim. p. Cover title. At end of score: December 1979. Marked for performance
+				by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">58</container> 
+			 <unittitle> 
+				<persname role="composer">Ford, Andrew</persname> 
+				<title type="transcribed">Boatsong / Andrew Ford.</title> 
+				<unitdate>1982] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (8 p.) ; 37 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. For bass clarinet or alto saxophone,
+				and marimba or vibraphone. "Commissioned by Henri Bok and Evert Le Mair, the
+				Duo Contemporain, and is dedicated to them." On verso: Andrew Ford Menston,
+				Yorkshire 1982. At end: "Andrew Ford, March-August 1982, Isle of Skye- Sutton
+				Valence." Duration: ca. 10:00. Inscription on title page. from the composer to
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">59</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="uniform">Concertos, percussion, orchestra</title><lb/>
+				
+				<title type="transcribed">Concerto for solo percussion and large or
+				  small orchestra : 1973-74 / Lukas Foss.</title> 
+				<unitdate>[1974] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (14, [4] p.) ; 28 x 37 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Chance composition. Duration: 29:00
+				(large orchestra version); 29:00 or 47:00 (small orchestra version).
+				"Commissioned by the Ford Foundation for Jan Williams"--2nd. title page. Stamp
+				on title page.: Editions Salabert Rental Library. List of instruments and their
+				stage positions attached to front cover. Score marked #2. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">60</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="uniform">Concertos, percussion, orchestra</title><lb/>
+				
+				<title type="transcribed">Concerto for solo percussion and large or
+				  small orchestra / Lukas Foss</title> <imprint>New York : Editions Salabert,
+				</imprint> 
+				<unitdate>c1975. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (29 p.) ; 26 x 36 cm. + 2 parts ; 33-36 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Chance composition. Composer's performance instructions on p. 3-5.
+				Duration: 30:00 (short version); 46:00 (long version). "Commissioned by the
+				Ford Foundation for Jan Williams"--At head of title. Stamp on title page.:
+				Editions Salabert Rental Library. Violin and Percussion parts included, with
+				additional pages. Score marked P#4. Marked for performance by percussionist Jan
+				Williams. Additional materials inserted: 2 photocopies of typescript program
+				notes; equipment list and set-up diagram (4 leaves); enlarged portions of score
+				(ms.) for placement on different percussion stands (6 leaves); 4 more leaves of
+				miscellaneous notes. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">61</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="uniform">Concertos, percussion, orchestra</title><lb/>
+				
+				<title type="transcribed">Concerto for solo percussion and large or
+				  small orchestra : 1973-74 / Lukas Foss.</title> 
+				<unitdate>[1974] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (14, [4] leaves) ; 28 x 35 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Chance composition. Duration: 29:00 (large
+				orchestra version); 29:00 or 47:00 (small orchestra version). "Commissioned by
+				the Ford Foundation for Jan Williams"--2nd. title page. Stamp on title page.:
+				Editions Salabert. Disbound loose leaves. Heavily marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">62</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="uniform">Concertos, percussion, orchestra</title><lb/>
+				
+				<title type="transcribed">Concerto for solo percussion and large or
+				  small orchestra : 1973-74 / Lukas Foss.</title> 
+				<unitdate>[1974] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (14, [4] leaves) ; 26 x 36 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Chance composition. Duration: 29:00 (large
+				orchestra version); 29:00 or 47:00 (small orchestra version). "Commissioned by
+				the Ford Foundation for Jan Williams"--2nd. title page. Loose leaves. "Revised
+				April 1975 after performances April 10, 11 + 13 with NJ Symphony (Jesse
+				Levine)." Includes 5 additional leaves, marked "Large version", of enlarged ms.
+				for placement on percussion stands. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <container type="item">63</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Curriculum vitae with time-bomb : for
+				  percussion solo and taped or live accordeon [sic] : 1980 / Lukas Foss.</title> 
+				<unitdate>1980. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (9 leaves) ; 36 x 46 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Printed Pembroke Music score (1978) of Curriculum vitae, for solo
+				accordion, with ms. addition of percussion part. "For Jan Williams."
+				Performance instructions on title page. Marked for performance by percussionist
+				Jan Williams. Additional materials inserted: 1 extra photocopy of score (22 x
+				36 cm.) with additional markings, and list of percussion instruments required.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">64</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Map / Lukas Foss.</title> 
+				<unitdate>1977. </unitdate> </unittitle> 
+			 <physdesc><extent>[14] leaves ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Typescript, with pencil annotations by the composer. For four
+				performers and electronic tapes. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">65</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Ni bruit ni vitesse : for piano keys
+				  (pianist) and piano strings (percussionist) / Lukas Foss.</title> 
+				<unitdate>1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (5 leaves) ; 34 x 49 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For 2 pianos and 2 percussionists (playing
+				on the piano strings) or 1 piano, 1 percussionist, and tape; in part,
+				aleatoric. Duration: 13:00. Performance instructions on title page. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">66</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Ni bruit ni vitesse : for piano keys
+				  (pianist) and piano strings (percussionist) / Lukas Foss.</title> 
+				<unitdate>1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (10 leaves) ; 34 x 49 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). "Final draft." For 2 pianos and 2
+				percussionists (playing on the piano strings) or 1 piano, 1 percussionist, and
+				tape; in part, aleatoric. Duration: 13:30. Performance instructions on title
+				page. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">67</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">[Paradigm / Lukas Foss].</title> 
+				<unitdate>[1968?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([8] leaves) ; 32 x 49 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title page lacking. Holograph (Ozalid copy). For
+				percussionist/conductor, electric guitar (or sitar) and three other unspecified
+				instruments capable of sustaining a sound. Narration performed by the
+				instrumentalists; also requires tape recorder. Text in English with some German
+				and French translations. Duration: ca. 17:30. Includes performance
+				instructions. Leaves numbered: 1A, 2A, 2B, 2C, 3, 4A, 4B, 4C. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">68 </container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Paradigm : for percussionist/conductor,
+				  electric guitar (or sitar) and three other instruments capable of sustaining a
+				  sound / Lukas Foss.</title> 
+				<unitdate>1968. </unitdate> </unittitle> 
+			 <physdesc><extent>1 folder ([39] leaves) ; 32 x 49 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid and photocopy). Folder containing scores (also
+				used as parts) and additional materials (including pitch choices) compiled by
+				the composer for performance of the work. Narration performed by the
+				instrumentalists; also requires tape recorder. Text in English with some German
+				and French translations. Duration: ca. 17:30. Includes performance
+				instructions. Marked for performance by percussionist Jan Williams and other
+				performers. Four movements: I. Session -- II. Reading -- III. Recital -- IV.
+				Lecture. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">69</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Paradigm : for percussionist/conductor
+				  (one man), electric guitar or electric sitar [and] three other instruments
+				  capable of sustaining a sound / Lukas Foss</title> <imprint>Mainz : B. Schott's
+				Söhne ; New York : C. Fischer, </imprint> 
+				<unitdate>c1969. </unitdate> </unittitle> 
+			 <physdesc><extent>4 scores (23 p. each) ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Scores (with 1 additional photocopy) compiled by
+				percussionist/conductor Jan Williams; used as parts and marked for performance.
+				Narration performed by the instrumentalists; also requires tape recorder.
+				Duration: about 18 min. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">70</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Solo observed / [Lukas Foss].</title> 
+				<unitdate>[1982?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. part ([8] leaves) ; 28-38 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Ms. (Photocopy). Caption title. "This work is an extended version
+				of Solo, for piano, involving the addition of a coda consisting of vibraphone
+				or marimba, violoncello or harp, and electronic organ or accordion reflecting
+				on the pianist's solo which they "observe"--Lukas Foss: a bio-bibliography /
+				Karen L. Perone. Score cut and pasted for use as a percussion part; last 3
+				leaves are mounted on cardboard backing. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">71</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Thirteen ways of looking at a blackbird :
+				  a setting of Wallace Stevens' poem / Lukas Foss.</title> 
+				<unitdate>1978. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (17 leaves) ; 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For voice (soprano or mezzo-soprano,
+				possibly tenor or high baritone), percussion (1 performer playing inside the
+				piano on strings with tape covered triangle beaters, 2 cowbells, 2 bowls
+				balancing on piano strings, and using a superball mallet, flexatron and Jew's
+				harp), piano, and flute; with 2 tape recorders (optional). Includes performance
+				instructions. Duration: ca. 13:00. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">72</container> 
+			 <unittitle> 
+				<persname role="composer">Fulkerson, James</persname> 
+				<title type="transcribed">In quest of a silence / Jim
+				  Fulkerson.</title> 
+				<unitdate>[1977] </unitdate> </unittitle> 
+			 <physdesc><extent>3 parts ; 42 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). For trombone, vibraphone, and piano.
+				Caption title. Includes performance instructions. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">73</container> 
+			 <unittitle> 
+				<persname role="composer">Fuller, Ramon Conrad, 1930-</persname> 
+				<title type="transcribed">Music for two channel tape and two
+				  percussionists / Ramon Fuller.</title> 
+				<unitdate>[196-] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (24 p.) ; 40 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Marked for performance by Jan Williams as
+				Percussion 2 part. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">74</container> 
+			 <unittitle> 
+				<persname role="composer">Gaber, Harley, 1943-</persname> 
+				<title type="transcribed">The silent zero : 1973 / Harley
+				  Gaber.</title> 
+				<unitdate>1973. </unitdate> </unittitle> 
+			 <physdesc><extent>2 ms. scores (3 leaves each) ; 45 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (photocopy). For percussion (2 players).
+				At end: New York City-New Paltz, N.Y., Dec. 1973. Marked as parts for
+				performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <container type="item">75</container> 
+			 <unittitle> 
+				<persname role="composer">Gaber, Harley, 1943-</persname> 
+				<title type="uniform">Voce, no. 2</title> 
+				<title type="transcribed">Voce II : female voice, alto flute,
+				  percussion / Gaber</title> <imprint>Cincinnati : Apogee, </imprint> 
+				<unitdate>c1967. </unitdate> </unittitle> 
+			 <physdesc><extent>2 scores (vii, 19 p.) ; 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Includes biographical note and performance instructions in
+				English. Percussion (1 player): vibraphone, xylophone, wind chimes. Both scores
+				marked for performance. Japanese words (romanized) also printed as text on p.
+				vii. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">76</container> 
+			 <unittitle> 
+				<persname role="composer">García, Orlando Jacinto</persname> 
+				<title type="transcribed">The German archer / by O. Garcia.</title>
+				
+				<unitdate>1985. </unitdate> </unittitle> 
+			 <physdesc><extent>5 ms. scores (12 p. each) ; 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For flute/alto flute, clarinet, and
+				percussion (2 players). "3/85." "Dedicated to Morton Feldman." Four of the
+				scores used as instrumental parts. Marked for performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">77</container> 
+			 <unittitle> 
+				<persname role="composer">García, Orlando Jacinto</persname> 
+				<title type="transcribed">In deference to the king / by Orlando
+				  Jacinto Garcia.</title> 
+				<unitdate>[1989] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (13 leaves) ; 44 cm. + 1 ms. part ([8]
+				leaves) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Photocopy). For flute/piccolo,
+				oboe/English horn, B-flat/Bass clarinet, percussion (1 player), piano, violin,
+				and violoncello. "The king in the title refers to Morton Feldman's The king of
+				Denmark."--leaf 13. Performance instructions at end of score. "OJ, 7/89, Miami,
+				FL."--At end of score. Duration: 16:00. Percussion part included. Score marked
+				for performance by Jan Williams. Includes additional photocopy of leaves 8-12
+				with percussion part highlighted. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">78</container> 
+			 <unittitle> 
+				<persname role="composer">García, Orlando Jacinto</persname> 
+				<title type="transcribed">Four individual migrations / by Orlando
+				  J. Garcia.</title> 
+				<unitdate>[1986] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (6 leaves) ; 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (photocopy). For clarinet, percussion (2 players), and
+				piano. Revised version; originally composed as 3 individual migrations; for
+				clarinet and percussion (1 player). At end of score: 8/86. Duration: ca. 18:00.
+				Percussion II part marked for performance throughout the score. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">79</container> 
+			 <unittitle> 
+				<persname role="composer">García, Orlando Jacinto</persname> 
+				<title type="transcribed">Metallic images : for percussion and tape
+				  / by Orlando Jacinto Garcia.</title> 
+				<unitdate>[1991] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (3 leaves) ; 33 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Photocopy). For tape and percussionist
+				playing vibraphone, glockenspiel, finger cymbals, 3 triangles. "For Jan
+				Williams." Performance instructions at end. "OJ, 2/91, Miami, FL."--At end.
+				Duration: ca. 21:00. Marked for performance by percussionist Jan Williams. </p>
+			 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">80</container> 
+			 <unittitle> 
+				<persname role="composer">Gibson, David, 1943-</persname> 
+				<title type="transcribed">Lillian Brook / David Gibson.</title> 
+				<unitdate>[1977] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (28 leaves) ; 28 x 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Reproduced from ms. For vibraphone. "For my friend
+				Jan Williams." "The durations of each line must remain flexable [sic] and the
+				pages need not follow in any particular order. Any amount of the work may be
+				performed." Includes performance instructions, typescript, 1 leaf and ms., 1
+				leaf. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">81</container> 
+			 <unittitle> 
+				<persname role="composer">Gibson, David, 1943-</persname> 
+				<title type="transcribed">Shadows : for 3 percussionists / by David
+				  Gibson.</title> 
+				<unitdate>[197-] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (15 leaves) ; 36 x 51 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). "For Jan Williams." Marked for
+				performance in all parts. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">82</container> 
+			 <unittitle> 
+				<persname role="composer">Gibson, David, 1943-</persname> 
+				<title type="transcribed">Shadows : for 3 percussionists / by David
+				  Gibson.</title> 
+				<unitdate>[197-] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (15 leaves) ; 36 x 51 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). "For Jan Williams." Marked for
+				performance in all parts. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <container type="item">83</container> 
+			 <unittitle> 
+				<persname role="composer">Gibson, David, 1943-</persname> 
+				<title type="transcribed">Shadows : for 3 percussionists / by David
+				  Gibson.</title> 
+				<unitdate>[197-] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (15 leaves) ; 36 x 51 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). "For Jan Williams." Marked for
+				performance in all parts. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">84</container> 
+			 <unittitle> 
+				<persname role="composer">Globokar, Vinko, 1934-</persname> 
+				<title type="transcribed">Correspondences : für vier Solisten = for
+				  four soloists = pour quatre solistes / Vinko Globokar</title>
+				<imprint>Frankfurt ; New York : H. Litolff's Verlag : C.F. Peters, </imprint> 
+				<unitdate>c1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (6 leaves) ; 45 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>"Edition Peters, Nr. 8111." For 4 performers; one each of string,
+				woodwind and brass instruments, or chordal instruments, and percussionist.
+				Reproduced from holograph. "Explanation of symbols" in German, English and
+				French ([2] p.) laid in. Marked for performance by percussionist Jan Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">85</container> 
+			 <unittitle> 
+				<persname role="composer">Globokar, Vinko, 1934-</persname> 
+				<title type="transcribed">Vibone : fantaisie pour trombone et
+				  vibraphone : 1963 / Vinko Globokar.</title> 
+				<unitdate>1963. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (9 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Includes performance instructions in
+				French. Duration: 6:30. Inscription on title page. from composer to Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">86</container> 
+			 <unittitle> 
+				<persname role="composer">Grosskopf, Erhard</persname> 
+				<title type="transcribed">Nexus : 1968 / Grosskopf.</title> 
+				<unitdate>1968. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (8 leaves) ; 34 x 46 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Title from margin, leaf 1. For flute,
+				percussion, electronic tape, and optical elements (by Bernhard Damke). At end
+				of score: Berlin, 6.9.1968. Duration: ca. 17:00. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">87</container> 
+			 <unittitle> 
+				<persname role="composer">Harrison, Lou, 1917-2003</persname> 
+				<title type="transcribed">[Ariadne / Lou Harrison].</title> 
+				<unitdate>[1987] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([3] leaves) ; 28 x 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For flute and percussion. At end of leaf
+				[2]: 30 March, 1987. Marked for performance by percussionist Jan Williams. </p>
+			 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">88</container> 
+			 <unittitle> 
+				<persname role="composer">Hassell, Jon, 1937-</persname> 
+				<title type="transcribed">Music for vibraphones and tape (1965) :
+				  for two vibraphones and 2-track magnetic tape / Jon Hassell</title>
+				<imprint>[S.l.], </imprint> 
+				<unitdate>1965. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (18 p.) ; 31 x 46 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). At end: "Feb.-April 1965." Duration: ca.
+				11:00. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">89</container> 
+			 <unittitle> 
+				<persname role="composer">Hassell, Jon, 1937-</persname> 
+				<title type="transcribed">Music for vibraphones and tape (1965) :
+				  for two vibraphones and 2-track magnetic tape / Jon Hassell</title>
+				<imprint>[S.l.], </imprint> 
+				<unitdate>1965. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (18 p.) ; 31 x 46 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy, except for original holograph title
+				page.). At end: "Feb.-April 1965." Duration: ca. 11:00. Marked for performance
+				by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">90</container> 
+			 <unittitle> 
+				<persname role="composer">Haubenstock-Ramati, Roman</persname> 
+				<title type="uniform">Alone, no. 1</title> 
+				<title type="transcribed">Alone 1 : for low instruments / [Roman
+				  Haubenstock-Ramati].</title> 
+				<unitdate>[between 1965 and 1980?] </unitdate> </unittitle> 
+			 <physdesc><extent>2 scores ([1] leaf each) ; 30 x 40 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title from ms. leaf of instructions. Chance composition for low
+				instruments. Marked for performance by percussionist Jan Williams; includes 1
+				ms. leaf of instructions. Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">91</container> 
+			 <unittitle> 
+				<persname role="composer">Haubenstock-Ramati, Roman</persname> 
+				<title type="transcribed">Batterie : 1969 / Roman
+				  Haubenstock-Ramati</title> <imprint>Vienna : Ariadne</imprint>, 
+				<unitdate>[1980?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score ([1] leaf) ; 22 x 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title from caption beneath graphic notation. Chance composition.
+				For percussion ensemble of unspecified size. Includes 3 enlarged photocopies.
+				Marked for performance by percussionist Jan Williams. Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">92</container> 
+			 <unittitle> 
+				<persname role="composer">Haubenstock-Ramati, Roman</persname> 
+				<title type="transcribed">Decisions : 1959-1961 /
+				  Haubenstock-Ramati.</title> 
+				<unitdate>[1980?] </unitdate> </unittitle> 
+			 <physdesc><extent>16 leaves of music ; 22 x 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title from cover sheet. Chance composition for unspecified sound
+				sources; graphic notation; lacks performance instructions. Two copies of score:
+				one unmarked, the other marked and with page order arranged for performance.
+				Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">93</container> 
+			 <unittitle> 
+				<persname role="composer">Haubenstock-Ramati, Roman</persname> 
+				<title type="transcribed">In memoriam Igor S. /
+				  Haubenstock-Ramati.</title> 
+				<unitdate>[1980?] </unitdate> </unittitle> 
+			 <physdesc><extent>[2] leaves of music ; 22 x 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title from cover sheet. Chance composition for unspecified sound
+				sources; graphic notation. Consists of leaves 3 (1 copy) and 6 (4 copies) of
+				the composer's work, Decisions, with 1 ms. leaf of instructions. Marked for
+				performance by percussionist Jan Williams. Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">94</container> 
+			 <unittitle> 
+				<persname role="composer">Haubenstock-Ramati, Roman</persname> 
+				<title type="transcribed">Kreise : for Sprechstimme and percussion
+				  / [Roman Haubenstock-Ramati].</title> 
+				<unitdate>[1980?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 leaf of music ; 30 x 42 cm. </extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>For speaking voice and percussion (unspecified). Caption title.
+				Graphic notation; one area composed of newspaper clippings in English.
+				Duration: ca. 10:00. "Notation as in "Decisions""--Verso, leaf [1]. Marked for
+				performance by percussionist Jan Williams. Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">95</container> 
+			 <unittitle> 
+				<persname role="composer">Haubenstock-Ramati, Roman</persname> 
+				<title type="transcribed">Liaisons / Roman
+				  Haubenstock-Ramati</title> <imprint>London : Universal Edition, </imprint> 
+				<unitdate>c1961. </unitdate> </unittitle> 
+			 <physdesc><extent>3 scores (1 folded leaf each) ; 31-52 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. In part graphic notation. Includes performance
+				instructions by the composer. "'Liaisons' are written for vibraphone, or
+				vibraphone coupled with marimbaphone. The work can also be executed 'a` 2' by
+				two performers, or one performer and a previously prepared tape recording."
+				Duration: 7:00-8:00. Marked for performance by percussionist Jan Williams. </p>
+			 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">96-97</container> 
+			 <unittitle> 
+				<persname role="composer">Helweg, Kim, 1956-</persname> 
+				<title type="transcribed">Behind the curtain : a poem for piano and
+				  percussion : 1988-89 / Kim Helweg.</title> 
+				<unitdate>1989. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. part (2 v.) ; 37 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Ms. (Photocopy). Both parts are for the
+				percussionist, for different sections of the work. At end: March 1985.
+				Photocopy of parts with performance markings. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">98</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="uniform">Algorithms, no. 2. Version, no. 1</title> 
+				<title type="transcribed">Algorithms II : score of version 1 /
+				  Lejaren Hiller, Ravi Kumra.</title> 
+				<unitdate>1972. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (19 p.) ; 37 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For flute, clarinet, bassoon, trumpet,
+				harp, percussion, violin, violoncello, double bass, and tape recorder.
+				"SUNY/Buffalo, August 1972." Marked for performance by percussionist/conductor
+				Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">99</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="uniform">Algorithms, no. 2. Version, nos. 1-4</title> 
+				<title type="transcribed">Algorithms II : score of version [1-4] /
+				  Lejaren Hiller [and] Ravi Kumra.</title> 
+				<unitdate>1972. </unitdate> </unittitle> 
+			 <physdesc><extent>4 ms. scores (19 p. each) ; 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Holograph (Photocopy). For flute, clarinet, bassoon,
+				trumpet, harp, percussion (1 player), violin, violoncello, double bass, and
+				tape. "SUNY/Buffalo, August 1972"--Cover. Marked for performance by
+				percussionist/conductor Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <container type="item">100</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="uniform">Apotheosis of archaeopterix</title> 
+				<title type="transcribed">An apotheosis of archaeopterix : for
+				  piccolo and berimbau : 1979 / Lejaren Hiller.</title> 
+				<unitdate>1979. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (13 leaves) ; 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). At end of score: Buffalo, August, 1979. At
+				head of title page.: 59 (Hiller's work list number assigned to this work).
+				Pencil annotation at head of title page.: 1st draft. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">101</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="uniform">Computer music, percussion, tape</title><lb/>
+				
+				<title type="transcribed">Computer music for percussion and tape /
+				  Lejaren Hiller and G. Allan O'Connor ; arranged from Strophes I, II and IV of
+				  Computer cantata by Lejaren Hiller and Robert Baker</title> <imprint>Bryn Mawr,
+				Penn. : T. Presser, </imprint> 
+				<unitdate>[c1972] </unitdate> </unittitle> 
+			 <physdesc><extent>8 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For one percussion player with magnetic tape. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">102</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="transcribed">Persiflage : for flute, oboe and
+				  percussion / Lejaren Hiller.</title> 
+				<unitdate>1977. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (15 leaves) ; 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). At end of score: 5/23/77. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">103</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="uniform">Rituals</title> 
+				<title type="transcribed">Three rituals for two percussion,
+				  projections and lights : 1969 / Lejaren Hiller</title> <imprint>[S.l.] : L.
+				Hiller, </imprint> 
+				<unitdate>c1973. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (viii, 75 p.) ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Printed score and photocopies compiled and prepared for
+				performance by percussionist Jan Williams. Incomplete. Two covers: marked
+				"Performance copy"; "Extra pages." </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">104</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="uniform">Rituals</title> 
+				<title type="transcribed">Three rituals : for two percussion and
+				  lights (1969) / Lejaren Hiller</title> <imprint>[S.l., </imprint> 
+				<unitdate>1969] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (58 p.) ; 37 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Includes performance instructions.
+				"Ureques, Puerto Rico, Dec. 27, 1969"--At end. Duration: ca. 27:00. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">105</container> 
+			 <unittitle> 
+				<persname role="composer">Husa, Karel, 1921-</persname> 
+				<title type="uniform">Concertos, percussion, band</title> 
+				<title type="transcribed">Concerto for percussion and wind
+				  ensemble</title> <imprint>New York : Associated Music Publishers</imprint>, 
+				<unitdate>[c1973] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (92 p.) ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For 5 percussionists. Inscribed by the composer to Jan Williams.
+				Duration: about 18 min. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">106</container> 
+			 <unittitle> 
+				<persname role="composer">Husa, Karel, 1921-</persname> 
+				<title type="uniform">Dance sketches</title> 
+				<title type="transcribed">Three dance sketches : for percussion /
+				  Karel Husa</title> <imprint>New York : Associated Music Publishers, </imprint> 
+				<unitdate>c1982. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (38 p.) ; 30 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For 4 or more performers. Inscribed by the composer to Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">107</container> 
+			 <unittitle> 
+				<persname role="composer">Ishii, Maki</persname> 
+				<title type="transcribed">Sen-ten : für einen Schlagzeugspieler und
+				  elektronische Klänge / Maki Ishii</title> <imprint>Celle : Moeck, </imprint> 
+				<unitdate>c1972. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (16 p.) ; 16 x 22 cm. </extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>For a percussionist and electronic sounds. Duration: ca. 13:00.
+				Lacking title page. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <container type="item">108</container> 
+			 <unittitle> 
+				<persname role="composer">Johnston, Ben</persname> 
+				<title type="transcribed">In memory : (1975) / Ben Johnston ; text
+				  after Walter Savage Landor.</title> 
+				<unitdate>[1975] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (8 leaves) + 13 parts ; 37 cm. +1
+				letter (28 cm.) </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For soprano, percussion ensemble, strings, tape, slides, and
+				optional scalatron (electronic microtonal keyboard instrument). Caption title.
+				Words in English. "In Memory, Harry Partch 1975"--accompanying letter (1 ms.
+				leaf) from the composer to Lejaren Hiller, Feb. 17, 1983. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">109</container> 
+			 <unittitle> 
+				<persname role="composer">Johnston, Ben</persname> 
+				<title type="transcribed">Knocking piece : for piano interior (2
+				  players) / Ben Johnston</title> <imprint>Davis, Calif. : Composer/Performer
+				Edition, </imprint> 
+				<unitdate>c1967. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (leaves 85-90) ; 28 x 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For 2 percussionists. Reprinted from Source. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">110</container> 
+			 <unittitle> 
+				<persname role="composer">Johnston, Ben</persname> 
+				<title type="transcribed">Knocking piece / Ben Johnston.</title> 
+				<unitdate>[1962] </unitdate> </unittitle> 
+			 <physdesc><extent>2 ms. scores (4 leaves) ; 35 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Caption title. Derived from A sea dirge.
+				For two percussionists to play on the inside of a grand piano. Includes
+				performance instructions. Marked for performance by percussionist Jan Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">111</container> 
+			 <unittitle> 
+				<persname role="composer">Jones, Daniel</persname> 
+				<title type="uniform">Sonatas, timpani</title> 
+				<title type="transcribed">Sonata : for three unaccompanied
+				  kettledrums (one player) / Daniel Jones</title> <imprint>London : Hinrichsen
+				Edition Ltd., </imprint> 
+				<unitdate>1953. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (11 p.) ; 34 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Annotated for performance by Jan Williams. Duration: 10:00. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">112</container> 
+			 <unittitle> 
+				<persname role="composer">Kagel, Mauricio</persname> 
+				<title type="transcribed">1898 : für Kinderstimmen und Instrumente
+				  (1972/73) / Mauricio Kagel</title> <imprint>London : Universal Edition,
+				</imprint> 
+				<unitdate>1973. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (93 p.) ; 29 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For 11-17 performers, including piano and percussion, and any
+				other instruments, and 20-25 children, 10-13 years old, either live or recorded
+				on tape. "Reproduktion des Autographs." Marked for performance by percussionist
+				Jan Williams; also contains changes marked in red pencil by the composer
+				(Ottawa, 1974). Includes 3 leaves (46 cm.) of pencil ms. performance notes.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">113</container> 
+			 <unittitle> 
+				<persname role="composer">Kagel, Mauricio</persname> 
+				<title type="transcribed">Match : für drei Spieler : 1964 /
+				  Mauricio Kagel</title> <imprint>Frankfurt ;New York : Henry Litolff's Verlag :
+				C.F. Peters, </imprint> 
+				<unitdate>[1964] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (18 p.) ; 30 x 43 cm. </extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>For 2 violoncellos and percussion. Publisher's reproduction of
+				manuscript. Includes performance instructions. At end: Colonia, ii,
+				i7/VIII/1964. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">114</container> 
+			 <unittitle> 
+				<persname role="composer">Kolb, Barbara</persname> 
+				<title type="uniform">Place settings</title> 
+				<title type="transcribed">Three place settings : for violin,
+				  clarinet, double bass, percussion, and narrator / Barbara Kolb</title>
+				<imprint>New York : C. Fischer, </imprint> 
+				<unitdate>c1972. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (16 p.) ; 23 x 31 cm. </extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. Inscription on verso of front cover
+				from the composer to Jan Williams; accompanied by ms. letter (1 leaf) from
+				composer to Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">115</container> 
+			 <unittitle> 
+				<persname role="composer">Kwiatkowski, Ryszard, 1931-</persname> 
+				<title type="uniform">Quartets, percussion, no. 2</title> 
+				<title type="transcribed">Quartet for percussion no. 2 / Ryszard
+				  Kwiatkowski</title> <imprint>Kraków : Polskie Wydawn. Muzyczne, </imprint> 
+				<unitdate>c1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (37 p.) ; 34 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Duration: 17:00. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">116</container> 
+			 <unittitle> 
+				<persname role="composer">Laneri, Roberto, 1945-</persname> 
+				<title type="transcribed">Dies Irae / Roberto Laneri.</title> 
+				<unitdate>1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (19 p.) ; 35 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Caption title. For voice, 2 horns,
+				clarinet, bass clarinet, 2 violas, violoncello, double bass, and percussion (3
+				players). For violin, 2 pianos, 2 percussion groups, and narrator or
+				self-prepared tape. Graphic notation. "Rome, July 1969-Buffalo, March 1971."
+				Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">117</container> 
+			 <unittitle> 
+				<persname role="composer">Laneri, Roberto, 1945-</persname> 
+				<title type="transcribed">The night brings a rabbit : for clarinet
+				  + percussion / Roberto Laneri ; G. Schiaffini.</title> 
+				<unitdate>1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (8 leaves) ; 21 x 53 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Caption title. For voice (without text),
+				clarinet, and percussion. "Dec. 1969/Jan. '70"--Caption. Includes performance
+				instructions (leaf 8). Marked for performance by percussionist Jan Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">118</container> 
+			 <unittitle> 
+				<persname role="composer">Lepre, Robert</persname> 
+				<title type="uniform">Snare drum solo, no. 1</title> 
+				<title type="transcribed">Snare drum solo : no. 1 / Robert
+				  Lepre</title> <imprint>New York, N.Y. : Music for Percussion, </imprint> 
+				<unitdate>c1964. </unitdate> </unittitle> 
+			 <physdesc><extent>[3] p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Inscription on title page. from composer to Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">119</container> 
+			 <unittitle> 
+				<persname role="composer">Levick, Hugh</persname> 
+				<title type="uniform">Embrace of reasonable terror.
+				  Selections</title> 
+				<title type="transcribed">The embrace of reasonable terror / Hugh
+				  Levick.</title> 
+				<unitdate>[1986?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (1-11, 1-12, 15-23, 69-92 leaves) ; 29
+				x 36 cm. + 1 ms. part (92 p.) ; 28 x 37 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Caption title. Five "opera sequences" to be
+				performed as incidental music to Yves Reynaud's play, Les guerres froides. For
+				voices (spoken and sung), saxophone (soprano, alto, and tenor), percussion, and
+				piano. Words in English. Score marked for performance by percussionist Jan
+				Williams; piano part unmarked. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">120</container> 
+			 <unittitle> 
+				<persname role="composer">Lockwood, Annea, 1939-</persname> 
+				<title type="transcribed">Amazonia dreaming / Annea
+				  Lockwood</title> <imprint>[S.l.] : Sonic Art Editions, </imprint> 
+				<unitdate>1988. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([2] leaves) ; 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For snare drum. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">121</container> 
+			 <unittitle> 
+				<persname role="composer">Lylloff, Bent</persname> 
+				<title type="uniform">Etudes, percussion, no. 10</title> 
+				<title type="transcribed">Århus etude nr. 10 : 6 players. Etude for
+				  percussion ensemble</title> <imprint>[Copenhagen] : Wilhelm Hansen</imprint>, 
+				<unitdate>[c1970] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score ([3] p.) and 5 parts. ; 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. For triangle, tambourin, snare drum, cymbal, bass
+				drum and timpani. Inscription on cover from the composer to Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <container type="item">122</container> 
+			 <unittitle> 
+				<persname role="composer">Macbride, David</persname> 
+				<title type="transcribed">Quiet / David Macbride</title>
+				<imprint>New York, N.Y. : American Composers Alliance, </imprint> 
+				<unitdate>1983. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (iv, 6 p.) ; 37 x 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Reproduction). Includes performance instructions. At
+				end of score: 6/81, Sweet Briar, Va. ; Rev. 5/83, Saratoga Springs, NY.
+				Additional typescript list of revisions (1 leaf) inserted. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">123</container> 
+			 <unittitle> 
+				<persname role="composer">Mantel, Mark, 1961-</persname> 
+				<title type="uniform">Folk songs, clarinet, percussion (4)</title> 
+				<title type="transcribed">Folk songs / Mark Mantel.</title> 
+				<unitdate>[1985] </unitdate> </unittitle> 
+			 <physdesc><extent>7 ms. parts ([2] leaves each) ; 39 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title from verso of leaf [1]. Holograph (Photocopy). For clarinet
+				(bass clarinet) and percussion (4 players). Parts marked for performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">124</container> 
+			 <unittitle> 
+				<persname role="composer">Matamoros, Gustavo, 1957-</persname> 
+				<title type="transcribed">In memory of gentle giant : for
+				  percussion and tape / Gustavo Matamoros.</title> 
+				<unitdate>1989. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (6 leaves) ; 29 x 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. "Written for Gordon Gottlieb." At end:
+				March 15th, 1989. Duration 8:40. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">125</container> 
+			 <unittitle> 
+				<persname role="composer">Matamoros, Gustavo, 1957-</persname> 
+				<title type="transcribed">Truly yours : for xylophone and taped
+				  ensemble / Gustavo Matamoros.</title> 
+				<unitdate>[c1987] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (5 leaves) ; 23 x 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). "Taped ensemble consisting of: drums,
+				cymbals, vibes and DX-7." Duration: 6:14. Performance instructions preceding
+				score. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">126</container> 
+			 <unittitle> 
+				<persname role="composer">Milhaud, Darius, 1892-1974</persname> 
+				<title type="uniform">Concertos, percussion, orchestra, op. 109;
+				  arr.</title> 
+				<title type="transcribed">Concerto pour batterie et petit orchestre
+				  / Darius Milhaud ; réduction pour batterie et piano</title> <imprint>Wien :
+				Universal Edition, </imprint> 
+				<unitdate>1958, c1931. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (22 p.) ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For 1 percussionist and piano; acc. originally for chamber
+				orchestra. "Versione per 1 esecutore"--Caption, percussion part. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">127</container> 
+			 <unittitle> 
+				<persname role="composer">Miranda, Anthony</persname> 
+				<title type="uniform">Solos, drum set</title> 
+				<title type="transcribed">11 solos for the drumset / by Anthony
+				  Miranda</title> <imprint>Ft. Lauderdale, FL : Music for Percussion, </imprint> 
+				<unitdate>c1986. </unitdate> </unittitle> 
+			 <physdesc><extent>36 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. For five piece drum set (snare drum, small tom-tom,
+				medium tom-tom, large tom-tom, bass drum) and cymbals. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">128</container> 
+			 <unittitle> 
+				<persname role="composer">Miranda, Anthony</persname> 
+				<title type="uniform">Solos, drum set</title> 
+				<title type="transcribed">Eleven solos for the drum set / Anthony
+				  Miranda.</title> 
+				<unitdate>[1979] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (unpaged) ; 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Holograph (Photocopy). "To my parents, fiancé, and to
+				the following percussionists to whom I am indebted: Jan Williams, Dennis
+				Walters, John Rowland, Jan Williams, Joe Morello, Jan Williams, Michael
+				Pugliese, Jan Williams, Melissa Mediak, Lynn Harbold, Bent Lyloff." </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">129</container> 
+			 <unittitle> 
+				<persname role="composer">Miranda, Anthony</persname> 
+				<title type="uniform">Episodes, snare drum</title> 
+				<title type="transcribed">Two episodes for solo snare drum /
+				  Anthony Miranda</title> <imprint>Lancaster, NY : A.M. Percussion Publications,
+				</imprint> 
+				<unitdate>c1986. </unitdate> </unittitle> 
+			 <physdesc><extent>3 p. of music ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Inscription on title page. from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">130</container> 
+			 <unittitle> 
+				<persname role="composer">Miroglio, Francis</persname> 
+				<title type="transcribed">Ping-squash : jeu sonore, pour 1 our 2
+				  our 3 percussions / Francis Miroglio.</title> 
+				<unitdate>[1980] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score + 2 parts (1 folded leaf each) ; 33 x 43
+				cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Musical game for two percussionists. Cover title. Score consists
+				of performance instructions in French. Reproduced from manuscript. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">131</container> 
+			 <unittitle> 
+				<persname role="composer">Monaco, Alfredo del, 1938-</persname> 
+				<title type="transcribed">Encuentros del eco-- : para dos pianos y
+				  dos percusionistas / Alfredo del Monaco</title> <imprint>Caracas, Venezuela :
+				Consejo Nacional de la Cultura, Instituto Latinoamericano de Investigaciones y
+				Estudios Musicales "Vicente Emilio Sojo", </imprint> 
+				<unitdate>1979. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (8 p.) : port. ; 39 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Includes performance instructions in Spanish and English ;
+				biographical note in Spanish. Reproduced from holograph. At end: Berlin,
+				I-V-76. Inscription on title page. from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">132</container> 
+			 <unittitle> 
+				<persname role="composer">Moss, Lawrence</persname> 
+				<title type="transcribed">Incidental music : for percussion and
+				  mime/dancer / Lawrence Moss.</title> 
+				<unitdate>1986. </unitdate> </unittitle> 
+			 <physdesc><extent>9 p. of ms. music ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (photocopy). At end: Malmantile (Firenze) 8/2/86.
+				Duration: ca. 16:00. Inscription on title page. from the composer to
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">133</container> 
+			 <unittitle> 
+				<persname role="composer">Newell, John, 1949-</persname> 
+				<title type="transcribed">Prosody / John Newell.</title> 
+				<unitdate>c1977. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (11 leaves) ; 37 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. Caption title. For solo percussion.
+				Inscription on title page. from the composer to percussionist Jan Williams. At
+				end: "Buffalo, March 1977." </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">134</container> 
+			 <unittitle> 
+				<persname role="composer">Nilsson, Bo</persname> 
+				<title type="transcribed">Reaktionen : für 4 Schlagzeuger / Bo
+				  Nilsson ; Auftragskomposition Radio Bremen ; Faksimilereproduktion</title>
+				<imprint>London : Universal Edition, </imprint> 
+				<unitdate>[c1961] </unitdate> </unittitle> 
+			 <physdesc><extent>[3] p., score ([3]] p. ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For 4 performers, each with an identical assortment of percussion
+				instruments. Performance instructions in German, French and English.
+				Realization notes by percussionist Max Neuhaus (6 leaves) inserted. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">135</container> 
+			 <unittitle> 
+				<persname role="composer">Nørgård, Per, 1932-</persname> 
+				<title type="transcribed">I ching : percussion solo / Per Nørgård ;
+				  [ed. by Gert Mortensen]</title> <imprint>Copenhagen : Edition W. Hansen ;New
+				York : Edition W. Hansen/Chester Music : Distribution, Magnamusic-Baton,
+				</imprint> 
+				<unitdate>c1987. </unitdate> </unittitle> 
+			 <physdesc><extent>49 leaves of music ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Inscription on title page. from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <container type="item">136</container> 
+			 <unittitle> 
+				<persname role="composer">Nordheim, Arne</persname> 
+				<title type="uniform">Response, no. 1</title> 
+				<title type="transcribed">Response 1 : for two percussion groups
+				  and magnetic tape / Arne Nordheim</title> <imprint>København : Wilhelm Hansen,
+				</imprint> 
+				<unitdate>c1969. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (16 leaves) ; 30 x 42 cm.</extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Duration: 16:00. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">137</container> 
+			 <unittitle> 
+				<persname role="composer">Ortiz, William</persname> 
+				<title type="transcribed">Graffiti nuyorican : (para piano y
+				  percusión) / William Ortiz.</title> 
+				<unitdate>c1984. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (14 leaves) ; 28 x 33 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). At end: Alvarado 6-28-83. Percussion : 2
+				congas, claves, timbales, platillo, 2 cencerros, vibraphone, bongos, maraca.
+				Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">138</container> 
+			 <unittitle> 
+				<persname role="composer">Ortiz, William</persname> 
+				<title type="transcribed">Street music : for flute, trombone and
+				  percussion = Música de la calle : para flauta, trombón y percusión / William
+				  Ortiz.</title> 
+				<unitdate>[1980?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (11 leaves) ; 28 x 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Performance instructions in English.
+				Marked for performance by percussionist Jan Williams; score also marked with
+				alterations. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">139</container> 
+			 <unittitle> 
+				<persname role="composer">Ortiz, William</persname> 
+				<title type="transcribed">124 E. 107th St. : for percussion,
+				  narrator-actor and electronic tape / William Ortiz.</title> 
+				<unitdate>[1979] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (32 leaves) ; 32 x 38 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Texts by Pedro Pietri, and Sandra
+				Esteves. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">140</container> 
+			 <unittitle> 
+				<persname role="composer">Ortiz, William</persname> 
+				<title type="transcribed">Palm tree in Spanglish figurines : para 4
+				  timpani / William Ortiz.</title> 
+				<unitdate>[1987] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (7 leaves) ; 23 x 38 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). At end: "William Ortiz - Alvarado
+				10/19/87." Duration: 11:00. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">141</container> 
+			 <unittitle> 
+				<persname role="composer">Pablo, Luis de</persname> 
+				<title type="transcribed">A modo de concierto : per percussione e
+				  strumenti (1976) / Luis de Pablo. </title> <imprint>Milano : Edizioni Suvini
+				Zerboni, </imprint> 
+				<unitdate>c1977. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (22 p.) ; 48 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For percussionist solo, piano, celesta, glockenspiel, 8 violins or
+				two small electric organs, and 8 violoncelli or two small electric organs.
+				Reproduced from holograph. Inscription on title page. from the composer to
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">142</container> 
+			 <unittitle> 
+				<persname role="composer">Pablo, Luis de</persname> 
+				<title type="transcribed">Le prie-dieu sur la terrasse : per un
+				  percussionista / Luis De Pablo</title> <imprint>Milano : Suvini Zerboni,
+				</imprint> 
+				<unitdate>c1977. </unitdate> </unittitle> 
+			 <physdesc><extent>11 ms. leaves of music ; 29 x 43 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Chance composition. Diagrammatic
+				notation. Duration: 17:10. "Octobre-Diciembre 1973, Buffalo (N.Y.)."
+				Inscription on title page. from the composer to percussionist Jan Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">143</container> 
+			 <unittitle> 
+				<persname role="composer">Pablo, Luis de</persname> 
+				<title type="transcribed">Saturno : per due percussionisti (1983) /
+				  Luis de Pablo</title> <imprint>Milano : Suvini Zerboni, </imprint> 
+				<unitdate>c1983. </unitdate> </unittitle> 
+			 <physdesc><extent>2 scores (14 p. each) ; 35 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Inscription on title page. from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">144</container> 
+			 <unittitle> 
+				<persname role="composer">Pecquet, Frank</persname> 
+				<title type="transcribed">Marianna : trio for guitar, cello and
+				  percussion / Frank Pecquet.</title> 
+				<unitdate>1987. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([I], 14 leaves) ; 28 x 44 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For amplified guitar, cello, and percussion
+				(one player). Caption title. Includes performance instructions in English, p.
+				[I]. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">145</container> 
+			 <unittitle> 
+				<persname role="composer">Penner, Bruce</persname> 
+				<title type="transcribed">The bears of Elisha : percussion duo / by
+				  Bruce Penner</title> <imprint>Fort Lauderdale, Fla. (170 N.E. 33rd St., Ft.
+				Lauderdale, FL 33334) : Music for Percussion, </imprint> 
+				<unitdate>c1980. </unitdate> </unittitle> 
+			 <physdesc><extent>2 scores (6 p. each) ; 31 cm. </extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Includes instructions for performance. Marked
+				(minimally) for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">146</container> 
+			 <unittitle> 
+				<persname role="composer">Rimmer, John, 1939-</persname> 
+				<title type="transcribed">Clouds over Pirongia : for percussion
+				  quartet / John Rimmer</title> <imprint>Auckland : Catena Press, </imprint> 
+				<unitdate>[1984] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (6 p.) ; 32 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Inscription on caption from the composer to
+				percussionist Jan Williams. Reproduced from manuscript. At end: "Cambridge N.Z.
+				January, 1984." </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">147</container> 
+			 <unittitle> 
+				<persname role="composer">Chadabe, Joel</persname> 
+				<title type="transcribed">[Valentine / Joel Chadabe].</title> 
+				<unitdate>[1989?] </unitdate> </unittitle> 
+			 <physdesc><extent>3 ms. leaves) ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For computer and percussion. Instructions by Jan Williams for
+				performance of Joel Chadabe's composition, Valentine (2 leaves) and lead sheet
+				(photocopy) of song by Richard Rodgers, My funny valentine (1 leaf). </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">148</container> 
+			 <unittitle> 
+				<persname role="composer">Rolnick, Neil B.</persname> 
+				<title type="transcribed">Ever-livin' rhythm / by Neil B.
+				  Rolnick.</title> 
+				<unitdate>c1978. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (7 leaves) ; 22 x 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For solo percussion (including marimba,
+				vibraphone), and tape. Duration: 10:00. Includes performance instructions and
+				drawing of stage set-up. At end: 1977, Berkeley, Stanford, Paris. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">149</container> 
+			 <unittitle> 
+				<persname role="composer">Rosen, Jerome, 1921-</persname> 
+				<title type="uniform">Elegy, percussion</title> 
+				<title type="transcribed">Elegy : for solo percussion / Jerome
+				  Rosen.</title> 
+				<unitdate>1963. </unitdate> </unittitle> 
+			 <physdesc><extent>3 ms. leaves of music ; 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Caption title. In caption of p. [1]: For
+				Stan Lunetta. Marked for performance by percussionist Jan Williams, including
+				diagram of stage set-up. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <container type="item">150</container> 
+			 <unittitle> 
+				<persname role="composer">Rosenboom, David</persname> 
+				<title type="transcribed">Continental divide : Denver, 1964 / David
+				  Rosenboom.</title> 
+				<unitdate>c1964. </unitdate> </unittitle> 
+			 <physdesc><extent>1 leaf of ms. music ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Photocopy). For 1 or more pianos, or
+				pitched mallet instruments. Three copies included. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">151</container> 
+			 <unittitle> 
+				<persname role="composer">Rotter, Jorge</persname> 
+				<title type="uniform">Variations, percussion ensemble</title> 
+				<title type="transcribed">Variaciones : 1965 : para 4 grupos de
+				  percusión / [Jorge Rotter].</title> 
+				<unitdate>1965. </unitdate> </unittitle> 
+			 <physdesc><extent>3 ms. parts ; 42 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Ozalid copy). Percussion II part
+				wanting. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">152</container> 
+			 <unittitle> 
+				<persname role="composer">Ruders, Poul, 1949-</persname> 
+				<title type="transcribed">Cha-cha-cha : a one man show for Jan
+				  Williams / Poul Ruders.</title> 
+				<unitdate>1981. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (A-C, 6 leaves) : ill. ; 36 x 46 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For solo percussion. "Final part of a
+				trilogy of compositions all dealing with Latin American rhythms and percussion
+				instruments." Includes performance instructions. At end: August CPH, 81. Marked
+				for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">153</container> 
+			 <unittitle> 
+				<persname role="composer">Ruders, Poul, 1949-</persname> 
+				<title type="transcribed">Wind-drumming / Poul Ruders.</title> 
+				<unitdate>1979. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (52 leaves) : ill. ; 42 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For amplified flute, oboe (English horn), clarinet, horn, bassoon,
+				and percussion (4 players). Holograph (Photocopy). Duration: ca. 11:30. Marked
+				for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">154</container> 
+			 <unittitle> 
+				<persname role="composer">Rzewski, Frederic</persname> 
+				<title type="transcribed">Lost and found : for Jan Williams /
+				  Frederic Rzewski.</title> 
+				<unitdate>1985. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (3 p.) ; 30 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Caption title. For 1 performer, speaking
+				and acting. Score is in form of written instructions. "Text: Excerpt from
+				letter home from Vietnam by Lieutenant Marion Lee (Sandy) Kempner of Galveston,
+				Texas, August 7, 1966, as reprinted in N.Y. Times, Oct. 1, 1984." Duration:
+				9:00-15:00. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">155</container> 
+			 <unittitle> 
+				<persname role="composer">Rzewski, Frederic</persname> 
+				<title type="transcribed">Les moutons de Panurge / Rzewski.</title>
+				
+				<unitdate>[1969?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. leaf of music ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Includes performance instructions. Marked
+				for performance by percussionist Jan Williams. Extra, marked copy inserted.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">156</container> 
+			 <unittitle> 
+				<persname role="composer">Rzewski, Frederic</persname> 
+				<title type="transcribed">To the earth / Frederic Rzewski.</title> 
+				<unitdate>1985. </unitdate> </unittitle> 
+			 <physdesc><extent>5 leaves of ms. music ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph. Caption title. For speaking percussionist; text from a
+				Homeric hymn. Words in English. Includes photocopies of leaves 2-5, with
+				alterations to the music. "4/85"--Caption. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">157</container> 
+			 <unittitle> 
+				<persname role="composer">Sahl, Michael, 1934-</persname> 
+				<title type="transcribed">Five piece / Michael Sahl.</title> 
+				<unitdate>[196-?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (16 p.) ; 37 cm. + 1 ms. part (14 p.) ;
+				34 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Ozalid copy). For vibraphone, guitar,
+				percussion (1 player), double bass, and piano. Missing final page(s). Part for
+				mallets, guitar, bass, with cues for piano part. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">158</container> 
+			 <unittitle> 
+				<persname role="composer">Sahl, Michael, 1934-</persname> 
+				<title type="transcribed">The last elms of Bidwell Parkway : 1991 /
+				  Michael Sahl.</title> 
+				<unitdate>1991. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (13 leaves) ; 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Photocopy). For piano and percussion (1
+				player). At end: 1/30/91. Marked for performance by percussionist Jan Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">159</container> 
+			 <unittitle> 
+				<persname role="composer">Sahl, Michael, 1934-</persname> 
+				<title type="transcribed">Vibraphone piano and percussion piece /
+				  Michael Sahl.</title> 
+				<unitdate>[1961] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (9 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Ozalid copy). Includes performance
+				instructions. At end: Dec. 6, 1961, Montuipaldi. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">160-161</container> 
+			 <unittitle> 
+				<persname role="composer">Samkopf, Kjell, 1952-</persname> 
+				<title type="transcribed">Ingoma : variations on a drum solo from
+				  Burundi, Africa ; for percussion quintet = Variasjoner over en trommesolo fra
+				  Burundi, Afrika ; for slagverkkvintett / Kjell Samkopf</title> <imprint>Oslo :
+				Musikk-Husets Forlag A/S, </imprint> 
+				<unitdate>c1989. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (36 p.) + 5 parts ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Commissioned by the Norwegian Band Federation. First performed on
+				November 29, 1986 at the Munch Museum, Oslo, Norway. Duration: ca. 7:00. Marked
+				for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">162-163</container> 
+			 <unittitle> 
+				<persname role="composer">Samkopf, Kjell, 1952-</persname> 
+				<title type="uniform">Variasjoner over Parang chant</title> 
+				<title type="transcribed">Variations on Parang Chant : for
+				  percussion sextett = Variasjoner over parang chant : for slagverksekstett /
+				  Kjell Samkopf</title> <imprint>Oslo : Musikk-Husets Forlag A/S, </imprint> 
+				<unitdate>[1985] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (32 p.) + 6 parts ; 32 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title page inscribed and signed by composer. Publisher's plate
+				number on first page of music only. Commissioned by the Norwegian Percussion
+				Society. First performed on February 27, 1983 at the Hovikodden Art Centre,
+				Oslo, Norway. Duration: ca. 10:00. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <container type="item">164</container> 
+			 <unittitle> 
+				<persname role="composer">Scelsi, Giacinto, 1905-1988</persname> 
+				<title type="transcribed">Okanagon : per arpa, contrabasso e
+				  Tam-tam / Giacinto Scelsi.</title> 
+				<unitdate>c1968. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (16 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Ms. (Ozalid copy). Cover title. Inscription on title page. from
+				the composer to Morton Feldman. Performance instructions in Italian. Marked for
+				performance by percussionist Jan Williams. Photocopy of score with markings on
+				harp part inserted. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">165</container> 
+			 <unittitle> 
+				<persname role="composer">Shapey, Ralph, 1921-2002</persname> 
+				<title type="uniform">Evocation, no. 1</title> 
+				<title type="transcribed">Evocation : no. 1 for violin, with
+				  percussion and piano (three scores are required for performance) / Ralph
+				  Shapey</title> <imprint>Bryn Mawr, Pa. (Bryn Mawr, Pa. 19010) : T. Presser,
+				</imprint> 
+				<unitdate>c1984. </unitdate> </unittitle> 
+			 <physdesc><extent>3 scores (41 p. each) ; 31 cm.</extent> </physdesc>
+			 
+		  </did> 
+		  <note> 
+			 <p>Duration: ca. 18:00. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">166</container> 
+			 <unittitle> 
+				<persname role="composer">Shapey, Ralph, 1921-2002</persname> 
+				<title type="transcribed">Gottlieb duo : for piano &amp;
+				  percussion, 9/27/84-11/27/84 / Ralph Shapey.</title> 
+				<unitdate>1984. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (30 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). "Commissioned by and dedicated to Gordon
+				Gottlieb." Label on cover: Theodore Presser Company, Bryn Mawr, Pennsylvania.
+				Marked for performance by percussionist Jan Williams. Additional photocopies of
+				6 pages for use on glockenspiel stand. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">167</container> 
+			 <unittitle> 
+				<persname role="composer">Simons, Netty</persname> 
+				<title type="transcribed">Design groups : for percussion (1967) ;
+				  for 1 to 3 players / Netty Simons.</title> 
+				<unitdate>1967. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score ([1] folded leaf) ; 28 x 34 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. In part, graphic notation. Duration:
+				5-7:00. Stamp in caption: "Rental material, Property of Theodore Presser
+				Company, Bryn Mawr, PA." Marked for performance by percussionist Jan Williams.
+				</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">168</container> 
+			 <unittitle> 
+				<persname role="composer">Singer, Lawrence</persname> 
+				<title type="uniform">Concertos, violin, chamber orchestra</title> 
+				<title type="transcribed">[Untitled work for violin solo,
+				  percussion, woodwinds, and strings] / Lawrence Singer.</title> 
+				<unitdate>c1968. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (34 p.) ; 39 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). At end of score: September, 1966, E.
+				Detroit, Michigan. Score marked for performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">169</container> 
+			 <unittitle> 
+				<persname role="composer">Skiba, Norman, 1953-</persname> 
+				<title type="transcribed">Noh : 4/5/86 / Norman Skiba.</title> 
+				<unitdate>1986. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (2 leaves) ; 25 x 38 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For percussion (1 player). Caption title. Holograph (Photocopy).
+				Includes performance instructions. Contains some markings by percussionist Jan
+				Williams. Second photocopy of score (2 leaves ; 16 x 25 cm.) with some
+				differences in notation inserted </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">170</container> 
+			 <unittitle> 
+				<persname role="composer">Smit, Leo, 1921-1999</persname> 
+				<title type="transcribed">Cock robin / Leo Smit.</title> 
+				<unitdate>1979. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (25 leaves) + 1 ms. part ; 35 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Title from holograph voice part. For
+				soprano, piccolo (or flute) and percussion. Words in English. Marked for
+				performance by percussionist Jan Williams; also marked with changes to the
+				score. At end of score: Sept. 22, 1979. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">171</container> 
+			 <unittitle> 
+				<persname role="composer">Speach, Bernadette, 1948-</persname> 
+				<title type="transcribed">Trajet / Bernadette Speach.</title> 
+				<unitdate>1983. </unitdate> </unittitle> 
+			 <physdesc><extent>2 ms. scores (6 leaves each) ; 36 x 55 cm.
+				</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For trombone and percussion (1 player). At
+				end of score: 8/22/83. Additional leaf with diagram of stage setup inserted.
+				Both scores marked for performance, one by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">172</container> 
+			 <unittitle> 
+				<persname role="composer">Stiebler, Ernstalbrecht, 1934-</persname>
+				
+				<title type="transcribed">Im Takt-- : für zwei kleine Bongos (1997)
+				  / Ernstalbrecht Stiebler</title> <imprint>Karlsruhe : Tre Media, </imprint> 
+				<unitdate>c1998. </unitdate> </unittitle> 
+			 <physdesc><extent>5 leaves of music ; 29 x 41 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Reproduced from holograph. "Original, see revisions
+				of 11/99 on copy"--Leaf 1. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">173</container> 
+			 <unittitle> 
+				<persname role="composer">Stiebler, Ernstalbrecht, 1934-</persname>
+				
+				<title type="transcribed">Im Takt-- : (1997) / Ernstalbrecht
+				  Stiebler.</title> 
+				<unitdate>1997. </unitdate> </unittitle> 
+			 <physdesc><extent>2 leaves of music ; 22 x 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. For two bongos, tuned approximately a fifth apart.
+				Marked for performance by percussionist Jan Williams; also marked with changes
+				to score. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">174</container> 
+			 <unittitle> 
+				<persname role="composer">Stiebler, Ernstalbrecht, 1934-</persname>
+				
+				<title type="transcribed">Im Takt-- : für zwei kleine Bongos (1997)
+				  / Ernstalbrecht Stiebler</title> <imprint>Karlsruhe : Tre Media, </imprint> 
+				<unitdate>c1998. </unitdate> </unittitle> 
+			 <physdesc><extent>5 leaves of music ; 28 x 35 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Reproduced from holograph. "Rev. by ES
+				11/18/99"--Leaf 1. Marked for performance by percussionist Jan Williams. Also
+				inserted: photocopy of typescript notes to Jan Williams (2 leaves); photocopy
+				of ms. note to Jan Williams (1 leaf); two reduced photocopies of leaf 3 and one
+				reduced photocopy of leaf 4 of the score. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <container type="item">175</container> 
+			 <unittitle> 
+				<persname role="composer">Stockhausen, Karlheinz,
+				  1928-2007</persname> 
+				<title type="transcribed">Plus minus : 2 x 7 Seiten für
+				  Ausarbeitungen, Nr. 14 / Karlheinz Stockhausen.</title> 
+				<unitdate>[1965?] </unitdate> </unittitle> 
+			 <physdesc><extent>7 folders of music</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Compilation of scores and musical materials for performance
+				realization by Jan Williams, Edward Burnham, and Cornelius Cardew. Title from
+				Universal Edition score. For 1 or several performers. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">176</container> 
+			 <unittitle> 
+				<persname role="composer">Williams, Jan, 1939-</persname> 
+				<title type="transcribed">Spiral / Stockhausen.</title> 
+				<unitdate>[1973 or after] </unitdate> </unittitle> 
+			 <physdesc><extent>5 ms. leaves ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Spiral is a composition by Karlheinz Stockhausen
+				for vocal or instrumental soloist and short-wave radio. Electronic
+				amplification and other electronic devices may also be used. These ms. notes
+				were written by percussionist Jan Williams in preparation for performance of
+				the piece. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">177</container> 
+			 <unittitle> 
+				<persname role="composer">Stravinsky, Igor, 1882-1971</persname> 
+				<title type="uniform">Histoire du soldat</title> 
+				<title type="transcribed">L'Histoire du soldat = The soldier's tale
+				  / by Igor Stravinsky ; edited by Frank Epstein</title> <imprint>[S.l.] : F.
+				Epstein, </imprint> 
+				<unitdate>c1995. </unitdate> </unittitle> 
+			 <physdesc><extent>1 part (23 p.) ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Ballet for narrator, 3 actors, and septet (clarinet, bassoon,
+				cornet, trombone, violin, double bass, and percussion). Percussion part. Marked
+				for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">178</container> 
+			 <unittitle> 
+				<persname role="composer">Swift, Richard, 1927-</persname> 
+				<title type="uniform">Domains, no. 2</title> 
+				<title type="transcribed">Domains II : Op. 30 [for] solo percussion
+				  / Richard Swift</title> <imprint>[S.l.], </imprint> 
+				<unitdate>1963. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([16] leaves) ; 31 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from ms. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">179</container> 
+			 <unittitle> 
+				<persname role="composer">Tenney, James</persname> 
+				<title type="transcribed">Pika-don = Flash-boom / James
+				  Tenney.</title> 
+				<unitdate>1991. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (84 p.) ; 28 x 43 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For four percussionists and four-track
+				tape. Includes performance instructions. "Commissioned by the Center for
+				Contemporary Arts in Santa Fe, New Mexico, for the University of New Mexico
+				Percussion Ensemble." Duration: 14:00. Marked for performance by percussionist
+				Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">180</container> 
+			 <unittitle> 
+				<persname role="composer">Tenney, James</persname> 
+				<title type="transcribed">Pika-don = Flash-boom / James
+				  Tenney.</title> 
+				<unitdate>1991. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (84 p.) ; 28 x 43 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For four percussionists and four-track
+				tape. Includes performance instructions. "Commissioned by the Center for
+				Contemporary Arts in Santa Fe, New Mexico, for the University of New Mexico
+				Percussion Ensemble." Duration: 14:00. Marked for performance by percussionist
+				Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">181</container> 
+			 <unittitle> 
+				<persname role="composer">Tenney, James</persname> 
+				<title type="transcribed">Rune / James Tenney.</title> 
+				<unitdate>1988. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (40 p.) ; 28 x 43 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For 5 percussionists. Duration: 20:00.
+				Diagrammatic notation. Commissioned by the Nexus Percussion Ensemble with a
+				grant from the Canada Council. Includes performance instructions. Additional
+				photocopies of even-numbered pages inserted to eliminate page turns. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">182</container> 
+			 <unittitle> 
+				<persname role="composer">Tremblay, Gilles</persname> 
+				<title type="transcribed">Le sifflement des vents porteurs de
+				  l'amour : pour flu^te et percussion / Gilles Tremblay.</title> 
+				<unitdate>1971. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (12 leaves) ; 39 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Photocopy). Includes performance
+				instructions. At end: Montréal, le 24 fevrier 1971. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">183</container> 
+			 <unittitle> 
+				<persname role="composer">Trythall, Richard</persname> 
+				<title type="uniform">Bolero, percussion ensemble</title> 
+				<title type="transcribed">Bolero : for 4 percussionists / Richard
+				  Trythall.</title> 
+				<unitdate>[1979]. </unitdate> </unittitle> 
+			 <physdesc><extent>4 ms. scores (18 p. ea.) ; 30 x 42 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). At end: "Roma April 6, 79." Duration: ca.
+				13:30. "Original, don't use"-- Caption. Marked for performance by percussionist
+				Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">184</container> 
+			 <unittitle> 
+				<persname role="composer">Trythall, Richard</persname> 
+				<title type="uniform">Bolero, percussion ensemble</title> 
+				<title type="transcribed">Bolero : for four percussionists / by
+				  Richard Trythall</title> <imprint>New York, NY (271 Central Park West, New
+				York, NY 10024) : Hartelu, </imprint> 
+				<unitdate>c1985. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (28 p.) + 4 parts ; 24 x 32 cm.</extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Duration: ca. 15:00. Marked for performance by percussionist Jan
+				Williams. Inscription on title page. from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">185</container> 
+			 <unittitle> 
+				<persname role="composer">Vigeland, Nils</persname> 
+				<title type="transcribed">Progress : for solo percussion (1984) /
+				  Nils Vigeland.</title> 
+				<unitdate>1984. </unitdate> </unittitle> 
+			 <physdesc><extent>13 leaves of ms. music ; 28 x 43 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Holograph (Photocopy). "Revised 3/84." Duration:
+				7:25. At end: 11/83 NYC. Performance instructions and other drafts of work
+				([25]) leaves ; 29 cm.) laid in container. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">186</container> 
+			 <unittitle> 
+				<persname role="composer">Vigeland, Nils</persname> 
+				<title type="transcribed">Social etudes : for six percussion
+				  players (2 vibraphones, 2 marimbas, glockenspiel, timpani, chimes and 5 gamuts
+				  of wood and metal sounds) / Nils Vigeland.</title> 
+				<unitdate>1983. </unitdate> </unittitle> 
+			 <physdesc><extent>5 ms. parts ; 22 x 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). "For Jan Williams"--Above title in caption.
+				At end of score: NYC - 6/14/83. Some pages oriented vertically. One complete
+				score/part consists of 18 leaves. Scores to be used as parts in combination
+				with separately written parts for musically independent sections. Includes
+				performance instructions. Part of Player 4 (Vibraphone B) wanting. Marked for
+				performance by percussionist Jan Williams. Typescript note from the composer to
+				Jan Williams (1 leaf) inserted. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">187</container> 
+			 <unittitle> 
+				<persname role="composer">Fulkerson, James</persname> 
+				<title type="transcribed">In quest of a silence / James
+				  Fulkerson.</title> 
+				<unitdate>[1977] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (27 p.) ; 35 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For trombone, vibraphone, and piano. Reproduced from holograph.
+				"Totnes Dec. 1977"--Colophon. Includes performance instructions. Score marked
+				for performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">188</container> 
+			 <unittitle> 
+				<persname role="composer">Vigeland, Nils</persname> 
+				<title type="transcribed">Songs in unknown tongues : for piano,
+				  celesta, percussion, and soprano : 3/91 / Nils Vigeland.</title> 
+				<unitdate>1991. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([11] leaves) ; 28 x 34 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (photocopy). For soprano, piano 4 hands, celesta, and
+				percussion. Texts in unknown languages, taken from The gift to be simple:
+				songs, dances and rituals of the American Shakers. Duration: ca. 6:30. At end:
+				Crestwood, 3/91. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">189</container> 
+			 <unittitle> 
+				<persname role="composer">Vigeland, Nils</persname> 
+				<title type="transcribed">Vara : for 2 glockenspiels, 3
+				  vibraphones, 1 xylo/marimba (with low A) and piano / by Nils Vigeland.</title> 
+				<unitdate>[1979] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (52 p.) ; 36 cm. + 6 ms. parts ; 22 x
+				36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Duration: ca. 23:00. At end of score: 3.
+				XII. 79. Score and parts marked for performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <container type="item">190</container> 
+			 <unittitle> 
+				<persname role="composer">Weddington, Maurice, 1941-</persname> 
+				<title type="transcribed">Six sung songs : op. 14 / Maurice
+				  Weddington.</title> 
+				<unitdate>1969. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (10 p.) ; 35 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Caption title. For solo percussion. May
+				be performed simultaneously with Six unsung songs for solo violoncello, op. 13.
+				Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">191</container> 
+			 <unittitle> 
+				<persname role="composer">Weill, Kurt, 1900-1950</persname> 
+				<title type="uniform">Aufstieg und Fall der Stadt Mahagonny.
+				  Alabama-Song; arr.</title> 
+				<title type="transcribed">Alabama song / [composed by] Weill ;
+				  [arr. by] Feldman.</title> 
+				<unitdate>1985. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (12 leaves) ; 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For voice, 2 saxophones, trumpet, trombone,
+				marimba, piano, and contrabass. Caption title. Voice part not written in score.
+				Words in English. "1st perf. A[lbright]-K[nox] Gallery, 3/31/85"--Caption.
+				Includes photocopy of p. 11-20 of the Universal Edition vocal score (UE 12889)
+				of excerpt, with Feldman's markings for his arrangement. Marked for performance
+				by conductor Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">192</container> 
+			 <unittitle> 
+				<persname role="composer">Williams, Jan, 1939- </persname> 
+				<title type="uniform">Variations, timpani</title> 
+				<title type="transcribed">Variations for solo kettledrums / Jan
+				  Williams</title> <imprint>New York : Music for Percussion, </imprint> 
+				<unitdate>c1968. </unitdate> </unittitle> 
+			 <physdesc><extent>7 p. of music ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Reproduced from holograph. Includes performance
+				instructions. At end of score: NYC May 6, 1964. Marked for performance by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">193</container> 
+			 <unittitle> 
+				<persname role="composer">Wolff, Christian, 1934-</persname> 
+				<title type="transcribed">Edges / Wolff</title> <imprint>New York :
+				C.F. Peters, </imprint> 
+				<unitdate>c1969. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (2 leaves) ; 28 x 39 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Graphic notation. Reproduced from holograph. title page./cover
+				wanting. Marked for performance by percussionist Jan Williams. Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">194</container> 
+			 <unittitle> 
+				<persname role="composer">Wolff, Christian, 1934-</persname> 
+				<title type="transcribed">Edges : fl., trb., perc. / Wolff</title>
+				<imprint>New York : C.F. Peters, </imprint> 
+				<unitdate>c1969. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (2 leaves) ; 21 x 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ink). Graphic notation. Title from ms. inscription on
+				leaf of performance instructions. Photocopy of performance instructions from
+				C.F. Peters published score and holograph of graphically-notated score (marked
+				"Perc."). title page./cover wanting. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">195</container> 
+			 <unittitle> 
+				<persname role="composer">Wolff, Christian, 1934-</persname> 
+				<title type="transcribed">Exercises / [Christian Wolff]</title>
+				<imprint>[New York : C.F. Peters, </imprint> 
+				<unitdate>c1974] </unitdate> </unittitle> 
+			 <physdesc><extent>36 ms. leaves ; 28-32 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Title from caption of performance instructions. Reproduced from
+				holograph. For any number of instruments, any number of players. Includes
+				instructions for performance. Includes 5 leaves of ms. notes by Jan Williams.
+				Marked for performance by percussionist Jan Williams. Consists of 1 complete
+				copy of Exercises 1-18, with duplicates of Exercises 1 (incomplete), 3, 6, 7,
+				9, 10, 11, 12, and 18. The scores are divided into two groups. The first group,
+				heavily marked for performance, consists of Exercises 1-3, 6-12, and 18. The
+				2nd group consists of Exercises 1 (incomplete), 3-7, 9-13, 14a, 14b,
+				15-18.Photocopy. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">196</container> 
+			 <unittitle> 
+				<persname role="composer">Wolff, Christian, 1934-</persname> 
+				<title type="transcribed">In between pieces : for three players /
+				  Christian Wolff</title> <imprint>New York : C.F. Peters, </imprint> 
+				<unitdate>c1963. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (2, 7 leaves) ; 21 x 30 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Chance composition; diagrammatic notation. Reproduced from
+				holograph. Includes instructions for performance. Marked for performance by
+				percussionist Jan Williams. Includes additional, unmarked photocopy.</p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">197</container> 
+			 <unittitle> 
+				<persname role="composer">Won, Yong Sook</persname> 
+				<title type="transcribed">Nirvana : for Jan Williams, 1979 / Yong
+				  Sook Won.</title> 
+				<unitdate>1979. </unitdate> </unittitle> 
+			 <physdesc><extent>8 p. of ms. music ; 30 x 42 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Reproduced from holograph. For percussion (1 player). Performance
+				instructions and photos of Asian instruments ([3] leaves) ; 26 x 37 cm., laid
+				in container. Annotated for performance. Duration: ca. 6:30. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">198</container> 
+			 <unittitle> 
+				<persname role="composer">Wuorinen, Charles</persname> 
+				<title type="transcribed">Spinoff : violin, contrabass, and congas
+				  / Charles Wuorinen</title> <imprint>New York (373 Park Ave. S., New York 10016)
+				: C.F. Peters, </imprint> 
+				<unitdate>c1987. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (16 p.) ; 36 cm.</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Marked for performance by percussionist Jan Williams. Duration:
+				6:00. "Composed for Speculum Musicae." At end of score: Charles Wuorinen, New
+				York and Middle Valley, 8 March - 23 April 1983. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">199</container> 
+			 <unittitle> 
+				<persname role="composer">Xenakis, Iannis, 1922-2001</persname> 
+				<title type="transcribed">Dmaathen : for oboe and percussion
+				  soloists / I. Xenakis</title> <imprint>Paris ;New York : Editions Salabert,
+				</imprint> 
+				<unitdate>1976. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (7 p.) ; 33 x 46 cm. + 1 part (11 p.) ; 36
+				cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Reproduced from holograph. Duration: ca. 10:00.
+				Instructions for fingerings for oboe multiphonics on p. 1. Plate number on
+				percussion part: E.A.S. 17.282. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">200</container> 
+			 <unittitle> 
+				<persname role="composer">Xenakis, Iannis, 1922-2001</persname> 
+				<title type="transcribed">Dmaathen : for oboe and percussion
+				  soloists / I. Xenakis</title> <imprint>Paris : Editions Salabert, </imprint> 
+				<unitdate>1976. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (7 leaves) ; 47 x 63 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Reproduced from holograph. Score mounted on
+				cardboard. Instructions for fingerings for oboe multiphonics on p. 1. Duration:
+				ca. 10:00. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">201</container> 
+			 <unittitle> 
+				<persname role="composer">Xenakis, Iannis, 1922-2001</persname> 
+				<title type="transcribed">Persephassa : pour six percussionistes /
+				  Iannis Xenakis</title> <imprint>Paris ;New York : Salabert, </imprint> 
+				<unitdate>c1970. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (39 p.) ; 35 cm.</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Duration: 20 min. In part, graphic notation. "Instrumental
+				nomenclature and placement of the 6 percussionists" (4 p.) laid in. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">202</container> 
+			 <unittitle> 
+				<persname role="composer">Xenakis, Iannis, 1922-2001</persname> 
+				<title type="transcribed">Psappha : percussion solo / Iannis
+				  Xenakis</title> <imprint>Paris : Editions Salabert, </imprint> 
+				<unitdate>[c1976] </unitdate> </unittitle> 
+			 <physdesc><extent>[9] p. ; 41 x 62 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Graphic notation. Includes instructions for
+				performance in French. "Editions Salabert Rental Library"--Stamp on cover.
+				Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">203</container> 
+			 <unittitle> 
+				<persname role="composer">Zajonc, Michael, 1956-</persname> 
+				<title type="transcribed">Frame / Michael Zajonc</title>
+				<imprint>Buffalo, N.Y. : Factotum Pub., </imprint> 
+				<unitdate>c1992. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (26 p.) ; 28 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For flute/alto flute, clarinet/bass clarinet, trumpet, trombone,
+				percussion (2 players), and piano. Duration: ca. 10:00. At end of score: 6
+				April 1982. Marked for performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">204</container> 
+			 <unittitle> 
+				<persname role="composer">Hiller, Lejaren, 1924-1994</persname> 
+				<title type="uniform">Algorithms, no. 3. Version, no. 1</title> 
+				<title type="transcribed">Algo. III, version 1 / [Lejaren Arthur
+				  Hiller].</title> 
+				<unitdate>[196-?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (52 leaves) ; 34 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Photocopy of holograph? For flute, clarinet, bassoon, trumpet,
+				harp, percussion, violin, violoncello, double bass, and tape recorder. Lacking
+				title page. and 3rd movement. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">205</container> 
+			 <unittitle> 
+				<persname role="composer">Johansson, Sven-åke</persname> 
+				<title type="uniform">Solostücke für Zion. No. 3</title> 
+				<title type="transcribed">3 Solostücke für Zion.. III / S-å
+				  Johansson.</title> 
+				<unitdate>1998. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. leaf of music ; 30 x 42 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). For solo snare drum. Caption title.
+				Accompanied by Ms. note (2 leaves) from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">206</container> 
+			 <unittitle> 
+				<persname role="composer">Orff, Carl, 1895-1982</persname> 
+				<title type="uniform">Carmina Burana. Vocal score</title> 
+				<title type="transcribed">Carmina burana : cantiones profanae,
+				  cantoribus et choris cantandae comitantibus instrumentis atque imaginibus
+				  magicis / Carl Orff</title> <imprint>Mainz : B. Schott's Söhne ;New York :
+				Schott Music, </imprint> 
+				<unitdate>[c1956] </unitdate> </unittitle> 
+			 <physdesc><extent>141 p. ; 31 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>"This edition ... is meant for production in schools and in music
+				societies who have no orchestra." Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">207</container> 
+			 <unittitle> 
+				<persname role="composer">Sahl, Michael, 1934-</persname> 
+				<title type="transcribed">For clarinet and percussion : 1965 /
+				  Michael Sahl.</title> 
+				<unitdate>[1961] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (6 p.) ; 43 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. Reproduced from holograph. For clarinet,
+				vibraphone/marimba, and drum set. At end: 7/28/65. McCall, Idaho. Marked for
+				performance by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">208</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Ni bruit ni vitesse : for piano keys and
+				  piano strings / Lukas Foss</title> <imprint>Paris : éditions Salabert,
+				</imprint> 
+				<unitdate>c1972. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (22 p.) ; 23 x 32 cm.</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Caption title. For 2 pianos and 2 percussionists (playing on the
+				piano strings) or 1 piano, 1 percussionist, and tape; in part, aleatoric.
+				Includes instructions for performance. Duration: 13:30. Marked for performance
+				by percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">209</container> 
+			 <unittitle> 
+				<persname role="composer">Simons, Netty</persname> 
+				<title type="transcribed">Puddintame / Netty Simons.</title> 
+				<unitdate>c1972. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score ([2] folded leaves) ; 36 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For narrator and unspecified group of instruments. Reproduced from
+				holograph. Text: various limericks. Includes 1 ms. leaf of performance notes by
+				Jan Williams. Inscription on title page. from the composer to percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <container type="item">210</container> 
+			 <unittitle> 
+				<persname role="composer">Matamoros, Gustavo, 1957-</persname> 
+				<title type="uniform">Selections</title> 
+				<title type="transcribed">In a fish tank / Gustavo
+				  Matamoros.</title> 
+				<unitdate>[1991-1996] </unitdate> </unittitle> 
+			 <physdesc><extent>1 folder (49 leaves)</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Photocopies and computer-generated printouts. Title from printout
+				of email concert notice. Materials used by Jan Williams for the Dec. 4, 1996
+				concert titled In a fish tank at Merkin Hall, New York City, of multiple pieces
+				by Gustavo Matamoros. Includes printout of email notice of concert (1 leaf) and
+				3 leaves with start times for pieces, including Pocket change and More or less,
+				or Time is money, from Music on a budget, each with descriptions of actions to
+				be taken by Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">211</container> 
+			 <unittitle> 
+				<persname role="composer">Hodkinson, Sydney</persname> 
+				<title type="transcribed">Interplay : a histrionic controversy for
+				  four musicians / by Sydney Hodkinson.</title> 
+				<unitdate>1966. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (24 p.) ; 36 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Completed in October 1966. For alto flute
+				doubling piccolo, clarinet doubling alto saxophone, percussion, and double
+				bass. Cover title. Marked for performance by percussionist Jan Williams.
+				Performing notes: p. A22-A24. Duration: ca. 12 min. At end of score: October
+				1966, Windsor, Ontario, Ann Arbor, Michigan. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">212</container> 
+			 <unittitle> 
+				<persname role="composer">Miroglio, Francis</persname> 
+				<title type="transcribed">Réfractions / Miroglio.</title> 
+				<unitdate>[1968?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score ([7] leaves) ; 40 x 63 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). For flute, violin, percussion, and piano.
+				Includes instructions for performance. Marked for performance by percussionist
+				Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">213</container> 
+			 <unittitle> 
+				<persname role="composer">Kolb, Barbara</persname> 
+				<title type="uniform">Place settings</title> 
+				<title type="transcribed">[Three place settings : for violin,
+				  clarinet, double bass, percussion, and narrator / Barbara Kolb].</title> 
+				<unitdate>[1968]. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (13 leaves) ; 29 x 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Ozalid copy). Title supplied by cataloger; title page.
+				wanting. At end of score: "Barbara Kolb, February, 1968, New York City."
+				Includes performance notes. Marked for performance by percussionist Jan
+				Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">214</container> 
+			 <unittitle> 
+				<persname role="composer">Moran, Robert, 1937-</persname> 
+				<title type="uniform">Bombardments, no. 2</title> 
+				<title type="transcribed">Bombardments, no. 2 : percussion
+				  ensemble, 1 to 5 players / Robert Moran</title> <imprint>New York : C.F.
+				Peters, </imprint> 
+				<unitdate>c1966. </unitdate> </unittitle> 
+			 <physdesc><extent>5 diagrammatic scores ([1] fold. leaf each) ; 30
+				cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Cover title. Scores marked for performance, in part by
+				percussionist Jan Williams. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">215</container> 
+			 <unittitle> 
+				<persname role="composer">Vigeland, Nils</persname> 
+				<title type="transcribed">Octet : original version /
+				  Vigeland.</title> 
+				<unitdate>[1978]. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (47 leaves) ; 22 x 28 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). Title from accompanying envelope. For
+				percussion (glockenspiel, vibraphone, marimba and 2 timpani) [1 player],
+				clarinet (B? and bass), piano, string quartet . </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">216</container> 
+			 <unittitle> 
+				<persname role="composer">Vigeland, Nils</persname> 
+				<title type="transcribed">Octet : 1978 : for percussion
+				  (glockenspiel, vibraphone, marimba and 2 timpani), clarinet (B? and bass),
+				  piano, string quartet / by Nils Vigeland.</title> 
+				<unitdate>[1980]. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (72 p.) ; 22 x 28 cm. + 5 parts ; 28-36
+				cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Holograph (Photocopy). At end of score: South Bend, 2/19/78; rev.
+				Dobbs Ferry, 1/80. Score contains numerous corrections and performance
+				markings; some pages replaced by photocopies and additional photocopied pages
+				have been inserted into the original sequence of pages. Parts incomplete:
+				string quartet parts (with duplicate of viola) and percussion; marked for
+				performance. Duration: ca. 17:00. Accompanied by correspondence from Nils
+				Vigeland to Diane and Jan Williams, and from Diane Williams to John Duffy of
+				Meet the Composer (6 leaves ms. and typescript). </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">217</container> 
+			 <unittitle> 
+				<persname role="composer">Nørgård, Per, 1932-</persname> 
+				<title type="transcribed">Mating dance / Per Nørgård.</title> 
+				<unitdate>[1977]. </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (9 p.) ; 35 cm.</extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Photocopy of ms. Caption title. For flute and guitar; score marked
+				by percussionist Erik Jacobsen to be performed by flute and percussion
+				(crotales, marimba, and vibraphone). Includes prefatory leaf of performance
+				instructions for the first version of this work which was titled Returns and
+				was for solo guitar. At end of score: "Kbh. 25/11 - 77". Includes typescript
+				letter (1 leaf) dated Jan. 26, 1979 from Erik Jacobsen to percussionist Jan
+				Williams with an explanation of how the present version came about and
+				performance instructions. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">218</container> 
+			 <unittitle> 
+				<persname role="composer">Mott, David</persname> 
+				<title type="uniform">Ceremony, no. 1-2</title> 
+				<title type="transcribed">Ceremony. 1-7 / David Mott.</title> 
+				<unitdate>[197-?] </unitdate> </unittitle> 
+			 <physdesc><extent>1 ms. score (11 leaves) ; 36 x 44 cm. </extent>
+				</physdesc> 
+		  </did> 
+		  <note> 
+			 <p>For flute with percussion (1 player). Spine title. Holograph
+				(Ozalid reproduction). Author's signature appears on first leaf of music. Score
+				has been annotated with performance notes for percussionist. Includes 1 leaf of
+				instructions, 3 leaves of performance notes. Ceremony 3 is missing; Ceremony 4
+				is reproduced four times. Percussion part marked by Jan Williams for
+				performance. </p> 
+		  </note> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">219</container> 
+			 <unittitle> 
+				<persname role="composer">Foss, Lukas, 1922-2009</persname> 
+				<title type="transcribed">Music for six / Lukas Foss</title>
+				<imprint>New York : Pembroke Music Co. : C. Fischer, sole selling agents,
+				</imprint> 
+				<unitdate>c1978. </unitdate> </unittitle> 
+			 <physdesc><extent>6 parts ; 30 cm. </extent> </physdesc> 
+		  </did> 
+		  <note> 
+			 <p>Chance composition for 6 unspecified instruments. "Commissioned by
+				the Philadelphia Composer's Forum." Duration: ca. 15 min. Parts marked for
+				performance by ensemble conducted by Jan Williams. </p> 
+		  </note> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject encodinganalog="650" source="lcsh">Percussion music--Scores</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Williams, Jan, 1939- --Archives</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<separatedmaterial encodinganalog="540 0">
+		<head>Separated Material</head>
+		<p>The following scores without markings were removed from the collection and cataloged 
+		to the General Collection: </p>
+
+<p><bibref><persname>Adams, John Luther </persname> : <title>Five pieces from Coyote builds North America </title></bibref></p>
+
+<p><bibref><persname>Bergamo, John </persname> : <title>Tanka (1976 copy) </title></bibref></p>
+
+<p><bibref><persname>Boone, Charles </persname> : <title>Morphosis, percussion quartet </title></bibref></p>
+
+<p><bibref><persname>Boyd, Anne </persname> : <title>KaKan </title></bibref></p>
+
+<p><bibref><persname>Cage, John </persname> : <title>Sixteen dances, for soloist and company of 3 (1951) </title></bibref></p>
+
+<p><bibref><persname>Cardew, Cornelius </persname> : <title>Sextet--The tiger's mind </title></bibref></p>
+
+<p><bibref><persname>Carl, Robert </persname> : <title>Magic act, 1988, for violin and marimba </title></bibref></p>
+
+<p><bibref><persname>Celimli, Evren </persname> : <title>Dawnbreaker </title></bibref></p>
+
+<p><bibref><persname>Cerro, Emiliano del </persname> : <title>At least at death... </title></bibref></p>
+
+<p><bibref><persname>Cerro, Emiliano del </persname> : <title>Black chamber </title></bibref></p>
+
+<p><bibref><persname>Cerro, Emiliano del </persname> : <title>Prometida oscuridad (Promised obscurity) </title></bibref></p>
+
+<p><bibref><persname>Chadabe, Joel </persname> : <title>Interactions (3) </title></bibref></p>
+
+<p><bibref><persname>Cope, David </persname> : <title>Towers </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Annales sans condition </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Aria da concerto: Bellini on the moon </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Aria per pianoforte </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Aria per violoncello </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Canto d'azione </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Charivari 2000 </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Melodia </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Popular songs </title></bibref></p>
+
+<p><bibref><persname>Di Pietro, Rocco </persname> : <title>Segue l'arie Donizetti in Buffalo </title></bibref></p>
+
+<p><bibref><persname>Duckworth, William </persname> : <title>Pitch city </title></bibref></p>
+
+<p><bibref><persname>Durko Zsolt </persname> : <title>Quattro dialoghi </title></bibref></p>
+
+<p><bibref><persname>Eastman, Julius </persname> : <title>Tripod </title></bibref></p>
+
+<p><bibref><persname>Eberhard, Dennis </persname> : <title>Dialogues II </title></bibref></p>
+
+<p><bibref><persname>Eisma, Will </persname> : <title>Because it is </title></bibref></p>
+
+<p><bibref><persname>Eisma, Will </persname> : <title>Gezang XXIII for violin and percussion </title></bibref></p>
+
+<p><bibref><persname>Eisma, Will </persname> : <title>Metselwerk for solo-percussion and orchestra </title></bibref></p>
+
+<p><bibref><persname>Elwood, Paul Iserman </persname> : <title>Big sky </title></bibref></p>
+
+<p><bibref><persname>Ficarelli, Mario </persname> : <title>Ensaio (1972) </title></bibref></p>
+
+<p><bibref><persname>Foss, Lukas </persname> : <title>Airs for Frank O'Hara's angel </title></bibref></p>
+
+<p><bibref><persname>Foss, Lukas </persname> : <title>Paradigm </title></bibref></p>
+
+<p><bibref><persname>Fulkerson, Christopher </persname> : <title>The Childermass </title></bibref></p>
+
+<p><bibref><persname>Fulkerson, Christopher </persname> : <title>Night litany </title></bibref></p>
+
+<p><bibref><persname>Fulkerson, James </persname> : <title>In quest of a silence </title></bibref></p>
+
+<p><bibref><persname>Fulkerson, James </persname> : <title>Two activities </title></bibref></p>
+
+<p><bibref><persname>Fulkerson, Mary </persname> : <title>Unity piece </title></bibref></p>
+
+<p><bibref><persname>Furioso, William </persname> : <title>Solo encounter </title></bibref></p>
+
+<p><bibref><persname>Gann, Kyle </persname> : <title>Cherokee songs </title></bibref></p>
+
+<p><bibref><persname>Garcia, Orlando Jacinto </persname> : <title>Variations on metallic and wooden shades </title></bibref></p>
+
+<p><bibref><persname>Garca, Orlando Jacinto </persname> : <title>Individual migrations</title></bibref></p>
+
+<p><bibref><persname>Gibson, David </persname> : <title>Thirteen ways of looking at a blackbird </title></bibref></p>
+
+<p><bibref><persname>Goodman, Saul </persname> : <title>Scherzo, for percussion </title></bibref></p>
+
+<p><bibref><persname>Grana, Edgar David </persname> : <title>Songs at sundown </title></bibref></p>
+
+<p><bibref><persname>Hand, Mark </persname> : <title>Sources </title></bibref></p>
+
+<p><bibref><persname>Hatch, Peter Donald </persname> : <title>Blunt music </title></bibref></p>
+
+<p><bibref><persname>Hiller, Lejaren Arthur </persname> : <title>Machine music </title></bibref></p>
+
+<p><bibref><persname>Holten, Bo </persname> : <title>Wave and cut </title></bibref></p>
+
+<p><bibref><persname>Jack, </persname> : <title>Nouvelle etude </title></bibref></p>
+
+<p><bibref><persname>Johnson, Keith Victor </persname> : <title>Music for violin and marimba </title></bibref></p>
+
+<p><bibref><persname>Johnston, Ben </persname> : <title>Knocking piece II </title></bibref></p>
+
+<p><bibref><persname>Karkoff, Ingvar </persname> : <title>Concerto for alto saxophone and percussion </title></bibref></p>
+
+<p><bibref><persname>Klucevesk, Guy </persname> : <title>Caterpillar canon </title></bibref></p>
+
+<p><bibref><persname>Komorous, Rudolf </persname> : <title>Sladk klovna</title></bibref></p>
+
+<p><bibref><persname>Kwiatkowski, Ryszard </persname> : <title>xb-132 </title></bibref></p>
+
+<p><bibref><persname>La Barbara, Joan </persname> : <title>Chords and gongs </title></bibref></p>
+
+<p><bibref><persname>Lanza, Alcides </persname> : <title>Ektenes II </title></bibref></p>
+
+<p><bibref><persname>Luciuk, Juliusz </persname> : <title>Lirica di timbri per pianoforte </title></bibref></p>
+
+<p><bibref><persname>Lylloff, Bent </persname> : <title>Places </title></bibref></p>
+
+<p><bibref><persname>Macbride, David </persname> : <title>Murder by Macbride </title></bibref></p>
+
+<p><bibref><persname>Macbride, David </persname> : <title>XYWAYZ </title></bibref></p>
+
+<p><bibref><persname>Macchia, Salvatore </persname> : <title>Dance prelude </title></bibref></p>
+
+<p><bibref><persname>Maniel </persname> : <title>Folk songs for 4 percussionts and 1 clarinet </title></bibref></p>
+
+<p><bibref><persname>Mantel, Mark Douglas </persname> : <title>Folk songs, 4 pecussionists... </title></bibref></p>
+
+<p><bibref><persname>Mellnas, Arne </persname> : <title>Rendez-vous 2 </title></bibref></p>
+
+<p><bibref><persname>Miranda, Anthony </persname> : <title>True image </title></bibref></p>
+
+<p><bibref><persname>Miranda, Anthony </persname>: <title>Two episodes for solo snare drum </title></bibref></p>
+
+<p><bibref><persname>Moore, Edgar J. </persname> : <title>Scenario in three movements </title></bibref></p>
+
+<p><bibref><persname>Morrell, Todd </persname> : <title>Tone row to tone loc toccata </title></bibref></p>
+
+<p><bibref><persname>Myhill, John </persname> : <title>Astarte </title></bibref></p>
+
+<p><bibref><persname>Rimmer, John </persname> : <title>Emergence for clarinet and percussion </title></bibref></p>
+
+<p><bibref><persname>Rimmer, John </persname> : <title>The revelation of increasing complexity, Part I </title></bibref></p>
+
+<p><bibref><persname>Rimmer, John </persname> : <title>The ring of fire </title></bibref></p>
+
+<p><bibref><persname>Rzewski, Frederic </persname> : <title>To the earth </title></bibref></p>
+
+<p><bibref><persname>Saitta, Carmelo </persname> : <title>2 x 4 </title></bibref></p>
+
+<p><bibref><persname>Saul, Lewis </persname> : <title>Discussions for flute, string quartet, and percussion </title></bibref></p>
+
+<p><bibref><persname>Scoville, Margaret </persname> : <title>Time out of mind </title></bibref></p>
+
+<p><bibref><persname>Siegel, Wayne </persname> : <title>Last request for solo percussion </title></bibref></p>
+
+<p><bibref><persname>Sierra, Roberto </persname> : <title>Invocaciones </title></bibref></p>
+
+<p><bibref><persname>Simons, Netty </persname> : <title>Puddintame </title></bibref></p>
+
+<p><bibref><persname>Skiba, Norman </persname> : <title>Zen studies, solo percussion </title></bibref></p>
+
+<p><bibref><persname>Smith, Stuart </persname> : <title>In common </title></bibref></p>
+
+<p><bibref><persname>Stabler, Gerhard </persname> : <title>Windows </title></bibref></p>
+
+<p><bibref><persname>Stockhausen, Karlheinz </persname> : <title>Zyklus </title></bibref></p>
+
+<p><bibref><persname>Thomas, John Patrick </persname> : <title>Natale </title></bibref></p>
+
+<p><bibref><persname>Trythall, Richard </persname> : <title>Salute to the Fifties for percussionist and tape </title></bibref></p>
+
+<p><bibref><persname>Vigeland, Nils </persname> : <title>Trio </title></bibref></p>
+
+<p><bibref><persname>Wolman, Ammon </persname> : <title>The day the bank came through </title></bibref></p>
+
+<p><bibref><persname>Xenakis, Iannis </persname> : <title>Rebonds </title></bibref></p>
+
+<p><bibref><persname>Young, La Monte </persname> : <title>Arabic numeral (any integer) </title></bibref></p>		
+		</separatedmaterial>
+<otherfindaid encodinganalog="555"> 
+<head>Additional Guides</head> 
+<p>All scores in the collection are cataloged in WorldCat and are
+available in <extref href="http://bison.buffalo.edu:8991/F" show="new" actuate="onrequest" 
+role="text/html">BISON</extref>, the online catalog for the University at
+Buffalo Libraries, by performing a "Title begins with" search under "Jan Williams Collection of Annotated
+ Scores".</p> 
+</otherfindaid>		
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0010_3.xml "
+					 show="new" actuate="onrequest" role="text/html"> Jan Williams Collection of
+						Images, 1950-1999</archref> Mus. Arc. 2.3</label> 
+				  <item>The Jan Williams Collection of Images contain images of
+					 various performances and trips made by Jan Williams with accompanying
+					 performers and composers. An original gift was received of 321 prints and
+					 contact sheets and 54 35mm slides in 2007. An additional gift was received of
+					 173 photographs in 2008.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0002_3.xml "
+					 show="new" actuate="onrequest" role="text/html">Morton Feldman Images by Jan
+						Williams, 1974-1979 </archref> Mus. Arc. 10.1 </label> 
+				  <item>The Morton Feldman Images by Jan Williams date from concert
+					 tours made by Morton Feldman and the University at Buffalo's Creative
+					 Associates in 1974, 1977, and 1979.</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

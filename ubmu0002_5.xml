@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 2.5::Helen Fesenmaier Collection of Morton Feldman Correspondence)//EN">ubmu0002_5</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Helene
+		Fesenmaier Collection of Morton Feldman Correspondence, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1965/1977"> 1965-1977 </date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Fesenmaier (Helene)
+		Collection of Morton Feldman Correspondence </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, April 2015.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Helene Fesenmaier
+	   Collection of Morton Feldman Correspondence, 
+	   <unitdate encodinganalog="245$f" normal="1965/1977" type="inclusive"
+	    datechar="creation">1965-1977</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 2.5</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator"
+	    source="lcnaf">Fesenmaier, Helene </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   box</extent> <extent unit="box" encodinganalog="300$a">(8 folders)</extent>
+	   </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">
+	   Collection material in <language encodinganalog="041"
+	   langcode="eng">English.</language> </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The Helene Fesenmaier
+	   Collection of Morton Feldman Correspondence contains six manuscript letters by
+	   composer Morton Feldman written to artist Helene Fesenmaier. The collection
+	   also contains an annotated copy of a typescript version of Feldman's article, 
+	   <title render="italic">The Anxiety of art</title>.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Helene Fesenmaier Collection of Morton Feldman
+		Correspondence, 1965-1977, Music Library, The State University of New York at
+		Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of David Hodgson, March 2015.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley, 2015.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Helene Marie Fesenmaier was born 31 August 1937 in New Ulm, Minnesota.
+	   She was a graduate of Smith College in Massachusetts (1959) and from Yale
+	   University School of Art and Architecture (BFA, 1961). She moved to New York
+	   City and in 1963 was one of the initial group of students that founded the New
+	   York Studio School of Drawing, Painting, and Sculpture with their teacher
+	   Mercedes Matter. Matter named Morton Feldman Dean of the school in 1966. </p> 
+	 <p>After years of studying and working in The Netherlands, Greece, Peru,
+	   Yucatan, and Venezuela, Fesenmaier moved to London, England in 1970 and became
+	   a resident there for the remainder of her life. Her paintings and sculptures
+	   have been the subjects of more than two dozen solo exhibitions in London,
+	   Cambridge, New York, Northampton, Massachusetts, Washington, D.C., Caracas, and
+	   Dusseldorf, Germany. Her works have also been on display in group exhibitions
+	   and are held in the permanent collections of several museums. </p> 
+	 <p>Helene Fesenmaier worked under her maiden name but Feldman's letters
+	   to her are addressed to her under her married name at the time, Helene Dawson.
+	   Her husband was Frank Dawson, a lawyer for the World Bank. After her first
+	   marriage was dissolved, she married artist David Hodgson in 1992. Helene
+	   Fesenmaier died in London 21 June 2013.</p> 
+	 <p>Composer Morton Feldman (1926-1987) was best known for his association
+	   with the New York School of experimentalist musicians, including composers John
+	   Cage, Christian Wolff, and Earle Brown, and pianist David Tudor. In addition to
+	   composing approximately 150 works, Feldman also wrote more than three dozen
+	   articles about various aspects of music and art. </p> 
+	 <p>Feldman was a member of the music department faculty at the State
+	   University of New York at Buffalo from 1972-1987. During those years he served
+	   as Slee Professor of Music 1972-1973, Edgar Varèse Professor 1975-1987, and
+	   Director of the Center of the Creative and Performing Arts, 1976-1980. He was
+	   also responsible for creating the June in Buffalo festival of contemporary
+	   music in 1975. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The Helene Fesenmaier Collection of Morton Feldman Correspondence
+	   contains six manuscript letters by composer Morton Feldman written to artist
+	   Helene Fesenmaier. The collection also contains an annotated copy of a
+	   typescript version of Feldman's article, 
+	 <title render="italic">The Anxiety of art</title>. Five of the six brief
+	 letters were written on paper with a letterhead for the Music Department at the
+	 State University of New York at Buffalo where Feldman was on the faculty. 
+Other people mentioned in the correspondence include William Colleran, Mary Sprinson, and Eve Benesch Goldschmidt.</p> 
+	 <p>An additional folder holds the catalog for an exhibition of
+	   Fesenmaier's work at the Redfern Gallery in London, England in 2012. </p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The manuscript letters are arranged in chronological order with the
+	   article, 
+	 <title render="italic">The Anxiety of art</title>, placed last.</p> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder"> 1</container> 
+		<unittitle>Letter from Morton Feldman to Helene Dawson [Fesenmaier], 
+		  <unitdate type="inclusive" normal="1971-10-05">5 October
+		    1971</unitdate> </unittitle>
+<dao linktype="simple"
+				  href="../xtf/images/music/ubmu0002_5_01.pdf"
+				  actuate="onrequest" show="new"/>   
+		<physdesc><extent>1 manuscript leaf </extent></physdesc> 
+	   </did> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">2</container> 
+		<unittitle>Letter from Morton Feldman to Helene Dawson [Fesenmaier], 
+		  <unitdate type="inclusive" normal="1972-11-02">2 November
+		    1972</unitdate> </unittitle>
+<dao linktype="simple"
+				  href="../xtf/images/music/ubmu0002_5_02.pdf"
+				  actuate="onrequest" show="new"/>  
+		<physdesc><extent>1 manuscript leaf </extent></physdesc> 
+	   </did> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">3</container> 
+		<unittitle>Letter from Morton Feldman to Helene Dawson [Fesenmaier], 
+		  <unitdate type="inclusive" normal="1972-11-06">6 November
+		    1972</unitdate> </unittitle> 
+<dao linktype="simple"
+				  href="../xtf/images/music/ubmu0002_5_03.pdf"
+				  actuate="onrequest" show="new"/>  
+		<physdesc><extent>1 manuscript leaf </extent></physdesc> 
+	   </did> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">4</container> 
+		<unittitle>Letter from Morton Feldman to Helene Dawson [Fesenmaier], 
+		  <unitdate type="inclusive" normal="1973-02">30 February
+		    1973</unitdate> </unittitle> 
+<dao linktype="simple"
+				  href="../xtf/images/music/ubmu0002_5_04.pdf"
+				  actuate="onrequest" show="new"/>  
+		<physdesc><extent>1 manuscript leaf </extent></physdesc> 
+		<note> 
+		  <p>Date transcribed as stated cannot be correct but there is no
+		    accompanying envelope with postmark to verify a date.</p> 
+		</note> 
+	   </did> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">5</container> 
+		<unittitle>Letter from Morton Feldman to Helene Dawson [Fesenmaier], 
+		  <unitdate type="inclusive" normal="1974-06-25">25 June
+		    1974</unitdate> </unittitle> 
+<dao linktype="simple"
+				  href="../xtf/images/music/ubmu0002_5_05.pdf"
+				  actuate="onrequest" show="new"/>  
+		<physdesc><extent>1 manuscript leaf </extent></physdesc> 
+	   </did> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">6</container> 
+		<unittitle>Letter from Morton Feldman to Helene Dawson [Fesenmaier], 
+		  <unitdate type="inclusive" normal="1977-07-11">11 July
+		    1977</unitdate> </unittitle> 
+<dao linktype="simple"
+				  href="../xtf/images/music/ubmu0002_5_06.pdf"
+				  actuate="onrequest" show="new"/>  
+		<physdesc><extent>1 manuscript leaf </extent></physdesc> 
+	   </did> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">7</container> 
+		<unittitle>Annotated copy of Morton Feldman's article 
+		  <title render="italic">The Anxiety of Art</title> 
+		  <unitdate type="inclusive" normal="1965">1965</unitdate>
+		  </unittitle> 
+		<physdesc><extent>8 typescript leaves (photo
+		  reproduction)</extent></physdesc> 
+		<note> 
+		  <p>The article was published 1973 in the journal 
+		  <title type="journal">Art in America</title>, v. 61, n. 5.
+		  Annotations consist chiefly of underlining, presumably done by Fesenmaier.</p> 
+		</note> 
+	   </did> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">8</container> 
+		<unittitle>Catalog for exhibition titled 
+		  <title type="book">Helene Fesenmaier: Transfiguration</title>, at
+		  the Redfern Gallery, London 
+		  <unitdate type="inclusive" normal="2012">2012</unitdate>
+		  </unittitle> 
+		<physdesc><extent>40 pages</extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Includes illustrations of Fesenmaier's works, commentary on her
+		  work, a brief biography, and an Afterword by Fesenmaier in which she mentions
+		  Feldman's influence on her work.</p> 
+	   </scopecontent> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Contributors</head> 
+	   <persname source="lcnaf" encodinganalog="700" role="creator">Feldman,
+		Morton, 1926-1987</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh"
+	    encodinganalog="650">Composers--Correspondence</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Feldman,
+		Morton, 1926-1987</persname> 
+	   <persname encodinganalog="600" source="lcnaf"
+	    role="subject">Fesenmaier, Helene</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+	   
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0002_1.xml"
+			  show="new" actuate="onrequest" role="text/html"> Morton Feldman Papers,
+			   1950-1999 </archref> Mus. Arc. 2.1 </label> 
+		    <item>A collection of Feldman's personal and business
+			 correspondence, writings by and about Feldman, clippings, photographs, and
+			 concert programs.</item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

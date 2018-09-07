@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 15.2::Michael Pugliese Collection of Scores)//EN">ubmu0015_2
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Michael
+			 Pugliese Collection of Scores, 
+			 <date encodinganalog="date" certainty="approximate"
+			  normal="1976/1997" type="inclusive" calendar="gregorian" era="ce">circa
+				1976-1997</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Pugliese (Michael)
+			 Collection of Scores </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2010</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, March 2010.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard ).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Michael Pugliese
+		  Collection of Scores, 
+		  <unitdate encodinganalog="245$f" normal="1976/1997" type="inclusive"
+			datechar="creation" certainty="approximate" era="ce" calendar="gregorian">circa
+			 1976-1997 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 15.2</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Pugliese,
+			 Michael</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">7
+		  boxes</extent> <extent unit="item" encodinganalog="300">(107 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> No
+		  textual materials are included in the collection.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Scores and parts for
+		  solo percussion and percussion with other instruments. Most of the items bear
+		  Pugliese's performance markings. Others bear inscriptions from the composers to
+		  Pugliese. The collection also includes works composed or arranged by Pugliese.
+		  </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Michael Pugliese Collection of Scores, 1976-1997,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p> Collection given to the Music Library in 2003 by the estate of
+			 Michael Pugliese; delivered by Jan Williams. </p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2003.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Michael Gabriel Pugliese was born Sept. 26, 1956 in Buffalo, N.Y. He
+		  studied percussion with Jan Williams at the University at Buffalo, The State
+		  University of New York, completing his Bachelor of Fine Arts degree in 1979. He
+		  then continued his studies at the Manhattan School of Music, completing a
+		  Master of Music degree in 1981. Once in New York City, Michael quickly
+		  established himself as a percussionist specializing in avant-garde music. He
+		  co-directed a 12-hour marathon of music by John Cage at Cooper Union in New
+		  York in 1982. His association with the music of John Cage continued, leading to
+		  his first performances of Cage's Etudes Boreales, Ryoanji, Voiceless Essay,
+		  Five Stone Wind, Sculpture Musicales, and Four3. This association with Cage
+		  also lead to work with the Merce Cunningham Dance Company as performer and
+		  composer. Pugliese toured extensively with the dance company beginning in 1985.
+		  He composed Peace Talks (1989) and Mixed Signals (1991) for the company. Other
+		  percussion works composed by Michael Pugliese include his Jinxed, June 22, Not
+		  Jinxed, Not Waves, and Peaceful Pond at Dusk. He also composed popular songs
+		  under the name of Mike Gabriel. </p> 
+		<p>Pugliese made his solo debut at Merkin Hall in New York City in 1989
+		  (the performance is available on a Mode compact disc under the title Perkin' at
+		  Merkin'). He appeared as a percussionist with the New Music Consort, the Bowery
+		  Ensemble, and the Michael Gordon Philharmonic. He also performed at several new
+		  music festivals, including the North American New Music Festival (Buffalo,
+		  N.Y.), the American Festival in 1985 (London), New Music America (Houston 1986
+		  and Miami 1988), and the Los Angeles Festival in 1987. He was the founding
+		  member of the experimental percussion trio, Talking Drums. Pugliese also
+		  performed in the pit orchestras for musicals, including 
+		<title>Miss Saigon</title>, 
+		<title>Nunsense</title>, 
+		<title>Jesus Christ Superstar</title>, and 
+		<title>Les Miserables</title>. Michael Pugliese died Nov. 3, 1997 in New
+		York City. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The Michael Pugliese Score Collection consists of 107 scores and/or
+		  parts. Some items are also accompanied by additional copies or photocopies. The
+		  collection contains at least 22 works or arrangements by Pugliese, including
+		  compositions for percussion ensembles as well as popular songs written under
+		  his pen name, Michael Gabriel. The collection includes 22 compositions by John
+		  Cage. Two of these works, 
+		<title> Etudes boreales</title> and 
+		<title>Three2</title>, are dedicated to Pugliese. Among other significant
+		works in the collection are five works by Morton Feldman, including a rare copy
+		of the score to Samuel Beckett, words and music, written as incidental music
+		for a radio play. Pugliese's career included performances in the pit orchestras
+		for musicals. This is documented by inclusion of the marked percussion parts
+		for 
+		<title>Miss Saigon</title>, 
+		<title>Jesus Christ Superstar</title>, and 
+		<title>A Christmas Carol</title>. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged alphabetically by composer name and then by
+		  title. </p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">1</container>
+			 <unittitle>
+				<persname>Albright, William</persname>
+				<title type="transcribed">Take that</title>
+				<imprint>
+				<publisher>Jobert</publisher></imprint>, 
+				<unitdate type="inclusive">1974</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 4 drummers with 16 drums</p>
+			 <p>Marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">2</container>
+			 <unittitle>
+				<persname>Berio, Luciano, 1925-2003</persname>
+				<title type="transcribed">Circles</title>
+				<imprint>
+				<publisher>Universal Edition</publisher></imprint>, 
+				<unitdate type="inclusive">1961</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For female voice, harp and 2 percussion players</p>
+			 <p>Photocopy; heavily marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">3</container>
+			 <unittitle>
+				<persname>Boulez, Pierre, 1925-</persname>
+				<title type="transcribed">Improvisation sur Mallarme</title>
+				<imprint>
+				<publisher>Universal Edition</publisher></imprint>, 
+				<unitdate type="inclusive">1958</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For soprano and 7 instruments</p>
+			 <p>Two photocopies of vibraphone part (ms.), marked</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">4</container>
+			 <unittitle>
+				<persname>Brown, Earle, 1926-2002</persname>
+				<title type="transcribed">December 52</title>
+				<imprint>
+				<publisher>Associated Music</publisher></imprint>, 
+				<unitdate type="inclusive">1961</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 1 or more instruments</p>
+			 <p>Photocopy, marked</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">5</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">27’10.554”</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1960</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For solo percussionist</p>
+			 <p>Some markings p. 3-4</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">6</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">4’33”</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1993</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For any instrument or combination of instruments</p>
+			 <p>No markings; 1 leaf with timings inserted</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">7</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">49 waltzes for the five boroughs</title>
+				<unitdate type="inclusive">Undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For performer(s) or listener(s) or record maker(s)</p>
+			 <p>one handwritten leaf of performers notes from “Dominic”, with
+				three leaves containing addresses. One of these leaves marked with pitch
+				choices.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">8</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Amores</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1960</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For piano and percussion</p>
+			 <p>3 copies, all marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">9</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">But what about the noise of crumpling
+				  paper which he used to do in order to paint the series of "Papiers froisses" or
+				  tearing up paper to make "Papiers dechires?", Arp was stimulated by water (sea,
+				  lake, and flowing waters like rivers), forests</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1985</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 3-10 instruments or materials</p>
+			 <p>Performance markings; 1 photocopy leaf inserted; 1 handwritten
+				leaf " A layman’s guide, by John Cage" inserted.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">10</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">c Composed improvisation</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1990</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For snare drum alone</p>
+			 <p>4 copies; No markings; 1 leaf with timings inserted</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">11</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Cartridge music</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For amplified sounds</p>
+			 <p>Two handwritten leaves with diagrams. For performance, Paris,
+				1988</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">12</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="uniform">Construction, no. 1</title>
+				<title type="transcribed">First construction (in metal)</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1962</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion sextet</p>
+			 <p>Score and parts marked for performance; Inscription by Cage</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">13</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="uniform">Construction, no. 2</title>
+				<title type="transcribed">Second construction</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1978</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion orchestra (4 players)</p>
+			 <p>Photocopied score has markings</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">14</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="uniform">Construction, no. 3</title>
+				<title type="transcribed">Third construction</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1960</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 4 percussion players</p>
+			 <p>Photocopy, 4 intro pages separate; score glued into booklet of
+				construction paper.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">15</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Double music : parts 1-2 by John Cage;
+				  parts 3-4 by Lou Harrison</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1961</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion quartet</p>
+			 <p>Score and parts; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">1</container>
+			 <container type="item">16</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Etudes boreales</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1981</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For a percussionist using a piano</p>
+			 <p>Dedicated to Pugliese; two copies; 2nd copy heavily marked and
+				bears inscription from Cage; includes photocopy of heavily marked score</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">17</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Europeras 1&amp;2</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1987</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Timpani part only; inscription by John Cage; no other markings</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">18</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Five stone wind</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Photocopies of score; performance instructions</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">19</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">A flower</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1960</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For voice and piano</p>
+			 <p>Performance markings</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">20</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Forever and sunsmell</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1960</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For voice and percussion duo</p>
+			 <p>Marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">21</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Four6</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1992</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For for any way of producing sounds</p>
+			 <p>Parts marked with number of part but no other markings; 1 leaf
+				with timings inserted</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">22</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Imaginary landscape no. 3 </title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1961</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For six percussion players</p>
+			 <p>Few markings; Plus one photocopy, missing p. 7</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">23</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Living room music</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1976</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion and speech quartet</p>
+			 <p>2 photocopies; larger one marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">24</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Music for</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1984</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For parts for voice and instruments without score</p>
+			 <p>Percussion parts I, II, III, IV; Parts I, II and IV marked for
+				performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">25</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">One4</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1990</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For solo drummer</p>
+			 <p>2 copies; one leaf with time bracket indications.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">26</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Radio music </title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1961</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Inscription by John Cage, May 1956 – part of all copies; has a few
+				markings</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">27</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Ryoanji</title>
+				<imprint>
+				<publisher>Edition Peters</publisher></imprint>, 
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For single instrument and percussion</p>
+			 <p>Indication of mallets on instruction page.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">28</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">She is asleep</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1960</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For quartet, 12 tom-toms</p>
+			 <p>4 copies, marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">29</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Sixty two mesostics re Merce
+				  Cunningham</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1971</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For amplified voice</p>
+			 <p>Has some markings</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">30</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Theatre piece, Part VII</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1977</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 1-8 performers</p>
+			 <p>Includes handwritten performance instructions mounted on two
+				pieces of cardboard</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">31</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">Three2</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1991</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For three percussionists</p>
+			 <p>For Michael Pugliese; 2 copies; 1 copy marked, other has no
+				markings; 1 leaf with timings inserted</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">32</container>
+			 <unittitle>
+				<persname>Cage, John</persname>
+				<title type="transcribed">The wonderful widow of eighteen
+				  springs</title>
+				<imprint>
+				<publisher>Henmar Press</publisher></imprint>, 
+				<unitdate type="inclusive">1961</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For voice and piano</p>
+			 <p>Performance markings and text written out on one leaf.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">33</container>
+			 <unittitle>
+				<persname>Cardew, Cornelius</persname>
+				<title type="transcribed">The great learning</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For chorus with various accompaniments</p>
+			 <p>Marked</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">34</container>
+			 <unittitle>
+				<persname>Carter, Elliott, 1908-</persname>
+				<title type="transcribed">Eight pieces for timpani</title>
+				<imprint>
+				<publisher>Associated Music</publisher></imprint>, 
+				<unitdate type="inclusive">1968</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Marked; with additional photocopied pages</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">2</container>
+			 <container type="item">35 </container>
+			 <unittitle>
+				<persname>Colquhoun, Michael</persname>
+				<title type="transcribed"> Das Guiro</title>
+				<unitdate type="inclusive">undated&gt;</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Includes letter from the composer, explanatory notes, prose
+				score?</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">36 </container>
+			 <unittitle>
+				<persname>Cowell, Henry, 1897-1965 </persname>
+				<title type="transcribed">Pulse</title>
+				<imprint>
+				<publisher>Music for Percussion, Inc. </publisher></imprint>, 
+				<unitdate type="inclusive">1971 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion (6 players) </p>
+			 <p>Marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">37</container>
+			 <unittitle>
+				<persname>Creston, Paul, 1906-1985 </persname>
+				<title type="transcribed">Concertino for marimba and
+				  orchestra</title>
+				<imprint>
+				<publisher>G. Schirmer </publisher></imprint>, 
+				<unitdate type="inclusive">1962 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Marimba part marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">38</container>
+			 <unittitle>
+				<persname>Davidovsky, Mario, 1934- </persname>
+				<title type="transcribed">Synchronisms no. 5</title>
+				<imprint>
+				<publisher>E.B. Marks </publisher></imprint>, 
+				<unitdate type="inclusive">1974 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For five percussion players and tape </p>
+			 <p>Photocopy of percussion II part; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">39</container>
+			 <unittitle>
+				<persname>Dlugoszewski, Lucia, 1931- </persname>
+				<title type="transcribed">Complex suchness concert</title>
+				<unitdate type="inclusive">1986 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For timbre piano</p>
+			 <p>Photocopy (1 leaf) of prose performance instructions</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">40</container>
+			 <unittitle>
+				<persname>Feldman, Morton, 1926-1987 </persname>
+				<title type="transcribed">Crippled symmetry</title>
+				<imprint>
+				<publisher>Universal Edition </publisher></imprint>, 
+				<unitdate type="inclusive">1983 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For flute/bass flute, piano/celesta, vibraphone/glockenspiel </p>
+			 <p>Photocopy of ms. score; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">41</container>
+			 <unittitle>
+				<persname>Feldman, Morton, 1926-1987 </persname>
+				<title type="transcribed">Instruments 1</title>
+				<imprint>
+				<publisher>Universal Edition </publisher></imprint>, 
+				<unitdate type="inclusive">1977 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For alto flute, oboe, trombone, celesta, and percussion </p>
+			 <p>Score marked for performance; includes ms. percussion part (6
+				leaves) also marked.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">42</container>
+			 <unittitle>
+				<persname>Feldman, Morton, 1926-1987 </persname>
+				<title type="transcribed">King of Denmark</title>
+				<imprint>
+				<publisher>Peters </publisher></imprint>, 
+				<unitdate type="inclusive">1965 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion (1 player) </p>
+			 <p>Includes two photocopies; 1 marked for performance; 2nd copy of
+				score cut and mounted on folder-stock; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">43</container>
+			 <unittitle>
+				<persname>Feldman, Morton, 1926-1987 </persname>
+				<title type="transcribed">Samuel Beckett, words and music</title>
+				<imprint>
+				<publisher>Universal Edition </publisher></imprint>, 
+				<unitdate type="inclusive">1987 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For chamber orchestra </p>
+			 <p>incidental music for a radio play; photocopy of ms.; marked for
+				performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">44</container>
+			 <unittitle>
+				<persname>Feldman, Morton, 1926-1987 </persname>
+				<title type="transcribed">Why patterns</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For flute, piano, glockenspiel </p>
+			 <p>Photocopy of ms.; marked for performance; signed from Feldman to
+				Pugliese; “This score belongs to Jan Williams”—p. 15</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">45</container>
+			 <unittitle>
+				<persname>Foss, Lukas, 1922- 2009 </persname>
+				<title type="transcribed">Curriculum vitae with time bomb</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion solo with taped or live accordion </p>
+			 <p>Photocopy of ms.; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">46</container>
+			 <unittitle>
+				<persname>Foss, Lukas, 1922-2009 </persname>
+				<title type="transcribed">Ni bruit ni vitesse</title>
+				<imprint>
+				<publisher>Editions Salabert </publisher></imprint>, 
+				<unitdate type="inclusive">1972 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For for piano keys and piano strings </p>
+			 <p>Marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">47</container>
+			 <unittitle>
+				<persname>Foss, Lukas, 1922-2009 </persname>
+				<title type="transcribed">Time cycle</title>
+				<imprint>
+				<publisher>Carl Fischer </publisher></imprint>, 
+				<unitdate type="inclusive">1960 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For soprano, clarinet, cello, percussion, piano-celesta </p>
+			 <p>Score and parts; percussion part marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">48</container>
+			 <unittitle>
+				<persname>Glass, Philip </persname>
+				<title type="transcribed">Modern love waltz</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For piano? </p>
+			 <p>Photocopy of ms. vibraphone part</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">49</container>
+			 <unittitle>
+				<persname>Gordon, Michael, 1956- </persname>
+				<title type="transcribed">Strange quiet</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For for clarinet, percussion, synthesizer, violin, viola, and
+				electric guitar</p>
+			 <p>Ozalid copy; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">50</container>
+			 <unittitle>
+				<persname>Gordon, Michael, 1956- </persname>
+				<title type="transcribed">Thou shalt!/Thou shalt not!</title>
+				<unitdate type="inclusive">1985 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For clarinet/amplified bass clarinet, electric organ, electric
+				guitar, amplified percussion, amplified violin, and amplified viola</p>
+			 <p>Ozalid copy; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">51</container>
+			 <unittitle>
+				<persname>Harrison, Lou, 1917-2003 </persname>
+				<title type="transcribed">Song of Queztecoatl</title>
+				<imprint>
+				<publisher>Music for Percussion Inc. </publisher></imprint>, 
+				<unitdate type="inclusive">1962 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion ensemble (11 parts) </p>
+			 <p>Score and parts; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">52</container>
+			 <unittitle>
+				<persname>Hiller, Lejaren, 1924- 1994 </persname>
+				<title type="transcribed">Machine music</title>
+				<imprint>
+				<publisher>T. Presser </publisher></imprint>, 
+				<unitdate type="inclusive">1967 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For piano, percussion, two-channel tape recorder </p>
+			 <p>2 scores; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">53</container>
+			 <unittitle>
+				<persname>Ives, Charles, 1874-1954 </persname>
+				<title type="transcribed">Circus band ; Housatonic at Stockbridge ;
+				  He is there</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Ink ms. percussion part</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">54</container>
+			 <unittitle>
+				<persname>Kernis, Aaron Jay </persname>
+				<title type="transcribed">Death fugue</title>
+				<unitdate type="inclusive">1981 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For bass/baritone, percussion, double bass </p>
+			 <p>photocopy of ms.; “For Michael Pugliese”</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">55</container>
+			 <unittitle>
+				<persname>Kondo, Jo, 1947- </persname>
+				<title type="transcribed">Luster gave her the hat and he and Ben
+				  went on across the back yard</title>
+				<unitdate type="inclusive">1975 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For three marimbas </p>
+			 <p>Photocopy of ms.; no markings</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">56</container>
+			 <unittitle>
+				<persname>Kondo, Jo, 1947- </persname>
+				<title type="transcribed">Standing Parts I, II, and III</title>
+				<imprint>
+				<publisher>Zen-On Music </publisher></imprint>, 
+				<unitdate type="inclusive">1973 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For three instruments of different families </p>
+			 <p>Performance markings in Part III</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">57</container>
+			 <unittitle>
+				<persname>Kondo, Jo, 1947- </persname>
+				<title type="transcribed">Under the umbrella</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 5 percussionists </p>
+			 <p>Photocopy of ms.; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">58</container>
+			 <unittitle>
+				<persname>Kurka, Robert, 1921-1957 </persname>
+				<title type="transcribed">Concerto for marimba and orchestra, op.
+				  34 </title>
+				<imprint>
+				<publisher>Weintraub Music </publisher></imprint>, 
+				<unitdate type="inclusive">1960 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Score and part; score containsmarkings</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">59</container>
+			 <unittitle>
+				<persname>Kyrkostas, Mark </persname>
+				<title type="transcribed">Beirut</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For concerto for piano and orchestra </p>
+			 <p>Photocopy of ms. percussion part; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">60</container>
+			 <unittitle>
+				<persname>Kyrkostas, Mark </persname>
+				<title type="transcribed">Firelight</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Photocopy of ms. bass part; marked for performance by
+				percussionist</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">61</container>
+			 <unittitle>
+				<persname>Kyrkostas, Mark </persname>
+				<title type="transcribed">In oasis</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Photocopy of ms. treble melody part; marked for performance by
+				percussionist</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">3</container>
+			 <container type="item">62</container>
+			 <unittitle>
+				<persname>Kyrkostas, Mark </persname>
+				<title type="transcribed">Shifting sands</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Photocopy of ms. percussion part; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">63</container>
+			 <unittitle>
+				<persname>Lang, David (David A.) </persname>
+				<title type="transcribed">Anvil chorus</title>
+				<imprint>
+				<publisher>Novello </publisher></imprint>, 
+				<unitdate type="inclusive">1991 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For solo percussion </p>
+			 <p>Inscription from composer to Pugliese</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">64</container>
+			 <unittitle>
+				<persname>LeBaron, Anne </persname>
+				<title type="transcribed">The Rite of the black sun</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion quartet </p>
+			 <p>Photocopy of ms. score; heavily marked</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">65</container>
+			 <unittitle>
+				<persname>Lloyd Webber, Andrew, 1948- </persname>
+				<title type="transcribed">Jesus Christ Superstar</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Photocopy of ms. percussion part; “arr. M. Pugliese”</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">66</container>
+			 <unittitle>
+				<persname>Lockwood, Larry Paul </persname>
+				<title type="transcribed">Duets (1974)</title>
+				<imprint>
+				<publisher>Paul Price Publications </publisher></imprint>, 
+				<unitdate type="inclusive">1974 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 2 percussionists </p>
+			 <p>Marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">67</container>
+			 <unittitle>
+				<persname>Mancini, Henry </persname>
+				<title type="transcribed">Theme from Peter Gunn</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Ink and pencil ms.; arr. by M. Pugliese</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">68</container>
+			 <unittitle>
+				<persname>Menken, Alan </persname>
+				<title type="transcribed">A Christmas carol</title>
+				<unitdate type="inclusive">1994 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Photocopy of ms. percussion part; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">69</container>
+			 <unittitle>
+				<persname>Miranda, Anthony </persname>
+				<title type="transcribed">Eleven solos for the drum set</title>
+				<unitdate type="inclusive">1979 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Ozalid copy; Inscription from composer to Pugliese</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">70</container>
+			 <unittitle>
+				<persname>Newman, Chris, 1958- </persname>
+				<title type="transcribed">After the bath</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For xylophone </p>
+			 <p>Photocopy of ms.; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">71 </container>
+			 <unittitle>
+				<persname> Nørgård, Per, 1932- </persname>
+				<title type="transcribed">I ching</title>
+				<imprint>
+				<publisher> W. Hansen </publisher></imprint>, 
+				<unitdate type="inclusive">1987 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion solo </p>
+			 <p> Marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">72 </container>
+			 <unittitle>
+				<persname> Nørgård, Per, 1932- </persname>
+				<title type="transcribed">Waves : for 4 congas, big tam-tam, tuned
+				  gongs, marimba, cymbal, tom- tom, 2 timpanis</title>
+				<imprint>
+				<publisher> W. Hansen </publisher></imprint>, 
+				<unitdate type="inclusive">1972 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p> Marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">4</container>
+			 <container type="item">73 </container>
+			 <unittitle>
+				<persname> Poulenc, Francis, 1899-1963 </persname>
+				<title type="transcribed">Suite française</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p> Ink ms. percussion art; Arr. by Nils Vigeland</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">74 </container>
+			 <unittitle>
+				<persname> Pugliese, Michael </persname>
+				<title type="transcribed">The beat won’t stop</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p> “Words and music by Mike Gabriel; words and music by Bongo”;
+				Music, texts, and instrumental parts; Ms. and typescript</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">75 </container>
+			 <unittitle>
+				<persname> Pugliese, Michael </persname>
+				<title type="transcribed">Boy girl</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p> “Words and music by Mike Gabriel”; Chord changes and text, no
+				melody line</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">76 </container>
+			 <unittitle>
+				<persname> Pugliese, Michael </persname>
+				<title type="transcribed">Hand of fate</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p> “Words and music by Mike Gabriel”; Chord changes and text, no
+				melody line</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">77 </container>
+			 <unittitle>
+				<persname> Pugliese, Michael </persname>
+				<title type="transcribed">Jinxed</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion quartet</p>
+			 <p>Pencil ms.</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">78 </container>
+			 <unittitle>
+				<persname> Pugliese, Michael </persname>
+				<title type="transcribed">June 22</title>
+				<unitdate type="inclusive">1977 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 5 percussionists, 2 speakers, magnetic tape </p>
+			 <p> Ink and pencil mss.; Score and parts, also includes reel-to-reel
+				tape</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">79 </container>
+			 <unittitle>
+				<persname> Pugliese, Michael </persname>
+				<title type="transcribed">Not jinxed</title>
+				<unitdate type="inclusive">1991, rev. 1997 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion quartet</p>
+			 <p> Photocopy of ms. </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">80 </container>
+			 <unittitle>
+				<persname>Pugliese, Michael </persname>
+				<title type="transcribed">Not waves</title>
+				<unitdate type="inclusive">Oct. 1978 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 8 timpani (2 players), 2 mark trees, narrator, tape delay</p>
+			 <p>Pencil ms. and photocopy;Text by Tim Cooper</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">81 </container>
+			 <unittitle>
+				<persname>Pugliese, Michael </persname>
+				<title type="transcribed">Peace talks</title>
+				<unitdate type="inclusive">1989</unitdate>, <unitdate type="inclusive">1992 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 6 percussionists, sitar </p>
+			 <p>Photocopy of ms. </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">82</container>
+			 <unittitle>
+				<persname>Pugliese, Michael</persname>
+				<title type="transcribed">Peaceful pond at dusk</title>
+				<unitdate type="inclusive">1978</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 2 percussionists, double bass</p>
+			 <p>Ink ms. </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">83</container>
+			 <unittitle>
+				<persname>Pugliese,Michael</persname>
+				<title type="transcribed">Songs. Selections</title>
+				<unitdate type="inclusive">1992?</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>“Words and music by MikeGabriel”; Texts and chord changes, no
+				melody lines Big world(1992) ; Cats and dogs (1992) ; Dangerous day (1992) ;
+				Goodbye today ; I see a world ; I’m feelin’ alive; I’m feelin’ down (1992) ;
+				It’s a heartache; The pain is alive ; Saturday night (1992) ; Save yourself
+				(1992) ; Trouble. </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">84</container>
+			 <unittitle>
+				<persname>Pugliese, Michael</persname>
+				<title type="transcribed"> Unidentified work (All whisper?)</title>
+				<unitdate type="inclusive">1977?</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Ms. notebook, with parts </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">85</container>
+			 <unittitle>
+				<persname>Rzewski, Fredric</persname>
+				<title type="transcribed">Moutons d’Panurge</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For any number of melody instruments</p>
+			 <p>Photocopy of ms. part; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">86</container>
+			 <unittitle>
+				<persname>Satoh, Somai, 1947-</persname>
+				<title type="transcribed">Heavenly spheres are illuminated by
+				  lights</title>
+				<imprint>
+				<publisher>Japan Federation of Composers</publisher></imprint>, 
+				<unitdate type="inclusive">1979</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For female voice, percussion, piano</p>
+			 <p>Photocopy of ms.; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">87</container>
+			 <unittitle>
+				<persname>Schmidt, 1934-</persname>
+				<title type="transcribed">Zangezi poems</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Texts marked for percussion accompaniment </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">88</container>
+			 <unittitle>
+				<persname>Schonberg, Claude Michel</persname>
+				<title type="transcribed">Miss Saigon</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Percussion part; photocopy of ms.; marked </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">5</container>
+			 <container type="item">89</container>
+			 <unittitle>
+				<persname>Shibata, Minao, 1916-1996</persname>
+				<title type="transcribed">Imagery for marimba</title>
+				<imprint>
+				<publisher>Ongaku no tomo</publisher></imprint>, 
+				<unitdate type="inclusive">1979 </unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>Marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">90</container>
+			 <unittitle>
+				<persname>Smit, Leo, 1921-1999</persname>
+				<title type="transcribed">Academic graffiti</title>
+				<imprint>
+				<publisher>C. Fischer</publisher></imprint>, 
+				<unitdate type="inclusive">1983</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For voice, clarinet, percussion, piano, violoncello</p>
+			 <p>Marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">91</container>
+			 <unittitle>
+				<persname>Smit, Leo, 1921-1999</persname>
+				<title type="transcribed">In woods</title>
+				<imprint>
+				<publisher>C. Fischer</publisher></imprint>, 
+				<unitdate type="inclusive">1980</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For oboe, harp, percussion</p>
+			 <p>Marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">92</container>
+			 <unittitle>
+				<persname>Smit, Leo, 1921-</persname>
+				<title type="transcribed">In woods</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For oboe, harp, percussion</p>
+			 <p>Photocopy of ms.; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">93</container>
+			 <unittitle>
+				<persname>Speach, Bernadette, 1948-</persname>
+				<title type="transcribed">Moto</title>
+				<unitdate type="inclusive">1982</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For trombone, percussion, piano</p>
+			 <p>Photocopy of ms.; “For Michael”; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">94</container>
+			 <unittitle>
+				<persname>Stockhausen, Karlheinz, 1928-2007</persname>
+				<title type="transcribed">Kreuzspiel</title>
+				<imprint>
+				<publisher>Universal Edition</publisher></imprint>, 
+				<unitdate type="inclusive">1960</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For oboe,bass clarinet, percussion, piano</p>
+			 <p>Has small number of markings </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">95</container>
+			 <unittitle>
+				<persname>Stravinsky, Igor, 1882-1971</persname>
+				<title type="transcribed">L’histoire du soldat</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For narrator, trombone, clarinet,bassoon, double bass, cornet,
+				violin, percussion</p>
+			 <p>Percussion part; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">96</container>
+			 <unittitle>
+				<persname>Varèse, Edgard, 1883-1965</persname>
+				<title type="transcribed">Ionisation</title>
+				<imprint>
+				<publisher>Colfranc Music</publisher></imprint>, 
+				<unitdate type="inclusive">1967</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion ensemble (13 players)</p>
+			 <p>Marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">97</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed">Eleven pages</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For glockenspiel</p>
+			 <p>Photocopy of ms.; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">98</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed">Evening</title>
+				<unitdate type="inclusive">1983</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For flute, piano, trombone, glockenspiel</p>
+			 <p>Photocopy of ms.; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">99</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed">Evening</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For flute, trombone, percussion, piano</p>
+			 <p>Photocopy of ms., different opening than above; marked for
+				performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">100</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed">Journey</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For 2 pianos, percussion (?)</p>
+			 <p>Photocopy of ms.; missing p. 17-18; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">101</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed">A line and its shadow</title>
+				<unitdate type="inclusive">1988</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For four marimbas</p>
+			 <p>3 photocopies of ms.; marked for performance; c. 3 missing p. 10
+				</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">102</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed">Progress</title>
+				<unitdate type="inclusive">1983</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For solo percussion and tape</p>
+			 <p> Photocopy of ms.; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">103</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed">Transparent things </title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For alto flute, percussion, piano</p>
+			 <p>Photocopy of ms. mounted on cardboard sheets for performance; also
+				heavily marked. </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">6</container>
+			 <container type="item">104</container>
+			 <unittitle>
+				<persname>Vigeland, Nils</persname>
+				<title type="transcribed"> Unidentified work </title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For trombone, flute, piano, percussion</p>
+			 <p>Photocopy of ms.; marked for performance</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">7</container>
+			 <container type="item">105</container>
+			 <unittitle>
+				<persname>Wolff, Christian, 1934-</persname>
+				<title type="transcribed">Merce</title>
+				<unitdate type="inclusive">1993</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion ensemble</p>
+			 <p>Photocopy of ms. and typescript; marked for performance </p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">7</container>
+			 <container type="item">106</container>
+			 <unittitle>
+				<persname>Xenakis, Iannis, 1922-2001</persname>
+				<title type="transcribed">Psappha</title>
+				<imprint>
+				<publisher>Editions Salabert</publisher></imprint>, 
+				<unitdate type="inclusive">1976</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>For percussion solo</p>
+			 <p>Marked and contains ms. inserts; additional photocopy, also
+				marked</p>
+		  </note>
+		</c01> 
+		<c01 level="item">
+		  <did>
+			 <container type="box">7</container>
+			 <container type="item">107</container>
+			 <unittitle>
+				<title type="transcribed"> Latin drum techniques and
+				  examples</title>
+				<unitdate type="inclusive">undated</unitdate></unittitle>
+		  </did>
+		  <note>
+			 <p>compilation of photocopies of ms.</p>
+		  </note>
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Percussions music--Scores and parts</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Pugliese, Michael--Archives</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<separatedmaterial encodinganalog="544 0"> 
+		  <head>Separated Material</head> 
+		  <p>The following scores did not contain any markings by Michael
+			 Pugliese. The scores were removed to the general collection of the Music
+			 Library. </p> 
+		  <list type="simple"> 
+			 <item> 
+				<persname>Cage, John</persname> 
+				<title>0’00”</title> 
+				<corpname>Henmar Press </corpname>, 
+				<date>1962</date> </item> 
+			 <item> 
+				<persname>Cage, John</persname> 
+				<title>Ear for EAR</title> 
+				<corpname>Henmar Press </corpname>, 
+				<date>1983</date> </item> 
+			 <item> 
+				<persname>Cage, John</persname> 
+				<title>Four4 : percussion 1 part</title> 
+				<corpname>Henmar Press </corpname>, 
+				<date>1991</date> </item> 
+			 <item> 
+				<persname>Cage, John</persname> 
+				<title>Imaginary landscape [no. 1]</title> 
+				<corpname>Henmar Press </corpname>, 
+				<date>1960</date> </item> 
+			 <item> 
+				<persname>Cage, John</persname> 
+				<title>She is asleep : duet (voice and prepared piano)</title> 
+				<corpname>Henmar Press, </corpname>, 
+				<date>1960</date> </item> 
+			 <item> 
+				<persname>Cage, John</persname> 
+				<title>Trio : for three percussion players</title> 
+				<corpname>Henmar Press </corpname>, 
+				<date>1977</date> </item> 
+			 <item> 
+				<persname>Camilleri, Charles</persname> 
+				<title>1 percussion: solos/duos/trios</title> 
+				<corpname>Peter McKee Music </corpname>, 
+				<date>1977</date> </item> 
+			 <item> 
+				<persname>Corner, Philip</persname> 
+				<title>Gong</title> 
+				<corpname>Peters </corpname>, 
+				<date>1977</date> </item> 
+			 <item> 
+				<persname>Crumb, George</persname> 
+				<title>Music for a summer evening (Makrokosmos III)</title> 
+				<corpname>Peters </corpname>, 
+				<date>1974</date> </item> 
+			 <item> 
+				<persname>D’Angelo, James</persname> 
+				<title>Toccata for solo percussionist</title> 
+				<corpname>Music for Percussion Inc. </corpname>, 
+				<date>1967</date> </item> 
+			 <item> 
+				<persname>Dahl, Ingolf</persname> 
+				<title>Duettino concertante: flute and percussion</title> 
+				<corpname>Broude </corpname>, 
+				<date>1968</date> </item> 
+			 <item> 
+				<persname>Feldman, Morton</persname> 
+				<title>Vertical thoughts I</title> 
+				<corpname>Peters </corpname>, 
+				<date>1963</date> </item> 
+			 <item> 
+				<persname>Gibson, David</persname> 
+				<title>182 Norwood</title> 
+				<corpname>Paul Price Publications </corpname>, 
+				<date>1975</date> </item> 
+			 <item> 
+				<persname>Harrison, Lou</persname> 
+				<title>Canticle no. 1</title> 
+				<corpname>Music for Percussion Inc. </corpname>, 
+				<date>1965</date> </item> 
+			 <item> 
+				<persname>Harrison, Lou</persname> 
+				<title>Canticle no. 3</title> 
+				<corpname>Music for Percussion Inc. </corpname>, 
+				<date>1960</date> </item> 
+			 <item> 
+				<persname>Harrison, Lou</persname> 
+				<title>Fugue for percussion</title> 
+				<corpname>Music for Percussion Inc. </corpname>, 
+				<date>1962</date> </item> 
+			 <item> 
+				<persname>Harrison, Lou</persname> 
+				<title>Suite</title> 
+				<corpname>Music for Percussion Inc. </corpname>, 
+				<date>1969</date> </item> 
+			 <item> 
+				<persname>Hiller, Lejaren</persname> 
+				<title>Machine music</title> 
+				<corpname>T. Presser </corpname>, 
+				<date>1967</date> </item> 
+			 <item> 
+				<persname>Hovhaness, Alan</persname> 
+				<title>Fantasy on Japanese woodprints</title> </item> 
+			 <item> 
+				<persname>Kondo, Jo</persname> 
+				<title>Luster gave her the hat and he and Ben went on across the
+				  back yard : for three marimbas</title> 
+				<date>1975</date> </item> 
+			 <item> 
+				<persname>Korf, Anthony</persname> 
+				<title>Blue rhythm quintet </title> 
+				<corpname>Paul Price Publications </corpname>, 
+				<date>1972</date> </item> 
+			 <item> 
+				<persname>Marcus, Bunita</persname> 
+				<title>Adam and Eve</title> 
+				<date>1989 (rev.)</date> </item> 
+			 <item> 
+				<persname>Newman, Chris</persname> 
+				<title>Final X</title> 
+				<date>1985</date> </item> 
+			 <item> 
+				<persname>Ruders, Poul</persname> 
+				<title>Cha cha cha</title> 
+				<corpname>W. Hansen </corpname>, 
+				<date>1981</date> </item> 
+			 <item> 
+				<persname>Stockhausen, Karlheinz</persname> 
+				<title>Zyklus Nr. 9</title> 
+				<corpname>Universal Edition </corpname>, 
+				<date>1960</date> </item> 
+			 <item> 
+				<persname>Varèse, Edgard</persname> 
+				<title>Dance for Burgess</title>, 
+				<date>1949</date> </item> 
+			 <item> 
+				<persname>Wuorinen, Charles</persname> 
+				<title>Janissary music</title> 
+				<corpname>Peters </corpname>, 
+				<date>1967</date> </item> 
+			 <item> 
+				<persname>Wuorinen, Charles</persname> 
+				<title>Percussion duo</title> 
+				<corpname>Peters </corpname>, 
+				<date>1979</date> </item> 
+			 <item> 
+				<persname>Xenakis, Iannis</persname> 
+				<title>Dmaathen : for oboe and percussion soloists</title> 
+				<corpname>Editions Salabert </corpname>, 
+				<date>1976</date></item> 
+		  </list> 
+		</separatedmaterial> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <list type="deflist"> 
+			 <defitem> 
+				<label> 
+				  <archref
+					href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0015_1.xml "
+					show="new" actuate="onrequest" role="text/html"> Michael Pugliese Papers,
+					 1978-1996 </archref> Mus. Arc. 15.1 </label> 
+				<item>The Michael Pugliese Papers consist of copies of his
+				  curriculum vitae, a small selection of programs of concerts in which he
+				  performed, reviews and clippings, and correspondence. </item> 
+			 </defitem> 
+		  </list> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

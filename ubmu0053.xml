@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 53::Ferdinando Paër Papers)//EN">ubmu0053</eadid> 
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Ferdinando Paër
+		Papers, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1807/1838">1807-1838 </date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Paër (Ferdinando)
+		Papers </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2011</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, July 2011.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Ferdinando Paër Papers, 
+	   <unitdate encodinganalog="245$f" normal="1807/1838" type="inclusive"
+	    datechar="creation"> 1807-1838 </unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 53</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf"> Paër,
+		Ferdinando, 1771-1839 </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   container</extent> <extent unit="item" encodinganalog="300$a">(14
+	   items)</extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">
+	   Collection material in <language encodinganalog="041"
+	   langcode="eng">French</language> and
+	   <language encodinganalog="041"
+	    langcode="ita">Italian</language>.</langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a"> The collection
+	   contains fourteen documents, including twelve letters from Paër to associates
+	   and friends and two documents showing his services rendered for the fiscal
+	   years 1811 and 1813.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Ferdinando Paër Papers, 1807-1838, Music Library,
+		The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Purchased from various antiquarians.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <altformavail encodinganalog="530"> 
+	   <head>Alternate Forms</head> 
+	   <p>The documents have been digitized. Links are provided to the digital
+		versions along with transcriptions and English translations.</p> 
+	 </altformavail> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley, with invaluable research assistance
+		provided by Dr. Giuliano Castellani, June 2011.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Ferdinando Paër was born June 1 1771 in Parma, Italy. His father
+	   Giulio Pär (Ferdinando changed the spelling to Paër some time before 1810) was
+	   a trumpet and horn player in the Parma court orchestra. Paër studied music with
+	   Gaspare Ghiretti and Gian Francesco Fortunati (1746-1841). </p> 
+	 <p>Paër is most noted as a composer of fifty-five operas. He also
+	   composed numerous sacred vocal works, including cantatas, oratorios, and
+	   masses. His instrumental output included about ten symphonies and a small
+	   number of chamber works.</p> 
+	 <p>Paër spent the bulk of his career in Paris after moving there around
+	   1807. Prior to that he served in various positions in Parma, Vienna, Prague,
+	   and Dresden. Paër was an influential musician in Paris, holding positions at
+	   the royal court and serving as director of the Théâtre Italien 1812-1818,
+	   1819-1824, and 1826-1827. His most prominent student was Franz Liszt
+	   (1811-1886). Paër died in Paris May 3 1839.</p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection contains twelve letters from Paër to associates and
+	   friends, including composer Luigi Cherubini, music publisher and singer Isidore
+	   Consul, music publisher Giovanni Ricordi, the founder and first director of the
+	   Paris Conservatory Bernard Sarrette, and composer/pianist
+	   Pierre-Joseph-Guillaume Zimmermann. Also included are two documents showing his
+	   service for the royal court for the fiscal years 1811 and 1813. </p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is chiefly arranged in chronological order, with newly
+	   acquired items beginning at Item 14. </p> 
+    </arrangement> 
+    <dsc type="in-depth"> 
+	 <head>Container List</head> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">1</container> 
+		<unittitle>Letter from Ferdinando Paër to "Carissimo amico" 
+		  <unitdate type="inclusive" normal="1807/1810">September 29,
+		    [1807-1810?] </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_01.pdf"
+		 actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Stamp on verso: "Autograph collection of Dr. Max Thorek,
+		    Chicago".</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in Italian concerning the recipient's planned trip to
+		  Italy. Paër mentions providing letters for the recipient.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">2</container> 
+		<unittitle>Letter from Ferdinando Paër to "Monsieur Saret Directeur
+		  du Conservatoire Imperial de Musique" 
+		  <unitdate type="inclusive" normal="1811-02-28"
+		  datechar="creation">28 February 1811 </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_02.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 folded manuscript leaf (2 pages)
+		  </extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname source="lcnaf">Sarrette, Bernard, 1765-1858</persname>,
+		    founder of the Paris Conservatoire.</p> 
+		  <p>At head of paper: "Service de S.M. l'Empereur et Roi. Le
+		    Directeur du Theâtre de la Cour et de la Musique Particuliere de S. M. I. et
+		    R.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">3</container> 
+		<unittitle>Letter from Ferdinando Paër to "Monsieur Saret Directeur
+		  du Conservatoire Imperial de Musique" 
+		  <unitdate type="inclusive" normal="1811-03-28"
+		   datechar="creation">28 March 1811 </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_03.pdf"
+		 actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname source="lcnaf">Sarrette, Bernard, 1765-1858</persname>,
+		    founder of the Paris Conservatoire.</p> 
+		  <p>At head of paper: "Service de S.M. l'Empereur et Roi. Le
+		    Directeur du Theâtre de la Cour et de la Musique Particuliere de S. M. I. et
+		    R.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">4</container> 
+		<unittitle>Exercice, 
+		  <unitdate type="inclusive" normal="1811-10-31"
+		  datechar="creation">31 October 1811 </unitdate> musique de concerts de S. M. E.
+		  </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_04.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>"Maison de S. M. l'Empereur et Roi, Service du Grand
+		    Chambellan"--Manuscript caption.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Invoice for musical services rendered by Paër, with mention of M.
+		  Imbault (Jean-Jérôme Imbault, 1753-1832, French violinist and music
+		  publisher).</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">5</container> 
+		<unittitle>Exercice, 
+		  <unitdate type="inclusive" normal="1813-06-15" datechar="creation">
+		    15 June 1813</unitdate> musique de concerts de S. M. E.</unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_05.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 folded manuscript leaf (3
+		  pages)</extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Invoice for services rendered by Paër for the court theaters,
+		  including work done by locksmiths and by set designer Jean-Baptiste Isabey.</p>
+		
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">6</container> 
+		<unittitle>Letter from Ferdinando Paër to "Carissimo Console" 
+		  <unitdate type="inclusive" normal="1820-01" datechar="creation">21
+		    January, [1820?] </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_06.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname>Consul, Isidore</persname>, French singer at the
+		    Théâtre Italien and at the Royal Court. Consul was also active as a music
+		    publisher in Paris 1825-1853.</p> 
+		  <p>Address for recipient on verso.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in Italian in which Paër informs the Consul that he is
+		  sending a duet Consul will be singing with M. Levasseur (Nicholas Levasseur,
+		  1791-1871, French bass).</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">7</container> 
+		<unittitle>Letter from Ferdinando Paër to "Mon Capitaine" 
+		  <unitdate type="inclusive" normal="1830-05-03"
+		  datechar="creation">3 May, [1830?] </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_07.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname source="lcnaf">Cherubini, Luigi, 1760-1842</persname>,
+		    Italian composer and theorist who lived and worked in Paris.</p> 
+		  <p>Address for recipient on verso: Monsieur Cherubini, Capitaine du
+		    Corps d'harmonie ...".</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French concerning Paër's absence from Guard duty.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">8</container> 
+		<unittitle>Letter from Ferdinando Paër to [Signora Marchesa] 
+		  <unitdate type="inclusive" normal="1832-10-30" datechar="creation">
+		    30 October 1832</unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_08.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in Italian.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">9</container> 
+		<unittitle>Letter from Ferdinando Paër to "Mon cher Monsieur
+		  Zimmerman" 
+		  <unitdate type="inclusive" normal="1834-11-05"
+		  datechar="creation">5 November, [1834] </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_09.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname source="lcnaf">Zimmerman, J. (Joseph),
+			 1785-1853</persname> (Pierre-Joseph-Guillaume Zimmermann), French composer and
+		    pianist who taught at the Paris Conservatoire from 1811-1853.</p> 
+		  <p>On verso: address for recipient.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French in which Paër mentions an aria he composed with
+		  trumpet obbligato that had been performed by trumpeter David Bull [sic] (Joseph
+		  David Buhl, 1781-after 1828). Paër also mentions Isidore Consul, French singer
+		  and music publisher.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">10</container> 
+		<unittitle>Letter from Ferdinando Paër to "Mon cher Mons. Baillot" 
+		  <unitdate type="inclusive" normal="1836-03-01"
+		  datechar="creation">1 March 1836 </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_10.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname source="lcnaf">Baillot, Pierre Marie François de Sales,
+			 1771-1842</persname>, French violinist and composer.</p> 
+		  <p>At head of paper: "Liste Civile -- Musique du Roi".</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French in which Paër writes about composer and virtuoso
+		  pianist Sigismond Thalberg (1812-1871). Mention is also made of Auguste
+		  Franchomme (1808-1884), French composer and violoncellist and a trio by
+		  Viennese composer Joseph Mayseder (1789-1863).</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">11</container> 
+		<unittitle>Letter from Ferdinando Paër to Saverio Mercadante 
+		  <unitdate type="inclusive" normal="1836-03-27" datechar="creation">
+		    27 March 1836 </unitdate></unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_11.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname source="lcnaf">Mercadante, Saverio,
+			 1795-1870</persname>, Italian composer, conductor, and teacher.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French inviting Mercadante and his wife to dinner.
+		  Mention also made of Spanish composer Mariano Obiols (1809-1888).</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">12</container> 
+		<unittitle>Letter from Ferdinando Paër to "Mademoiselle Stratton" 
+		  <unitdate type="inclusive" normal="1837-01-19" datechar="creation">
+		    19 January 1837</unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_12.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French informing the recipient that her lesson needs to
+		  be rescheduled.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">13</container> 
+		<unittitle>Letter from Ferdinando Paër to "Monsieur Leborne" 
+		  <unitdate type="inclusive" normal="1838-01-19"
+		  datechar="creation">19 January 1838 </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_13.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname>Leborne, Aimé Ambroise Simon, 1797-1866</persname>,
+		    French composer</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in French concerning preparation of parts for performance
+		  of Paër's opera, 
+		<title render="italic">Olinde et Sophronie</title>.</p> 
+	   </scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="folder">14</container> 
+		<unittitle>Letter from Ferdinando Paër to "Sigr. Ricordi" 
+		  <unitdate type="inclusive" normal="1828-02-05"
+		  datechar="creation">5 February 1828 </unitdate> </unittitle> 
+		<dao linktype="simple" href="../xtf/images/music/ubmu0053_14.pdf"
+		actuate="onrequest" show="new"/> 
+		<physdesc><extent>1 folded manuscript leaf</extent></physdesc> 
+		<note> 
+		  <p>Recipient: 
+		    <persname source="lcnaf">Ricordi, Giovanni, -1853</persname>,
+		    founder of the music publishing firm Casa Ricordi.</p> 
+		  <p>At head of paper: "Musique du Roi. Le Directeur de la Musique
+		    Particuliére du Roi, et de Madame la Duchesse de Berry, Membre de la Légion
+		    d'Honneur".</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Letter in Italian concerning a request for music composed by
+		  Niccolò Antonio Zingarelli and Giuseppe Nicolini.</p> 
+	   </scopecontent> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Composers--France</subject>
+	   
+	   <subject source="lcsh" encodinganalog="650">Music--France--Paris--19th
+		century</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Paër,
+		Ferdinando, 1771-1839--Correspondence</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+	   
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <bibliography encodinganalog="581"> 
+	   <head>Bibliography</head> 
+	   <bibref>Castellani, Giuliano. 
+		<title render="italic">Ferdinando Paer: Biografia, opere e documenti
+		  degli anni parigini</title>. Bern: Peter Lang, 2008. </bibref> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<p>There are 166 scores by Ferdinando Paër in the Music Library, all
+		  cataloged in its online catalog, 
+		  <extref href="http://bison.buffalo.edu:8991/F" show="new"
+		   actuate="onrequest" role="text">BISON</extref>. The scores are in manuscript
+		  and early editions, with many variant editions of the same works. An 
+		  <extref href="http://library.buffalo.edu/music/pdf/paerscores.pdf"
+		   show="new" actuate="onrequest" role="text">online inventory</extref> is also
+		  available.</p> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

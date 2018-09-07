@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 5.3::Lejaren Hiller Collection of Compositional Flow Charts)//EN">
+		ubmu0005_3</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Lejaren Hiller
+			 Collection of Compositional Flow Charts, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1968/1987" certainty="approximate"> circa 1968-1987
+				</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Hiller (Lejaren)
+			 Collection of Compositional Flow Charts </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by Lina
+			 Terjesen.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2010</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by Lina Terjesen, January
+		  2010.</creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (<title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Lejaren Hiller Collection
+		  of Compositional Flow Charts, 
+		  <unitdate encodinganalog="245$f" normal="1968/1987" type="inclusive"
+			datechar="creation" certainty="approximate">circa
+			 1968-1987</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 5.3</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Hiller,
+			 Lejaren, 1924-1994</persname> </origination> 
+		<physdesc label="Extent">
+		  <extent encodinganalog="300$a" unit="map drawer">3 map drawers</extent>,
+		  <extent encodinganalog="300$a" unit="box">1 box</extent> </physdesc> 
+<physloc label="Location" encodinganalog="852$z">
+Items 1-110 are stored in map case drawers in the Music Library Storage area, Room B32.</physloc>
+
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Flow charts created for
+		  computer music composition by Lejaren Hiller and included as figures and
+		  illustrations in his published articles about the processes used in writing
+		  computer music, including his works, 
+		  <title>HPSCHD</title>, 
+		  <title>Algorithms I</title> and 
+		  <title>Algorithms III</title>. The collection also contains
+		  unidentified flow charts and diagrams, as well as negatives of other charts
+		  created by Hiller. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Lejaren Hiller Collection of Compositional Flow
+			 Charts, circa 1968-1987, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Elizabeth Hiller.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by David Ferrandino and Lina Terjesen, 2008-2009.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Lejaren Hiller was born on February 23, 1924, in New York City. He
+		  received his B.A., M.A., and Ph.D. in chemistry from Princeton University,
+		  where he also studied music theory and composition with Milton Babbitt and
+		  Roger Sessions. In 1958, Hiller received his M.Mus. from the University of
+		  Illinois where he founded the Experimental Music Studio.</p> 
+		<p>In 1957, Hiller collaborated with Leonard Isaacson on the 
+		<title render="italic">Illiac Suite</title>, the first significant use of
+		a computer in composition. The 
+		<title render="italic">Illiac Suite</title> (String Quartet No. 4) was so
+		named for the Illiac computer on which the calculations for the score
+		parameters were made. Hiller was able to tap the power of the Illiac for the
+		generation and selection of large quantities of random values in a fundamental
+		type of stochastic modeling known as "the Monte Carlo Method."</p> 
+		<p>Lejaren Hiller's importance to the field of computer music cannot be
+		  over-emphasized. His work on the use of computers for the generation of musical
+		  parameters such as pitch, rhythm, duration, etc. in pieces of music using
+		  traditional instruments, opened a door to new methods of music material
+		  generation and simultaneously to the computer-assisted analysis of the process
+		  of music composition.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Compositional flow charts produced by Lejaren Hiller. The collection
+		  consists of 106 flow charts housed in map drawers, and 18 other items in
+		  individual folders housed in a flat box. While each item is dated, the dates
+		  are approximate based on when the corresponding article authored by Hiller was
+		  published. Some items do not contain a corresponding article figure number as
+		  Hiller added the number in the article at the time of publication.</p> 
+		<p> When the flow charts were received by the Music Library, they arrived
+		  rolled up. After long-term storage, the glue on many of the instructional
+		  labels dried out so the labels detached from the charts when they were
+		  straightened. Restoration work was completed for an exhibit showcasing the flow
+		  charts, wherein many of the labels were reattached. However, a few of the flow
+		  charts remain incomplete because it has not been possible to identify the
+		  correct positions of the detached labels. In order to preserve each of the flow
+		  charts, they have been cleaned by the preservation department and encapsulated
+		  in mylar. </p> 
+		<p>A few flow charts also have corresponding photographic negatives.
+		  These negatives are filed, where appropriate, immediately following the
+		  original flow chart. For some figures only the negative exists, and it has been
+		  filed in place of the missing original.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p> The collection's series are arranged chronologically by the
+		  publication date of each corresponding article. Within each series, the items
+		  are arranged according to their location within the article written by Lejaren
+		  Hiller. Please note that Items 1-110 have no box indication because the items are stored in map case drawers.</p> 
+		<list type="simple"> 
+		  <item> 
+			 <ref target="series1" actuate="onrequest" show="replace"> I.
+				Flowcharts and diagrams found in 
+				<title type="article">Computer Programs Used to Produce the
+				  Composition HPSCHD</title></ref> </item> 
+		  <item> 
+			 <ref target="series2" actuate="onrequest" show="replace"> II.
+				Flowcharts and diagrams found in 
+				<title type="article"> Phrase Generation in Computer Music
+				  Composition </title></ref></item> 
+		  <item> 
+			 <ref target="series3" actuate="onrequest" show="replace">III. Flow
+				Charts and Diagrams used in 
+				<title type="article">Composing the Second Movement of Algorithms
+				  III</title>.</ref></item> 
+		  <item> 
+			 <ref target="series4" actuate="onrequest" show="replace">IV. Flow
+				charts and Diagrams used in 
+				<title type="article">Computer Programs Used to Produce the
+				  Composition Algorithms I</title> </ref></item> 
+		  <item> 
+			 <ref target="series5" actuate="onrequest" show="replace">V. Unmatched
+				Flow Charts and Diagrams</ref></item> 
+		  <item> 
+			 <ref target="series6" actuate="onrequest" show="replace">VI.
+				Additional Graphs, Diagrams and Flow Charts</ref></item> 
+		  <item> 
+			 <ref target="series7" actuate="onrequest" show="replace"> VII.
+				Photocopies of Flow Charts Found in Other Articles </ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I. </unitid> 
+			 <unittitle>Flow charts and diagrams found in 
+				<title type="book">Computer Programs Used to Produce the
+				  Composition HPSCHD. Technical Report No. 4, National Science Foundation Project
+				  No. GK-14191</title>, <unitdate type="inclusive" normal="1972-08"> August,
+				  1972</unitdate> 
+				 </unittitle> 
+			 <physdesc><extent>Items 1-39</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Items are arranged according to where they appear in the
+				article.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">1</container> 
+				<unittitle>Figure 4: Sub-Routine ICHING, p. 15 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>34 cm. x 43
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">2</container> 
+				<unittitle>Figure 6: Sub-Routine ML3DST, p. 18 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>31 cm. x 24
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">3</container> 
+				<unittitle>Figure 2: First Page of Notentafel, p. 28 </unittitle> 
+				<physdesc><extent>1 score</extent> <dimensions>31 cm. x 23
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">4</container> 
+				<unittitle>Sub-Routine WURFEL, p. 31 </unittitle> 
+				<physdesc><extent>1 negative</extent> <dimensions>32 cm. x 22
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">5</container> 
+				<unittitle>Figure 5: Program DICE GAME, p. 34 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>28 cm. x 54
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">6</container> 
+				<unittitle>Figure 6: First Eight Bars of "Passes," Solo II, p.
+				  41</unittitle> 
+				<physdesc><extent>1 score</extent> <dimensions>31 cm. x 61
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">7</container> 
+				<unittitle>Figure 7: First Eight Bars of "Passes," Solo IV, p.
+				  42</unittitle> 
+				<physdesc><extent>1 score</extent> <dimensions>31 cm. x 61
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">8</container> 
+				<unittitle>Figure 2.1: Simplified Block Diagram for Main Program,
+				  p. 46</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>39 cm. x 56
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">9</container> 
+				<unittitle>Simplified Block Diagram for Main Program, p.
+				  46</unittitle> 
+				<physdesc><extent>1 flow chart negative</extent> <physfacet>in 2
+				  pieces</physfacet><dimensions>23 cm. x 29 cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">10</container> 
+				<unittitle>Figure 2.8: Main Program, Part 1, p. 64</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>37 cm. x 14
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">11</container> 
+				<unittitle>Figure 2.9: Main Program, Part 2, p. 67</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>50 cm. x 39
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">12</container> 
+				<unittitle>Figure 2.10: Main Program, Part 3, p. 70</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>50 cm. x 39
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">13</container> 
+				<unittitle>Figure 2.11: Main Program, Part 4, p. 72</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>51 cm. x 39
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">14</container> 
+				<unittitle>Figure 2.12: Main Program, Part 5, p. 75</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>37 cm. x 39
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">15</container> 
+				<unittitle>Figure 2.13: Main Program, Part 6, p. 77</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>51 cm. x 39
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">16</container> 
+				<unittitle>Figure 2.14: Main Program, Part 7, p. 80</unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>56 cm. x 39
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">17</container> 
+				<unittitle>Flow chart for Main Program, p. 80</unittitle> 
+				<physdesc><extent>1 flow chart negative,</extent> <physfacet>in 7
+				  pieces</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">18</container> 
+				<unittitle>Figure 3.2: Sub-Routine ML3DST, p. 102</unittitle> 
+				<physdesc><extent>1 negative</extent> <dimensions>33 cm. x 26
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">19</container> 
+				<unittitle>Figure 3.3: Sub-Routine SHUFFL, p. 106 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 29
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">20</container> 
+				<unittitle>Figure 3.4: Sub-Routine REIHE, p. 110 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>41 cm. x 29
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">21</container> 
+				<unittitle>Sub-Routine REIHE, p. 110 </unittitle> 
+				<physdesc><extent>1 negative</extent> <dimensions>31 cm. x 21
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">22</container> 
+				<unittitle>Figure 3.5: Diatonic Scales Produced by Sub-Routine
+				  MODE, p. 112 </unittitle> 
+				<physdesc><extent>1 score</extent> <dimensions>23 cm. x 31
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">23</container> 
+				<unittitle>Figure 3.6: Sub-Routine MODE, p. 116 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>40 cm. x 26
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">24</container> 
+				<unittitle>Sub-Routine MODE, p. 116 </unittitle> 
+				<physdesc><extent>1 negative</extent> <dimensions>30 cm. x 20
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">25</container> 
+				<unittitle>Figure 3.7: Two Examples of Sets of Goals Produced by
+				  Sub-Routine CANTO, p. 119 </unittitle> 
+				<physdesc><extent>1 score</extent> <dimensions>23 cm. x 31
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">26</container> 
+				<unittitle>Figure 3.8: Sub-Routine CANTO, p. 125 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>46 cm. x 33
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">27</container> 
+				<unittitle>Sub-Routine CANTO </unittitle> 
+				<physdesc><extent>1 negative</extent> <dimensions>35 cm. x 25
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">28</container> 
+				<unittitle>Figure 3.9: Melodic Line Produced by Sub-Routine CHOOSE,
+				  p. 128 </unittitle> 
+				<physdesc><extent>1 score</extent> <dimensions>23 cm. x 31
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">29</container> 
+				<unittitle>Figure 3.10: Sub-Routine CHOOSE, p. 137 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>41 cm. x 42
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">30</container> 
+				<unittitle>Sub-Routine "ML.RL1", p. 141 
+				  <unitdate type="inclusive" normal="1972">1972</unitdate>
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>29 cm. x 21
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">31</container> 
+				<unittitle>Sub-Routine "ML.RL1" 
+				  <unitdate type="inclusive" normal="1972">1972</unitdate>
+				  </unittitle> 
+				<physdesc><extent>1 negative</extent> <dimensions>28 cm. x 21
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">32</container> 
+				<unittitle>Typical ornament produce by ORMOLU, p. 146 </unittitle> 
+				<physdesc><extent>1 graph</extent> <dimensions>18 cm. x 19
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">33</container> 
+				<unittitle>Figure 3.13: Sub-Routine ORMOLU, p. 151 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 50
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">34</container> 
+				<unittitle>The Triangular Grid Used to Compute Inflection Points by
+				  Sub-Routine TIMBRE, p. 155 </unittitle> 
+				<physdesc><extent>1 graph</extent> <dimensions>29 cm. x 27
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">35</container> 
+				<unittitle>Sub-Routine DIGANS, p. 175 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>73 cm. x 68
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">36</container> 
+				<unittitle>Sub-Routine DIGANS </unittitle> 
+				<physdesc><extent>1 flow chart negative,</extent> <physfacet>in 4
+				  pieces</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">37</container> 
+				<unittitle>Figure 4.2: Flow Charts for Sub-Routines that Transfer
+				  Data for Illiac II, p. 185 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>44 cm. x 54
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">38</container> 
+				<unittitle>Flow Charts for Subroutines that Transfer Data for
+				  Illiac II </unittitle> 
+				<physdesc><extent>1 flow chart negative</extent> <dimensions>24 cm.
+				  x 27 cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">39</container> 
+				<unittitle>Figure 4.6: Program "Knobs", p. 202 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>19 cm. x 36
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II. </unitid> 
+			 <unittitle> 
+				Flow charts and diagrams found in <title type="book">Phrase
+				  Generation in Computer Music Composition, Technical Report No. 10, National
+				  Science Foundation GK-14191</title>, 
+				<unitdate type="inclusive" datechar="creation" normal="1978-10">
+				  October, 1978</unitdate> </unittitle> 
+			 <physdesc><extent>Items 40-57</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Items are arranged according to where they appear in the
+				article.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">40</container> 
+				<unittitle>Figure 3.1: Basic Plan of Program PHRASE, p. 19
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>28 cm. x 22
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">41</container> 
+				<unittitle>Figure 3.3: Program PHRASE, Expanded, p. 25 </unittitle>
+				
+				<physdesc><extent>1 flow chart</extent> <dimensions>56 cm. x 41
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">42</container> 
+				<unittitle>Figure 3.3: Col. 1, p. 27 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>57 cm. x 23
+				  cm.,</dimensions> <physfacet>incomplete,</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">43</container> 
+				<unittitle>Figure 3.3: Col. 2-3, p. 29 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>49 cm. x 27
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">44</container> 
+				<unittitle>Figure 3.3: Col. 4-5, p. 32 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 23
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">45</container> 
+				<unittitle>Figure 3.3: Col. 6-7, p. 34 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>44 cm. x 33
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">46</container> 
+				<unittitle>Figure 3.3: Col. 8-10, p. 37 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>54 cm. x 26
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">47</container> 
+				<unittitle>Figure 5.2: Sub-Routine ZIPF, p. 54 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>33 cm. x 24
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">48</container> 
+				<unittitle>Figure 5.3: Sub-Routine THEME, p. 57 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>28 cm. x 22
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">49</container> 
+				<unittitle>Figure 5.4: Sub-Routine READL, p. 61 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>53 cm. x 89
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">50</container> 
+				<unittitle>Figure 5.6: Sub-Routine FILL, p. 68 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>55 cm. x 86
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">51</container> 
+				<unittitle>Figure 5.7: Sub-Routine PITCH, p. 75 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>62 cm. x 54
+				  cm.,</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">52</container> 
+				<unittitle>Figure 5.8: Sub-Routine MODE, p. 79 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>45 cm. x 29
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">53</container> 
+				<unittitle>Figure 5.9: Sub-Routine GOAL, p. 82 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>44 cm. x 31
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">54</container> 
+				<unittitle>Figure 5.10: Sub-Routine MLRL1, p. 85 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 37
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">55</container> 
+				<unittitle>Figure 5.11: Sub-Routine MLRL2, p. 89 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>43 cm. x 55
+				  cm.,</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">56</container> 
+				<unittitle>Figure 5.12: Sub-Routine RHYTHM, p. 94 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>44 cm. x 21
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">57</container> 
+				<unittitle>Figure 7.1: Persiflage, p. 143 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>22 cm. x 28
+				  cm.,</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III. </unitid> 
+			 <unittitle>Flow Charts and Diagrams used in 
+				<title type="book">Composing the Second Movement of Algorithms III,
+				  Technical Report No. 12, National Science Foundation Project No.
+				  GK-14191</title>, 
+				<unitdate type="inclusive" normal="1980-02"> February,
+				  1980</unitdate> </unittitle> 
+			 <physdesc><extent>Items 58-61</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Items are arranged according to where they appear in the
+				article.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">58</container> 
+				<unittitle>Figure 3.3: Chance of Phrase Surviving, p. 28
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">59</container> 
+				<unittitle>Figure 3.4: Phase Assembly, p. 29 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>87 cm. x 48
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">60</container> 
+				<unittitle>Figure 3.5: Double Imitation, p. 36 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 30
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">61</container> 
+				<unittitle>Figure 3.6: First Tone-Row Sequence, p. 40 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>58 cm. x 45
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Flow charts and Diagrams used in 
+				<title type="book">Computer Programs Used to Produce the
+				  Composition Algorithms I, Technical Report No. 13</title>, 
+				<unitdate type="inclusive" normal="1983"> 1983</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 62-97</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Items are arranged according to where they appear in the
+				article.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">62</container> 
+				<unittitle>Figure 2.1: Block Diagram of "The Decay of Information",
+				  p. 14 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>28 cm. x 40
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">63</container> 
+				<unittitle>Figure 2.3: Sub-Routine GOV, p. 23 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>52 cm. x 38
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">64</container> 
+				<unittitle>Figure 2.4: Flow Chart for Sub-Routine DIST, p. 33
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>58 cm. x 56
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">65</container> 
+				<unittitle>Figure 2.6: Flow Chart for Sub-Routine "ML.ORD", p. 45
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>59 cm. x 36
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">66</container> 
+				<unittitle>Figure 2.7: Unit Storage Plan of Individual Note
+				  Parameters Employing Split Storage Locations, p. 51 </unittitle> 
+				<physdesc><extent>1 chart</extent> <dimensions>22 cm. x 22
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">67</container> 
+				<unittitle>Figure 2.9: Storage Array for Fourth-Order Transition
+				  Probabilities, p. 53 </unittitle> 
+				<physdesc><extent>1 chart</extent> <dimensions>30 cm. x 22
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">68</container> 
+				<unittitle>Figure 3.2: Block Diagram for the Programming of
+				  "Icosahedron", p. 101 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>38 cm. x 14
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">69</container> 
+				<unittitle>Figure 3.6: Main Program for "Icosahedron" (Part 1), p.
+				  123 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>58 cm. x 51
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">70</container> 
+				<unittitle>Figure 3.7: "Icosahedron": Flow Chart IV: Generating
+				  Pitch and Dynamics Rows, p. 129 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>53 cm. x 59
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">71</container> 
+				<unittitle>Figure 3.8: Main Program for "Icosahedron" (Part 3), p.
+				  133 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>47 cm. x 57
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">72</container> 
+				<unittitle>Figure 3.9: Production of Remaining Note Parameters, p.
+				  139 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>59 cm. x 74
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">73</container> 
+				<unittitle>Figure 3.9: Production of Remaining Note Parameters
+				  (Part 2), p. 139 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>59 cm. x 37
+				  cm.,</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">74</container> 
+				<unittitle>Figure 3.10: Main Program Section FC7, p. 147 
+				  <unitdate type="inclusive" normal="1983">1983</unitdate>
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>54 cm. x 74
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">75</container> 
+				<unittitle>Figure 3.12: Sub-Routine MATCH, p. 159 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>56 cm. x 47
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">76</container> 
+				<unittitle>Figure 4.3.1: Instrumentation Plan for Part 1B of "The
+				  Incorporation of Constraints", p. 178 </unittitle> 
+				<physdesc><extent>1 graph</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">77</container> 
+				<unittitle>Figure 4.3.2: Macros of Program M3SIB, p. 181
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>39 cm. x 26
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">78</container> 
+				<unittitle>Figure 4.3.3: Main Program for M3SIB, p. 184
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>38 cm. x 40
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">79</container> 
+				<unittitle>Figure 4.3.4: Sub-Routine ML.CDC, 192 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>42 cm. x 30
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">80</container> 
+				<unittitle>Figure 4.3.5: Two Examples of Interval Computation in
+				  Subroutine ML.CDC, p. 198 </unittitle> 
+				<physdesc><extent>1 chart</extent> <dimensions>28 cm. x 23
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">81</container> 
+				<unittitle>Figure 4.4.1: Variance of Consonance and Dissonance in
+				  the Four "Versions" of Part 3A of "The Incorporation of Constraints", p. 204
+				  </unittitle> 
+				<physdesc><extent>1 graph</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">82</container> 
+				<unittitle>Figure 4.4.2: Macros of Program M3S2A, p. 206
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 46
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">83</container> 
+				<unittitle>Figure 4.4.3: Main Program for M3S2A, p. 211
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>38 cm. x 58
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">84</container> 
+				<unittitle>Figure 4.5.1: Seven Macros of Program M3S2B, p. 218
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>38 cm. x 45
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">85</container> 
+				<unittitle>Figure 4.5.2: Main Program for M3S2B, p. 222
+				  </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>34 cm. x 41
+				  cm.,</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">86</container> 
+				<unittitle>Figure 4.5.4: Sub-Routine ML.RL2, p. 231 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>42 cm. x 27
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">87</container> 
+				<unittitle>Figure 4.5.5: Sub-Routine ML.RL3, p. 235 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>45 cm. x 47
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">88</container> 
+				<unittitle>Figure 4.6.1: Macros for Program M3S3A, p. 243
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 35
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">89</container> 
+				<unittitle>Figure 4.6.2: Program M3S3A, p. 247 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>43 cm. x 56
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">90</container> 
+				<unittitle>Figure 4.7: Program M3S3B, p. 253 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>46 cm. x 47
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">91</container> 
+				<unittitle>Figure 4.8.1: Four Macros of Program M3S4A, p. 258
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>28 cm. x 46
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">92</container> 
+				<unittitle>Figure 4.8.2: Main Program of M3S4A, p. 259 </unittitle>
+				
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">93</container> 
+				<unittitle>Figure 4.9: Program M3S4B, p. 272 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>37 cm. x 46
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">94</container> 
+				<unittitle>Figure 4.10.1: DO MACRO and Main Routine of M3S5A, p.
+				  276 </unittitle> 
+				<physdesc><extent>1 flow chart,</extent> <dimensions>28 cm. x 43
+				  cm.,</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">95</container> 
+				<unittitle>Figure 4.11.1: Macros of Program M3S5B, p. 281
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>45 cm. x 50
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">96</container> 
+				<unittitle>Figure 4.11.2: Main Program M3S5B, p. 286 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>45 cm. x 26
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">97</container> 
+				<unittitle>Figure 4.11.3: Sub-Routine ML4DST, p. 291 </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>37 cm. x 27
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V. </unitid> 
+			 <unittitle>Unmatched Flow Charts and Diagrams, 
+				<unitdate type="inclusive" normal="1972/1983">
+				  undated</unitdate></unittitle> 
+			 <physdesc><extent>Items 98-110</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Items are arranged according to the figure numbers present on each
+				item.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">98</container> 
+				<unittitle>Figure 1: Condensed Flow Chart for Sub-Routine STOCH -
+				  Part 3 - Making a Stochastic Choice </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>22 cm. x 37
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">99</container> 
+				<unittitle>Figure 2.3.1: New Play-Rest Functions in Branch 4 of
+				  Sub-Routine BRANCH </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>52 cm. x 24
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">100</container> 
+				<unittitle>Figure 3.4.1: Parts 1 and 2 of Sub-Routine REIHE: Row
+				  Generation and Shuffle </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>39 cm. x 32
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">101</container> 
+				<unittitle>Figure 3.4.2: Condensed Flow Chart of Part 3 of
+				  Sub-Routine REIHE: Serial Phrase Assembly </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>34 cm. x 19
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">102</container> 
+				<unittitle>Figure 3.4.3: Part _ of Sub-Routine REIHE, column
+				  headings </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>18 cm. x 44
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">103</container> 
+				<unittitle>Figure 3.4.3: Part _ of Sub-Routine REIHE, columns 1-3
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 57
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">104</container> 
+				<unittitle>Figure 3.4.3: Part _ of Sub-Routine REIHE, column 4
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 17
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">105</container> 
+				<unittitle>Figure 3.4.4: Part 4 of Sub-Routine REIHE: Serial
+				  Checkoff </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>44 cm. x 36
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">106</container> 
+				<unittitle>Figure 7: Part 3 of Sub-Routine STOCH: Choosing New Note
+				  Parameters </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>51 cm. x 58
+				  cm.</dimensions> <physfacet>incomplete</physfacet> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">107</container> 
+				<unittitle>Figure 8: Part 4 of Sub-Routine STOCH: Storage of a
+				  Successful Choice </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>46 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">108</container> 
+				<unittitle>Figure 9: Part 4 of Sub-Routine STOCH: Printout of the
+				  KFREQ Array </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>46 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">109</container> 
+				<unittitle>Flowchart for Composing, Orchestrating and Converting to
+				  Tape </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>43 cm. x 34
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="item">110</container> 
+				<unittitle>"System for Analysis and Synthesis of Sounds at SUNY,
+				  Buffalo" </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI. </unitid> 
+			 <unittitle>Additional Graphs, Diagrams and Flow Charts 
+				<unitdate type="inclusive" normal="1972/1987">undated</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 111-116</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">111</container> 
+				<unittitle>Trial Distribution of Stochastic Orders Produced by
+				  Subroutine "Govern" </unittitle> 
+				<physdesc><extent>1 graph</extent> <dimensions>20 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">112</container> 
+				<unittitle>Schematic Outline of Computer System for Analysis and
+				  Synthesis of Sounds at SUNY Buffalo </unittitle> 
+				<physdesc><extent>1 diagram</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">113</container> 
+				<unittitle>Figures from an unknown article on electronic music
+				  </unittitle> 
+				<physdesc><extent>15 graphs</extent> <physfacet>15 leaves, some
+				  photocopies, handwritten notes on tracing paper overlays</physfacet>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<list type="simple"> 
+				  <item>Figure 2.1 (a,b,c)</item> 
+				  <item>Figure 2.2 (a,b,c)</item> 
+				  <item>Figure 2.3 (a,b)</item> 
+				  <item>Figure 2.4 (a,b,c)</item> 
+				  <item>Figure 2.5</item> 
+				  <item>Figure 2.6 (a,b,c)</item> 
+				  <item>Figure 2.7</item> 
+				  <item>Figure 2.8</item> 
+				  <item>Figure 2.9</item> 
+				  <item>Figure 2.10</item> 
+				  <item>Figure 2.11</item> 
+				  <item>Figure 2.12</item> 
+				  <item>Figure 2.13</item> 
+				  <item>Figure 2.14 (a,b)</item> 
+				  <item>Figure 3.1</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">114</container> 
+				<unittitle>Tables and figures relating to stochastic choices
+				  </unittitle> 
+				<physdesc><extent>1 flow chart, 5 tables</extent> <physfacet>6
+				  items</physfacet> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<list type="simple"> 
+				  
+				  <item>Figure 6. Parts 1 and 2 of Subroutine STOCH: Input
+					 Sequences</item>
+				  <item>Figure 2. The Storage Plan of the 
+					 <title render="underline">KFREQ</title> Storage Array in
+					 Subroutine "STOCH"</item>
+				  <item>Table 2.9.1: Definitions of Stochastic Processes</item>
+				  <item>Table 2.9.2: The Five Sections of Subroutine STOCH</item>
+				  <item>Table 2.9.3: Transition Probabilities for Stochastic
+					 Processes</item>
+				  <item>Table 2.9.4: Storage Allocation for Stochastic Choice
+					 Processes</item>
+				  <item>Table 2.9.5: Formulas for Entering the KFREQ Array</item>
+				  <item>Table 2.9.6: Currently Available Distribution
+					 Subroutines</item> 
+				</list> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">115</container> 
+				<unittitle>Comparison of Three Different Distribution Subroutines
+				  </unittitle> 
+				<physdesc><extent>1 graph</extent> <dimensions>28 cm. x 22
+				  cm.</dimensions> </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">116</container> 
+				<unittitle>Loose Flow Chart Pieces </unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+				<note> 
+				  <p>Envelope containing all unidentified flow chart labels.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII. </unitid> 
+			 <unittitle>Photocopies of Flow Charts Found in Other Articles, 
+				<unitdate type="inclusive" normal="1968/1987"> 1968-1987</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 117-121</extent></physdesc> 
+		  </did>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">117</container> 
+				<unittitle>Portion of 
+				  <title>HPSCHD</title> Program, 
+				  <unitdate type="inclusive" normal="1968">1968</unitdate>
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+				<note>
+				  <p>
+				  <title type="article">HPSCHD Interview by Larry Austin</title> in
+				  
+				  <title type="journal">Source 2</title>, 17</p>
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">118</container> 
+				<unittitle>Figure 3: Flow chart for Subroutine "MATCH", 
+				  <unitdate type="inclusive" normal="1969">1969</unitdate>
+				  </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+				<note>
+				  <p>
+				  <title type="article"> Some Compositional Techniques Involving
+					 the Use of Computers</title> in 
+				  <title type="journal">Music by Computers</title>, 78</p>
+				</note> 
+			 </did> 
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">119</container> 
+				<unittitle>Sub-Routine "ICHING", 
+				  <unitdate type="inclusive"
+					normal="1970">1970</unitdate></unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+				<note>
+				  <p>
+				  <title type="article">Programming the I-Ching Oracle</title> in 
+				  <title type="journal">Computer Studies in the Humanities and
+					 Verbal Behavior</title>, 138</p>
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">120</container> 
+				<unittitle>Subroutine ICHING, 
+				  <unitdate type="inclusive" normal="1986-12">December,
+					 1986</unitdate> </unittitle> 
+				<physdesc><extent>1 flow chart</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+				<note>
+				  <p>
+				  <title type="article">On Composing Music With Computers</title>
+				  in 
+				  <title type="journal">Colóquio artes</title>, 62</p>
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">121</container> 
+				<unittitle>Subroutine "WURFEL"; Program DICEGAME, 
+				  <unitdate type="inclusive" normal="1987">1987</unitdate>
+				  </unittitle> 
+				<physdesc><extent>2 flow charts</extent> <dimensions>22 cm. x 28
+				  cm.</dimensions> </physdesc> 
+				<note>
+				  <p>
+				  <title type="article">Sulla programmazione del gioco musicale dei
+					 dadi di Mozart</title> in 
+				  <title type="journal">Profili del Suono (1987)</title> </p>
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  
+		  <persname source="lcnaf" encodinganalog="600" role="subject">Hiller, Lejaren, 1924-1994--Archives </persname>
+		  <subject source="lcsh" encodinganalog="650">Computer music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Electronic music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Flow charts</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">flow charts</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://library.buffalo.edu/music/spcoll/hiller/index.html" show="new"
+					 actuate="onrequest" role="text/html">Lejaren Hiller Archive </archref> Mus.
+					 Arc. 5 </label> 
+				  <item>Music manuscripts, including sketches, program notes,
+					 correspondence, writings, recordings, and photographs. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <extref
+					 href="http://library.buffalo.edu/music/exhibits/hiller2007summary.pdf"
+					 show="new" actuate="onrequest" role="text/html"> Preserving Lejaren A. Hiller's
+						Flow charts: A Case Study</extref> </label> 
+				  <item>Online exhibit summary about the restoration and
+					 preservation of the flow charts. The exhibit demonstrates why the preservation
+					 was required and what it entailed, with historical background on the use of
+					 flow charts in the creation of computer music and Hiller's role as musical
+					 innovator in the realm of electronic music </item>
+				</defitem>
+				<defitem>
+				  <label>
+					 <extref
+					 href="http://library.buffalo.edu/music/exhibits/hillerexhibitsummary.pdf"
+					 show="new" actuate="onrequest" role="text/html">Lejaren A. Hiller: Computer
+						Music Pioneer</extref>
+				  </label>
+				  <item>Online exhibit summary about Lejaren Hiller utilizing
+					 materials from the Lejaren Hiller Archive.</item>
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

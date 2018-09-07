@@ -1,0 +1,5043 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 71.1::Joseph Chouinard Papers)//EN">ubmu0071_1</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Joseph
+		Chouinard Papers, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1926/2008">1926-2008</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Chouinard (Joseph)
+		Papers </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by Jillian
+		Hayes and John Bewley. </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley May 2015.</creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a"> Joseph Chouinard Papers,
+	   
+	   <unitdate encodinganalog="245$f" normal="1926/2008" type="inclusive"
+	    datechar="creation"> 1926-2008 </unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 71.1</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf">
+		Chouinard, Joseph Jerod, 1926-2014 </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">6
+	   boxes</extent> <extent unit="folder" encodinganalog="300$a">(309
+	   folders)</extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">
+	   Collection material in <language encodinganalog="041"
+	   langcode="eng">English.</language> </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The collection contains
+	   personal documents, correspondence, concert programs, and clippings that
+	   document the life of singer and librarian Joseph Chouinard.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Joseph Chouinard Papers, 1926-2008, Music Library,
+		The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Joseph Chouinard, 2006.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by Jillian Hayes.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Joseph Chouinard was born in Middletown, Connecticut. His birth
+	   certificate lists his middle name as Gerard and his date of birth as May 4th,
+	   1926. However, later documentation shows his date of birth to be May 7th, 1926
+	   and his middle name to be Jerod. It is unclear why this discrepancy exists,
+	   though it should be noted. He graduated from Middletown High School in 1944.
+	   Following graduation Joseph enlisted in the United States Navy. He served in
+	   the Navy from 1944-1946, during which time he was stationed in Okinawa, Japan.
+	   After he was discharged he attended the University of Connecticut, graduating
+	   with a BA in Music in 1950. He stayed at the university and in 1952, obtained
+	   his Master of Arts and Music Degree. Later, he obtained his MLS in Music
+	   Librarianship from State University of New York College at Geneseo in 1970. In
+	   addition to his degrees, Joseph studied with Nadia Boulanger at Fontainebleau
+	   in 1957 and 1958. He also attended the 1961 Session of the Summer School for
+	   Singers in Oxford, England. </p> 
+	 <p>Throughout his life, Joseph performed both nationally and
+	   internationally as a bass baritone. He performed both as a chorus member and as
+	   a soloist, including performances at the Tanglewood Festival, Calvary Church in
+	   New York City, the Tri-Cities Opera Company in Binghamton, the Aspen Music
+	   Festival, the Florida International Music Festival, Columbia University,
+	   Arundel Opera (Maine), Theatre Under the Stars in Atlanta, Georgia, and with
+	   the University Opera Studio at the State University of New York at Buffalo.
+	   </p> 
+	 <p>His music librarianship career included positions as Music and Art
+	   Librarian, California State College at San Bernardino (1971-1974), Music
+	   Cataloger, State University of New York at Buffalo (1974-1978), Music
+	   Librarian, State University of New York College at Fredonia (1978-1991), and
+	   Exchange Music Librarian at Royal Holloway College, Great Britain (1983-1984).
+	   After retiring, Joseph Chouinard remained active as a volunteer at the State
+	   University of New York at Buffalo Music Library and at the Buffalo Veterans
+	   Administration Hospital where he led patients in various arts activities such
+	   as readings of plays and poetry. He died in Buffalo on January 6th, 2014. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection consists of 309 folders, which range in date from
+	   1926-2008. There is a series of personal papers which contain his birth
+	   certificate as well as transcripts and degrees from his various schooling. The
+	   correspondence series contains writing from both personal and professional
+	   contacts. The writings and collected research series contains newspaper
+	   articles and poems by Joseph. It also contains papers mostly written for
+	   academic purposes as well as book reviews. The collection contains programs
+	   from various concert performances. There are approximately 37 programs for
+	   concerts on which Joseph was a performer and approximately 87 programs for
+	   concerts on which he did not perform. The series of publicity and promotional
+	   materials contains subseries of musical and non-musical items. Lastly, the
+	   press clippings series chiefly contains reviews of performances in which Joseph
+	   participated. </p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged in seven series: </p> 
+	 <list> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series1">I. Personal
+		  documents</ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series2">II.
+		  Correspondence</ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series3">III.
+		  Writings and collected research</ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series4">IV. Concert
+		  programs</ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series5">V. Publicity
+		  and promotional materials</ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series6">VI. Press
+		  clippings</ref></item> 
+	 </list> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I.</unitid> 
+		<unittitle>Personal documents, 
+		  <unitdate type="inclusive" normal="1926/2006">1926-2006 </unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 1-12 </extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">1</container> 
+		  <unittitle>Birth certificate 
+		    <unitdate type="inclusive" normal="1926-07-19">4 May
+			 1926</unitdate></unittitle> 
+		  <physdesc><extent>1 item</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">2</container> 
+		  <unittitle>Middletown High School Diploma 
+		    <unitdate type="inclusive" normal="1944-06-15">15 June
+			 1944</unitdate></unittitle> 
+		  <physdesc><extent>1 item</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">3</container> 
+		  <unittitle>St. James's Church (New London, Conn.) Order of
+		    confirmation 
+		    <unitdate type="inclusive"
+		    normal="1947">1947</unitdate></unittitle> 
+		  <physdesc><extent>1 item</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">4</container> 
+		  <unittitle>University of Connecticut 
+		    <unitdate type="inclusive"
+		    normal="1926-07-19">1950-1959</unitdate></unittitle> 
+		  <physdesc><extent>4 items</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Bachelor of Science diploma, 
+			   <date>11 June 1950</date></item> 
+			 <item>Master of Arts diploma, 
+			   <date>8 June 1952</date></item> 
+			 <item>Sixty-ninth annual commencement booklet, 
+			   <date>8 June 1952</date></item> 
+			 <item>Official transcript, 
+			   <date>1952 or after</date></item> 
+		    </list></p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">5</container> 
+		  <unittitle>Teaching certificates for the state of Connecticut, 
+		    <unitdate type="inclusive"
+		    normal="1926-07-19">1956-1958</unitdate></unittitle> 
+		  <physdesc><extent>3 items</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">6</container> 
+		  <unittitle>Fontainebleau Music School 
+		    <unitdate type="inclusive"
+		    normal="1926-07-19">1957</unitdate></unittitle> 
+		  <physdesc><extent>2 items</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Certificate of attendance for summer 1957</item> 
+			 <item>Staff contact list</item> 
+		    </list></p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">7</container> 
+		  <unittitle>California State College San Bernardino 
+		    <unitdate type="inclusive" normal="1926-07-19">17 March
+			 1970</unitdate></unittitle> 
+		  <physdesc><extent>1 item</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Invitation for employment.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">8</container> 
+		  <unittitle>State University of New York College at Geneseo 
+		    <unitdate type="inclusive"
+		    normal="1926-07-19">1970</unitdate></unittitle> 
+		  <physdesc><extent>2 items</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Master of Library Science diploma, 
+			   <date>21 August 1970</date></item> 
+			 <item>One-hundred and fourth commencement booklet, 
+			   <date>24 May 1970</date></item> 
+		    </list></p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">9</container> 
+		  <unittitle>State University of New York College at Fredonia 
+		    <unitdate type="inclusive"
+		    normal="1926-07-19">1982-1991</unitdate></unittitle> 
+		  <physdesc><extent>6 items</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Exchange proposal for Royal Holloway and New Bedford
+			   College 
+			   <date>1 December 1982</date></item> 
+			 <item>General courtesy and privileges letter 
+			   <date>30 June 1983</date></item> 
+			 <item>Request for tour of John Rylands University Library of
+			   Manchester 
+			   <date>15 September 1983</date></item> 
+			 <item>Letter from supervisor about being in England 
+			   <date>9 November 1983</date></item> 
+			 <item>Reed Library professional activities update form 
+			   <date>15 September 1978</date></item> 
+			 <item>Praise of La Boheme performance by Thomas H. Carpenter,
+			   Professor of Music 
+			   <date>20 November 1989</date></item> 
+			 <item>Notice of intention to retire 
+			   <date>7 May 1991</date></item> 
+		    </list></p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">10</container> 
+		  <unittitle>Royal Holloway and New Bedford College 
+		    <unitdate type="inclusive"
+		    normal="1926-07-19">1982</unitdate></unittitle> 
+		  <physdesc><extent>3 items</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Letter of exchange proposal from E. Hartt to J. Saulitis
+			   at State University of New York College at Fredonia 
+			   <date>2 December 1982</date></item> 
+			 <item>Chapel schedule 
+			   <date>March 1984</date></item> 
+			 <item>Library card</item> 
+		    </list></p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">11</container> 
+		  <unittitle>State University of New York at Buffalo 
+		    <unitdate type="inclusive"
+		    normal="1926-07-19">1973-2006</unitdate></unittitle> 
+		  <physdesc><extent>5 items</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Letter of recommendation from Richard Saylor 
+			   <date>9 August 1973</date></item> 
+			 <item>Letter of recommendation from Arthur Nelson 
+			   <date>9 August 1973</date></item> 
+			 <item>Letter of recommendation from John Kucaba 
+			   <date>10 August 1973</date></item> 
+			 <item>Joe Chouinard Day in the Music Library (80th Birthday) 
+			   <date>9 May 2006</date></item> 
+			 <item>Printed image to correspond with Joe Chouinard Day 
+			   <date>9 May 2006</date></item> 
+		    </list></p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">12</container> 
+		  <unittitle>Curriculum vitae 
+		    <unitdate type="inclusive" normal="1926-07-19">1973-circa
+			 1981</unitdate></unittitle> 
+		  <physdesc><extent>4 items</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>6 August 1973</item> 
+			 <item>circa 1974</item> 
+			 <item>circa 1975</item> 
+			 <item>circa 1981</item> 
+		    </list></p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II.</unitid> 
+		<unittitle>Correspondence, 
+		  <unitdate type="inclusive" normal="1957/2007">1957-2007</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 13-66</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in alphabetical order by author's surname.</p> 
+	   </arrangement> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">13</container> 
+		  <unittitle>[unknown], Bob and Joanne, 
+		    <unitdate type="inclusive">1979-08-17</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">14</container> 
+		  <unittitle>Altshuler, Blanche, 
+		    <unitdate type="inclusive">1987-08</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">15</container> 
+		  <unittitle>American Church in Paris, 
+		    <unitdate type="inclusive">1957-12-16</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">16</container> 
+		  <unittitle>American Civic Association, Inc., 
+		    <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1965-05-03</item> 
+			 <item>1965-11-03</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">17</container> 
+		  <unittitle>Banes, Mildred, 
+		    <unitdate type="inclusive">1959</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">18</container> 
+		  <unittitle>Barbara Walters Specials, 
+		    <unitdate type="inclusive">1978-10-24</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">19</container> 
+		  <unittitle>Benvenga, Nancy, 
+		    <unitdate type="inclusive">1972-09</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Includes copy of article written by N. Benvenga entitled On Loan
+		    from the Army.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">20</container> 
+		  <unittitle>Bibliotheque Nationale (Paris, France), 
+		    <unitdate type="inclusive">1971-10-06</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">21</container> 
+		  <unittitle>Binghamton Public Library, 
+		    <unitdate type="inclusive">1967-11-30</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Copy of letter to Harold Mason regarding item donated to library
+		    by J. Chouinard</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">22</container> 
+		  <unittitle>British Information Services, 
+		    <unitdate type="inclusive">1961-03-20</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">23</container> 
+		  <unittitle>Burgess, Michael (aka Reginald, Robert), 
+		    <unitdate type="inclusive">2002-2003</unitdate> </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>2002-12</item> 
+			 <item>2003-12</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">24</container> 
+		  <unittitle>Carey, Paul, 
+		    <unitdate type="inclusive">1975-04-01</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">25</container> 
+		  <unittitle>Center for Human Development (Jersey City, N.J.), 
+		    <unitdate type="inclusive">1981-05-25</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">26</container> 
+		  <unittitle>Chouinard, Joseph, 
+		    <unitdate type="inclusive">1970-1978</unitdate> </unittitle> 
+		  <physdesc> <extent>3 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1970-10-28</item> 
+			 <item>1972-10-12</item> 
+			 <item>1978-01-16</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">27</container> 
+		  <unittitle>Cooper, Kenneth, 
+		    <unitdate type="inclusive">1961-1969</unitdate> </unittitle> 
+		  <physdesc> <extent>18 items</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>06-04-67 correspondence includes copy of letter of
+		    recommendation</p> 
+		</note> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1961-01-13</item> 
+			 <item>1961-12-10</item> 
+			 <item>1962-09-23</item> 
+			 <item>1962-10-31</item> 
+			 <item>1963-01-01</item> 
+			 <item>1963-01-29</item> 
+			 <item>1966-10-10</item> 
+			 <item>1966-10-14</item> 
+			 <item>1966-10-28</item> 
+			 <item>1966-11-28</item> 
+			 <item>1966-12-12</item> 
+			 <item>1967-01-21</item> 
+			 <item>1967-02-08</item> 
+			 <item>1967-02-13</item> 
+			 <item>1967-06-14</item> 
+			 <item>1968-02-26</item> 
+			 <item>1969-02-26</item> 
+			 <item>1969-05-02</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">28</container> 
+		  <unittitle>Department of Veteran Affairs (Buffalo, N.Y.), 
+		    <unitdate type="inclusive">2000, undated</unitdate> </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>2000-07-10</item> 
+			 <item>undated</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">29</container> 
+		  <unittitle>Evangelical Lutheran Church of the Prince of Peace
+		    (Binghamton, N.Y.), 
+		    <unitdate type="inclusive">1963-08-11</unitdate> </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1963-08-14</item> 
+			 <item>1963-11-3</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">30</container> 
+		  <unittitle>Forget, Louise, 
+		    <unitdate type="inclusive">1971-1979</unitdate> </unittitle> 
+		  <physdesc> <extent>6 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1971-09-20</item> 
+			 <item>1972-11-13</item> 
+			 <item>1973-01-24</item> 
+			 <item>1973-04-19</item> 
+			 <item>1979-01-04</item> 
+			 <item>1979-05-23</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">31</container> 
+		  <unittitle>Forst, Judith, 
+		    <unitdate type="inclusive">2003-2012</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">32</container> 
+		  <unittitle>Germain, Gaston, 
+		    <unitdate type="inclusive">1972</unitdate>, 
+		    <unitdate type="inclusive">2004</unitdate> </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1972</item> 
+			 <item>2004-11-30</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">33</container> 
+		  <unittitle>Gibson, Gerald D., 
+		    <unitdate type="inclusive">1974-03-19</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">34</container> 
+		  <unittitle>Gilmour's Albums, CBC Radio, 
+		    <unitdate type="inclusive">1974-07-08</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">35</container> 
+		  <unittitle>Hiley, David (Ann), 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">36</container> 
+		  <unittitle>Hopkins Center, Dartmouth College, 
+		    <unitdate type="inclusive">1965-05-26</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">37</container> 
+		  <unittitle>Jauch, David, 
+		    <unitdate type="inclusive">approximately 1983</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">38</container> 
+		  <unittitle>Kent State University, 
+		    <unitdate type="inclusive">1972-08-01</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">39</container> 
+		  <unittitle>Kenton, Egon F., 
+		    <unitdate type="inclusive">1973</unitdate>, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>3 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1973-01-22</item> 
+			 <item>1973-06-07</item> 
+			 <item>undated</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">40</container> 
+		  <unittitle>Kooper, Kees (Mary Louise née Boehm), 
+		    <unitdate type="inclusive">1981</unitdate>, 
+		    <unitdate type="inclusive">2002-2004</unitdate> </unittitle> 
+		  <physdesc> <extent>5 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1981-09-22</item> 
+			 <item>2002-12-25</item> 
+			 <item>2003-12</item> 
+			 <item>2004-08-20</item> 
+			 <item>2004-08-23</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">41</container> 
+		  <unittitle>Legg, Arthur Carl, 
+		    <unitdate type="inclusive">1970-11-06</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Includes promotional flyer for past art show, newspaper clipping
+		    and copy of painting.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">42</container> 
+		  <unittitle>Lucas, James E., 
+		    <unitdate type="inclusive">1968-03-08</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Includes newspaper clipping.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">43</container> 
+		  <unittitle>Lucktenberg, George, 
+		    <unitdate type="inclusive">1979-02-21</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">44</container> 
+		  <unittitle>Maine School (Maine, N.Y.), 
+		    <unitdate type="inclusive">1962-02-28</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">45</container> 
+		  <unittitle>Mason, Ethelmae, 
+		    <unitdate type="inclusive">2004-09-21</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">46</container> 
+		  <unittitle>National Audubon Society, 
+		    <unitdate type="inclusive">1971-04-21</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">47</container> 
+		  <unittitle>Opera Quarterly, 
+		    <unitdate type="inclusive">1987-07-06</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">48</container> 
+		  <unittitle>Parry, Betty, 
+		    <unitdate type="inclusive">1962-1963</unitdate> </unittitle> 
+		  <physdesc> <extent>3 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1962-01-13</item> 
+			 <item>1962-12-16</item> 
+			 <item>1963-01-15</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">49</container> 
+		  <unittitle>Polish Airlines, 
+		    <unitdate type="inclusive">1971-01-13</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">50</container> 
+		  <unittitle>Prevet, Carol, 
+		    <unitdate type="inclusive">1988-02-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">51</container> 
+		  <unittitle>Putnam, Tom, 
+		    <unitdate type="inclusive">2007-09-26</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">52</container> 
+		  <unittitle>Romo, Bob (Cruz-Romo, Gilda), 
+		    <unitdate type="inclusive">1977-1984</unitdate>, 
+		    <unitdate type="inclusive">2003</unitdate> </unittitle> 
+		  <physdesc> <extent>5 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1977-08-05</item> 
+			 <item>1978-06-08</item> 
+			 <item>1978-06-20</item> 
+			 <item>1984-11</item> 
+			 <item>2003-12-27</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">53</container> 
+		  <unittitle>Royal Conservatory of Music, 
+		    <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		  <physdesc> <extent>3 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1965-01-9</item> 
+			 <item>1965-03-27</item> 
+			 <item>1965-04-10</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">54</container> 
+		  <unittitle>Royal Holloway College, 
+		    <unitdate type="inclusive">1984-1989</unitdate> </unittitle> 
+		  <physdesc> <extent>4 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1984-01-12</item> 
+			 <item>1984-09-20</item> 
+			 <item>1985-01-09</item> 
+			 <item>1989-10</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">55</container> 
+		  <unittitle>Schlaraffia Bisonia, 
+		    <unitdate type="inclusive">1978-12-16</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">56</container> 
+		  <unittitle>Sheehy, Matthew, 
+		    <unitdate type="inclusive">2002-12-12</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">57</container> 
+		  <unittitle>Societe Frederic Chopin, 
+		    <unitdate type="inclusive">1971</unitdate> </unittitle> 
+		  <physdesc> <extent>4 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1971-01-18</item> 
+			 <item>1971-02-03</item> 
+			 <item>1971-03-29</item> 
+			 <item>1971-08-03</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">58</container> 
+		  <unittitle>St. Paul's United Methodist Church (San Bernardino,
+		    CA.), 
+		    <unitdate type="inclusive">1973-04-1973-05</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1973-04-25</item> 
+			 <item>1973-05-14</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">59</container> 
+		  <unittitle>Stanford, Carolyn, 
+		    <unitdate type="inclusive">1978-06-30</unitdate> </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1978-06-22</item> 
+			 <item>1978-06-30</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">60</container> 
+		  <unittitle>State University of New York at Buffalo, 
+		    <unitdate type="inclusive">1974</unitdate>, 
+		    <unitdate type="inclusive">1996</unitdate>, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>4 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1974-04</item> 
+			 <item>1974-05-01</item> 
+			 <item>1996-08-27</item> 
+			 <item>undated</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">61</container> 
+		  <unittitle>State University of New York College at Buffalo, 
+		    <unitdate type="inclusive">1989-06-16</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">62</container> 
+		  <unittitle>State University of New York College at Fredonia, 
+		    <unitdate type="inclusive">1984-1987</unitdate> </unittitle> 
+		  <physdesc> <extent>2 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1984-02-06</item> 
+			 <item>1987-12-15</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">63</container> 
+		  <unittitle>Stetson University, 
+		    <unitdate type="inclusive">1967</unitdate> </unittitle> 
+		  <physdesc> <extent>3 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1967-05-15</item> 
+			 <item>1967-06-09</item> 
+			 <item>1967-06-23</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">64</container> 
+		  <unittitle>Summer School for Singers (Ritchie, Margaret), 
+		    <unitdate type="inclusive">1961-1963</unitdate>, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>9 items</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1961-03-21</item> 
+			 <item>1961-03-25</item> 
+			 <item>1961-05-16</item> 
+			 <item>1961-06</item> 
+			 <item>1961-07-11</item> 
+			 <item>1961-10-04</item> 
+			 <item>1961-12-29</item> 
+			 <item>1963-01-10</item> 
+			 <item>undated</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">65</container> 
+		  <unittitle>Tri-Cities Opera Guild News, 
+		    <unitdate type="inclusive">1961</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">66</container> 
+		  <unittitle>Whiting, Jim and Julie, 
+		    <unitdate type="inclusive">1999-12-02</unitdate> </unittitle> 
+		  <physdesc> <extent>1 item</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Includes photograph.</p> 
+		</note> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series3">III.</unitid> 
+		<unittitle>Writings and collected research, 
+		  <unitdate type="inclusive" normal="1954/1995">1954-1995</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 67-108 </extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in three subseries: 
+		  <list> 
+		    <item> 
+			 <ref actuate="onrequest" show="replace"
+			  target="series3a">III.A</ref> Articles by Joseph Chouinard</item> 
+		    <item> 
+			 <ref actuate="onrequest" show="replace"
+			  target="series3b">III.B</ref> Writings and research</item> 
+		    <item> 
+			 <ref actuate="onrequest" show="replace"
+			  target="series3c">III.C</ref> Poetry written by Joseph Chouinard</item> 
+		  </list></p> 
+	   </arrangement> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series3a">III.A</unitid> 
+		  <unittitle>Articles written by Joseph Chouinard 
+		    <unitdate type="inclusive"
+			normal="1954/1979">1954-1979</unitdate></unittitle> 
+		  <physdesc><extent>Folder 67</extent></physdesc> 
+		</did> 
+		<arrangement> 
+		  <p>Arranged in chronological order within the folder.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">67</container> 
+		    <unittitle>Articles by Joseph Chouinard, 
+			 <unitdate type="inclusive"
+			  normal="1954/1979">1954-1979</unitdate> </unittitle> 
+		    <physdesc><extent>8 items</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item> 
+				<title type="article">Symphony lauded on visit to
+				  Rome</title>, unidentified source , 
+				<date>1954</date></item> 
+			   <item> 
+				<title type="article">Response to opera</title> from 
+				<title render="italic">Christian Science Monitor</title>, 
+				<date>26 February 1960</date> </item> 
+			   <item> 
+				<title type="article">Youngsters intrigued by Dorian
+				  Quintet </title> from 
+				<title render="italic">Sun-Bulletin </title> (Binghamton,
+				New York), 
+				<date>9 April 1962</date> </item> 
+			   <item> 
+				<title type="article">Aspen adventure </title> from 
+				<title render="italic">Valley echo </title>, 
+				<date>December 1962</date> </item> 
+			   <item> 
+				<title type="article">Letter to the editor </title> from 
+				<title render="italic">Geneseo Lamron </title>, 
+				<date>7 November 1969</date> </item> 
+			   <item> 
+				<title type="article">Festival faculty performs </title>
+				from 
+				<title render="italic">Meadville Tribune </title>, 
+				<date>18 August 1979</date> </item> 
+			   <item> 
+				<title type="article">Faculty soloist featured at final
+				  festival concert </title> from 
+				<title render="italic">Meadville Tribune </title>, 
+				<date>27 August 1979</date> </item> 
+			   <item> 
+				<title type="article">Hegyis pleasing in first recital
+				  </title> from an unidentified source, 
+				<date>approximately 1955</date> </item> 
+			 </list></p> 
+		  </scopecontent> 
+		</c03> 
+	   </c02> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series3b">III.B</unitid> 
+		  <unittitle>Writings and research 
+		    <unitdate type="inclusive"
+			normal="1970/1979">1970-1979</unitdate></unittitle> 
+		  <physdesc><extent>Folder 68-78</extent></physdesc> 
+		</did> 
+		<arrangement> 
+		  <p>Arranged in chronological order.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">75</container> 
+		    <unittitle>Program Notes on Benjamin Britten's A Ceremony of
+			 Carols for Trinity Episcopal Church (Buffalo, N.Y.), 
+			 <unitdate type="inclusive">1978-11</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">76</container> 
+		    <unittitle>Review of: Price, Curtis A. Music in Restoration
+			 Theatre with a Catalogue of Instrumental Music in the Plays 1665-1713, 
+			 <unitdate type="inclusive">1979-10</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">78</container> 
+		    <unittitle>Book Review for American Reference Books Annual
+			 Word-by-word, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">77</container> 
+		    <unittitle>Stream of Consciousness, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">69</container> 
+		    <unittitle>With reference to the Berlioz Romeo &amp; Juliet
+			 Symphony, 
+			 <unitdate type="inclusive">1970-03</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">68</container> 
+		    <unittitle>Some thoughts on Berlioz, 
+			 <unitdate type="inclusive">1970-03</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">71</container> 
+		    <unittitle>Hector Berlioz and Shakespeare; A term paper, 
+			 <unitdate type="inclusive">1970-05-16</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">70</container> 
+		    <unittitle>Research for Hector Berlioz and Shakespeare; A term
+			 paper, 
+			 <unitdate type="inclusive">1970-05-16</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">72</container> 
+		    <unittitle>Notes on Commedia dell'arte, 
+			 <unitdate type="inclusive">1975-03</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">73</container> 
+		    <unittitle>Notes on Maruxa by Juan Arnau, translated from Spanish
+			 by Joseph J. Chouinard, 
+			 <unitdate type="inclusive">1975-07</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">74</container> 
+		    <unittitle>Glyndebourne Festival Programme Books Index Proposal, 
+			 <unitdate type="inclusive">1975-09-30</unitdate> </unittitle> 
+		    <physdesc> <extent>1 folder </extent> </physdesc> 
+		  </did> 
+		</c03> 
+	   </c02> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series3c">III.C</unitid> 
+		  <unittitle>Poetry written by Joseph Chouinard 
+		    <unitdate type="inclusive"
+			normal="1964/1995">1964-1995</unitdate></unittitle> 
+		  <physdesc><extent>Folder 79-108</extent></physdesc> 
+		</did> 
+		<arrangement> 
+		  <p>Arranged in chronological order.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">79</container> 
+		    <unittitle>Winter's dividend, 
+			 <unitdate type="inclusive">1964-01-05</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">80</container> 
+		    <unittitle>Haiku example, 
+			 <unitdate type="inclusive">1968-05-16</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">81</container> 
+		    <unittitle>Toss a pillow, throw a ball., 
+			 <unitdate type="inclusive">1968-05-17</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">82</container> 
+		    <unittitle>A stare of owls and other stares are eyes of birds
+			 just unaware, 
+			 <unitdate type="inclusive">1969-11-09</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">83</container> 
+		    <unittitle>Some things go together, 
+			 <unitdate type="inclusive">1969-11-09</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">84</container> 
+		    <unittitle>Winter's cemetery, 
+			 <unitdate type="inclusive">1969-12</unitdate> </unittitle> 
+		    <physdesc> <extent>3 poems</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>With: No modern conveniences, In God we trust</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">85</container> 
+		    <unittitle>Homage to Rod Mc., 
+			 <unitdate type="inclusive">1969-12-13</unitdate> </unittitle> 
+		    <physdesc> <extent>2 poems</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>With: Homage to Randell Jarrell</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">86</container> 
+		    <unittitle>Hommage to A. H. Berlioz, 
+			 <unitdate type="inclusive">1969-12-18</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Includes Berlioz shadow portrait made of construction
+			 paper</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">87</container> 
+		    <unittitle>So smart, so soon yet?, 
+			 <unitdate type="inclusive">1970-01-30</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">88</container> 
+		    <unittitle>Slice it, 
+			 <unitdate type="inclusive">1970-02</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">89</container> 
+		    <unittitle>Winter, 
+			 <unitdate type="inclusive">1970-02-03</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">90</container> 
+		    <unittitle>A rose, 
+			 <unitdate type="inclusive">1970-02-10</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Includes copy with corrections</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">91</container> 
+		    <unittitle>Spring, 
+			 <unitdate type="inclusive">1970-03-05</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">92</container> 
+		    <unittitle>Awakening spring, 
+			 <unitdate type="inclusive">1970-04-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">93</container> 
+		    <unittitle>A bat, 
+			 <unitdate type="inclusive">1970-05-03</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">94</container> 
+		    <unittitle>It's tough to be a bird, 
+			 <unitdate type="inclusive">1970-12-02</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem; Includes newspaper
+			 clipped image of a bird</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">95</container> 
+		    <unittitle>Winter's rain, 
+			 <unitdate type="inclusive">1970-12-16</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">96</container> 
+		    <unittitle>Visit the colonel, 
+			 <unitdate type="inclusive">1971-01-31</unitdate> </unittitle> 
+		    <physdesc> <extent>2 poems</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem; Includes newspaper
+			 clipped image of Kentucky Fried Chicken bucket with notes</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">97</container> 
+		    <unittitle>There once was a student at Cal-State, 
+			 <unitdate type="inclusive">1971-06-03</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">98</container> 
+		    <unittitle>Chouinard, 
+			 <unitdate type="inclusive">1972-11</unitdate> </unittitle> 
+		    <physdesc> <extent>3 poems</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>With: Hungarian song and Today an underdog. Title for Today an
+			 underdog taken from first line of poem.</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">99</container> 
+		    <unittitle>The rewards of life, 
+			 <unitdate type="inclusive">1973-01-07</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">100</container> 
+		    <unittitle>Conducted to the grave, 
+			 <unitdate type="inclusive">1973-01-18</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">101</container> 
+		    <unittitle>A harassed school teacher from Hayes, 
+			 <unitdate type="inclusive">1973-03-26</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">102</container> 
+		    <unittitle>A honey bee, unlike a bumble bee can't use its stinger
+			 repeatedly, 
+			 <unitdate type="inclusive">1976-04-16</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">103</container> 
+		    <unittitle>Graffitti, 
+			 <unitdate type="inclusive">1987-04-09</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">104</container> 
+		    <unittitle>Signs of the times, 
+			 <unitdate type="inclusive">1993-06-15</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">105</container> 
+		    <unittitle>My name is Irma Pea Greene, 
+			 <unitdate type="inclusive">1993-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">106</container> 
+		    <unittitle>Piggly wiggly, 
+			 <unitdate type="inclusive">1995-12-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">107</container> 
+		    <unittitle>I am a thought, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">108</container> 
+		    <unittitle>Moles live in holes, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 poem</extent> </physdesc> 
+		  </did> 
+		  <note> 
+		    <p>Title taken from first line of poem</p> 
+		  </note> 
+		</c03> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series4">IV.</unitid> 
+		<unittitle>Concert programs, 
+		  <unitdate type="inclusive" normal="1937/2007">1937-2007</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 109-232</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in two subseries: 
+		  <list> 
+		    <item> 
+			 <ref actuate="onrequest" show="replace"
+			 target="series4a">IV.A</ref>Programs for performances including Joseph
+			 Chouinard</item> 
+		    <item> 
+			 <ref actuate="onrequest" show="replace"
+			 target="series4b">IV.B</ref>Programs collected by Joseph Chouinard</item> 
+		  </list></p> 
+	   </arrangement> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series4a">IV.A</unitid> 
+		  <unittitle>Programs for performances including Joseph Chouinard 
+		    <unitdate type="inclusive"
+		    normal="1948/2002">1948-2002</unitdate></unittitle> 
+		  <physdesc><extent>Folder 109-145</extent></physdesc> 
+		</did> 
+		<arrangement> 
+		  <p>Arranged in chronological order.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">109</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1948-11-23</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Unknown</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">110</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1950-03-26</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Storrs Congregational Church (Storrs, Conn.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">111</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1951</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1951-05-27 Asylum Hill Congregational (Hartford,
+				Conn.)</item> 
+			   <item>1951-10-03 First Presbyterian Church in
+				Philadelphia</item> 
+			   <item>1951-1952 First Presbyterian Church in Philadelphia
+				Vesper Services</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">112</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		    <physdesc> <extent>6 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1952-01-20 First Presbyterian Church in
+				Philadelphia</item> 
+			   <item>1952-02-03 First Presbyterian Church in
+				Philadelphia</item> 
+			   <item>1952-02-10 First Presbyterian Church in
+				Philadelphia</item> 
+			   <item>1952-02-24 First Presbyterian Church in
+				Philadelphia</item> 
+			   <item>circa April 1952 First Presbyterian Church in
+				Philadelphia</item> 
+			   <item>1952-1953 Season Calvary Episcopal Church</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">113</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1953-03-09 Calvary Church (New York, N.Y.)</item> 
+			   <item>1953-12-16 Shorter College (Roma, Ga) Progra: contains
+				letter to 'Babe and mom' and sheet music</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">114</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1954-03-25</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>St. Peter's (Rome, Ga.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">115</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1955</unitdate> </unittitle> 
+		    <physdesc> <extent>6 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1955-04-24 Berry College</item> 
+			   <item>1955-05-01 Berry College</item> 
+			   <item>1955 Season National Music Camp</item> 
+			   <item>1955 Municipal Theater under-the-stars Showboat</item> 
+			   <item>1955 Municipal Theater under-the-stars Call Me
+				Madam</item> 
+			   <item>1955-11 Chattanooga Opera Association Madame
+				Butterfly</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">116</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1956</unitdate> </unittitle> 
+		    <physdesc> <extent>5 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1956 Season Chattanooga Opera Association
+				Rigoletto</item> 
+			   <item>1956 Season National Music Camp Includes listing of
+				camp personnel for 1956 Season and postcard</item> 
+			   <item>1956-07-18 National Music Camp Composers Club</item> 
+			   <item>1956-08-02 National Music Camp University Choir</item> 
+			   <item>1956-08-09 National Music Camp Composers Club</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">117</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1957</unitdate> </unittitle> 
+		    <physdesc> <extent>4 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1957-03-29 Tri-Cities Opera Faust</item> 
+			   <item>1957-07-01 Fontainebleau Schools of Music and Fine Arts
+				Summer Program</item> 
+			   <item>1957-12-15 American Church in Paris</item> 
+			   <item>1957-12-25 Conservatoire Américain</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">118</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1958</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1958-11-07 Tri-Cities Opera Lucia di Lammermoor
+				Includes promotional poster</item> 
+			   <item>1958-11-30 First Congregational Church (Cromwell,
+				Conn.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">119</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1959</unitdate> </unittitle> 
+		    <physdesc> <extent>4 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1959-03-06 Tri-Cities Opera Un Ballo in Maschera</item>
+			   
+			   <item>1959-07-01 Arundel Opera Theatre Annie, Get Your
+				Gun</item> 
+			   <item>1959-10-11 Tri-Cities Opera Madame Butterfly</item> 
+			   <item>1959-12-06 Andrews Memorial Oratorio Choir</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">2</container> 
+		    <container type="folder">120</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		    <physdesc> <extent>4 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1960 Camp Willoway The Lonesome Train Includes lyrics
+				to Ballad for Americans by Earl Robinson</item> 
+			   <item>1960-07-24 West Presbyterian Church (Binghamton,
+				N.Y.)</item> 
+			   <item>1960-10-14 Tri-Cities Opera Faust Includes promotional
+				poster</item> 
+			   <item>1960-12-04 West Presbyterian Church (Binghamton,
+				N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">121</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1961</unitdate> </unittitle> 
+		    <physdesc> <extent>10 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1961-01-08 West Presbyterian Church (Binghamton,
+				N.Y.)</item> 
+			   <item>1961-01-28 Tri-Cities Opera Workshop The Magic
+				Flute</item> 
+			   <item>1961-04-30 West Presbyterian Church (Binghamton,
+				N.Y.)</item> 
+			   <item>1961-03-10 Tri-Cities Opera Il Tabarro and Suor
+				Angelica</item> 
+			   <item>1961-07-16 West Presbyterian Church (Binghamton,
+				N.Y.)</item> 
+			   <item>1961-07-23 Summer School for Singers, University
+				College Summer Program</item> 
+			   <item>1961-08-05 Summer School for Singers, University
+				College Acis and Galatea and Sleepers Wake</item> 
+			   <item>1961-08-12 Summer School for Singers, University
+				College Die Zauberflöte</item> 
+			   <item>1961-10-14 Tri-Cities Opera La Traviata</item> 
+			   <item>1961-12-03 Hedding Methodist Church (Elmira, N.Y.)
+				includes note to unnamed party</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">122</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1962</unitdate> </unittitle> 
+		    <physdesc> <extent>8 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1962-03-09 Tri-Cities Opera La Boheme Includes
+				promotional poster</item> 
+			   <item>1962-03-14 Columbia-Barnard Festival of the Arts</item>
+			   
+			   <item>1962-05-07 International Singing Contest in Belgium
+				Includes instructions for candidates</item> 
+			   <item>1962-05-25 Tri-Cities Opera Workshop jeremiah</item> 
+			   <item>1962-07 Aspen Music Festival Includes information on
+				vocal repertoire class</item> 
+			   <item>1962-07-27 Aspen Music School Opera Workshop La
+				Contrebasse</item> 
+			   <item>1962-08-10 Aspen Music School Opera Workshop The
+				Pearlfishers Includes newspaper clipping</item> 
+			   <item>1962-08-19 Summer School for Singers, University
+				College Summer Program Includes promotion of 1963 session</item> 
+			   <item>1962-11-04 West Presbyterian Church (Binghamton,
+				N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">123</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1963-10-27</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Lutheran Church of the Prince of Peace (Binghamton,
+				N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">124</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1964</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1964-03-18 State University of New York at Buffalo The
+				Barber of Seville</item> 
+			   <item>1964-08-02 First Congregational Church (Binghamton,
+				N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">125</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1965-07-14 Hopkins Center Summer Program, Dartmouth
+				College</item> 
+			   <item>1965-07-25 Lutheran Chapel of Our Savior (Hanover,
+				N.H.) Includes note to Mom and Babe</item> 
+			   <item>1965-08-21 Hopkins Center Summer Program, Dartmouth
+				College</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">126</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1967</unitdate> </unittitle> 
+		    <physdesc> <extent>4 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1967-01-12 Minor Latham Playhouse Acis and Galatea
+				Includes promotional poster and schedule of Columbia events</item> 
+			   <item>circa July 1967 Florida International Music Festival,
+				An Opera Cabaret A Concert Party</item> 
+			   <item>circa July 1967 Florida International Music Festival
+				The Little Harlinquade and Gallantry</item> 
+			   <item>circa July 1967 Florida International Music Festival La
+				Boheme</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">127</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1969-02-20</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item> Barnard-Columbia Chamber Chorus Susanna Includes two
+				(2) promotional posters. One with notes on performance and the other with note
+				from Kenneth Cooper</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">128</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1970-11-29</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>California State College, San Bernardino</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">129</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1971-12-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>California State College, San Bernardino</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">130</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1972-01-30</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>California State College, San Bernardino</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">131</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1973-12-16</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>State University of New York College at Buffalo</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">132</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1974</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1974-10-26 American Liszt Society Festival</item> 
+			   <item>1974-11-22 State University of New York at Buffalo La
+				Boheme</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">133</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1978-07-11 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1978-12-24 Trinity Church (Buffalo, N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">134</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1979</unitdate> </unittitle> 
+		    <physdesc> <extent>5 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1979-02-25 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1979-02-28 First United Presbyterian Church (Dunkirk,
+				N.Y.)</item> 
+			   <item>1979-08-16 Allegheny Summer Music Festival</item> 
+			   <item>1979-09-30 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1979-12-09 Trinity Church (Buffalo, N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">135</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1980</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1980-01-20 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1980-12-21 Trinity Church (Buffalo, N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">136</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1981</unitdate> </unittitle> 
+		    <physdesc> <extent>6 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1981-03-29 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1981-04-12 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1981-04-17 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1981-05-17 Center for Human Development (Jersey City,
+				N.J.)</item> 
+			   <item>1981-06-07 Manhattan Plaza L.A.M.P. Concert</item> 
+			   <item>1981-06-18 Erie Bayfront Orchestra</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">137</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1982-12-19</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Trinity Church (Buffalo, N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">138</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1983-12-18 Trinity Church (Buffalo, N.Y.)</item> 
+			   <item>1983-12-25 Sacred Heart Church (Wimbledon, U.K.)
+				Program: contains signatures of performers</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">139</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1984-01-18 Royal Holloway College Chapel, Music List
+				for Lent Term</item> 
+			   <item>1984-03-20 Pro Musica Chorus of London Haydn's Creation
+				and Mendelssohn's Elijah Includes newspaper clippings and a rehearsal
+				schedule</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">140</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1987-12-02</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>State University of New York College at Fredonia</item>
+			   
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">141</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1988</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1988-02-11 State University of New York College at
+				Fredonia, Orchesis</item> 
+			   <item>1988-11-17 State University of New York College at
+				Fredonia</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">142</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1989-11-09</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>State University of New York College at Fredonia La
+				Boheme</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">143</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1990-09-08</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>State University of New York College at Fredonia,
+				School of Music Second Annual Opera Fund Benefit Concert Includes newspaper
+				clippings</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">144</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">2002</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>2002-06-15 Allegheny Summer Music Festival</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">145</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Unitarian Universalist Church of Amherst
+				(Williamsville, N.Y.)</item> 
+			   <item>Shorter College (Rome, Ga.) The Christmas Story</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+	   </c02> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series4b">IV.B</unitid> 
+		  <unittitle>Programs collected by Joseph Chouinard 
+		    <unitdate type="inclusive"
+			normal="1937/2007">1937-2007</unitdate></unittitle> 
+		  <physdesc><extent>Folder 237</extent></physdesc> 
+		</did> 
+		<arrangement> 
+		  <p>Arranged in chronological order within folder.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">146</container> 
+		    <unittitle>Allegheny Summer Music Festival, 
+			 <unitdate type="inclusive">1979</unitdate>, 
+			 <unitdate type="inclusive">2003</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1979 Season includes poster</item> 
+			   <item>2003 Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">147</container> 
+		    <unittitle>Amato Opera (New York, N.Y.), 
+			 <unitdate type="inclusive">1976-02-28</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>La Battaglia di Legnano</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">148</container> 
+		    <unittitle>American Church in Paris, 
+			 <unitdate type="inclusive">1957</unitdate>, 
+			 <unitdate type="inclusive">1971</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1957-09-22 Centennial program</item> 
+			   <item>1971-09-26</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">149</container> 
+		    <unittitle>American Guild of Organists, Greater Hartford Chapter,
+			 
+			 <unitdate type="inclusive">1949-01-25</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">150</container> 
+		    <unittitle>American Savoyards (New York, N.Y.), 
+			 <unitdate type="inclusive">1961-07-13</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>The Student Prince</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">151</container> 
+		    <unittitle>Barclay (Chicago, Ill.), 
+			 <unitdate type="inclusive">1952-05-21</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Fritz Krueger</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">152</container> 
+		    <unittitle>Bargemusic (Brooklyn, N.Y.), 
+			 <unitdate type="inclusive">1998-10-08</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Signed by performers Mark Peskanov, Toby Hoffman and
+				Fred Sherry</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">153</container> 
+		    <unittitle>Beethoven Festival (Detroit, Mich.), 
+			 <unitdate type="inclusive">1977-11-02</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">154</container> 
+		    <unittitle>Berkshire Music Festival, 
+			 <unitdate type="inclusive">1950-1953</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1950-08-08</item> 
+			   <item>1953 Season Includes list of music for choral
+				conducting department as well as listing of students for the season including
+				contact information</item> 
+			   <item>1953 Season Small Choir</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">155</container> 
+		    <unittitle>Bolshoi Ballet, 
+			 <unitdate type="inclusive">1963</unitdate>, 
+			 <unitdate type="inclusive">1975</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1963-10-12</item> 
+			   <item>1975-06-01</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">156</container> 
+		    <unittitle>Bronx Arts Ensemble, 
+			 <unitdate type="inclusive">2002</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Includes flyer with note from Kenneth Cooper and
+				promotion for 2002-2003 season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">157</container> 
+		    <unittitle>Buffalo Philharmonic Orchestra, 
+			 <unitdate type="inclusive">1977</unitdate>, 
+			 <unitdate type="inclusive">2002</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1977-05-24</item> 
+			   <item>2002-07-20</item> 
+			   <item>2002-07-27</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">158</container> 
+		    <unittitle>Bushnell Memorial Hall (Hartford, Conn.), 
+			 <unitdate type="inclusive">1943</unitdate>, 
+			 <unitdate type="inclusive">1950</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>circa 1943 Porgy and Bess</item> 
+			   <item>190-04-23</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">159</container> 
+		    <unittitle>Calvary Baptist Church (New York, N.Y.), 
+			 <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1953-01-26</item> 
+			   <item>1953-04-05</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">160</container> 
+		    <unittitle>Chattanooga Symphony &amp; Opera, 
+			 <unitdate type="inclusive">circa November 1955</unitdate>
+			 </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Newspaper clipping included</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">161</container> 
+		    <unittitle>Chautauqua Opera Association, 
+			 <unitdate type="inclusive">2002-2003</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>2002-07-19 Macbeth</item> 
+			   <item>2003-07-18 Romeo and Juliet</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">162</container> 
+		    <unittitle>Chautauqua Symphony Orchestra, 
+			 <unitdate type="inclusive">1978-07-28</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">163</container> 
+		    <unittitle>Chicago Opera Association, 
+			 <unitdate type="inclusive">circa January 1916</unitdate>
+			 </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">164</container> 
+		    <unittitle>Claremont College, 
+			 <unitdate type="inclusive">1970-1971</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">165</container> 
+		    <unittitle>Community Concerts, Inc., 
+			 <unitdate type="inclusive">circa 1938-1971</unitdate>
+			 </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>circa 1938</item> 
+			   <item>1955-56 Season</item> 
+			   <item>1970-71 Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">166</container> 
+		    <unittitle>Concertgebouworkest (Amsterdam, Netherlands), 
+			 <unitdate type="inclusive">1957-11-27</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">3</container> 
+		    <container type="folder">167</container> 
+		    <unittitle>Conservatoire américain de Fontainebleau, 
+			 <unitdate type="inclusive">1957-08</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1957-08-23</item> 
+			   <item>1957-08-27</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">168</container> 
+		    <unittitle>Eastman School of Music, 
+			 <unitdate type="inclusive">1969-07-28</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">169</container> 
+		    <unittitle>Eaton Auditorium, 
+			 <unitdate type="inclusive">circa April 1937</unitdate>
+			 </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">170</container> 
+		    <unittitle>English Chamber Orchestra, 
+			 <unitdate type="inclusive">1983</unitdate>, 
+			 <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1983-84 Season</item> 
+			   <item>1984-05-14 Includes flyer</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">171</container> 
+		    <unittitle>English National Opera, 
+			 <unitdate type="inclusive">1983</unitdate>, 
+			 <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1983-12-01 The Adventures of Mr. Broucik</item> 
+			   <item>1983-12-23 Mireille</item> 
+			   <item>1984-03-31 War and Peace</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">172</container> 
+		    <unittitle>First Presbyterian Church (Philadelphia, Pa.), 
+			 <unitdate type="inclusive">1951-1952</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1951-09-26</item> 
+			   <item>1951-09-30</item> 
+			   <item>circa February 1952</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">173</container> 
+		    <unittitle>Florida International Music Festival at Daytona Beach,
+			 
+			 <unitdate type="inclusive">1967</unitdate> </unittitle> 
+		    <physdesc> <extent>5 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1967 Season</item> 
+			   <item>1967 London Orchestra Program</item> 
+			   <item>1967-07-16</item> 
+			   <item>1967-07-24</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">174</container> 
+		    <unittitle>Fredonia Suzuki Piano Institute, 
+			 <unitdate type="inclusive">1990-06-27</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">175</container> 
+		    <unittitle>Friends of Music of the Free Library of Philadelphia, 
+			 <unitdate type="inclusive">1969-1970</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">176</container> 
+		    <unittitle>Friends of the Music at St. Paul's (Buffalo, N.Y.), 
+			 <unitdate type="inclusive">2007-04-13</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">177</container> 
+		    <unittitle>Goldsmith's College (London, England), 
+			 <unitdate type="inclusive">1984-07-06</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Contains list of contributors and a handlist for the
+				exhibition</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">178</container> 
+		    <unittitle>Grant Park Concerts, 
+			 <unitdate type="inclusive">1972</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">179</container> 
+		    <unittitle>Harpur College, 
+			 <unitdate type="inclusive">1961</unitdate>, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1961-11-18</item> 
+			   <item>undated Adele Addison S. Hurok Presents</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">180</container> 
+		    <unittitle>Her Majesty's Theatre (Montréal, Québec), 
+			 <unitdate type="inclusive">circa April 1962</unitdate>
+			 </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>The Sound of Music</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">181</container> 
+		    <unittitle>Hopkins Center Summer Program (Dartmouth, N.H.), 
+			 <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1965-07-07</item> 
+			   <item>1965-07-11</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">182</container> 
+		    <unittitle>Imperial Theatre (Organization: New York, N.Y.), 
+			 <unitdate type="inclusive">2007-05-02</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Coram Boy</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">183</container> 
+		    <unittitle>Joseph Papp Public Theatre (Organization: New York,
+			 N.Y.), 
+			 <unitdate type="inclusive">2003-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Caroline, or Change Includes xeroxed clipping from NY
+				Times dated 2004/05/03</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">184</container> 
+		    <unittitle>Juilliard School, 
+			 <unitdate type="inclusive">1975-1977</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1975-02-28</item> 
+			   <item>1977-04-28</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">185</container> 
+		    <unittitle>Julius Hartt School of Music, 
+			 <unitdate type="inclusive">1949-1951</unitdate> </unittitle> 
+		    <physdesc> <extent>4 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1949 Season</item> 
+			   <item>1949-05-11</item> 
+			   <item>1950 Season</item> 
+			   <item>1951-01-26</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">186</container> 
+		    <unittitle>Lemonade Opera, Presented by the Village Presbyterian
+			 Church, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Don Giovanni</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">187</container> 
+		    <unittitle>Leningrad Philharmonic, 
+			 <unitdate type="inclusive">1973-11-22</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">188</container> 
+		    <unittitle>Lincoln Center for the Performing Arts, 
+			 <unitdate type="inclusive">2005-05-08</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Great Performers Series</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">189</container> 
+		    <unittitle>London Festival Ballet, 
+			 <unitdate type="inclusive">1983-12-27</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">190</container> 
+		    <unittitle>Longacre Theatre (Organization: New York, N.Y.), 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>The Belle of Amherst</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">191</container> 
+		    <unittitle>L'Orangerie du Chateau de Sceaux, 
+			 <unitdate type="inclusive">1971-09-02</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">4</container> 
+		    <container type="folder">192</container> 
+		    <unittitle>Lyric Opera of Chicago, 
+			 <unitdate type="inclusive">1980-10-25</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Atilla Includes note from Gilda Romo and her tour
+				schedule for August-December, 1980</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">193</container> 
+		    <unittitle>Manhattan School of Music (New York, N.Y.), 
+			 <unitdate type="inclusive">1988</unitdate>, 
+			 <unitdate type="inclusive">2001-2004</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1988-05-01</item> 
+			   <item>2001-04-26</item> 
+			   <item>2004-04-28</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">194</container> 
+		    <unittitle>Mendelssohn Club of Philadelphia, 
+			 <unitdate type="inclusive">1953-12-29</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">195</container> 
+		    <unittitle>Metropolitan Opera (New York, N.Y.), 
+			 <unitdate type="inclusive">1949-2004</unitdate> </unittitle> 
+		    <physdesc> <extent>4 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1949-03-12 Salome</item> 
+			   <item>1976-12-15</item> 
+			   <item>2004-12-29</item> 
+			   <item>undated Zaza</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">196</container> 
+		    <unittitle>Moscow Philharmonic Orchestra, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">197</container> 
+		    <unittitle>Musical Arts Foundation (Binghamton, N. Y.), 
+			 <unitdate type="inclusive">1960-04-19</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Contains correspondence to ‘Mom &amp; Babe’</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">198</container> 
+		    <unittitle>NBC Symphony Orchestra, 
+			 <unitdate type="inclusive">1949-03-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">199</container> 
+		    <unittitle>New Haven Symphony Orchestra, 
+			 <unitdate type="inclusive">1948-01-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">200</container> 
+		    <unittitle>New York City Ballet, 
+			 <unitdate type="inclusive">2006-05-07</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>In Vento includes Playbill plus paper program</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">201</container> 
+		    <unittitle>New York City Opera, 
+			 <unitdate type="inclusive">1951-1963</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1951 Season</item> 
+			   <item>1960-03-22 The Ballad of Baby Doe</item> 
+			   <item>1963-12-06 Don Giovanni performed at Cornell
+				University</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">202</container> 
+		    <unittitle>New York Philharmonic, 
+			 <unitdate type="inclusive">2003-11</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">203</container> 
+		    <unittitle>Oberlin Wind Ensemble, 
+			 <unitdate type="inclusive">2004-11-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">204</container> 
+		    <unittitle>Opéra de Paris, 
+			 <unitdate type="inclusive">1958-01-31</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Dialogues des Carmélites</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">205</container> 
+		    <unittitle>Opéra-Comique (Paris, France), 
+			 <unitdate type="inclusive">1971-09-04</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Les noces de Figaro</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">206</container> 
+		    <unittitle>Philadelphia Civic Grand Opera Company, 
+			 <unitdate type="inclusive">1952-02-21</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1952-02-21 Amelia Goes to the Ball- I Pagliacci</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">207</container> 
+		    <unittitle>Philadelphia Forum, 
+			 <unitdate type="inclusive">1951-10-26</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Don Juan in Hell</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">208</container> 
+		    <unittitle>Philadelphia Orchestra, 
+			 <unitdate type="inclusive">1963-1966</unitdate> </unittitle> 
+		    <physdesc> <extent>2 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1963-1964 Season</item> 
+			   <item>1965-1966 Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">209</container> 
+		    <unittitle>Pittsburgh Symphony Orchestra, 
+			 <unitdate type="inclusive">1990-12-06</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">210</container> 
+		    <unittitle>Riverside Church (New York, N.Y.), 
+			 <unitdate type="inclusive">1953-01-11</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">211</container> 
+		    <unittitle>Royal Holloway and New Bedford College, 
+			 <unitdate type="inclusive">1982-1984</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1982-11-23</item> 
+			   <item>1983-11-22</item> 
+			   <item>1984-11</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">212</container> 
+		    <unittitle>Royal Philharmonic Orchestra, 
+			 <unitdate type="inclusive">1950</unitdate>, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1950-12-08 performance held at Kleinhans Music Hall
+				(Buffalo, N.Y.)</item> 
+			   <item>undated</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">213</container> 
+		    <unittitle>Sadler's Wells Royal Ballet, 
+			 <unitdate type="inclusive">1983-12-31</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Coppelia</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">214</container> 
+		    <unittitle>San Carlo Opera Company, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">215</container> 
+		    <unittitle>San Francisco Opera, 
+			 <unitdate type="inclusive">1972</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Includes two promotional materials</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">216</container> 
+		    <unittitle>San Francisco Symphony Orchestra, 
+			 <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		    <physdesc> <extent>5 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1945-02-15</item> 
+			   <item>1945-02-23</item> 
+			   <item>1945-03-29</item> 
+			   <item>1945-04-06</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">217</container> 
+		    <unittitle>St. Bartholomew's Church (New York, N.Y.), 
+			 <unitdate type="inclusive">1960-2006</unitdate> </unittitle> 
+		    <physdesc> <extent>3 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1960-1961 Sunday Afternoon Season</item> 
+			   <item>1976-07-19</item> 
+			   <item>2006-05-07</item> 
+			   <item>2006-09-17</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">218</container> 
+		    <unittitle>St. James Theatre (Organization: New York, N.Y.), 
+			 <unitdate type="inclusive">1985-11-25</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Jerry's Girls</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">219</container> 
+		    <unittitle>St. Peter's Church (Staines, England), 
+			 <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1984-06-12</item> 
+			   <item>1984-06-30 Includes information on Flower Festival and
+				historical notes about the Church</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">220</container> 
+		    <unittitle>St. Thomas' Church (New York, N.Y.), 
+			 <unitdate type="inclusive">1999-03-21</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1999-03-21</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">221</container> 
+		    <unittitle>State University of New York at Binghamton, 
+			 <unitdate type="inclusive">1966</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Marilyn Horne</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">222</container> 
+		    <unittitle>State University of New York at Buffalo, Center for
+			 the Arts, 
+			 <unitdate type="inclusive">2006-2007</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">223</container> 
+		    <unittitle>State University of New York College at Fredonia, 
+			 <unitdate type="inclusive">1986</unitdate>, 
+			 <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1986-10-15</item> 
+			   <item>1987-07-24</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">224</container> 
+		    <unittitle>Teatro Instabile, 
+			 <unitdate type="inclusive">2000-05-07</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>La Griselda Includes 3 ticket stubs</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">225</container> 
+		    <unittitle>Ti-Ahwaga Community Players (Oswego, N.Y.), 
+			 <unitdate type="inclusive">1963-01-12</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Cosi fan tutte</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">226</container> 
+		    <unittitle>Toronto Symphony, 
+			 <unitdate type="inclusive">1938-1939</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">227</container> 
+		    <unittitle>Trinity Church (Buffalo, N.Y.), 
+			 <unitdate type="inclusive">1980-05-11</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">228</container> 
+		    <unittitle>University of Alabama String Quartet, 
+			 <unitdate type="inclusive">1955</unitdate>, 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>2 programs</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1955-03-06</item> 
+			   <item>undated</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">229</container> 
+		    <unittitle>University of Connecticut Chorus, 
+			 <unitdate type="inclusive">circa 1972-03</unitdate>
+			 </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Handel's Israel in Egypt</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">230</container> 
+		    <unittitle>Wesleyan University (Middletown, Conn.), 
+			 <unitdate type="inclusive">1944-04-23</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">231</container> 
+		    <unittitle>Widnes Arts Council (Widnes, England), 
+			 <unitdate type="inclusive">1962-04-14</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Handel's Messiah</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">232</container> 
+		    <unittitle>Windsor Festival, 
+			 <unitdate type="inclusive">1982</unitdate> </unittitle> 
+		    <physdesc> <extent>1 program</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Season</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series5">V.</unitid> 
+		<unittitle>Publicity and promotional materials, 
+		  <unitdate type="inclusive" normal="1951/2007">1951-2007</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 233-237 </extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in two subseries: 
+		  <list> 
+		    <item> 
+			 <ref actuate="onrequest" show="replace"
+			 target="series5a">V.A</ref> Publicity and promotional material for music
+			 events</item> 
+		    <item> 
+			 <ref actuate="onrequest" show="replace"
+			 target="series5b">V.B</ref> Publicity and promotional material for non-music
+			 events</item> 
+		  </list> </p> 
+	   </arrangement> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series5a">V.A</unitid> 
+		  <unittitle>Publicity and promotional material for music events 
+		    <unitdate type="inclusive"
+		    normal="1951/2007">1951-2007</unitdate></unittitle> 
+		  <physdesc><extent>Folder 233-236</extent></physdesc> 
+		</did> 
+		<arrangement> 
+		  <p>Arranged in chronological order.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">233</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1951-1967</unitdate> </unittitle> 
+		    <physdesc> <extent>7 items</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1951-1952 season Philadelphia Civic Grand Opera
+				Company</item> 
+			   <item>1952-06-19 Tamiment Chamber Music Festival</item> 
+			   <item>1957 souvenir program National Music Camp (Interlochen,
+				MI.)</item> 
+			   <item>1965-06-28 Hopkins Center, Dartmouth College: Contains
+				flyer and brochure</item> 
+			   <item>1967-06-14 Harpur College performance by the New York
+				Woodwind Quintet</item> 
+			   <item>1967-07-10 Teatro dei Differenti, A Summer
+				School</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">234</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">1971-1984</unitdate> </unittitle> 
+		    <physdesc> <extent>8 items</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>1971-1972 season American Berlioz Society</item> 
+			   <item>1979-09-24 Metropolitan Opera Cruz-Romo, Gilda</item> 
+			   <item>1979-11-14 92nd Street Y (New York, N.Y.) Kenneth
+				Cooper</item> 
+			   <item>1983-01-24 Wigmore Hall (London, England)</item> 
+			   <item>circa August 1983 Victoria Palace (London, England)
+				premier of Electric Ice</item> 
+			   <item>circa September 1983 Victoria Palace (London, England)
+				production of Electric Ice</item> 
+			   <item>1983-10 Cathedral and Abbey of Saint Alban
+				(England)</item> 
+			   <item>1984-12-13 Mongiardo, Josephine: contains biographic
+				handout</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">235</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">2002-2007</unitdate> </unittitle> 
+		    <physdesc> <extent>3 items</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>circa October 2002 Berkshire Bach Society</item> 
+			   <item>2004-04-17 Mannes College of Music, Faculty
+				Recital</item> 
+			   <item>2007-02-15 S.E.M. Ensemble (New York, N.Y.)</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">236</container> 
+		    <unittitle> 
+			 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		    <physdesc> <extent>10 items</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item>Apollo Opera, Inc. (New York, N.Y.) production of
+				Philemon et Baucis</item> 
+			   <item>Calvary Episcopal Church (New York, N. Y.)</item> 
+			   <item>Cleveland Orchestra</item> 
+			   <item>Greater London Council performance of Sonant</item> 
+			   <item>Moore, Kermit</item> 
+			   <item>Royal Danish Ballet</item> 
+			   <item>Swarthout, Gladys</item> 
+			   <item>Theatre Royal, Drury Lane (London, England) performance
+				of Pirates of Penzance</item> 
+			 </list> </p> 
+		  </scopecontent> 
+		</c03> 
+	   </c02> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series5b">V.B</unitid> 
+		  <unittitle>Publicity and promotional material for non-music events 
+		    <unitdate type="inclusive"
+		    normal="1979/1999">1979-1999</unitdate></unittitle> 
+		  <physdesc><extent>Folder 237</extent></physdesc> 
+		</did> 
+		<arrangement> 
+		  <p>Arranged in alphabetical order by institution name within
+		    folder.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">237</container> 
+		    <unittitle>Publicity and promotional material for non-music
+			 events, 
+			 <unitdate type="inclusive"
+			 normal="1979/1999">1979-1999</unitdate> </unittitle> 
+		    <physdesc><extent>8 items</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p> 
+			 <list> 
+			   <item> Bibliotheque Forney (Paris, France), undated </item> 
+			   <item> Buffalo Garden Walk (Buffalo, N.Y.), 
+				<date>24 July 1999</date> </item> 
+			   <item> Centre Culturel Canadien Exposition Louise Forget
+				undated, with note from Louise Forget, 
+				<date>9 April 1962</date> </item> 
+			   <item> Cortes, Nicholas art show, 
+				<date>16 September 1977</date> </item> 
+			   <item> Nashdom Abbey (Buckinghamshire, England), undated
+				</item> 
+			   <item> New York Shakespeare Festival Henry V, 1976 Season,
+				featuring Meryl Streep </item> 
+			   <item>La rue Molière, undated </item> 
+			   <item> State University of New York at Buffalo, Edmund Hayes
+				Society donor booklet, undated </item> 
+			 </list></p> 
+		  </scopecontent> 
+		</c03> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series6">VI.</unitid> 
+		<unittitle>Press clippings, 
+		  <unitdate type="inclusive" normal="1939/2008">1939-2008</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 238-309</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">238</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1939-09-06</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Middletown (Conn.) Press</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">239</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1950-08</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">240</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1953-03-01</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Diapason</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">241</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1954-11-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">242</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1955-04</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">243</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1955-05-16</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">244</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1955-06</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">245</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1955-07</unitdate> </unittitle> 
+		  <physdesc> <extent>3 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1955-07-15 unidentified source</item> 
+			 <item>1955-07-15 Middletown (Conn.) Press</item> 
+			 <item>1955-07-28 Atlanta Journal</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">246</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1955-10</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1955-10-28 Hamilton County Herald (Chattanooga,
+			   Tenn.)</item> 
+			 <item>1955-10-30 Chattanooga Times</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">247</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1955-11</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1955-11-02 Chattanooga Times</item> 
+			 <item>1955-11-10 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">248</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1956-01</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Chattanooga Times</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">249</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1956-03</unitdate> </unittitle> 
+		  <physdesc> <extent>3 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1956-03-05 unidentified source</item> 
+			 <item>1956-03-05 Chattanooga News-Free Press</item> 
+			 <item>1956-03 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">250</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1957-03</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">251</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1957-04-02</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">252</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1957-06-28</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">253</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1957-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 bulletin</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Fontainebleau Alumni Bulletin</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">254</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1958-04</unitdate> </unittitle> 
+		  <physdesc> <extent>1 bulletin</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Fontainebleau Alumni Bulletin</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">255</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1958-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">256</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1959-03</unitdate> </unittitle> 
+		  <physdesc> <extent>3 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1959-03 unidentified source</item> 
+			 <item>1959-03 unidentified source</item> 
+			 <item>1959-03 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">257</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1959-09-28</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Binghamton Press</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">258</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1959-10</unitdate> </unittitle> 
+		  <physdesc> <extent>3 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1959-10-11 Sunday Press (Binghamton, N.Y.)</item> 
+			 <item>1959-10-11 Binghamton Sun</item> 
+			 <item>1959-10-17 Sunday Press (Binghamton, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">259</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1959-11</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1959-11-06 unidentified source</item> 
+			 <item>1959-11-30 Syracuse Herald-Journal</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">260</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1960-09-12</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Binghamton Press</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">261</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1960-10</unitdate> </unittitle> 
+		  <physdesc> <extent>4 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1960-10-01 unidentified source</item> 
+			 <item>1960-10-15 unidentified source</item> 
+			 <item>1960-10-15 Sun-Bulletin (Binghamton, N.Y.)</item> 
+			 <item>1960-10-17 Sunday Press (Binghamton, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">262</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1961-01</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1961-01-21 unidentified source</item> 
+			 <item>1961-01-30 Sun-Bulletin (Binghamton, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">263</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1961-03-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">264</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1961-05</unitdate> </unittitle> 
+		  <physdesc> <extent>3 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1961-05-09 Times (London, England)</item> 
+			 <item>1961-05-20 unidentified source</item> 
+			 <item>1961-05-28 Sunday News</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">265</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1961-07</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">266</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1961-08</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1961-08-07 unidentified source</item> 
+			 <item>1961-08-08 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">267</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1961-12-04</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Elmira Star-Gazette</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">268</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1962-03</unitdate> </unittitle> 
+		  <physdesc> <extent>7 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1962-03 Binghamton Press</item> 
+			 <item>1962-03 Binghamton Press</item> 
+			 <item>1962-03-06 Sun-Bulletin (Binghamton, N.Y.)</item> 
+			 <item>1962-03-07 Binghamton Press</item> 
+			 <item>1962-03 unidentified source</item> 
+			 <item>1962-03-12 unidentified source</item> 
+			 <item>1962-03 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">269</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1962-04</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1962-04-15 New York times</item> 
+			 <item>1962-04 Musical America</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">270</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1962-05</unitdate> </unittitle> 
+		  <physdesc> <extent>6 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1962-05-20 New York herald tribune</item> 
+			 <item>1962-05 unidentified source</item> 
+			 <item>1962-05-26 unidentified source</item> 
+			 <item>1962-05-27 New York times</item> 
+			 <item>1962-05-28 unidentified source</item> 
+			 <item>1962-05-28 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">271</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1962-07</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1962-07 International Musician</item> 
+			 <item>1962-07 International Musician</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">272</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1962-08</unitdate> </unittitle> 
+		  <physdesc> <extent>7 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1962-08 Rocky Mountain news</item> 
+			 <item>1962-08 unidentified source</item> 
+			 <item>1962-08-10 unidentified source</item> 
+			 <item>1962-08-10 Aspen Times</item> 
+			 <item>1962-08-29 Opera News</item> 
+			 <item>1962-08 Musical courier</item> 
+			 <item>1962-08 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">273</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1962-10</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1962-10 Musical courier</item> 
+			 <item>1962-10 Opera News</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">274</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1962-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 bulletin</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Fontainebleau Alumni Bulletin</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">275</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1964-03</unitdate> </unittitle> 
+		  <physdesc> <extent>4 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1964-03-13 Buffalo evening news</item> 
+			 <item>1964-03-18 Buffalo evening news</item> 
+			 <item>1964-03-18 unidentified source</item> 
+			 <item>1964-03-19 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">276</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1964-12-17</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Binghamton Press</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">277</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1964-01-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">278</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1965-06-28</unitdate> </unittitle> 
+		  <physdesc> <extent>1 newspaper</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Dartmouth Summer News</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">279</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1965-07</unitdate> </unittitle> 
+		  <physdesc> <extent>3 newspapers; 4 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1965-07-03 Dartmouth Summer News</item> 
+			 <item>1965-07-12 Dartmouth Summer News</item> 
+			 <item>1965-07-14 Binghamton Press</item> 
+			 <item>1965-07-15 Valley News (West Lebanon, N.H.)</item> 
+			 <item>1965-07-25 Dartmouth Summer News</item> 
+			 <item>1965-07 unidentified source</item> 
+			 <item>1965-07 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">280</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1965-08</unitdate> </unittitle> 
+		  <physdesc> <extent>1 newspaper; 1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1965-08-16 Dartmouth Summer News</item> 
+			 <item>1965-08-23 Valley News (West Lebanon, N.H.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">281</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1966-12-11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Binghamton Press</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">282</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1967-01</unitdate> </unittitle> 
+		  <physdesc> <extent>4 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1967-01-13 New York times</item> 
+			 <item>1967-01-13 Columbia Daily Spectator (Organization)</item>
+			 
+			 <item>1967-01-14 Cue (New York, N.Y.)</item> 
+			 <item>1967-01-18 Columbia Owl (New York, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">283</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1967-07</unitdate> </unittitle> 
+		  <physdesc> <extent>3 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1967-07-16 Daytona Beach Sunday News-Journal</item> 
+			 <item>1967-07 unidentified source</item> 
+			 <item>1967-10 unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">284</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1969-01-22</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Binghamton Press</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">285</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1969-02</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1969-02-16 New York Times</item> 
+			 <item>1969-02-20 Columbia Daily Spectator (Organization)</item>
+			 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">286</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1969-03</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1969-03-05 Columbia Owl (New York, N.Y.)</item> 
+			 <item>1969-03-05 Barnard Bulletin (New York, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">287</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1969-04</unitdate> </unittitle> 
+		  <physdesc> <extent>1 bulletin</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Fontainebleau Alumni Bulletin</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">288</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1972-02-01</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>San Bernardino Sun</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">289</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1974-04-29</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Buffalo courier-express (Buffalo, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">290</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1974-10-31</unitdate> </unittitle> 
+		  <physdesc> <extent>1 newspaper</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>U.B. Reporter (Buffalo, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">291</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1974-11</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1974-11-23 Buffalo courier-express (Buffalo, N.Y.)</item>
+			 
+			 <item>1974-11-23 Buffalo news (Buffalo, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">292</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1975-03-10</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">293</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1975-04-20</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Buffalo Courier-Express (Buffalo, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">294</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1977-04-20</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Buffalo Courier-Express (Buffalo, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">295</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1979-08-17</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Meadville Tribune</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">296</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1983-11-07</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Dunkirk Observer: contains handwritten drafts of
+			   article</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">297</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1984-03-14</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Dunkirk Evening Observer</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">298</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1985-01</unitdate> </unittitle> 
+		  <physdesc> <extent>1 newsletter</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>CIRCLings (Fredonia, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">299</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1988-01-29</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Dunkirk Evening Observer</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">300</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1988-02-12</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1988-02-12 Dunkirk Evening Observer</item> 
+			 <item>1988-02 Leader (Fredonia, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">301</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1988-11</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1988-11-08 Dunkirk Evening Observer</item> 
+			 <item>1988-11-15 Post-Journal (Jamestown, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">302</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1989-11</unitdate> </unittitle> 
+		  <physdesc> <extent>3 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>1989-11 unknown</item> 
+			 <item>1989-11-11 Dunkirk Evening Observer</item> 
+			 <item>1989-11-13 Dunkirk Evening Observer</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">303</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1991-08-17</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Dunkirk Observer</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">304</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1993-03-01</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified source</item> 
+			 <item>Buffalo News (Buffalo, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">305</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">1994-08-04</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Buffalo News (Buffalo, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">306</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">2004-06-26</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>New York Times</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">307</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">2006-04</unitdate> </unittitle> 
+		  <physdesc> <extent>1 bulletin</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Fontainebleau Alumni Bulletin</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">308</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">2008-01-26</unitdate> </unittitle> 
+		  <physdesc> <extent>1 clipping</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>Press &amp; Sun Bulletin (Binghamton, N.Y.)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="folder">309</container> 
+		  <unittitle> 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>2 clippings</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <item>unidentified sources</item> 
+			 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Musicians--New York
+		(State)--Buffalo</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Chouinard,
+		Joseph Jerod, 1926-2014</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Clippings (information
+		artifacts)</genreform> 
+	   <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+	   
+	   <genreform encodinganalog="655" source="aat">Concert
+		programs</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0071_2.xml" show="new" actuate="onrequest"
+			  role="text/html"> Joseph Chouinard Collection of Images</archref> Mus. Arc.
+			 71.2 </label> 
+		    <item>Contains about 200 photographic prints, 19 slides, and 6
+			 drawings collected by Joseph Chouinard. They provide documentation of his life
+			 and career, including his service spent in Okinawa towards the end of World War
+			 II. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0071_3.xml" show="new" actuate="onrequest"
+			  role="text/html"> Joseph Chouinard Collection of Scores</archref> Mus. Arc.
+			 71.3 </label> 
+		    <item>Contains scores of 33 musical compositions written by Joseph
+			 Chouinard.</item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

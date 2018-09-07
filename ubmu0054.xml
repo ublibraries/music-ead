@@ -1,0 +1,3456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/Music/archives/findingaids/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 54::Otto Kinkeldey Papers)//EN">ubmu0054 </eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Otto Kinkeldey
+			 Papers, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1898/1962"> 1898-1962 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Kinkeldey (Otto)
+			 Papers </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2013</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley. </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Otto Kinkeldey Papers, 
+		  <unitdate encodinganalog="245$f" normal="1898/1962" type="inclusive"
+			datechar="creation">1898-1962 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 54</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">
+			 Kinkeldey, Otto, 1878-1966 </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a"> 4
+		  boxes</extent> (<extent unit="folder" encodinganalog="300$a">147 folders</extent>)
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English</language>,
+		  <language langcode="fre" encodinganalog="041">French</language>,
+		  <language langcode="ger" encodinganalog="041">German</language>, and
+		  <language langcode="lat" encodinganalog="041">Latin</language>. </langmaterial>
+		
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection
+		  contains offprints of articles by Otto Kinkeldey and others, correspondence,
+		  documents related to the Committee on Graduate Study in Music (1938),
+		  Kinkeldey's transcriptions of musical works, and one of his own
+		  compositions.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Otto Kinkeldey Papers, 1898-1962, Music Library,
+			 The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Timothy Gudlewski and John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Otto Kinkeldey (1878-1966) was among the most prominent and
+		  influential of the first generation of musicologists and music librarians in
+		  the United States. He earned his Master of the Arts degree in English
+		  literature and philosophy at New York University in 1900. After continuing
+		  studying music with Edward MacDowell at Columbia University for two years
+		  Kinkeldey moved to Germany to study at the Akademie Institut für Kirchenmusik
+		  and at the University of Berlin where his musicology professors included
+		  Johannes Wolf, Oskar Fleischer, Max Friedländer, and Hermann Kretzschmar. He
+		  received his Ph.D. from the University of Berlin in 1909. </p> 
+		<p>In addition to receiving his musicological training in Germany,
+		  Kinkeldey also gained experience as a librarian while working as a cataloger
+		  for the Prussian government. His work involved cataloging music collections in
+		  church and town libraries. He was hired in 1909 to be the librarian for the
+		  Royal Academic Institute for Church Music in Breslau where he also worked at
+		  the University of Breslau as professor of organ and music theory. He taught
+		  with such distinction that the Prussian government granted him the honorary
+		  title, "Royal Prussian Professor" in 1910. </p> 
+		<p>Kinkeldey returned to the United States in 1914 and was named chief of
+		  the Music Division of the New York Public Library in 1915. His work was
+		  interrupted while he was enlisted in the United States Army in 1917-1919.
+		  Kinkeldey resigned his post at the New York Public Library in 1923. He left to
+		  become head of the Music Department at Cornell University but returned to the
+		  New York Public Library for the years 1927-1930. </p> 
+		<p>Cornell University created the first faculty position in musicology in
+		  1930 and appointed Kinkeldey to the position. From 1930-1946 he also served as
+		  University Librarian at Cornell. After he retired from Cornell University he
+		  continued his career in several locations as a visiting faculty member,
+		  including Harvard, Princeton, Illinois University, Berkeley, and North Texas
+		  University.</p> 
+		<p>Kinkeldey was one of the founding members of the American
+		  Musicological Society in 1941 and its first president. He was also among the
+		  founders of the Music Library Association in 1931 and served as its first
+		  president. He was instrumental in establishing the standards for graduate
+		  programs in music in the United States. His research and writings encompass
+		  both musicological and bibliographical studies.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains twenty-one of Kinkeldey's published writings
+		  (two of which are only abstracts of presentations), documents from the 1936
+		  meeting of the Committee on Graduate Study in Music chaired by Howard Hanson
+		  that established guidelines for music graduate programs, correspondence
+		  concerning a publication of the hymnal, 
+		<title render="italic">Zion's Harfe</title>and seventeen writings by
+		other authors, some with inscriptions to Kinkeldey or accompanied by
+		correspondence to him. The collection also contains eleven items of assorted
+		correspondence, four folders of program materials, and five folders of
+		paleographic examples.</p> 
+		<p>The musical portion of the collection reflects Kinkeldey's research
+		  interests. The transcriptions pre-date commercially available transcriptions made later by 
+		  other musicologists. Many of the transcriptions were used in his doctoral dissertation 
+		<title render="italic">Orgel und Klavier in der Musik des 16.
+		  Jahrhunderts</title>. Some of the musical works in Series IX were separated
+		from original placements within compilations in order to better identify the
+		contents.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in nine series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I. Writings
+				by Kinkeldey</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				Committee on Graduate Study in Music</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				Correspondence about 
+				<title render="italic"> Zions Harfe</title></ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV. Writings
+				by others</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series5">V.
+				Correspondence</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series6">VI.
+				Programs</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series7">VII.
+				Paleographic examples</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series8">VIII.
+				Compositions by Kinkeldey</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series9">IX.
+				Transcriptions by Kinkeldey</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1"> I.</unitid> 
+			 <unittitle>Writings by Kinkeldey, 
+				<unitdate type="inclusive" normal="1909/1954"> 1909-1954</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 1-24</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in two series: 
+				<list type="simple"> 
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series1a"> A.
+						Published writings</ref></item> 
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series1b"> B.
+						Unpublished writings</ref></item> 
+				</list></p> 
+		  </arrangement> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series1a">I.A</unitid> 
+				<unittitle>Published writings, 
+				  <unitdate normal="1909-1954" type="inclusive">
+					 1909-1954</unitdate> </unittitle> 
+				<physdesc><extent>Folder 1-21</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged alphabetically by title.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">1</container> 
+				  <unittitle> 
+					 <title type="article">Alfred Einstein's 'The Italian Madrigal':
+						a review</title>, 
+					 <unitdate type="inclusive">1949</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (20 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Renaissance News</title>, v. 2 n. 2
+					 (Summer 1949): 25-28.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">2</container> 
+				  <unittitle> 
+					 <title type="article">American higher music education compared
+						with that of Europe</title>, 
+					 <unitdate type="inclusive">1934</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (16 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title>, 29 (1934): 20-28.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">3</container> 
+				  <unittitle> 
+					 <title type="article">Artist and the scholar</title>, 
+					 <unitdate type="inclusive">1940</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (15 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title>, 35 (1940): 67-79.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">4</container> 
+				  <unittitle> 
+					 <title type="article">Bach embellecido por sí mismo</title>, 
+					 <unitdate type="inclusive">1954</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (10 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Revista de Estudios Musicales</title>n. 7
+					 (December 1954) : 1-10.</p> 
+					 <p>Translated by Francisco Curt Lange.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">5</container> 
+				  <unittitle> 
+					 <title type="article">Changing relations within the field of
+						musicology</title>, 
+					 <unitdate type="inclusive">1936</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (19 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title>31 (1936): 246-261.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">6</container> 
+				  <unittitle> 
+					 <title type="article">Exhibition of music</title>, 
+					 <unitdate type="inclusive">1930</unitdate></unittitle> 
+				  <physdesc><extent>1 journal (68 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Bulletin of the New York Public
+						Library</title>v. 34 n. 1 (January 1930): 3-8.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">7</container> 
+				  <unittitle> 
+					 <title type="article">Franchino Gafori and Marsilio
+						Ficino</title>, 
+					 <unitdate type="inclusive">1947</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (4 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Harvard Library Bulletin</title>v. 1 n. 1
+					 (Autumn 1947): [379]-382.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">8</container> 
+				  <unittitle> 
+					 <title type="article">Hopes and wishes</title>, 
+					 <unitdate type="inclusive">1941</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (8 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title> 36 (1941): 190-197.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">9</container> 
+				  <unittitle> 
+					 <title type="article">Influence of folk-music upon artistic
+						progress</title>, 
+					 <unitdate type="inclusive">1915</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (13 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title>10 (1915): 272-284.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">10</container> 
+				  <unittitle> 
+					 <title type="article">Jewish dancing master of the Renaissance
+						(Guglielmo Ebreo)</title>, 
+					 <unitdate type="inclusive">1929</unitdate></unittitle> 
+				  <physdesc><extent>1 illustrated leaf</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title>Studies in Jewish Bibliography and Related Subjects, in
+						Memory of Abraham Solomon Freidus (1867-1923)</title>: 329-372. Only the
+					 illustration of the dancing master is contained within, the full text of the
+					 article.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">11</container> 
+				  <unittitle> 
+					 <title type="article">Music and meaning</title>: abstract, 
+					 <unitdate type="inclusive">1936</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (16 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Bulletin of the American Musicological
+						Society</title>n. 1 (June 1936): 14-15.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">12</container> 
+				  <unittitle> 
+					 <title type="article">Music education and public
+						libraries</title>, 
+					 <unitdate type="inclusive">1916</unitdate></unittitle> 
+				  <physdesc><extent>1 journal 15 (pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Music Bulletin</title>v. 3 n. 1
+					 (September 1916): 11-14.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">13</container> 
+				  <unittitle> 
+					 <title type="article">Music in the universities of Europe and
+						North America</title>, 
+					 <unitdate type="inclusive">1915</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (12 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title>10: 79-90.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">14</container> 
+				  <unittitle> 
+					 <title type="article">Music of the future: a phantasy</title>:
+					 abstract, 
+					 <unitdate type="inclusive">1937</unitdate></unittitle> 
+				  <physdesc><extent>1 journal (32 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Bulletin of the American Musicological
+						Society</title>n. 2 (June 1937): 4.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">15</container> 
+				  <unittitle> 
+					 <title type="article">Musicology in American colleges and
+						universities</title>, 
+					 <unitdate type="inclusive">1934</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (8 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Yearbook of the Music Educators National
+						Conference</title>27: 125-131.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">16</container> 
+				  <unittitle> 
+					 <title type="article">Musik in Schlesien</title>, 
+					 <unitdate type="inclusive">1913</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (9 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Schlesische Landeskunde Geschichtliche
+						Abteilung</title> (1913): 342-350.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">17</container> 
+				  <unittitle> 
+					 <title type="book">Orgel und Klavier in der Musik des 16.
+						Jahrhunderts: ein Beitrag zur Geschichte der Instrumentalmusik</title>: Kapitel
+					 VII, Anhang I, II: Inaugural Dissertation zur Erlangung der Doktorwürde
+					 genehmigt von der philosophischen Fakultat der Friedrich-Wilhelms-Universität
+					 zu Berlin, 
+					 <unitdate type="inclusive">1909</unitdate></unittitle> 
+				  <physdesc><extent>1 book (40 pages)</extent></physdesc> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">18</container> 
+				  <unittitle> 
+					 <title type="article">Preparation of the college music student
+						for graduate study</title>, 
+					 <unitdate type="inclusive">1934</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (16 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title>29 (1934): 165-170.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">19</container> 
+				  <unittitle> 
+					 <title type="article">Thomas Mace and his 'Musick's Monument'
+						(1676)</title>, 
+					 <unitdate type="inclusive">1937</unitdate></unittitle> 
+				  <physdesc><extent>1 journal (32 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Bulletin of the American Musicological
+						Society</title>n. 2 (June 1937): 21.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">20</container> 
+				  <unittitle> 
+					 <title type="article">Thomas Robinson's 'Schoole of Musicke': a
+						lute book of Shakespeare's time</title>, 
+					 <unitdate type="inclusive">1936</unitdate></unittitle> 
+				  <physdesc><extent>1 journal (16 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Bulletin of the American Musicological
+						Society</title>n. 1 (June 1936): 7.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">21</container> 
+				  <unittitle> 
+					 <title type="article">Tributes to the memory of Oscar George
+						Sonneck (1873-1928)</title>, 
+					 <unitdate type="inclusive">1928</unitdate></unittitle> 
+				  <physdesc><extent>1 offprint (7 pages)</extent></physdesc> 
+				  <note> 
+					 <p>Published in: 
+					 <title type="journal">Proceedings of the Music Teachers
+						National Association</title> 23 (1928): 257-263.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series1b">I.B</unitid> 
+				<unittitle>Unpublished writings, 
+				  <unitdate normal="1919" type="inclusive"> 1919</unitdate>, 
+				  <unitdate normal="1923" type="inclusive">1923</unitdate>, 
+				  <unitdate type="inclusive" normal="1898/1966">undated</unitdate>
+				  </unittitle> 
+				<physdesc><extent>Folder 22-24</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged chronologically.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">22</container> 
+				  <unittitle> Comments on Hans Tessmer's article 
+					 <title type="article"> Joh. Sebastian Bach im öffentlichen
+						Schriftum seiner Zeit</title>, published in the journal, 
+					 <title type="journal">Neue-Musik Zeitung</title>, 
+					 <unitdate normal="1919"
+					 type="inclusive">1919</unitdate></unittitle> 
+				  <physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">23</container> 
+				  <unittitle> Labels for an untitled exhibit about Beethoven at the
+					 New York Public Library, 
+					 <unitdate normal="1923"
+					 type="inclusive">1923</unitdate></unittitle> 
+				  <physdesc><extent>1 envelope</extent></physdesc> 
+				  <note> 
+					 <p>Presumably curated by Kinkeldey.</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">24</container> 
+				  <unittitle> Notes on, and text of Alfred Tennyson's poem, 
+					 <title render="italic">Maud</title> as set by Sir Arthur
+					 Somervell, 
+					 <unitdate normal="1898/1966"
+					  type="inclusive">undated</unitdate></unittitle> 
+				  <physdesc><extent>2 folded manuscript leaves</extent></physdesc> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2"> II.</unitid> 
+			 <unittitle>Committee on Graduate Study in Music, 
+				<unitdate type="inclusive" normal="1936/1937">1936-1937 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 25-30 </extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Documents related to the Special Committee on Graduate Study in
+				Music jointly sponsored by the Music Teachers National Association and the
+				National Association of Schools of Music. The committee was first authorized in
+				December 1933. The enclosed contents pertain to the committee's meeting
+				December 30, 1936 at the joint conventions of the Music Teachers National
+				Association, National Association of Schools of Music, American Musicological
+				Society, and Phi Mu Alpha Fraternity in Chicago, Illinois and subsequent
+				documents. The authors of the typescript documents are not stated.</p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Arranged in rough chronological order.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">25</container> 
+				<unittitle> 
+				  <title type="book">Constitution and by-laws, specimen
+					 examinations, approved curricula, code of ethics, membership</title> of the 
+				  <corpname>National Association of Schools of Music</corpname>, 
+				  <unitdate type="inclusive" normal="1936">1936</unitdate>
+				  </unittitle> 
+				<physdesc><extent>1 printed booklet (35 pages)</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Meeting of special committee, 
+				  <unitdate type="inclusive" normal="1936-12-28">December 28,
+					 1936</unitdate> </unittitle> 
+				<physdesc><extent>32 typescript leaves</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Transcription of meeting of the Committee on Graduate Study in
+				  Music chaired by Howard Hanson.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">27</container> 
+				<unittitle>Adjourned meeting of special committee, 
+				  <unitdate type="inclusive" normal="1936-12-30">December 30,
+					 1936</unitdate> </unittitle> 
+				<physdesc><extent>53 typescript leaves</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Transcription of meeting of the Committee on Graduate Study in
+				  Music chaired by Howard Hanson.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">28</container> 
+				<unittitle>Summary of meetings of Committee on Graduate Study in
+				  Chicago 
+				  <unitdate type="inclusive" normal="1937"
+				  certainty="approximate">1937</unitdate> </unittitle> 
+				<physdesc><extent>2 typescript leaves</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Items of agreement and regulations for the Doctor of Philosophy
+				  in Music degree.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">29</container> 
+				<unittitle>Letter from 
+				  <persname source="lcnaf">Hanson, Howard, 1896-1981</persname> to
+				  Kinkeldey, 
+				  <unitdate type="inclusive" normal="1937-01-19"
+				  certainty="approximate">19 January 1937</unitdate> </unittitle> 
+				<physdesc><extent>2 typescript leaves</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letter sent with transcript of second meeting of the Committee
+				  on Graduate Study in Music.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">30</container> 
+				<unittitle>Preliminary report of the Committee on Graduate Study in
+				  Music 
+				  <unitdate type="inclusive" normal="1937"
+				  certainty="approximate">undated (1937?)</unitdate> </unittitle> 
+				<physdesc><extent>1 printed booklet (16 pages)</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Annotated with changes.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Correspondence about 
+				<title render="italic"> Zions Harfe</title>, 
+				<unitdate type="inclusive" normal="1938-03-18/1938-06-19"> March
+				  18, 1938-June 10, 1938</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 31-34 </extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Correspondence related to Kinkeldey's English translations of
+				hymns from the German edition of 
+			 <title render="italic">Zions Harfe</title>, the primary worship
+			 hymnal of the Apostolic Christian Church. </p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by sending correspondent's surname.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">31</container> 
+				<unittitle> 
+				  <persname>Braun, G. A.</persname> to Kinkeldey, 
+				  <unitdate type="inclusive" normal="1938-03-18/1938-05-21"
+				  certainty="approximate">18 March 1938-21 May 1938</unitdate> </unittitle> 
+				<physdesc><extent>14 typescript letters</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes one item written on behalf of Braun by Albert J.
+				  Strohm. Letterhead on one item: "G. A. Braun, Inc., Exclusive Mid-Western
+				  distributors, The Prosperity Co., Inc.. Laundry and Dry Cleaning Equipment, 612
+				  N. Michigan Avenue, Chicago". </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">32</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Kinkeldey, Otto, 1858-1958</persname> to
+				  G. A. Braun, 
+				  <unitdate type="inclusive" normal="1938-05-12/1938-06-10"
+				  certainty="approximate">12 May 1938-10 June 1938</unitdate> </unittitle> 
+				<physdesc><extent>5 typescript letters (5 leaves)</extent> and
+				  <extent>29 manuscript and typescript leaves of translations</extent></physdesc>
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">33</container> 
+				<unittitle> 
+				  <persname>Spencer, Charles W.</persname> to Kinkeldey, 
+				  <unitdate type="inclusive" normal="1938-06-08"
+				  certainty="approximate">8 June 1938</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript letter</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Spencer was librarian of Colgate University Library, Hamilton,
+				  New York. He wrote to respond that the choir at the school had not performed a
+				  specified hymn from 
+				<title render="italic">Zions Harfe</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">34</container> 
+				<unittitle> 
+				  <persname>Stieg, Lewis</persname> to Kinkeldey, 
+				  <unitdate type="inclusive" normal="1938-06-04"
+				  certainty="approximate">4 June 1938</unitdate> </unittitle> 
+				<physdesc><extent>1 typescript letter</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Stieg was a librarian at Hamilton College, Clinton, New York. He
+				  wrote to respond that the choir at the school had not performed a specified
+				  hymn from 
+				<title render="italic">Zions Harfe</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4"> IV.</unitid> 
+			 <unittitle>Writings by Others, 
+				<unitdate type="inclusive" normal="1905/1960">1905-1960 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 35-52 </extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Chiefly published writings by other authors, some accompanied by
+				correspondence.</p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by author's surname and then by title.</p>
+			 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">35</container> 
+				<unittitle> 
+				  <corpname>Akademischen Vereins Organum</corpname>, 
+				  <unitdate normal="1898-07" type="inclusive">July 1898</unitdate>,
+				  
+				  <unitdate type="inclusive" normal="1905-09-28">28 September
+					 1905</unitdate></unittitle> 
+				<dao linktype="simple"
+				 href="../xtf/images/music/ubmu0054_35item1.pdf" actuate="onrequest"
+				 show="new"/> 
+				<dao linktype="simple"
+				 href="../xtf/images/music/ubmu0054_35item2.pdf" actuate="onrequest"
+				 show="new"/> 
+				<physdesc><extent>2 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list> 
+					 <item> 
+						<title render="italic">Statut des akademischen Vereins
+						  Organum zu Berlin</title>, Juli 1898. Printed pamphlet (8 pages) </item> 
+					 <item> 
+						<title render="italic">Organum, Bier-Zeitung</title>, 28.
+						Sept. 1905. Handwritten newsletter (13 pages).</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">36</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Barbour, J. Murray (James Murray),
+					 1897-1970</persname>: 
+				  <title type="article">Irregular systems of temperament</title>, 
+				  <unitdate type="inclusive"
+					normal="1947">1947</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (7 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Journal of the American Musicological
+					 Society</title>, v. 1 n. 3 (Autumn 1948): 20-26</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Accompanied by two concert programs from Michigan State College
+				  Department of Music Collegium Musicum.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">37</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Barbour, J. Murray (James Murray),
+					 1897-1970</persname>: 
+				  <title type="article">Music and continued ternary
+					 fractions</title>, 
+				  <unitdate type="inclusive"
+					normal="1948">1948</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (11 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">American Mathematical Monthly</title>, v.
+				  55 n. 9 (November 1948): 545-555.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">38</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Barbour, J. Murray (James Murray),
+					 1897-1970</persname>: 
+				  <title type="article">Musical scales and their
+					 classification</title>, 
+				  <unitdate type="inclusive"
+					normal="1949">1949</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (4 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Journal of the Acoustical Society of
+					 America</title>, v. 21 n. 6 (November 1949): 586-589.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">39</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Besseler, Heinrich,
+					 1900-1969</persname>: 
+				  <title type="chapter">Johann Sebastian Bach 1685-1750</title>, 
+				  <unitdate normal="1935"
+					type="inclusive">1935</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (26 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Die Grossen Deutschen: Neue deutsche
+					 Biographie</title>: 94-111. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">40</container> 
+				<unittitle> 
+				  <corpname source="lcnaf">Cornell University</corpname>: 
+				  <title type="article">Honor Dr. Kinkeldey at sixtieth
+					 birthday</title>, 
+				  <unitdate type="inclusive" normal="1938-11-24">24 November
+					 1938</unitdate></unittitle> 
+				<physdesc><extent>1 printed booklet(16 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Cornell Alumni News</title>, v. 41 n. 9
+				  (November 24, 1938): 109.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">41</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Ellinwood, Leonard,
+					 1905-1994</persname>: 
+				  <title>Francesco Landini and his music</title>, 
+				  <unitdate type="inclusive"
+					normal="1936">1936</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (29 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Musical Quarterly</title>, v. 22 n. 2
+				  (April 1936): 190-216.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Accompanied by three manuscript transcriptions of Landini works:
+				  
+				<title render="italic">Amor in uon gentile</title>, 
+				<title render="italic">Partesi con dolore</title>, and 
+				<title render="italic">Si dolce non sono </title>(2nd part). The
+				score of the last work is an ozalid reproduction. There is also a copy of the
+				last work as it appears in the 
+				<title render="italic">Squarcialupi Codex</title>. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">42</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Emmanuel, Maurice, 1862-1938</persname>:
+				  
+				  <title>Rythme d'Euripide à Debussy</title>, 
+				  <unitdate normal="1928"
+				  type="inclusive">1928</unitdate></unittitle> 
+				<physdesc><extent>1 printed article (16 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Le Monde Musicale</title>, v. 38 n. 9
+				  (September 1928): 277-329.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Annotated and accompanied by three manuscript items. One from
+				  Emmanuel to Maurice Brillant, October 11, 1930; two manuscript lists in
+				  unidentified hand concerning articles by or about Emmanuel in 
+				<title render="italic">Revue Musicale</title> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">43</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Guise, Cedric H. (Cedric Hay), b.
+					 1890</persname>: Mr. Guise's collection of ragtime, 
+				  <unitdate normal="1951"
+					type="inclusive">1951</unitdate></unittitle> 
+				<physdesc><extent>9 typescript leaves</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">44</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Haydon, Glen, 1896-1966</persname>: 
+				  <title>Lateran Codex 61</title>, 
+				  <unitdate normal="1958"
+					type="inclusive">1958</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (6 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Bericht über den siebenten internationalen
+					 musikwissenschaftlichen Kongress Köln 1958: 126-131.</title></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">45</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Hornbostel, Erich Moritz von,
+					 1877-1935</persname>: 
+				  <title>Psychologie der Gehörserscheinungen</title>, 
+				  <unitdate normal="1926"
+					type="inclusive">1926</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (30 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Handbuch der normalen und pathologischen
+					 Physiologie</title> v. 11, n. 1: 701-730.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">46</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Johnson, Harold E. (Harold Edgar),
+					 1915-1985</persname>: 
+				  <title>Sibeliuksen Lemminkäissarja</title>, 
+				  <unitdate normal="1957"
+					type="inclusive">1957</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (5 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Ylipainos Helsingen Sanomista </title> May
+				  19 1957: 3-7.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">47</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Lach, Robert, 1874-1958</persname>: 
+				  <title>Schubert und das Volkslied</title>, 
+				  <unitdate normal="1920"
+					type="inclusive">1929</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (9 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Bericht über den internationalen Kongress
+					 für Schubert-Forschung Wien 1928</title>: 59-67.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">48</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Matzke, Hermann Karl Anton,
+					 1890-1976</persname>: 
+				  <title>Von der Erziehung zur Musik</title>, 
+				  <unitdate normal="1920"
+					type="inclusive">1920</unitdate></unittitle> 
+				<physdesc><extent>1 booklet (32 pages)</extent></physdesc> 
+				<note> 
+				  <p> 
+					 <bibref><imprint> 
+						<geogname>Breslau</geogname>: 
+						<publisher>Richard Hoppe</publisher>, 
+						<date>1920</date></imprint></bibref></p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Accompanied by manuscript letter from Matzke to Kinkeldey, 15
+				  March 1922.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">49</container> 
+				<unittitle> 
+				  <corpname source="lcnaf">New York Public Library</corpname>: 
+				  <title>Bibliography of works by and on C. P. E. Bach in the New
+					 York Public Library</title>, 
+				  <unitdate normal="1930/1939" certainty="approximate">circa
+					 1932</unitdate></unittitle> 
+				<physdesc><extent>2 typescript leaves</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">50</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Schrade, Leo, 1903-1964</persname>: 
+				  <title>Ästhetik Albert Schweitzers: eine Interpretation
+					 Bachs</title>, 
+				  <unitdate normal="1960-01" type="inclusive">January
+					 1960</unitdate></unittitle> 
+				<physdesc><extent>1 offprint (18 pages)</extent></physdesc> 
+				<note> 
+				  <p>Published in: 
+				  <title type="journal">Universitas: Zeitschrift für Wissenschaft,
+					 Kunst und Literatur</title> 15. Jahrgang Heft 1 (January 1960): 61-78.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">51</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Sleeper, Helen Joy</persname>: 
+				  <title>Preliminary draft of a check-list of thematic catalogues,
+					 prepared for the Music Library Association by the Committee on indexes
+					 (1942-1946)</title>, 
+				  <unitdate normal="1946"
+					type="inclusive">1946</unitdate></unittitle> 
+				<physdesc><extent>22 typescript leaves</extent></physdesc> 
+				<note> 
+				  <p>Written with co-authors Leonard Burkat and Scott
+					 Goldthwaite.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Accompanied by 1 typescript letter from Sleeper to Kinkeldey 18
+				  March 1942 and 1 typescript addition, Brief description of the proposed format
+				  of the Check-list of thematic catalogues.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">52</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Sleeper, Helen Joy</persname>: 
+				  <title>String fantasias of John Jenkins</title>, 
+				  <unitdate type="inclusive" normal="1936-08-14">14 August
+					 1936</unitdate></unittitle> 
+				<physdesc><extent>11 typescript leaves</extent></physdesc> 
+				<note> 
+				  <p>"Seminar report for Music S20".</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Correspondence, 
+				<unitdate type="inclusive" normal="1904/1960">1904-1960</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 53-62</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by correspondent's surname, including one
+				from Kinkeldey.</p> 
+		  </arrangement> 
+<c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">53</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Bailey, Parker</persname>: 
+				  <unitdate type="inclusive" normal="1934-07-15">15 July 1934</unitdate></unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+				 
+			 </did> 
+		  </c02> 		  
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">53a</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Calmus, Georgy</persname>: 
+				  <unitdate type="inclusive" normal="1913-01-13">13 January
+					 1913</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>In German.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">54</container> 
+				<unittitle> 
+				  <persname source="lcnaf" rules="aacr2">Ehrenzweig,
+					 Erica</persname>: 
+				  <unitdate type="inclusive" normal="1943-09-01">1 September
+					 1943</unitdate></unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+				<note> 
+				  <p>In German.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Written on behalf of musicologist 
+				  <persname normal="Deutsch, Otto Erich, 1883-1967"
+				  source="lcnaf">Otto Erich Deutsch </persname>concerning a publication of 
+				<title render="italic">Parthenia</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">55</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Hourlier, Jacques</persname>: 
+				  <unitdate type="inclusive" normal="1960-01-07">7 January
+					 1960</unitdate>, 
+				  <unitdate type="inclusive" normal="1960-01-25">25 January
+					 1960</unitdate>, and 
+				  <unitdate normal="1960">undated</unitdate></unittitle> 
+				<physdesc><extent>3 manuscript items (3 leaves)</extent></physdesc>
+				
+				<note> 
+				  <p>In English and French. The letters are addressed to "Monsieur
+					 le Professor". The undated letter bears an inscription suggesting that the
+					 addressee was Carl Parrish, not Kinkeldey. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">56</container> 
+				<unittitle> 
+				  <persname rules="aacr2">Joseffy, Carl</persname>: 
+				  <unitdate type="inclusive" normal="1945-01-25">25 January
+					 1941</unitdate></unittitle> 
+				<physdesc><extent>1 typescript leaf</extent></physdesc> 
+				<note> 
+				  <p>In English.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">57</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Kinkeldey, Otto, 1878-1966</persname>: 
+				  <unitdate type="inclusive" normal="1945-01-25">circa
+					 1959</unitdate></unittitle> 
+				<physdesc><extent>2 manuscript leaves</extent></physdesc> 
+				<note> 
+				  <p>In English.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letter to 
+				  <persname source="lcnaf" normal="Beck, Sydney">Sydney
+					 Beck</persname> concerning the 1959 publication of the volume edited by Beck,
+				  Thomas Morley's 
+				<title render="italic">First Book of Consort Lessons</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">58</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Schneider, Marius, 1903-1982</persname>:
+				  
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>In German.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">59</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Van Loan, Philip </persname>: 
+				  <unitdate type="inclusive" normal="1924"
+					certainty="approximate">circa 1924</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>In English.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">60</container> 
+				<unittitle> 
+				  <persname source="lcnaf">Wolf, Johannes, 1869-1947</persname>: 
+				  <unitdate type="inclusive" normal="1904-03-01">1 March
+					 1904</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>In German.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">61</container> 
+				<unittitle>Unidentified: 
+				  <unitdate type="inclusive" normal="1911-03-31">31 March
+					 1911</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>In German.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">62</container> 
+				<unittitle>Unidentified: 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf</extent></physdesc> 
+				<note> 
+				  <p>In French.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Programs, 
+				<unitdate type="inclusive" normal="1911/1938">1911-1938 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 63-66</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in chronological order.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">63</container> 
+				<unittitle>Fourth Congress of the 
+				  <corpname source="lcnaf">International Musical
+					 Society</corpname>: 
+				  <unitdate type="inclusive"
+					normal="1911">1911</unitdate></unittitle> 
+				<physdesc><extent>3 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>3 May 1911, Reception by the Worshipful Company of
+						Grocers, at Grocers' Hall, with program for events 29 May - 3 June</item> 
+					 <item>2 June 1911 Banquet at Savoy Hotel program with
+						alphabetical list of guests</item> 
+					 <item>2 June 1911 Concert program for performance by The Band
+						of the Royal Regiment of Artillery at the Savoy Hotel</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">64</container> 
+				<unittitle> 
+				  <corpname source="lcnaf">Dô^me des Invalides (Paris,
+					 France)</corpname>: 
+				  <unitdate type="inclusive" normal="1914-06-14">9 June
+					 1914</unitdate></unittitle> 
+				<physdesc><extent>1 program (4 pages)</extent></physdesc> 
+				<note> 
+				  <p>Can not confirm if item was associated with Kinkeldey or
+					 not.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Concert de musique religieuse in the Chapelle des Invalides.
+				  with performers including organist Joseph Bonnet, conductor Felix Raugel,
+				  violoncellist Françoise Gervais, and violinist Eugène. Borrel.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">65</container> 
+				<unittitle>Member's ticket for International Society for Musical
+				  Research, now known as the 
+				  <corpname source="lcnaf">International Musicological
+					 Society</corpname> Congress at Cambridge, England, 
+				  <unitdate type="inclusive"
+					normal="1933">1933</unitdate></unittitle> 
+				<physdesc><extent>1 card</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">66</container> 
+				<unittitle> 
+				  <corpname source="lcnaf">Cornell University</corpname>
+				  celebration in commemoration of Otto Kinkeldey's sixtieth birthday, 
+				  <unitdate type="inclusive"
+				  normal="1911">1938</unitdate></unittitle> 
+				<physdesc><extent>6 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Contains a musical canon, text to the Alma Mater for the Western
+				  New York Branch of the American Musicological Society, a handwritten card
+				  signed by attendees, and placemarks for Mr. and Mrs. Kinkeldey.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII.</unitid> 
+			 <unittitle>Paleographic examples, 
+				<unitdate type="inclusive" normal="YYYY/YYYY">undated</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 67-71 </extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Fragments of paleographical examples originally in envelope marked
+				"Vellum leaves, some with neumes".</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">67</container> 
+				<unittitle>Paleography example number 1, 
+				  <unitdate>undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf (15 x 22
+				  cm.)</extent></physdesc> 
+				<dao linktype="simple"
+				href="../xtf/images/music/ubmu0054_67.pdf" actuate="onrequest"
+				show="new"> 
+				</dao> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">68</container> 
+				<unittitle>Paleography example number 2, 
+				  <unitdate>undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf (21 x 15
+				  cm.)</extent></physdesc> 
+				<dao linktype="simple"
+				href="../xtf/images/music/ubmu0054_68.pdf" actuate="onrequest"
+				show="new"> 
+				</dao> 
+				<note> 
+				  <p>Text is "Audite celi que loquar" from the Old Testament of the
+					 Bible, Deuteronomy XXXII, 1-43. It is also known as the "Song of Moses".</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">69</container> 
+				<unittitle>Paleography example number 3, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf (18 x 10 cm.) with musical
+				  neumes</extent></physdesc> 
+				<dao linktype="simple"
+				href="../xtf/images/music/ubmu0054_69.pdf" actuate="onrequest"
+				show="new"> 
+				</dao> 
+				<note> 
+				  <p>The antiphon text is "Isti sunt duae olivae et duo candelabra
+					 lucentia". It is from the New Testament of the Bible, Revelations XI, 4.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">70</container> 
+				<unittitle>Paleography example number 4, 
+				  <unitdate>undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf (4 x 28
+				  cm.)</extent></physdesc> 
+				<dao linktype="simple"
+				href="../xtf/images/music/ubmu0054_70.pdf" actuate="onrequest"
+				show="new"> 
+				</dao> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">71</container> 
+				<unittitle>Paleography example number 5, 
+				  <unitdate>undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript leaf (46 x 11
+				  cm.)</extent></physdesc> 
+				<dao linktype="simple"
+				href="../xtf/images/music/ubmu0054_71.pdf" actuate="onrequest"
+				show="new"> 
+				</dao> 
+				<note> 
+				  <p>The verso is too badly stained to read.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series8">VIII.</unitid> 
+			 <unittitle>Compositions by Kinkeldey, 
+				<unitdate type="inclusive" normal="1923">1923</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 72</extent></physdesc> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">72</container> 
+				<unittitle>I'll sing you the song of a flivver, 
+				  <unitdate type="inclusive" normal="1923-04-29">29 April
+					 1923</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript score (3 pages) ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>"For the N.Y.P.L."--Title page. Words by unknown author; text
+					 inserted on separate sheet.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series9">IX.</unitid> 
+			 <unittitle>Transcriptions by Kinkeldey, 
+				<unitdate type="inclusive" normal="1900/1940"
+				 certainty="approximate"> circa 1900-1940</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 73-146</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by composer, compiler, and collection
+				titles. Works by unidentified composers have been placed last in the
+				series.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">73</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Ambrose, Saint, Bishop
+					 of Milan, d. 397</persname> 
+				  <title type="uniform">Veni redemptor gentium. Selections</title> 
+				  <title type="transcribed">Veni redemptor gentium</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Pencil manuscript.</p> 
+				  <p>Two lines of Gregorian chant hymn.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">74</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Attaingnant, Pierre, fl.
+					 1528-1549</persname> 
+				  <title type="uniform">Tres breve et familiere introduction.
+					 Prelude, no. 1</title> 
+				  <title type="transcribed">Tres breve et familiere introduction
+					 pour entendre et apprendre par foy mesmes a jouer toutes chansons reduictes en
+					 la tablature du Lutz </title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">75</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Attaingnant, Pierre, fl.
+					 1528-1549</persname> 
+				  <title type="transcribed">Selections from five publications by
+					 Pierre Attaingnant</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>26 pages of manuscript music ; 36
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcribed for keyboard format.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Tabulature pour le jeu dorgues, espinettes et manichordions sur
+				  le plain chant de cunctipotens et Kyrie Fons. Avec leurs et in terra. Patrem.
+				  Sanctus et Agnus dei. [Paris, 1531]. (Königliche Hof u Staatsbibliothek München
+				  Mus. fr. 232). Kyrie ; Christe ; Kyrie [through Fol. BIII] -- Magnificat sur
+				  les huit tons avec Te Deum laudamus et deux Preludes, le tout mys en tabulature
+				  des Orgues Espinettes et Manicordions, et telz semblables instrumentz... 1530.
+				  Preludium Fol L1(v) ; Prelude sur le chacun ton Fol LIV(v) ; Magnificat primi
+				  toni Fol NI ; Secundus versus Fol NIV -- Treze Motetz musicaulx avec ung
+				  Prelude, le tout reduict en la Tabulature des Orgues Espinettes et Manicordions
+				  et telz semblables instrumentz... Kal. Aprilis 1531. Fortuna desperata Fol 83
+				  AaIII (v) ; Sicut malus Fol 89 ; Prelude Fol 119 (v) -- Dixneuf chansons
+				  musicales reduictes en la tabulature des Orgues Espinettes Manichordions, et
+				  telz semblables instrumentz musicaulx... Idibus Januraii 1530. Fors seulement
+				  Fol 18 (v) -- Vingt et cinq chansons musicales reduictes en la tabulature des
+				  Orgues Espinettes Manichordions, et telz semblables instrumentz musicaulx...
+				  Kal. 1530. [Contents listed but no musical examples transcribed] -- Vingt et
+				  six chansons musicales reduictes en la tabulature des Orgues Espinettes
+				  Manichordions, et telz semblables instrumentz musicaulx... Non. Februaii 1530.
+				  Ma bouche rit Fol 110 (v) -- Quatorze gaillardes neuf paven nes sept branles et
+				  deux basses dances le tout reduict de musique en la tabudu jeu dorgues
+				  espinettes manichordions a telz semblables instrumentz musicaulx ... [1531].
+				  Pavane Fol 1 (v) ; Gaillarde sur la pavane -- Vingt et six chansons musicales
+				  reduictes en la tabulature des Orgues Espinettes Manichordions, et telz
+				  semblables instrumentz musicaulx... Non. Februaii 1530. Le content est riche
+				  Fol XCII (v) (includes text).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">76</container> 
+				<unittitle> 
+				  <title type="transcribed">Auszug aus dem Katalog der Hamburger
+					 Stadtbibliothek: Lauten Tabulaturen Abschriften</title> 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>6 manuscript pages</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Notes about holdings in the 
+					 <corpname source="lcnaf">Staats- und Universita¨tsbibliothek
+						Hamburg</corpname> pertaining to lute tablature. No musical transcriptions are
+					 included.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">77</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Bach, Johann Sebastian,
+					 1685-1750</persname> 
+				  <title type="uniform">Brandenburgische Konzert. Nr. 2. Andante;
+					 arr.</title> 
+				  <title type="transcribed">Brandenburg Concert II: Andante</title>
+				  
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript in ink.</p> 
+				  <p>Arranged for piano; incomplete.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">78</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Bataille, Gabriel,
+					 1575-1630</persname> 
+				  <title type="uniform">Airs de diffe´rents autheurs mis en
+					 tablature de luth. Selections</title> 
+				  <title type="transcribed">Airs de diffe´rents autheurs mis en
+					 tablature de luth</title> 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>[4] pages of manuscript music on 2 sheets ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript transcriptions in pencil and ink, including
+					 markings in red ink.</p> 
+				  <p>The original published 1612 in Paris by Pierre Ballard.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Sheet 1. Transcription of melodic line and accompanying texts.
+				  Airs Espagnole. 1. A ver mil damas hermosas (p. 61) -- 2. El baxel esta en la
+				  playa (p. 63) -- 3. Vuestros ojos tienen d'Amor (p. 63) -- Sheet 2.
+				  Transcription of melodic line, text, and accompanying lute tablature. Ballet de
+				  la Royne: [C]Es Ninses pleines de mespris (second livre p. 6, 1809) -- Pour la
+				  chaisne du mesme ballet: [N]os esprits libres (p. 7) -- La Renommee au Roy:
+				  [P]Leine de langues (p. 8).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">79</container> 
+				<unittitle> 
+				  <title type="transcribed">Bergkreyen</title> 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 page of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript transcription in ink with melody line and text.</p>
+				  
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Bergkreyen 1536. Jungfraulein, soll ich mit euch gehn in euren
+				  Rosengarden -- 68 Lieder 1542. Es ist ein Schnee gefallen -- Forster II: 1540.
+				  Der Gutzgauch auf dem zaune sass -- Forster II. : 1540. Ach Jungfrau, wollt ihr
+				  mit mir gahn -- Forster III: 1549. Mir ist ein schönesbraun meydelein</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">80</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Bermudo, Juan</persname>
+				  
+				  <title type="uniform">Declaracio´n de instrumentos musicales.
+					 Selections</title> 
+				  <title type="transcribed">Declaracio´n de instrumentos musicales,
+					 1555</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>24 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript in ink. Transcriptions from the part format of the
+					 original into keyboard format on double staves and full score.</p> 
+				  <p>Title on wrapper: Beilage I Bermudo.</p> 
+				  <p>Partially contained on pages 227-235 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Fol. 61v -- Fol 78: Primero modo por [natural sign] mi (Der
+				  erste Modus auf) -- Fol. 77: Primero por Elami -- Fol. 78v: Octavo por Elami
+				  (Der achte Modus auf E.) -- Fol. 114v: Modo primero con resabios de quarto (Der
+				  erste Modus) -- Fol. 115: Modo quarto (Der vierte Modus) -- Fol. 116: Modo
+				  sexto verdadero (Der wahre sechste Modus) -- Fol. 117v: Modo octavo -- Fol.
+				  118v: Conditur alme siderum -- Fol. 119: Vexilla regis prodeunt -- Fol. 119v:
+				  Veni creator spiritus -- Pange lingua.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">81</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Bermudo, Juan</persname>
+				  
+				  <title type="uniform">Declaracio´n de instrumentos musicales.
+					 Selections</title> 
+				  <title type="transcribed">Declaracio´n de instrumentos musicales,
+					 Ossuna, 1555</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>24 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript in ink. Transcriptions from the part format of the
+					 original into keyboard format on double staves and full score. Includes lute
+					 tablature.</p> 
+				  <p>Partially contained on pages 227-235 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Fol. Lxxxiii (Cap. xlii). Preceded by text "El que quisiere
+				  estra facilitado ..." -- Fol. cxiii(v): Text of "Para el lector" -- Fol. Cxiii:
+				  Ave maris stella -- Fol. Cxiiii: Cantus del modo primero con resabios de quarto
+				  -- Fol. Fol. Cxv(v): Cantus del modo quarto -- Fol. Cxvi(v): Cantus del modo
+				  sexto verdadero -- Fol. Cxvii(v): Cantus del modo octavo Fol. Cxviii(v): Cantus
+				  de conditor alme siderum -- Fol. Cxix: Vexilla regis prodeunt -- Fol. Cxix(v):
+				  Veni creator spiritus -- Pange lingua -- Fol. lxi(v): Illustration of scale
+				  passages -- Fol. lxxviii: Primero modo por [natural sign] mi (The accidental
+				  modes, after Chapter 35) -- Fol. lxxvii(v): Cantus del primero por Elami --
+				  Fol. lxxviii(v): Cantus del octavo por Elami.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">82</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf"> Borjon de Scellery,
+					 Pierre, 1633-1691</persname> 
+				  <title type="uniform">Traite de la musette. Selections</title> 
+				  <title type="transcribed">Traite de la musette (Borjon) 1672.
+					 Bibl. Dresden. Musica A 46</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>2 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Verso contains content from two books of tablature.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Traite de la musette (Borjon). Seconde parte, fol. 7, Les tons
+				  du chalumeau simple ; Prelude ; Branle de Bresse avec le double ; Branle de
+				  Lugny -- Tabulatur Buch auff dem Instrument (Bibl. Dresden Mscr. J 307m).
+				  Danket dem Herrn / Christianus Herzogk zu Sachssen -- Tabulatur Buch auff der
+				  Cythar. Danket dem Herrn / Johannes Georgius Hertzog zu Sachssen.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">83</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Brahms, Johannes,
+					 1833-1897</persname> 
+				  <title type="uniform">Symphonies, no. 3, op. 90, F major.
+					 Allegro; arr. </title> 
+				  <title type="transcribed">Dritte Symphonie, F dur, op. 90, Letzte
+					 Satz</title> 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>2 pages of manuscript music ; 35 cm.
+				  </extent></physdesc> 
+				<note> 
+				  <p>Manuscript (Pencil)</p> 
+				  <p>First seventeen measures arranged for piano four hands.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">84</container> 
+				<unittitle> 
+				  <persname>Brolo, Bartolomeo, fl. 1400-1440</persname> 
+				  <title type="uniform">Entrepis</title> 
+				  <title type="transcribed">Berliner Liederbuch (Ms. Mus
+					 Z98)</title> 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 page of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript transcription of the first twenty measures in
+					 ink.</p> 
+				  <p>Berliner Liederbuch is the former name for what is currently
+					 known as the Glogauer Liederbuch. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">85</container> 
+				<unittitle> 
+				  <persname role="composer" rules="aacr2">Brunetti, Domenico, ca.
+					 1580-1646</persname> 
+				  <title type="uniform">Euterpe. Sospir che del bel petto</title> 
+				  <title type="transcribed">L'Euterpe di Domenico Brunetti,
+					 Bolognese. Opera musicali di madrigali, canzonette, arie, stanze, e scherzi
+					 diversi in dialoghi, &amp; echo, a una, due, tre, et quattro voci, da cantarsi
+					 in theorba, arpicordo, &amp; altri stromenti, ..., 1606</title> 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>2 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Melodic line, with words, and bass only.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Sospir che del bel petto.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">86</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Buus, Giacques, d.
+					 1565</persname> 
+				  <title type="uniform">Intabolatura d'organo</title> 
+				  <title type="transcribed">Intabolatura d'organo di ricercari di
+					 M. Giacques Buus ... Libro primo</title>, 
+				  <unitdate type="inclusive" normal="1904-09-24">September 24,
+					 1904</unitdate></unittitle> 
+				<physdesc><extent>34 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Copied from the British Library K.1.f16, 1549 printing by
+					 Antonio Gardane.</p> 
+				  <p>"London, Sept. 24, 1904"--At end of score.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Recercar primo (Fol. Aii) -- Recercar secondo (Fol. D) --
+				  Recercar terzo (Fol. F(v)) -- [Recercar quarto] (Fol. GII(v)).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">87</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Buus, Giacques, d.
+					 1565</persname> 
+				  <title type="uniform">Intabolatura d'organo. No. 1</title> 
+				  <title type="transcribed">Ricercar no. 1 aus Intabolatura
+					 d'organo do ricercari di M. Giaches Buus, Lib. 1, Venetia 1549</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>20 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>This work is the first ricercar in Intabolatura d'organo and
+					 the first ricercar in the Ricercars, book 2 (1549). The transcription includes
+					 the first 38 measures of the full score on four staves from the latter source
+					 and the entire work from the Intabolatura on two staves. There is also a note
+					 indicating that a source for the full score version was Raymund Schlecht's 
+				  <title>Geschichte der Kirchenmusik</title> (1879).</p> 
+				  <p>Title on wrapper: Beilage III Buus.</p> 
+				  <p>Contained on pages 245-259 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">88</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Buus, Giacques, d.
+					 1565</persname> 
+				  <title type="uniform">Ricercars, book 1. No. 1</title> 
+				  <title type="transcribed">Recercari di M. Iacques Buus ... Libro
+					 primo</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>6 pages of manuscript music ; 36
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcription on four staves of the first 79 measures.</p> 
+				  <p>Information about Adriano Willaert's 
+				  <title>Fantasie Ricercari contrapunti a 3 voci</title> (1559) is
+				  on the back cover.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">89</container> 
+				<unittitle> 
+				  <title type="uniform">Buxheimer Orgelbuch</title> 
+				  <title type="transcribed">Aus Buxheimer Orgelbuch. München
+					 Stadtbibliothek Ms. Mus 3725. </title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 36
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Additional note in caption: Lute auch Attaignant Tabulature 26
+					 chanson, 1530.</p> 
+				  <p>Also identified as Bayerische Staatsbibliothek. Manuscript.
+					 Cim. 352b.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>No. 61: Pysque mammor -- No. 194: Praeambulum super C (fol. 109
+				  ®)) -- No. 112: Praeambulum super d (fol. 61 (v)) -- [No. 236]: Sequitur
+				  fundamentum magistri Conradi paumann contrapuncti (Fol. 142 (v)).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">90</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Campion, Thomas,
+					 1567-1620</persname> 
+				  <title type="uniform">Come let us sound with melodie the
+					 praises</title> 
+				  <title type="transcribed">Come, let us sound with melody: songs
+					 from Rosseter's Book of Airs, 1601 </title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 page of manuscript music ; 32
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcription for keyboard and voice, with text beneath vocal
+					 line.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">91</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Campion, Thomas,
+					 1567-1620</persname> 
+				  <title type="uniform">Songs, lute, viol acc. Selections</title> 
+				  <title type="transcribed">Booke of ayres, set foorth to be song
+					 to the lute, orpherian, and base violl ... 1601</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>13 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>The original collection contains 21 songs by Campion and 21
+					 songs by Philip Rosseter.</p> 
+				  <p>Transcription for keyboard and voice, with text beneath vocal
+					 line.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>My sweetest Lesbia ; Though you are yoong and I am olde ; I care
+				  not for these ladies ; Follow thy faire sunne / Thomas Campion -- If she
+				  forsakes me ; Sweete come againe ; And would you see my Mistris face ; No grave
+				  for woe ; If I urge my kinde desires ; What harts content can he finde ; /
+				  Philip Rosseter.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">92</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Cavazzoni, Marco
+					 Antonio, ca. 1490-ca. 1560</persname> 
+				  <title type="uniform">Recerchari, motetti, canzoni.
+					 Selections</title> 
+				  <title type="transcribed">Ricercari, motetti, canzoni composti
+					 per Marco Antonio da Bologna. Venetiis: Apud Bernardinum Vercelensem,
+					 1523</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>30 pages of manuscript music ; 26-31
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>"Transcripts from copy in British Museum by Otto
+					 Kinkeldey"--Title page.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Recercar primo -- Salve virgo -- Recercar secondo -- O stella
+				  maris -- Perdone, Moi sie folie -- Madame vous, aves, mon, cuor -- Plus, ne
+				  regres (incomplete).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">93</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Cornelius, Peter,
+					 1824-1874</persname> 
+				  <title type="uniform">Lieder, op. 5. Zum Ossa sprach der
+					 Pelion</title> 
+				  <title type="transcribed">Zum Ossa sprach der Pelion, op. 5, no.
+					 5</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 26 x 32
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Text by Annette von Droste-Hülshoff.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">94</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Flecha, Matheo, ca.
+					 1530-1604 </persname> 
+				  <title type="uniform">Harmonia a 5</title> 
+				  <title type="transcribed">Harmonia a 5, composto e dedicata alla
+					 Maesta dell'Imperatore Massimiliano II l'anno 1568 dal Fra. Matheo Fleccia
+					 Carmelita, Capelano della Imperatrice Maria*</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 26 x 32
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcription of Flecha's only known instrumental work from
+					 the Bibliothek der Gesellschaft der Musikfreunde, Wien Reg. 23573.</p> 
+				  <p>Page 4 contains the beginning of a lute tablature, "Les
+					 doubles follies d'Espagne" from Ms. 17706 in the Ö¨sterreichische
+					 Nationalbibliothek and first eight measures of a keyboard transcription of
+					 "Prélude en de la ré sol. Suitte. Folies d'espagne" from Ms. 19455 in the
+					 Ö¨sterreichische Nationalbibliothek.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">95</container> 
+				<unittitle> Folies d'Espagne, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>8 pages of manuscript music ; 26 x 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>"See Niecks in 
+				  <title>Musical Times</title>, 1888"--Caption. Refers to, and
+				  includes examples from the article, 
+				  <title type="article">Folies d'Espagne: A Study</title> by Fr.
+				  Niecks ( 
+				  <persname>Niecks, Frederick, 1845-1924</persname>)in 
+				  <title type="journal">Musical Times</title>, Dec. 1, 1888 (vol.
+				  29, no. 550: 717-721).</p> 
+				  <p>Muiscal transcriptions accompanied by textual notes.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Toccate e partite d'intavolatura di cimbalo (1615). Partite
+				  sopra Folia / [Girolamo] Frescobaldi -- Arie per il Balletto à Cavallo (1667).
+				  Follia per nuovo ingresso ... / Johann Heinrich Schmelzer -- Farinell's Ground
+				  / [Jean-Baptiste Farinel, or Giovanni Battista Farinelli] -- [Suonata a violino
+				  e violone o cembalo]. No. 12 / [Arcangelo] Corelli -- Pieces de clavecin
+				  (1689). Variations sur les folies d'Espagne / Jean Henri d'Anglebert --
+				  Bauern-Cantate (1742). [Unser lieber Kammerherr] / J. S. Bach -- Sonate da
+				  camera a tre, op. 1. Follia XII / Antonio Vivaldi.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">96</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Franck, Melchior, d.
+					 1639</persname> 
+				  <title type="uniform">Fasciculus quodlibeticus. Ein Mägdlein
+					 stund</title> 
+				  <title type="transcribed">Fasciculus quodlibeticus: Ein Mägdlein
+					 stund</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>12 manuscript music parts (2 pages each) ; 18 x
+				  27 cm.</extent></physdesc> 
+				<note> 
+				  <p>Three parts each for Soprano, Alto, Tenor, and Bass.</p> 
+				  <p>First line of text: Wo stund sie denn.</p> 
+				  <p>Originally issued Coburg, 1611.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">97</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Fugger, Octavianus, II,
+					 1549-1600</persname> 
+				  <title type="uniform">Passameggio del gropo e sua
+					 galiarda</title> 
+				  <title type="transcribed">Hof. Wien Ms. 18821. Lautenbuch. O.S.F.
+					 1562. Passameggio del gropo</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>The three works from Ms. 18821 are transcribed as lute
+					 tablature with transcription for keyboard. The Recercar (anonymous composer)
+					 from Ms. 18827 is only in lute tablature.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Lautenbach des Octavian Secundus, 1562. (Mus. Hs. 18821).
+				  Passameggio del gropo y sua galiarda ; Del gropo minuita (fol. 5 b.) ; Opus non
+				  inscriptum (fol. 6b.) -- [Lautenbuch]. [italienische Lautentabulatur]. XVI. Jh.
+				  39 Bl. Mus. Hs. 18827. Recercar.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">98</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Gabrieli, Giovanni, ca.
+					 1554-1612</persname> 
+				  <title type="uniform">Canzoni et sonate. Canzon, voices (7) (No.
+					 7)</title> 
+				  <title type="transcribed">Canzone VII aus Canzoni et Sonate,
+					 1615</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Incomplete.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">99</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Gabrieli, Giovanni, ca.
+					 1554-1612</persname> 
+				  <title type="uniform">Canzoni et sonate. Canzon, voices (12) (No.
+					 17)</title> 
+				  <title type="transcribed">Canzoni XVII aus Canzoni et Sonate,
+					 1615</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>15 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript (Pencil, copied over with ink).</p> 
+				  <p>"Ed. P. F. Thaddeo da Venetia Agostiniano"--Caption. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">100</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Gabrieli, Giovanni, ca.
+					 1554-1612</persname> 
+				  <title type="uniform">Sacrae symphoniae. Sonata pian e
+					 forte</title> 
+				  <title type="transcribed">Sonata piano e forte alla quarta bassa,
+					 Venedig 1597, Bearbeitung von Otto Kinkeldey</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript score (11 pages) ; 24 x 33 cm. and 8
+				  manuscript parts ; 35 cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">101</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Gabrieli, Giovanni, ca.
+					 1554-1612</persname> 
+				  <title type="uniform">Sacrae symphoniae. Sonata pian e
+					 forte</title> 
+				  <title type="transcribed">Sonata piano e forte</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Incomplete; first 38 measures only.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">102</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Gabrieli, Giovanni, ca.
+					 1554-1612</persname> 
+				  <title type="uniform">Sacrae symphoniae. Surrexit
+					 Christus</title> 
+				  <title type="transcribed">Motetto 16 aus Symph. Sacrae, 1615.
+					 Surrexit Christus ...</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Measures 59-64 of Motet 14 from the second book of Symphoniae
+					 Sacrae, starting with the text, Annunciate populus.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">103</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Galilei, Vincenzo, d.
+					 1591</persname> 
+				  <title type="uniform">Fronimo. Selections</title> 
+				  <title type="transcribed">Fronimo. Dialogo di Vincenzo Galilei.
+					 Venezia 1584 (Erste Ausgabe 1596)</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Contained on pages 283-285 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				  <p>Transcription in keyboard format.</p> 
+				  <p>Pages numbered 25-27.</p> 
+				  <p>Accompanied by leaf marked Beilage V.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ricercare del primo tuono per [natural sign] p. 80 -- Ricercare
+				  del sesto tuono per [natural sign] p. 81 -- Ricercare del settimo tuono per
+				  [natural sign] p. 82.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">104</container> 
+				<unittitle> 
+				  <persname role="composer" rules="aacr2">Galli, Giuseppe, fl.
+					 1598</persname> 
+				  <title type="uniform">Totius primi libri sacri operis musici.
+					 Mantegazza</title> 
+				  <title type="transcribed">La mantegazza: Totius libri primi sacri
+					 operis musici alterius modulis concinendi partitio seu quam praestantiss.
+					 Auctore Josepho Gallo. Studio et labore Aurelii Ribrochi edita. Mediolani 1598.
+					 </title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>6 pages of manuscript music ; 24 x 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcribed in keyboard format.</p> 
+				  <p>Pages numbered 9-14.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">105</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Gerle, Hans, ca.
+					 1500-1570</persname> 
+				  <title type="uniform">Musica teutsch. Selections</title> 
+				  <title type="transcribed">Abschriften aus Hans Gerle Musica
+					 teutsch, Nuremberg, 1532</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>19 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>"Nach S. W. Dehn's [ 
+					 <persname>Dehn, S. W. (Siegfried Wilhelm),
+						1799-1858</persname>] Uebertragung, Berlin, 1861 [i.e. 1851]"--Title page. This
+					 is Ms. 7370 in the Staatsbibliothek zu Berlin. </p> 
+				  <p>Transcriptions of tablature and keyboard realizations.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">106</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Hassler, Hans Leo,
+					 1564-1612</persname> 
+				  <title type="uniform">Lustgarten neuer teutscher Gesäng. Mein
+					 G'müt ist mir verwirret</title> 
+				  <title type="transcribed">Lustgarten. Eine Sammlung deutsche
+					 Lieder zu vier fünf sechs und achte Stimmen ... (1601). XXIV. Mein G'müt ist
+					 mir verwirret</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">107</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Henry VIII, King of
+					 England, 1491-1547</persname> 
+				  <title type="uniform">Pastyme with good companye</title> 
+				  <title type="transcribed">Pastyme with good companye</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Title from first line of text.</p> 
+				  <p>"See Archaeologia 41 (1867)"--Caption. It is a reference to
+					 William Chappell's article, with transcriptions, 
+				  <title type="article">Some account of an unpublished collection
+					 of songs and ballads by Henry VIII and his contemporaries</title>.</p> 
+				  <p>"From the Lamb Ms."--Caption. The manuscript is currently in
+					 the British Library as Add. 31922.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">108</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Josquin, des Prez, d.
+					 1521</persname> 
+				  <title type="uniform">Stabat Mater dolorosa/Comme femme
+					 desconforte´e</title> 
+				  <title type="transcribed">Stabat mater dolorosa. Vocum Josquin de
+					 Pres. Aus Sebastian Ochsenkuhn's Tabulaturbuch auff die Lauten, Heidelberg,
+					 1558</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Incomplete; transcription of five-voice setting accompanied by
+					 Ochsenkuhn's version transcribed on two staves.</p> 
+				  <p>Includes notes about other sources.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">109</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Judenku¨nig, Hans, ca.
+					 1450-1526</persname> 
+				  <title type="uniform">Lute music. Selections</title> 
+				  <title type="transcribed">Twelve selections in lute tablature
+					 from two works (1523) by Hans Judenkünig</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>12 pages of manuscript music; 26 x 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Manuscript transcription in ink of lute tablature.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Utilis et compendiaria introductio. Ode prima Mecoenas atavis --
+				  Madonna katerina, oder hast du mich genummen -- Christ ist erstanden -- Hast du
+				  mich genumen.</p> 
+				<p>Schone kunstliche Underweisung. Pavana alla Veneciana -- Das
+				  erst Priamell -- Ayn niderlendisch runden dantz -- Das ander Priamell -- Das
+				  drit Priamel -- Das fierd Priamel -- Ain Spaniyelischer hoff dantz -- Tropolus
+				  secret. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">110</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Kern, Jerome,
+					 1885-1945</persname> 
+				  <title type="transcribed">How'd you like to spoon with
+					 me</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 16 x 25
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript marked "Violin".</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>On verso: Pencil manuscript piano reduction of opening measures
+				  of Richard Wagner's opera, 
+				<title render="italic">Tristan und Isolde</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">111</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Kleber, Leonhard, ca.
+					 1495-1556</persname> 
+				  <title type="uniform">Tabulatur fu¨r die Orgel.
+					 Selections</title> 
+				  <title type="transcribed">Tabulatur fu¨r die Orgel: scriptum et
+					 finitum per Leonardum Kleber de Geppingen ultimaDecembrius 1524: Phorze in
+					 aedibus meio</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>24 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript transcriptions.</p> 
+				  <p>From the manuscript 40026 in the Staatsbibliothek Preussischer
+					 Kulturbesitz Berlin, Musikabteilung.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Abrecht die zyt -- Preambulum in re -- Philephos aves in fa,
+				  quatuor vocum, manualiter -- Preambulum in sol [natural] durum -- Preambulum in
+				  sol [flat] molle -- In fide recta -- Carmen italicum: Lemit le jor -- Si
+				  sumpsero: in ut manualiter -- Menter tota: in sol -- Illetadum bonum -- Lalahe
+				  : in ut manualiter -- Fantasy in fa -- La Spania in re / [Hans Buchner] --
+				  Preambulum in ut manualiter -- Fors seulement in la [natural]. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">112</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Kotter, Hans, ca.
+					 1485-1541</persname> 
+				  <title type="transcribed">Kotter Tabulatur: Basel (Bibl. Publ.
+					 Basiliensis) F IX 22: Sum Bonifacii Amerbachii Basiliensis : Nec muto dominum
+					 MDXIII</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>33 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript transcriptions.</p> 
+				  <p>Selections from tablature compiled by Hans Kotter in 1518,
+					 held in Universita¨tsbibliothek Basel.</p> 
+				  <p>Two manuscript leaves inserted with additional source material
+					 for Tanzmass Benzenauer.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Fundamentum totius artis musice artificialiter compositum et
+				  primo notandum cognoscere claves clavicordii -- Harmonia in sol / Kotter --
+				  Fortuna d'un gran tempo / Josquin -- Fantasia in ut / Kotter -- Spanieler /
+				  Kotter -- Prooemium in re / Kotter -- Preludium in la / Kotter -- Avaßo?? in fa
+				  / Kotter -- Praeambulum in fa / [Kotter] -- Prooemium in re / Kotter --
+				  Preludium in fa / Kotter -- Praeambulum in sol / Kotter -- Dantz moss.
+				  Benczenavher [Tanzmass Benzenauer and Nachtanz] / M.H.V. Constatz [Hans
+				  Buchner] -- Expecta ung pauco / Anonymous -- Ach hülf mich leid und semlich
+				  klag : 1.b / zu Constantz [Hans Buchner] -- </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">113</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Lasso, Orlando di,
+					 1532-1594</persname> 
+				  <title type="uniform">Chansons, voices (4-6), book 3. Susanne ung
+					 jour</title> 
+				  <title type="transcribed">Susanne ung jour. 1. 5 Stimmung Satz
+					 von Lassus, 2. Orgelbearbeitung von Andrea Gabrieli, 3. Anfang der
+					 Orgelbearbeitung von Ammerbach</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>12 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Two scores vertically aligned. The top score is in five staves
+					 for the five-voice setting of Lasso's work. The bottom score is the keyboard
+					 arrangement of Lasso's work on two staves. It is from the publication, Canzoni
+					 alla francese et ricercari ariosi tabulate per sonar sopra istromenti da tasti
+					 dall Andrea Gabrieli. Libro V. Venetia, 1605. There is a separate five-stave
+					 transcription ([3] pages) of the first fourteen measures of the Ammerbach
+					 tablature (1571). The first fourteen measure numbers of the Gabrieli score are
+					 marked with red pencil to indicate where the Ammerbach would align.</p> 
+				  <p>Contained on pages 264-274 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">114</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Lasso, Orlando di,
+					 1532-1594</persname> 
+				  <title type="uniform">Princeps Marte potens, Guilelmus.
+					 Selections</title> 
+				  <title type="transcribed">Princeps Marte potens</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>5 pages of manuscript music ; 27 x 34 cm. and 42
+				  parts ; 16-34 cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Parts for soprano 1, 2, Alto 1,2, Tenor 1,2, and Bass 1, 2.
+					 </p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>1st part: Princeps Marte potens -- 9th part: Vive pater
+				  patriae.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">115</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Legrenzi, Giovanni,
+					 1626-1690</persname> 
+				  <title type="uniform">Sonatas, op. 8. Fugazza. Selections</title>
+				  
+				  <title type="transcribed">Sonata von Gio. Legrenzi aus Sonate a
+					 3-5 &amp; sei stromenti (1663). La Fugazza</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript music of first twelve measures.</p> 
+				  <p>For Viol I and II, Viol alto, Viol tenore, and Viol da
+					 brazzo.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">116</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Lemlin, Lorenz, b. ca.
+					 1495</persname> 
+				  <title type="uniform">Gutzgauch auf dem Zaune sass</title> 
+				  <title type="transcribed">Der Gutzgauch</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>12 manuscript parts ; 12 x 27
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>For Soprano I and II, Alto, Tenor, and Bass I and II.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">117</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Lorenzo, da Firenze, d.
+					 1372 or 3</persname> 
+				  <title type="uniform">A poste messe</title> 
+				  <title type="transcribed">A poste messe, Florenz Med Laur. Am 87,
+					 Magister Laurentius da Florentia</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcription from Biblioteca Medicea-Laurenziana, Med.
+					 Palatino 87, Squarcialupi Codex, fol. 49v. </p> 
+				  <p>Transcription of the top voice only and no text.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">118</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Lorenzo, da Firenze, d.
+					 1372 or 3</persname> 
+				  <title type="uniform">Ita se n'er'a star</title> 
+				  <title type="transcribed">Magister Laurentius de Florentia: Flor.
+					 Med. Laur. Pal 87: Wolf III No. 49 p. 119</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>5 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcription from Biblioteca Medicea-Laurenziana, Med.
+					 Palatino 87, Squarcialupi Codex, fol. 46v. </p> 
+				  <p>First phrase of text: Ita se n'er'a star.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">119</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Luzzaschi, Luzzasco, d.
+					 1607</persname> 
+				  <title type="transcribed">Beilage VI: Luzzaschi</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript music. Pages numbered 17-19.</p> 
+				  <p>For six unspecified instruments. </p> 
+				  <p>The piece may be lacking its opening measures and it cannot be
+					 identified as a work by Luzzaschi. The title information is taken from a
+					 fragment of a wrapper. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">120</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Luzzaschi, Luzzasco, d.
+					 1607</persname> 
+				  <title type="uniform">Madrigali per cantare et sonare.
+					 Selections</title> 
+				  <title type="transcribed">Madrigali per cantare et sonare, Roma
+					 1601</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>32 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>For one, two, or three sopranos and keyboard accompaniment.
+					 </p> 
+				  <p>Contained on pages 286-295 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Aura soave -- O primavera -- Ch'io non t'ami -- Stral pungente
+				  d'amore -- Deh vieni ormai -- I' mi son giovinetta -- T'amo mia vita.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">121</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Malvezzi, Cristofano,
+					 1547-1599</persname> 
+				  <title type="uniform">Intermedii et concerti, fatti per la
+					 commedia rappresentata in Firenze. Selections I </title> 
+				  <title>Two works from the intermedi for the marriage of
+					 Ferdinando Medici and Christine of Lorraine in 1589</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>6 pages of manuscript music ; 24 x 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Originally published in Venice by G. Vicenti, 1591. The
+					 edition was edited by Malvezzi, who also contributed music.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Secondo intermedio. Sinfonia [for five instruments] / Luca
+				  Marenzio -- Primo intermedio. Dalle più alte sfere [transcribed as voice and
+				  accompaniment in keyboard reduction] / Antonio Archilei [possibly by Emilio de
+				  Cavalieri]</p> 
+				<p>Contained on pages 306-312 of Kinkeldey's 
+				<title render="italic">Orgel und Klavier in der Musik des 16.
+				  Jahrhunderts.</title></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">122</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Mazzone, Marc'Antonio,
+					 fl. 1569-1593</persname> 
+				  <title type="uniform">Primo libro delle Magnificat. Selections
+					 </title> 
+				  <title type="transcribed">Primo libro delle Magnificat composto
+					 da Don Marc'Antoniio Mazzone di Miglionico. In nouvo stile corrente, et commodo
+					 non solo ... </title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Originally published Venice: A. Gardane, 1593. </p> 
+				  <p>Transcription on four staves with text.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ave maris stella -- Magnificat primo toni (Anima dea).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">123</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Melli, Domenico Maria,
+					 b. 1572</persname> 
+				  <title type="uniform">Musiche. Selections </title> 
+				  <title type="transcribed">Le primo musiche el Signor Domenico
+					 Maria Melli ... Veneta ... 1609. 18 Stücke für 1 Stimme mit unbezifferten
+					 Bass</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>8 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Title of Le Seconde Musiche transcribed on page 7. </p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Primo Musiche. No. 1. Arde il cor e non chiede a l'ardor suo ;
+				  No. 2. S'a la gelata mia timida lingua ; No. 15. Fu cosi grave il duolo mio --
+				  Seconde Musiche. No. 1. Languisco e moro, ahi cruda</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">124</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Milán, Luis, 16th
+					 cent.</persname> 
+				  <title type="uniform">Maestro. Selections</title> 
+				  <title type="transcribed">Libro de musica de vihuela de mano.
+					 Intitulado. El Maestro ... Compuesto por don Luys Milan</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>22 pages of manuscript text and music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcription of portions of the text, a drawing of the
+					 instrument, and four of the fantasias in the original tablature.</p> 
+				  <p>Originally issued 1536.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">125</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Newsidler, Hans,
+					 1508-1563</persname> 
+				  <title type="uniform">Newgeordent kunstlich Lautenbuch.
+					 Selections</title> 
+				  <title type="transcribed">Miscellanea aus Ein newgeordent
+					 künstlich Lautenbuch, Hans Neusidler, Luturisten und Bürger zur Nürnberg,
+					 1536</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>19 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcriptions on two-stave keyboard format.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Theil II. No. IX (fol. D II) : Tus Biens / Ghiselin -- Theil II.
+				  No. X (Fol. D III v): Ein gut triu mit schönen fugen -- Theil I (Fol. s III):
+				  Preambel [1] -- [Theil I.] (Fol. s III v): Preambel [2] -- [Theil I.] (Fol. s
+				  IIII): Preambel [3] -- Preambel (fol. IIII v.) -- Ein gut Preambel (fol. X III)
+				  -- Theil II. [No.] I (fol. A III): Ein sehr guter organistischer preambel--
+				  Theil II. No. XIX (Fol. H I v): Juli amors / Ghiselin -- [Theil II. No.] XX
+				  (fol. H IIII) : Si sumpsero / Obrecht. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">126</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Nivers,
+					 Guillaume-Gabriel, 1632-1714</persname> 
+				  <title type="uniform">Livre d'orgue, no. 1. Selections</title> 
+				  <title type="transcribed">Livre d'orgue conten. 100 pièces de
+					 tous les tons de l'eglise, Paris 1665 chez Ballard, Paris Bibl. Nat. Vm
+					 1416</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 page of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Prelude du 1 ton (page 1) -- Fugue (page 2) -- Diminution de la
+				  basse (page 3).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">127</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Piero, Maestro, fl.
+					 1340-1350</persname> 
+				  <title type="uniform">Selections</title> 
+				  <title>Two works by Magister Piero</title> , 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>7 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcribed from the manuscript Biblioteca Nazionale in
+					 Florence Pan. 26.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Con dolce brama [for three voices] -- Ogni dilletto [for two
+				  voices].</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">128</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Praetorius, Michael,
+					 1571-1621</persname> 
+				  <title type="uniform">Musae Sioniae, 5. T. In dulci jubilo (No.
+					 81)</title> 
+				  <title title="transcribed">In dulci jubilo: Mus. Sion V, Nr. 81
+					 (1607)</title> , 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Pencil manuscript.</p> 
+				  <p>Transcribed without text.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">129</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Ripa, Alberto da, d.
+					 1551</persname> 
+				  <title type="uniform">Fantasies, lute, no. 1</title> 
+				  <title type="transcribed">Fantasie : Albert de Rippe de Mantoue
+					 (1553) : Liv. I, Fantas I (f. 1): F 2897</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Incomplete transcription in keyboard format.</p> 
+				  <p>From Ripa's 
+				  <title render="italic">Premier livre de tabulature da leut,
+					 contenant plusieurs chansons et fantasies </title>(1553).</p> 
+				  <p>At head of caption title: Abschriften aus Fleischer's Französ
+					 Abschriften (possible reference to Oskar Fleischer?).</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">130</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Rognoni Taeggio,
+					 Francesco</persname> 
+				  <title type="uniform">Canzonas. Rigamonta</title> 
+				  <title type="transcribed">Partito delle canzoni à 4 &amp; 8 voci
+					 di Gio. Domenico Rognoni Taeggio, Milano 1605 : La Rigamonta, Canzon
+					 13</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>2 pages of manuscript music ; 24 x 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcribed in keyboard format.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">131</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Schmid, Bernhard,
+					 1535-1592</persname> 
+				  <title type="uniform">Neue kunstliche Tabulatur. Alemando
+					 novelle</title> 
+				  <title type="transcribed">Alemando novello : Ein guter neuer
+					 Dantz (Strassburg 1577)</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">132</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Schmid, Bernhard,
+					 1567-1625</persname> 
+				  <title type="uniform">Tabulatur Buch. No. 68. Selections</title> 
+				  <title type="transcribed">Tabulaturbuch 1607 (Strassburg). No.
+					 68: Fuga à 4 And. Gabr. (Fol NIIIv)</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Incomplete: consists of first ten measures.</p> 
+				  <p>Transcription in keyboard format from tablature of Number 68,
+					 Fuga quarta, by Andrea Gabrieli. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">133</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Schumann, Robert,
+					 1810-1856</persname> 
+				  <title type="uniform">Gedichte, op. 30. Hidalgo. English</title> 
+				  <title type="transcribed">Der Hidalgo, op. 30, no. 3 : comp 1840
+					 : orig. D major / R. Schumann ; [text by] E. Geibel ; Engl. by Lewis
+					 Novra</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 31
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Vocal line only, with English text. It is incomplete.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">134</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Sermisy, Claudin de, ca.
+					 1490-1562</persname> 
+				  <title type="uniform">Content est riche en ce monde</title> 
+				  <title type="transcribed">I Libro de le canzoni francese --- per
+					 Andrea Antigo intagliate. Venedig (O. Scotto) 1535</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Two double-staved scores vertically aligned. The top score
+					 contains only the altus and bass voice parts of Sermisy's chanson with the text
+					 written beneath the top voice. This matches the copy in the Bayerische
+					 Staatsbibliothek, Munich. The bottom score is the keyboard arrangement
+					 contained in Pierre Attaingnant's 1530 Paris publication, 
+				  <title>Vingt et six chansons musicales</title>. </p> 
+				  <p>Note in caption: Aus Beilage IV.</p> 
+				  <p>Contained on pages 260-263 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">135</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Sperontes,
+					 1705-1750</persname> 
+				  <title type="uniform">Singende Muse an der Pleisse.
+					 Selections</title> 
+				  <title type="transcribed">Singende Muse an der Pleisse. Theil 1
+					 No. 8 </title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>5 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript with pencil emendations.</p> 
+				  <p>The first two transcriptions include the first verse of
+					 related texts.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>[No. 8 Bourée] Ihr Grillen weicht, ihr Sorgen flieht -- [No. 9
+				  Murki] Unter hunderttausend Schönen -- [No. 1 Air] [Ein edles Herz ist stets
+				  vernügt (two copies) -- [No. 6 Air allegro] [Alles, alles, hör' ich an].</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">136</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Susato, Tielman, fl.
+					 1529-1561</persname> 
+				  <title type="uniform">Danserye. Selections</title> 
+				  <title type="transcribed">Three dances by Tielman Susato</title>,
+				  
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Bergerette : Antwerpen 1551 -- Danse du Roy : Antwerpen 1551 --
+				  Saltarelle : Antwerpen 1551.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">137</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Thomas de Sancta Maria,
+					 fray, d. 1570</persname> 
+				  <title type="uniform">Arte de tan~er fantasi´a.
+					 Selections</title> 
+				  <title type="transcribed">Arte de tan~er fantasi´a
+					 (1565)</title>, 
+				  <unitdate type="inclusive"
+				  normal="1904-09-24">undated</unitdate></unittitle> 
+				<physdesc><extent>26 pages of manuscript music ; 33-35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcribed in keyboard format.</p> 
+				  <p>Contained on pages 236-244 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Der erste modus (Fol 67v) -- Der zwierte modus (Fol 68) -- Der
+				  dritte modus (Ebenda) -- El quarto tono ... (Fol 68v) [crossed out version] --
+				  Der vierte modus (Fol 68v) -- Der erste modus auf C (Fol 72v) -- Primero por
+				  gesolreut ([Fol 72v]) -- Die Harmoniesierung einer Melodie (Th. II Fol 32v) --
+				  Vollstandige Harmonie-Wechsel (Fol 33) Oktavschritte im Bass (Ebenda) -- Wie
+				  man beim Fantasieren vorgeht (Th. II, Fol 120v) -- [Fantasie concierto] ([Th.
+				  II],Fol 121) -- Exemplo de unisonar a quatro semibreves por las compuestas
+				  ([Th. II], Fol 42) -- Exemplo de quando entra primero el contrabaxo (Th. II,
+				  Fol 73v) -- Quando el passo se haze en quarta ... (Th. II, Fol 74) -- [Quando
+				  el passo se haze quinta ...] ([Th. II], Fol 75) -- Exemplo de quando la voz del
+				  un duo ... ([Th. II], Fol 77) -- Exemplo de quando en lugar del segundo duo, se
+				  tañen a tres vozes con diversas consonancias ... ([Th. II], Fol 78) -- Exemplo
+				  de quando las mismas vozes que han concluydo el passo ... ([Th. II], Fol 79) --
+				  Del modo de tañer los passos sueltos Cap. XXXV ([Th. II], Fol 79v) -- Arte de
+				  tañer (([Th. II], Fol 80) -- Del modo de asir un duo con otro sin clausula Cap.
+				  XXXVIII ([Th. II], Fol 82v) -- [Exemplo de todo lo sobre dicho] ([Th. II], Fol
+				  83v) -- Del entrar las vozes medio copas antes dela clausula ([Th. II], Fol 90)
+				  -- Del entrar las vozes enel segundo lugar dela clausula ([Th. II], Fol 106) --
+				  Primero del cesolfaut ([Th. I], Fol 72v) [two copies].</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">138</container> 
+				<unittitle> 
+				  <title type="transcribed">Trostlicher Liebe</title>in seven
+				  versions, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Sources include compilations by Hans Gerle and Hans
+					 Newslider.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">139</container> 
+				<unittitle> Venetianische Opera Sinfonien. Abschriften von
+				  Kretzschmar, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>3 manuscript scores (16, [1], [5] pages) ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Title from 16 page score.</p> 
+				  <p>Possibly related to Hermann Kretzschmar's article, 
+				  <title>Die venetianische Oper und die Werke Cavallis und
+					 Cestis’</title> in 
+				  <title>Vierteljahrsschrift für Musikwissenschaft </title>: viii
+				  (1892), 1–76.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Score 1. Sinfonie zu Doriclea, 1645 ; Sinfonie zu Eligobalo,
+				  1659 ; Ercole, 1662 / Fr. Cavalli ( 
+				  <persname normal="Cavalli, Pier">Cavalli, Pier Francesco,
+					 1602-1676</persname>) -- Il Tito, 1666 ; Argia, 1669. Prologue and Act I, scene
+				  1 opening / M. A. Cesti ( 
+				  <persname>Cesti, Antonio, 1623-1669</persname>) -- Marcello, 1670
+				  / G. Ant. Boretti ( 
+				  <persname>Boretti, Giovanni Antonio, ca. 1640-1672</persname>) --
+				  Seleuco, 1666. Sinfonia and Act III, scene 15 ; Adelaide (Trompetenouverture),
+				  1672 / M. A. Sartorio ( 
+				  <persname>Sartorio, Antonio, 1630?-1681</persname>) -- Candaule,
+				  1679 / PoA. Ziani ( 
+				  <persname>Ziani, Pietro Andrea, 1616-1684</persname>). </p> 
+				<p>Score 2. Sinfonie avant opera Griselda (1721, Text Rusponi)
+				  [incomplete Presto movement] / A. Scarlatti ( 
+				  <persname>Scarlatti, Alessandro, 1660-1725</persname>).</p> 
+				<p>Score 3. Sinfonie [complete three movement Sinfonia from the
+				  opera L'Amor volubile, e tiranno] / Scarlatti ( 
+				  <persname>Scarlatti, Alessandro, 1660-1725</persname>).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">140</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Verovio, Simone, fl.
+					 1575-1608</persname> 
+				  <title type="uniform">Diletto spirituale. Selections</title> 
+				  <title type="transcribed">Diletto spirituale, Canzonette a tre a
+					 quattro voci composte de diversi eccmi. musici, Racolta da Simone Verovio ...
+					 Roma, 1586</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 pages of manuscript music ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Pages numbered 21-24.</p> 
+				  <p>Contained on pages 280-282 of Kinkeldey's 
+				  <title render="italic">Orgel und Klavier in der Musik des 16.
+					 Jahrhunderts.</title></p> 
+				  <p>Accompanied by earlier draft (4 page ink manuscript).</p> 
+				  <p>Accompanied by leaf marked Beilage V.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Jesu decus angelicum / Felice Anerio -- Jesu mi dulcissime /
+				  Felix Anerius.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">141</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Vicentino, Nicola,
+					 1511-ca. 1576</persname> 
+				  <title type="uniform">Antica musica ridotta alla moderna
+					 prattica. Dolce mio ben</title> 
+				  <title type="transcribed">Essempio della prima parte di uno
+					 madrigale a quattro voci ... </title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>2 pages of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>From Vicentino's 
+				  <title render="italic">Antica musica ridotta alla moderna
+					 prattica</title>, Rome, A. Barre, 1555, Book III, Chapter 52, fol. 67v.</p> 
+				  <p>Transcribed without accompanying words.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">142</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Virdung, Sebastian, b.
+					 1465?</persname> 
+				  <title type="uniform">Musica getutscht. Sancta et immaculata
+					 virginita</title> 
+				  <title type="transcribed">Aus Virdungs Musica getutscht, 1511.
+					 Sancta et immaculata virginitas ...</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 page of manuscript music ; 34
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Transcription in keyboard format.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">143</container> 
+				<unittitle> 
+				  <persname role="composer" source="lcnaf">Warren, Samuel P.
+					 (Samuel Prowse), 1841-1915</persname> 
+				  <title type="uniform">Solomon's prayer</title> 
+				  <title type="transcribed">Solomon's prayer (I Kings VIII): choir
+					 responses</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>4 manuscript music parts ; 33
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Parts (2 pages each) for soprano, alto, tenor, and bass.</p> 
+				  <p>Slightly different from the same responses published in 
+				  <title render="italic">Selected readings for the church service,
+					 with choir responses</title> (1909), with readings selected by James M. Ludlow
+				  and music by Samuel P. Warren. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">144</container> 
+				<unittitle> 
+				  <persname>Unidentified</persname> Fanfares for brass and timpani,
+				  
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 manuscript score (2 pages) and 8 manuscript
+				  instrumental parts ; 35 cm.</extent></physdesc> 
+				<note> 
+				  <p>Ink manuscript.</p> 
+				  <p>Parts for Tromba in C I, II, and II, Corno in F I and II (on
+					 one page), Trombone I and II (on one page), and Timpani. </p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Seven short works for which only the trumpet parts contain all
+				  of the music.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">145</container> 
+				<unittitle> 
+				  <persname>Unidentified</persname> Tanz, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 page of manuscript music ; 35
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Scored for four unspecified instruments.</p> 
+				  <p>Ink manuscript.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">146</container> 
+				<unittitle> 
+				  <persname role="composer">Unidentified</persname> 
+				  <title type="transcribed">Tho I speak with the tongues of men and
+					 of angels, and have not love</title>, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 leaf of manuscript music ; 27 x 25
+				  cm.</extent></physdesc> 
+				<note> 
+				  <p>Pencil manuscript.</p> 
+				  <p>Fragment consisting chiefly of a single melody line in bass
+					 clef with text beneath it.</p> 
+				  <p>Text from the Bible, Corinthians I:13.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <persname source="lcnaf" encodinganalog="700" role="creator">Hanson,
+			 Howard, 1896-1981</persname> 
+		  <corpname encodinganalog="710" role="contributor"
+		  rules="aacr2">Committee on Graduate Study in Music</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Musicologists</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music--Instruction and
+			 study--United States</subject>
+		  <subject source="lcsh" encodinganalog="650">Music in universities and
+			 colleges--United States</subject> 
+		  <subject source="lcsh" encodinganalog="650">Musical notation</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Kinkeldey,
+			 Otto, 1878-1966--Archives</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+		  
+		  <genreform encodinganalog="655" source="aat">Offprints</genreform> 
+		  <genreform encodinganalog="655" source="aat">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Other Institutions</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://resolver.library.cornell.edu/cgi-bin/EADresolver?id=RAM01000"
+					 show="new" actuate="onrequest" role="text/html"> Otto Kinkeldey Papers,
+						1902-1966 </archref> 14-20-1000 </label> 
+				  <item>Cornell University's collection contains personal and
+					 professional papers, correspondence, teaching materials, and photographs.
+					 </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://www.nypl.org/archives/2749?iamaselector=" show="new"
+					 actuate="onrequest" role="text/html"> Otto Kinkeldey Papers, 1908-1962
+						</archref> JPB 86-16</label> 
+				  <item>New York Public Library's collection contains personal and
+					 professional papers and correspondence. </item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

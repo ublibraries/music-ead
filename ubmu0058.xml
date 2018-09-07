@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 58::Christopher Coover Collection of Theater Broadsides)//EN">ubmu0058</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Christopher
+			 Coover Collection of Theater Broadsides, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1790/1868">1790-1868</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Coover (Christopher)
+			 Collection of Theater Broadsides</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2012</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, March 2012.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Christopher Coover
+		  Collection of Theater Broadsides, 
+		  <unitdate encodinganalog="245$f" normal="1790/1868" type="inclusive"
+			datechar="creation"> 1790-1868</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 58</unitid> 
+		<origination label="Collector"> 
+		  <persname encodinganalog="100" role="collector" source="lcnaf"> Coover,
+			 Chris</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="item" encodinganalog="300$a">(18 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Collection of
+		  seventeen (and one duplicate) theater broadsides dating from 1790-1868 for
+		  performances in Boston, Massachusetts (2), London, England (14), and York,
+		  England (1).</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Christopher Coover Collection of Theater
+			 Broadsides, 1790-1868, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Collection contents in the public domain.</p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Purchased in New York City by Christopher Coover, circa 1975-1976.
+			 Given to the Music Library by Christopher Coover, December 2010.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>Digital images of the broadsides combined with text transcriptions
+			 are linked from the container list.</p> 
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley February 2012.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist> 
+		<head>Biographical Note</head> 
+		<p>Christopher Coover received his Bachelor of Arts degree in Music from
+		  the State University of New York at Buffalo in 1973. While at the university he
+		  studied lute. After leaving Buffalo he moved to New York City where he earned a
+		  degree in library science at Columbia University in 1983. He began working for
+		  the noted auction house, Christie's, in 1980 and at this writing is a senior
+		  vice president and specialist in manuscripts at Christie’s in New York City. He
+		  has also served as an appraiser on the popular television program, Antiques
+		  Roadshow.</p> 
+	 </bioghist> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>Theater broadsides, or playbills, contain more than just a record of
+		  theatrical performances and practices. They also reflect contemporaneous
+		  cultural tastes and often contain allusions to historical events. One aspect of
+		  the information that is most easily appreciated is the repertoire of music and
+		  plays stated in the playbills. Shakespeare is the most-performed playwright in
+		  this collection that spans the years 1790-1868. Performances of fourteen of his
+		  plays are advertised on eleven of the playbills for a total of twenty
+		  performances. There are more than seventy works named in the collection and
+		  approximately four hundred names, including managers, singers, dancers,
+		  authors, actors, printers, and other performers. Notable names include Henry R.
+		  Bishop, John Braham, Angelica Catalani, Christy Minstrels, Mrs. Faucit (Harriet
+		  Elizabeth Diddear), Fanny Elssler, Catherine Hayes, Charles Benjamin Incledon,
+		  Robert Keeley, William Macready, Henry Marston, Samuel Phelps, John Sinclair,
+		  Catherine Stephens, John Vandenhoff, and Benjamin Webster.</p> 
+		<p> Represented on the playbill for the 1868 Boston Theatre performance
+		  is a rare American performance by French performer, Jules Leotard (1842-1870).
+		  Leotard is usually credited with being the first trapeze artist. The article of
+		  clothing, the leotard, is named after the costume he made famous and the George
+		  Leybourne song, 
+		<title>The Daring young man on the flying trapeze</title>, was inspired
+		by Leotard.</p> 
+		<p>The collection contains nine playbills from the Sadler's Wells
+		  Theatre. They represent the entire span of years (1844-1862) during which the
+		  theater was managed and directed by Samuel Phelps. The first playbill in the
+		  sequence, dated 11 August 1844, is presumably the first playbill for the
+		  theater under the new management of Phelps and Mary Warner. Its verso contains
+		  a lengthy statement about the goals for the theater with reference to the 1843
+		  Theatre Regulation Act. The nine playbills for Sadler's Wells give proof to
+		  Phelps' goals for a higher level of programming. Over the course of his
+		  thirteen-year management there were thirty performances of Shakespeare plays.
+		  The collection also contains a playbill for a performance by Samuel Phelps at
+		  Sadler's Wells on 25 October 1862. This was after he had resigned from the
+		  theater and the playbill advertises an upcoming performance as being his
+		  farewell benefit.</p> 
+		<p>The playbill for Sadler's Wells dated 22 September 1849 contains an
+		  unusual statement: "... this evening, Friday, Sept. 21st, there will be no
+		  performance, in consequence of the Churchwardens of the Parish having appointed
+		  the day as one of humiliation and prayer". This is most likely due to the
+		  cholera epidemic that killed more than 33,000 people in Great Britain in 1849,
+		  including approximately 13,000 people in London. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>This collection of seventeen theatrical broadsides contains examples
+		  from the Boston Theatre (1) and Tremont Theatre (1) in Boston, Massachusetts,
+		  the Royal Theatre (3) and Royal Italian Opera (1), Covent Garden and the
+		  Sadler's Wells Theatre (9), and the Saint James' Theatre (1) in London,
+		  England, and the Theatre Royal (1) in York, England. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged by city of origin and then alphabetically
+		  by theater. Multiple broadsides under a single theater are arranged
+		  chronologically.</p> 
+		<list type="simple"> 
+		  <item> 
+			 <ref target="series1" actuate="onrequest" show="replace">I. Boston,
+				Massachusetts, United States</ref> </item> 
+		  <item> 
+			 <ref target="series2" actuate="onrequest" show="replace">II.
+				England</ref> </item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Boston, Massachusetts, United States 
+				<unitdate type="inclusive" normal="1840/1868">1840-1868 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Item 1-Item 2</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">01</container> 
+				<unittitle> 
+				  <corpname source="lcnaf">Boston Theatre (Washington Street,
+					 Boston, Mass.)</corpname>, 
+				  <unitdate normal="1868-11-10" type="inclusive">10 November
+					 1868</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="../xtf/data/pdf/music/documents/ubmu0058_01.pdf"
+				actuate="onrequest" show="new"> 
+				</dao> 
+				<physdesc><extent>1 broadside ; 51 cm. x 21 cm.</extent></physdesc>
+				
+			 </did> 
+			 <scopecontent> 
+				<p>Reduced title transcription: 
+				<title type="transcribed">Boston Theatre … J. B. Booth, Lessee and
+				  manager : Brief engagement of the wonder of the world! The unapproachable and
+				  only Leotard who will appear in his great Zampillaerostation, or Flight in the
+				  Air! Which will be preceded on Tuesday, Nov. 10th … by the popular sensation
+				  play, entitled After Dark ... F. A. Searle, Job Printer, 118 Washington Street,
+				  Boston</title></p> 
+				<p>Works named: 
+				  <list type="simple"> 
+					 <item> 
+						<persname source="lcnaf">Boucicault, Dion,
+						  1820-1890</persname>: 
+						<title>After dark</title></item> 
+				  </list></p> 
+				<p>Personnel named include: 
+				  <list type="simple"> 
+					 <item>Louis Aldrich ( 
+						<persname source="lcnaf">Aldrich, Louis,
+						  1843-1901</persname>)</item> 
+					 <item> J. B. Booth ( 
+						<persname source="lcnaf">Booth, Junius Brutus,
+						  1821-1883</persname>)</item> 
+					 <item>Stuart Clarke (possibly same as John Stuart Clarke) ( 
+						<persname rules="aacr2">Clarke, Stuart, 19th
+						  cent.</persname>)</item> 
+					 <item>S. H. Forsberg ( 
+						<persname rules="aacr2">Forsberg, S. H. (Shirley
+						  Harold)</persname>)</item> 
+					 <item>Shirley France ( 
+						<persname rules="aacr2">France, Shirley Henry,
+						  1839-1879</persname>)</item> 
+					 <item>J. F. Hagan ( 
+						<persname rules="aacr2">Hagan, J. F. (James
+						  F.)</persname>)</item> 
+					 <item>Jules Leotard ( 
+						<persname source="lcnaf">Leotard, Jules</persname>)</item> 
+					 <item>A. Leonard ( 
+						<persname rules="aacr2">Leonard, Ambrose</persname>)</item> 
+					 <item>Jas. Lewis ( 
+						<persname rules="aacr2">Lewis, James, d.
+						  1896</persname>)</item> 
+					 <item>D. J. Maguinnis ( 
+						<persname rules="aacr2">Maguinnis, D. J. (Daniel J.),
+						  1834-1889</persname>)</item> 
+					 <item>Miss Rachel Noah ( 
+						<persname source="lcnaf">Noah, Rachel,
+						  1845-1879</persname>)</item> 
+					 <item>J. D. Russell (real name J. R. Clark; also known as
+						Clarke, Russell, J. R. Dutton, R. Arnott, Russell Girard) ( 
+						<persname rules="aacr2">Russell, J. D., 19th
+						  cent.</persname>)</item> 
+					 <item>J. Scott ( 
+						<persname rules="aacr2">Scott, J., 19th
+						  cent.</persname>)</item> 
+					 <item>F. A. Searle (printer) ( 
+						<persname source="lcnaf">Searle, Frederick
+						  A.</persname>)</item> 
+					 <item>A. Soup ( 
+						<persname rules="aacr2">Soup, A., 19th
+						  cent.</persname>)</item> 
+					 <item>Mr. C. R. Thorne, Jr. ( 
+						<persname source="lcnaf">Thorne, Charles Robert,
+						  1840-1883</persname>)</item> 
+					 <item>Miss Rachel Noah ( 
+						<persname source="lcnaf">Noah, Rachel, 1845-1879
+						  </persname>)</item> 
+					 <item>Miss Helen Tracy ( 
+						<persname rules="aacr2">Tracy, Helen, fl.
+						  1870-1908</persname>)</item> 
+					 <item>H. A. Weaver ( 
+						<persname rules="aacr2">Weaver, H. A. (Henry A.), 19th
+						  cent.</persname>)</item> 
+					 <item>S. J. Willis ( 
+						<persname rules="aacr2">Willis, S. J. (Sarell J.)
+						  </persname>)</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">02</container> 
+				<unittitle> 
+				  <corpname source="lcnaf">Tremont Theatre (Boston,
+					 Mass.)</corpname>, 
+				  <unitdate normal="1840-09-07" type="inclusive">7 September
+					 1840</unitdate></unittitle> 
+				<dao linktype="simple"
+				href="../xtf/data/pdf/music/documents/ubmu0058_02.pdf"
+				actuate="onrequest" show="new"/> 
+				<physdesc><extent>1 broadside ; 36 x 16 cm.</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Reduced title transcription: 
+				<title type="transcribed">Tremont Theatre : First appearance in
+				  Boston of Mademoiselle Fanny Elssler … She will make her debut in the grand
+				  ballet of La Tarentule! And will appear in her celebrated dance of the
+				  Cracovienne! : First appearance of Mons. J. Sylvain from the Royal Academie,
+				  Paris … This evening, Monday, Sept. 7th, 1840, will be presented … La Tarentule
+				  … to be followed by the farce, in one act, called The Captain is Not Amiss! ...
+				  The performance will commence with the prelude of the Bath Road … The comedy of
+				  Nicholas Nickleby is in revival : Mr. and Mrs. Creswick are engaged, and will
+				  shortly appear … Eastburn's Press, 18 State Street [Boston] </title></p> 
+				<p>Works named: 
+				  <list> 
+					 <item> 
+						<persname source="lcnaf">Wilks, Thomas Egerton,
+						  1812-1854</persname>: 
+						<title>Captain is not amiss</title></item> 
+					 <item> 
+						<persname source="lcnaf">Poole, John, 1786?-1872</persname>: 
+						<title>Intrigue, or, The Bath Road</title></item> 
+					 <item> 
+						<persname source="lcnaf">Everpoint, 1810-1856</persname>. 
+						<title rules="aacr2">Nicholas Nickleby</title></item> 
+					 <item> 
+						<persname source="lcnaf">Dickens, Charles,
+						  1812-1870</persname>. 
+						<title source="lcnaf">Nicholas Nickleby</title></item> 
+				  </list></p> 
+				<p>Personnel named include: 
+				  <list> 
+					 <item>Mr. Andrews ( 
+						<persname source="lcnaf">Andrews, George H.,
+						  1798-1866</persname>)</item> 
+					 <item>Mrs. Ayling ( 
+						<persname rules="aacr2">Ayling, W. L., Mrs., b.
+						  1819</persname>)</item> 
+					 <item>Mr. Benson ( 
+						<persname rules="aacr2">Benson, Mr., 19th
+						  cent.</persname>)</item> 
+					 <item>Miss Boquet ( 
+						<persname rules="aacr2">Boquet, Miss</persname>)</item> 
+					 <item>Mr. Creswick ( 
+						<persname source="lcnaf">Creswick, William,
+						  1813-1888</persname>)</item> 
+					 <item>Mrs. Creswick ( 
+						<persname rules="aacr2">Creswick, Elizabeth, d.
+						  1876</persname>)</item> 
+					 <item> 
+						<corpname source="lcnaf">Eastburn's Press</corpname></item> 
+					 <item>Mrs. Fanny Elssler ( 
+						<persname source="lcnaf">Elssler, Fanny,
+						  1810-1884</persname>)</item> 
+					 <item>Mr. S. D. Johnson ( 
+						<persname source="lcnaf">Johnson, Samuel D.,
+						  1813-1863</persname>)</item> 
+					 <item>Mr. Leman ( 
+						<persname source="lcnaf">Leman, Walter Moore, b.
+						  1810</persname>)</item> 
+					 <item>Muzzy ( 
+						<persname rules="aacr2">Muzzy, Charles, d.
+						  1852</persname>)</item> 
+					 <item>Mons. J. Sylvain ( 
+						<persname source="lcnaf">Silvain, James, d.
+						  1856</persname>)</item> 
+					 <item>Mrs. W. H. Smith ( 
+						<persname rules="aacr2">Smith, Sarah Riddle,
+						  1808-1861</persname>)</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II .</unitid> 
+			 <unittitle>England, 
+				<unitdate type="inclusive" normal="1790/1862">1790-1862 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Item 3-Item 17 </extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged into two subseries: 
+				<list> 
+				  <item> 
+					 <ref target="series2a" actuate="onrequest" show="replace">A.
+						London</ref></item> 
+				  <item> 
+					 <ref target="series2b" actuate="onrequest" show="replace">B.
+						York</ref></item> 
+				</list></p> 
+		  </arrangement> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2a">II. A</unitid> 
+				<unittitle>London, 
+				  <unitdate normal="1814/1862"
+				  type="inclusive">1814-1862</unitdate></unittitle> 
+				<physdesc><extent>Item 3-Item 16</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Arranged into three subseries: 
+				  <list> 
+					 <item> 
+						<ref target="series2a1" actuate="onrequest"
+						show="replace">Covent Garden (including its Royal Italian Theatre)</ref></item>
+					 
+					 <item> 
+						<ref target="series2a2" actuate="onrequest"
+						show="replace">Theatre Royal, Sadler's Wells</ref></item> 
+					 <item> 
+						<ref target="series2a3" actuate="onrequest"
+						 show="replace">Saint James' Theatre</ref></item> 
+				  </list></p> 
+			 </arrangement> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid id="series2a1">2. A. 1</unitid> 
+				  <unittitle>Covent Garden Theatre, 
+					 <unitdate normal="1814/1860"
+					 type="inclusive">1814-1860</unitdate></unittitle> 
+				  <physdesc><extent>Item 3-Item 6</extent></physdesc> 
+				</did> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">03</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Covent Garden Theatre</corpname> 
+						<unitdate normal="1814-03-11" type="inclusive">11 March
+						  1814</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_03.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 31 x 18 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal Covent-Garden : This present Friday, March
+						11, 1814 will be performed a Grand Selection from the compositions of the most
+						favorite authors, ancient and modern. In which Madame Catalani will sing Holy,
+						holy, Lord, Sul margine, with new variations by Pucitta, the Duetto Ah
+						perdonna, with Mr. Braham, and at the end of the first act, the national air of
+						God save the King … Between the first and second parts, Mr. S. Wesley will (by
+						desire) repeat his new concerto for the organ and on Wednesday will be
+						performed the first act of the Creation, composed by Dr. Haydn, with two grand
+						miscellaneous acts … The new dramatick romance called The Wandering Boys, or,
+						the Castle of Olival, continuing to be well received … will be repeated
+						tomorrow. The new opera of the Farmer’s wife continues to be received with the
+						most enthusiastic applause … and will be repeated on Tuesday next. Tomorrow,
+						the Beggar’s opera, compressed into two acts … After which, the Farce of The
+						Pannel … Shakspeare’s tragedy of King Richard the Third will be performed on
+						Monday … to which will be added the Melo-Drama of Aladdin; or, The Wonderful
+						lamp. On Tuesday … the new opera of The Farmer’s wife with the new pantomime of
+						Harlequin &amp; the swans; or, the Bath of beauty … [Printed by] E. Macleish, 2
+						Bow Street.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Bishop, Henry R. (Henry Rowley),
+								Sir, 1786-1855</persname>: 
+							 <title>Aladdin</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Bishop, Henry R. (Henry Rowley),
+								Sir, 1786-1855</persname>: 
+							 <title>Farmer's wife</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Gay, John, 1685-1732</persname>:
+							 
+							 <title>Beggar's opera</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Haydn, Joseph,
+								1732-1809</persname>: 
+							 <title>Schöpfung</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Kemble, John Philip,
+								1757-1823</persname>: 
+							 <title>Pannel</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Kerr, John, fl.
+								1814-1834</persname>: 
+							 <title>Wandering boys</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>King Richard III</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Ware, W. (William)</persname>: 
+							 <title>Harlequin and the swans, or, The bath of
+								beauty</title></item> 
+						</list></p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Ashley ( 
+							 <persname rules="aacr2">Ashley, General Christopher,
+								1769-1818</persname>)</item> 
+						  <item>Mr. Barrymore ( 
+							 <persname source="lcnaf">Barrymore, W. (William), d.
+								1845</persname>)</item> 
+						  <item>Mr. Braham ( 
+							 <persname source="lcnaf">Braham, John,
+								1774-1856</persname>)</item> 
+						  <item>Madame Angelica Catalani ( 
+							 <persname source="lcnaf">Catalani, Angelica,
+								1780-1849</persname>)</item> 
+						  <item>Mr. Conway ( 
+							 <persname source="lcnaf">Conway, William Augustus,
+								1789-1828</persname>)</item> 
+						  <item>Mr. Duruset ( 
+							 <persname source="lcnaf">Duruset, John,
+								1796-1843</persname>)</item> 
+						  <item>Mr. Egerton ( 
+							 <persname source="lcnaf">Egerton, Daniel,
+								1772-1835</persname>)</item> 
+						  <item>Mrs. Faucit ( 
+							 <persname source="lcnaf">Diddear, Harriet Elizabeth,
+								1789-1857</persname>)</item> 
+						  <item>Mr. Garbett ( 
+							 <persname rules="aacr2">Garbett, Mr.</persname>)</item> 
+						  <item>Mr. Incledon ( 
+							 <persname source="lcnaf">Incledon, Charles Benjamin,
+								1763-1826</persname>)</item> 
+						  <item>Mrs. Jordan ( 
+							 <persname source="lcnaf">Jordan, Dorothy,
+								1761-1816</persname>)</item> 
+						  <item>Mr. Kellner (probably 
+							 <persname rules="aacr2">Kellner, Ernest Augustus,
+								1792-1839</persname>)</item> 
+						  <item>E. Macleish ( 
+							 <persname rules="aacr2">Macleish, E.
+								(Elizabeth)</persname>) Note: Macleish's name is confirmed as Elizabeth in Old
+							 Bailey Proceedings Online ( 
+							 <extref show="new" role="text/html"
+							  href="www.oldbaileyonline.org">www.oldbaileyonline.org</extref>, version 6.0,
+							 23 April 2012), December 1799, trial of GEORGE PARR (t17991204-21).</item> 
+						  <item>Mrs. Powell ( 
+							 <persname source="lcnaf">Powell, Jane, ca.
+								1761-1831</persname>)</item> 
+						  <item>Pucitta ( 
+							 <persname source="lcnaf">Pucitta, Vincenzo,
+								1778-1861</persname>)</item> 
+						  <item>Miss Rennell ( 
+							 <persname rules="aacr2">Rennell, Miss, d.
+								1816</persname>)</item> 
+						  <item>Mrs. Salmon ( 
+							 <persname source="lcnaf">Salmon, Eliza,
+								1787-1849</persname>)</item> 
+						  <item>Mr. I. G. Schmidt ( 
+							 <persname rules="aacr2">Schmidt, Johann Georg, 1775-circa
+								1822</persname>)</item> 
+						  <item> Miss Stephens ( 
+							 <persname source="lcnaf">Stephens, Catherine,
+								1794-1882</persname>)</item> 
+						  <item>Mr. Tinney ( 
+							 <persname rules="aacr2">Tinney, Mr.</persname>)</item> 
+						  <item>Mr. S. Wesley ( 
+							 <persname source="lcnaf">Wesley, Samuel,
+								1766-1837</persname>)</item> 
+						  <item>Mr. Young ( 
+							 <persname source="lcnaf">Young, Charles Mayne,
+								1777-1856</persname>)</item> 
+						</list></p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">04</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Covent Garden Theatre</corpname> 
+						<unitdate normal="1814-04-29" type="inclusive">29 April
+						  1815</unitdate></unittitle> 
+					 <dao linktype="simple"
+					  href="../xtf/data/pdf/music/documents/ubmu0058_04.pdf"
+					  actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 31 x 21 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Miss O’Neill’s night : Theatre Royal, Covent-Garden:
+						This present Saturday, April 29 1815, will be acted the tragedy of the Grecian
+						daughter … After which (2nd time) Milton's revived masque of Comus ... the
+						original musick by Handel and Arne, with additions by Bishop, the overture by
+						Cherubini. ... Mr. Kemble will perform on Monday, Coriolanus, on Thursday, The
+						Stranger ... After which, the new melo-drama called The Forest of Bondy, or,
+						The Dog of Mortargis … after which, The Sleep walker, to which will be added,
+						Zembuca ... Printed by E. Macleish, 2 Bow Street.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Kotzebue, August von,
+								1761-1819</persname>: 
+							 <title>Menschenhass und Reue. English </title> (The
+							 Stranger)</item> 
+						  <item> 
+							 <persname source="lcnaf">Murphy, Arthur,
+								1727-1805</persname>: 
+							 <title>Grecian daughter</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Milton, John,
+								1608-1674</persname>: 
+							 <title>Comus</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Oulton, Walley Chamberlain,
+								1770?-1820? </persname>: 
+							 <title>Sleep walker</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Pixérécourt, R.-C. Guilbert de
+								(René-Charles Guilbert), 1773-1844</persname>: 
+							 <title>Chien de Montargis, ou, La forê^t de
+								Bondy</title>, as translated and adapted by 
+							 <persname>Barrymore, W. (William), d.
+								1845</persname></item> 
+						  <item> 
+							 <persname source="lcnaf">Pocock, I. (Isaac),
+								1782-1835</persname>: 
+							 <title>Zembuca, or, The net-maker and his
+								wife</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Coriolanus</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Abbott ( 
+							 <persname source="lcnaf">Abbott, William,
+								1789-1843</persname>)</item> 
+						  <item>Arne ( 
+							 <persname source="lcnaf">Arne, Thomas Augustine,
+								1710-1778</persname>)</item> 
+						  <item>Bishop ( 
+							 <persname source="lcnaf">Bishop, Henry R. (Henry Rowley),
+								Sir, 1786-1855</persname>)</item> 
+						  <item>Miss Bristow ( 
+							 <persname rules="aacr2">Bristow, Miss, 19th cent.
+								</persname>)</item> 
+						  <item>Mr. Broadhurst ( 
+							 <persname rules="aacr2">Broadhurst, Mr., fl.
+								1811</persname>)</item> 
+						  <item>Cherubini ( 
+							 <persname source="lcnaf">Cherubini, Luigi,
+								1760-1842</persname>)</item> 
+						  <item>Mr. Conway ( 
+							 <persname source="lcnaf">Conway, William Augustus,
+								1789-1828</persname>)</item> 
+						  <item>Mr. Creswell ( 
+							 <persname rules="aacr2">Creswell, Mr.</persname>)</item> 
+						  <item>Mr. Duruset ( 
+							 <persname source="lcnaf">Duruset, John,
+								1796-1843</persname>)</item> 
+						  <item>Mrs. Faucit ( 
+							 <persname source="lcnaf">Diddear, Harriet Elizabeth,
+								1789-1857</persname>)</item> 
+						  <item>Miss Foote ( 
+							 <persname source="lcnaf">Foote, Maria,
+								1797?-1867</persname>)</item> 
+						  <item>Handel ( 
+							 <persname source="lcnaf">Handel, George Frideric,
+								1685-1759</persname>)</item> 
+						  <item>Mr. Incledon ( 
+							 <persname source="lcnaf">Incledon, Charles Benjamin,
+								1763-1826</persname>)</item> 
+						  <item>Mr. Jefferies ( 
+							 <persname rules="aacr2">Jefferies, Mr., fl.
+								1812</persname>)</item> 
+						  <item>Mr. Kemble ( 
+							 <persname source="lcnaf">Kemble, John Philip,
+								1757-1823</persname>)</item> 
+						  <item>Mr. King ( 
+							 <persname rules="aacr2">King, Mr.</persname>)</item> 
+						  <item>Mrs. Liston ( 
+							 <persname source="lcnaf">Liston, Sarah,
+								1781-1854</persname>)</item> 
+						  <item>Miss Luppino ( 
+							 <persname rules="aacr2">Luppino, Georgina,
+								1778-1832</persname>)</item> 
+						  <item>E. Macleish ( 
+							 <persname rules="aarc2">Macleish, E.
+								(Elizabeth)</persname>)</item> 
+						  <item>Miss Matthews ( 
+							 <persname rules="aacr2">Matthews, Catherine
+								Mary</persname>)</item> 
+						  <item>Mr. Murray ( 
+							 <persname source="lcnaf">Murray, Charles,
+								1754-1821</persname>)</item> 
+						  <item>Mr. Norris ( 
+							 <persname rules="aacr2">Norris, William, d.
+								1816</persname>)</item> 
+						  <item>Miss O'Neill ( 
+							 <persname source="lcnaf">O'Neill, Eliza,
+								1791-1872</persname>)</item> 
+						  <item>Mrs. Parker ( 
+							 <persname rules="aacr2">Parker, Sophia, fl.
+								1763-1818</persname>)</item> 
+						  <item>Mr. Sinclair ( 
+							 <persname source="lcnaf">Sinclair, John,
+								1791-1857</persname>)</item> 
+						  <item>Mr. Slader ( 
+							 <persname rules="aacr2">Slader, Mr.</persname>)</item> 
+						  <item>Mons. Soissons ( 
+							 <persname source="lcnaf">Soissons, M.</persname>)</item> 
+						  <item>Miss Stephens ( 
+							 <persname source="lcnaf">Stephens, Catherine,
+								1794-1882</persname>)</item> 
+						  <item>Mrs. Sterling ( 
+							 <persname rules="aacr2">Dixon, Clara Ann, fl.
+								1795-1822</persname>)</item> 
+						  <item>Mr. Taylor ( 
+							 <persname rules="aacr2">Taylor, Mr.</persname>)</item> 
+						  <item>Mr. Terry ( 
+							 <persname source="lcnaf">Terry, Daniel,
+								1782-1829</persname>)</item> 
+						  <item>Mr. Tinney ( 
+							 <persname>Tinney, Mr.</persname>)</item> 
+						  <item>Mr. Treby ( 
+							 <persname rules="aacr2">Treby, Mr.</persname>)</item> 
+						  <item>Mr. Young ( 
+							 <persname source="lcnaf">Young, Charles Mayne,
+								1777-1856</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">05</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Covent Garden Theatre</corpname> 
+						<unitdate normal="1837-04-26" type="inclusive">26 April
+						  1837</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_05.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 34 x 22 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Covent Garden : This evening, Wednesday,
+						April 26, 1837, will be presented (with the original music by Matthew Locke)
+						Shakspeare’s tragedy of Macbeth ... After which, ninth time, an entirely new
+						farce called the Modern Orpheus, or Music the food of love ... to conclude with
+						the favorite operatic romance of Quasimodo, or, The gypsey girl of Notre Dame.
+						Overture &amp; music selected from the works of Carl Maria von Weber …
+						To-morrow, Thursday (4th time) Brian Boroihme, or, The Maid or Erin : To
+						conclude with … Mr. Sheridan Knowles’ historical play of William Tell … On
+						Friday, will be performed (by particular desire) the play Ion, written by Mr.
+						Serjeant Talfourd … after which, the original drama of The country squire … To
+						conclude with The Modern Orpheus … On Monday will be produced a new historical
+						tragedy to be called Strafford --- Mr. Osbaldiston has the honor of announcing
+						… that his benefit will take place on Monday, the 8th of May on which occasion
+						will be presented Shakspeare’s historical play of King Henry the Eighth ... S.
+						G. Fairbrother, printer, Exeter Court </title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Browning, Robert,
+								1812-1889</persname>: 
+							 <title>Strafford</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Dance, Charles,
+								1794-1863</persname>: 
+							 <title>Country squire</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Fitzball, Edward,
+								1792-1873</persname>: 
+							 <title>Quasimodo</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>Brian Boroihme</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>William Tell</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>King Henry VIII</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Macbeth</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Talfourd, Thomas Noon, Sir,
+								1795-1854</persname>: 
+							 <title>Ion</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Webster, Benjamin,
+								1797-1882</persname>: 
+							 <title>Modern Orpheus</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Andrews ( 
+							 <persname source="lcnaf">Andrews, George H.,
+								1798-1866</persname>)</item> 
+						  <item>Mr. Bender ( 
+							 <persname>Bender, Mr., 19th cent.</persname>)</item> 
+						  <item>Mr. G. Bennett ( 
+							 <persname source="lcnaf">Bennett, G. J. (George John),
+								1800-1879</persname>)</item> 
+						  <item>Mr. Collins ( 
+							 <persname rules="aacr2">Collins, John,
+								1804-1874</persname>)</item> 
+						  <item>Mr. Dale ( 
+							 <persname rules="aacr2">Dale, John,
+								1803-1872</persname>)</item> 
+						  <item>Miss Deither ( 
+							 <persname rules="aacr2">Deither, Miss</persname>)</item> 
+						  <item>S. G. Fairbrother ( 
+							 <persname source="lcnaf">Fairbrother, S. G. (Samuel
+								Glover), fl. 1823-1855</persname>)</item> 
+						  <item>Mr. W. Farren ( 
+							 <persname source="lcnaf">Farren, William,
+								1786-1861</persname>)</item> 
+						  <item>Miss Helen Faucit ( 
+							 <persname source="lcnaf">Martin, Helena Faucit, 1814-1898
+								</persname>)</item> 
+						  <item>Mrs. Garrick ( 
+							 <persname rules="aacr2">Garrick, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Glover ( 
+							 <persname source="lcnaf">Glover, Julia,
+								1779-1850</persname>)</item> 
+						  <item>Mr. Harris ( 
+							 <persname rules="aacr2">Harris, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Huckel ( 
+							 <persname rules="aacr2">Huckel, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Jones ( possibly 
+							 <persname source="lcnaf">Jones, J. S. (Joseph Stevens),
+								1811-1877</persname>)</item> 
+						  <item>Miss Lacy ( 
+							 <persname rules="aacr2">Lacy, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Land ( 
+							 <persname rules="aacr2">Land, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Lane ( 
+							 <persname rules="aacr2">Lane, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Lee ( 
+							 <persname rules="aacr2">Lee, Henrietta Incledon, d.
+								1866</persname>)</item> 
+						  <item>Matthew Locke ( 
+							 <persname source="lcnaf">Locke, Matthew, 1621 or
+								2-1677</persname>)</item> 
+						  <item> Mr. Macready ( 
+							 <persname source="lcnaf">Macready, William Charles,
+								1793-1873</persname>)</item> 
+						  <item>Miss Nicholson ( 
+							 <persname rules="aacr2">Nicholson, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Osbaldiston ( 
+							 <persname source="lcnaf">Osbaldiston, D. W. (David
+								Webster), 1794-1850</persname>)</item> 
+						  <item>Mr. Pritchard ( 
+							 <persname source="lcnaf">Pritchard, J. L. (John
+								Langford), 1799-1850</persname>)</item> 
+						  <item>Mr. Ransford ( 
+							 <persname source="lcnaf">Ransford, Edwin,
+								1805-1876</persname>)</item> 
+						  <item>Mr. Ray ( 
+							 <persname rules="aacr2">Ray, J. W. (John William), d.
+								1871</persname>)</item> 
+						  <item>Mr. Ross ( 
+							 <persname rules="aacr2">Ross, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Tilbury ( 
+							 <persname source="lcnaf">Tilbury, William Harries,
+								1806-1864</persname>)</item> 
+						  <item>Mr. Thompson ( 
+							 <persname rules="aacr2">Thompson, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Vandenhoff ( 
+							 <persname source="lcnaf">Vandenhoff, John M.,
+								1790-1861</persname>)</item> 
+						  <item>Miss Vincent ( 
+							 <persname rules="aacr2">Vincent, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Carl Maria von Weber ( 
+							 <persname source="lcnaf">Weber, Carl Maria von,
+								1786-1826</persname>)</item> 
+						  <item> Mr. Webster ( 
+							 <persname source="lcnaf">Webster, Benjamin,
+								1797-1882</persname>)</item> 
+						  <item>Mr. J. Webster ( 
+							 <persname rules="aacr2">Webster, John,
+								1810-1851</persname>)</item> 
+						  <item>Mrs. W. West ( 
+							 <persname source="lcnaf">West, Sarah, d.
+								1876</persname>)</item> 
+						  <item>Mr. Worrell ( 
+							 <persname source="lcnaf">Worrell, James,
+								1807-1865</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">06</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Royal Italian Opera (London,
+						  England) </corpname> 
+						<unitdate normal="1860-03-29" type="inclusive">29 March
+						  1860</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_06.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 50 x 26 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Royal Italian Opera, Covent Garden : Mr. Frederick Gye
+						having in the most generous spirit placed this theatre at the disposal of the
+						council for a benefit in aid of the funds of the Royal Dramatic College, this
+						evening, Thursday, March 29, 1860: the entertainments will commence … with the
+						first act of Sir Bulwer Lytton’s play of Money : to be succeeded by the trial
+						scene from Shakspeare’s Merchant of Venice … : after which, a selection from
+						the late Douglas Jerrold’s nautical drama of Black-eyed Susan … : to be
+						followed by a scene from the fifth act of Macbeth … : the screen scene from the
+						fourth act of Sheridan’s comedy of School for scandal … : during the evening, a
+						selection of vocal music … : J. Maddison Morton’s farce of Box &amp; Cox … the
+						celebrated Christy Minstrels will give selections from their popular
+						entertainment : to conclude with the new and successful sketch, by Montague
+						Williams and F. C. Burnand … entitled B. B. ... Printed by Peel’s Steam
+						Machine, 74 New Cut, Lambeth.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item>One act farce co-written by 
+							 <persname>Burnand, F. C. (Francis Cowley),
+								1836-1917</persname> and 
+							 <persname>Williams, Montagu Stephen, 1835-1892</persname>
+							 : 
+							 <title>B. B.</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Jerrold, Douglas William,
+								1803-1857</persname>: 
+							 <title>Black-eyed Susan</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Lytton, Edward Bulwer Lytton,
+								Baron, 1803-1873</persname>: 
+							 <title>Money</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Morton, John Maddison,
+								1811-1891</persname>: 
+							 <title>Box and Cox</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Macbeth</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Merchant of Venice</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Sheridan, Richard Brinsley,
+								1751-1816</persname>: 
+							 <title>School for scandal</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Belford ( 
+							 <persname rules="aacr2">Belford, William Rowles,
+								1824-1881</persname>)</item> 
+						  <item>Mr. Harcourt Bland ( 
+							 <persname rules="aacr2">Bland, Harcourt, d.
+								1875</persname>)</item> 
+						  <item>Mr. J. B. Buckstone ( 
+							 <persname source="lcnaf">Buckstone, John Baldwin,
+								1802-1879</persname>)</item> 
+						  <item>Miss Bufton ( 
+							 <persname rules="aacr2">Bufton, Eleanor,
+								1840-1893</persname>)</item> 
+						  <item>Miss Bulmer ( 
+							 <persname rules="aacr2">Bulmer, Miss</persname>)</item> 
+						  <item>F. C. Burnand ( 
+							 <persname source="lcnaf">Burnand, F. C. (Francis Cowley),
+								1836-1917</persname>)</item> 
+						  <item>Mr. Walter Carle ( 
+							 <persname rules="aacr2">Carle, Walter, fl.
+								1861-1863</persname>)</item> 
+						  <item>Mr. F. Charles ( 
+							 <persname rules="aacr2">Charles, F.,
+								Mr.</persname>)</item> 
+						  <item> Mr. Chippendale ( 
+							 <persname source="lcnaf">Chippendale, William Henry,
+								1801-1888</persname>)</item> 
+						  <item>Mr. Cockrell ( 
+							 <persname rules="aacr2">Cockrell, Mr.</persname>)</item> 
+						  <item>Mr. G. Cooke ( 
+							 <persname rules="aacr2">Cooke, George,
+								1807-1863</persname>)</item> 
+						  <item>Mr. H. Compton ( 
+							 <persname source="lcnaf">Compton, Henry,
+								1805-1877</persname>)</item> 
+						  <item>Mr. T. P. Cooke ( 
+							 <persname source="lcnaf">Cooke, T. P. (Thomas Potter),
+								1786-1864</persname>)</item> 
+						  <item>Mr. H. Cooper (possibly 
+							 <persname rules="aacr2">Cooper, Henry C., d.
+								1881</persname>)</item> 
+						  <item> 
+							 <corpname>Christy Minstrels</corpname></item> 
+						  <item>Mr. Creswick ( 
+							 <persname source="lcnaf">Creswick, William,
+								1813-1888</persname>)</item> 
+						  <item>Mrs. W. S. Emden ( 
+							 <persname rules="aacr2">Emden, W. S.,
+								Mrs.</persname>)</item> 
+						  <item>Mr. H. Farrell (probably 
+							 <persname rules="aacr2">Farrell, Henry, d.
+								1878</persname>)</item> 
+						  <item>Mr. David Fisher ( 
+							 <persname source="lcnaf">Fisher, David,
+								1816-1887</persname>)</item> 
+						  <item>Miss Glyn ( 
+							 <persname source="lcnaf">Glyn, Isabella,
+								1823-1889</persname>)</item> 
+						  <item>Mrs. Griffiths ( 
+							 <persname rules="aacr2">Griffiths, Mrs., d.
+								1895</persname>)</item> 
+						  <item>Mr. W. Harrison ( 
+							 <persname source="lcnaf">Harrison, William,
+								1813-1868</persname>)</item> 
+						  <item>Madame Catherine Hayes ( 
+							 <persname source="lcnaf">Hayes, Catherine,
+								1818-1861</persname>)</item> 
+						  <item>Mr. Howe (possibly 
+							 <persname rules="aacr2">Howe, J. B. (J. Burdett),
+								1828-1908</persname>)</item> 
+						  <item>Miss Louise Keeley ( 
+							 <persname rules="aacr2">Keeley, Louise,
+								1833-1877</persname>)</item> 
+						  <item>Mr. Keeley ( 
+							 <persname source="lcnaf">Keeley, Robert,
+								1793-1869</persname>)</item> 
+						  <item>Mrs. H. Marston ( 
+							 <persname source="lcnaf">Marston, H., Mrs., 1808 or
+								9-1887</persname>)</item> 
+						  <item>Mr. H. Marston ( 
+							 <persname source="lcnaf">Marston, Henry,
+								1804-1883</persname>)</item> 
+						  <item>Mr. Charles Mathews ( 
+							 <persname source="lcnaf">Mathews, Charles James,
+								1803-1878</persname>)</item> 
+						  <item>Mrs. Charles Mathews ( 
+							 <persname source="lcnaf">Mathews, Mrs. (Anne Jackson),
+								1782?-1869</persname>)</item> 
+						  <item>Mr. F. Matthews ( 
+							 <persname source="lcnaf">Matthews, Frank,
+								1807-1871</persname>)</item> 
+						  <item>Mr. A. Mellon ( 
+							 <persname source="lcnaf">Mellon, Alfred,
+								1820-1867</persname>)</item> 
+						  <item>Mr. H. Mellon ( 
+							 <persname rules="aacr2">Mellon, Henry,
+								1808-1876</persname>)</item> 
+						  <item>Mr. Edward Murray ( 
+							 <persname rules="aacr2">Murray, Edward, d.
+								1878</persname>)</item> 
+						  <item>Mr. G. Peel ( 
+							 <persname rules="aacr2">Peel, G., Mr.</persname>)</item> 
+						  <item> 
+							 <corpname rules="aacr2">Peel’s Steam Machine
+								(Firm)</corpname></item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Miss Louisa Pyne ( 
+							 <persname source="lcnaf">Pyne, Louisa Fanny,
+								1835-1904</persname>)</item> 
+						  <item>Mr. H. Reeves ( 
+							 <persname rules="aacr2">Reeves, H.,
+								Mr.</persname>)</item> 
+						  <item>Mr. F. Robson ( 
+							 <persname source="lcnaf">Robson, Frederick,
+								1821-1864</persname>)</item> 
+						  <item> 
+							 <corpname>Royal Dramatic College (Woking, England)
+								</corpname></item> 
+						  <item>Mr. Ryder ( 
+							 <persname source="lcnaf">Ryder, John,
+								1814-1885</persname>)</item> 
+						  <item>Miss Amy Sedgwick ( 
+							 <persname rules="aacr2">Sedgwick, Amy,
+								1835-1897</persname>)</item> 
+						  <item>Madame Simon ( 
+							 <persname rules="aacr2">Simon, Madame</persname>)</item> 
+						  <item>Mrs. Stephens ( 
+							 <persname rules="aacr2">Stephens, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Edward Stirling ( 
+							 <persname source="lcnaf">Stirling, Edward,
+								1807-1894</persname>)</item> 
+						  <item>Miss Stoker ( 
+							 <persname rules="aacr2">Stoker, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. J. L. Toole ( 
+							 <persname source="lcnaf">Toole, John Lawrence,
+								1830-1906</persname>)</item> 
+						  <item>Mr. B. Webster ( 
+							 <persname source="lcnaf">Webster, Benjamin,
+								1797-1882</persname>)</item> 
+						  <item>Mr. Horace Wigan ( 
+							 <persname source="lcnaf">Wigan, Horace,
+								1818?-1885</persname>)</item> 
+						  <item>Miss Woolgar (Mrs. A. Mellon) ( 
+							 <persname source="lcnaf">Mellon, Sarah Jane,
+								1824-1909</persname>)</item> 
+						  <item>Mrs. Charles Young ( 
+							 <persname source="lcnaf">Vezin, Jane Elizabeth,
+								1827-1902</persname>)</item> 
+						</list></p> 
+				  </scopecontent> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid id="series2a2">2. A. 2</unitid> 
+				  <unittitle>Sadler's Wells Theatre, 
+					 <unitdate normal="1844/1862"
+					  type="inclusive">1844-1862</unitdate></unittitle> 
+				  <physdesc><extent>Item 7-Item 15</extent></physdesc> 
+				</did> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">07</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate normal="1844-08-11" type="inclusive">11 August
+						  1844</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_07.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ([2] pages) ; 39 x 26
+						cm.</extent></physdesc> 
+					 <note> 
+						<p>Presumably the first playbill for Sadler's Wells under the
+						  management of Samuel Phelps and Mary Warner.</p> 
+					 </note> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Lessee, Thomas Longden
+						Greenwood … Under the management of Mrs. Warner and Mr. Phelps of the Theatres
+						Royal, Drury Lane, Covent Garden, and Haymarket, Friday, August 16th, 1844, and
+						Saturday, 17th, the performances will commence with the admired play of The
+						Stranger … After which, the interlude of A Thumping legacy … To conclude with
+						the laughable farce called Bachelors’ Buttons. Verso: Mrs. Warner and Mr. Phelps
+						have embarked in the Management and Performance of Sadler's Wells Theatre, in
+						the hope of eventually rendering it what a Theatre ought to be, a place for
+						justly representing the works of our great Dramatic Poets. This undertaking is
+						commenced at a time when the Stages which have been exclusively called
+						"National" are closed, or devoted to very different objects from that of
+						presenting the real Drama of England, … On Monday and Tuesday Shakspere’s
+						tragedy of Hamlet with The Captain’s not a-miss and A Thumping legacy … it is
+						in rehearsal and will speedily be produced … the tragedy of The Bridal Adapted
+						for representation, with Three Original Scenes, written by James Sheridan
+						Knowles, Esq., from the Maid’s Tragedy of Beaumont and Fletcher … Also in
+						preparation … Massinger’s play of The City madam … S. G. Fairbrother and Son,
+						Printers, 31, Bow Street, Covent Gard.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>Bridal</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Kotzebue, August von,
+								1761-1819</persname>: 
+							 <title>Menschenhass und Reue. English </title> (The
+							 Stranger)</item> 
+						  <item> 
+							 <persname source="lcnaf">Massinger, Philip,
+								1583-1640</persname>: 
+							 <title>City madam</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Morton, John Maddison,
+								1811-1891</persname>: 
+							 <title>Thumping legacy</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Hamlet</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Stirling, Edward,
+								1807-1894</persname>: 
+							 <title>Bachelor's buttons</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Wilks, Thomas Egerton,
+								1812-1854</persname> : 
+							 <title>Captain's not a-miss</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. G. Bennett( 
+							 <persname source="lcnaf">Bennett, G. J. (George John),
+								1800-1879</persname>)</item> 
+						  <item>Miss Cooper ( 
+							 <persname source="lcnaf">Cooper, Fanny,
+								1814-1872</persname>)</item> 
+						  <item>Mr. Coreno ( 
+							 <persname rules="aacr2">Coreno, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Evain ( 
+							 <persname rules="aacr2">Evain, W. H., Mr., fl.
+								1850</persname>)</item> 
+						  <item>S. G. Fairbrother and Son ( 
+							 <persname source="lcnaf">Fairbrother, S. G. (Samuel
+								Glover), fl. 1823-1855</persname>)</item> 
+						  <item>Mr. Forman ( 
+							 <persname rules="aacr2">Forman, George Frederick,
+								1811-1852</persname>)</item> 
+						  <item>Mr. Francis ( 
+							 <persname rules="aacr2">Francis, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>[Mr.] Franks ( 
+							 <persname rules="aacr2">Franks, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Thomas Longden Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879</persname>)</item> 
+						  <item>Miss Kate Howard ( 
+							 <persname rules="aacr2">Howard, Kate, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Huddart ( 
+							 <persname rules="aacr2">Huddart, Fanny, d.
+								1880</persname>)</item> 
+						  <item> Mr. Knight ( 
+							 <persname rules="aacr2">Knight, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Lebatt ( 
+							 <persname rules="aacr2">Lebatt, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss G. Lebatt ( 
+							 <persname rules="aacr2">Lebatt, G., Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. H. Marston ( 
+							 <persname source="lcnaf">Marston, Henry,
+								1804-1883</persname>)</item> 
+						  <item>Miss Morel ( 
+							 <persname rules="aacr2">Morel, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Morton ( 
+							 <persname rules="aacr2">Morton, Mr., 19th cent.
+								</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Mr. Sharpe ( 
+							 <persname rules="aacr2">Sharpe, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Warner ( 
+							 <persname source="lcnaf">Warner, Mary Amelia,
+								1804-1854</persname>)</item> 
+						  <item>Mr. J. Webster ( 
+							 <persname source="lcnaf">Webster, John,
+								1810-1851</persname>)</item> 
+						  <item>Mr. Williams ( 
+							 <persname rules="aacr2">Williams, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. A. Younge ( 
+							 <persname source="lcnaf">Younge, A.</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">08</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive" normal="1844-09-06"> 6 September
+						  1844</unitdate></unittitle> 
+					 <dao linktype="simple"
+					  href="../xtf/data/pdf/music/documents/ubmu0058_08.pdf"
+					  actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 51 x 26 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Lessee, Thomas Longden
+						Greenwood … Under the management of Mrs. Warner and Mr. Phelps ... Friday,
+						September 6, 1844, and Saturday, 7th, the performances will commence with
+						Sheridan Knowles’s play of The Hunchback ... after which, the popular farce of
+						The Nervous Man ... to conclude with the laughable farce called The Railroad
+						Station ... On Monday and Tuesday .., the tragedy of The Bridal, On Wednesday
+						and Thursday, Sheridan’s comedy of The Rivals, On Friday and Saturday …
+						Shakspere’s tragedy of Hamlet … in preparation, Shakspere’s tragedy of King
+						John ... S. G. Fairbrother and Son, Printers, 31, Bow Street Covent
+						Garden.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Bernard, William Bayle,
+								1807-1875</persname>: 
+							 <title>Nervous man</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>Bridal</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>Hunchback</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Hamlet</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>King John</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Sheridan, Richard Brinsley,
+								1751-1816</persname>: 
+							 <title>Rivals</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Wilks, Thomas Egerton,
+								1812-1854</persname>: 
+							 <title>Railroad station</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. G. Bennett ( 
+							 <persname source="lcnaf">Bennett, G. J. (George John),
+								1800-1879</persname>)</item> 
+						  <item>Mr. Collins ( 
+							 <persname source="lcnaf">Collins, John,
+								1804-1874</persname>)</item> 
+						  <item>Miss Cooper ( 
+							 <persname source="lcnaf">Cooper, Fanny,
+								1814-1872</persname>)</item> 
+						  <item>Mr. Coreno ( 
+							 <persname source="lcnaf">Coreno, Mr.</persname>)</item> 
+						  <item>Mr. Evain ( 
+							 <persname source="lcnaf">Evain, W. H., Mr., fl.
+								1850</persname>)</item> 
+						  <item>Mr. C. Fenton ( 
+							 <persname source="lcnaf">Fenton, Charles, d.
+								1877</persname>)</item> 
+						  <item>Mr. Forman ( 
+							 <persname source="lcnaf">Forman, George Frederick,
+								1811-1852</persname>)</item> 
+						  <item>Mr. Franks ( 
+							 <persname source="lcnaf">Franks, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Graham ( 
+							 <persname source="lcnaf">Graham, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Green ( 
+							 <persname source="lcnaf">Green, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Thomas Longden Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879</persname>)</item> 
+						  <item>Miss Huddart ( 
+							 <persname source="lcnaf">Huddart, Fanny, d.
+								1880</persname>)</item> 
+						  <item>Mr. Knight ( 
+							 <persname source="lcnaf">Knight, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss G. Lebatt ( 
+							 <persname source="lcnaf">Lebatt, G., Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. H. Marston ( 
+							 <persname source="lcnaf">Marston, H., Mrs., 1808 or
+								9-1887</persname>)</item> 
+						  <item>Mr. Henry Marston ( 
+							 <persname source="lcnaf">Marston, Henry,
+								1804-1883</persname>)</item> 
+						  <item>Mr. W. Montgomery ( 
+							 <persname source="lcnaf">Montgomery, W. H. (William
+								Henry), 1810-1886</persname>)</item> 
+						  <item>Mr. Morelli ( 
+							 <persname source="lcnaf">Morelli, Charles Francis,
+								1800-1882</persname>)</item> 
+						  <item>Miss Morelli (possibly 
+							 <persname source="lcnaf">Morelli, Olivia Elizabeth, b.
+								1828</persname>)</item> 
+						  <item>Mr. Morton ( 
+							 <persname source="lcnaf">Morton, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Mr. Sharpe ( 
+							 <persname source="lcnaf">Sharpe, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Sievier ( 
+							 <persname source="lcnaf">Sievier, Mr.</persname>)</item> 
+						  <item>Miss Thornbury ( 
+							 <persname source="lcnaf">Thornbury, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Warner ( 
+							 <persname source="lcnaf">Warner, Mary Amelia,
+								1804-1854</persname>)</item> 
+						  <item>Mr. J. Webster ( 
+							 <persname source="lcnaf">Webster, John,
+								1810-1851</persname>)</item> 
+						  <item>Mr. Williams ( 
+							 <persname source="lcnaf">Williams, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. A. Younge ( 
+							 <persname source="lcnaf">Younge, A.</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">09</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive"
+						normal="1846-08-26/1846-08-29">26-29 August [1846]</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_09.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 49 x 26 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Lessees. Messrs.
+						Greenwood and Phelps, under the management of Mr. Phelps, Wednesday, Aug. 26,
+						Thursday, 27, Friday, 28, &amp; Saturday 29, will be produced … Westland
+						Marston’s play of The Patrician’s daughter … to be followed by an interlude by
+						Charles Selby entitled A Lady &amp; gentleman in a peculiarly perplexing
+						predicament … To conclude with the farce entitled Manoeuvring ... Henry IVth
+						will be repeated twice next week : Shakspere’s tragedy of Romeo and Juliet ...
+						will be speedily produced : Sergeant Talfourd's tragedy of Ion is also in a
+						forward state of rehearsal ... S. G. Fairbrother, Printer, 31 Bow Street,
+						Covent Garden.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Edgeworth, Maria,
+								1767-1849</persname>: 
+							 <title>Manoeuvring</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Marston, Westland,
+								1819-1890</persname>: 
+							 <title>Patrician's daughter</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Selby, Charles,
+								1802?-1863</persname>: 
+							 <title>Lady and gentleman in a peculiarly perplexing
+								predicament</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>King Henry IV</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Romeo and Juliet</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Talfourd, Thomas Noon, Sir,
+								1795-1854</persname>: 
+							 <title>Ion</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Miss Laura Addison ( 
+							 <persname source="lcnaf">Addison, Laura,
+								1822-1852</persname>)</item> 
+						  <item>Mr. G. Bennett ( 
+							 <persname source="lcnaf">Bennett, G. J. (George John),
+								1800-1879</persname>)</item> 
+						  <item>Mr. Branson ( 
+							 <persname rules="aacr2">Branson, William Scholes, d.
+								1884</persname>)</item> 
+						  <item>Mrs. Brougham ( 
+							 <persname rules="aacr2">Brougham, John,
+								Mrs.</persname>)</item> 
+						  <item>S. G. Fairbrother, printer ( 
+							 <persname source="lcnaf">Fairbrother, S. G. (Samuel
+								Glover), fl. 1823-1855</persname>)</item> 
+						  <item>Mr. C. Fenton ( 
+							 <persname source="lcnaf">Fenton, Charles, d.
+								1877</persname>)</item> 
+						  <item>Mrs. Frances ( 
+							 <persname rules="aacr2">Frances, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Francis ( 
+							 <persname rules="aacr2">Francis, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Franks ( 
+							 <persname rules="aacr2">Franks, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Graham ( 
+							 <persname rules="aacr2">Graham, Mr., 19th
+								cent.</persname>)</item> 
+						  <item> Mrs. Graham ( 
+							 <persname rules="aacr2">Graham, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. T. L. Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879</persname>)</item> 
+						  <item>Mr. Hoskins ( 
+							 <persname source="lcnaf">Hoskins, William, 1815 or
+								16-1886</persname>)</item> 
+						  <item>Mr. Mellon ( 
+							 <persname rules="aacr2">Mellon, Henry,
+								1808-1876</persname>)</item> 
+						  <item>Mr. W. Montgomery ( 
+							 <persname source="lcnaf">Montgomery, W. H. (William
+								Henry), 1810-1886</persname>)</item> 
+						  <item>Mr. Morton ( 
+							 <persname rules="aacr2">Morton, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Leigh Murray ( 
+							 <persname source="lcnaf">Murray, Elizabeth Leigh,
+								1815-1892 </persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Mr. Scharf (there is also a Mr. Scharfe, likely the
+							 same person) ( 
+							 <persname rules="aacr2">Scharf, Henry, 1822-1887
+								</persname>)</item> 
+						  <item> Mr. Scoley ( 
+							 <persname rules="aacr2">Scoley, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Stephens ( 
+							 <persname rules="aacr2">Stephens, Miss, 19th cent.
+								</persname>)</item> 
+						  <item>Mr. Stilt ( 
+							 <persname rules="aacr2">Stilt, Charles, d.
+								1851</persname>)</item> 
+						  <item>Mr. Wilkins ( 
+							 <persname rules="aacr2">Wilkins, John, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. A. Younge ( 
+							 <persname source="lcnaf">Younge, A.</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">10</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive" normal="1849-09-22">22 September
+						  1849</unitdate></unittitle> 
+					 <dao linktype="simple"
+					  href="../xtf/data/pdf/music/documents/ubmu0058_10.pdf"
+					  actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 51 x 25 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Lessees, Messrs.
+						Greenwood and Phelps, under the management of Mr. Phelps, this evening, Friday,
+						Sept. 21st, there will be no performance, in consequence of the Churchwardens
+						of the Parish having appointed the day as one of humiliation and prayer :
+						To-morrow, Saturday, Sept. 22nd, 1849, will be presented … Colley Cibber's
+						comedy of She Would and She Would Not ... to be followed by the petite comedy,
+						in two acts, of A Day After the Wedding ... to conclude with … a new farce by
+						J. Wooler, entitled Plots for Petticoats : Shakspere’s play of Measure for
+						Measure will be repeated on Monday and Tuesday : Shakspere’s play of The
+						Tempest will be performed on Wednesday and Thursday : The Merchant of Venice
+						will be repeated in a few days : the production of Shakspere’s tragedy of
+						Antony &amp; Cleopatra ... is unavoidably postponed until October … S. G.
+						Fairbrother, Printer, 31, Bow Street, Covent Garden.</title> </p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Cibber, Colley,
+								1671-1757</persname>: 
+							 <title>She would and she would not</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Kemble, Marie Thérèse,
+								1774-1838</persname>: 
+							 <title>Day after the wedding</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Antony and Cleopatra</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title> Merchant of Venice</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Measure for measure</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Tempest</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Wooler, J. P. (John Pratt),
+								1824-1868</persname>: 
+							 <title>Plots for petticoats</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Miss T. Bassano ( 
+							 <persname rules="aacr2">Bassano, T., Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Belford ( 
+							 <persname rules="aacr2">Belford, William Rowles,
+								1824-1881</persname>)</item> 
+						  <item>Miss Carlstein ( 
+							 <persname rules="aacr2">Carlstein, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Clinton ( 
+							 <persname rules="aacr2">Clinton, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. G. K. Dickinson ( 
+							 <persname rules="aacr2">Dickinson, G. K., d.
+								1863</persname>)</item> 
+						  <item>Mr. Dolman ( 
+							 <persname rules="aacr2">Dolman, John,
+								1824-1895</persname>)</item> 
+						  <item>S. G. Fairbrother, printer ( 
+							 <persname source="lcnaf">Fairbrother, S. G. (Samuel
+								Glover), fl. 1823-1855</persname>)</item> 
+						  <item>Mr. C. Fenton ( 
+							 <persname source="lcnaf">Fenton, Charles, d.
+								1877</persname>)</item> 
+						  <item>Miss Fitzpatrick ( 
+							 <persname rules="aacr2">Fitzpatrick, Helen, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Franks ( 
+							 <persname rules="aacr2">Franks, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. T. L. Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879</persname>)</item> 
+						  <item>Mr. Harris ( 
+							 <persname rules="aacr2">Harris, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Hoskins ( 
+							 <persname source="lcnaf">Hoskins, William, 1815 or
+								16-1886</persname>)</item> 
+						  <item>Mr. Knight ( 
+							 <persname rules="aacr2">Knight, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. H. Marston ( 
+							 <persname source="lcnaf">Marston, H., Mrs., 1808 or
+								9-1887</persname>)</item> 
+						  <item>Mr. Henry Marston ( 
+							 <persname source="lcnaf">Marston, Henry,
+								1804-1883</persname>)</item> 
+						  <item>Mr. W. H. Montgomery ( 
+							 <persname source="lcnaf">Montgomery, W. H. (William
+								Henry), 1810-1886</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Miss Julia St. George ( 
+							 <persname source="lcnaf">St. George, Julia, 1822 or
+								3-1903</persname>)</item> 
+						  <item>Mrs. G. Smith ( 
+							 <persname rules="aacr2">Smith, G., Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Williams ( 
+							 <persname rules="aacr2">Williams, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. A. Younge ( 
+							 <persname source="lcnaf">Younge, A.</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">11</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive" normal="1850-04-30">30 April
+						  1850</unitdate></unittitle> 
+					 <dao linktype="simple"
+					  href="../xtf/data/pdf/music/documents/ubmu0058_11.pdf"
+					  actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 51 x 26 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Lessees, Messrs.
+						Greenwood and Phelps, under the management of Mr. Phelps: for the benefit of
+						Mr. G. Bennett on which occasion Miss Jane Bennett will make her first
+						appearance : On Tuesday, April 30th, 1850, the performances will commence with
+						the new play in five acts, by Mr. G. Bennett, entitled Retribution … After
+						which, Sheridan’s celebrated comedy of The Rivals ... S. G. Fairbrother,
+						Printer, 31, Bow Street, Covent Garden.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Bennett, G. J. (George John),
+								1800-1879</persname>: 
+							 <title>Retribution</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Sheridan, Richard Brinsley,
+								1751-1816</persname>: 
+							 <title>Rivals</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Belford ( 
+							 <persname rules="aacr2">Belford, William Rowles,
+								1824-1881</persname>)</item> 
+						  <item>Mr. George Bennett ( 
+							 <persname source="lcnaf">Bennett, G. J. (George John),
+								1800-1879</persname>)</item> 
+						  <item>Miss Jane Bennett ( 
+							 <persname source="lcnaf">Bennett, Jane, b.
+								1832</persname>)</item> 
+						  <item>Mrs. Brougham ( 
+							 <persname rules="aacr2">Brougham, John, Mrs.
+								</persname>)</item> 
+						  <item>Miss A. Brown ( 
+							 <persname rules="aacr2">Brown, A., Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. G. K. Dickinson ( 
+							 <persname rules="aacr2">Dickinson, G. K., d.
+								1863</persname>)</item> 
+						  <item>Mr. Dolman ( 
+							 <persname rules="aacr2">Dolman, John,
+								1824-1895</persname>)</item> 
+						  <item>S. G. Fairbrother, printer ( 
+							 <persname source="lcnaf">Fairbrother, S. G. (Samuel
+								Glover), fl. 1823-1855</persname>)</item> 
+						  <item>Mr. C. Fenton ( 
+							 <persname source="lcnaf">Fenton, Charles, d.
+								1877</persname>)</item> 
+						  <item>Miss Fitzpatrick ( 
+							 <persname rules="aacr2">Fitzpatrick, Helen, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Franks ( 
+							 <persname rules="aacr2">Franks, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Graham ( 
+							 <persname rules="aacr2">Graham, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. T. L. Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879</persname>)</item> 
+						  <item>Mr. Harris ( 
+							 <persname rules="aacr2">Harris, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Hoskins ( 
+							 <persname source="lcnaf">Hoskins, William, 1815 or
+								16-1886</persname>)</item> 
+						  <item>Miss Johnstone ( 
+							 <persname rules="aacr2">Johnstone, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Knight ( 
+							 <persname rules="aacr2">Knight, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Henry Marston ( 
+							 <persname source="lcnaf">Marston, Henry,
+								1804-1883</persname>)</item> 
+						  <item>Mr. H. Mellon ( 
+							 <persname rules="aacr2">Mellon, Henry,
+								1808-1876</persname>)</item> 
+						  <item>Miss Morelli ( 
+							 <persname rules="aacr2">Morelli, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Henry Nye ( 
+							 <persname rules="aacr2">Nye, Henry, fl.
+								1849</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Master Righton ( 
+							 <persname rules="aacr2">Righton, Thomas Edward Corrie
+								Burns, 1838-1899</persname>)</item> 
+						  <item>Mr. Wilkins ( 
+							 <persname rules="aacr2">Wilkins, John, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. A. Younge ( 
+							 <persname source="lcnaf">Younge, A.</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">12</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive" normal="1854-03-02">2 March
+						  [1854]</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_12.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 51 x 26 cm.</extent></physdesc>
+					 
+					 <note> 
+						<p>A second copy is included.</p> 
+						<p>March 2 was on a Thursday in 1854 according to perpetual
+						  calendar. Phelps did not start at Sadler’s Wells until 1844.</p> 
+					 </note> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Lessees, Messrs
+						Greenwood and Phelps : Mr. Phelps respectfully announces his Benefit Night for
+						Thursday, March 2nd, when will be revived Fielding's Play, in Three Acts, of
+						The Miser ... To conclude with the comedy of Wild Oats ... S. G. Fairbrother,
+						Printer, 31, Bow Street, Covent Garden.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Fielding, Henry,
+								1707-1754</persname>: 
+							 <title>Miser</title></item> 
+						  <item> 
+							 <persname source="lcnaf">O'Keeffe, John,
+								1747-1833</persname>: 
+							 <title>Wild oats</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Lewis Ball ( 
+							 <persname source="lcnaf">Ball, Lewis,
+								1820-1905</persname>)</item> 
+						  <item>Mr. Barrett ( 
+							 <persname rules="aacr2">Barrett, Henry Michael, d.
+								1872</persname>)</item> 
+						  <item>Mr. Belford ( 
+							 <persname rules="aacr2">Belford, William Rowles,
+								1824-1881</persname>)</item> 
+						  <item>Miss Cooper ( 
+							 <persname source="lcnaf">Cooper, Fanny,
+								1814-1872</persname>)</item> 
+						  <item>S. G. Fairbrother, printer ( 
+							 <persname source="lcnaf">Fairbrother, S. G. (Samuel
+								Glover), fl. 1823-1855</persname>)</item> 
+						  <item>Mr. C. Fenton ( 
+							 <persname source="lcnaf">Fenton, Charles, d.
+								1877</persname>)</item> 
+						  <item>Mr. Franks ( 
+							 <persname rules="aacr2">Franks, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Frost ( 
+							 <persname rules="aacr2">Frost, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879</persname>)</item> 
+						  <item>Miss Katharine Hickson ( 
+							 <persname rules="aacr2">Hickson,
+								Katharine</persname>)</item> 
+						  <item>Mr. Hoskins ( 
+							 <persname source="lcnaf">Hoskins, William, 1815 or
+								16-1886</persname>)</item> 
+						  <item>Mr. Josephs ( 
+							 <persname rules="aacr2">Josephs, Mr., 19th cent.
+								</persname>)</item> 
+						  <item>Mr. Lacy ( 
+							 <persname source="lcnaf">Lacy, Walter,
+								1809-1898</persname>)</item> 
+						  <item>Mr. Lloyd ( 
+							 <persname rules="aacr2">Lloyd, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Lunt ( 
+							 <persname rules="aacr2">Lunt, James, d.
+								1879</persname>)</item> 
+						  <item>Mr. Meagreson ( 
+							 <persname rules="aacr2">Meagreson, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. C. Mortimer ( 
+							 <persname rules="aacr2">Mortimer, C., Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Mr. J. W. Ray ( 
+							 <persname rules="aacr2">Ray, J. W. (John William), d.
+								1871</persname>)</item> 
+						  <item>Master Righton ( 
+							 <persname rules="aacr2">Righton, Thomas Edward Corrie
+								Burns, 1838-1899</persname>)</item> 
+						  <item>Mr. Rousby ( 
+							 <persname source="lcnaf">Rousby, Wybert (William
+								Wybert)</persname>)</item> 
+						  <item>Mr. Scholey ( 
+							 <persname rules="aacr2">Scholey, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Ternan ( 
+							 <persname source="lcnaf">Ternan, Mrs. (Thomas),
+								1802-1873</persname>)</item> 
+						  <item>Miss Eliza Travers ( 
+							 <persname rules="aacr2">Travers, Eliza</persname>)</item>
+						  
+						  <item>Miss Wyatt ( 
+							 <persname rules="aacr2">Wyatt, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss F. Younge ( 
+							 <persname rules="aacr2">Younge, F., Miss, 19th
+								cent.</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">13</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive" normal="1859-11-17">17 November
+						  1859</unitdate></unittitle> 
+					 <dao linktype="simple"
+					  href="../xtf/data/pdf/music/documents/ubmu0058_13.pdf"
+					  actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 51 x 25 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Lessees, Messrs.
+						Greenwood and Phelps, under the management of Mr. Phelps : This evening,
+						Thursday, Nov. 17, 1859 and Friday, November 18th, the performances will
+						commence with Sheridan Knowles’ comedy of The Love Chase ... To conclude with
+						Charles Dance's comedy, in two acts, entitled Sons &amp; Systems ... On
+						Saturday … Shakespeare’s tragedy of Macbeth ... In consequence of the continued
+						attraction on the performance of The Fool's Revenge, it will be repeated on
+						Thursday and Friday next … Henry Pownceby, Steam Machine Printer, 43, Leman
+						Street, Whitechapel </title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Dance, Charles,
+								1794-1863</persname>: 
+							 <title>Sons and systems</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>Love chase</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Macbeth</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Taylor, Tom,
+								1817-1880</persname>: 
+							 <title>Fool’s revenge</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Lewis Ball ( 
+							 <persname source="lcnaf">Ball, Lewis,
+								1820-1905</persname>)</item> 
+						  <item>Mr. Belford ( 
+							 <persname rules="aacr2">Belford, William Rowles,
+								1824-1881</persname>)</item> 
+						  <item>Mr. Chapman ( 
+							 <persname rules="aacr2">Chapman, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. C. Fenton ( 
+							 <persname source="lcnaf">Fenton, Charles, d.
+								1877</persname>)</item> 
+						  <item>Miss Gray ( 
+							 <persname rules="aacr2">Gray, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879 </persname>)</item> 
+						  <item>Mr. T. C. Harris ( 
+							 <persname rules="aacr2">Harris, T. C., Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Hart ( 
+							 <persname rules="aacr2">Hart, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Heath ( 
+							 <persname source="lcnaf">Barrett, Caroline,
+								1835-1887</persname>)</item> 
+						  <item>Miss R. Herbert ( 
+							 <persname rules="aacr2">Herbert, R., Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. J. B. Hill ( 
+							 <persname rules="aacr2">Hill, J. B., Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Lickfold ( 
+							 <persname rules="aacr2">Lickfold, James, d.
+								1888</persname>)</item> 
+						  <item>Mrs. H. Marston ( 
+							 <persname source="lcnaf">Marston, H., Mrs., 1808 or
+								9-1887</persname>)</item> 
+						  <item>Mr. H. Marston ( 
+							 <persname source="lcnaf">Marston, Henry,
+								1804-1883</persname>)</item> 
+						  <item>Mr. Meagreson ( 
+							 <persname rules="aacr2">Meagreson, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Morelli ( 
+							 <persname rules="aacr2">Morelli, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Caroline Parkes ( 
+							 <persname rules="aacr2">Parkes, Caroline,
+								1838-1877</persname>)</item> 
+						  <item>Mr. Paxon ( 
+							 <persname rules="aacr2">Paxon, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Miss Poole ( 
+							 <persname rules="aacr2">Poole, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Henry Pownceby, printer ( 
+							 <persname source="lcnaf">Pownceby,
+								Henry</persname>)</item> 
+						  <item> Mr. J. W. Ray ( 
+							 <persname rules="aacr2">Ray, J. W. (John William), d.
+								1871</persname>)</item> 
+						  <item>Mr. Frederick Robinson ( 
+							 <persname source="lcnaf">Robinson, Frederic,
+								1832-1912</persname>)</item> 
+						  <item>Mr. C. Seyton ( 
+							 <persname source="lcnaf">Seyton, Charles, d.
+								1894</persname>)</item> 
+						  <item>Mr. Warde ( 
+							 <persname rules="aacr2">Warde, Mr., 19th
+								cent.</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">14</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive">17 August
+						  1861</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_14.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 51 x 26 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Sole lessee, Mr. Phelps
+						: last night of performance … The public is respectfully informed that a
+						performance will take place at this theatre, on Saturday, August 17th, 1861,
+						for the benefit of an artist, suffering from severe illness, Mr. Phelps, … has
+						most liberally granted the use of the theatre, free of charge, and his son, Mr.
+						Edmund Phelps, has kindly consented to sustain two characters … The
+						entertainments will commence at a Quarter to seven, with four scenes from
+						Sheridan Knowles' Play of The Hunchback ... A song, by Miss Fanny Josephs, To
+						be followed by three scenes from The Love Chase ... In the course of the
+						Evening, Mrs Stirling will deliver an address, written by Tom Taylor, Esq. to
+						be followed by a selection of scenes from Shakespeare’s comedy of As You Like
+						It ... After which, the trial scene, from Shakespeare’s play of The Merchant of
+						Venice ... In the course of the evening, Miss Caroline Parkes will give her new
+						entertainment song, entitled The Delights of the dance, After which two scenes
+						from Sheridan’s comedy of The School for Scandal ... The whole to conclude with
+						Buckstone’s favorite farce, entitled A Kiss in the dark … Pownceby, Steam
+						Printer, 43, Leman Street, Whitechapel.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Buckstone, John Baldwin,
+								1802-1879</persname>: 
+							 <title>Kiss in the dark</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>Hunchback</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Knowles, James Sheridan,
+								1784-1862</persname>: 
+							 <title>Love chase</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>As you like it</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Merchant of Venice</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Sheridan, Richard Brinsley,
+								1751-1816</persname>: 
+							 <title>School for scandal</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Miss Atkinson ( 
+							 <persname rules="aacr2">Atkinson, Emma</persname>)</item>
+						  
+						  <item>Mr. Lewis Ball ( 
+							 <persname source="lcnaf">Ball, Lewis,
+								1820-1905</persname>)</item> 
+						  <item>Mr. Barrett ( 
+							 <persname rules="aacr2">Barrett, Henry Michael, d.
+								1872</persname>)</item> 
+						  <item>Mr. Belford ( 
+							 <persname rules="aacr2">Belford, William Rowles,
+								1824-1881</persname>)</item> 
+						  <item>Mr. H. S. Carleton ( 
+							 <persname rules="aacr2">Carleton, H. S.,
+								Mr.</persname>)</item> 
+						  <item>Mr. Chapman ( 
+							 <persname rules="aacr2">Chapman, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Davis ( 
+							 <persname rules="aacr2">Davis, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Alice Evans ( 
+							 <persname rules="aacr2">Evans, Alice, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. C. Fenton ( 
+							 <persname source="lcnaf">Fenton, Charles, d.
+								1877</persname>)</item> 
+						  <item>Miss Fitzpatrick ( 
+							 <persname rules="aacr2">Fitzpatrick, Helen, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. T. L. Greenwood ( 
+							 <persname source="lcnaf">Greenwood, T. L. (Thomas
+								Longdon), 1806-1879</persname>)</item> 
+						  <item>Miss Heath ( 
+							 <persname source="lcnaf">Barrett, Caroline,
+								1835-1887</persname>)</item> 
+						  <item>Mrs. Hill ( 
+							 <persname rules="aacr2">Hill, J. B., Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Hill ( 
+							 <persname rules="aacr2">Hill, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Johnson ( 
+							 <persname rules="aacr2">Johnson, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Fanny Josephs ( 
+							 <persname source="lcnaf">Josephs, Fanny, d.
+								1890</persname>)</item> 
+						  <item>Miss Lavine ( 
+							 <persname rules="aacr2">Lavine, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. H. Marston ( 
+							 <persname source="lcnaf">Marston, H., Mrs., 1808 or
+								9-1887</persname>)</item> 
+						  <item>Mr. H. Marston ( 
+							 <persname source="lcnaf">Marston, Henry,
+								1804-1883</persname>)</item> 
+						  <item>Mr. F. Morton ( 
+							 <persname rules="aacr2">Morton, F., Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Oliver ( 
+							 <persname rules="aacr2">Oliver, Martha Cranmer,
+								1834-1880</persname>)</item> 
+						  <item>Miss Caroline Parkes ( 
+							 <persname rules="aacr2">Parkes, Caroline,
+								1838-1877</persname>)</item> 
+						  <item>Mr. Edmund Phelps ( 
+							 <persname source="lcnaf">Phelps, Edmund,
+								1838-1870</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Mr. Pigeon ( 
+							 <persname rules="aacr2">Pigeon, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Henry Pownceby, printer ( 
+							 <persname source="lcnaf">Pownceby, Henry
+								</persname>)</item> 
+						  <item>Mr. J. W. Ray ( 
+							 <persname rules="aacr2">Ray, J. W. (John William), d.
+								1871</persname>)</item> 
+						  <item>Mr. Alfred Rayner ( 
+							 <persname source="lcnaf">Rayner, Alfred, d.
+								1898</persname>)</item> 
+						  <item>Mr. Ryder ( 
+							 <persname source="lcnaf">Ryder, John,
+								1814-1885</persname>)</item> 
+						  <item>Mrs. St. Henry ( 
+							 <persname rules="aacr2">St. Henry, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Stirling ( 
+							 <persname source="lcnaf">Stirling, Fanny,
+								1815-1895</persname>)</item> 
+						  <item>Mr. W. H. Swanborough ( 
+							 <persname source="lcnaf">Swanborough, W. H. (William
+								Henry), ca. 1830-1886</persname>)</item> 
+						  <item>Tom Taylor ( 
+							 <persname source="lcnaf">Taylor, Tom,
+								1817-1880</persname>)</item> 
+						  <item>Mr. Webster Vernon ( 
+							 <persname source="lcnaf">Vernon, W. H.,
+								1834-1905</persname>)</item> 
+						  <item>Mr. Herman Vezin ( 
+							 <persname source="lcnaf">Vezin, Hermann,
+								1829-1910</persname>)</item> 
+						  <item>Mrs. Charles Young ( 
+							 <persname source="lcnaf">Vezin, Jane Elizabeth,
+								1827-1902</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">15</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Sadler's Wells Theatre (London,
+						  England)</corpname> 
+						<unitdate type="inclusive" normal="1862-10-25">25 October
+						  [1862]</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_15.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 51 x 26 cm.</extent></physdesc>
+					 
+					 <note> 
+						<p>Phelps resigned from Sadler’s Wells earlier in 1862 but
+						  returned for some shows. The perpetual calendar shows that October 25th was a
+						  Saturday in 1862 and the play, A Chinese romance, by Horne, was licensed in
+						  January 1862 for performance at the New Royalty Theatre. </p> 
+					 </note> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Theatre Royal, Sadler’s Wells : Under the management of
+						Miss Catherine Lucette : Mr. Phelps every evening, for a limited number of
+						nights … On Saturday, Oct. 25th, &amp; Monday and Tuesday following, the
+						performances will commence with Shakspeare’s tragedy , in five acts, of
+						Othello, The Moor of Venice … Characteristic pas seul by Miss Rosa Nathan : To
+						conclude with … a new comic drama, written by the author of Two heads are
+						better than one, entitled Chinese romance … On Wednesday, Oct. 29th,
+						Shakspeare’s play of The Merchant of Venice … Mr. Phelps’ farewell benefit, and
+						last performance but one at this theatre, on Thursday evening, Nov. 6th …
+						“Nassau Steam Press,” W. S. Johnson &amp; Co., 60, St. Martin’s Lane, W.
+						C.</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Horne, F. Lennox</persname>: 
+							 <title>Chinese romance</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Merchant of Venice</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Shakespeare, William,
+								1564-1616</persname>: 
+							 <title>Othello</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Lewis Ball ( 
+							 <persname source="lcnaf">Ball, Lewis,
+								1820-1905</persname>)</item> 
+						  <item>Mr. Bender ( 
+							 <persname rules="aacr2">Bender, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Clements ( 
+							 <persname rules="aacr2">Clements, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. C. Crook ( 
+							 <persname rules="aacr2">Crook, C., Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Emily Dowton ( 
+							 <persname rules="aacr2">Dowton, Emily</persname>)</item> 
+						  <item>Mrs. Dowton ( 
+							 <persname rules="aacr2">Dowton, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. E. F. Edgar ( 
+							 <persname source="lcnaf">Edgar, Edward Fisher, d.
+								1884</persname>)</item> 
+						  <item>Mr. Fisher( 
+							 <persname source="lcnaf">Fisher, David,
+								1816-1887</persname>)</item> 
+						  <item>Mr. Henry Forrester ( 
+							 <persname rules="aacr2">Forrester, Henry,
+								1827-1882</persname>)</item> 
+						  <item>Mr. Horton ( 
+							 <persname rules="aacr2">Horton, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. James Johnstone ( 
+							 <persname rules="aacr2">Johnstone, James, b.
+								1817</persname>)</item> 
+						  <item>Mr. C. Lloyds ( 
+							 <persname rules="aacr2">Lloyds, C., Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Catherine Lucette ( 
+							 <persname rules="aacr2">Lucette, Catherine, d.
+								1892</persname>)</item> 
+						  <item>Miss Sophie Miles ( 
+							 <persname rules="aacr2">Miles, Sophie, d.
+								1891</persname>)</item> 
+						  <item>Mr. A. Montague ( 
+							 <persname rules="aacr2">Montague, A., Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Mowbray ( 
+							 <persname source="lcnaf">Mowbray, Thomas,
+								1822-1900</persname>)</item> 
+						  <item>Miss Rosa Nathan ( 
+							 <persname rules="aacr2">Nathan, Rosa</persname>)</item> 
+						  <item>Mr. Northcote ( 
+							 <persname rules="aacr2">Northcote, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Phelps ( 
+							 <persname source="lcnaf">Phelps, Samuel,
+								1804-1878</persname>)</item> 
+						  <item>Mr. Regan ( 
+							 <persname rules="aacr2">Regan, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Richards ( 
+							 <persname rules="aacr2">Richards, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Escott Shelley ( 
+							 <persname rules="aacr2">Shelley,
+								Escott</persname>)</item> 
+						  <item>Mr. John St. Luke ( 
+							 <persname rules="aacr2">St. Luke, John, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Willson ( 
+							 <persname rules="aacr2">Willson, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>“Nassau Steam Press,” W. S. Johnson &amp; Co. ( 
+							 <corpname source="lcnaf">W.S. Johnson and Co. (London,
+								England) </corpname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid id="series2a3">2. A. 3</unitid> 
+				  <unittitle>Saint James' Theatre, 
+					 <unitdate normal="1837"
+					  type="inclusive">1837</unitdate></unittitle> 
+				  <physdesc><extent>Item 16</extent></physdesc> 
+				</did> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box">1</container> 
+					 <container type="item">16</container> 
+					 <unittitle> 
+						<corpname source="lcnaf">Saint James' Theatre (London,
+						  England)</corpname>, 
+						<unitdate normal="1837-12-29" type="inclusive">29 December
+						  1837</unitdate></unittitle> 
+					 <dao linktype="simple"
+					 href="../xtf/data/pdf/music/documents/ubmu0058_16.pdf"
+					 actuate="onrequest" show="new"/> 
+					 <physdesc><extent>1 broadside ; 35 x 21 cm.</extent></physdesc>
+					 
+				  </did> 
+				  <scopecontent> 
+					 <p>Reduced title transcription: 
+					 <title>Pascal Bruno, founded on Mr. Hook’s novel, having been
+						received most enthusiastically throughout, will be repeated every evening :
+						Theatre Royal St. James's : This evening, Friday, December 29, 1837 will be
+						performed a popular burletta, founded on and called Guy Mannering … After
+						which, the famous burletta written by Boz. entitled Is She His Wife? Or,
+						Something Singular! ... To conclude with … an entirely new romantic burletta,
+						in two acts, called Pascal Bruno, adapted from Mr. Theodore Hook's translation
+						of the celebrated tale by Mons. Alexandre Dumas … The Incidental music selected
+						and composed by Mr. G. F. Stansbury, the dances arranged by Mrs. Wells, the
+						scenery by Mr. Nicholls ... In the course of the piece, Mr. Wright and Madame
+						Sala will dance their celebrated burlesque of The Cuchacha</title></p> 
+					 <p>Works named: 
+						<list> 
+						  <item> 
+							 <persname source="lcnaf">Bishop, Henry R. (Henry Rowley),
+								Sir, 1786-1855</persname>: 
+							 <title>Guy Mannering</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Dickens, Charles,
+								1812-1870</persname>: 
+							 <title>Is she his wife?, or, Something
+								singular</title></item> 
+						  <item> 
+							 <persname source="lcnaf">Dumas, Alexandre,
+								1802-1870</persname>: 
+							 <title>Pascal Bruno</title></item> 
+						  <item> 
+							 <title>Cachucha</title></item> 
+						</list> </p> 
+					 <p>Personnel named include: 
+						<list> 
+						  <item>Mr. Alexander ( 
+							 <persname rules="aacr2">Alexander, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Allison (later Mrs. Seymour) ( 
+							 <persname rules="aacr2">Allison, Miss, b.
+								1816</persname>)</item> 
+						  <item>Miss C. Booth ( 
+							 <persname rules="aacr2">Booth, C., Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Braham ( 
+							 <persname source="lcnaf">Braham, John,
+								1774-1856</persname>)</item> 
+						  <item>Mr. Brookes ( 
+							 <persname rules="aacr2">Brookes, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Burnet ( 
+							 <persname rules="aacr2">Burnet, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Gardner (possibly John Gardiner, d. 1851) ( 
+							 <persname rules="aacr2">Gardner, Mr., 19th cent.
+								</persname>)</item> 
+						  <item>Mr. A. Giubilei (also spelled Guibilei on playbill - 
+							 <persname rules="aacr2">Giubilei, A.,
+								Mr.</persname>)</item> 
+						  <item>Mr. H. Hall ( 
+							 <persname rules="aacr2">Hall, Henry,
+								1804-1858</persname>)</item> 
+						  <item>Mr. Harley ( 
+							 <persname source="lcnaf">Harley, John Pritt,
+								1786-1858</persname>)</item> 
+						  <item>Mr. Hart ( 
+							 <persname rules="aacr2">Hart, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Hollingsworth ( 
+							 <persname rules="aacr2">Hollingsworth, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Theodore Hook ( 
+							 <persname source="lcnaf">Hook, Theodore Edward,
+								1788-1841</persname>)</item> 
+						  <item>Mr. Moore ( 
+							 <persname rules="aacr2">Moore, Mr., 19th
+								cent.</persname>)</item> 
+						  <item>Mrs. Penson ( 
+							 <persname rules="aacr2">Penson, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Miss Rainforth ( 
+							 <persname rules="aacr2">Rainforth, Elizabeth,
+								1814-1877</persname>)</item> 
+						  <item>Madame Sala ( 
+							 <persname rules="aacr2">Sala, Madame,
+								1792-1860</persname>)</item> 
+						  <item>Mr. Sidney ( 
+							 <persname rules="aacr2">Sidney, Mr., 19th cent.
+								</persname>)</item> 
+						  <item>Miss Julia Smith ( 
+							 <persname source="lcnaf">Smith, Julia, 19th
+								cent.</persname>)</item> 
+						  <item>Miss Smith ( 
+							 <persname rules="aacr2">Smith, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. G. F. Stansbury ( 
+							 <persname source="lcnaf">Stansbury, George Frederick,
+								1800-1845 </persname>)</item> 
+						  <item>Mrs. Stirling ( 
+							 <persname source="lcnaf">Stirling, Fanny,
+								1815-1895</persname>)</item> 
+						  <item>Miss Stuart ( 
+							 <persname rules="aacr2">Stuart, Miss, 19th
+								cent.</persname>)</item> 
+						  <item>Mr. J. Webster ( 
+							 <persname source="lcnaf">Webster, John,
+								1810-1851</persname>)</item> 
+						  <item>Mrs. Wells ( 
+							 <persname rules="aacr2">Wells, Mrs., 19th
+								cent.</persname>)</item> 
+						  <item>Mr. Wright ( 
+							 <persname rules="aacr2">Wright, Edward Richard,
+								1813-1859</persname>)</item> 
+						</list> </p> 
+				  </scopecontent> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series2b">II. B</unitid> 
+				<unittitle>York, 
+				  <unitdate normal="1790"
+				  type="inclusive">1790</unitdate></unittitle> 
+				<physdesc><extent>Item 17</extent></physdesc> 
+			 </did> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="item">17</container> 
+				  <unittitle> 
+					 <corpname source="lcnaf">Theatre Royal (York,
+						England)</corpname>, 
+					 <unitdate normal="1790-04-13" type="inclusive">13 April
+						1790</unitdate></unittitle> 
+				  <dao linktype="simple"
+				  href="../xtf/data/pdf/music/documents/ubmu0058_17.pdf"
+				  actuate="onrequest" show="new"/> 
+				  <physdesc><extent>1 broadside ; 31 x 21 cm.</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Reduced title transcription: 
+				  <title>Theatre-Royal, York : Tuesday evening, April 13, 1790,
+					 will be presented a comedy, called The Clandestine marriage ... To which will
+					 be added Mr. Sheridan's celebrated farce, called The Critic; or, A Tragedy
+					 Rehears'd ... To conclude with A Grand Naval Engagement, and Rule Brittannia,
+					 in Full Chorus …</title></p> 
+				  <p>Works named: 
+					 <list> 
+						<item> 
+						  <persname source="lcnaf">Colman, George,
+							 1732-1794</persname>: 
+						  <title>Clandestine marriage</title></item> 
+						<item> 
+						  <persname source="lcnaf">Sheridan, Richard Brinsley,
+							 1751-1816</persname>: 
+						  <title>Critic</title></item> 
+					 </list> </p> 
+				  <p>Personnel named include: 
+					 <list> 
+						<item>Mrs. Cummins ( 
+						  <persname rules="aacr2">Cummins, Mrs.</persname>)</item> 
+						<item>Mr. Draycott ( 
+						  <persname rules="aacr2">Draycott, Mr.</persname>)</item> 
+						<item>Mr. Fawcett ( 
+						  <persname source="lcnaf">Fawcett, Mr. (John),
+							 1768-1837</persname>)</item> 
+						<item>Mrs. Fawcett ( 
+						  <persname rules="aacr2">Fawcett, Susan, d.
+							 1797</persname>)</item> 
+						<item>Mrs. French ( 
+						  <persname rules="aacr2">French, Mary Amelia, d. 1887
+							 </persname>)</item> 
+						<item>Mrs. Kennedy ( 
+						  <persname rules="aacr2">Kennedy, Agnes, ca.
+							 1759-1832</persname>)</item> 
+						<item>Mr. Kennedy ( 
+						  <persname rules="aacr2">Kennedy, Thomas, ca.
+							 1750-1808</persname>)</item> 
+						<item>Mr. King ( 
+						  <persname source="lcnaf">King, Thomas,
+							 1730-1805</persname>)</item> 
+						<item>Mr. Leng ( 
+						  <persname rules="aacr2">Leng, Mr.</persname>)</item> 
+						<item>Mrs. Leng ( 
+						  <persname rules="aacr2">Leng, Mrs.</persname>)</item> 
+						<item>Mr. Michell ( 
+						  <persname rules="aacr2">Michell, Mr.</persname>)</item> 
+						<item>Mr. Penson ( 
+						  <persname rules="aacr2">Penson, George, d.
+							 1833</persname>)</item> 
+						<item>Mr. Snagg ( 
+						  <persname source="lcnaf">Snagg, Thomas,
+							 1746-1812</persname>)</item> 
+						<item>Mr. Southgate ( 
+						  <persname rules="aacr2">Southgate, Mr.</persname>)</item> 
+						<item>Mr. Townsend ( 
+						  <persname rules="aacr2">Townsend, Edward Evans,
+							 1766-1809</persname>)</item> 
+						<item>Mr. Turpin ( 
+						  <persname rules="aacr2">Turpin, Mr.</persname>)</item> 
+						<item>Mr. Warren ( 
+						  <persname rules="aacr2">Warren, Mr.</persname>)</item> 
+						<item>Mr. J. Wilkinson ( 
+						  <persname source="lcnaf">Wilkinson, John Joseph Tate, 1769
+							 or 70-1846</persname>)</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">Boston Theatre (Washington Street, Boston, Mass.)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">Tremont Theatre (Boston, Mass.)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">Covent Garden Theatre</corpname> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">Royal Italian Opera (London, England)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">Sadler's Wells Theatre (London, England)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">Saint James' Theatre (London, England)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">Theatre Royal (York, England)</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Phelps, Samuel, 1804-1878</persname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Boston Theatre (Washington Street, Boston, Mass.)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Tremont Theatre (Boston, Mass.)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Covent Garden Theatre</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Royal Italian Opera (London, England)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Sadler's Wells Theatre (London, England)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Saint James' Theatre (London, England)</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610" role="subject">Theatre Royal (York, England)</corpname> 
+		  <subject source="lcsh"
+			encodinganalog="650">Playbills--Massachusetts--Boston--Specimens</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Playbills--England--London--Specimens</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Playbills--England--York--Specimens</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Broadsides--Massachusetts--Boston--Specimens</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Broadsides--England--London--Specimens</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Broadsides--England--York--Specimens</subject> 
+		  <subject source="lcsh" encodinganalog="650">Printed ephemera--Massachusetts--Boston--Specimens</subject> 
+		  <subject source="lcsh" encodinganalog="650">Printed ephemera--England--London--Specimens</subject> 
+		  <subject source="lcsh" encodinganalog="650">Printed ephemera--England--York--Specimens</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Theater--Massachusetts--Boston--19th century</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Theater--England--London--19th century</subject> 
+		  <subject source="lcsh"
+			encodinganalog="650">Theater--England--York--18th century</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="rbgenr">Broadsides</genreform> 
+		  <genreform encodinganalog="655" source="rbgenr">Playbills</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<otherfindaid encodinganalog="555"> 
+		  <head>Additional Guides</head> 
+		  <p>All playbills in the collection are cataloged in WorldCat and are
+			 available in 
+			 <extref href="http://bison.buffalo.edu" show="new"
+			  actuate="onrequest" role="text/html">BISON</extref>, the online catalog for the
+			 University at Buffalo Libraries, by performing a "Title begins with" search
+			 under "Christopher Coover Collection of Theatre Broadsides".</p> 
+		  <p>All playbills have been digitized and full text transcriptions have
+			 been prepared. The full text of these transcriptions is keyword searchable. Any
+			 personnel not stated in the container list description can be searched through
+			 the transcriptions as can the names of characters in the plays. </p> 
+		</otherfindaid> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

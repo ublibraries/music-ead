@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 37::Michael J. A. Doran Research Papers)//EN">ubmu0037
+	 </eadid> 
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Michael J. A.
+		Doran Research Papers, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1975/1978"> 1975-1978 </date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> Doran (Michael J. A.)
+		Research Papers</titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, January 2015.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a"> Michael J. A. Doran
+	   Research Papers, 
+	   <unitdate encodinganalog="245$f" normal="1975/1978" type="inclusive"
+	    datechar="creation"> 1975-1978 </unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 37</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" rules="aacr2"> Doran,
+		Michael John Arthur, 1940-1978</persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">4
+	   boxes</extent> <extent unit="folder" encodinganalog="300$a">(50
+	   folders)</extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">
+	   Collection material in <language encodinganalog="041"
+	   langcode="eng">English</language> and <language
+	   langcode="ita">Italian</language>. </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a"> The collection
+	   contains research notes, journal articles, and copies of source materials
+	   collected 1975-1978. The focus of the research is music by Alessandro Stradella
+	   (1644-1682) and Carlo Ambrogio Lonati (circa 1656-circa 1710-15) and other 17th
+	   century Italian composers.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Michael J. A. Doran Research Papers, 1975-1978,
+		Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Eve Harwood, circa 1980.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed under the supervision of Carol June Bradley, circa
+		1980-1981.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Michael Doran was born to Marion and Arthur Doran in Hamilton Ontario
+	   in 1940. He was the oldest of their four children. The family lived in the
+	   nearby town of Dundas, Ontario, where Michael attended primary and secondary
+	   school, and studied piano privately. He earned an Associate Diploma in Piano
+	   Performance from the Royal Conservatory of Toronto while an undergraduate at
+	   McMaster University in Hamilton, Ontario, where he received his undergraduate
+	   degree in English Literature. Upon graduation he won a major scholarship to do
+	   graduate work in music history at the University of Chicago. His musical mentor
+	   at McMaster was Professor Frank Thorolfson, who had taught at the University of
+	   Chicago before moving to McMaster to establish its Bachelor of Music degree
+	   program and become its first Music chair.</p> 
+	 <p>While completing his master's thesis in musicology at the University
+	   of Chicago Michael taught a year at Dickinson College in Carlyle, Pennsylvania,
+	   then returned to the Dundas, Ontario area where he was active as a church
+	   organist, choral director, and piano teacher for several years. During this
+	   time he also served as adjunct music professor at McMaster and as choral
+	   director for the music department's newly established choir Schola Cantorum. He
+	   received his Master of Music degree from the University of Chicago in 1975. The
+	   title of his thesis was 
+	 <title render="italic">The Trio Sonatas of Alessandro Stradella</title>.
+	 In 1975 he enrolled in the doctoral program in musicology at the State
+	 University of New York at Buffalo. While there he also studied harpsichord and
+	 directed a vocal ensemble for early music, the Collegium Musicum, similar to
+	 one he had begun at the University of Chicago when in the graduate program
+	 there. Michael's research for his doctoral dissertation focused on the life and
+	 works of Carlo Ambrogio Lonati (circa 1645-circa 1710-1715). It was a logical
+	 extension of his fascination with 17th century Italian music and the research
+	 he had done for his Master’s thesis concerning Lonati's colleague, Alessandro
+	 Stradella (1639-1682). His research on Lonati resulted in the publication of
+	 his biographical entry for Lonati in the 
+	 <title render="italic">New Grove Dictionary of Music and
+	   Musicians</title>, 1980. Michael J. A. Doran passed away in March 1978.</p> 
+	 <note> 
+	   <p>Biographical information courtesy of Michael J. A. Doran's wife, Dr.
+		Eve Harwood.</p> 
+	 </note> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection contains research notes, journal articles, and copies
+	   of source materials collected 1975-1978. The focus of the research is the music
+	   of Alessandro Stradella (1644-1682) and Carlo Ambrogio Lonati (circa 1656-circa
+	   1710-15) and other 17th-century Italian composers. The research was intended to
+	   result in a Ph.D. dissertation on Lonati but was never completed. It includes
+	   photocopies of Owen Jander's research on Lonati's vocal music, correspondence
+	   between Jander, Doran, and the editors of the 
+	 <title render="italic">New Grove Dictionary of Music and
+	   Musicians</title>, 1980 edition, regarding Doran's article on Lonati. It also
+	 contains photocopies of 17th century music manuscripts and published scores
+	 relevant to Stradella and Lonati. </p> 
+	 <p>One third of the collection consists of negative and positive
+	   photocopies of music manuscripts from Italian libraries. One fifth of the
+	   collection consists of positive photocopies of journal articles and selections
+	   from monographs. Some of the photoprints from microfilms have faded to the
+	   extent that they are no longer legible. Fortunately, the library holds
+	   microfilms from which the prints were made.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged in two series: </p> 
+	 <list> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series1">I.</ref>
+		Sources</item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series2">II.</ref>
+		Research</item> 
+	 </list> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I.</unitid> 
+		<unittitle>Sources, 
+		  <unitdate type="inclusive" normal="1679/1840">1679-1840</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 1-16 </extent></physdesc> 
+	   </did> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">1</container> 
+		  <unittitle>Bologna. Civico Museo Bibliografico Musicale. Ms. Mart.
+		    6.1 (V.195). Excerpt, 
+		    <unitdate type="inclusive">circa 1840</unitdate> </unittitle> 
+		  <physdesc> <extent>3 pages</extent>, <physfacet> positive
+		    photoprint from microfilm</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>f. 87-88v. Lonati. 
+			 <title type="book" render="italic">La fortuna fa la
+			   ruota</title>. Duet. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 M02 L841 f
+		    </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">2</container> 
+		  <unittitle>London. British Museum. Ms. Harley 1863. Excerpts, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>28 leaves</extent>,<physfacet> faded negative
+		    photoprint from microfilm. Some pages illegible.</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>f. 82-90. Lonati(but possibly Cesti or Cazzati). 
+			 <title type="book" render="italic">Nel adirato seno</title>.
+			 Aria for voice and basso continuo. </item> 
+		    <item>f. 187-190. Lonati. 
+			 <title type="book" render="italic">Gite pur l'aria</title>.
+			 Aria for voice and basso continuo. </item> 
+		    <item>f. 281-290. Lonati? 
+			 <title type="book" render="italic">Nel adirato seno</title>.
+			 Aria for voice and basso continuo. A different setting from f. 82. </item> 
+		    <item>Index to Ms. Harley 1863. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available as microfilm in the library: MIC_1 M02 A3 Lbm (h.1863)
+		    </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">3</container> 
+		  <unittitle>Modena. Biblioteca Estense. Ms. Mus. F.639. Complete, 
+		    <unitdate type="inclusive"> circa 1686</unitdate> </unittitle> 
+		  <physdesc> <extent>3 leaves</extent>, <physfacet> faded positive
+		    photoprint from microfilm</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Lonati. Sonata in A major for violin and basso continuo.
+			 </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 M02 L841 so
+		    </p> 
+		  <p>Available in digital format at: 
+		    <extref
+		    href="http://bibliotecaestense.beniculturali.it/info/img/mus/i-mo-beu-mus.f.639.pdf"
+		    show="new" actuate="onrequest" role="text/html">Biblioteca Estense
+			 Universitaria, Biblioteca digitale - Musicali (Music works) </extref></p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">4</container> 
+		  <unittitle>Modena. Biblioteca Estense. Ms. Mus. F.1372. Excerpts, 
+		    <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		  <physdesc> <extent>37 pages</extent>, <physfacet> badly faded
+		    positive photoprint from microfilm. Most pages illegible.</physfacet>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>f. 1-18v. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 M02 A3 MOe
+		    (F.1372) </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">5</container> 
+		  <unittitle>Modena. Biblioteca Estense. Ms. Mus. F.1383. Excerpts, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 12, 19 pages</extent>, <physfacet> positive
+		    photoprint from microfilm</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>f. 17-26. Lonati. 
+			 <title type="book" render="italic">I teneri lamenti di Filli
+			   abbandonata</title>. Cantata for soprano and basso continuo. </item> 
+		    <item>f. 27-38v. Lonati. 
+			 <title type="book" render="italic">Naviganti al lido</title>.
+			 Cantata for two voices and basso continuo. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 M02 L841 ca
+		    </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">6</container> 
+		  <unittitle>Modena. Biblioteca Estense. Ms. Mus. F.1549. Excerpts, 
+		    <unitdate type="inclusive"> 1686</unitdate> </unittitle> 
+		  <physdesc> <extent> 51 </extent>, <physfacet> faded positive
+		    photoprint from microfilm </physfacet></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>All from: Lonati. 
+			 <title type="book" render="italic">I due germani rivali</title>
+			 (1686). Opera. </item> 
+		    <item>f. 1-14; 24v-26; 46-48; 138-140v; 142-146. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 M02 L841 d
+		    </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">7</container> 
+		  <unittitle>Modena. Biblioteca Estense. Ms. Mus. G.111. Excerpts, 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 24 pages</extent>,<physfacet> badly faded
+		    positive photoprint from microfilm. Some pages illegible.</physfacet>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>No. 1. Lonati. 
+			 <title type="book" render="italic">Al ferio</title>. Aria for
+			 alto and basso continuo. No. 14. Lonati. 
+			 <title type="book" render="italic">Ni fa piangere</title>. Aria
+			 for soprano and basso continuo. </item> 
+		    <item>No. 34. Lonati. 
+			 <title type="book" render="italic">Annodami
+			   abbracciami</title>. Aria for soprano and basso continuo. </item> 
+		    <item>No. 40. Lonati. 
+			 <title type="book" render="italic">Se non ardo</title>. Aria
+			 for soprano and basso continuo. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library under title, 
+		  <title render="italic">Ariette a vocî diverse e duettino con basso
+		    continuo</title>: MicFilm MIC_1 M02 L841 ar </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">8</container> 
+		  <unittitle>Modena. Biblioteca Estense. Ms. Mus. G.112. Complete, 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 36 pages</extent> ,<physfacet> faded positive
+		    photoprint from microfilm. Some pages illegible.</physfacet></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Lonati. 
+			 <title type="book" render="italic">Solca il mar da rie
+			   tempeste</title>. Cantata for soprano solo and basso continuo. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 M02 St786
+		    so </p> 
+		  <p>Available in digital format at 
+		    <extref
+		    href="http://bibliotecaestense.beniculturali.it/info/img/mus/i-mo-beu-mus.g.112.pdf"
+		    role="text/html" show="new" actuate="onrequest">Biblioteca Estense
+			 Universitaria, Biblioteca digitale - Musicali (Music works) </extref></p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">9</container> 
+		  <unittitle>Turin. Biblioteca nazionale. Ms. Giordano 15. Excerpts, 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 3, 12, 17 pages</extent>, <physfacet>faded
+		    positive photoprint from microfilm. Some pages illegible</physfacet>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>f. 79v-87v. Lonati. Trio sonata in D. major for 2 violins
+			 and basso continuo. </item> 
+		    <item>f. 103-108v. Lonati. Trio sonata in C major for 2 violins
+			 and basso continuo. </item> 
+		    <item>2 pages incipits for f. 58-108, in Doran's hand. Notes in
+			 margin. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library under the title, 
+		  <title render="italic">Sinfonia del Lelio Colista et altri</title>:
+		  MicFilm MIC_2 M02 A3 Tn (g.15) </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">10</container> 
+		  <unittitle> 
+		    <title type="book" render="italic">Scelta di canzonette italiane
+			 de piu autori</title>. Dedicate a gli a della musica. Printed at London, by A.
+		    Godbid and J. Playford, in Little Britain, 1679. Excerpts, 
+		    <unitdate type="inclusive"> 1679</unitdate> </unittitle> 
+		  <physdesc> <extent> 28 pages</extent>, <physfacet> faded negative
+		    photoprint from microfilm</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>p. 37-42. Lonati. 
+			 <title type="book" render="italic">Tu partisti idolo
+			   amato</title>. Aria for soprano and basso continuo. </item> 
+		    <item>p. 81-84. Lonati (but possibly Mannelli or Caproli). 
+			 <title type="book" render="italic">Voglio morte e voglio
+			   vita</title>. Aria for soprano and basso continuo. p. 102-108. Stradella. 
+			 <title type="book" render="italic">Non a mai amor
+			   ferir</title>. Duet for 2 sopranos and basso continuo. p. 109-116. Stradella. 
+			 <title type="book" render="italic">Care labbra</title>. Duet
+			 for 2 sopranos and basso continuo. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm M72019 A3 P626 s
+		    </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">11</container> 
+		  <unittitle>Transcription in Doran's hand, of Lonati's 
+		    <title render="italic" type="book">Tu partisti idolo
+			 amato</title>, pages 37-42 from 
+		    <title render="italic">Scelta di canzonette italiane de piu
+			 autori</title> 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 3 pages manuscript music</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">12</container> 
+		  <unittitle> 
+		    <title render="italic" type="book">Select preludes and
+			 vollentarys for the violin, being made and contrived for the improvement of the
+			 hand with variety of compositions by all the greatest masters in
+			 Europe</title>. London, printed for J. Walsh... and J. Hare at the Golden Viol
+		    in St. Paul's Churchyard. Complete, 
+		    <unitdate type="inclusive">circa 1705</unitdate> </unittitle> 
+		  <physdesc> <extent> 41 pages</extent>, <physfacet> faded positive
+		    photoprint from microfilm</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes works by Lonati, Cosma, A. Corelli, Torelli, Purcell
+		    and others. </p> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available in digital format in 
+		    <extref
+		    href="http://petrucci.mus.auth.gr/imglnks/usimg/4/45/IMSLP98139-PMLP201723-select_preludes_or_vollentaries_vn_1705.pdf"
+		    show="new" actuate="onrequest">International Music Score Library Project
+			 (IMSLP)</extref></p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">13</container> 
+		  <unittitle> 
+		    <title render="italic" type="book">Select preludes and
+			 volluntarys for the flute, being made and contriv'd for ye improvement of ye
+			 hand with variety of compositions by all the eminent masters in Europe</title>.
+		    London, printed for J. Walsh and Randall and J. Hare. Complete, 
+		    <unitdate type="inclusive">1708</unitdate> </unittitle> 
+		  <physdesc> <extent> 18 pages</extent>, <physfacet> faded positive
+		    photoprint from microfilm</physfacet></physdesc> 
+		</did> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MIC-1 M317 A3 se </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">14</container> 
+		  <unittitle> 
+		    <title render="italic" type="book">Armonie di Pindo: Cantate da
+			 camera a voce sola di diversa eccellenti autori nuovamente raccolte, e date in
+			 luce da Federico Vigoni e dal medemo consacrate al grano merito del M. R. Padre
+			 D. Claudio Antonio Strada</title>. Milano. Complete, 
+		    <unitdate type="inclusive">1712</unitdate> </unittitle> 
+		  <physdesc> <extent> 181 pages reproduced 4 pages to 1
+		    leaf</extent>, <physfacet> faded positive photoprint from microfilm</physfacet>
+		    </physdesc> 
+		</did> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm | MIC-1 M715 A3
+		    V68 ar </p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">15</container> 
+		  <unittitle>Cialli, Rinaldo. 
+		    <title render="italic" type="book">Ariberto e Flavio, regi de
+			 Longobardi, |dramma per musica; da rappresentarsi nel ristaurato famoso Teatro
+			 Vendramino di San Salvatore, l'anno MDCLXXXV </title>. Venice: Francesco
+		    Nicolini, 
+		    <unitdate type="inclusive">1684</unitdate> </unittitle> 
+		  <physdesc> <extent> 69 pages printed 2 per leaf</extent>,
+		    <physfacet> badly faded positive photoprint from microfilm. Some pages
+		    illegible.</physfacet> </physdesc> 
+		  <note> 
+		    <p>Libretto to opera by Carlo Ambrogio Lonati.</p> 
+		  </note> 
+		</did> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 ML1498 </p>
+		  
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">16</container> 
+		  <unittitle>D'Averara, Pietro. 
+		    <title render="italic" type="book">L'Aiace. Dramma per musica. Da
+			 rappresentarsi nil Regio Teatro di Milano l'anno 1694</title>. In Milano, Carlo
+		    Federico Gagliard. Seconda Impressione. Excerpts, 
+		    <unitdate type="inclusive">1697</unitdate> </unittitle> 
+		  <physdesc> <extent>14 leaves</extent>, <physfacet>
+		    Photocopy</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Incomplete libretto. Includes only introductory pages and
+			 no text. </item> 
+		  </list> 
+		</scopecontent> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 ML1496</p> 
+		  <p>Available in digital format at 
+		    <extref
+			href="http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/libretti/02/Lo02735/"
+			actuate="onrequest" show="new">Museo internazionale e biblioteca della musica
+			 di bologna</extref></p> 
+		</altformavail> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II.</unitid> 
+		<unittitle>Research, 
+		  <unitdate type="inclusive" normal="YYYY/YYYY">1673-1978</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 17-50 </extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Photocopies of articles</p> 
+	   </scopecontent> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">17</container> 
+		  <unittitle>Photocopies of dictionary articles on Alessandro
+		    Stradella with accompanying notes and translations, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Authors include Fétis, Sartori, Schmidl, Grove, Pirrotta, and
+		    Michel.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">18</container> 
+		  <unittitle>Notes on Alessandro Stradella and the topic of rhythm in
+		    Baroque music, quoted from dictionaries, monographs and journals, 
+		    <unitdate type="inclusive">undated </unitdate> </unittitle> 
+		  <physdesc> <extent>13 leaves</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">19</container> 
+		  <unittitle>Bourdelot, Pierre and Pierre Bonnet. 
+		    <title render="italic" type="book">Histoire de la musique et ses
+			 effets</title> (Paris, 1715): pages 41-45 and 59-67. 
+		    <unitdate type="inclusive">1966</unitdate>, 
+		    <unitdate>1969</unitdate> </unittitle> 
+		  <physdesc> <extent>12 leaves</extent> , <physfacet>
+		    photocopies</physfacet></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>A discussion of Stradella's music. </item> 
+		  </list> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">20</container> 
+		  <unittitle>Richard, P. 
+		    <title type="article">Stradella et les Contarini</title>, in 
+		    <title render="italic">Le Ménestral </title>, 
+		    <unitdate type="inclusive">1865-1866</unitdate> </unittitle> 
+		  <physdesc> <extent>37 leaves</extent>, <physfacet>
+		    photocopies</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Article about Stradella issued in parts from November 18 1865
+		    through April 1 1866. Missing issue of December 31 1865. </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">21</container> 
+		  <unittitle>Gatti, Guido M. 
+		    <title type="article">Current Chronicle</title> in 
+		    <title render="italic">Musical Quarterly</title> 36: pages
+		    124-130. A review of Stradella's oratorio 
+		    <title type="book" render="italic">San Giovanni Battista</title>,
+		    
+		    <unitdate type="inclusive">1950</unitdate> </unittitle> 
+		  <physdesc> <extent>4 leaves</extent>, <physfacet>
+		    photocopies</physfacet> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">22</container> 
+		  <unittitle>Altmann, Wilhelm. 
+		    <title render="italic" type="book">Kammermusik-Katalog: ein
+			 Verzeichnis von seit 1841 veröffentlichten Kammermusikwerken, sechste bis
+			 August 1944 ergänzte Auflage </title>(Hofheim am Taunus, 1944): pages 74-75,
+		    170-71, and 242-43, 
+		    <unitdate type="inclusive">1944</unitdate> </unittitle> 
+		  <physdesc> <extent> 3 leaves </extent>, <physfacet>
+		    photocopies</physfacet> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Lists of works by Stradella. </item> 
+		  </list> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">23</container> 
+		  <unittitle>Notes on Stradella's contemporaries, including Lonati,
+		    Mannelli, and Colista, copied from dictionary articles, in Doran's hand, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 2 manuscript leaves</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">24</container> 
+		  <unittitle>Miscellaneous notes and journal articles about Queen
+		    Christina of Sweden, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">25</container> 
+		  <unittitle>Miscellaneous notes and journal articles about the Great
+		    Britain Public Records Office, 16874,88, 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 22 leaves</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">26</container> 
+		  <unittitle>Miscellaneous notes and journal articles about Sir
+		    Christopher Wren and Whitehall Palace, London, 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">27</container> 
+		  <unittitle>Miscellaneous notes about 17th century sonatas, in
+		    Doran's hand, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 5 leaves</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">28</container> 
+		  <unittitle>Bononcini, Giovanni Maria. 
+		    <title render="italic">Musico Prattico</title> (Bologna), pages
+		    24-25 and 40 
+		    <unitdate type="inclusive">1673</unitdate> </unittitle> 
+		  <physdesc> <extent> 2 leaves</extent>, <physfacet>
+		    photocopies</physfacet> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">29</container> 
+		  <unittitle>Brenzoni, R. 
+		    <title type="article">Giuseppe Torelli, musicista
+			 veronese</title> in 
+		    <title render="italic" type="journal">Note d'archivio per la
+			 storia musicale</title> 13: 22-37, 
+		    <unitdate type="inclusive"> 1936</unitdate> </unittitle> 
+		  <physdesc> <extent> 8 leaves</extent>, <physfacet>
+		    photocopies</physfacet></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">30</container> 
+		  <unittitle>Smith, Helen Margaret. 
+		    <title render="italic">F. M. Veracini's "Il trionfo della
+			 prattica musicale"</title> 
+		    <unitdate type="inclusive"> 1963</unitdate> </unittitle> 
+		  <physdesc> <extent> 12 leaves</extent>, <physfacet> badly faded
+		    negative photoprint from microfilm. Almost completely illegible.</physfacet>
+		    </physdesc> 
+		</did> 
+		<note> 
+		  <p>Ph.D. thesis, Indiana University, 1963: pages 122-131 and
+		    220-243. A partial translation and commentary on Veracini's treatise. </p> 
+		</note> 
+		<altformavail> 
+		  <p>Available on microfilm in the library: MicFilm MIC_1 ML118</p> 
+		</altformavail> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">31</container> 
+		  <unittitle>Miscellaneous notes and journal articles about Lonati,
+		    Maggi, and Muratori, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">32</container> 
+		  <unittitle>Black ring binder containing miscellaneous notes about
+		    Lonati and his contemporaries, in Doran's hand, 
+		    <unitdate type="inclusive">undated </unitdate> </unittitle> 
+		  <physdesc> <extent>1 binder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">33</container> 
+		  <unittitle>Miscellaneous bibliographical notes about Lonati and
+		    related topics, in Doran's hand. 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes manuscript transcription of Benedetto Ferrari's Premo,
+		    premoil giogo dell' Alpi (1633).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">34</container> 
+		  <unittitle>Owen Jander's research on Lonati's vocal music. Includes
+		    notes about telephone conversations between Jander and Doran, in Doran's hand,
+		    and written correspondence, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">35</container> 
+		  <unittitle>Notes on Lonati's duet 
+		    <title type="book" render="italic">La fortuna fa la
+			 ruota</title>in: Bologna. Civico Museo Bibliografico Musicale, Ms. Mart. 6.1
+		    (V.195): 57-58v. 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 6 leaves</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">36</container> 
+		  <unittitle>Miscellaneous notes, mostly about the opera 
+		    <title type="book" render="italic">L'Aiace</title> by Lonati,
+		    Paolo Magni and Francesco Ballarotti, 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">37</container> 
+		  <unittitle>Notes about Lonati's cantata 
+		    <title type="book" render="italic">I teneri lamenti di Filli
+			 abbandonata</title>, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 folder</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Bassani, Giovanni Battista. 
+			 <title type="book" render="italic">L'Amante placata</title>.
+			 Cantata for voice and basso continuo. Notes, in pencil, in Doran's hand.
+			 </item> 
+		    <item>Transcription of 
+			 <title render="italic" type="book">I teneri lamenti di filli
+			   abbandonata</title> from Modena. Biblioteca Estense, Ms. Mus. F.1383: 17-26.
+			 </item> 
+		  </list> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">38</container> 
+		  <unittitle>Notes on sources for Lonati, in Doran's hand, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">39</container> 
+		  <unittitle>Notes on sources for Lonati, in Doran's hand, including
+		    excerpts from printed library catalogues, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">40</container> 
+		  <unittitle>Bound notebook with notes about Lonati, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 notebook</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes biography, notes on works and sources, problems and
+		    questions, bibliography, and notes on Lonati's contemporaries. </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">41</container> 
+		  <unittitle>Miscellaneous notes and transcriptions, all incomplete,
+		    on Lonati, 
+		    <unitdate type="inclusive"> undated</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">42</container> 
+		  <unittitle> 
+		    <title type="book" render="italic">Carlo Ambrogio Lonati: life
+			 and works</title>, 
+		    <unitdate type="inclusive">1975</unitdate> </unittitle> 
+		  <physdesc> <extent> 17 manuscript leaves</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Ms, in Doran's hand. Draft of the paper for the Fall, 1975
+			 doctoral seminar in music history at SUNY-Buffalo, under the direction of David
+			 Fuller. </item> 
+		  </list> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">43</container> 
+		  <unittitle> 
+		    <title type="book" render="italic">Carlo Ambrogio Lonati: life
+			 and works</title>, 
+		    <unitdate type="inclusive">December 15, 1975 </unitdate>
+		    </unittitle> 
+		  <physdesc> <extent> 39 pages</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Two photocopies.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">44</container> 
+		  <unittitle> 
+		    <title type="book" render="italic">Carlo Ambrogio Lonati: life
+			 and works</title>, 
+		    <unitdate type="inclusive">December 15, 1975</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Typescript with additional notes in Doran's hand. </item> 
+		  </list> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">45</container> 
+		  <unittitle> 
+		    <title type="book" render="italic">Carlo Ambrogio Lonati: life
+			 and works</title>, 
+		    <unitdate type="inclusive">February 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>38 pages</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <list type="simple"> 
+		    <item>Typescript. Revised version, February 1976. Notes in margin
+			 in Doran's hand. </item> 
+		    <item>Accompanied by 
+			 <title type="article">Un musicista salodiano del Sec. XVII,
+			   Carlo Pallavicini</title> in 
+			 <title type="journal" render="italic">Note d'Archivio</title>,
+			 XVIII (1941).</item> 
+		  </list> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">46</container> 
+		  <unittitle>Miscellaneous notes on Lonati including biographical
+		    outline, 
+		    <unitdate type="inclusive"> 1975-1977</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">47</container> 
+		  <unittitle>Correspondence from Michael J. A. Doran to the
+		    Biblioteca Apostolica Vaticana about sources for Lonati's works, 
+		    <unitdate type="inclusive">November 1977</unitdate> </unittitle> 
+		  <physdesc> <extent> 4 leaves</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">48</container> 
+		  <unittitle>Correspondence about Lonati article for 
+		    <title type="book" render="italic">New Grove Dictionary of
+			 Music</title>, 6th edition, 
+		    <unitdate type="inclusive">1976</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">49</container> 
+		  <unittitle>Correspondence about Lonati article for 
+		    <title type="book" render="italic">New Grove Dictionary of
+			 Music</title>, 6th edition, 
+		    <unitdate type="inclusive"> 1977-1978</unitdate> </unittitle> 
+		  <physdesc> <extent> 1 folder</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">50</container> 
+		  <unittitle>St. Edmund's MSS, etc., 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 envelope (2 folders)</extent> </physdesc> 
+		</did> 
+	   </c02> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Contributors</head> 
+	   <persname source="lcnaf" encodinganalog="700" role="creator">Jander,
+		Owen</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Music--Italy--17th
+		century</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Lonati,
+		Carlo Ambrogio</persname> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Stradella,
+		Alessandro, 1639-1682</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">scores</genreform> 
+	   <genreform encodinganalog="655" source="aat">papers (document
+		genres)</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+  </archdesc>
+</ead> 

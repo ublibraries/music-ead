@@ -1,0 +1,3918 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 33.1::Pamela Gearhart Collection of Photographs)//EN">ubmu0033_1</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Pamela Gearhart
+		Collection of Photographs, 
+		<date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1946/1983">1946-1983</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> Gearhart (Pamela)
+		Collection of Photographs</titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley June 2012; additions
+	   encoded October 2015. </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a"> Pamela Gearhart
+	   Collection of Photographs, 
+	   <unitdate encodinganalog="245$f" normal="1946/1983" type="inclusive" datechar="creation">1946-1983 </unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 33.1</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf">Gearhart,
+		Pamela </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+	   boxes</extent> <extent unit="folder" encodinganalog="300$a">(216
+	   photographs)</extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">No
+	   textual materials are included in the collection.</langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The Pamela Gearhart
+	   Collection of Photographs contains 216 photographs, including images of Pamela
+	   Gearhart and her parents, Russell and Martha Gerhart. Almost one hundred
+	   photographs are of Pamela Gearhart and her family during summers spent in
+	   Chautauqua, New York, where Pamela performed with the Chautauqua Institution's
+	   Student Festival Orchestra. Other musicians included in the collection include
+	   her husband Livingston Gearhart, Budapest String Quartet members Alexander and
+	   Mischa Schneider, conductor Skitch Henderson, Howard Hanson, Edward Murphy,
+	   Mischa Mischakoff, Franco Autori, Leslie Parnas, Claudette Sorel, Jack Benny, Michael Tree,
+	   and Judit Jaimes.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Pamela Gearhart Collection of Photographs,
+		1946-1983, Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Pamela Gearhart 2007. Additions given by Gearhart family in
+		2014.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <altformavail encodinganalog="530"> 
+	   <head>Alternate Forms</head> 
+	   <p>Entire collection digitized and available in 
+		<extref href="http://digital.lib.buffalo.edu/collection/LIB-MUS022/" show="replace" actuate="onrequest" role="text/html">University at Buffalo
+		  Libraries Digital Collections</extref>.</p> 
+	 </altformavail> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by Gabrielle A. Carlo 2012. Additions processed by John
+		Bewley 2015 and 2018.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Pamela Gearhart (née Gerhart) was born July 21, 1934 in Altoona,
+	   Pennsylvania. She began her musical training with her father, violinist and
+	   conductor, Russell Gerhart. Russell Gerhart studied violin with Ralph Lewando,
+	   Carl Malcherek, Elias Breeskin, and Mischa Mischakoff. He studied conducting
+	   with Serge Koussevitsky at the Berkshire Music Center. Gerhart and his wife
+	   Martha formed the Gerhart String Ensemble in Altoona, Pennsylvania, which grew
+	   into the Altoona Symphony Orchestra. He also served as conductor of the Saint
+	   Louis Philharmonic and Huntsville (Alabama) Civic Symphony. </p> 
+	 <p>When Pamela Gearhart was fifteen she began five years of study at the
+	   Curtis Institute of Music in Philadelphia. Her violin teachers before and after
+	   her years at Curtis were Mischa Mischakoff, Joseph Knitzer, Ivan Galamian and
+	   Efrem Zimbalist. While at Curtis she performed in the Curtis Orchestra under
+	   conductors Alexander Hilsberg and William Smith, and studied chamber music
+	   performance with Karen Tuttle and Marcel Tabuteau. </p> 
+	 <p>Gearhart was appointed faculty member in the University of Buffalo
+	   Music Department in 1957. Initially she was hired as a part-time instructor in
+	   violin but eventually assumed other duties, including conducting the
+	   university's orchestra and directing the program in chamber music performance.
+	   She continued to work at the University at Buffalo until 1975.</p> 
+	 <p>While in Buffalo Gearhart also served as conductor of the Community
+	   Music School of Buffalo's youth orchestra 1959-1977. The membership in the
+	   orchestra grew from ten to more than one hundred while she was conductor. Her
+	   credentials as a music educator also include work on the faculty at Villa Maria
+	   Institute of Music (Buffalo) 1963-1965, serving for six years as Alexander
+	   Schneider's assistant for the University at Buffalo's String Institute,
+	   numerous positions as guest conductor and judge at music festivals, and
+	   director of the Youth Makes Music String Workshop (Huntsville, Alabama). After
+	   leaving the University at Buffalo she joined the faculty at Ithaca College
+	   where she taught 1975-1993. In 1980 she founded the Ithaca Youth Orchestra. She
+	   continued as its conductor until her retirement from Ithaca College.</p> 
+	 <p>Pamela Gearhart married fellow University at Buffalo music faculty
+	   member Livingston Gearhart in 1955. They were frequent collaborators on
+	   programs and projects. Livingston wrote many musical arrangements geared
+	   specifically to the pedagogical needs of Pamela's ensembles. Many of these
+	   arrangements and compositions survive in the Livingston Gearhart Score
+	   Collection. Pamela Gearhart died July 6 2014 in Rochester, New York. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The Pamela Gearhart Collection of Photographs contains 207
+	   photographs, including images of Pamela Gearhart and her parents, Russell and
+	   Martha Gerhart. Almost one hundred photographs are of Pamela Gearhart and her
+	   family during summers spent in Chautauqua, New York, where Pamela performed
+	   with the Chautauqua Institution's Student Festival Orchestra. Other musicians
+	   included in the collection include her husband Livingston Gearhart, Budapest
+	   String Quartet members Alexander and Mischa Schneider, conductor Skitch
+	   Henderson, Howard Hanson, Edward Murphy, Mischa Mischakoff, Franco Autori,
+	   Leslie Parnas, Claudette Sorel, Michael Tree, and Judit Jaimes.</p> 
+	 <note> 
+	   <p>Pamela Gearhart is listed throughout the container list as
+		"Gearhart" rather than risking confusion listing her under her maiden name of
+		Gerhart for images prior to her marriage to Livingston Gearhart in 1955. </p> 
+	   <p>Also, due to uncertainty about dates of some of the photographs, it
+		is not possible to distinguish between the University of Buffalo (prior to
+		1962) and its successor, the University at Buffalo. Therefore the heading for
+		the latter, State University of New York at Buffalo, has been used for both.
+		</p> 
+	 </note> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged in two series: </p> 
+	 <list type="simple"> 
+	   <item> 
+		<ref target="series1" actuate="onrequest" show="replace"> I. Original
+		  receipts</ref> </item> 
+	   <item> 
+		<ref target="series2" actuate="onrequest" show="replace"> II.
+		  Additional receipts</ref> </item> 
+	 </list> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I.</unitid> 
+		<unittitle>Original receipts, 
+		  <unitdate type="inclusive" normal="1955/1983"> circa
+		    1955-1983</unitdate> </unittitle> 
+		<physdesc><extent>Items 1-30</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in rough chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">001</container> 
+		  <unittitle>Portrait of Pamela Gearhart, 
+		    <unitdate type="inclusive">circa 1955</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">002</container> 
+		  <unittitle>A. James Bravar, Mimi Denton, Pamela Gearhart, and
+		    Livingston Gearhart at wedding of Bravar and Denton, 
+		    <unitdate type="inclusive">circa 1959</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">003</container> 
+		  <unittitle>Portrait of Pamela Gearhart, 
+		    <unitdate type="inclusive">circa 1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">004</container> 
+		  <unittitle>Pamela Gearhart conducting the State University of New
+		    York at Buffalo Orchestra, 
+		    <unitdate type="inclusive">circa 1961</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">005</container> 
+		  <unittitle>Pamela Gearhart conducting a rehearsal of the orchestra
+		    at the State University of New York at Buffalo, 
+		    <unitdate type="inclusive">circa 1961</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">006</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra, 
+		    <unitdate type="inclusive">circa 1962</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">007</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra, 
+		    <unitdate type="inclusive">circa 1962</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">008</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra, 
+		    <unitdate type="inclusive">circa 1962</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">009</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra, 
+		    <unitdate type="inclusive">circa 1962</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">010</container> 
+		  <unittitle>Pamela Gearhart talking to members of the Community
+		    Music School of Buffalo Orchestra during a rehearsal, 
+		    <unitdate type="inclusive">circa 1962</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">011</container> 
+		  <unittitle>Pamela Gearhart and Alexander Schneider on tour with the
+		    Baird Youth String Orchestra, 
+		    <unitdate type="inclusive">circa 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">012</container> 
+		  <unittitle>Skitch Henderson writing something at a rehearsal in
+		    Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">013</container> 
+		  <unittitle>Skitch Henderson holding his coat at a rehearsal in
+		    Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">014</container> 
+		  <unittitle>Skitch Henderson holding his coat at a rehearsal in
+		    Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">015</container> 
+		  <unittitle>Skitch Henderson talking to an unidentified male at a
+		    rehearsal in Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">016</container> 
+		  <unittitle>Skitch Henderson talking to an unidentified male at a
+		    rehearsal in Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">017</container> 
+		  <unittitle>Skitch Henderson talking to an unidentified male at a
+		    rehearsal in Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">018</container> 
+		  <unittitle>Skitch Henderson talking to an unidentified male at a
+		    rehearsal in Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">019</container> 
+		  <unittitle>Skitch Henderson talking to an unidentified male at a
+		    rehearsal in Buffalo, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">020</container> 
+		  <unittitle>Skitch Henderson talking to an unidentified male at a
+		    rehearsal in Buffalo with Pamela Gearhart in the background, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">021</container> 
+		  <unittitle>Skitch Henderson talking to an unidentified woman at a
+		    rehearsal in Buffalo with Livingston Gearhart in the background, 
+		    <unitdate type="inclusive">circa 1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">022</container> 
+		  <unittitle>Mischa and Alexander Schneider with paper hats made for
+		    them by students in the University at Buffalo String Workshop, 
+		    <unitdate type="inclusive">April 1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">023</container> 
+		  <unittitle>Mischa and Alexander Schneider with paper hats made for
+		    them by students in the University at Buffalo String Workshop, 
+		    <unitdate type="inclusive">April 1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">024</container> 
+		  <unittitle>Mischa and Alexander Schneider with paper hats made for
+		    them by students in the University at Buffalo String Workshop, 
+		    <unitdate type="inclusive">April 1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">025</container> 
+		  <unittitle>Livingston Gearhart, Mischa Schneider, Pamela Gearhart,
+		    and Alexander Schneider, 
+		    <unitdate type="inclusive">April 1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">026</container> 
+		  <unittitle>Alexander Schneider at a University at Buffalo String
+		    Workshop rehearsal, 
+		    <unitdate type="inclusive">1969</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">027</container> 
+		  <unittitle>Alexander Schneider at a University at Buffalo String
+		    Workshop rehearsal, 
+		    <unitdate type="inclusive">1969</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">028</container> 
+		  <unittitle>Livingston Gearhart after a rehearsal of the University
+		    at Buffalo String Workshop, 
+		    <unitdate type="inclusive">circa 1969</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">029</container> 
+		  <unittitle>Alexander Schneider rehearsing a group at the University
+		    at Buffalo, 
+		    <unitdate type="inclusive">circa 1970</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">030</container> 
+		  <unittitle>Livingston Gearhart, Alexander, and Mischa Schneider at
+		    Mischa Schneider's 80th birthday party, 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II.</unitid> 
+		<unittitle>Additional receipts, 
+		  <unitdate type="inclusive" normal="1946/1975"> 1946-circa
+		    1975</unitdate> </unittitle> 
+		<physdesc><extent>Items 31-207</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in rough chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">031</container> 
+		  <unittitle>Pamela Gearhart (2nd row, 2nd from right) with Reverend
+		    Luke H. Rhoads and members of the 1946 communion class at First Lutheran Church
+		    in Altoona, Pennsylvania, 
+		    <unitdate type="inclusive">1946</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: First Evangelical Lutheran Church (Altoona, Pa.)</p> 
+		  <p>City: Altoona (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">032</container> 
+		  <unittitle>Pamela Gearhart playing violin at Keith Junior High
+		    School, Altoona, Pennsylvania, 
+		    <unitdate type="inclusive">circa 1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: D. S. Keith Junior High School (Altoona, Pa.)</p> 
+		  <p>City: Altoona (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">033</container> 
+		  <unittitle>Portrait of Pamela Gearhart with violin, 
+		    <unitdate type="inclusive">circa 1948</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">034</container> 
+		  <unittitle>Pamela Gearhart performing as violin soloist with the
+		    Chautauqua Institution Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">035</container> 
+		  <unittitle>Pamela Gearhart performing as violin soloist with the
+		    Chautauqua Institution Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">036</container> 
+		  <unittitle>Pamela Gearhart performing as violin soloist with the
+		    Chautauqua Institution Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">037</container> 
+		  <unittitle>Pamela Gearhart performing as violin soloist with the
+		    Chautauqua Institution Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">038</container> 
+		  <unittitle>Pamela Gearhart playing violin with her mother
+		    accompanying her at the piano, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Altoona (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">039</container> 
+		  <unittitle>Pamela Gearhart with other winners of the Kate Chase
+		    Scholarship at Chautauqua Institution, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">040</container> 
+		  <unittitle>Pamela Gearhart with her violin instructor, Mischa
+		    Mischakoff, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">041</container> 
+		  <unittitle>Pamela Gearhart with her violin instructor, Mischa
+		    Mischakoff, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">042</container> 
+		  <unittitle>Pamela Gearhart with ball outside at Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">043</container> 
+		  <unittitle>Pamela Gearhart with ball outside at Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">044</container> 
+		  <unittitle>Pamela Gearhart with ball outside at Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">045</container> 
+		  <unittitle>Strip of three images: Pamela Gearhart standing outside,
+		    with a boat and an unidentified boy, and of the boat and boy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">046</container> 
+		  <unittitle>Pamela Gearhart with her father Russell standing on a
+		    dock at Lake Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">047</container> 
+		  <unittitle>Martha Gerhart standing outside, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">048</container> 
+		  <unittitle>Miller Bell Tower at Lake Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Miller Bell Tower (Chautauqua, N.Y.)</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">049</container> 
+		  <unittitle>Russell and Martha Gerhart in boat on Lake Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">050</container> 
+		  <unittitle>Pamela Gearhart in boat on Lake Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">051</container> 
+		  <unittitle>Pamela Gearhart in boat on Lake Chautauqua with Miller
+		    Bell Tower in background, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">052</container> 
+		  <unittitle>Russell and Martha Gerhart in boat on Lake Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">053</container> 
+		  <unittitle>Russell and Martha Gerhart in boat on Lake Chautauqua, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">054</container> 
+		  <unittitle>People gathered at a table outside for a meal, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">055</container> 
+		  <unittitle>People gathered at a table outside for a meal, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">056</container> 
+		  <unittitle>Pamela Gearhart with people gathered at a table outside
+		    for a meal, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">057</container> 
+		  <unittitle>Pamela Gearhart talking with a man at a gathering of
+		    people, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">058</container> 
+		  <unittitle>Conductors Russell Gerhart and Franco Autori with two
+		    dogs, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">059</container> 
+		  <unittitle>Conductors Russell Gerhart and Franco Autori with two
+		    dogs, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">060</container> 
+		  <unittitle>Conductors Russell Gerhart and Franco Autori sitting
+		    outside, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">061</container> 
+		  <unittitle>Pamela Gearhart with her mother and father and Mischa
+		    and Hortense Mischakoff, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">062</container> 
+		  <unittitle>Pamela Gearhart with conductor and horn player, Edward
+		    Murphy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">063</container> 
+		  <unittitle>Pamela Gearhart with conductor and horn player, Edward
+		    Murphy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">064</container> 
+		  <unittitle>Pamela Gearhart with conductor and horn player, Edward
+		    Murphy, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">065</container> 
+		  <unittitle>Strip of three images: two of Russell Gerhart in a boat
+		    and the 3rd of an unidentified male in the boat, 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">066</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1948</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">067</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1948</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">068</container> 
+		  <unittitle>Pamela Gearhart with her parents Russell and Martha, 
+		    <unitdate type="inclusive">1948</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">069</container> 
+		  <unittitle>Pamela Gearhart holding a bouquet of flowers, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">070</container> 
+		  <unittitle>Pamela Gearhart onstage at rehearsal with the Chautauqua
+		    Student Symphony Orchestra, with conductor Edward Murphy and violin instructor
+		    Mischa Mischakoff, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">071</container> 
+		  <unittitle>Pamela Gearhart holding a bouquet of flowers standing
+		    with her mother Martha and Mischa Mischakoff in the background, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">072</container> 
+		  <unittitle>Pamela Gearhart with unidentified people outside at a
+		    picnic table, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">073</container> 
+		  <unittitle>Pamela Gearhart with unidentified people outside at a
+		    picnic table, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">074</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy and Paul Topper as
+		    concertmaster and Leslie Parnas, principal cello, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">075</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy and Paul Topper as
+		    concertmaster and Leslie Parnas, principal cello, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">076</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy and Leslie Parnas
+		    principal cello, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">077</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">078</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">079</container> 
+		  <unittitle>Pamela Gearhart as violin soloist with the Chautauqua
+		    Student Symphony Orchestra conducted by Edward Murphy and Leslie Parnas
+		    principal cello, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">080</container> 
+		  <unittitle>Martha and Russell Gerhart sitting outside, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">081</container> 
+		  <unittitle>Russell Gerhart sitting in a boat, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">082</container> 
+		  <unittitle>Pamela Gearhart in jacket standing outside, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">083</container> 
+		  <unittitle>Russell Gerhart sitting on steps of a porch, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">084</container> 
+		  <unittitle>Russell Gerhart standing outside holding a fish
+		    suspended from a hook, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">085</container> 
+		  <unittitle>Russell Gerhart standing outside holding a fish
+		    suspended from a hook, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">086</container> 
+		  <unittitle>Russell Gerhart sitting in a boat, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">087</container> 
+		  <unittitle>Pamela Gearhart with her father Russell and a dog, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">088</container> 
+		  <unittitle>Pamela Gearhart laying on the deck of a boat, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">089</container> 
+		  <unittitle>Pamela Gearhart sitting on the deck of a boat, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">090</container> 
+		  <unittitle>Pamela Gearhart sitting in a boat, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">091</container> 
+		  <unittitle>Pamela Gearhart sitting outside on a picnic bench, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">092</container> 
+		  <unittitle>Pamela Gearhart with hat, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">093</container> 
+		  <unittitle>Pamela Gearhart playing violin outside, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">094</container> 
+		  <unittitle>Russell Gerhart in a boat on Lake Chautauqua, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">095</container> 
+		  <unittitle>Pamela Gearhart with her father Russell, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">096</container> 
+		  <unittitle>Martha Gerhart standing outside, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">097</container> 
+		  <unittitle>Martha Gerhart sitting on a bench, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">098</container> 
+		  <unittitle>Pamela Gearhart with her parents, Martha and Russell
+		    standing by a house, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">099</container> 
+		  <unittitle>Pamela Gearhart with her parents, Martha and Russell
+		    standing in front of trees, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">100</container> 
+		  <unittitle>Pamela Gearhart holding a bicycle outside with her
+		    father Russell, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">101</container> 
+		  <unittitle>Pamela Gearhart sitting on a bicycle outside with her
+		    father Russell, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">102</container> 
+		  <unittitle>Pamela Gearhart standing by a house with a sign in the
+		    window, Fiddle Faddle, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">103</container> 
+		  <unittitle>Pamela Gearhart sitting on a bench with her father
+		    Russell, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">104</container> 
+		  <unittitle>Pamela Gearhart talking with a group of people, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">105</container> 
+		  <unittitle>Pamela Gearhart talking with a group of people, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">106</container> 
+		  <unittitle>Bill Flavia sitting outside, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">107</container> 
+		  <unittitle>Russell and Martha Gerhart standing on a sidewalk beside
+		    a house, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">108</container> 
+		  <unittitle>Pamela Gearhart standing by a car with her father
+		    Russell, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">109</container> 
+		  <unittitle>Martha and Russell Gerhart outside a house, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">110</container> 
+		  <unittitle>Pamela Gearhart with her father Russell painting lawn
+		    chairs, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">111</container> 
+		  <unittitle>Pamela Gearhart with her parents, Martha and Russell
+		    standing in front of trees, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">112</container> 
+		  <unittitle>Pamela Gearhart sitting outside on a bench, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">113</container> 
+		  <unittitle>Pamela Gearhart sitting outside with a dog, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">114</container> 
+		  <unittitle>Pamela Gearhart sitting outside with a dog, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">115</container> 
+		  <unittitle>Pamela Gearhart sitting outside with a dog, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">116</container> 
+		  <unittitle>Pamela Gearhart sitting outside with a dog, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">117</container> 
+		  <unittitle>Pamela Gearhart sitting outside, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">118</container> 
+		  <unittitle>Pamela Gearhart sitting outside, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">119</container> 
+		  <unittitle>Mrs. Buys standing outside a house on Delancey Street in
+		    Philadelphia, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">120</container> 
+		  <unittitle>Pamela Gearhart high school portrait, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Altoona (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">121</container> 
+		  <unittitle>Portrait of Pamela Gearhart with violin, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color transparency</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">122</container> 
+		  <unittitle>Portrait of Pamela Gearhart with violin, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color transparency</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">123</container> 
+		  <unittitle>Portrait of Pamela Gearhart, head shot, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color transparency</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">124</container> 
+		  <unittitle>Portrait of Pamela Gearhart, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color transparency</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">125</container> 
+		  <unittitle>Portrait of Pamela Gearhart with violin, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: W. C. Runder Photo Co. (Saint Louis, Mo.)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Saint Louis (Mo.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">126</container> 
+		  <unittitle>Portrait of Pamela Gearhart with violin (close-up), 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">127</container> 
+		  <unittitle>Portrait of Pamela Gearhart with violin, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">128</container> 
+		  <unittitle>Christmas card with photograph of Pamela Gearhart, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">129</container> 
+		  <unittitle>Christmas card with photograph of Russell Gerhart, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">130</container> 
+		  <unittitle>Pamela Gearhart standing in front of the USS
+		    Constitution in Boston, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Boston (Mass.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">131</container> 
+		  <unittitle>Pamela Gearhart standing in front of the USS
+		    Constitution in Boston, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Boston (Mass.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">132</container> 
+		  <unittitle>Bill Flavia standing in front of the USS Constitution in
+		    Boston, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Boston (Mass.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">133</container> 
+		  <unittitle>Pamela Gearhart sitting on a bench with her mother
+		    Martha, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">134</container> 
+		  <unittitle>Pamela Gearhart standing outside with pianist Claudette
+		    Sorel, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">135</container> 
+		  <unittitle>Pamela Gearhart sitting outside with pianist Claudette
+		    Sorel, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">136</container> 
+		  <unittitle>Pamela Gearhart sitting in a boat with pianist Claudette
+		    Sorel and Russell Gerhart, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">137</container> 
+		  <unittitle>Russell Gerhart in boat with a child feeding ducks, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">138</container> 
+		  <unittitle>Russell and Martha Gerhart sitting in a boat at a dock, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">139</container> 
+		  <unittitle>Russell Gerhart sitting in a boat, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">140</container> 
+		  <unittitle>Martha Gerhart standing with Russell Gerhart in the
+		    background standing in a boat, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">141</container> 
+		  <unittitle>Pamela Gearhart fishing with her father Russell, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">142</container> 
+		  <unittitle>Pamela Gearhart fishing with her father Russell, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">143</container> 
+		  <unittitle>Pamela Gearhart sitting in a boat, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">144</container> 
+		  <unittitle>Composer Howard Hanson (right), with conductor Edward
+		    Murphy and the Chautauqua Institution's Student Symphony Orchestra, with Pamela
+		    Gearhart, concertmistress, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Chautauqua Institution</p> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">145</container> 
+		  <unittitle>Pamela Gearhart standing outside with her father
+		    Russell, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">146</container> 
+		  <unittitle>Pamela Gearhart standing outside with her father Russell
+		    and mother Martha, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">147</container> 
+		  <unittitle>Pamela Gearhart standing outside with two women, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">148</container> 
+		  <unittitle>Pamela Gearhart standing outside with a woman, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">149</container> 
+		  <unittitle>Portrait of John Batrus, 
+		    <unitdate type="inclusive">circa 1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">150</container> 
+		  <unittitle>Russell Gerhart in boat with a child feeding ducks, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">151</container> 
+		  <unittitle>Russell and Martha Gerhart sitting on the ground by a
+		    dock, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">152</container> 
+		  <unittitle>Violist Sally Trembly (looking at camera), cellist
+		    Ronald Leonard (center, rear), and violinist Michael Applebaum (Tree) at Curtis
+		    Institute of Music, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">153</container> 
+		  <unittitle>Pianist Isabelle Vengerova and Mary Louise Curtis Bok
+		    Zimbalist on the entry stairs at Curtis Institute of Music, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">154</container> 
+		  <unittitle>Curtis Music Institute founder Mary Louise Curtis Bok
+		    Zimbalist (far right) on sidewalk in front of the school with her chauffeur
+		    Patrick holding the car door open for a woman, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">155</container> 
+		  <unittitle>Curtis Music Institute founder Mary Louise Curtis Bok
+		    Zimbalist (white hair) on sidewalk in front of the school with crowd after 1954
+		    graduation ceremony, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">156</container> 
+		  <unittitle>Bassoonist Patsy Hayes, violinist Ann Garliches (far
+		    right), author Catherine Drinker Bowen (with corsage), and Mary Louise Curtis
+		    Bok Zimbalist (white hair) after 1954 graduation ceremony at Curtis Institute
+		    of Music, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">157</container> 
+		  <unittitle>Pianist Judy Jaimes and organist Vernon Wolcott
+		    (glasses) after 1954 graduation ceremony at Curtis Institute of Music, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">158</container> 
+		  <unittitle>Flutist Milton Burgy and Curtis Institute of Music
+		    receptionist Patsy Allan, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">159</container> 
+		  <unittitle>Bassoonist Patsy Hayes (leaning), Mary Louise Curtis Bok
+		    Zimbalist (white hair), and Curtis Institute of Music receptionist Patsy Allan
+		    after the 1954 graduation ceremony, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Curtis Institute of Music</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">160</container> 
+		  <unittitle>Pamela Gearhart standing with Philadelphia Museum of Art
+		    in background, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Philadelphia Museum of Art</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">161</container> 
+		  <unittitle>View from Philadelphia Museum of Art down the Benjamin
+		    Franklin Parkway towards center Philadelphia, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">162</container> 
+		  <unittitle>Unidentified male standing in front of the Rodin Museum
+		    in Philadelphia, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Rodin Museum (Philadelphia, Pa.)</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">163</container> 
+		  <unittitle>Unidentified male standing on the steps of the
+		    Philadelphia Museum of Art, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Philadelphia Museum of Art</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">164</container> 
+		  <unittitle>Unidentified male standing with Philadelphia Museum of
+		    Art in the background, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Philadelphia Museum of Art</p> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">165</container> 
+		  <unittitle>View from Philadelphia Museum of Art down the Benjamin
+		    Franklin Parkway towards center Philadelphia, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">166</container> 
+		  <unittitle>Portrait of Pamela Gearhart playing violin, 
+		    <unitdate type="inclusive">December 29 1954</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Gouldthorpe</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">167</container> 
+		  <unittitle>Portrait of Pamela Gearhart holding violin standing in
+		    front of a blackboard, 
+		    <unitdate type="inclusive">circa 1957</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">168</container> 
+		  <unittitle>Portrait of Pamela Gearhart playing violin, 
+		    <unitdate type="inclusive">April 1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Wheelan Photograph Studio (Buffalo, N.Y.)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">169</container> 
+		  <unittitle>Pamela Gearhart in concert dress talking with an
+		    unidentified woman, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">170</container> 
+		  <unittitle>Pamela Gearhart in concert dress talking with people, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">171</container> 
+		  <unittitle>Pamela Gearhart in concert dress talking with people, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">172</container> 
+		  <unittitle>Pamela Gearhart holding a piece of paper and a cup, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: State University of New York at Buffalo</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">173</container> 
+		  <unittitle>Pamela Gearhart holding music at a rehearsal of the
+		    State University of New York at Buffalo Orchestra, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">174</container> 
+		  <unittitle>Pamela Gearhart conducting the State University of New
+		    York at Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">175</container> 
+		  <unittitle>Pamela Gearhart conducting the State University of New
+		    York at Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">176</container> 
+		  <unittitle>Pamela Gearhart conducting the State University of New
+		    York at Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">177</container> 
+		  <unittitle>Pamela Gearhart conducting the State University of New
+		    York at Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">178</container> 
+		  <unittitle>Pamela Gearhart conducting the State University of New
+		    York at Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Buffalo Evening News</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">179</container> 
+		  <unittitle>Portrait of Pamela Gearhart, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">180</container> 
+		  <unittitle>Portrait of Pamela Gearhart, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">181</container> 
+		  <unittitle>Portrait of Pamela Gearhart, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">182</container> 
+		  <unittitle>Pamela Gearhart gesturing at an orchestra rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">183</container> 
+		  <unittitle>Pamela Gearhart conducting orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">184</container> 
+		  <unittitle>Pamela Gearhart conducting orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">185</container> 
+		  <unittitle>Pamela Gearhart conducting orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">186</container> 
+		  <unittitle>Pamela Gearhart gesturing at an orchestra rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">187</container> 
+		  <unittitle>Pamela Gearhart gesturing at an orchestra rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">188</container> 
+		  <unittitle>Pamela Gearhart conducting orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">189</container> 
+		  <unittitle>Pamela Gearhart conducting orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Tuttle, Jim, 1913-2006</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">190</container> 
+		  <unittitle>Pamela Gearhart with her father Russell Gerhart, 
+		    <unitdate type="inclusive">January 17 1965</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">191</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">192</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">193</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">194</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">195</container> 
+		  <unittitle>Pamela Gearhart holding violin bow at a rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">196</container> 
+		  <unittitle>Pamela Gearhart gesturing during a rehearsal of wind
+		    players, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">197</container> 
+		  <unittitle>Pamela Gearhart gesturing at an orchestra rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">198</container> 
+		  <unittitle>Pamela Gearhart gesturing at a rehearsal of the
+		    Community Music School of Buffalo Orchestra, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">199</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">200</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">201</container> 
+		  <unittitle>Pamela Gearhart conducting the Community Music School of
+		    Buffalo Orchestra in rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sinderbrand</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Location: Frank Burkett Baird Music Building (State University
+		    of New York at Buffalo)</p> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">202</container> 
+		  <unittitle>Pamela Gearhart standing with arms outstretched in front
+		    of a body of water, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">203</container> 
+		  <unittitle>Pamela Gearhart conducting a performance with audience
+		    members in the background, 
+		    <unitdate type="inclusive">May 7 1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stoddard, Robert E.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">204</container> 
+		  <unittitle>Pamela Gearhart conducting a performance with audience
+		    members in the background, 
+		    <unitdate type="inclusive">May 7 1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stoddard, Robert E.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">205</container> 
+		  <unittitle>Pamela Gearhart conducting a performance with audience
+		    members in the background, 
+		    <unitdate type="inclusive">May 7 1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stoddard, Robert E.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">206</container> 
+		  <unittitle>Pamela Gearhart conducting a performance with audience
+		    members in the background, 
+		    <unitdate type="inclusive">May 7 1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stoddard, Robert E.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">207</container> 
+		  <unittitle>Pamela Gearhart conducting at an orchestra rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+ <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">208</container> 
+		  <unittitle>Pamela Gearhart sitting in a boat with pianist Claudette Sorel and Russell Gerhart, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chautauqua (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+ <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">209</container> 
+		  <unittitle>Alexander Schneider eating outside with Pamela Gearhart, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Suárez, Thomas</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+<c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">210</container> 
+		  <unittitle>Pamela Gearhart at a rehearsal of the Baird Youth Chamber Players with Alexander Schneider in the background, 
+		    <unitdate type="inclusive">1966 August 10</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Suárez, Thomas</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 		
+<c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">211</container> 
+		  <unittitle>Alexander Schneider playing violin at a rehearsal, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 		
+<c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">212</container> 
+		  <unittitle>Pamela Gearhart at a rehearsal of the Baird Youth Chamber Players with two unidentified men on stage, 
+		    <unitdate type="inclusive">1966 August 10</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Suárez, Thomas</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 		
+<c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">213</container> 
+		  <unittitle>Alexander Schneider riding a bicycle, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Suárez, Thomas</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 		
+<c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">214</container> 
+		  <unittitle>Drawing that attaches to bottom of photograph of Alexander Schneider riding a bicycle, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 ink drawing</extent>
+		    </physdesc> 
+		  
+		</did> 
+		
+	   </c02> 		
+<c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">215</container> 
+		  <unittitle>Jack Benny talking to Alexander Schneider at a rehearsal of the Baird Youth Chamber Players, 
+		    <unitdate type="inclusive">1966 August 10</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Suárez, Thomas</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 		
+<c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">216</container> 
+		  <unittitle>Jack Benny standing next to Alexander Schneider at a rehearsal of the Baird Youth Chamber Players, 
+		    <unitdate type="inclusive">1966 August 10</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Suárez, Thomas</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 																				
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Women conductors
+		(Music)--New York (State)--Photographs</subject> 
+	   <subject source="lcsh" encodinganalog="650">Women violinists--New York
+		(State)--Photographs</subject> 
+	   <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Gearhart,
+		Pamela--Photographs</persname> 
+	   <persname encodinganalog="600" role="subject" rules="aacr2">Gerhart,
+		Russell, 1902-1972--Photographs</persname> 
+	   <persname encodinganalog="600" rules="aacr2" role="subject">Gerhart,
+		Martha, 1901-1978--Photographs</persname> 
+	   <persname source="lcnaf" encodinganalog="600" role="subject">Gearhart,
+		Livingston--Photographs</persname> 
+	   <persname source="lcnaf" encodinganalog="600" role="subject">Schneider,
+		Alexander, 1908-1993--Photographs</persname> 
+	   <persname source="lcnaf" encodinganalog="600" role="subject">Schneider,
+		Mischa, 1903-1985--Photographs</persname> 
+	   <persname source="lcnaf" encodinganalog="600" role="subject">Henderson,
+		Skitch, 1918-2005--Photographs</persname>
+<persname source="lcnaf" encodinganalog="600" role="subject">Benny, Jack, 1894-1974--Photographs</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Photographs</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0033.xml" show="new" actuate="onrequest" role="text/html">Pamela Gearhart Papers,
+			   1956-1993</archref> Mus. Arc. 33 </label> 
+		    <item>The Pamela Gearhart Papers contain a biographical summary,
+			 curriculum vitae, correspondence, newspaper clippings, and programs. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_1.xml" show="new" actuate="onrequest" role="text/html">Livingston Gearhart Papers,
+			   1933-1997</archref> Mus. Arc. 23.1 </label> 
+		    <item>The collection contains prose writings, vitae,
+			 correspondence, teaching materials, programs, and clippings. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_4.xml" show="new" actuate="onrequest" role="text/html">Livingston Gearhart Recordings,
+			   1949-2001</archref> Mus. Arc. 23.4 </label> 
+		    <item>The collection contains reel to reel and cassette tapes,
+			 compact discs, and LPs containing music composed or arranged by Livingston
+			 Gearhart. </item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

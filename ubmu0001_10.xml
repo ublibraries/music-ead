@@ -1,0 +1,2878 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 1.10::Yvar Mikhashoff Collection of Tangos)//EN"
+	  encodinganalog="identifier">ubmu0001_10</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Yvar Mikhashoff Collection of Tangos, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1983/1991"> 1983-1991</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Mikhashoff (Yvar) Collection of Tangos </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by Amy
+			 Ward.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+			 	<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		 <p>© 
+			 <date encodinganalog="date" type="publication">2007</date>. State
+			 University of New York at Buffalo. All rights reserved.</p>
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by Molly O'Brien, November
+		  2007.</creation> 
+		<langusage>Finding aid is in
+		  <language encodinganalog="language"
+		  langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Yvar Mikhashoff
+		  Collection of Tangos, 
+		  <unitdate encodinganalog="245$f" normal="1983/1991" type="inclusive"
+		  datechar="creation"> 1983-1991 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		label="Collection Number">Mus. Arc. 1.10</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">
+			 Mikhashoff, Yvar </persname></origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">5
+		  boxes</extent> <extent unit="item" encodinganalog="300$a">(250 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection
+		  contains photocopies of musical scores for 127 tangos for solo piano from 127
+		  composers. The collection also documents the process by which Mikhashoff
+		  commissioned and performed the tangos. It includes correspondence, Mikhashoff's
+		  research into the history of the tango, and performance materials (i.e.
+		  programs and reviews). Composers commissioned for this project include Milton
+		  Babbitt, Lukas Foss, Otto Luening, Conlon Nancarrow, Luis de Pablo,and Nils
+		  Vigeland. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Yvar Mikhashoff Collection of Tangos, 1983-1991,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of the estate of Yvar Mikhashoff, 
+			 <date>1994</date></p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further major accruals are expected to this collection. Revisions
+			 of the tangos are occassionally received from composers. They are housed with
+			 the original score.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Amy Ward.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Yvar-Emilian Mikhashoff was born Ronald McKay in Troy, near Albany,
+		  New York in 1941. He began piano studies with Betty Weir and Stanley Hummel in
+		  Albany. Mikhashoff studied at the Eastman School of Music in 1959 and in the
+		  1961 academic year, he studied piano at the Juilliard School in New York City.
+		  He also had a career as a ballroom dancer from 1962-1965. In 1964 Mikhashoff
+		  entered the University of Houston, where he earned a B.M. in 1967 and a M.M in
+		  composition in 1968. </p> 
+		<p>Receiving a Fulbright scholarship, he studied the music of the French
+		  Impressionists with Nadia Boulanger. After his return to the United States,
+		  Mikhashoff earned a Doctor of Musical Arts from the University of Texas at
+		  Austin in August 1973. In the Fall of 1973 Mikhashoff was appointed Assistant
+		  Professor at the State University of New York at Buffalo. Based in Buffalo
+		  until his death in 1993, Mikhashoff had an international performing career
+		  which led him to promote new music and American music around the world. </p> 
+		<p>In 1982 Mikhashoff had finished a project of commissioned piano
+		  pieces, &lt;title&gt;The Buffalo Piano Collection&lt;/title&gt;, and was
+		  inspired to create a new project. Mikhashoff collaborated with the publishing
+		  firm Quadrivium Press, whose contact was Ed Snider, to commission composers
+		  from all over the world to write piano pieces based on a dance form, the tango.
+		  Mikhashoff's brief but rewarding career as a ballroom dancer was the impetus
+		  for centering the project on the tango and composers were enthusiastic to
+		  contribute to this collection. Eighty-eight tangos by composers from 30
+		  countries were officially premiered on April 14, 1985 at the North American New
+		  Music Festival. Mikhashoff toured internationally performing the tangos and to
+		  this date the collection totals 127 tangos for solo piano. It was intended that
+		  the tangos be published in a multi-volume set by Quadrivium Press. However, the
+		  publication was never issued. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The core of this collection contains photocopies of musical scores for
+		  127 tangos for solo piano submitted to Yvar Mikhashoff between the years
+		  1984-1991. Starting in 1983, Mikhashoff commissioned tangos from composers such
+		  as Robert Ashley, Milton Babbitt, Lukas Foss, Otto Luening, Luis de Pablo, and
+		  Nils Vigeland. The majority of the original manuscripts are held by Anthony de
+		  Mare, pianist, pupil and friend of Mikhashoff; however, this collection does
+		  contain manuscripts worthy of mention: The Three Fathers by Gilberto Mendes,
+		  Del Tingo al Tango by William Ortiz, Red-sweet Tango by Jorges Peixinho,
+		  Tangonetta by Poul Ruders, and Collage-tango by Tadeusz Wielecki. Other unique
+		  items in this collection include the sketches of Tiefertango by Oliver Knussen
+		  and autographed photocopies of tangos by Mikael Edlund, Tom Johnson, Betsy
+		  Jolas, John Myhill, Luis De Pablo, and Marcello Panni. </p> 
+		<p>The collection also contains nine tangos arranged for a chamber
+		  ensemble and three tangos for voice and piano. Mikhashoff performed these works
+		  on April 15, 1987 with members of the Houston Symphony Orchestra in Houston,
+		  Texas. These arrangements have been collated to create another series within
+		  this collection.</p> 
+		<p>Correspondence in the collection includes letters from composers,
+		  signed agreements for the commission, and/or biographical information about the
+		  composers sent to Mikhashoff and/or Ed Snider dated 1983-1989. Not all
+		  composers represented in this collection of tangos are included in the
+		  correspondence and not all composers with a correspondence folder submitted a
+		  tango. After the collection was donated to the Music Library, attempts to
+		  contact composers have resulted in updated information for the composer and
+		  revised versions of a few tangos previously submitted to the collection. These
+		  include Tango para Ivar by Orlando Jacinto Garcia, Moon-Dark Tango by Anthony
+		  Genge, Tin-pan Tango by Adrian Jack, and Tango Blue by Charles Sepos. </p> 
+		<p>Mikhashoff's research into the history of the tango included journal
+		  articles, magazine articles, newspaper clippings, and a playbill and ticket
+		  stub for the Broadway show Tango Argentino. In addition, Mikhashoff collected
+		  images of couples dancing the tango and images of works of art that were
+		  inspired by or depicted the tango. Mikhashoff incorporated much of this
+		  information into his performances of the tango collection, including a lecture
+		  on the history of the tango and a slide show. </p> 
+		<p>The performances were always evolving as more tangos were submitted to
+		  the collection. As a result, Mikhashoff created many lists of tangos received
+		  from 1984 to 1987. He saved programs and reviews of his performances, wrote a
+		  preface to the collection and had covers and postcards designed by Bud Jacobs,
+		  intended to be used for publishing. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p> Arranged into six series:</p> 
+		<list type="simple"> 
+		  <item> 
+			 <ref target="series1" show="replace" actuate="onrequest">I. Musical
+				scores of tangos</ref> </item> 
+		  <item> 
+			 <ref target="series2" show="replace" actuate="onrequest"> II.
+				Arrangements of tangos</ref></item> 
+		  <item> 
+			 <ref target="series3" show="replace" actuate="onrequest">III.
+				Correspondence</ref></item> 
+		  <item> 
+			 <ref target="series4" show="replace" actuate="onrequest">IV. Research
+				materials</ref></item> 
+		  <item> 
+			 <ref target="series5" show="replace" actuate="onrequest">V. Study
+				scores</ref></item> 
+		  <item> 
+			 <ref target="series6" show="replace" actuate="onrequest">VI.
+				Performance materials</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Musical scores of the tangos, 
+				<unitdate type="inclusive" normal="1984/1991">1984-1991</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Box 1-3, Folder 1-143</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Musical scores of tangos submitted to Yvar Mikhashoff for his
+				International Tango Project. </p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Arranged in alphabetical order by composer name.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1 </container> 
+				<container type="folder">1 </container> 
+				<unittitle> 
+				  <persname role="composer">Aharonián, Coriún, 1940- </persname> 
+				  <title>Y ahora?</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle> 
+				  <persname>Anderson, Beth, 1950- </persname> 
+				  <title>Belgian tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">3</container> 
+				<unittitle> 
+				  <persname>Ashley, Robert, 1930- </persname> 
+				  <title>Improvement (Don leaves Linda). Act II. Scene 20: North
+					 Berlin/A Tango</title></unittitle> 
+				
+				<note> 
+				  <p>Text only</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">4</container> 
+				<unittitle> 
+				  <persname>Attinello, Paul </persname> 
+				  <title>Tango: A slow hot wind</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">5</container> 
+				<unittitle> 
+				  <persname>Austin, Larry </persname> 
+				  <title>Tango violento</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">6</container> 
+				<unittitle> 
+				  <persname>Babbitt, Milton, 1916-</persname> 
+				  <title>It takes twelve to tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">7</container> 
+				<unittitle> 
+				  <persname>Barce, Ramón </persname> 
+				  <title>Tango para Yvar </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">8</container> 
+				<unittitle> 
+				  <persname>Bell, Larry, 1952- </persname> 
+				  <title>First tango in London</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">9</container> 
+				<unittitle> 
+				  <persname>Bennett, Richard Rodney </persname> 
+				  <title>Tango after Syrinx</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">10</container> 
+				<unittitle> 
+				  <persname>Berkman, Robert </persname> 
+				  <title>Thorn-torn lips</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">11</container> 
+				<unittitle> 
+				  <persname>Biscardi, Chester </persname> 
+				  <title>Incitation to desire</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">12</container> 
+				<unittitle> 
+				  <persname>Bley, Carla </persname> 
+				  <title>Reactionary tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">13</container> 
+				<unittitle> 
+				  <persname>Boehmer, Konrad, 1941- </persname> 
+				  <title>Tango deslavado y moroso</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">14</container> 
+				<unittitle> 
+				  <persname>Bolcom, William </persname> 
+				  <title>The dead moth tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">15</container> 
+				<unittitle> 
+				  <persname>Bredemeyer, Reiner, 1929- </persname> 
+				  <title>Thango tangente</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">16</container> 
+				<unittitle> 
+				  <persname>Bright, Colin </persname> 
+				  <title>Tango-dreaming</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">17</container> 
+				<unittitle> 
+				  <persname>Bruce, Neely </persname> 
+				  <title>Tango variation </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">18</container> 
+				<unittitle> 
+				  <persname>Burgess, Anthony, 1917- </persname> 
+				  <title>Tango for pianoforte</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">19</container> 
+				<unittitle> 
+				  <persname>Busby, Gerald </persname> 
+				  <title>Cometango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">20</container> 
+				<unittitle> 
+				  <persname>Cabuche, Mario </persname> 
+				  <title>Tango '85</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">21</container> 
+				<unittitle> 
+				  <persname>Cage, John </persname> 
+				  <title>Perpetual tango </title></unittitle> 
+				
+				<note> 
+				  <p>Based on no. 16 of 
+					 <persname normal="Satie, Erik, 1866-1925"> Erik
+						Satie's</persname> 
+				  <title>Sports et Divertissements</title></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">22</container> 
+				<unittitle> 
+				  <persname>Cage, John </persname> 
+				  <title>Perpetual tango </title></unittitle> 
+				
+				<note> 
+				  <p>Manuscript and copies of arrangement realized for grand
+					 staff</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">23</container> 
+				<unittitle> 
+				  <persname>Chadabe, Joel </persname> 
+				  <title>The long ago and far away tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">24</container> 
+				<unittitle> 
+				  <persname>Christoff, Dimiter, 1933- </persname> 
+				  <title>Tango for you, friends</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">25</container> 
+				<unittitle> 
+				  <persname>Clapperton, James, 1968- </persname> 
+				  <title>... the gay foppery of summer is flown</title></unittitle>
+				
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle> 
+				  <persname>Cohen, Douglas, 1959- </persname> 
+				  <title>Tango paseo</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">27</container> 
+				<unittitle> 
+				  <persname>Copland, Aaron, 1900- </persname> 
+				  <title>Hear ye, hear ye! (Ballet). Scene VII. Tango
+					 </title></unittitle> 
+				
+				<note> 
+				  <p>Manuscript of arrangement for solo piano by Yvar
+					 Mikhashoff</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">28</container> 
+				<unittitle> 
+				  <persname>Copland, Aaron, 1900- </persname> 
+				  <title>Hear ye, hear ye! (Ballet). Scene VII. Tango
+					 </title></unittitle> 
+				
+				<note> 
+				  <p>Photocopy of arrangement by Yvar Mikhashoff</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">29</container> 
+				<unittitle> 
+				  <persname>Copland, Aaron, 1900- </persname> 
+				  <title>Hear ye, hear ye! (Ballet). Scene VII. Tango
+					 </title></unittitle> 
+				
+				<note> 
+				  <p>Photocopy of manuscript, arranged for 2 pianos by composer</p>
+				  
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">30</container> 
+				<unittitle> 
+				  <persname>Curran, Alvin S., 1938- </persname> 
+				  <title>Tango no. 1</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">31</container> 
+				<unittitle> 
+				  <persname>Davies, Hugh, 1943- </persname> 
+				  <title>Master Domenico's humpback</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">32</container> 
+				<unittitle> 
+				  <persname>Duckworth, William </persname> 
+				  <title>Tango voices </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">33</container> 
+				<unittitle> 
+				  <persname>Edlund, Mikael, 1950- </persname> 
+				  <title>Orchids in the embers</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">34</container> 
+				<unittitle> 
+				  <persname>Edlund, Mikael, 1950- </persname> 
+				  <title>Orchids in the embers</title></unittitle> 
+				
+				<note> 
+				  <p>Autographed photocopy</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">35</container> 
+				<unittitle> 
+				  <persname>Fennelly, Brian</persname> 
+				  <title>Tangoblique</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">36</container> 
+				<unittitle> 
+				  <persname>Ferrero, Lorenzo </persname> 
+				  <title>Rock my tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">37</container> 
+				<unittitle> 
+				  <persname>Finch, Douglas </persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">38</container> 
+				<unittitle> 
+				  <persname>Fine, Vivian, 1913- </persname> 
+				  <title>Tango with the frog prince</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">39</container> 
+				<unittitle> 
+				  <persname>Finnissy, Michael </persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">40</container> 
+				<unittitle> 
+				  <persname>Foss, Lukas, 1922- </persname> 
+				  <title>Tango from Curriculim Vitae</title></unittitle> 
+				
+				<note> 
+				  <p>For accordion, excerpted and arranged by the composer</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">41</container> 
+				<unittitle> 
+				  <persname>Ganz, Isabelle </persname> 
+				  <title>Go away tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">42</container> 
+				<unittitle> 
+				  <persname>García, Orlando Jacinto </persname> 
+				  <title>Tango para Ivar</title></unittitle> 
+				
+				<note> 
+				  <p>Includes revision submitted by the composer in 2002</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">43</container> 
+				<unittitle> 
+				  <persname>Genge, Anthony, 1952- </persname> 
+				  <title>Tango</title></unittitle> 
+				
+				<note> 
+				  <p>Includes revision titled 
+				  <title>Moon-dark tango</title> submitted by the composer in
+				  2002</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">44</container> 
+				<unittitle> 
+				  <persname>Gideon, Miriam, 1906- </persname> 
+				  <title>Tango langoroso</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">45</container> 
+				<unittitle> 
+				  <persname>Godøy, Rolf Inge </persname> 
+				  <title>First tango (Silken slippers)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">46</container> 
+				<unittitle> 
+				  <persname>Goeyvaerts, Karel </persname> 
+				  <title>Aquarius tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">47</container> 
+				<unittitle> 
+				  <persname>Goldstein, Malcolm, 1936- </persname> 
+				  <title>Can it be done in public?</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">48</container> 
+				<unittitle> 
+				  <persname>Golub, Peter, 1952- </persname> 
+				  <title>The Barrow Street tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">49</container> 
+				<unittitle> 
+				  <persname>Haskins, Robert, 1960- </persname> 
+				  <title>Automatic tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">50</container> 
+				<unittitle> 
+				  <persname>Hill, Jackson, 1941- </persname> 
+				  <title>Tango no tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">51</container> 
+				<unittitle> 
+				  <persname>Hiller, Lejaren Arthur, 1924- </persname> 
+				  <title>Tango for piano (Staircase tango)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">52</container> 
+				<unittitle> 
+				  <persname>Hodkinson, Sydney </persname> 
+				  <title>Habanera melancolica</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">53</container> 
+				<unittitle> 
+				  <persname>Horwood, Michael S</persname> 
+				  <title>Horizontal tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">54</container> 
+				<unittitle> 
+				  <persname>Hunt, Jerry, 1943- </persname> 
+				  <title>Tango </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">55</container> 
+				<unittitle> 
+				  <persname>Jack, Adrian </persname> 
+				  <title>Tin-pan tango</title></unittitle> 
+				
+				<note> 
+				  <p>Includes copy submitted a performance copy in 2002</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">56</container> 
+				<unittitle> 
+				  <persname>Jaggard, David </persname> 
+				  <title>Elastic Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">57</container> 
+				<unittitle> 
+				  <persname>Jeney, Zoltán, 1943- </persname> 
+				  <title>Philip Marlowe tracks down Yvar's last tango
+					 </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">58</container> 
+				<unittitle> 
+				  <persname>Jenkins, Leroy </persname> 
+				  <title>Tango, rango, bango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">59</container> 
+				<unittitle> 
+				  <persname>Johnson, Tom, 1939-</persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">60 </container> 
+				<unittitle> 
+				  <persname>Johnson, Tom, 1939- </persname> 
+				  <title>Tango</title></unittitle> 
+				
+				<note> 
+				  <p>Dedicated copy autographed by the composer</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">61 </container> 
+				<unittitle> 
+				  <persname>Jolas, Betsy </persname> 
+				  <title>Tango si</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">62 </container> 
+				<unittitle> 
+				  <persname>Jolas, Betsy </persname> 
+				  <title>Tango si</title></unittitle> 
+				
+				<note> 
+				  <p>Dedicated copy autographed by the composer</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">63 </container> 
+				<unittitle> 
+				  <persname>Kasemets, Udo </persname> 
+				  <title>Tangovariables</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">64 </container> 
+				<unittitle> 
+				  <persname>Keane, David, 1943- </persname> 
+				  <title>Los rayos de sol</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">65</container> 
+				<unittitle> 
+				  <persname>Kelemen, Milko </persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">66</container> 
+				<unittitle> 
+				  <persname>King, John, 1953 Nov. 28-</persname> 
+				  <title>Tango to Argentina</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">67</container> 
+				<unittitle> 
+				  <persname>Knussen, Oliver </persname> 
+				  <title>Tiefertango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">68 </container> 
+				<unittitle> 
+				  <persname>Knussen, Oliver </persname> 
+				  <title>Tiefertango</title></unittitle> 
+				
+				<note> 
+				  <p>Autographed sketches</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">69</container> 
+				<unittitle> 
+				  <persname>Kondo, Jo, 1947-</persname> 
+				  <title>Tango mnemonic</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">70 </container> 
+				<unittitle> 
+				  <persname>Kurtz, Eugene, 1923-</persname> 
+				  <title>Etude in tangotime </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">71</container> 
+				<unittitle> 
+				  <persname>Lake, Lawrence, 1943- </persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">72</container> 
+				<unittitle> 
+				  <persname>Lee, Noël, 1924- </persname> 
+				  <title>Tango imprint</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">73</container> 
+				<unittitle> 
+				  <persname>Lidov, David, 1941- </persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">74</container> 
+				<unittitle> 
+				  <persname>Loudova, Ivana </persname> 
+				  <title>Tango music</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">75</container> 
+				<unittitle> 
+				  <persname>Luening, Otto, 1900- </persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">76</container> 
+				<unittitle> 
+				  <persname>McCandless, Michael, 1957-1993 </persname> 
+				  <title>Tangentangle</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">77</container> 
+				<unittitle> 
+				  <persname>Mellnäs, Arne </persname> 
+				  <title>... Ingen dans på roser Baile sobre rosas: tango (Not a
+					 bed of roses tango)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">78</container> 
+				<unittitle> 
+				  <persname>Melnyk, Lubomyr </persname> 
+				  <title>Swan dance</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">79</container> 
+				<unittitle> 
+				  <persname>Mencherini, Fernando, 1949- </persname> 
+				  <title>Das zweite Zimmer</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">80 </container> 
+				<unittitle> 
+				  <persname>Mendes, Gilberto, 1922- </persname> 
+				  <title>The three fathers</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">81</container> 
+				<unittitle> 
+				  <persname>Mendes, Gilberto, 1922-</persname> 
+				  <title>The three fathers</title></unittitle> 
+				
+				<note> 
+				  <p>Original manuscript, unsigned</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">82</container> 
+				<unittitle> 
+				  <persname>Mott, David </persname> 
+				  <title>Tango: under the winter moon</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">83</container> 
+				<unittitle> 
+				  <persname>Mumford, Jeffrey, 1955- </persname> 
+				  <title>Tango variations</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">84</container> 
+				<unittitle> 
+				  <persname>Myhill, John </persname> 
+				  <title>El gran macho</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">85</container> 
+				<unittitle> 
+				  <persname>Myhill, John </persname> 
+				  <title>El gran macho</title></unittitle> 
+				
+				<note> 
+				  <p> Autographed copy</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">86</container> 
+				<unittitle> 
+				  <persname>Nancarrow, Conlon, 1912- </persname> 
+				  <title>Tango (?)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">87</container> 
+				<unittitle> 
+				  <persname>Nancarrow, Conlon, 1912-</persname> 
+				  <title>Tango?</title></unittitle> 
+				
+				<note> 
+				  <p>Manuscript rewritten by Yvar Mikhashoff</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">88</container> 
+				<unittitle> 
+				  <persname>Nash, Peter Paul, 1950-</persname> 
+				  <title>Icebreak tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">89</container> 
+				<unittitle> 
+				  <persname>Newlin, Dika, 1923- </persname> 
+				  <title>Tango for Johannes</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">90</container> 
+				<unittitle> 
+				  <persname>Nichifor, Serbin </persname> 
+				  <title>Tango for Yvar</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">91</container> 
+				<unittitle> 
+				  <persname>Nobre, Marlos, 1939- </persname> 
+				  <title>Tango para piano, op. 61 </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">92</container> 
+				<unittitle> 
+				  <persname>Noon, David, 1946- </persname> 
+				  <title>Machine-tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">93</container> 
+				<unittitle> 
+				  <persname>Nørgård, Per, 1932- </persname> 
+				  <title>Without jealousy</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">94</container> 
+				<unittitle> 
+				  <persname>Nyman, Michael </persname> 
+				  <title>A neat slice of tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">95</container> 
+				<unittitle> 
+				  <persname>Orbán, György</persname> 
+				  <title>Suite for piano (1985): Nr. 2 -
+					 Kriminältango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">96</container> 
+				<unittitle> 
+				  <persname>Ortiz, William </persname> 
+				  <title>Del tingo al tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">97</container> 
+				<unittitle> 
+				  <persname>Ortiz, William </persname> 
+				  <title>Del tingo al tango</title></unittitle> 
+				
+				<note> 
+				  <p>Autographed manuscript</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">98</container> 
+				<unittitle> 
+				  <persname>Pablo, Luis de </persname> 
+				  <title>Tango (de J.H.)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">99</container> 
+				<unittitle> 
+				  <persname>Pablo, Luis de </persname> 
+				  <title>Tango (de J.H.)</title></unittitle> 
+				
+				<note> 
+				  <p>Autographed photocopy</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">100 </container> 
+				<unittitle> 
+				  <persname>Palmer, Robert, 1915- </persname> 
+				  <title>Interrupted tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">101</container> 
+				<unittitle> 
+				  <persname>Panni, Marcello </persname> 
+				  <title>Tangomix</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">102</container> 
+				<unittitle> 
+				  <persname>Panni, Marcello </persname> 
+				  <title>Tangomix</title></unittitle> 
+				
+				<note> 
+				  <p>Dedicated copy</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">103</container> 
+				<unittitle> 
+				  <persname>Paquette, Wayne </persname> 
+				  <title>Movie tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">104</container> 
+				<unittitle> 
+				  <persname>Peixinho, Jorge Rosado M., 1940-</persname> 
+				  <title>Red-sweet tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">105</container> 
+				<unittitle> 
+				  <persname>Peixinho, Jorge Rosado M., 1940-</persname> 
+				  <title>Red-sweet tango</title></unittitle> 
+				
+				<note> 
+				  <p>Original manuscript</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">106</container> 
+				<unittitle> 
+				  <persname>Pender, Scott </persname> 
+				  <title>Tango: Ms. Jackson dances for the
+					 people</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">107</container> 
+				<unittitle> 
+				  <persname>Pousseur, Henri </persname> 
+				  <title>Tango de Jeanne-La-Sybille</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">108</container> 
+				<unittitle> 
+				  <persname>Raschke, Frank </persname> 
+				  <title>Tango auf drei Beinem (Three-legged
+					 tango)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">109</container> 
+				<unittitle> 
+				  <persname>Rasmussen, Karl Aage </persname> 
+				  <title>Triple tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">110</container> 
+				<unittitle> 
+				  <persname>Rosenhaus, Steven</persname> 
+				  <title>The kiss</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">111 </container> 
+				<unittitle> 
+				  <persname>Ross, Valerie </persname> 
+				  <title>A tangorine for Yvar</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">112</container> 
+				<unittitle> 
+				  <persname>Ruders, Poul, 1949- </persname> 
+				  <title>Tangonetta</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">113</container> 
+				<unittitle> 
+				  <persname>Ruders, Poul, 1949- </persname> 
+				  <title>Tangonetta</title></unittitle> 
+				
+				<note> 
+				  <p>Unsigned manuscript</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">114</container> 
+				<unittitle> 
+				  <persname>Rudhyar, Dane, 1895- </persname> 
+				  <title>Tango d'Antan</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">115</container> 
+				<unittitle> 
+				  <persname>Rugeles, Alfredo </persname> 
+				  <title>Tanguitis</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">116</container> 
+				<unittitle> 
+				  <persname>Rzewski, Frederic </persname> 
+				  <title>Steptangle</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">117</container> 
+				<unittitle> 
+				  <persname>Sahl, Michael, 1934- </persname> 
+				  <title>Exiles cafe tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">118</container> 
+				<unittitle> 
+				  <persname>Sáry, László</persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">119</container> 
+				<unittitle> 
+				  <persname>Savaskan, Sinan </persname> 
+				  <title>The square root impressions with tears</title></unittitle>
+				
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">120</container> 
+				<unittitle> 
+				  <persname>Schimmel, William </persname> 
+				  <title>Fromage dangereux</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">121</container> 
+				<unittitle> 
+				  <persname>Schwartz, Elliott, 1936- </persname> 
+				  <title>Tango with interruptions (or Interrupted
+					 tango)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">122</container> 
+				<unittitle> 
+				  <persname>Sellars, James, 1943- </persname> 
+				  <title>Tango (in memoriam Schoenberg?)</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">123</container> 
+				<unittitle> 
+				  <persname>Sepos, Charles, 1950- </persname> 
+				  <title>Blue tempation tango</title></unittitle> 
+				
+				<note> 
+				  <p>Includes revision titled 
+				  <title>Tango Blue</title>, submitted by composer in 1991 </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">124</container> 
+				<unittitle> 
+				  <persname>Shapey, Ralph, 1921- </persname> 
+				  <title>Tango variations on a cantus</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">125</container> 
+				<unittitle> 
+				  <persname>Singer, Malcolm</persname> 
+				  <title>It takes two to </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">126</container> 
+				<unittitle> 
+				  <persname>Smith, Dave, 1949- </persname> 
+				  <title>Tango </title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">127</container> 
+				<unittitle> 
+				  <persname>Speach, Bernadette, 1948- </persname> 
+				  <title>To tango or not ...</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">128</container> 
+				<unittitle> 
+				  <persname>Stockhausen, Karlheinz, 1928- </persname> 
+				  <title>Tierkreis. Nr. 5: Zwillinge-Gemin ; Nr. 7: Löwe-Leo
+					 </title></unittitle> 
+				
+				<note> 
+				  <p>Includes a version for single staff and a version realized for
+					 grand staff</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">129</container> 
+				<unittitle> 
+				  <persname>Sullivan, Ken </persname> 
+				  <title>Maracaibo</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">130</container> 
+				<unittitle> 
+				  <persname>Thomson, Virgil, 1896-</persname> 
+				  <title>Two sentimental tangos</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">131</container> 
+				<unittitle> 
+				  <persname>Thorne, Francis </persname> 
+				  <title>Meditation-tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">132</container> 
+				<unittitle> 
+				  <persname>Tiensuu, Jukka </persname> 
+				  <title>Fantango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">133</container> 
+				<unittitle> 
+				  <persname>Tisné, Antoine </persname> 
+				  <title>Sarcastic tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">134</container> 
+				<unittitle> 
+				  <persname>Tragtenberg, Livio, 1961- </persname> 
+				  <title>Ornytango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">135</container> 
+				<unittitle> 
+				  <persname>Tyranny, Blue Gene, 1945- </persname> 
+				  <title>The more he sings, the more he cries, the better he feels
+					 tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">136</container> 
+				<unittitle> 
+				  <persname>Vigeland, Nils </persname> 
+				  <title>Tango a' deux</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">137</container> 
+				<unittitle> 
+				  <persname>Weinzweig, John, 1913-</persname> 
+				  <title>Tango for two</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">138</container> 
+				<unittitle> 
+				  <persname>White, John, 1936- </persname> 
+				  <title>Piano sonata no. 108: Reminiscenza di tempo di
+					 tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">139</container> 
+				<unittitle> 
+				  <persname>Wielecki, Tadeusz </persname> 
+				  <title>Collage-tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">140</container> 
+				<unittitle> 
+				  <persname>Wielecki, Tadeusz </persname> 
+				  <title>Collage-tango</title></unittitle> 
+				
+				<note> 
+				  <p>Manuscript</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">141</container> 
+				<unittitle> 
+				  <persname>Wigglesworth, Frank, 1918- </persname> 
+				  <title>Tango triste</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">142</container> 
+				<unittitle> 
+				  <persname>Wolpe, Stefan </persname> 
+				  <title>Tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">143</container> 
+				<unittitle> 
+				  <persname>Zimmermann, Walter, 1949- </persname> 
+				  <title>Puritaner-tango</title></unittitle> 
+				
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Arrangements of tangos, 
+				<unitdate type="inclusive" normal="1983/1993">1983-1991</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Box 3, Folder 144-154</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p> Tangos performed 15 April, 1987, with members of the Houston
+				Symphony Orchestra and other special guests. Includes musical scores and parts
+				for Mikhashoff arrangements of seven tangos for chamber ensemble and musical
+				scores of tangos for voice and piano.</p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p>Arranged in alphabetical order by composer name.</p> 
+		  </arrangement> 
+<c02 level="file">
+<did>
+   <container type="box">3</container>
+    <container type="folder">144</container>
+    <unittitle>
+<persname>Cage, John </persname>
+<title>Perpetual Tango</title>
+</unittitle>
+<note><p>Arranged by Mikhashoff in 1987.</p>
+        <p>Score and parts for violin, trumpet, alto saxophone, bass clarinet, percussion, contrabass and a piano reduction.</p></note>
+  </did>
+</c02>
+ 
+ <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">145</container>
+    <unittitle>
+<persname>Gade, Jacob, 1879-1963</persname>
+        <title>Jalousie</title>
+</unittitle> 
+<note>
+<p>Arranged by Mikhashoff</p>
+    <p>Publisher: Gade &#x0026; Warny, 1925 (Publisher no.: G. &#x0026; W. 2) </p>
+    <p>Parts only for clarinet in A, trumpet in A, alto saxophone in E&#x266D;, percussion, violin, accordion, piano, contrabass. Additional parts for flute, trumpet II in A, trombone, violin II, violin obligato, viola, violoncello. </p></note>
+  </did>
+</c02>
+
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">146</container>
+    <unittitle>
+<persname>Krenek, Ernst, 1900- </persname>
+    <title>Reverie Tango from Act I of Jonny spielt auf</title>
+</unittitle>
+<note><p>Arranged by Mikhashoff in 1987.</p>
+    <p>Score and parts: Violin, clarinet, alto saxophone, accordion, percussion, piano, contrabass. </p></note>
+  </did>
+</c02>
+
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">147</container>
+    <unittitle>
+<persname>Lehrer, Tom, 1928- </persname>
+        <title>Masochism Tango </title>
+</unittitle>
+        <note><p>Publisher: Tom Lehre, 1968</p>
+        <p>Score for voice and piano.</p></note>
+  </did>
+</c02>
+
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">148</container>
+    <unittitle>
+<persname>Nancarrow, Conlon, 1912-</persname>
+    <title>Tango</title>
+</unittitle>
+<note><p>Arranged by Mikhashoff in 1987.</p>
+    <p>Parts for violin, B&#x266D; and bass clarinets, trumpet, B&#x266D; soprano and E&#x266D; baritone saxophones, vibraphone/marimba, piano, contrabass. </p>
+</note>
+  </did>
+</c02>
+
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">149</container>
+    <unittitle>
+<persname>Rudhyar, Dane, 1895-</persname>
+            <title>Tango d'Antan</title></unittitle>
+ <note>
+<p>Arranged by Mikhashoff in 1987.</p>
+            <p>Score and parts for violin and piano.</p></note>
+   
+  </did>
+</c02>
+
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">150</container>
+    <unittitle>
+<persname>Sahl, Michael, 1934- </persname>
+<title>Exiles Caf&#x00e9; Tango</title> (1984)
+</unittitle>
+        <note>
+<p>Score for clarinet, tenor saxophone, trumpet, percussion, violin, piano, contrabass.</p>
+</note>
+  </did>
+</c02>
+  
+<c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">151</container>
+    <unittitle>
+<persname>Satie, Erik, 1866-1925 </persname>
+<title>Tango Perpetuel</title>
+</unittitle>
+<note><p>Arranged by Mikhashoff in 1987.</p>
+        <p>Score and parts for violin, trumpet, alto saxophone, bass clarinet, bowed crotale, contrabass.</p></note>
+  </did>
+</c02>
+
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">152</container>
+    <unittitle>
+<persname> Thomson, Virgil, 1896-</persname>
+    <title>Tango lullaby: a portrait of Mlle. Alvarez de Toledo</title>
+</unittitle>
+<note><p>Arranged by Mikhashoff in 1987.</p>
+    <p>Score and parts for violin, clarinet, trumpet (missing part), alto saxophone, vibraphone/marimba, percussion, piano, contrabass.</p></note>
+  </did>
+</c02>
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">153</container>
+<unittitle>
+<persname>Warwick, M.C. </persname>
+        <title>Come Home Tonight</title>
+</unittitle>
+        <note><p>Score for voice and piano.</p>
+      </note>
+  </did>
+</c02>
+
+  <c02 level="file">
+<did>
+    <container type="box">3</container>
+    <container type="folder">154</container>
+    <unittitle>
+<persname>Weill, Kurt, 1900-1950 </persname>
+<title>Tango - Ballade</title>
+</unittitle>
+<note><p>Arranged by Mikhashoff in 1987.</p>
+        <p>Score (only one page is available) for clarinet, alto saxophone, trumpet, soprano, accordion, violin, piano, contrabass and parts for voice and piano.</p>
+</note>
+         </did>
+</c02>
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Correspondence, 
+				<unitdate type="inclusive" normal="1983/1991">1983-1991</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Box 4, Folder 155-229</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Letters and agreements from composers invited to submit a tango to
+				Mikhashoff and/or Ed Snider, arranged in alphabetical order. In addition, there
+				is a seperate sequence of correspondence from a handful of composers to the
+				Music Library, also arranged in alphabetical order. </p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p> Arranged alphabetically by name. </p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">155</container> 
+				<unittitle> 
+				  <persname>Ashley, Robert, 1930- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">156</container> 
+				<unittitle> 
+				  <persname>Austin, Larry </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">157</container> 
+				<unittitle> 
+				  <persname>Babbitt, Milton, 1916- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">158</container> 
+				<unittitle> 
+				  <persname>Barce, Ramón </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">159</container> 
+				<unittitle> 
+				  <persname>Bell, Larry, 1952- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">160</container> 
+				<unittitle> 
+				  <persname>Biscardi, Chester </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">161</container> 
+				<unittitle> 
+				  <persname>Bright, Colin </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">162</container> 
+				<unittitle> 
+				  <persname>Bruce, Neely </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">163</container> 
+				<unittitle> 
+				  <persname>Bryars, Gavin </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">164</container> 
+				<unittitle> 
+				  <persname>Burgess, Anthony, 1917- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">165</container> 
+				<unittitle> 
+				  <persname>Busby, Gerald </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">166</container> 
+				<unittitle> 
+				  <persname>Chadabe, Joel </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">167</container> 
+				<unittitle> 
+				  <persname>Christoff, Dimiter, 1933- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">168</container> 
+				<unittitle> 
+				  <persname>Clarkson, Austin</persname></unittitle> 
+				<note> 
+				  <p>Regarding the tango by 
+					 <persname normal="Wolpe, Stefan"> Stefan Wolpe</persname></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">169</container> 
+				<unittitle> 
+				  <corpname>Composers Forum Inc. and Dance Theater
+					 Workshop</corpname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">170</container> 
+				<unittitle> 
+				  <persname>Davies, Hugh, 1943- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">171</container> 
+				<unittitle> 
+				  <persname>Détlefsen, Hans Christian, 1951 </persname></unittitle>
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">172</container> 
+				<unittitle> 
+				  <persname>Diamond, David, 1915- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">173</container> 
+				<unittitle> 
+				  <persname>Diemente, Edward </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">174</container> 
+				<unittitle> 
+				  <persname>Drake, Jeremy</persname></unittitle> 
+				<note> 
+				  <p>Regarding the tango by 
+					 <persname normal="Xenakis, Iannis, 1922-2001"> Iannis
+						Xenakis</persname></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">175</container> 
+				<unittitle> 
+				  <persname>Edlund, Mikael, 1950- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">176</container> 
+				<unittitle> 
+				  <persname>Fennelly, Brian </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">177</container> 
+				<unittitle> 
+				  <persname>Finch, Douglas </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">178</container> 
+				<unittitle> 
+				  <persname>Fine, Vivian, 1913- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">179</container> 
+				<unittitle> 
+				  <persname>Finnissy, Michael </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">180</container> 
+				<unittitle> 
+				  <persname>García, Orlando Jacinto</persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">181</container> 
+				<unittitle> 
+				  <persname>Genge, Anthony, 1952- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">182</container> 
+				<unittitle> 
+				  <persname>Gideon, Miriam, 1906- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">183</container> 
+				<unittitle> 
+				  <persname>Goeyvaerts, Karel </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">184</container> 
+				<unittitle> 
+				  <persname>Goldstein, Malcolm, 1936- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">185</container> 
+				<unittitle> 
+				  <persname>Harris, Donald </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">186</container> 
+				<unittitle> 
+				  <persname>Hill, Jackson, 1941- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">187</container> 
+				<unittitle> 
+				  <persname>Hodkinson, Sydney </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">188</container> 
+				<unittitle> 
+				  <persname>Howard, Brian </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">189</container> 
+				<unittitle> 
+				  <persname>Hunt, Jerry, 1943- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">190</container> 
+				<unittitle> 
+				  <persname>Jack, Adrian </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">191</container> 
+				<unittitle> 
+				  <persname>Jeney, Zoltán, 1943- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">192</container> 
+				<unittitle> 
+				  <persname>Johnson, Tom, 1939- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">193</container> 
+				<unittitle> 
+				  <persname>Kotík, Petr </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">194</container> 
+				<unittitle> 
+				  <persname>Krauze, Zygmunt </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">195</container> 
+				<unittitle> 
+				  <persname>Kurtz, Eugene, 1923- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">196</container> 
+				<unittitle> 
+				  <persname>Lee, Noël, 1924- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">197</container> 
+				<unittitle> 
+				  <persname>Leeuw, Ton de, 1926- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">198</container> 
+				<unittitle> 
+				  <persname>Loudova, Ivana </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">199</container> 
+				<unittitle> 
+				  <persname>Mellnäs, Arne </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">200</container> 
+				<unittitle> 
+				  <persname>Melnyk, Lubomyr </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">201</container> 
+				<unittitle> 
+				  <persname>Mencherini, Fernando, 1949- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">202</container> 
+				<unittitle> 
+				  <persname>Monk, Meredith </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">203</container> 
+				<unittitle> 
+				  <persname>Mumford, Jeffrey, 1955- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">204</container> 
+				<unittitle> 
+				  <persname>Newlin, Dika, 1923- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">205</container> 
+				<unittitle> 
+				  <persname>Nichifor, Serbin </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">206</container> 
+				<unittitle> 
+				  <persname>Nobre, Marlos, 1939- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">207</container> 
+				<unittitle> 
+				  <persname>Noon, David, 1946- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">208</container> 
+				<unittitle> 
+				  <persname>Nørgård, Per, 1932- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">209</container> 
+				<unittitle> 
+				  <persname>Ortiz, William </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">210</container> 
+				<unittitle> 
+				  <persname>Palmer, Robert, 1915- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">211</container> 
+				<unittitle> 
+				  <persname>Rautavaara, Einojuhani, 1928- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">212</container> 
+				<unittitle> 
+				  <persname>Rosenhaus, Steve </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">213</container> 
+				<unittitle> 
+				  <persname>Ross, Valerie </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">214</container> 
+				<unittitle> 
+				  <persname>Ruders, Poul, 1949- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">215</container> 
+				<unittitle> 
+				  <persname>Rzewski, Frederic</persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">216</container> 
+				<unittitle> 
+				  <persname>Sahl, Michael, 1934- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">217</container> 
+				<unittitle> 
+				  <persname>Sauguet, Henri, 1901- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">218</container> 
+				<unittitle> 
+				  <persname>Schwartz, Elliott, 1936- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">219</container> 
+				<unittitle> 
+				  <persname>Sepos, Charles, 1950- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">220</container> 
+				<unittitle> 
+				  <persname>Silsbee, Ann </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">221</container> 
+				<unittitle> 
+				  <persname>Sullivan, Ken </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">222</container> 
+				<unittitle> 
+				  <persname>Tcherepnin, Ivan </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">223</container> 
+				<unittitle> 
+				  <persname>Thorkell, Sigurbjörnsson, 1938- </persname></unittitle>
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">224</container> 
+				<unittitle> 
+				  <persname>Thorne, Francis</persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">225</container> 
+				<unittitle> 
+				  <persname>Tiensuu, Jukka </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">226</container> 
+				<unittitle> 
+				  <persname>Tisné, Antoine </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">227</container> 
+				<unittitle> 
+				  <persname>Vigeland, Nils </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">228</container> 
+				<unittitle> 
+				  <persname>Wielecki, Tadeusz </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">229</container> 
+				<unittitle> 
+				  <persname>Zimmermann, Walter, 1949- </persname></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle> Research materials, 
+				<unitdate type="inclusive" normal="1983/1993">1 983-1991</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Box 5, Folder 230-232</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p> Sources used as research, including magazine articles, newspaper
+				clippings, journal articles, sources of the images used as slides during
+				performances, and music scores of 10 tangos not performed as a part of this
+				collection.</p> 
+		  </scopecontent> 
+		  <arrangement> 
+			 <p> Arranged in rough chronological order. </p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">230</container> 
+				<unittitle>Magazine articles, journal articles, newspaper
+				  clippings, and playbill for the broadway show, 
+				  <title>Tango Argentina</title></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">231</container> 
+				<unittitle>Images from print sources</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">232</container> 
+				<unittitle>Photograph of unknown bandoneon player by photographer
+				  Camilla van Zuylen, Buenos Aires, 
+				  <unitdate type="inclusive" normal="1985-03">March 1985</unitdate>
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle> Study scores, 
+				<unitdate type="inclusive" normal="1983/1993"> 1983-1991</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Box 5, Folder 233-242</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p> Arranged alphabetically by composer name.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">233</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Atkinson, Condit
+						R</persname> 
+					 <title>It Still Takes Two to do the Hustle, Rhumba, Cha Cha,
+						Tango: Piano Duets</title> <imprint><lb/> 
+					 <publisher>G. Schirmer</publisher>, 
+					 <date type="publication" normal="1978">1978</date>. </imprint> 
+					 <num type="publisher">Publisher no.: 19089</num> </bibref>
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">234</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Barber, Samuel,
+						1910-</persname> 
+					 <title>Hesitation Tango</title> <imprint><lb/> 
+					 <publisher>G. Schirmer</publisher>, 
+					 <date type="publication" normal="1978">1978</date>. </imprint> 
+					 <num type="publisher">Publisher no.: 19089</num> </bibref>
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">235</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Gade, Jacob,
+						1879-1963</persname>. 
+					 <title>Tango charmeuse</title> <imprint><lb/> 
+					 <publisher>Gade &#x0026; Warny</publisher>, 
+					 <date type="publication" normal="1925">1925</date>. </imprint> 
+					 <num type="publisher">Publisher no.: G. &#x0026; W. 9</num>
+					 </bibref> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">236</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Jouannest, Gérard
+						</persname>. 
+					 <title>Funeral Tango (Le Tango Funebre)</title> <imprint> <lb/>
+					 
+					 <publisher>Hill and Range Songs, Inc.</publisher>, 
+					 <date type="publication" normal="1968">1968</date>. </imprint> 
+					 <num type="publisher">Publisher no.: 130-19318</num> </bibref>
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">237</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Logatti,
+						Lorenzo</persname>. 
+					 <title>El Irresistible</title> </bibref> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">238</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Moore, Edward
+						C.</persname> 
+					 <title>Pavlowana</title>, in 
+					 <title>The Journal</title> </bibref> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">239</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Nazareth,
+						Ernesto</persname>. 
+					 <title>Dengozo: Maxixe Tango</title> </bibref> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">240</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Stertin, E.</persname> 
+					 <title>L'Exhilaration</title> </bibref> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">241</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf"> Stravinsky, Igor,
+						1882-1971</persname>. 
+					 <title>Tango</title> <imprint><lb/> 
+					 <publisher>Boosey &#x0026; Hawkes, Inc.</publisher>, 
+					 <date type="publication" normal="1977">1977</date>. </imprint> 
+					 <num type="publisher">Publisher no.: BH. BK. 765</num>
+					 </bibref> </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">242</container> 
+				<unittitle> 
+				  <bibref> 
+					 <persname role="creator" source="lcnaf">Weill, Kurt,
+						1900-1950</persname>. 
+					 <title>Sailors Tango</title> from 
+					 <title>Happy End</title> <imprint><lb/> 
+					 <publisher>Universal Edition</publisher>, 
+					 <date type="publication" normal="1980">1980</date>. </imprint> 
+					 <num type="publisher">Publisher no.: UE 17243</num> </bibref>
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Performance materials, 
+				<unitdate type="inclusive" normal="1984/1987">1984-1987</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Box 5, Folder 242-250</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p> These items pertain to Mikhashoff's performances of the tango
+				collection; includes programs, reviews, handwritten lists of tangos received,
+				and samples of the covers that were to be used for the proposed publication by
+				Quadrivium Press</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">243</container> 
+				<unittitle>Preface to the Tango Collection written by Yvar
+				  Mikhashoff</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">244</container> 
+				<unittitle>Tango lecture handout</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">245</container> 
+				<unittitle>Lists (30) of tangos in collection, 
+				  <unitdate type="inclusive"
+					normal="1984/1987">1984-1987</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">246</container> 
+				<unittitle>Lists (15) of tangos (undated)</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">247</container> 
+				<unittitle>Lists (3) of recorded tangos (undated)</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">248</container> 
+				<unittitle>Programs (10) of performances, 
+				  <unitdate type="inclusive" normal="1984/1987">1984-1987
+					 </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">249</container> 
+				<unittitle>Reviews (4) of Mikhashoff's performances, 
+				  <unitdate type="inclusive" normal="1986/1987"> 1986-1987
+					 </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">250</container> 
+				<unittitle>Samples of covers and postcards created for the tango
+				  collection. Design by 
+				  <persname normal="Jacobs, Bud">Bud Jacobs</persname> </unittitle>
+				
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Tangos</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music--Manuscripts</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music--Manuscripts--Facsimiles</subject> 
+		  <subject source="lcsh" encodinganalog="650">Piano music</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655"
+			source="gmgpc">Correspondence</genreform> 
+		  <genreform encodinganalog="655" source="gmgpc">Scores</genreform> 
+		  <genreform encodinganalog="655" source="gmgpc">Articles</genreform> 
+		  <genreform encodinganalog="655" source="gmgpc">Programs</genreform> 
+		  <genreform encodinganalog="655" source="gmgpc">Clippings</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+				  	<archref
+				  		href="http://libweb1.lib.buffalo.edu:8080/findingaids/data/pdf/music/guides/ubmu_guides_mikhashofftangossupplement/ubmu_guides_mikhashofftangossupplement.pdf"
+				  		show="new" actuate="onrequest" role="text/html">Tangos in the Yvar Mikhashoff
+				  		Archive: Publication Information </archref> </label> 
+				  <item>A list in five parts: tangos in the archive commissioned by Yvar Mikhashoff and Quadrivium Press (126 titles), commissioned tangos not in the archive (7 titles), tangos in the Yvar Mikhashoff Collection of Annotated Scores (8 titles), tangos arranged by Yvar Mikhashoff (2 titles, not including his arrangement of John Cage's Perpetual Tango), and tangos composed by Mikhashoff (1 title and sketches for two works). The first section of the list includes information about the availability of the tangos. </item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc> 
+</ead> 

@@ -1,0 +1,3771 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 23.3::Livingston Gearhart Collection of Photographs)//EN">ubmu0023_3</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Livingston
+		Gearhart Collection of Photographs, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1896/1969"> 1896-1969 </date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Gearhart (Livingston)
+		Collection of Photographs </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley. </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Livingston Gearhart
+	   Collection of Photographs, 
+	   <unitdate encodinganalog="245$f" normal="1896/1969" type="inclusive"
+	    datechar="creation"> 1896-1969 </unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 23.3</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf">Gearhart,
+		Livingston </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   box</extent> (<extent unit="photograph" encodinganalog="300">192
+	   photographs</extent>) </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">No
+	   textual materials are included in the collection.</langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a"> The collection
+	   contains 192 photographs from the personal collection of composer, arranger,
+	   and pianist, Livingston Gearhart. They include photographs of Nadia Boulanger
+	   and her summer class of 1938 at the Conservatoire Américain de Fontainebleau,
+	   Gearhart and his first wife and duo-piano partner, Virginia Morley, Darius
+	   Milhaud and his family, and the Budapest String Quartet. The collection also
+	   includes four photographs of composer Johannes Brahms in 1896. </abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Livingston Gearhart Collection of Photographs,
+		1896-1969, Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Livingston Gearhart. Additional photographs given by the
+		family of Livingston Gearhart in 2012 and again in 2014.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <altformavail encodinganalog="530"> 
+	   <head>Alternate Forms</head> 
+	   <p>Entire collection digitized and available in 
+		<extref
+			href="http://digital.lib.buffalo.edu/collection/LIB-MUS019/"
+   		 show="replace" actuate="onrequest" role="text/html">University at Buffalo
+		  Libraries Digital Collections</extref>.</p> 
+	 </altformavail>
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by Kathryn M. Blough; additions processed by John Bewley,
+		2013 and 2015.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Livingston Gearhart was born in Buffalo, New York December 31, 1916.
+	   His mother was Lillian Hawley Gearhart, a pianist who had studied for a year
+	   under Theodor Leschetizky in Vienna. As a child Gearhart studied piano, oboe,
+	   violoncello, and sang in church choirs in Buffalo and New York City. He
+	   graduated from high school in East Orange, New Jersey in 1935. He entered
+	   Curtis Institute of Music in Philadelphia in 1935 as an oboe student of Marcel
+	   Tabuteau. In his second year he switched his major to study composition with
+	   Rosario Scalero and piano with Nadia Reisenberg. </p> 
+	 <p>Gearhart sailed to Paris aboard the Normandie in 1937. With generous
+	   support from a wealthy American expatriate, he was able to enroll at the
+	   Conservatoire Américain de Fontainebleau where he studied music theory and
+	   composition with Nadia Boulanger. He was awarded the school's 2nd prize (no
+	   first prize was awarded that year) in the Prix Stovall composition competition
+	   in 1937. While in Paris he also met Igor Stravinsky, Darius Milhaud, Robert
+	   Casadesus, pianist Isodor Philipp, and his future wife and duo-piano partner,
+	   Virginia Clotfelter. He and Virginia performed their debut in Paris February 1,
+	   1939 at the Salle Chopin. They received good reviews and were then able to give
+	   concerts in other French and Swiss locations until the conditions of World War
+	   II caused them to return to the United States.</p> 
+	 <p>Virginia Clotfelter adopted the professional name Morley and married
+	   Gearhart February 28, 1940 in New York City. They worked at numerous venues,
+	   including the Hotel Brevoort and the club, Ruban Bleu, both operated by Herbert
+	   Jacoby. The pair spent the summers of 1942 and 1943 as Artists-in-Residence at
+	   Morley's alma mater, Mills College in Oakland, California. While there Gearhart
+	   was able to study composition with Darius Milhaud. The Budapest String Quartet
+	   was also in residence at Mills College during those years and Gearhart and
+	   Morley formed friendships with quartet members Alexander and Mischa Schneider.
+	   The Morley Gearhart duo was very successful, performing works by Milhaud,
+	   Norman Dello Joio, David Diamond, and Stravinsky's 
+	 <title type="book">Concerto per due pianoforte soli</title>. </p> 
+	 <p>The duo received contracts with Columbia Concerts and the Fred Waring
+	   Show that extended from 1943-1954. During 1941 to 1954, the two-piano team of
+	   Morley and Gearhart performed over 2000 concerts throughout the US and Canada
+	   in addition to recording for Columbia Masterworks and Decca Records. Among the
+	   many concert dates, the duo performed at the White House for President Dwight
+	   D. Eisenhower in 1953. During this period Gearhart also worked as a staff
+	   arranger for the Fred Waring Show. </p> 
+	 <p>A two-CD retrospective released in 2001, 
+	 <title><emph render="italic">Morley and Gearhart
+	   Rediscovered</emph></title> by Ivory Classics, features 22 of Gearhart's
+	 two-piano arrangements. Some of these arrangements survive at Penn State in
+	 their collection, Fred Waring's America. In many cases Gearhart never fully
+	 wrote out his part of a duo so no written arrangement survives. </p> 
+	 <p>Livingston Gearhart's output contains several collections written for
+	   pedagogical purposes. The first of Gearhart's these works to be published was 
+	 <title><emph render="italic">Clarinet Sessions</emph></title> in 1945.
+	 That was followed by similar collections for trumpet, violin, flute, and duos.
+	 Gearhart's entire compositional and arranging output includes 400-500 works
+	 (counting individual works within the collections). </p> 
+	 <p>Gearhart returned to Buffalo in 1955 and was appointed to the faculty
+	   of the music department at the University of Buffalo. After a divorce from
+	   Virginia Morley, he married violinist and conductor Pamela Gerhart (not a
+	   misspelling) in 1955. He taught various courses in keyboard, theory, and
+	   orchestration until his retirement in 1985. </p> 
+	 <p>Livingston Gearhart had four children: Paul, born to Virginia Morley
+	   Gearhart; Kim, Martha, and Fritz, born to Pamela Gearhart. Gearhart died in
+	   Buffalo at the age of 79 on July 14, 1996. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection contains 192 photographs from the personal collection
+	   of composer, arranger, and pianist, Livingston Gearhart. Many of the
+	   photographs include annotations on versos. Some of these were done
+	   contemporaneously and others were added at a later time. The photographs
+	   include images of Gearhart's early family life, his time in Paris and elsewhere
+	   in Europe between 1937 and 1939, Nadia Boulanger and her summer class of 1938
+	   at the Conservatoire Américain de Fontainebleau, Gearhart and his first wife
+	   and duo-piano partner, Virginia Morley, Gearhart and Morley at Mills College in
+	   California, with composer Darius Milhaud and his family, and the Budapest
+	   String Quartet. The collection also includes photographs of oboist Marcel
+	   Tabuteau, conductor Walter Damrosch, and bandleader, Fred Waring. A unique
+	   component of the collection is the group of four photographs of composer
+	   Johannes Brahms taken while he was visiting friends in Krefeld, Germany the
+	   weekend after Clara Schumann's funeral in May 1896. An additional folder of
+	   twenty-one photocopies of photographs, chiefly of Gearhart and Morley, is
+	   included but not described due to the quality of the photocopies.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is organized in three series: 
+	   <list type="simple"> 
+		<item> 
+		  <ref target="series1" actuate="onrequest" show="replace">I.
+		    Original receipts</ref> </item> 
+		<item> 
+		  <ref target="series2" actuate="onrequest" show="replace">II.
+		    Additional receipts (2012)</ref> </item> 
+		<item> 
+		  <ref target="series3" actuate="onrequest" show="replace">III.
+		    Additional receipts (2014)</ref> </item> 
+	   </list> </p> 
+    </arrangement> 
+    <dsc type="in-depth"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I.</unitid> 
+		<unittitle>Original receipts, 
+		  <unitdate type="inclusive" normal="1896/1948">1896-1948</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Items 1-26</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged by size of the print and grouped by subject.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg001</container> 
+		  <unittitle>Livingston Gearhart and unidentified male onboard the
+		    ship, The Normandie, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg002</container> 
+		  <unittitle>Livingston Gearhart sitting outdoors, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg003</container> 
+		  <unittitle>Livingston Gearhart and group of Nadia Boulanger
+		    students sitting at an outdoor café. Virginia Morley is seated across from
+		    Gearhart, Nadia Boulanger visible at end of table, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Restaurant 'A la petite chaise' just across
+			 from Virginia's. We learned on authority other night that her house is almost
+			 400 yrs old, and in all the guide books or you know what I mean"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg004</container> 
+		  <unittitle>Livingston Gearhart walking across a street in Paris, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg005</container> 
+		  <unittitle>Livingston Gearhart, Virginia Morley, Benjamin Baldwin,
+		    Fred Werle (far right), and unidentified male, in the dining pavilion at the
+		    Conservatoire Américain de Fontainebleau, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg006</container> 
+		  <unittitle>Livingston Gearhart standing on a bridge in Paris, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg007</container> 
+		  <unittitle>Livingston Gearhart on board the Normandie, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Possibly earlier than 1938</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg008</container> 
+		  <unittitle>Livingston Gearhart sitting next to Nadia Boulanger at
+		    an outdoor café in Paris, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Boulanger talking to Emma"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg009</container> 
+		  <unittitle>Livingston Gearhart sitting next to Nadia Boulanger at
+		    an outdoor café in Paris, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg010</container> 
+		  <unittitle>Nadia Boulanger with her group of singers and others.
+		    Livingston Gearhart in the back row, head turned, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "With her group of singers and other
+			 people"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg011</container> 
+		  <unittitle>Nadia Boulanger standing next to a car, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Please save and perhaps return the ones of
+			 Boulanger. This is so characteristic - last lesson next week - before the fall,
+			 that is.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg012</container> 
+		  <unittitle>Nadia Boulanger standing with conductor Walter Damrosch
+		    in the garden of the restaurant at the American Conservatory, Fontainebleau, 
+		    <unitdate type="inclusive">July 1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>See p.281 in Nadia Boulanger: A Life in Music</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg013</container> 
+		  <unittitle>Nadia Boulanger portrait photograph, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Esparcieux, G.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg014</container> 
+		  <unittitle>Nadia Boulanger (at piano) with her class of summer
+		    1938, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Students, including Herve Armington (far left in chair), Ethel
+			 Thurston (behind and to left of Boulanger), Louise Talma (behind and right of
+			 Boulanger), Livingston Gearhart (behind Talma, to right), and Virginia Morley
+			 (seated far right)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg015</container> 
+		  <unittitle>Marcel Tabuteau standing outside the Drake Hotel in
+		    Philadelphia, 
+		    <unitdate type="inclusive">1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Tabuteau was oboist with Philadelphia Orchestra and taught at
+			 Curtis Institute of Music</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg016</container> 
+		  <unittitle>Livingston Gearhart, Fred Waring, and Virginia Morley at
+		    the Gearhart's farm in Pennsylvania, 
+		    <unitdate type="inclusive">1948?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg017</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley at Mills
+		    College, 
+		    <unitdate type="inclusive">1941</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Oakland (Calif.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg018</container> 
+		  <unittitle>Livingston Gearhart sitting on couch with Herve
+		    Armington in Igor Stravinsky's parlor, 
+		    <unitdate type="inclusive">1938?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg019</container> 
+		  <unittitle>Livingston Gearhart walking across street in Paris, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg020</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley with Daniel,
+		    Madeleine, and Darius Milhaud, at Mills College, 
+		    <unitdate type="inclusive">1941</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Oakland (Calif.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg021</container> 
+		  <unittitle>Madeleine, Daniel, and Darius Milhaud, 
+		    <unitdate type="inclusive">1941</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Oakland (Calif.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg022</container> 
+		  <unittitle>Budapest String Quartet members with koala bears at
+		    Mills College: Josef Roismann, Boris Kroyt, Alexander Schneider, and Mischa
+		    Schneider, 
+		    <unitdate type="inclusive">1940</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Oakland (Calif.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg023</container> 
+		  <unittitle>Johannes Brahms tending to a bird dropping on the jacket
+		    of Alwin von Beckerath, as Karl Piening, Bram Eldering, Rudolf von der Leyen,
+		    and Gustav Ophüls stand nearby, 
+		    <unitdate type="inclusive">1896</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beckerath, Heinz von, 1876-1940</p> 
+		    <p>From a group of photographs taken at a gathering of Brahms and
+			 his friends in May 1896 following the funeral of Clara Schumann at the
+			 Weyermann estate, Hagerhof, in Krefeld, Germany.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bad Honnef (Germany)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg024</container> 
+		  <unittitle>Johannes Brahms with Alwin von Beckerath, Gustav Ophüls,
+		    and Bram Eldering in Bad Honnef, 
+		    <unitdate type="inclusive">1896</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beckerath, Heinz von, 1876-1940</p> 
+		    <p>From a group of photographs taken at a gathering of Brahms and
+			 his friends in May 1896 following the funeral of Clara Schumann at the
+			 Weyermann estate, Hagerhof, in Krefeld, Germany.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bad Honnef (Germany)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg025</container> 
+		  <unittitle>Johannes Brahms with Alwin von Beckerath, Gustav Ophüls,
+		    and Bram Eldering walking down a path in Bad Honnef, 
+		    <unitdate type="inclusive">1896</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beckerath, Heinz von, 1876-1940</p> 
+		    <p>From a group of photographs taken at a gathering of Brahms and
+			 his friends in May 1896 following the funeral of Clara Schumann at the
+			 Weyermann estate, Hagerhof, in Krefeld, Germany.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bad Honnef (Germany)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg026</container> 
+		  <unittitle>Johannes Brahms with Emmie Weyermann, wife of Walther
+		    Weyermann, at the Weyermann estate, Hagerhof, in Bad Honnef, 
+		    <unitdate type="inclusive">1896</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beckerath, Heinz von, 1876-1940</p> 
+		    <p>From a group of photographs taken at a gathering of Brahms and
+			 his friends in May 1896 following the funeral of Clara Schumann at the
+			 Weyermann estate, Hagerhof, in Krefeld, Germany.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bad Honnef (Germany)</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II.</unitid> 
+		<unittitle>Additional receipts (2012), 
+		  <unitdate type="inclusive" normal="1902/1949">circa
+		    1902-1983</unitdate> </unittitle> 
+		<physdesc><extent>Items 26-110</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in rough chronological order within geographical
+		  locations.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg027</container> 
+		  <unittitle>Livingston Gearhart in suit and tie standing with gazebo
+		    in background, 
+		    <unitdate type="inclusive">circa 1929</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "8th grade graduation E. Orange"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: East Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg028</container> 
+		  <unittitle>Livingston Gearhart in suit and tie sitting on porch of
+		    house, 
+		    <unitdate type="inclusive">circa 1929</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "? Grove St. East Orange?"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: East Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg029</container> 
+		  <unittitle>Livingston Gearhart in suit and tie standing in front of
+		    house, 
+		    <unitdate type="inclusive">circa 1929</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "8th grade graduation E. Orange"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: East Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg030</container> 
+		  <unittitle>Livingston Gearhart in vest and tie standing in front of
+		    a garage, 
+		    <unitdate type="inclusive">circa 1929</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Maybe East Orange?"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: East Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg031</container> 
+		  <unittitle>Livingston Gearhart sitting beneath an umbrella with his
+		    mother Lillian, 
+		    <unitdate type="inclusive">circa 1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg032</container> 
+		  <unittitle>Livingston Gearhart sitting beneath an umbrella with his
+		    sister, Martha Gearhart, 
+		    <unitdate type="inclusive">circa 1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Livingston &amp; me"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg033</container> 
+		  <unittitle>Livingston Gearhart sitting beneath an umbrella with his
+		    sister, Martha Gearhart, 
+		    <unitdate type="inclusive">circa 1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Martha and Livingston, chez Burnett? (Orange,
+			 N.J.) 1935?</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg034</container> 
+		  <unittitle>Livingston Gearhart walking beside his sister Martha, 
+		    <unitdate type="inclusive">circa 1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg035</container> 
+		  <unittitle>Livingston Gearhart with his sister Martha and
+		    unidentified person looking down into what is possibly a fish pond, 
+		    <unitdate type="inclusive">circa 1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg036</container> 
+		  <unittitle>Livingston Gearhart at Camp Aldercliff, Weymouth, Nova
+		    Scotia, 
+		    <unitdate type="inclusive">circa 1932</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Weymouth, N.S."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Weymouth (N.S.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg037</container> 
+		  <unittitle>Two unidentified males at Camp Aldercliff, Weymouth,
+		    Nova Scotia, 
+		    <unitdate type="inclusive">circa 1932</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Camp Aldercliff, Nova Scotia (Weymouth)"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Weymouth (N.S.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg038</container> 
+		  <unittitle>Livingston Gearhart standing and unidentified male
+		    laying on ground at Camp Aldercliff, Weymouth, Nova Scotia, 
+		    <unitdate type="inclusive">circa 1932</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Nova Scotia, Camp Aldercliff, ca. 16"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Weymouth (N.S.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg039</container> 
+		  <unittitle>Livingston Gearhart with Sonia and Ethel Gechtoff before
+		    portrait of J. Edgar Hoover by Leonid Gechtoff, 
+		    <unitdate type="inclusive">1936</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Winter 1936, Phila. Sonia, Mrs. Gechtoff. The
+			 portrait is Leonid Gechtoff's rendition of J. Edgar Hoover"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Philadelphia (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg040</container> 
+		  <unittitle>View towards water from onboard a ship, probably the
+		    U.S.S. Normandie, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Probably the Normandie, aft"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg041</container> 
+		  <unittitle>View of ships on the ocean at the Port of Southampton,
+		    England, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Part of the British fleet coming into
+			 Southampton (the first view I had of Europe)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Southampton (England)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg042</container> 
+		  <unittitle>View of the Serpentine Lake in Hyde Park, London, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "The Serpentine, Hyde Park (London)"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: London (England)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg043</container> 
+		  <unittitle>View of crowd in Hyde Park, London, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Oratory, Hyde Park, London"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: London (England)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg044</container> 
+		  <unittitle>View of moors in unidentified location, probably
+		    England, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "The 'moors'. In the picture, looks like almost
+			 anyplace, I know. Characteristic features - such as a line of poplars on the
+			 far side, don't show up"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg045</container> 
+		  <unittitle>Nadia Boulanger behind piano onstage at rehearsal with
+		    London Philharmonic Orchestra, 1937, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Rehearsal London Philharmonic taken from the
+			 organ loft where I was turning pages. Boulanger is in the center behind the
+			 piano"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: London (England)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg046</container> 
+		  <unittitle>Livingston Gearhart sitting on top of wall in Paris, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Call this one Innocent abroad"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg047</container> 
+		  <unittitle>Livingston Gearhart standing in front of a Café Bar
+		    Restaurant, presumably in Paris, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg048</container> 
+		  <unittitle>Two unidentified males in white jackets standing at end
+		    of reflecting pool, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Getting interested in 'trick' shots - you
+			 know, artistic photography"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg049</container> 
+		  <unittitle>Livingston Gearhart standing near the Arc de triomphe, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Arc de Triomphe on way to Valery's to hear
+			 Schnabel records. Note tandem bicycle."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg050</container> 
+		  <unittitle>Livingston Gearhart standing before the main doors at
+		    Chartres Cathedral, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Probably Notre Dame [crossed out]
+			 Chartres."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Chartres (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg051</container> 
+		  <unittitle>Livingston Gearhart looking over a balcony in Paris, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Paris with a slight affectation"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg052</container> 
+		  <unittitle>Livingston Gearhart standing beneath Paul-Eugène Benet
+		    statue of Jean Vauquelin at the Château-Musée de Dieppe, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Chateau at Dieppe. I am beneath the statue.
+			 Chez Mme. Forget"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Dieppe (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg053</container> 
+		  <unittitle>Wall mask fountain at Fontainebleau, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Fountain in the courtyard at
+			 Fontainebleau"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg054</container> 
+		  <unittitle>Carp pond at Fontainebleau, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Carp pond near the palace (Fontainebleau)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg055</container> 
+		  <unittitle>Courtyard at Fontainebleau, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Another courtyard"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg056</container> 
+		  <unittitle>Livingston Gearhart in front of building at
+		    Fontainebleau, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Windows upper right are mine. Fontainebleau,
+			 Summer 1937"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg057</container> 
+		  <unittitle>Palace of Fontainebleau, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "More of the chateau"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg058</container> 
+		  <unittitle>Livingston Gearhart standing on the Le Ponts des Arts
+		    bridge in Paris with the Louvre in the background, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Le pont des Arts. Louvre in the background</p>
+		    
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg059</container> 
+		  <unittitle>Chateau Daumesnil?, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Chateau Daumesnil (of the Valery's) - not a
+			 good picture"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg060</container> 
+		  <unittitle>Cathedral of Notre Dame, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Notre Dame from the derrierre"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg061</container> 
+		  <unittitle>Livingston Gearhart searching through second hand music
+		    at bookstalls along the Seine, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Second hand music on the Seine. The urge to
+			 browse is irresistable"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg062</container> 
+		  <unittitle>Livingston Gearhart searching through second hand music
+		    at bookstalls along the Seine, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Can I get you anything at the bookstalls? Tell
+			 me the kinds of things you want."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg063</container> 
+		  <unittitle>Hallway inside the American Conservatory at
+		    Fontainebleau, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Another hall in the conservatoire - my studio
+			 is a door on the left"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg064</container> 
+		  <unittitle>Hallway inside the American Conservatory at
+		    Fontainebleau, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Corridor in the Conservatoire"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg065</container> 
+		  <unittitle>Livingston Gearhart sitting on bench with unidentified
+		    male, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Rue Grand (Main Street) Fontainebleau"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg066</container> 
+		  <unittitle>View of an alleyway between buildings, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "It was all a mistake setting so much stone in.
+			 Houses on this street date back to 1400. My most beautiful views are yet to
+			 come. Have bought you long white gloves.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg067</container> 
+		  <unittitle>Palace of Fontainebleau and its gardens, 
+		    <unitdate type="inclusive">1937?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Dans les jardins du palais
+			 (Fontainebleau)"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg068</container> 
+		  <unittitle>Walter Damrosch and Nadia Boulanger at Fontainebleau, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Damrosch at Fontainebleau"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg069</container> 
+		  <unittitle>Nadia Boulanger and M. Hufstadter at Fontainebleau, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Mme Boulanger et M. Hufstadter (1937 or
+			 8)"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg070</container> 
+		  <unittitle>Nadia Boulanger and her Fontainebleau class of 1938
+		    (clipping), 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Esparcieux, G.</p> 
+		    <p>Clipped from magazine or journal</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg071</container> 
+		  <unittitle>View from Igor Stravinsky's Paris apartment window, 
+		    <unitdate type="inclusive">1938?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "View from Stravinsky's apartment"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg072</container> 
+		  <unittitle>View of road beneath trees in Gargenville (location of
+		    Nadia Boulanger's summer home), 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Allee d'Hannecourt - exposed too long, but I
+			 send it anyway. The house Boulanger lent to me in the country."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Gargenville (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg073</container> 
+		  <unittitle>Livingston Gearhart with unidentified woman standing at
+		    a well at the maison dite de l'enfer, Chatillon-Coligny, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "At the well with Valentine. Summer of 1939 at
+			 'L'Enfer', Chatillon-Coligny</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Châtillon-Coligny (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg074</container> 
+		  <unittitle>Exterior of the maison dite de l'enfer,
+		    Chatillon-Coligny, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "L'Enfer - view from the rue de Paradis. Summer
+			 of 1939, Chatillon-Coligny"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Châtillon-Coligny (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg075</container> 
+		  <unittitle>Livingston Gearhart sitting as framed by doorway of the
+		    maison dite de l'enfer, Chatillon-Coligny, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Front door - peaked house in background is
+			 Paradis. During the wars of religion L'Enfer was a Protestant stronghold;
+			 Paradise the Catholic hangout. Chatillon-Coligny, 1939"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Châtillon-Coligny (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg076</container> 
+		  <unittitle>Livingston Gearhart looking out window possibly in
+		    Chatillon-Coligny, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Looking out over the town from my room. Tower
+			 on horizon all that remains of a 12th century chateau."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Châtillon-Coligny (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg077</container> 
+		  <unittitle>Aerial view of Salzburg, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "As I wrote you a postcard I was right here.
+			 Probably Salzburg, 1937"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg078</container> 
+		  <unittitle>Livingston Gearhart standing by a fountain in Salzburg, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Fountain et moi (1937)"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg079</container> 
+		  <unittitle>Marketplatz in Salzburg, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Marketplatz, Salzburg"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg080</container> 
+		  <unittitle>St. George's Chapel steeple in the Festung Hohensalzburg
+		    in Salzburg, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "View from the prince's apartments in the Burg,
+			 Salzburg"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg081</container> 
+		  <unittitle>View of trees, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "View of something or other Austrian"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg082</container> 
+		  <unittitle>View of a valley, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Look hard and you might find an Alp in this
+			 one (from the Schloss, Salzburg)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg083</container> 
+		  <unittitle>View of Festung Hohensalzburg from a distance, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "From another angle. The Burg on Schloss
+			 Salzburg"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg084</container> 
+		  <unittitle>View of Festung Hohensalzburg from below, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "The thin spire in the leftern portion of the
+			 castle is the little church I took from the window. Salzburg"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg085</container> 
+		  <unittitle>View of the Salzach River in Salzburg, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Der Fluss dei Salzburg"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg086</container> 
+		  <unittitle>Livingston Gearhart standing at base of a tower, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Believe me, I was not blasé about all
+			 this"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg087</container> 
+		  <unittitle>Livingston Gearhart looking at advertisement on kiosk in
+		    Salzburg, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Who do you suppose this guy Toscanini is, with
+			 his name plastered all over Salzburg"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg088</container> 
+		  <unittitle>Livingston Gearhart and Charles Stoppani reclining in
+		    chairs in garden, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Charles Stoppani and I in garden path beside
+			 the house - Your little Levy has quite Hebraic physiognomy in this one. Wohlen,
+			 Suisse, 1938"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Wohlen (Aargau, Switzerland)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg089</container> 
+		  <unittitle>Livingston Gearhart standing by railing with Lake
+		    Lucerne in the background, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Luzern"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Lucerne (Switzerland)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg090</container> 
+		  <unittitle>View of a mountain valley, 
+		    <unitdate type="inclusive">1938?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg091</container> 
+		  <unittitle>Livingston Gearhart sitting outdoors, 
+		    <unitdate type="inclusive">1938?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "I'll be coming round the mountain" - are these
+			 two of the Switzerland repeats? Prob. Lake Lucerne"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Lucerne (Switzerland)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg092</container> 
+		  <unittitle>Bürgenstock Chapel in Switzerland, 
+		    <unitdate type="inclusive">1938?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Chapel high up on the Burgenstock
+			 (Suisse)"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bürgenstock (Switzerland)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg093</container> 
+		  <unittitle>Haystacks, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Haystacks, French style"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg094</container> 
+		  <unittitle>Remains of the tower of a chateau in Bormes, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "All that remains of 11th century chateau here.
+			 We visited dungeons, etc. 8 kilometers of tunnel lead to another town, 11 tons
+			 of gold are still hidden in it. Somewhere. Bormes, So. France '39"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bormes-les-Mimosas (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg095</container> 
+		  <unittitle>Remains of the Bormes chateau, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Remains of the Bormes chateau - didn't come
+			 out too well. Mediterranean shore 1939"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bormes-les-Mimosas (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg096</container> 
+		  <unittitle>Person standing at base of the tower of the chateau in
+		    Bormes, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Patty against a 14th century tower (Chateau de
+			 Bormes) now privately owned by a Parisien who lives in it all summer. He showed
+			 us around, gave a most erudite lecture, ex tempore, on architecture,
+			 etymological explanation of Borme, etc."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bormes-les-Mimosas (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg097</container> 
+		  <unittitle>View from Bormes towards Mediterranean Sea, 
+		    <unitdate type="inclusive">1937 or 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "This was over-exposed. Doubt if you can see
+			 that, taken from Bormes, it shows the shore, way down there (mile and a half).
+			 Xmas of 1937 or 8."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Bormes-les-Mimosas (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg098</container> 
+		  <unittitle>View of the Mediterranean Sea(?) from a distance, 
+		    <unitdate type="inclusive">1937 or 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "This is the sight to be seen from window in
+			 other picture. The two islands in the distance are where we went fishing."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg099</container> 
+		  <unittitle>Livingston Gearhart sitting on wall of terrace
+		    overlooking Mediterranean Sea, 
+		    <unitdate type="inclusive">1937 or 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "On the terrace of our pension. A few feet on
+			 the other side lies the Mediterranean of the Cote d'Azur. Note palm tree. Too
+			 bad you can't see my sandals, as they are very arty. Xmas time 1937 or 8.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg100</container> 
+		  <unittitle>Postcard with view of Le Lavandou and its shoreline, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Postcard to Lillian Gearhart.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Le Lavandou (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg101</container> 
+		  <unittitle>Livingston Gearhart playing a flute with Mediterranean
+		    Sea in background, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: Livingston, flute, against blurred background
+			 of the Riviera. Near Le Lavandou 1938"</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Le Lavandou (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg102</container> 
+		  <unittitle>Postcard with view of the interior of the Gare
+		    Saint-Lazare, Salle des Pas-Perdux, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Unaddressed postcard with mention of singer Alice Mary
+			 Anderson advertisements.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg103</container> 
+		  <unittitle>Postcard with view of the Wagenbachbrunnen in Lucerne, 
+		    <unitdate type="inclusive">1938?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Unaddressed postcard presumably to Lillian Gearhart</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Lucerne (Switzerland)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg104</container> 
+		  <unittitle>Postcard with view of Bookstalls along the Seine, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Paris (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg105</container> 
+		  <unittitle>Postcard with view of Fontainebleau, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Yvon, 1886-1969</p> 
+		    <p>Postcard to Lillian Gearhart</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg106</container> 
+		  <unittitle>Sign with slogan from Nazi newspaper, Die Stürmer, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "This sign bears the legend Die Juden sind
+			 unser Ungluck - The Jews are our misfortune - I shall always be sorry I went.
+			 1937 Aug."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg107</container> 
+		  <unittitle>Livingston Gearhart with goatee in profile, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Orinda Calif."</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orinda (Calif.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg108</container> 
+		  <unittitle>Livingston Gearhart standing in front of fence with
+		    trees in background, 
+		    <unitdate type="inclusive">1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Note on verso: "Taken July 1949 … "</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg109</container> 
+		  <unittitle>Portrait of Livingston Gearhart's mother Lillian as a
+		    young girl, 
+		    <unitdate type="inclusive">circa 1902</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Item not in collection; added from another source</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg110</container> 
+		  <unittitle>Livingston Gearhart and his mother Lillian Hawley
+		    Gearhart seated at the piano, 
+		    <unitdate type="inclusive">1933</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Item not in collection; added from another source</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series3">III.</unitid> 
+		<unittitle>Additional receipts (2014), 
+		  <unitdate type="inclusive" normal="1900/1969">circa 1900-circa
+		    1969</unitdate> </unittitle> 
+		<physdesc><extent>Items 111-192</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in rough chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg111</container> 
+		  <unittitle>Portrait of Livingston Gearhart's grandfather, Colonel
+		    George Adelbert Gearhart, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg112</container> 
+		  <unittitle>Livingston Gearhart's father, Lynn Gearhart, in topcoat
+		    and derby standing in the snow, 
+		    <unitdate type="inclusive">circa 1916</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg113</container> 
+		  <unittitle>Livingston Gearhart as an infant being held by his
+		    father Lynn Gearhart on a park bench, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg114</container> 
+		  <unittitle>Livingston Gearhart as an infant being held by his
+		    father Lynn Gearhart on a park bench, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg115</container> 
+		  <unittitle>Livingston Gearhart as an infant being held by his
+		    father Lynn Gearhart on a park bench, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg116</container> 
+		  <unittitle>Livingston Gearhart as an infant being held by his
+		    father Lynn Gearhart outside in a park, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg117</container> 
+		  <unittitle>Livingston Gearhart as an infant being held by his
+		    father Lynn Gearhart outside a house, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg118</container> 
+		  <unittitle>Livingston Gearhart as a toddler sitting inside a baby
+		    carriage, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg119</container> 
+		  <unittitle>Livingston Gearhart as a toddler sitting inside a baby
+		    carriage, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg120</container> 
+		  <unittitle>Livingston Gearhart as a toddler sitting inside a baby
+		    carriage outside in winter, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: 1917, Granger Place</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg121</container> 
+		  <unittitle>Livingston Gearhart as toddler on a sled in winter with
+		    grandfather George Adelbert Gearhart, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg122</container> 
+		  <unittitle>Livingston Gearhart as toddler on a sled in winter with
+		    grandfather George Adelbert Gearhart with the William R. Heath house built by
+		    Frank Lloyd Wright in the background, 
+		    <unitdate type="inclusive">1917</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: LG with grandpa Geo. Adalbert Gearhart - check if
+			 the background is the Frank Lloyd Wright house, Soldier's Place</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg123</container> 
+		  <unittitle>Livingston Gearhart as toddler held by his mother
+		    Lillian Hawley Gearhart, 
+		    <unitdate type="inclusive">1920?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: Granger Pl. Buffalo - Madonna and child.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg124</container> 
+		  <unittitle>Livingston Gearhart as toddler sitting inside a
+		    stroller, 
+		    <unitdate type="inclusive">1920?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: L.G. prob. Granger Place.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg125</container> 
+		  <unittitle>Livingston Gearhart as toddler drinking water and
+		    standing next to a water pump, 
+		    <unitdate type="inclusive">1920?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: East Aurora ca. summer 1920.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: East Aurora (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg126</container> 
+		  <unittitle>Livingston Gearhart as toddler holding a ball, 
+		    <unitdate type="inclusive">1920?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: East Aurora ca. 1920 (The "Roycroft")</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: East Aurora (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg127</container> 
+		  <unittitle>Livingston Gearhart as toddler sitting in front of
+		    fountain, 
+		    <unitdate type="inclusive">1920?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: Delaware Park, or Gates Circle, or something like
+			 that in Bflo.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg128</container> 
+		  <unittitle>Livingston Gearhart as toddler sitting on driveway with
+		    his father Lynn Gearhart, 
+		    <unitdate type="inclusive">1921?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: Lynn and son cracking nuts, Granger Place</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg129</container> 
+		  <unittitle>Livingston Gearhart as toddler on driveway with his
+		    father Lynn Gearhart, 
+		    <unitdate type="inclusive">1921?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg130</container> 
+		  <unittitle>Livingston Gearhart's father, Lynn Gearhart standing on
+		    a staircase outside, 
+		    <unitdate type="inclusive">circa 1920</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: Lynn Gearhart pre-1920</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg131</container> 
+		  <unittitle>Livingston Gearhart with unidentified woman standing in
+		    front of a house, 
+		    <unitdate type="inclusive">circa 1922</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: LG with (I think) a person we called "Nana".</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg132</container> 
+		  <unittitle>Livingston Gearhart's father, Lynn Gearhart sitting on
+		    stairs outside a house, 
+		    <unitdate type="inclusive">circa 1922</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: probably Lynn</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg133</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart as toddler seated
+		    on a bench, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beamer, Frank H.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg134</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart as toddler
+		    standing, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beamer, Frank H.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg135</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart as toddler
+		    standing, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beamer, Frank H.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg136</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart as toddler seated
+		    on a bench while holding a toy dog, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beamer, Frank H.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg137</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart as toddler seated
+		    on a chair, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Beamer, Frank H.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg138</container> 
+		  <unittitle>Livingston Gearhart as toddler seated outside with his
+		    father Lynn Gearhart, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg139</container> 
+		  <unittitle>Livingston Gearhart's father, Lynn Gearhart, standing
+		    behind a row boat, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg140</container> 
+		  <unittitle>Livingston Gearhart standing outside with a toy horse, 
+		    <unitdate type="inclusive">circa 1921</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: I'd guess Old Lyme, Connecticut</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg141</container> 
+		  <unittitle>Livingston Gearhart as child sitting outside with
+		    unidentified person, 
+		    <unitdate type="inclusive">circa 1923</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg142</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart's father, Lynn
+		    Gearhart, 
+		    <unitdate type="inclusive">circa 1923</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: McGeorge, Robert R.</p> 
+		    <p>On verso: Lynn Gearhart ca. 1918</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg143</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart in naval outfit, 
+		    <unitdate type="inclusive">circa 1923</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: McGeorge, Robert R.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg144</container> 
+		  <unittitle>Livingston Gearhart (bottom row, far right) with members
+		    of the choir and staff of the Choir School at the Cathedral of St. John the
+		    Divine in New York city, 
+		    <unitdate type="inclusive">circa 1927</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Pach Photograph Co.</p> 
+		    <p>Third row from the bottom: 3rd from left: Preceptress of the
+			 Lower School, Evelyn Selwyn Thornton; 4th from left: Deaconess and Housemother
+			 Eliza B. Mills; 5th from left: Rev. W. D. F. Hughes, Headmaster of the
+			 Cathedral Choir School effective September 1 1927, 6th from left: Dean of the
+			 Cathedral, the Very Rev. Howard Chandler Robbins; 7th from left: Miles Farrow,
+			 Cathedral Organist and Master of Choristers; 8th from left: Resident Nurse Mrs.
+			 Marian G. White</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: New York (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg145</container> 
+		  <unittitle>Livingston Gearhart as young boy with a woman identified
+		    as Marion, 
+		    <unitdate type="inclusive">circa 1929</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg146</container> 
+		  <unittitle>Livingston Gearhart with his mother Lillian Hawley
+		    Gearhart seated at the piano, 
+		    <unitdate type="inclusive">circa 1932</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Fox, Charles James, photographer</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg147</container> 
+		  <unittitle>Livingston Gearhart with his mother Lillian Hawley
+		    Gearhart and his sister Martha seated at the piano, 
+		    <unitdate type="inclusive">circa 1932</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Fox, Charles James, photographer</p> 
+		    <p>On verso: Lillian, Martha, Livingston, 1932?</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orange (N.J.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg148</container> 
+		  <unittitle>Gathering of people on the lawn outside a house, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: where and when Sasha performed Bach unaccompanied
+			 sonatas in my youth</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg149</container> 
+		  <unittitle>Livingston Gearhart (bottom left) with Nadia Boulanger
+		    and members of her class of 1938 at the Conservatoire américain de
+		    Fontainebleau, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Others include: Nadia Boulanger seated at the piano; Virginia
+			 Morley (standing to right of piano in front of man with handkerchief in
+			 pocket); Louise Talma, seated 2nd row, left; Ethel Thurston, standing, 2nd from
+			 right; Herve Armington, seated on floor bottom right</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Fontainebleau (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg150</container> 
+		  <unittitle>View of Lucerne with Lake Lucerne and the Swiss Alps in
+		    the background, 
+		    <unitdate type="inclusive">circa 1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Verlag Globetrotter</p> 
+		    <p>On verso: Enclosing this little memento of Luzern …</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Lucerne (Switzerland)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg151</container> 
+		  <unittitle>Livingston Gearhart, Virginia Morley (Clotfelter), with
+		    an unidentified male and female pretending to guzzle from bottles, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg152</container> 
+		  <unittitle>Virginia Morley (Clotfelter) standing in front of
+		    Mozarts Geburtshaus, 
+		    <unitdate type="inclusive">1937</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Salzburg (Austria)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg153</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley (Clotfelter)
+		    seated at pianos, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg154</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley (Clotfelter)
+		    seated at pianos, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg155</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley (Clotfelter)
+		    sitting outside on stairs of a building in Le Lavandou, 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Le Lavandou (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg156</container> 
+		  <unittitle>Virginia Morley (Clotfelter) standing by a gate to a
+		    building, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg157</container> 
+		  <unittitle>Virginia Morley (Clotfelter) practicing at the piano in
+		    the salon at L'Enfer, 
+		    <unitdate type="inclusive">1939</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Châtillon-Coligny (France)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg158</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley (Clotfelter)
+		    standing in front of a building, 
+		    <unitdate type="inclusive">circa 1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Inscription in margin: A thrilling conclusion to our week.</p>
+		    
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg159</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley sitting outside
+		    on a bench with an unidentified female, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg160</container> 
+		  <unittitle>Studio portrait of Livingston Gearhart, 
+		    <unitdate type="inclusive">circa 1940</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Durfey-Chalon, Frank</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg161</container> 
+		  <unittitle>Four hands of Livingston Gearhart and Virginia Morley, 
+		    <unitdate type="inclusive">circa 1940</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Durfey-Chalon, Frank</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg162</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley outside with a
+		    pool in the background, 
+		    <unitdate type="inclusive">circa 1942</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Percival, Willa, 1916-2009</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg163</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley outside with a
+		    pool in the background, 
+		    <unitdate type="inclusive">circa 1942</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Percival, Willa, 1916-2009</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg164</container> 
+		  <unittitle>Livingston Gearhart standing on a ladder on a porch
+		    checking a light fixture, 
+		    <unitdate type="inclusive">circa 1942</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Percival, Willa, 1916-2009</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg165</container> 
+		  <unittitle>Livingston Gearhart sitting with tree in background, 
+		    <unitdate type="inclusive">circa 1942</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>On verso: L. Gearhart, Orcas - West Beach, ca. 1941-2.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orcas Island (Wash.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg166</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley standing
+		    outside, 
+		    <unitdate type="inclusive">circa 1943</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg167</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley standing outside
+		    with a house in the background, 
+		    <unitdate type="inclusive">circa 1943</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg168</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley standing
+		    outside, 
+		    <unitdate type="inclusive">circa 1943</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg169</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley standing outside with 
+		  Ernie and Marjorie Farmer of Shawnee Music, and four other people, 
+		    <unitdate type="inclusive">circa 1943</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>The man on left with glasses may be named F. Dunkl.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg170</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley standing outside
+		    a building, 
+		    <unitdate type="inclusive">circa 1943</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg171</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley with the truck
+		    used to carry their pianos on tours, with driver Raymond Lee, 
+		    <unitdate type="inclusive">circa 1943</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg172</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley studying a score
+		    on a piano, 
+		    <unitdate type="inclusive">circa 1944</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Abresch, J. (James)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg173</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley performing at
+		    one piano, 
+		    <unitdate type="inclusive">circa 1944</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Abresch, J. (James)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg174</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley in concert
+		    dress, 
+		    <unitdate type="inclusive">circa 1944</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Abresch, J. (James)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg175</container> 
+		  <unittitle>Livingston Gearhart working on an arrangement while at
+		    the piano, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg176</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley on a bicycle, 
+		    <unitdate type="inclusive">1946</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Shawnee on Delaware (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg177</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley playing
+		    badminton, 
+		    <unitdate type="inclusive">circa 1946</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Shawnee on Delaware (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg178</container> 
+		  <unittitle>Pencil drawing of Livingston Gearhart dressed as "Sir
+		    Lord Livingston", 
+		    <unitdate type="inclusive">1948</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Logan, Tom, artist</p> 
+		    <p>Stamp on verso: Peter A. Juley and Son, photographers of Fine
+			 Arts since 1896.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg179</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley at an upright
+		    piano with a man who is possibly Ed McGinley, author of the volume on the
+		    piano, 
+		    <unitdate type="inclusive">circa 1949</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Shawnee on Delaware (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg180</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley seated at pianos
+		    on the set of the Fred Waring television show, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: New York (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg181</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley performing at
+		    pianos on the set of the Fred Waring television show, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Accompanied by large-format negative.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: New York (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg182</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley seated at pianos
+		    probably on the set of the Fred Waring television show, 
+		    <unitdate type="inclusive">circa 1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: New York (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg183</container> 
+		  <unittitle>Livingston Gearhart and Virginia Morley performing at
+		    two pianos in accompaniment to a female singer, probably on the set of the Fred
+		    Waring television show, 
+		    <unitdate type="inclusive">circa 1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: New York (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg184</container> 
+		  <unittitle>Livingston Gearhart standing outside with Fred Waring, 
+		    <unitdate type="inclusive">circa 1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Shawnee on Delaware (Pa.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg185</container> 
+		  <unittitle>Livingston Gearhart seated at piano with some of his
+		    arrangements displayed, 
+		    <unitdate type="inclusive">circa 1955</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Luedeke Studio (Buffalo, N.Y.)</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg186</container> 
+		  <unittitle>Livingston Gearhart gesturing towards a music score with
+		    five student brass players, 
+		    <unitdate type="inclusive">circa 1958</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg187</container> 
+		  <unittitle>Livingston Gearhart playing a celesta made by F. Sand
+		    &amp; Co., 
+		    <unitdate type="inclusive">circa 1958</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Marschall, Frederic, photographer</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg188</container> 
+		  <unittitle>Livingston Gearhart playing a keyboard made by Arnold
+		    Dolmetsch, 
+		    <unitdate type="inclusive">circa 1958</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Marschall, Frederic, photographer</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg189</container> 
+		  <unittitle>Livingston Gearhart sitting at a keyboard made by Arnold
+		    Dolmetsch, 
+		    <unitdate type="inclusive">circa 1958</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Marschall, Frederic, photographer</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg190</container> 
+		  <unittitle>Livingston Gearhart laying without shirt outdoors, 
+		    <unitdate type="inclusive">circa 1942</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Percival, Willa, 1916-2009</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Unknown location</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg191</container> 
+		  <unittitle>Livingston Gearhart in profile with goatee, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Orinda (Calif.)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">lg192</container> 
+		  <unittitle>Livingston Gearhart standing at a rehearsal of the
+		    University at Buffalo String Workshop, 
+		    <unitdate type="inclusive">circa 1969</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>City: Buffalo (N.Y.)</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh"
+	   encodinganalog="650">Composers--Photographs</subject> 
+	   <subject source="lcsh"
+	   encodinganalog="650">Musicians--Photographs</subject> 
+	   <persname source="lcnaf" role="subject" encodinganalog="600">Gearhart,
+		Livingston--Photographs</persname> 
+	   <persname source="lcnaf" role="subject" encodinganalog="600">Waring,
+		Virginia--Photographs</persname> 
+	   <persname source="lcnaf" role="subject" encodinganalog="600">Waring,
+		Fred, 1900-1984--Photographs</persname> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Boulanger,
+		Nadia--Photographs</persname> 
+	   <persname source="lcnaf" role="subject" encodinganalog="600">Milhaud,
+		Darius, 1892-1974--Photographs</persname> 
+	   <persname source="lcnaf" role="subject" encodinganalog="600">Brahms,
+		Johannes, 1833-1897--Photographs</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="gmgpc">Photographs</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <bibliography encodinganalog="581"> 
+	   <head>Bibliography</head> 
+	   <p>For information about Nadia Boulanger's classes, refer to:</p> 
+	   <bibref>Rosenstiel, Léonie. 
+		<title type="book"><emph render="italic">Nadia Boulanger: A Life in
+		  Music</emph></title>, W. W. Norton, 1982 </bibref> 
+	   <p>For an English translation of the events regarding the weekend spent
+		by Brahms in Krefeld, refer to:</p> 
+	   <bibref>Heinz von Beckerath's memoir in 
+		<title type="book"><emph render="italic">Brahms and his
+		  world,</emph></title> Rev. ed., Princeton University Press, 2009</bibref> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_1.xml"
+			 show="new" actuate="onrequest" role="text/html"> Livingston Gearhart Papers,
+			   1933-1997, </archref>Mus. Arc. 23.1 </label> 
+		    <item>Finding aid for collection of prose writings,
+			 correspondence, programs, and clippings.</item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_2.xml"
+			 show="new" actuate="onrequest" role="text/html"> Livingston Gearhart Collection
+			   of Scores, 1930-1996 </archref> Mus. Arc. 23.2 </label> 
+		    <item>Collection of manuscript and published scores composed or
+			 arranged by Livingston Gearhart. Also includes published scores of other
+			 composers as annotated by Gearhart. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_4.xml"
+			 show="new" actuate="onrequest" role="text/html"> Livingston Gearhart
+			   Recordings, 1949-2001 </archref> Mus. Arc. 23.4 </label> 
+		    <item>Collection of 24 recordings, including compositions and
+			 arrangements by Livingston Gearhart, his memorial service, and the recordings
+			 of duo-pianists, Morley and Gearhart. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0033_1.xml"
+			 show="new" actuate="onrequest" role="text/html"> Pamela Gearhart Collection of
+			   Photographs, circa 1955-1983 </archref> Mus. Arc. 33.2 </label> 
+		    <item>Collection of 207 photographs including images of Pamela
+			 Gearhart and casual snapshots of other musicians, including her husband
+			 Livingston Gearhart, Budapest String Quartet members Alexander and Mischa
+			 Schneider, and conductor Skitch Henderson. Also available as a digital
+			 collection in 
+			 <archref
+			 href="http://digital.lib.buffalo.edu/collection/LIB-MUS022/"
+			 show="new" actuate="onrequest" role="text/html">University Libraries Digital
+			   Collections</archref>.</item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

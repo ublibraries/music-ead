@@ -1,0 +1,1964 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 33::Pamela Gearhart Papers)//EN">ubmu0033</eadid> 
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Pamela Gearhart
+		Papers, 
+		<date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1956/1993">1956-1993</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Gearhart (Pamela)
+		Papers </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by Gabrielle
+		A. Carlo.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2012</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by Gabrielle A. Carlo June 2012.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Pamela Gearhart Papers, 
+	   <unitdate encodinganalog="245$f" normal="1956/1993" type="inclusive" datechar="creation">1956-1993</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 33</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf"> Gearhart,
+		Pamela </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">7
+	   boxes</extent> <extent unit="folder" encodinganalog="300$a">(421
+	   folders)</extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">
+	   Collection material in <language encodinganalog="041" langcode="eng">English.</language> </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo.<subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The Pamela Gearhart
+	   Papers contain a biographical summary, curriculum vitae, correspondence,
+	   newspaper clippings, and programs. </abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Pamela Gearhart Papers, 1956-1993, Music Library,
+		The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions.</p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Pamela Gearhart 2007; additions received in 2015 as a gift
+		from the estate of Pamela Gearhart.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by Gabrielle A. Carlo 2012; additions processed by John
+		Bewley 2017 and 2018.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Pamela Gearhart (née Gerhart) was born July 21, 1934 in Altoona,
+	   Pennsylvania. She began her musical training with her father, violinist and
+	   conductor, Russell Gerhart. Russell Gerhart studied violin with Ralph Lewando,
+	   Carl Malcherek, Elias Breeskin, and Mischa Mischakoff. He studied conducting
+	   with Serge Koussevitsky at the Berkshire Music Center. Gerhart and his wife
+	   Martha formed the Gerhart String Ensemble in Altoona, Pennsylvania, which grew
+	   into the Altoona Symphony Orchestra. He also served as conductor of the Saint
+	   Louis Philharmonic and Huntsville (Alabama) Civic Symphony. </p> 
+	 <p>When Pamela Gearhart was fifteen she began five years of study at the
+	   Curtis Institute of Music in Philadelphia. Her violin teachers before and after
+	   her years at Curtis were Mischa Mischakoff, Joseph Knitzer, Ivan Galamian and
+	   Efrem Zimbalist. While at Curtis she performed in the Curtis Orchestra under
+	   conductors Alexander Hilsberg and William Smith, and studied chamber music
+	   performance with Karen Tuttle and Marcel Tabuteau. </p> 
+	 <p>Gearhart was appointed faculty member in the University of Buffalo
+	   Music Department in 1957. Initially she was hired as a part-time instructor in
+	   violin but eventually assumed other duties, including conducting the
+	   university's orchestra and directing the program in chamber music performance.
+	   She continued to work at the University at Buffalo until 1975. Pamela Gearhart
+	   married fellow University at Buffalo music faculty member Livingston Gearhart
+	   in 1955. They were frequent collaborators on programs and projects. Livingston
+	   wrote many musical arrangements geared specifically to the pedagogical needs of
+	   Pamela's ensembles. Many of these arrangements and compositions survive in the
+	   Livingston Gearhart Score Collection. </p> 
+	 <p>While in Buffalo Gearhart also served as conductor of the Community
+	   Music School of Buffalo's youth orchestra 1959-1977. The membership in the
+	   orchestra grew from ten to more than one hundred while she was conductor. Her
+	   credentials as a music educator also include work on the faculty at Villa Maria
+	   Institute of Music (Buffalo) 1963-1965, serving for six years as Alexander
+	   Schneider's assistant for the University at Buffalo's String Institute,
+	   numerous positions as guest conductor and judge at music festivals, and
+	   director of the Youth Makes Music String Workshop (Huntsville, Alabama). After
+	   leaving the University at Buffalo she joined the faculty at Ithaca College
+	   where she taught 1975-1993. In 1980 she founded the Ithaca Youth Orchestra. She
+	   continued as its conductor until her retirement from Ithaca College. Pamela
+	   Gearhart died July 6, 2014 in Rochester, New York.</p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The Pamela Gearhart Papers contain brief biographical data, including
+	   a biographical summary from 1967, and curriculum vitae from 1971. Also included
+	   are clippings, programs, and correspondence. Clippings and programs extend from
+	   1956-1982 and reflect Gearhart's work with the Community Music School of
+	   Buffalo, the University at Buffalo Orchestra, the Villa Maria Music Institute,
+	   her performances as a member of the Buffalo Fine Arts Quartet, and various
+	   other performances. One folder contains programs and clippings chiefly about
+	   Livingston Gearhart. Two folders contain documents pertaining to the Youth
+	   Makes Music String Workshop that was held in Alabama 1972-1981, a string camp
+	   established in memory of Russell Gerhart. </p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged in four series: </p> 
+	 <list> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series1">I.
+		  Biographical documents </ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series2">II.
+		  Correspondence </ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series3">III.
+		  Newspaper clippings and programs</ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series4">IV. Youth
+		  Makes Music String Workshop documents</ref></item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series5">V. Additions
+		  received after the original processing was completed</ref></item> 
+<item> 
+		<ref actuate="onrequest" show="replace" target="series6">VI. Additional correspondence</ref></item> 		  
+	 </list> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I </unitid> 
+		<unittitle>Biographical documents, 
+		  <unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 1-4 </extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">001</container> 
+		  <unittitle>Biographical summary, 
+		    <unitdate>1967</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">002</container> 
+		  <unittitle>Curriculum vitae, 
+		    <unitdate>1971</unitdate></unittitle> 
+		  <physdesc><extent>7 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">003</container> 
+		  <unittitle>Professional profile, 
+		    <unitdate>1971</unitdate></unittitle> 
+		  <physdesc><extent>2 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">004</container> 
+		  <unittitle>Profile of University and Community Music School of
+		    Buffalo orchestras written by Pamela Gearhart, 
+		    <unitdate>1972</unitdate></unittitle> 
+		  <physdesc><extent>5 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II</unitid> 
+		<unittitle>Correspondence, 
+		  <unitdate type="inclusive" normal="1962/1993">1962-1993 </unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 5-40 </extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged alphabetically by author's name with a file of Christmas
+		  cards at the end.</p> 
+	   </arrangement> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">005</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Albrecht, Milton C., 1904-</persname>: 
+		    <unitdate>January 16 1967</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">006</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Baird, Jane</persname>: 
+		    <unitdate>May 16 1993</unitdate></unittitle> 
+		  <physdesc><extent>5 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">007</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Bellissimo, Ruth W.</persname> on behalf
+		    of the 
+		    <corpname source="lcnaf">Community Music School of
+			 Buffalo</corpname>: 
+		    <unitdate>March 26 1972</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">008</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Blackhurst, James</persname>: 
+		    <unitdate>May 19 1974</unitdate>, 
+		    <unitdate>May 16 1975</unitdate>, and 
+		    <unitdate>July 20 1979</unitdate></unittitle> 
+		  <physdesc><extent>3 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">009</container> 
+		  <unittitle>Buffalonian, SUNY at Buffalo Yearbook, written by Pamela
+		    Vespucci: 
+		    <unitdate>July 5 1972</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">010</container> 
+		  <unittitle> 
+		    <corpname>Carlton House Nursing Home (Buffalo, N.Y.)</corpname>,
+		    written by Lena Lenar Horowitz: 
+		    <unitdate>December 5 1967</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">011</container> 
+		  <unittitle> 
+		    <corpname source="lcnaf">Buffalo Area Council of
+			 Churches</corpname>, written by David F. Cox: 
+		    <unitdate>April 30 1968</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">012</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Deutsch, Harry</persname>, for the 
+		    <corpname source="lcnaf">New York State Council on the
+			 Arts</corpname>: 
+		    <unitdate>December 28 1967</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">013</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Foss, Lukas, 1922-2009</persname>: 
+		    <unitdate>March 22 1967</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">014</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Glickman, Loren</persname>: 
+		    <unitdate>May 6 1993</unitdate></unittitle> 
+		  <physdesc><extent>2 leaves</extent></physdesc> 
+		  <note> 
+		    <p>Correspondence from Livingston and Pamela Gearhart to Glickman
+			 about a program honoring Alexander Schneider.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">015</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Haas, Dorothy M.</persname>: 
+		    <unitdate>April 28 1967</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">016</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Haasler, George</persname>: 
+		    <unitdate>June 26 1970</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">017</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Hay, Bill</persname>: 
+		    <unitdate>March 27 1962</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">018</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Henderson, Skitch, 1918-2005</persname>:
+		    
+		    <unitdate>November 23 1966</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">019</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Herr, Samuel L.</persname>, Director of
+		    the Community Music School of Buffalo: 
+		    <unitdate>March 17 1969</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">020</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Hutchins, Carleen Maley</persname>, for
+		    the 
+		    <corpname source="lcnaf">Catgut Acoustical Society</corpname>: 
+		    <unitdate>June 13 1968</unitdate>, <unitdate>July 7 1994</unitdate></unittitle> 
+		  <physdesc><extent>2 items</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">021</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Kroyt, Sonja</persname>: 
+		    <unitdate>undated</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">022</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Levick, Irving</persname>: 
+		    <unitdate>January 16 1967</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">023</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Levine, George R.</persname>: 
+		    <unitdate>May 10 1976</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">024</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Nagaard, Richard</persname> on behalf of
+		    the 
+		    <title>National School Orchestra Association Bulletin</title>: 
+		    <unitdate>November 18 1972</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">025</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Negris, Van C.</persname>: 
+		    <unitdate>February 21 1964</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		  <note> 
+		    <p>Letter addressed to Livingston Gearhart.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">026</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Newell, Frederick</persname>, on behalf
+		    of the Unitarian Universalist Church of Amherst (New York). Music Committee: 
+		    <unitdate>February 2 1968</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">027</container> 
+		  <unittitle> 
+		    <corpname source="lcnaf">Niagara County Community
+			 College</corpname>: 
+		    <unitdate>December 20 1967</unitdate></unittitle> 
+		  <physdesc><extent>2 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">028</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Sapp, Allen, 1922-1999</persname>: 
+		    <unitdate>April 6 1965</unitdate></unittitle> 
+		  <physdesc><extent>2 leaves</extent></physdesc> 
+		  <note> 
+		    <p>Letter addressed to University at Buffalo administrator, Myles
+			 Slatin, regarding report by Pamela Gearhart about the University Orchestra and
+			 Community Music School of Buffalo.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">029</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Schneider, Mischa, 1903-1985</persname>:
+		    
+		    <unitdate>July 12 1973</unitdate>, 
+		    <unitdate>February 7 1984</unitdate>, 
+		    <unitdate>May 30 1985</unitdate>, and 
+		    <unitdate>undated</unitdate></unittitle> 
+		  <physdesc><extent>5 leaves</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Four postcards (two addressed to Livingston Gearhart) and one
+		    letter. One postcard contains information about photographs of Johannes Brahms
+		    in Livingston Gearhart's collection of photographs.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">030</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Schneider, Alexander,
+			 1908-1993</persname>: 
+		    <unitdate>November 17 1981, August 1 1987, July 20
+			 1989</unitdate></unittitle> 
+		  <physdesc><extent>3 leaves</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>One letter and postcard addressed to Livingston Gearhart. One
+		    letter addressed to Pamela Gearhart.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">031</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Schulz, Robert F.</persname>: 
+		    <unitdate>May 4 1971</unitdate></unittitle> 
+		  <physdesc><extent>2 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">032</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Schultz, Gertrude</persname>, on behalf
+		    of the Jewish Center of Buffalo: 
+		    <unitdate>March 26 1968</unitdate></unittitle> 
+		  <physdesc><extent>2 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">033</container> 
+		  <unittitle> 
+		    <corpname source="lcnaf">Saint Mary's School for the Deaf
+			 (Buffalo, N.Y.)</corpname>: 
+		    <unitdate>November 15 1971</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+		<note> 
+		  <p>Signed by Sister Nora Letorneau and Sister Virginia Young.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">034</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Sullivan, J. P. (John Patrick)
+			 </persname>: 
+		    <unitdate>July 28 1975</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">035</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Thacker, Gale W.</persname>, of Hodge
+		    Inc. Florists: 
+		    <unitdate>May 28 1968</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">036</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Thomson, William, 1927-</persname>: 
+		    <unitdate>November 4 1975</unitdate>, 
+		    <unitdate>February 17 1976</unitdate>, 
+		    <unitdate>November 9 1976</unitdate></unittitle> 
+		  <physdesc><extent>3 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">037</container> 
+		  <unittitle> 
+		    <persname source="lcnaf">Thompson, Helen M. (Helen Mulford),
+			 1908-</persname> , on behalf of the 
+		    <corpname source="lcnaf">New York Philharmonic</corpname>: 
+		    <unitdate>May 10 1972</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">038</container> 
+		  <unittitle> 
+		    <persname rules="aacr2">Trotter, Herman</persname>: 
+		    <unitdate>July 20 1975</unitdate></unittitle> 
+		  <physdesc><extent>1 leaf</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">039</container> 
+		  <unittitle> 
+		    <corpname rules="aacr2">Unitarian Universalist Church of Amherst
+			 (Amherst, N.Y.)</corpname>: 
+		    <unitdate>December 16 1968</unitdate>, 
+		    <unitdate>January 6 1969</unitdate>, 
+		    <unitdate>November 24 1969</unitdate></unittitle> 
+		  <physdesc><extent>3 leaves</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">040</container> 
+		  <unittitle>Christmas cards 
+		    <unitdate>1966-1973</unitdate></unittitle> 
+		  <physdesc><extent>14 leaves</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Christmas messages sent to University at Buffalo and Community
+		    Music School orchestras from Livingston and Pamela Gearhart.</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series3">III.</unitid> 
+		<unittitle>Clippings and programs, 
+		  <unitdate type="inclusive" normal="1956/1982">1956-1982 </unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 41-349</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged chronologically. </p> 
+	   </arrangement> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">041-044</container> 
+		  <unittitle> 
+		    <unitdate>May 16 1956-December 1956</unitdate></unittitle> 
+		  <physdesc><extent>4 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">045-051</container> 
+		  <unittitle> 
+		    <unitdate>August 5 1957-November 25 1957</unitdate></unittitle> 
+		  <physdesc><extent>7 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">052-057</container> 
+		  <unittitle> 
+		    <unitdate>April 15 1958-November 17 1958</unitdate></unittitle> 
+		  <physdesc><extent>6 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">058-067</container> 
+		  <unittitle> 
+		    <unitdate>March 11 1959-November 1959</unitdate></unittitle> 
+		  <physdesc><extent>10 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">068-076</container> 
+		  <unittitle> 
+		    <unitdate>January 10 1960-December 1960</unitdate></unittitle> 
+		  <physdesc><extent>9 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">077-083</container> 
+		  <unittitle> 
+		    <unitdate>January 15 1961-December 18 1961</unitdate></unittitle>
+		  
+		  <physdesc><extent>7 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">084-094</container> 
+		  <unittitle> 
+		    <unitdate>January 15 1962-October 17 1962</unitdate></unittitle> 
+		  <physdesc><extent>10 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">095-103</container> 
+		  <unittitle> 
+		    <unitdate>January 14 1963-December 1963</unitdate></unittitle> 
+		  <physdesc><extent>9 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">104-114</container> 
+		  <unittitle> 
+		    <unitdate>February 1 1964-October 16 1964</unitdate></unittitle> 
+		  <physdesc><extent>11 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">115-125</container> 
+		  <unittitle> 
+		    <unitdate>January 17 1965-August 21 1965</unitdate></unittitle> 
+		  <physdesc><extent>10 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">126-138</container> 
+		  <unittitle> 
+		    <unitdate>February 1966-December 15 1966</unitdate></unittitle> 
+		  <physdesc><extent>13 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">139-164</container> 
+		  <unittitle> 
+		    <unitdate>January 14 1967-December 27 1967</unitdate></unittitle>
+		  
+		  <physdesc><extent>26 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="folder">165-188</container> 
+		  <unittitle> 
+		    <unitdate>March 2 1968-December 20 1968</unitdate></unittitle> 
+		  <physdesc><extent>24 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">189-210</container> 
+		  <unittitle> 
+		    <unitdate>February 21 1969-December 31
+			 1969</unitdate></unittitle> 
+		  <physdesc><extent>22 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">211-231</container> 
+		  <unittitle> 
+		    <unitdate>February 1970-December 14 1970</unitdate></unittitle> 
+		  <physdesc><extent>21 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">232-246</container> 
+		  <unittitle> 
+		    <unitdate>March 20 1971-December 10 1971</unitdate></unittitle> 
+		  <physdesc><extent>15 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">247-269</container> 
+		  <unittitle> 
+		    <unitdate>February 15 1972-December 15
+			 1972</unitdate></unittitle> 
+		  <physdesc><extent>23 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="folder">270-298</container> 
+		  <unittitle> 
+		    <unitdate>January 27 1973-December 9 1973</unitdate></unittitle> 
+		  <physdesc><extent>29 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">299-321</container> 
+		  <unittitle> 
+		    <unitdate>January 1974-December 13 1974</unitdate></unittitle> 
+		  <physdesc><extent>23 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">322-340</container> 
+		  <unittitle> 
+		    <unitdate>January 26 1975-November 22 1975</unitdate></unittitle>
+		  
+		  <physdesc><extent>19 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">341-347</container> 
+		  <unittitle> 
+		    <unitdate>May 23 1979-November 30 1979</unitdate></unittitle> 
+		  <physdesc><extent>7 folders</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">348</container> 
+		  <unittitle> 
+		    <unitdate>1982</unitdate></unittitle> 
+		  <physdesc><extent>1 folder</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">349</container> 
+		  <unittitle> 
+		    <unitdate>January 16 1956-April 17 1959</unitdate></unittitle> 
+		  <physdesc><extent>1 folder</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Clippings of Livingston Gearhart performances and programs.</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series4">IV.</unitid> 
+		<unittitle>Youth Makes Music String Workshop documents, 
+		  <unitdate type="inclusive" normal="1972/1981"> 1972-1981</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 350-351</extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Includes financial records of Youth Makes Music, Inc., programs,
+		  announcements, clippings, and lists of participants.</p> 
+	   </scopecontent> 
+	   <arrangement> 
+		<p>Arranged chronologically.</p> 
+	   </arrangement> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">350</container> 
+		  <unittitle> 
+		    <unitdate>1972-1975</unitdate></unittitle> 
+		  <physdesc><extent>1 folder</extent></physdesc> 
+		</did> 
+	   </c02> 
+	   <c02 level="file"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="folder">351</container> 
+		  <unittitle> 
+		    <unitdate>1976-1981</unitdate></unittitle> 
+		  <physdesc><extent>1 folder</extent></physdesc> 
+		</did> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series5">V.</unitid> 
+		<unittitle>Additions received after the original processing was
+		  completed, 
+		  <unitdate type="inclusive" normal="1947/2010">1947-2010</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 352-392</extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Includes correspondence, clippings, programs, lecture notes, and
+		  subject files.</p> 
+	   </scopecontent> 
+	   <arrangement> 
+		<p>Arranged into four subseries: 
+		  <list type="simple"> 
+		    <item> 
+			 <ref target="series5a" actuate="onrequest" show="replace">A.
+			   Correspondence</ref> </item> 
+		    <item> 
+			 <ref target="series5b" actuate="onrequest" show="replace">B.
+			   Subject files</ref> </item> 
+		    <item> 
+			 <ref target="series5c" actuate="onrequest" show="replace">C.
+			   Clippings and programs</ref> </item> 
+		    <item> 
+			 <ref target="series5d" actuate="onrequest" show="replace">D.
+			   Lecture and presentation notes</ref> </item>
+<item> 
+			 <ref target="series5e" actuate="onrequest" show="replace">E.
+			   Awards</ref> </item>				
+		  </list> </p> 
+	   </arrangement> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series5a">V.A</unitid> 
+		  <unittitle>Correspondence to and from Pamela Gearhart, 
+		    <unitdate type="inclusive" normal="1952/2010">1952-2010</unitdate> </unittitle> 
+		  <physdesc><extent>Folder 352-377</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Correspondence to Pamela Gearhart unless otherwise
+		    indicated.</p> 
+		</scopecontent> 
+		<arrangement> 
+		  <p>Arranged alphabetically by correspondent surname.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">352</container> 
+		    <unittitle> 
+			 <persname>Barrett, Henry</persname>: 
+			 <unitdate>1975 July 15</unitdate></unittitle> 
+		    <physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">353</container> 
+		    <unittitle> 
+			 <persname>Black, Margaret</persname>: 
+			 <unitdate>2006 April 24</unitdate></unittitle> 
+		    <physdesc><extent>1 item (3 leaves) and 3
+			 photographs</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">354</container> 
+		    <unittitle> 
+			 <persname>Braun, Edith</persname>: 
+			 <unitdate>1954 June 7</unitdate></unittitle> 
+		    <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">355</container> 
+		    <unittitle> 
+			 <persname>Castleman, Heidi</persname>: 
+			 <unitdate>1991 March 1</unitdate></unittitle> 
+		    <physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+		    <note> 
+			 <p> Written by Gearhart to Castleman.</p> 
+		    </note> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Accompanied by Chamber Music America newsletter.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">356</container> 
+		    <unittitle> 
+			 <corpname>Cleveland Institute of Music</corpname>: 
+			 <unitdate>1981 May 11</unitdate></unittitle> 
+		    <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+		    <note> 
+			 <p>Written by Dean Rhoda Payne.</p> 
+		    </note> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">357</container> 
+		    <unittitle> 
+			 <corpname>Cornell University. Department of Music</corpname>: 
+			 <unitdate>1981 November 3</unitdate></unittitle> 
+		    <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+		    <note> 
+			 <p>Written by James Webster.</p> 
+		    </note> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">358</container> 
+		    <unittitle> 
+			 <corpname>Curtis Institute of Music</corpname>: 
+			 <unitdate>2002 March</unitdate></unittitle> 
+		    <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+		    <note> 
+			 <p>Written by Anne O'Donnell.</p> 
+		    </note> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Accompanied by Curtis Institute of Music alumni newsletter and
+			 printouts of Curtis Web pages.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">359</container> 
+		    <unittitle> 
+			 <corpname>Eastman School of Music</corpname>: 
+			 <unitdate>1976-1977</unitdate></unittitle> 
+		    <physdesc><extent>2 items (2 leaves)</extent></physdesc> 
+		    <note> 
+			 <p>Written by Donald Hunsberger.</p> 
+		    </note> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">360</container> 
+		    <unittitle> 
+			 <persname>English, H. R.</persname>: 
+			 <unitdate>1966 March 18, 1966 March 15</unitdate></unittitle> 
+		    <physdesc><extent>2 items (3 leaves)</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Includes letter from Gearhart to English.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">361</container> 
+		    <unittitle> 
+			 <persname>Galamian, Judith</persname>: 
+			 <unitdate>1971-1991</unitdate></unittitle> 
+		    <physdesc><extent>7 items</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Includes one letter from Ivan Galamian.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">362</container> 
+		    <unittitle> 
+			 <persname>Gearhart, Livingston</persname>: 
+			 <unitdate>1959-circa 1993</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		    <note> 
+			 <p>Letters to and from Livingston Gearhart.</p> 
+		    </note> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">363</container> 
+		    <unittitle> 
+			 <corpname>Hartt College of Music</corpname>: 
+			 <unitdate>1990 October 13</unitdate></unittitle> 
+		    <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+		    <note> 
+			 <p>Written by Gearhart to Humbert J. Lucarelli at Hartt College
+			   of Music.</p> 
+		    </note> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">364</container> 
+		    <unittitle> 
+			 <corpname>Ithaca College</corpname>: 
+			 <unitdate>1975-1993</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Includes content written by Pamela Gearhart and by various authors on behalf of Ithaca College. Content includes contracts and appointment papers.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">365</container> 
+		    <unittitle> 
+			 <corpname>Ithaca Youth Bureau (Ithaca, N.Y.)</corpname>: 
+			 <unitdate>1976</unitdate></unittitle> 
+		    <physdesc><extent>2 items (6 leaves)</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">366</container> 
+		    <unittitle> 
+			 <persname>Mischakoff, Mischa</persname>: 
+			 <unitdate>1952</unitdate></unittitle> 
+		    <physdesc><extent>11 pages of music</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Solo violin part of Violin concerto by Julius Konius, with
+			 inscription from violinist Mischa Mischakoff.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">367</container> 
+		    <unittitle> 
+			 <persname>Moennig, William, II, 1905-1982</persname>: 
+			 <unitdate>1966-2010</unitdate></unittitle> 
+		    <physdesc><extent>6 items</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Includes letters written by Wilda Moennig and Pamela Moennig
+			 Taplinger.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">368</container> 
+		    <unittitle> 
+			 <corpname>William Moennig and Son</corpname>: 
+			 <unitdate>1966-1981</unitdate></unittitle> 
+		    <physdesc><extent>11 items</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Appraisals of violins and bows.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">369</container> 
+		    <unittitle> 
+			 <corpname>Oberlin College. Conservatory of Music</corpname>: 
+			 <unitdate>1987-1988</unitdate></unittitle> 
+		    <physdesc><extent>7 items</extent></physdesc> 
+		    <note> 
+			 <p>Some content written by Pamela Gearhart.</p> 
+		    </note> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">370</container> 
+		    <unittitle> 
+			 <persname>Sokoloff, Eleanor</persname>: 
+			 <unitdate>1989-2002</unitdate></unittitle> 
+		    <physdesc><extent>3 items</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">371</container> 
+		    <unittitle> 
+			 <persname>Thomas, Sally</persname>: 
+			 <unitdate>1967 September 16</unitdate></unittitle> 
+		    <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">372</container> 
+		    <unittitle> 
+			 <persname>Tuttle, Karen</persname>: 
+			 <unitdate>1993-2010</unitdate></unittitle> 
+		    <physdesc><extent>3 items</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">373</container> 
+		    <unittitle> 
+			 <corpname>University at Buffalo. Music Department</corpname>: 
+			 <unitdate>1981 February 24</unitdate></unittitle> 
+		    <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+		    <note> 
+			 <p>Written on behalf of the department by Allen Sigel.</p> 
+		    </note> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">374</container> 
+		    <unittitle> 
+			 <persname>Vauclain, Constant</persname>: 
+			 <unitdate>1990 August 14</unitdate></unittitle> 
+		    <physdesc><extent>1 item (1 leaf)</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">375</container> 
+		    <unittitle> 
+			 <persname>Waring, Virginia</persname>: 
+			 <unitdate>1996 July 19</unitdate></unittitle> 
+		    <physdesc><extent>1 item (3 leaves)</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">376</container> 
+		    <unittitle> 
+			 <persname>Wickstrom, Helene</persname>: 
+			 <unitdate>circa 1976</unitdate></unittitle> 
+		    <physdesc><extent>1 item (2 leaves)</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">377</container> 
+		    <unittitle> 
+			 <persname>Zimbalist, Mary Louise Curtis Bok</persname>: 
+			 <unitdate>1952-1955</unitdate></unittitle> 
+		    <physdesc><extent>5 items</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Includes letter from Efrem Zimbalist to Pamela Gearhart's
+			 father, Russell Gerhart.</p> 
+		  </scopecontent> 
+		</c03> 
+	   </c02> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series5b">V.B</unitid> 
+		  <unittitle>Subject files, 
+		    <unitdate type="inclusive" normal="1950/1981">1950-1981</unitdate> </unittitle> 
+		  <physdesc><extent>Folder 378-388</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Subject files and articles compiled by Pamela Gearhart.</p> 
+		</scopecontent> 
+		<arrangement> 
+		  <p>Arranged alphabetically by subject.</p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">378</container> 
+		    <unittitle> 
+			 <corpname>Bay Chamber Concerts</corpname>: 
+			 <unitdate>circa 1981</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>About brothers Andrew and Thomas Wolf, founders of the Bay
+			 Chamber Concerts in Rockport, Maine.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">379</container> 
+		    <unittitle> 
+			 <corpname>Curtis Institute of Music</corpname>: 
+			 <unitdate>1952-1954</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Gearhart's transcriptions of quotations from faculty at Curtis
+			 Institute of Music, including Marcel Tabuteau, Alexander Hilsberg, Anne-Marie
+			 Soffray, Karen Tuttle, Louis Vyner, and Constant Vauclain.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">380</container> 
+		    <unittitle> 
+			 <corpname>Curtis Institute of Music</corpname>: 
+			 <unitdate>1952-1954</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Gearhart's notes from classes in Elements of music taught by
+			 Edith Braun, lists of repertoire covered in orchestra by Alexander Hilsberg and
+			 William Smith and string class by Marcel Tabuteau</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">381</container> 
+		    <unittitle> 
+			 <corpname>Curtis Institute of Music</corpname>: 
+			 <unitdate>1950-1953</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Gearhart's notes from her violin lessons with Ivan Galamian
+			 and Efrem Zimbalist, and a list of repertoire covered in Karen Tuttle's chamber
+			 music classes</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">382</container> 
+		    <unittitle> 
+			 <persname>Galamian, Ivan</persname>: 
+			 <unitdate>1966-1995</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">383</container> 
+		    <unittitle> 
+			 <persname>Galamian, Judith</persname>: 
+			 <unitdate>2005</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">384</container> 
+		    <unittitle> 
+			 <persname>Green, Elizabeth A. H.</persname>: 
+			 <unitdate>1995</unitdate></unittitle> 
+		    <physdesc><extent>3 items</extent></physdesc> 
+		  </did> 
+		  
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">385</container> 
+		    <unittitle> 
+			 <corpname>William Moennig and Son</corpname>: 
+			 <unitdate>1985-2010</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">386</container> 
+		    <unittitle> String pedagogy: 
+			 <unitdate>1995</unitdate>, <unitdate>2001</unitdate></unittitle> 
+		    <physdesc><extent>2 items</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Two articles by Anne Mischakoff Heiles from 
+		    <title>The Instrumentalist</title>: Essential string markings and
+		    Strings: the golden age of string pedagogy.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">387</container> 
+		    <unittitle> String pedagogy: 
+			 <unitdate>undated</unitdate></unittitle> 
+		    <physdesc><extent>1 item (3 leaves)</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Typescript by unidentified author.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">5</container> 
+		    <container type="folder">388</container> 
+		    <unittitle> 
+			 <persname>Tuttle, Karen</persname>: 
+			 <unitdate>1986-2004</unitdate></unittitle> 
+		    <physdesc><extent>2 items and 1 photograph</extent></physdesc> 
+		  </did> 
+		</c03> 
+	   </c02> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series5c">V.C</unitid> 
+		  <unittitle>Clippings and programs, 
+		    <unitdate type="inclusive" normal="1947/1993">1947-1993</unitdate> </unittitle> 
+		  <physdesc><extent>Folder 389</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>One binder with contents as received.</p> 
+		</scopecontent> 
+		<arrangement> 
+		  <p>Contents chiefly arranged chronologically. </p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">389</container> 
+		    <unittitle> 
+			 <unitdate>1947-1993</unitdate></unittitle> 
+		    <physdesc><extent>1 binder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Includes clippings about Pamela Gearhart, Chautauqua
+			 Institute, Russell Gerhart, the Altoona Symphony Orchestra, and Ithaca College.
+			 </p> 
+		  </scopecontent> 
+		</c03> 
+	   </c02> 
+	   <c02 level="subseries"> 
+		<did> 
+		  <unitid id="series5d">V.D</unitid> 
+		  <unittitle>Lecture and presentation notes, 
+		    <unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate> </unittitle> 
+		  <physdesc><extent>Folder 390-395</extent></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Lecture notes</p> 
+		</scopecontent> 
+		<arrangement> 
+		  <p>Arranged as received. </p> 
+		</arrangement> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">390</container> 
+		    <unittitle>Orchestra in action: 
+			 <unitdate>1973</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Notes for presentation with the Buffalo Community Music School
+			 Orchestra.</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">391</container> 
+		    <unittitle>What is a family? : 
+			 <unitdate>1970-1976</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Notes for presentations with the strings of the University at
+			 Buffalo Orchestra (1970) and the Ithaca College String Orchestra (1976).</p> 
+		  </scopecontent> 
+		</c03> 
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">392</container> 
+		    <unittitle>Notes for several speeches and presentations: 
+			 <unitdate>1965-1980</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		</c03> 
+<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">393</container> 
+		    <unittitle>Clinic notes: 
+			 <unitdate>undated</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		</c03> 
+<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">394</container> 
+		    <unittitle>Notes for several lectures: 
+			 <unitdate>undated</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		</c03> 
+<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">395</container> 
+		    <unittitle>Lecture notes for The Explainers: 
+			 <unitdate>1962 October 15</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+<scopecontent>
+<p>Presented by Pamela and Livingston Gearhart at the Buffalo Museum of Science Music in action lecture series.
+</p>
+</scopecontent>		  
+		</c03> 						
+	   </c02>
+<c02 level="subseries"> 
+		<did> 
+		  <unitid id="series5e">V.E</unitid> 
+		  <unittitle>Awards, 
+		    <unitdate type="inclusive" normal="1972-04-14">1972 April 14</unitdate> </unittitle> 
+		  <physdesc><extent>Folder 396</extent></physdesc> 
+		</did> 
+		
+		<c03 level="file"> 
+		  <did> 
+		    <container type="box">6</container> 
+		    <container type="folder">396</container> 
+		    <unittitle>Kiwanis Club of Buffalo award in recognition of outstanding service to youth in the field of music: 
+			 <unitdate>1972 April 14</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		 
+		</c03> 
+</c02>				 
+	 </c01> 
+<c01 level="series"> 
+	   <did> 
+		<unitid id="series6">VI.</unitid> 
+		<unittitle>Additional correspondence,  
+		  <unitdate type="inclusive" normal="1962/2005">1962-2005</unitdate>
+		  </unittitle> 
+		<physdesc><extent>Folder 397-421</extent></physdesc> 
+	   </did> 
+	   
+	   <arrangement> 
+		<p>Arranged alphabetically by correspondent.</p>
+</arrangement>		
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">397</container> 
+		    <unittitle> 
+<corpname source="lcnaf">Amherst Central School District (Amherst, N.Y.)</corpname> : 			 
+			 <unitdate>1997-1999</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Correspondence related to the administration of the Livingston Gearhart Fund established by Pamela Gearhart. 
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">398</container> 
+		    <unittitle> 
+<persname>Braun, Elaine</persname> : 			 
+			 <unitdate>1997 January 17</unitdate></unittitle> 
+		    <physdesc><extent>1 leaf</extent></physdesc> 
+		  </did> 
+	  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">399</container> 
+		    <unittitle> 
+<persname source="lcnaf">Dillon-Krass, Jacquelyn</persname> : 			 
+			 <unitdate>1995 April 28</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Written on behalf of the American String Teachers Association.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">400</container> 
+		    <unittitle> 
+<persname source="lcnaf">Fleck, William </persname> : 			 
+			 <unitdate>1995-1996</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">401</container> 
+		    <unittitle> 
+<persname>Gall, Cornelius</persname> : 			 
+			 <unitdate>1989 April 14</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Includes list of Pamela Gearhart's performances 1975-1988.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">402</container> 
+		    <unittitle> 
+<persname source="lcnaf">Gazda, Doris</persname> : 			 
+			 <unitdate>2001-2002</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+	  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">403</container> 
+		    <unittitle> 
+<persname>Harbison, Sue</persname> : 			 
+			 <unitdate>1988 January 30</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Label on envelope: Mr. and Mrs. G. Burton Harbison.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">404</container> 
+		    <unittitle> 
+<persname>Herfurth, C. Paul (Clarence Paul), 1893-1988</persname> : 			 
+			 <unitdate>1976-1979</unitdate></unittitle> 
+		    <physdesc><extent>6 leaves</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Correspondence to and from Herfurth regarding an arrangement by Livingston Gearhart.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">405</container> 
+		    <unittitle> 
+<persname source="lcnaf">Hosmer, Helen M.</persname> : 			 
+			 <unitdate>1983 December 9</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">406</container> 
+		    <unittitle> 
+<persname source="lcnaf">Jesselson, Robert</persname> : 			 
+			 <unitdate>2000 February 14</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>On letterhead for American String Teachers Association.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">407</container> 
+		    <unittitle> 
+<persname source="lcnaf">Laredo, Jaime</persname> : 			 
+			 <unitdate>2000 August 16</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">408</container> 
+		    <unittitle> 
+<persname source="lcnaf">Lucktenberg, Jerrie Cadek</persname> : 			 
+			 <unitdate>2001 November 13</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  </c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">409</container> 
+		    <unittitle> 
+<corpname source="lcnaf">New England Conservatory of Music</corpname> : 			 
+			 <unitdate>1979-1980</unitdate></unittitle> 
+		    <physdesc><extent>2 items</extent></physdesc> 
+		  </did> 
+		 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">410</container> 
+		    <unittitle> 
+<corpname source="lcnaf">New York State School Music Association</corpname> : 			 
+			 <unitdate>1983 March 21</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Contract to rehearse All-State string orchestra.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">411</container> 
+		    <unittitle> 
+<persname>Scherer Alfee, Martha</persname> : 			 
+			 <unitdate>2003</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">412</container> 
+		    <unittitle> 
+<persname>Scott, Susan</persname> : 			 
+			 <unitdate>2005 April 16</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">413</container> 
+		    <unittitle> 
+<persname source="lcnaf">Shapiro, Eudice</persname> : 			 
+			 <unitdate>2003 March 10</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">414</container> 
+		    <unittitle> 
+<corpname source="lcnaf">Shawnee Press</corpname> : 			 
+			 <unitdate>1977-1983</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Correspondence to and from representatives of Shawnee Press.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">415</container> 
+		    <unittitle> 
+<persname source="lcnaf">Sorel, Claudette, 1932-1999</persname> : 			 
+			 <unitdate>1978 March 17</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Written on behalf of the New York State Federation of Music Clubs.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">416</container> 
+		    <unittitle> 
+<persname source="lcnaf">Storch, Laila</persname> : 			 
+			 <unitdate>2002-2003</unitdate></unittitle> 
+		    <physdesc><extent>2 items</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">417</container> 
+		    <unittitle> 
+<corpname>Syracuse Camerata</corpname> : 			 
+			 <unitdate>1988-1990</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">418</container> 
+		    <unittitle> 
+<persname>University at Buffalo</persname> : 			 
+			 <unitdate>1962-1979</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Correspondence and appointment documents from personnel at the University at Buffalo.
+			 </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">419</container> 
+		    <unittitle> 
+<persname source="lcnaf">Vamos, Almita</persname> : 			 
+			 <unitdate>2002 October 28</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">420</container> 
+		    <unittitle> 
+<corpname>Villa Maria Institute of Music (Buffalo, N.Y.)</corpname> : 			 
+			 <unitdate>1964-1967</unitdate></unittitle> 
+		    <physdesc><extent>1 folder</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+		    <p>Consists of contracts. </p> 
+		  </scopecontent> 
+		</c02> 
+<c02 level="file"> 
+		  <did> 
+		    <container type="box">7</container> 
+		    <container type="folder">421</container> 
+		    <unittitle> 
+<persname source="lcnaf">Zaninelli, Luigi</persname> : 			 
+			 <unitdate>2002 May 21</unitdate></unittitle> 
+		    <physdesc><extent>1 item</extent></physdesc> 
+		  </did> 
+		  </c02>
+		  </c01>			 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Contributors</head> 
+	   <persname source="lcnaf" encodinganalog="700" role="creator">Gearhart,
+		Livingston</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Women conductors
+		(Music)--New York (State)</subject> 
+	   <subject source="lcsh" encodinganalog="650">Women violinists--New York
+		(State)</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Gearhart,
+		Pamela--Archives</persname> 
+	   <persname encodinganalog="600" role="subject" rules="aacr2">Gerhart,
+		Russell, 1902-1972</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+	   
+	   <genreform encodinganalog="655" source="aat">Clippings (information
+		artifacts)</genreform> 
+	   <genreform encodinganalog="655" source="gmgpc">Programs
+		(documents)</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <separatedmaterial encodinganalog="544 0"> 
+	   <head>Separated Material</head> 
+	   <p>Thirty photographs received with the collection were removed to form
+		a separate collection. It was later expanded to include 207 photographs.</p> 
+	 </separatedmaterial> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0033_1.xml " show="new" actuate="onrequest" role="text/html">Pamela Gearhart Photograph
+			   Collection, 1957-1997</archref> Mus. Arc. 33.1 </label> 
+		    <item>The collection contains 207 photographs, including images
+			 of Russell, Gerhart, Franco Autori, Claudette Sorel, Edward Murphy, Mischa
+			 Mischakoff, Livingston Gearhart, Alexander and Mischa Schneider, Skitch
+			 Henderson, and Pamela Gearhart. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_1.xml " show="new" actuate="onrequest" role="text/html">Livingston Gearhart Papers,
+			   1933-1997</archref> Mus. Arc. 23.1 </label> 
+		    <item>The collection contains prose writings, vitae,
+			 correspondence, teaching materials, programs, and clippings. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_4.xml " show="new" actuate="onrequest" role="text/html">Livingston Gearhart Recordings,
+			   1949-2001</archref> Mus. Arc. 23.4 </label> 
+		    <item>The collection contains reel to reel and cassette tapes,
+			 compact discs, and LPs containing music composed or arranged by Livingston
+			 Gearhart. </item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead>
+	<eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924"
+		relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1"
+		dateencoding="iso8601">
+		<eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier"
+			publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 6.4::Leo Smit Slide Collection)//EN"
+			>ubmu0006_4 </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Finding Aid for the Leo Smit Slide Collection,
+						<date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive"
+						normal="1966/1991" certainty="approximate">circa 1966-1991 </date>
+				</titleproper>
+				<titleproper type="filing" altrender="nodisplay"> Smit (Leo) Slide Collection </titleproper>
+				<author encodinganalog="contributor">Finding aid prepared by Jessica Nay.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="publisher">State University of New York at Buffalo. Music
+					Library</publisher>
+				<address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address>
+				<p>© <date type="publication" encodinganalog="date">2011</date>. State University of
+					New York at Buffalo. All rights reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded in EAD by Jessica Nay, October 2011. </creation>
+			<langusage>Finding aid written in <language encodinganalog="language" langcode="eng"
+					>English.</language></langusage>
+			<descrules>Finding aid prepared using DACS ( <title render="italic">Describing Archives:
+					A Content Standard </title>).</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="marc21">
+		<did>
+			<head>Collection Overview</head>
+			<unittitle label="Title" encodinganalog="245$a">Leo Smit Slide Collection, <unitdate
+					encodinganalog="245$f" normal="1966/1991" type="inclusive" datechar="creation"
+					certainty="approximate">circa 1966-1991 </unitdate></unittitle>
+			<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+				label="Collection Number">Mus. Arc. 6.4</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100" role="creator" source="lcnaf">Smit, Leo, 1921-1999
+				</persname>
+			</origination>
+			<physdesc label="Extent">
+				<extent unit="box" encodinganalog="300$a">29 boxes</extent> (<extent unit="slide"
+					encodinganalog="300$a">13,704 35 millimeter slides</extent>) </physdesc>
+			<langmaterial label="Language of Material" encodinganalog="546">No textual materials are
+				included in the collection. </langmaterial>
+			<repository label="Repository" encodinganalog="852">
+				<corpname>State University of New York at Buffalo. <subarea>Music
+					Library.</subarea></corpname>
+			</repository>
+			<abstract label="Abstract" encodinganalog="520$a">The Leo Smit Slide Collection contains
+				approximately 13,705 35 millimeter slides taken by American composer, Leo Smit. The
+				contents include images of notable musicians, images used in his lecture recitals,
+				and images taken during his many journeys in the United States and abroad, including
+				Central and South America, Italy, and various other European countries.</abstract>
+		</did>
+		<descgrp type="admininfo">
+			<head>Administrative Information</head> 
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation</head>
+				<p>[Specified item], Leo Smit Slide Collection, circa 1966-1991, Music Library, The
+					State University of New York at Buffalo.</p>
+			</prefercite>
+			<accessrestrict encodinganalog="506">
+				<head>Terms of Access</head>
+				<p>Materials can be examined by qualified researchers in the Music Library during
+					hours of operation during which Music Librarians are present. In order to insure
+					access, researchers are advised to contact the Music Library in advance of
+					visits. </p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<head>Copyright</head>
+				<p>Copyright for the materials in the collection does not reside with the Music
+					Library. Therefore, patrons wishing to publish any item, or part of an item from
+					this collection for any purpose, are responsible for securing requisite
+					permissions. </p>
+			</userestrict>
+		</descgrp>
+		<descgrp type="admininfo">
+			<head>Administrative Information</head>
+			<acqinfo encodinganalog="541">
+				<head>Acquisition Information</head>
+				<p>Gift of Nils Vigeland, 2011.</p>
+			</acqinfo>
+			<accruals encodinganalog="584">
+				<head>Accruals and Additions</head>
+				<p>No further accruals are expected to this collection.</p>
+			</accruals>
+			<processinfo encodinganalog="583">
+				<head>Processing Information</head>
+				<p>Processed by Jessica Nay.</p>
+			</processinfo>
+		</descgrp>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Leo Smit was born to Russian immigrants on January 12, 1921, in Philadelphia. He
+				received his earliest musical training from his father, Kolman Smit, beginning at
+				age five. Kolman Smit was a professional violinist who performed in the Philadelphia
+				Orchestra (1926-1931) under Leopold Stokowski, the Cincinnati Symphony under Fritz
+				Reiner, and the NBC Symphony under Arturo Toscanini.</p>
+			<p>After private piano studies with Martha Lantner, Joseph Wissof, and Bert Shefter,
+				Smit traveled to Moscow with his mother in 1929 to study piano for three months with
+				Dmitri Kabalevsky on scholarship at the Moscow Conservatory. Upon his return to
+				Philadelphia, Smit received a scholarship in 1930 to study piano at Curtis Institute
+				of Music with noted piano pedagogue Isabelle Vengerova. He continued his studies on
+				scholarship in New York, studying piano with José Iturbi (1933-35) and composition
+				with Nicolas Nabokov (1935). It was under Nabokov's tutelage that Smit produced his
+				first original composition in 1935, Zvay, a song setting of a Yiddish poem by Mani
+				Loeb for soprano and piano. </p>
+			<p>Smit began his professional career as a pianist while still in his teens. His first
+				professional engagement was as rehearsal pianist for George Balanchine's American
+				Ballet Company in 1936-37. A year after beginning in this position, Smit met Igor
+				Stravinsky during rehearsals of the composer's ballet, Jeu de Cartes. Smit gave his
+				debut recital as a solo pianist at Carnegie Hall in February 1939. His successful
+				debut was followed by a concert tour of the United States in 1940. </p>
+			<p>Leo Smit's career as composer, pianist, conductor, and educator spanned seven decades
+				of musical life in the United States. He established close working relationships,
+				and/or friendships, with many of the most prominent musicians of the 20th century,
+				including Igor Stravinsky, Béla Bartók, Aaron Copland, Leonard Bernstein, Harold
+				Shapero, William Schuman, Alex Haieff, Leopold Stokowski, and Lukas Foss. As a
+				performer, Smit was an enthusiastic and persuasive advocate and interpreter of the
+				music of his time, especially the solo piano music of Aaron Copland. His
+				compositional output totals more than one hundred works, including two operas, three
+				symphonies, more than ninety songs, two ballets, and numerous chamber and piano
+				works. </p>
+
+			<p>Smit was also a talented photographer. In addition to the many photographs he took of
+				noted musicians, Smit also used his skill as a photographer to capture images from
+				his travels. Many of his travel pictures reflect his reverence for nature. As part
+				of his innovative approach to programming, Smit would often include displays of his
+				photography in his theme-based concerts. </p>
+			<p>During his career Leo Smit earned several awards and honors, including Fulbright
+				(piano) and Guggenheim (composition) Fellowships in 1950, a fellowship at the
+				American Academy in Rome for 1950-51, the Boston Symphony Merit Award in 1953 for
+				his Symphony No. 1 (premiered October 16, 1953 by the Boston Symphony Orchestra,
+				conducted by Charles Munch), the New York Critics Circle Award in 1957 (also for his
+				Symphony No. 1), his selection as an artist for a State Department concert tour of
+				Latin America in 1967-68, and the Buffalo Evening News Man of the Year award in
+				1969. As an educator, Smit held positions at Sarah Lawrence College (1947-49), UCLA
+				(1957-63), and the State University of New York at Buffalo (1962-84). </p>
+			<p>Leo Smit died December 12, 1999 in Scripps Hospital, Encinitas, California. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Leo Smit Slide Collection contains approximately 13,705 35 millimeter slides
+				taken by American composer, Leo Smit. The contents include: images of notable
+				musicians, including Leonard Bernstein, Aaron Copland, William Schuman, Virgil
+				Thomson, Roger Sessions, Jan Williams, Charles Wuorinen, and Lejaren Hiller; images
+				used in his lecture recitals, including sets of images for his lectures <title
+					render="italic">Liszt in Italy</title> and <title render="italic">Liszt in
+					Rome</title>; and images taken during his many journeys in the United States and
+				abroad, including Central and South America, Italy, and various other European
+				countries. </p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>Contents of this collection have not been analyzed at the item level. The collection
+				was received in containers and trays that had been marked by Leo Smit to identify
+				sets and groups of subject matter. His original order has been preserved at that
+				level but re-organized to form series of similar subject matter based on geographic
+				locations. Additional series were created to accommodate sets that were not suited
+				to a geographic category. There is redundancy and overlap among some series due to
+				the decision to preserve Smit's original groupings. The first series of images of
+				people will be described more fully in the future.</p>
+			<p>The collection is arranged in six series: </p>
+			<list>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series1">I. People</ref>
+				</item>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series2">II. Europe</ref>
+				</item>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series3">III. United
+						States</ref>
+				</item>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series4">IV. Central/South
+						America</ref>
+				</item>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series5">V. Liszt in Italy</ref>
+				</item>
+				<item>
+					<ref actuate="onrequest" show="replace" target="series6">VI. Miscellaneous</ref>
+				</item>
+			</list>
+		</arrangement>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unitid id="series1">I.</unitid>
+
+					<unittitle>People, <unitdate type="inclusive" normal="1966/1999"
+							>undated</unitdate>
+					</unittitle>
+					<physdesc>
+						
+						<extent>300 slides</extent>
+					</physdesc>
+				</did>
+
+
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<unittitle>People, <unitdate type="inclusive" normal="1966/1999"
+								>undated</unitdate>
+						</unittitle>
+					</did>
+					<scopecontent>
+						<list type="simple">
+							<item>
+								<title>Musicians</title>, <date>undated</date> (199 slides)</item>
+							<item>
+								<title>Miscellaneous</title>, <date>undated</date> (40
+								slides)</item>
+							<item>
+								<title>Unidentified</title>, <date>undated</date> (61 slides)</item>
+						</list>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid id="series2">II.</unitid>
+					<unittitle>Europe, <unitdate type="inclusive" normal="1967/1988">1967-1988
+						</unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Box 2-Box 9 </extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Arranged into three subseries: <list type="simple">
+							<item><ref actuate="onrequest" show="replace" target="series2a">
+									Italy</ref></item>
+							<item><ref actuate="onrequest" show="replace" target="series2b"
+									>Italy/Europe</ref></item>
+							<item><ref actuate="onrequest" show="replace" target="series2c"
+									>Europe</ref></item>
+						</list></p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series2a">A.</unitid>
+						<unittitle>Italy, <unitdate type="inclusive"
+							>1971-1988</unitdate></unittitle>
+						<physdesc>
+							<extent>Box 2-Box 4</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">2</container>
+							<unittitle>Italy (1), <unitdate type="inclusive" normal="1971/1988"
+									>1971-1988</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>450 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>St. L’Arch</title>, <date>1988</date> (30 slides)</item>
+								<item>
+									<title>Florence</title>, <date>undated</date> (39 slides)</item>
+								<item>
+									<title>Rome</title>, <date>1971</date> (21 slides)</item>
+								<item>
+									<title>Rome </title>, <date>undated</date> (49 slides)</item>
+								<item>
+									<title>Villa Bourgese</title>, <date>1971</date> (22
+									slides)</item>
+								<item>
+									<title>Gaelerie Bourgese</title>, <date>1988</date> (35
+									slides)</item>
+								<item>
+									<title>Villa d’Este</title>, <date>1985</date> (51
+									slides)</item>
+								<item>
+									<title>Apollo/Daphne</title>, <date>1988</date> (27
+									slides)</item>
+								<item>
+									<title>Roman Forum</title>, <date>1988</date> (33 slides)</item>
+								<item>
+									<title>Palatine Bocca and Verta Bells</title>, <date>1985</date>
+									(29 slides)</item>
+								<item>
+									<title>Miscellaneous</title>, <date>undated</date> (114
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">3</container>
+							<unittitle>Italy (2), <unitdate type="inclusive" normal="1971/1985"
+									>1971-1985</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>346 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>St. Peters</title>, <date>1985</date> (26 slides)</item>
+								<item>
+									<title>St. Peters</title>, <date>undated</date> (27
+									slides)</item>
+								<item>
+									<title>Navona</title>, <date>1985</date> (28 slides)</item>
+								<item>
+									<title>Navona</title>, <date>undated</date> (50 slides)</item>
+								<item>
+									<title>St. Clement</title>, <date>undated</date> (25
+									slides)</item>
+								<item>
+									<title>St. Stefano Rotunda</title>, <date>1985</date> (39
+									slides)</item>
+								<item>
+									<title>Aventive, Sheila, Alexei Haieff, and Florence</title>,
+										<date>1985</date> (41 slides)</item>
+								<item>
+									<title>Cap. Museum</title>, <date>1985</date> (28 slides)</item>
+								<item>
+									<title>Pisa, Como</title>, <date>1971</date> (25 slides)</item>
+								<item>
+									<title>St. John Latera</title>, <date>1985</date> (29
+									slides)</item>
+								<item>
+									<title>P. del Popolo</title>, <date>1985</date> (28
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">4</container>
+							<unittitle>Italy (3), <unitdate type="inclusive" normal="1971/1985"
+									>1971-1985</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>544 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Rome</title>, <date>undated</date> (308 slides)</item>
+								<item>
+									<title>Venice</title>, <date>undated</date> (24 slides)</item>
+								<item>
+									<title>Firenze</title>, <date>1971</date> (21 slides)</item>
+								<item>
+									<title>Pisa</title>, <date>1985</date> (22 slides)</item>
+								<item>
+									<title>Assisi</title>, <date>1971</date> (24 slides)</item>
+								<item>
+									<title>Villa d’Este</title>, <date>1973</date> (35
+									slides)</item>
+								<item>
+									<title>Sienna</title>, <date>1971</date> (20 slides)</item>
+								<item>
+									<title>Umbria</title>, <date>1971</date> (17 slides)</item>
+								<item>
+									<title>Pompeii</title>, <date>1972</date> (73 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series2b">B.</unitid>
+						<unittitle>Italy/Europe, <unitdate type="inclusive"
+							>1971-1987</unitdate></unittitle>
+						<physdesc>
+							<extent>Box 5-Box 7</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">5</container>
+							<unittitle>Italy/Europe (1), <unitdate type="inclusive"
+									normal="1971/1985">1971-1985</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>319 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Trajan MKT</title>, <date>undated</date> (48
+									slides)</item>
+								<item>
+									<title>Clouters</title>, <date>1985</date> (38 slides)</item>
+								<item>
+									<title>Hersu Caneum</title>, <date>1972</date> (40
+									slides)</item>
+								<item>
+									<title>St. Daltas, Porter Grave</title>, <date>undated</date> (9
+									slides)</item>
+								<item>
+									<title>[Unlisted]</title>, <date>1971</date> (24 slides)</item>
+								<item>
+									<title>Pompeii</title>, <date>1972</date> (14 slides)</item>
+								<item>
+									<title>V. Medici, Aventive</title>, <date>1980</date> (21
+									slides)</item>
+								<item>
+									<title>Ephesus, St. John</title>, <date>1973</date> (38
+									slides)</item>
+								<item>
+									<title>Ippicio, Busts (Pinicio)</title>, <date>1980</date> (23
+									slides)</item>
+								<item>
+									<title>Terme Museo</title>, <date>1980</date> (25 slides)</item>
+								<item>
+									<title>Funeral Boats, Cimitero Angels</title>, <date>1985</date>
+									(13 slides)</item>
+								<item>
+									<title>Florence, David</title>, <date>1985</date> (26
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">6</container>
+							<unittitle>Italy/Europe (2), <unitdate type="inclusive"
+									normal="1971/1980">1971-1980</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>463 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Arigento</title>, <date>1973</date> (73 slides)</item>
+								<item>
+									<title>Rome</title>, <date>1971</date> (49 slides)</item>
+								<item>
+									<title>Rome/Pisa</title>, <date>1972</date> (11 slides)</item>
+								<item>
+									<title>Rome</title>, <date>1980</date> (15 slides)</item>
+								<item>
+									<title>Rome</title>, <date>1972</date> (15 slides)</item>
+								<item>
+									<title>Rome</title>, <date>1972</date> (38 slides)</item>
+								<item>
+									<title>Rome</title>, <date>1971</date> (25 slides)</item>
+								<item>
+									<title>Rome/Borromimi</title>, <date>1971</date> (27
+									slides)</item>
+								<item>
+									<title>St. Peters/Villa Medici</title>, <date>1980</date> (21
+									slides)</item>
+								<item>
+									<title>Rome</title>, <date>1971</date> (15 slides)</item>
+								<item>
+									<title>M. Aurelius</title>, <date>1980</date> (35 slides)</item>
+								<item>
+									<title>Taormina</title>, <date>1973</date> (41 slides)</item>
+								<item>
+									<title>Bellagio</title>, <date>1971</date> (40 slides)</item>
+								<item>
+									<title>Villa d’Este</title>, <date>1980</date> (58
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">7</container>
+							<unittitle>Italy/Europe (3), <unitdate type="inclusive"
+									normal="1971/1987">1971-1987</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>309 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>St. Peters</title>, <date>1971</date> (39 slides)</item>
+								<item>
+									<title>St. Peters</title>, <date>1980</date> (24 slides)</item>
+								<item>
+									<title>St. Peters</title>, <date>1985</date> (17 slides)</item>
+								<item>
+									<title>Athens</title>, <date>1973</date> (39 slides)</item>
+								<item>
+									<title>[Unlabeled]</title>, <date>1980</date> (22 slides)</item>
+								<item>
+									<title>Quirinale Horses/ P. Navona Foat</title>,
+										<date>1980</date> (12 slides)</item>
+								<item>
+									<title>Esedva/Navona/Horses</title>, <date>1985</date> (12
+									slides)</item>
+								<item>
+									<title>Venice</title>, <date>1980</date> (31 slides)</item>
+								<item>
+									<title>Venice</title>, <date>1971</date> (18 slides)</item>
+								<item>
+									<title>Venice</title>, <date>1981</date> (15 slides)</item>
+								<item>
+									<title>Expo</title>, <date>1987</date> (80 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series2c">C.</unitid>
+						<unittitle>Europe, <unitdate type="inclusive"
+							>1967-1985</unitdate></unittitle>
+						<physdesc>
+							<extent>Box 8-Box 9</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">8</container>
+							<unittitle>Europe (1), <unitdate type="inclusive" normal="1972/1981"
+									>1972-1981</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>401 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Spain</title>, <date>1973</date> (35 slides)</item>
+								<item>
+									<title>Slovenia</title>, <date>1981</date> (14 slides)</item>
+								<item>
+									<title>Croatia</title>, <date>1973</date> (69 slides)</item>
+								<item>
+									<title>Yugoslavia</title>, <date>1981</date> (53 slides)</item>
+								<item>
+									<title>Greece</title>, <date>1973</date> (93 slides)</item>
+								<item>
+									<title>Turkey</title>, <date>1972-73</date> (137 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">9</container>
+							<unittitle>Europe (2), <unitdate type="inclusive" normal="1967/1985"
+									>1967-1985</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>340 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Belgrade</title>, <date>1980</date> (39 slides)</item>
+								<item>
+									<title>Forum</title>, <date>1980</date> (23 slides)</item>
+								<item>
+									<title>Beta tu…?</title>, <date>1971</date> (30 slides)</item>
+								<item>
+									<title>Venice</title>, <date>undated</date> (59 slides)</item>
+								<item>
+									<title>Stonehenge</title>, <date>1980</date> (40 slides)</item>
+								<item>
+									<title>SS Paul &amp; John, Gregory Cathedrals</title>,
+										<date>1985</date> (30 slides)</item>
+								<item>
+									<title>Venice</title>, <date>undated</date> (19 slides)</item>
+								<item>
+									<title>Tortoise Fount.</title>, <date>1980</date> (18
+									slides)</item>
+								<item>
+									<title>Venezia</title>, <date>1985</date> (17 slides)</item>
+								<item>
+									<title>Venice</title>, <date>undated</date> (28 slides)</item>
+								<item>
+									<title>Miscellaneous </title>, <date>1982</date> (22
+									slides)</item>
+								<item>
+									<title>Zion</title>, <date>1967</date> (15 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid id="series3">III.</unitid>
+					<unittitle>United States, <unitdate type="inclusive" normal="1967/1990"
+							>1967-1990 </unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Box 10-Box 17 </extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Arranged into three subseries: <list type="simple">
+							<item><ref actuate="onrequest" show="replace" target="series3a"
+									>California/Alaska</ref></item>
+							<item><ref actuate="onrequest" show="replace" target="series3b"
+									>Southwestern United States</ref></item>
+							<item><ref actuate="onrequest" show="replace" target="series3c">Eastern
+									United States</ref></item>
+						</list></p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series3a">A.</unitid>
+						<unittitle>California/Alaska, <unitdate type="inclusive"
+								>1967-1989</unitdate></unittitle>
+						<physdesc>
+							<extent>Box 10-Box 12</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">10</container>
+							<unittitle>California (1), <unitdate type="inclusive" normal="1969/1987"
+									>1969-1987</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>499 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>California </title>, <date>undated</date> (88
+									slides)</item>
+								<item>
+									<title>San Francisco (Anne Bloomfield)</title>,
+										<date>1969-71</date> (30 slides)</item>
+								<item>
+									<title>California - Gulls</title>, <date>undated</date> (102
+									slides)</item>
+								<item>
+									<title>California – Hummingbirds</title>, <date>undated</date>
+									(19 slides)</item>
+								<item>
+									<title>California - Sunsets</title>, <date>1987</date> (66
+									slides)</item>
+								<item>
+									<title>San Diego – Whales</title>, <date>1977</date> (18
+									slides)</item>
+								<item>
+									<title>Palm Springs</title>, <date>1977</date> (49
+									slides)</item>
+								<item>
+									<title>Solana Beach</title>, <date>1978</date> (22
+									slides)</item>
+								<item>
+									<title>Masson Vineyards</title>, <date>1970</date> (15
+									slides)</item>
+								<item>
+									<title>Leucadia</title>, <date>undated</date> (90 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">11</container>
+							<unittitle>California (2), <unitdate type="inclusive" normal="1967/1989"
+									>1967-1989</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>332 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Leucadia</title>, <date>1987</date> (7 slides)</item>
+								<item>
+									<title>Solana Beach</title>, <date>1980</date> (7 slides)</item>
+								<item>
+									<title>California sunsets</title>, <date>undated</date> (19
+									slides)</item>
+								<item>
+									<title>Palm Springs</title>, <date>1967</date> (8 slides)</item>
+								<item>
+									<title>Leucadia sunsets</title>, <date>1987</date> (20
+									slides)</item>
+								<item>
+									<title>California sunsets</title>, <date>1989</date> (18
+									slides)</item>
+								<item>
+									<title>California sunsets</title>, <date>1986-87</date> (209
+									slides)</item>
+								<item>
+									<title>California sunsets</title>, <date>undated</date> (13
+									slides)</item>
+								<item>
+									<title>Mother Lode, California</title>, <date>1971</date> (31
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">12</container>
+							<unittitle>California/Alaska, <unitdate type="inclusive"
+									normal="1989/1989">1969-1989</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>457 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<head>California</head>
+								<item>
+									<title> Pacific Grove</title>, <date>1971</date> (19
+									slides)</item>
+								<item>
+									<title> Leucadia house</title>, <date>1987</date> (17
+									slides)</item>
+								<item>
+									<title> California sunsets</title>, <date>1990</date> (33
+									slides)</item>
+								<item>
+									<title> San Diego</title>, <date>1987</date> (31 slides)</item>
+								<item>
+									<title> Leucadia sunsets</title>, <date>1989</date> (27
+									slides)</item>
+								<item>
+									<title> San Diego</title>, <date>1970</date> (8 slides)</item>
+							</list>
+							<list type="simple">
+								<head>Alaska</head>
+								<item>
+									<title> Sitka</title>, <date>1969</date> (31 slides)</item>
+								<item>
+									<title> Seattle-Alaska</title>, <date>1969</date> (84
+									slides)</item>
+								<item>
+									<title> Anchorage</title>, <date>1969</date> (25 slides)</item>
+								<item>
+									<title> Ketchikan</title>, <date>1969</date> (12 slides)</item>
+								<item>
+									<title> Juneau</title>, <date>1969</date> (37 slides)</item>
+								<item>
+									<title> Sitka</title>, <date>1969</date> (24 slides)</item>
+								<item>
+									<title> Mt. McKinley</title>, <date>1969</date> (49
+									slides)</item>
+								<item>
+									<title> Alaska – miscellaneous</title>, <date>1969</date> (60
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series3b">B.</unitid>
+						<unittitle>Southwest United States, <unitdate type="inclusive"
+								>1967-1991</unitdate></unittitle>
+						<physdesc>
+							<extent>Box 13-Box 16</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">13</container>
+							<unittitle>Southwest United States (1), <unitdate type="inclusive"
+									normal="1969/1991">1969-1991</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>424 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Crater Lake</title>, <date>1969</date> (18 slides)</item>
+								<item>
+									<title>Southwest (miscellaneous)</title>, <date>1971</date> (29
+									slides)</item>
+								<item>
+									<title>Copper mine, Mesa Verde</title>, <date>1970</date> (12
+									slides)</item>
+								<item>
+									<title>Enchanted Mesa</title>, <date>1970</date> (24
+									slides)</item>
+								<item>
+									<title>Taos</title>, <date>1988</date> (33 slides)</item>
+								<item>
+									<title>Misc.</title>, <date>1971</date> (28 slides)</item>
+								<item>
+									<title>Southwest (miscellaneous)</title>, <date>1973</date> (31
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1973</date> (35
+									slides)</item>
+								<item>
+									<title>Canyon de Chelly</title>, <date>1986</date> (18
+									slides)</item>
+								<item>
+									<title>California Redwoods</title>, <date>1978</date> (21
+									slides)</item>
+								<item>
+									<title>California sunsets</title>, <date>1988</date> (28
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1990</date> (23
+									slides)</item>
+								<item>
+									<title>Pacific Grove</title>, <date>1969</date> (11
+									slides)</item>
+								<item>
+									<title>Oraibi</title>, <date>1970</date> (12 slides)</item>
+								<item>
+									<title>California sunsets</title>, <date>1991</date> (24
+									slides)</item>
+								<item>
+									<title>Coldwater</title>, <date>1971</date> (29 slides)</item>
+								<item>
+									<title>California </title>, <date>1989</date> (16 slides)</item>
+								<item>
+									<title>Mother Lode, California</title>, <date>1971</date> (32
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">14</container>
+							<unittitle>Southwest United States (2), <unitdate type="inclusive"
+									normal="1969/1990">1969-1990</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>498 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Grand Canyon</title>, <date>1972, 1973, 1977</date> (70
+									slides)</item>
+								<item>
+									<title>Grand Canyon – Kaibal Trail</title>, <date>1972</date>
+									(32 slides)</item>
+								<item>
+									<title>Grand Canyon – West Rim</title>, <date>1972, 1985</date>
+									(47 slides)</item>
+								<item>
+									<title>Grand Canyon – Sunsets</title>, <date>1972, 1990</date>
+									(49 slides)</item>
+								<item>
+									<title>Lake Powell</title>, <date>1969, 1972</date> (59
+									slides)</item>
+								<item>
+									<title>Walnut Canyon</title>, <date>1970</date> (13
+									slides)</item>
+								<item>
+									<title>Canyon de Chelly, Navajo Reservation</title>,
+										<date>1972</date> (33 slides)</item>
+								<item>
+									<title>Goldwater Kachinas</title>, <date>1971</date> (36
+									slides)</item>
+								<item>
+									<title>Miscellaneous</title>, <date>1970</date> (39
+									slides)</item>
+								<item>
+									<title>Montezuma’s Castle</title>, <date>1970</date> (13
+									slides)</item>
+								<item>
+									<title>Canyon de Chelly, Horses</title>, <date>undated </date>
+									(24 slides)</item>
+								<item>
+									<title>Canyon de Chelly, Hopi Mesas</title>,
+										<date>undated</date> (4 slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>undated</date> (79
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">15</container>
+							<unittitle>Southwest United States (3), <unitdate type="inclusive"
+									normal="1968/1988">1968-1988</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>773 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Grand Canyon ; Mesa Verde</title>, <date>1972</date> (17
+									slides)</item>
+								<item>
+									<title>Yosemite</title>, <date>1972</date> (16 slides)</item>
+								<item>
+									<title>Mesa Verde glyphs</title>, <date>1972</date> (19
+									slides)</item>
+								<item>
+									<title>White Sands ; Oraibi</title>, <date>1986</date> (20
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1967</date> (18
+									slides)</item>
+								<item>
+									<title>Death Valley</title>, <date>1972</date> (17
+									slides)</item>
+								<item>
+									<title>Canyon de Chelly</title>, <date>1972</date> (5
+									slides)</item>
+								<item>
+									<title>Southwest (miscellaneous)</title>, <date>undated</date>
+									(74 slides)</item>
+							</list>
+							<list type="simple">
+								<head>Utah</head>
+								<item>
+									<title>Arches National Park</title>, <date>1968</date> (55
+									slides)</item>
+								<item>
+									<title>Bryce Canyon</title>, <date>1968</date> (28
+									slides)</item>
+								<item>
+									<title>Capitol Reef Monument</title>, <date>1968</date> (25
+									slides)</item>
+								<item>
+									<title>Dead Horse Viewpoint</title>, <date>1968</date> (13
+									slides)</item>
+								<item>
+									<title>Moab</title>, <date>1968</date> (33 slides)</item>
+								<item>
+									<title>Zion National Park</title>, <date>1968</date> (34
+									slides)</item>
+							</list>
+							<list type="simple">
+								<head>New Mexico</head>
+								<item>
+									<title>Three Rivers, White Sands</title>, <date>1970-71</date>
+									(142 slides)</item>
+								<item>
+									<title>Gran Quivira</title>, <date>1973-74</date> (66
+									slides)</item>
+								<item>
+									<title>Puye Dancers</title>, <date>1976</date> (32
+									slides)</item>
+								<item>
+									<title>Taos</title>, <date>1988</date> (35 slides)</item>
+								<item>
+									<title>Aztec</title>, <date>undated</date> (39 slides)</item>
+							</list>
+							<list type="simple">
+								<item>
+									<title>Aerial views – Nevada, Arizona</title>, <date>1972</date>
+									(16 slides)</item>
+								<item>
+									<title>Virginia City, Nevada</title>, <date>1970</date> (21
+									slides)</item>
+								<item>
+									<title>Southwest United States – Miscellaneous</title>,
+										<date>undated</date> (48 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">16</container>
+							<unittitle>Southwest United States (4), <unitdate type="inclusive"
+									normal="1967/1986">1967-1986</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>647 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Salt Lake City</title>, <date>1969</date> (29
+									slides)</item>
+								<item>
+									<title>Santa Fe</title>, <date>1970</date> (16 slides)</item>
+								<item>
+									<title>Salt Lake</title>, <date>1977</date> (13 slides)</item>
+								<item>
+									<title>White Sands</title>, <date>1974</date> (37 slides)</item>
+								<item>
+									<title>Kachinas</title>, <date>1971</date> (20 slides)</item>
+								<item>
+									<title>Mother Lode</title>, <date>1971</date> (9 slides)</item>
+								<item>
+									<title>Arizona, New Mexico, California, Louisiana</title>,
+										<date>1982</date> (29 slides)</item>
+								<item>
+									<title>Utah</title>, <date>1968</date> (31 slides)</item>
+								<item>
+									<title>Zion</title>, <date>1982</date> (23 slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1967-69</date> (51
+									slides)</item>
+								<item>
+									<title>Oak Creek Canyon</title>, <date>1967-70</date> (20
+									slides)</item>
+								<item>
+									<title>Tucson Desert Museum</title>, <date>1967-70</date> (15
+									slides)</item>
+								<item>
+									<title>Wild Horse Ranch</title>, <date>1969</date> (30
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1967</date> (5 slides)</item>
+								<item>
+									<title>Arizona (miscellaneous)</title>, <date>1967-70</date> (36
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1985</date> (34
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1985</date> (35
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1972</date> (16
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1985</date> (35
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1985</date> (35
+									slides)</item>
+								<item>
+									<title>Oraibi</title>, <date>1985</date> (30 slides)</item>
+								<item>
+									<title>Arches Park</title>, <date>1968</date> (34 slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1986</date> (31
+									slides)</item>
+								<item>
+									<title>Grand Canyon</title>, <date>1985</date> (33
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series3c">C.</unitid>
+						<unittitle>Eastern United States, <unitdate type="inclusive"
+								>1967-1984</unitdate></unittitle>
+						<physdesc>
+							
+							<extent>554 slides</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">17</container>
+							<unittitle>Eastern United States, <unitdate type="inclusive"
+									>1967-1984</unitdate></unittitle>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Niagara Falls</title>, <date>1967-69</date> (109
+									slides)</item>
+								<item>
+									<title>Buffalo, New York</title>, <date>1966-69</date> (72
+									slides)</item>
+								<item>
+									<title>New York City</title>, <date>1969-70</date> (12
+									slides)</item>
+								<item>
+									<title>Miscellaneous</title>, <date>1975</date> (70
+									slides)</item>
+								<item>
+									<title>Maine; Portsmouth, New Hampshire</title>,
+										<date>1984</date> (32 slides)</item>
+								<item>
+									<title>National Gallery, Washington D.C.</title>,
+										<date>1971</date> (16 slides)</item>
+								<item>
+									<title>Asheville, Virginia</title>, <date>1980</date> (19
+									slides)</item>
+								<item>
+									<title>Pisgah Forest, North Carolina</title>, <date>1980</date>
+									(19 slides)</item>
+								<item>
+									<title>Florida</title>, <date>1972, 1983</date> (55
+									slides)</item>
+								<item>
+									<title>Serpent Mound, Ohio</title>, <date>1976</date> (18
+									slides)</item>
+								<item>
+									<title>Niagara Falls</title>, <date>1983</date> (9
+									slides)</item>
+								<item>
+									<title>Fort Kearney, Virginia</title>, <date>1970</date> (20
+									slides)</item>
+								<item>
+									<title>Albany</title>, <date>1980</date> (20 slides)</item>
+								<item>
+									<title>Everglades</title>, <date>1972</date> (28 slides)</item>
+								<item>
+									<title>Lexington, Virginia</title>, <date>1967-72</date> (35
+									slides)</item>
+								<item>
+									<title>Miscellaneous</title>, <date>undated</date> (20
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid id="series4">IV.</unitid>
+					<unittitle>Central/South America, <unitdate type="inclusive" normal="1967/1986">1967-1986 </unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Box 18-Box 20 </extent>
+					</physdesc>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<unittitle>Central/South America (1), <unitdate type="inclusive"
+								normal="1967/1976">1967-1976</unitdate>
+						</unittitle>
+						<physdesc>
+							<extent>670 slides</extent>
+						</physdesc>
+					</did>
+					<scopecontent>
+						<list type="simple">
+							<item>
+								<title>Latin American Tour</title>, <date>1967</date> (78
+								slides)</item>
+							<item>
+								<title>Latin American Tour II</title>, <date>undated</date> (136
+								slides)</item>
+							<item>
+								<title>Latin American Tour - People</title>, <date>1968</date> (30
+								slides)</item>
+							<item>
+								<title>El Morro, Puerto Rico</title>, <date>1971</date> (38
+								slides)</item>
+							<item>
+								<title>Mexico – Uxmal</title>, <date>1976</date> (57 slides)</item>
+							<item>
+								<title>Mexico – Chichen-Itza</title>, <date>1976</date> (40
+								slides)</item>
+							<item>
+								<title>Mexico – Yucatan</title>, <date>1976</date> (22
+								slides)</item>
+							<item>
+								<title>Guatemala</title>, <date>1968</date> (37 slides)</item>
+							<item>
+								<title>Columbia</title>, <date>1968</date> (11 slides)</item>
+							<item>
+								<title>Ecuador</title>, <date>1968</date> (46 slides)</item>
+							<item>
+								<title>Peru</title>, <date>1968</date> (99 slides)</item>
+							<item>
+								<title>Bolivia</title>, <date>1968</date> (22 slides)</item>
+							<item>
+								<title>Chile</title>, <date>1968</date> (17 slides)</item>
+							<item>
+								<title>Miscellaneous</title>, <date>1967-68</date> (37
+								slides)</item>
+						</list>
+					</scopecontent>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">19</container>
+						<unittitle>Central/South America (2), <unitdate type="inclusive"
+								normal="1967/1976">1967-1976</unitdate>
+						</unittitle>
+						<physdesc>
+							<extent>376 slides</extent>
+						</physdesc>
+					</did>
+					<scopecontent>
+						<list type="simple">
+							<item>
+								<title>Santo Domingo</title>, <date>1967</date> (13 slides)</item>
+							<item>
+								<title>Kingston/ Cartleton Gardens/ Gagnes</title>,
+									<date>1967</date> (14 slides)</item>
+							<item>
+								<title>Caracas</title>, <date>1967</date> (9 slides)</item>
+							<item>
+								<title>Sinamaico and Maracaibo</title>, <date>1967</date> (11
+								slides)</item>
+							<item>
+								<title>Puerto la Cruz and Boat to Maragarita</title>,
+									<date>1967</date> (7 slides)</item>
+							<item>
+								<title>Margarita, Venezuela</title>, <date>1967</date> (12
+								slides)</item>
+							<item>
+								<title>Trinidad</title>, <date>1967</date> (18 slides)</item>
+							<item>
+								<title>Caroni Swamp</title>, <date>1967</date> (7 slides)</item>
+							<item>
+								<title>South America</title>, <date>1967</date> (24 slides)</item>
+							<item>
+								<title>Brasilia</title>, <date>1967</date> (12 slides)</item>
+							<item>
+								<title>Belem</title>, <date>1967</date> (14 slides)</item>
+							<item>
+								<title>Sao Paulo</title>, <date>1967</date> (9 slides)</item>
+							<item>
+								<title>Montevideo</title>, <date>1967</date> (9 slides)</item>
+							<item>
+								<title>Salto</title>, <date>1967</date> (15 slides)</item>
+							<item>
+								<title>Cordoba, Argentina</title>, <date>1967</date> (12
+								slides)</item>
+							<item>
+								<title>Tucaman</title>, <date>1967</date> (11 slides)</item>
+							<item>
+								<title>Asuncion</title>, <date>1967</date> (15 slides)</item>
+							<item>
+								<title>Mexico City</title>, <date>1968</date> (18 slides)</item>
+							<item>
+								<title>South America (miscellaneous)</title>, <date>1967-68</date>
+								(81 slides)</item>
+							<item>
+								<title>Uxmal</title>, <date>1976</date> (15 slides)</item>
+							<item>
+								<title>Bogota</title>, <date>1968</date> (21 slides)</item>
+							<item>
+								<title>Petroglyphs</title>, <date>1973</date> (29 slides)</item>
+						</list>
+					</scopecontent>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<unittitle>Central/South America (3), <unitdate type="inclusive"
+								normal="1967/1986">1967-1986</unitdate>
+						</unittitle>
+						<physdesc>
+							<extent>484 slides</extent>
+						</physdesc>
+					</did>
+					<scopecontent>
+						<list type="simple">
+							<item>
+								<title>Machu Picchu</title>, <date>1968</date> (21 slides)</item>
+							<item>
+								<title>Grand Canyon</title>, <date>1986</date> (62 slides)</item>
+							<item>
+								<title>Bolivia ; Mexico</title>, <date>1968</date> (27
+								slides)</item>
+							<item>
+								<title>Mexico</title>, <date>1976</date> (8 slides)</item>
+							<item>
+								<title>Central America (miscellaneous)</title>, <date>1968</date>
+								(59 slides)</item>
+							<item>
+								<title>Bolivia</title>, <date>1968</date> (61 slides)</item>
+							<item>
+								<title>Lower Manhattan</title>, <date>1983</date> (11 slides)</item>
+							<item>
+								<title>San Jose</title>, <date>1968</date> (28 slides)</item>
+							<item>
+								<title>Copan</title>, <date>1967, 1978</date> (27 slides)</item>
+							<item>
+								<title>Central America</title>, <date>1968</date> (60 slides)</item>
+							<item>
+								<title>Peru</title>, <date>1968</date> (22 slides)</item>
+							<item>
+								<title>South America</title>, <date>1967-68</date> (37
+								slides)</item>
+							<item>
+								<title>Ecuador</title>, <date>1967-68</date> (61 slides)</item>
+						</list>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid id="series5">V.</unitid>
+					<unittitle>Liszt in Italy, <unitdate type="inclusive" normal="1967/1989">1967-1989 </unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Box 21-Box 22 </extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Arranged into two subseries: <list type="simple">
+							<item><ref actuate="onrequest" show="replace" target="series5a">Liszt in
+									Italy</ref></item>
+							<item><ref actuate="onrequest" show="replace" target="series5b">Liszt in
+									Rome</ref></item>
+						</list></p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series5a">A.</unitid>
+						<unittitle>Liszt in Italy, <unitdate type="inclusive"
+							>1967-1989</unitdate></unittitle>
+						<physdesc>
+							
+							<extent>810 slides</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+					<container type="box">21</container>
+							<unittitle>Liszt in Italy, <unitdate type="inclusive"
+								>1967-1989</unitdate></unittitle>
+						</did>
+					<scopecontent>
+						<list type="simple">						
+							<item>
+								<title> Villa d’Este</title>, <date>undated</date> (112
+								slides)</item>
+							<item>
+								<title> Gondola</title>, <date>undated</date> (107 slides)</item>
+							<item>
+								<title> Canzonetta</title>, <date>undated</date> (99 slides)</item>
+							<item>
+								<title> Pensierosa</title>, <date>undated</date> (45 slides)</item>
+							<item>
+								<title> Little Piece</title>, <date>undated</date> (7 slides)</item>
+							<item>
+								<title> Sursum corda</title>, <date>undated</date> (71
+								slides)</item>
+						</list>
+						<list type="simple">
+							<item>
+								<title>Liszt in Italy Presentation Slides</title>,
+									<date>undated</date> (71 slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>1985</date> (66 slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>1967</date> (16 slides)</item>
+							<item>
+								<title>Liszt</title>, <date>1989</date> (17 slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>undated</date> (3
+								slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>1980</date> (7 slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>1971</date> (11 slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>1985</date> (30 slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>1980</date> (7 slides)</item>
+							<item>
+								<title>Liszt in Italy</title>, <date>undated</date> (141
+								slides)</item>
+						</list>
+					</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series5b">B.</unitid>
+						<unittitle>Liszt in Rome, <unitdate type="inclusive">1971-1972</unitdate></unittitle>
+						<physdesc>
+						
+							<extent>701 slides</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+						<container type="box">22</container>
+						
+							<unittitle>Liszt in Rome, <unitdate type="inclusive">1971-1972</unitdate></unittitle>	
+						</did>
+					
+					<scopecontent>
+						<list type="simple">
+							<item>
+								<title>Liszt in Rome</title>, <date>1971</date> (199 slides)</item>
+							<item>
+								<title>Liszt (miscellaneous)</title>, <date>1971</date> (14
+								slides)</item>
+							<item>
+								<title>Bells</title>, <date>1971</date> (12 slides)</item>
+							<item>
+								<title>Tombs</title>, <date>1971</date> (13 slides)</item>
+							<item>
+								<title>Villa d’Este</title>, <date>1971</date> (29 slides)</item>
+							<item>
+								<title>Tristan</title>, <date>1971</date> (16 slides)</item>
+							<item>
+								<title>Sursum corda</title>, <date>1971</date> (14 slides)</item>
+							<item>
+								<title>Liszt (unlabeled)</title>, <date>1971</date> (26
+								slides)</item>
+							<item>
+								<title>Cosa</title>, <date>1971</date> (20 slides)</item>
+							<item>
+								<title>Brown</title>, <date>1971</date> (17 slides)</item>
+							<item>
+								<title>Fountains</title>, <date>1971</date> (37 slides)</item>
+							<item>
+								<title>Stendhal Romanticism, Arches</title>, <date>1971</date> (19
+								slides)</item>
+							<item>
+								<title>Martial</title>, <date>1971</date> (18 slides)</item>
+							<item>
+								<title>Horace</title>, <date>1971</date> (17 slides)</item>
+							<item>
+								<title>Daphne &amp; Apollo</title>, <date>1972</date> (18
+								slides)</item>
+							<item>
+								<title>Michelangelo</title>, <date>1971</date> (4 slides)</item>
+							<item>
+								<title>Menine</title>, <date>1971</date> (18 slides)</item>
+							<item>
+								<title>Rome (unlabeled)</title>, <date>1971</date> (37
+								slides)</item>
+							<item>
+								<title>Cass. Hill</title>, <date>1971</date> (16 slides)</item>
+							<item>
+								<title>Rome miscellaneous</title>, <date>1971</date> (157
+								slides)</item>
+						</list>
+					</scopecontent>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid id="series6">VI.</unitid>
+					<unittitle>Miscellaneous, <unitdate type="inclusive" normal="1966/1989"
+							>1966-1989 </unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Box 23-Box 29 </extent>
+					</physdesc>
+				</did>
+				<arrangement>
+					<p>Arranged into three subseries: 
+						<list>
+							<item><ref actuate="onrequest" show="replace" target="series6a">Cities</ref></item>
+							<item><ref actuate="onrequest" show="replace" target="series6b">Compartment Files</ref></item>
+							<item><ref actuate="onrequest" show="replace" target="series6c">Miscellaneous</ref></item>
+													</list></p>
+				</arrangement>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series6a">A.</unitid>
+						<unittitle>Cities, <unitdate type="inclusive"
+							>1967-1969</unitdate></unittitle>
+						<physdesc>
+							
+							<extent>209 slides</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">23</container>
+							<unittitle>Cities, <unitdate type="inclusive">1967-1969</unitdate></unittitle>
+						</did>
+					
+					<scopecontent>
+						<list type="simple">
+							<item>
+								<title>Charleston, South Carolina</title>, <date>1969</date> (35
+								slides)</item>
+							<item>
+								<title>Lexington, Kentucky</title>, <date>1968</date> (14
+								slides)</item>
+							<item>
+								<title>Nashville, Tennessee</title>, <date>1968</date> (15
+								slides)</item>
+							<item>
+								<title>St. Louis, Missouri</title>, <date>1967-69</date> (20
+								slides)</item>
+							<item>
+								<title>Seattle, Washington</title>, <date>1966</date> (16
+								slides)</item>
+							<item>
+								<title>Pittsburgh, Pennsylvania ; Concord, Massachusetts ; Boston,
+									Massachusetts</title>, <date>1967-69</date> (18 slides)</item>
+							<item>
+								<title>Washington D.C.</title>, <date>1966-69</date> (18
+								slides)</item>
+							<item>
+								<title>Halifax, Nova Scotia</title>, <date>1967-69</date> (19
+								slides)</item>
+							<item>
+								<title>New York City</title>, <date>1967-69</date> (35
+								slides)</item>
+							<item>
+								<title>Disneyland, California</title>, <date>1968</date> (19
+								slides)</item>
+						</list>
+					</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series6b">B.</unitid>
+						<unittitle>Compartment Files, <unitdate type="inclusive"
+								>1966-1987</unitdate></unittitle>
+						<physdesc>
+							<extent>Box 24-Box 25</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">24</container>
+							<unittitle>Compartment Files (1), <unitdate type="inclusive"
+									normal="1966/1987">1966-1987</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>663 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>undated</date> (23 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1966</date> (4 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1967</date> (4 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1968</date> (29 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1968</date> (2 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1968</date> (12 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1969</date> (31 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1969</date> (8 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1970</date> (2 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1970</date> (3 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1976</date> (1 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1977</date> (1 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1977</date> (3 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1984</date> (1 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1986</date> (3 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1986</date> (8 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1986</date> (22 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1987</date> (21 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1987</date> (5 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1987</date> (7 slides)</item>
+								<item>
+									<title>Ventura House, Laver, Morris G., California</title>,
+										<date>1987</date> (1 slides)</item>
+								<item>
+									<title>Ostia Antica</title>, <date>1971</date> (132
+									slides)</item>
+								<item>
+									<title>Ostia Antica</title>, <date>1971</date> (53
+									slides)</item>
+								<item>
+									<title>Istanbul</title>, <date>1977</date> (174 slides)</item>
+								<item>
+									<title>Rome/Haiti</title>, <date>1975</date> (113 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">25</container>
+							<unittitle>Compartment Files (2), <unitdate type="inclusive"
+									normal="1967/1986">1967-1986</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>474 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Rome/Haiti</title>, <date>1975</date> (58 slides)</item>
+								<item>
+									<title>Latin/South America</title>, <date>1967</date> (67
+									slides)</item>
+								<item>
+									<title>Latin/South America</title>, <date>1968</date> (112
+									slides)</item>
+								<item>
+									<title>Alaska/Fort Ross</title>, <date>1969</date> (87
+									slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1968, 1969, 1970</date> (9
+									slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1968, 1970</date> (9 slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1968, 1986</date> (26 slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1969, 1970</date> (28 slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1967</date> (40 slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1967, 1970</date> (19 slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1970</date> (1 slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1967</date> (13 slides)</item>
+								<item>
+									<title>Zoos</title>, <date>1968</date> (5 slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid id="series6c">C.</unitid>
+						<unittitle>Miscellaneous, <unitdate type="inclusive"
+							>1967-1991</unitdate></unittitle>
+						<physdesc>
+							<extent>Box 26-Box 29</extent>
+						</physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">26</container>
+							<unittitle>Miscellaneous (1), <unitdate type="inclusive"
+									normal="1967/1969">1967-1969</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>249 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Letchworth Park</title>, <date>1967-68</date> (97
+									slides)</item>
+								<item>
+									<title>Corning Glass Museum</title>, <date>1969</date> (15
+									slides)</item>
+								<item>
+									<title>Nancy Bergama</title>, <date>1969</date> (14
+									slides)</item>
+								<item>
+									<title>Pascals</title>, <date>1969</date> (12 slides)</item>
+								<item>
+									<title>Hydroplanes</title>, <date>1969</date> (12 slides)</item>
+								<item>
+									<title>[Unlabeled]</title>, <date>1969</date> (45 slides)</item>
+								<item>
+									<title>Japanese Gardens</title>, <date>1969</date> (20
+									slides)</item>
+								<item>
+									<title>Miscellaneous</title>, <date>1969</date> (34
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">27</container>
+							<unittitle>Miscellaneous (2), <unitdate type="inclusive"
+									normal="YYYY/YYYY">undated</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>394 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Angelus</title>, <date>undated</date> (91 slides)</item>
+								<item>
+									<title>Funerailles</title>, <date>undated</date> (98
+									slides)</item>
+								<item>
+									<title>Miserere</title>, <date>undated</date> (28 slides)</item>
+								<item>
+									<title>Bells</title>, <date>undated</date> (66 slides)</item>
+								<item>
+									<title>Love Dream</title>, <date>undated</date> (75
+									slides)</item>
+								<item>
+									<title>Consolata</title>, <date>undated</date> (36
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">28</container>
+							<unittitle>Miscellaneous (3), <unitdate type="inclusive"
+									normal="1967/1989">1967-1989</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>387 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Mephisto Waltz movie set</title>, <date>1970</date> (27
+									slides)</item>
+								<item>
+									<title>Colts vs. Bills game</title>, <date>1971</date> (27
+									slides)</item>
+								<item>
+									<title>Last class, UB; Letchworth State Park</title>,
+										<date>1983</date> (25 slides)</item>
+								<item>
+									<title>Hot Air Balloons</title>, <date>1997</date> (16
+									slides)</item>
+								<item>
+									<title>Emily Dickinson Grave, Amherst, Massachusetts </title>,
+										<date>1989</date> (21 slides)</item>
+								<item>
+									<title>Cole Porter Grave, Peru, Indiana</title>,
+										<date>1976</date> (17 slides)</item>
+								<item>
+									<title>L.S. Sunsets</title>, <date>1969</date> (23
+									slides)</item>
+								<item>
+									<title>Art</title>, <date>undated</date> (18 slides)</item>
+								<item>
+									<title>Leo Smit</title>, <date>1967</date> (51 slides)</item>
+								<item>
+									<title>Lion Safari</title>, <date>1972</date> (64 slides)</item>
+								<item>
+									<title>[Unlabeled]</title>, <date>undated</date> (98
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">29</container>
+							<unittitle>Miscellaneous (4), <unitdate type="inclusive"
+									normal="1969/1991">1969-1991</unitdate>
+							</unittitle>
+							<physdesc>
+								<extent>631 slides</extent>
+							</physdesc>
+						</did>
+						<scopecontent>
+							<list type="simple">
+								<item>
+									<title>Giraffes, elephants</title>, <date>1986</date> (37
+									slides)</item>
+								<item>
+									<title>Safari – animals</title>, <date>1972</date> (32
+									slides)</item>
+								<item>
+									<title>San Diego Zoo</title>, <date>1986</date> (20
+									slides)</item>
+								<item>
+									<title>Wild animals</title>, <date>1986</date> (37
+									slides)</item>
+								<item>
+									<title>Birds</title>, <date>1984</date> (22 slides)</item>
+								<item>
+									<title>Florida – pelicans</title>, <date>1978</date> (14
+									slides)</item>
+								<item>
+									<title>Wild animals – gorillas</title>, <date>1986</date> (35
+									slides)</item>
+								<item>
+									<title>Sunsets</title>, <date>1991</date> (24 slides)</item>
+								<item>
+									<title>Sunsets</title>, <date>1987</date> (19 slides)</item>
+								<item>
+									<title>Travel/sunsets</title>, <date>1986</date> (33
+									slides)</item>
+								<item>
+									<title>Letchworth</title>, <date>1983</date> (15 slides)</item>
+								<item>
+									<title>OK Cy [Oklahoma City?]</title>, <date>1988</date> (2
+									slides)</item>
+								<item>
+									<title>Sea Bluff</title>, <date>1986</date> (20 slides)</item>
+								<item>
+									<title>Aspen</title>, <date>1976</date> (23 slides)</item>
+								<item>
+									<title>St. Louis Arch</title>, <date>1977</date> (18
+									slides)</item>
+								<item>
+									<title>Mt. McKinley</title>, <date>1969</date> (15
+									slides)</item>
+								<item>
+									<title>Monterey</title>, <date>1971</date> (23 slides)</item>
+								<item>
+									<title>Santa Fe Opera ; Cochiti ; Suzie Berio</title>,
+										<date>1970</date> (23 slides)</item>
+								<item>
+									<title>Indian Museum</title>, <date>1970</date> (20
+									slides)</item>
+								<item>
+									<title>Emily Dickinson house</title>, <date>1989</date> (28
+									slides)</item>
+								<item>
+									<title>People</title>, <date>undated</date> (15 slides)</item>
+								<item>
+									<title>Colts versus Bills</title>, <date>1971</date> (8
+									slides)</item>
+								<item>
+									<title>Art</title>, <date>1971</date> (6 slides)</item>
+								<item>
+									<title>Jan/Phil</title>, <date>1987</date> (20 slides)</item>
+								<item>
+									<title>Unlabeled miscellaneous</title>, <date>undated</date> (74
+									slides)</item>
+								<item>
+									<title>Unlabeled miscellaneous</title>, <date>undated</date> (48
+									slides)</item>
+							</list>
+						</scopecontent>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+		<controlaccess>
+			<head>Search Terms</head>
+			<note>
+				<p>The following terms have been used to index the description of this collection in
+					the Library's online catalog. </p>
+			</note>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh" encodinganalog="650">Musicians--Slides</subject>
+
+				<subject source="lcsh" encodinganalog="650">Slides (Photography)--Private collections</subject>
+				<persname encodinganalog="600" source="lcnaf" role="subject">Smit, Leo, 1921-1999--Slide collections</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Genres</head>
+				<genreform encodinganalog="655" source="gmgpc">Slides</genreform>
+			</controlaccess>
+		</controlaccess>
+		<descgrp type="add">
+			<head>Associated Material</head>
+			<relatedmaterial encodinganalog="544 1">
+				<head>Related Resources</head>
+				<relatedmaterial>
+					<head>Related Resources in the Music Library</head>
+					<list type="deflist">
+						<defitem>
+							<label>
+								<archref
+									href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_1.xml"
+									show="new" actuate="onrequest" role="text/html"> Leo Smit Score
+									Collection, circa 1940-1998</archref> Mus. Arc. 6.1 </label>
+							<item>The collection consists of 104 scores by Leo Smit, principally in
+								copies of holographs. There are also another 43 items arranged or
+								transcribed by Smit, inscribed to or by Smit, scores marked for
+								performance by Smit, and miscellaneous scores.</item>
+						</defitem>
+						<defitem>
+							<label>
+								<archref
+									href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_2.xml"
+									show="new" actuate="onrequest" role="text/html">Leo Smit Papers,
+									1939-2000</archref>Mus. Arc. 6.2</label>
+							<item>A small collection of personal documents, writings by Smit,
+								correspondence (chiefly photocopies of letters from Aaron Copland to
+								Smit), clippings, programs, and lecture materials. </item>
+						</defitem>
+						<defitem>
+							<label>
+								<archref
+									href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_3.xml"
+									show="new" actuate="onrequest" role="text/html"> Leo Smit
+									Photograph Collection, circa 1926-1999</archref> Mus. Arc. 6.3 </label>
+							<item>Chiefly black and white photographs documenting Leo Smit's life
+								and career in music. </item>
+						</defitem>
+						<defitem>
+							<label>
+								<archref
+									href="http://library.buffalo.edu/libraries/units/music/exhibits/smit/"
+									show="new" role="text/html" actuate="onrequest">Remembering Leo
+									Smit (1921-1999)</archref>
+							</label>
+							<item>An online exhibit commemorating the life and career of Leo Smit.
+								It contains many images of Smit as well as photographs taken by him.
+								A list of Smit's compositions, compiled by the composer, is also
+								included.</item>
+
+						</defitem>
+					</list>
+				</relatedmaterial>
+			</relatedmaterial>
+		</descgrp>
+	</archdesc>
+</ead>

@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 1.8::Yvar Mikhashoff Collection of Video Recordings)//EN">ubmu0001_8</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Yvar Mikhashoff
+		Collection of Video Recordings, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1976/1992">1976-1992</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> Mikhashoff (Yvar)
+		Collection of Video Recordings</titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date encodinganalog="date" type="publication">2016</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, 
+	   <date normal="2008" era="ce" calendar="gregorian"
+	    type="inclusive">2016</date>. </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content
+		Standard</title>). </descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Yvar Mikhashoff
+	   Collection of Video Recordings, 
+	   <unitdate encodinganalog="245$f" normal="1976/1992" type="inclusive"
+	    datechar="creation">1976-1992</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 1.8</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator"
+	    source="lcnaf">Mikhashoff, Yvar, 1941-1993</persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+	   boxes</extent> <extent unit="item" encodinganalog="300$a"> (39 items)</extent>
+	   </physdesc> 
+	 <langmaterial label="Language of Material"
+	  encodinganalog="546">Collection contains spoken word content in
+	   <language langcode="eng">English</language>, <language
+	   langcode="now">Norwegian</language>, <language
+	   langcode="fre">French</language>, and <language
+	   langcode="jap">Japanese</language>.</langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The collection contains
+	   thirty-one video and eight audio recordings on video cassettes, most with Yvar
+	   Mikhashoff present as performer. One video title is missing, represented only
+	   by photocopied leaves of the container.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Yvar Mikhashoff Collection of Video
+		Recordings,1976-1992, Music Library, The State University of New York at
+		Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of the estate of Yvar Mikhashoff, 1993.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <altformavail encodinganalog="530"> 
+	   <head>Alternative Form Available</head> 
+	   <p>The collection was digitally reformatted in 2015. The funds for the
+		reformatting were generously supplied by the Yvar Mikhashoff Trust for New
+		Music.</p> 
+	   <p>Reformatting consisted of transfer to DVDs for the video content and
+		CDs for the audio content. It also resulted in digital files formatted as
+		preservation archival masters, production maters, and service copies. All
+		digital files are stored in the UB Institutional Repository along with the
+		metadata files created through the reformatting process.</p> 
+	 </altformavail> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Yvar-Emilian Mikhashoff was born Ronald MacKay in Troy near Albany,
+	   New York in 1941. He began piano studies with Betty Weir and Stanley Hummel in
+	   Albany. At the Eastman School of Music in 1959, he first took a major in
+	   composition and cello, then changed to piano studies with Armand Basile. In the
+	   1961 academic year, he studied piano at the Juilliard School in New York City.
+	   He also had a career as a ballroom dancer from 1962-1965.</p> 
+	 <p>In 1964 Mikhashoff entered the University of Houston for studies in
+	   piano with Albert Hirsh. He earned a B.M. in 1967 and continued with graduate
+	   study in composition with Elmer Schoettle and obtained his M.M. in 1968. It was
+	   during this period that MacKay adopted his grandfather's name, Mikhashoff.</p> 
+	 <p>Receiving a Fulbright scholarship in 1968, he studied the music of the
+	   French Impressionists with Nadia Boulanger. After his return to the United
+	   States, Mikhashoff entered the University of Texas at Austin as a doctoral
+	   candidate in composition and studied with Hunter Johnson, Kent Kennan, Janet
+	   McGaughey and Karl Korte. He earned a Doctor of Musical Arts degree with a
+	   major in composition and a minor in literature in August 1973 and founded the
+	   Cambiata Soloists ensemble. In the fall of 1973 Mikhashoff was appointed
+	   Assistant Professor in the Music Department at the State University of New York
+	   at Buffalo. Based in Buffalo until his death in 1993, Mikhashoff had an
+	   international performing career which led him to promote new music and American
+	   music around the world.</p> 
+	 <p>Mikhashoff had a genius for programming, a talent he utilized
+	   extensively while organizing many festivals and broadcasts of new music
+	   throughout the world, including his work at the Almeida Festival in London and
+	   the Holland Festival. Mikhashoff co-founded the North American New Music
+	   Festival in 1983 with Jan Williams and remained a co-director until his death.
+	   He commissioned works from such notable composers as John Cage, Lukas Foss,
+	   Otto Luening, Poul Ruders, James Sellars, Christian Wolff, and many others. One
+	   of his most notable commissioning projects occurred in 1982 when he
+	   commissioned or solicited new tangos for solo piano from an international array
+	   of more than 80 composers. Mikhashoff also edited publications of music,
+	   including works by Henry Cowell, Lejaren Hiller, Conlon Nancarrow, and Virgil
+	   Thomson. He recorded on the New Albion, Mode, RCA Victor, CRI, and Spectrum
+	   record labels. Yvar Mikhashoff's support of contemporary music continues today
+	   through the 
+	   <extref href="http://www.mikhashofftrust.org/index.html"
+	    actuate="onrequest" show="new" role="text/html">Yvar Mikhashoff Trust for New
+		Music</extref> which was created by his estate to support composers and
+	   performers of new music. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection contains thirty-one video and eight audio recordings.
+	   The contents are a mix of Mikhashoff's own performances, compilations in which
+	   Mikhashoff performs only a part of the whole, thirteen tapes of concerts given
+	   at the North American New Music Festival (Buffalo, New York), tapes sent to
+	   Mikhashoff by other performers or composers, and films by Lawrence Brose. The
+	   eight cassettes containing only audio are from recording sessions in
+	   Norway.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged as originally processed. </p> 
+    </arrangement> 
+    <dsc type="in-depth"> 
+	 <head>Container List</head> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">01</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 1, 
+		  <unitdate type="inclusive" normal="1976-06-22">22 June
+		    1976</unitdate> </unittitle> 
+		<physdesc> <extent>1 U-Matic cassette 20 minutes</extent> </physdesc>
+		
+		<note> 
+		  <p>Title on container: Theatre piece - John Cage</p> 
+		  <p>Live performance of John Cage's Theatre piece as produced by
+		    William Kirkpatrick.</p> 
+		  <p>Recorded at unknown location.</p> 
+		  <p>Performers: William Kirkpatrick dancer and director, and others,
+		    possibly Yvar Mikhashoff and Frances Marie Uitti</p> 
+		  <p>Durations: 23:18</p> 
+		  <p>Not very good quality. Stationary camera from a bit of a
+		    distance.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cage, John: Theatre piece</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_001_am.mov</item> 
+		    <item>Production master: ubmu0001_8_001_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_001_sc.mov</item> 
+		    <item>DVD or CD disc number 01</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">02</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 2, 
+		  <unitdate type="inclusive" normal="1976-06-22">22 June
+		    1976</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Theatre piece: J. Cage performance</p> 
+		  <p>Live performance of John Cage's Theatre piece as produced by
+		    William Kirkpatrick.</p> 
+		  <p>Recorded at unknown location.</p> 
+		  <p>Performers: William Kirkpatrick dancer and director, and others,
+		    possibly Yvar Mikhashoff and Frances Marie Uitti</p> 
+		  <p>Durations: 23:05</p> 
+		  <p>Duplicate of Item 1. Not very good quality. Stationary camera
+		    from a bit of a distance.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cage, John: Theatre piece</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_002_am.mov</item> 
+		    <item>Production master: ubmu0001_8_002_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_002_sc.mov</item> 
+		    <item>DVD or CD disc number 02</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">03</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 3, 
+		  <unitdate type="inclusive" normal="1985-09-uu">September
+		    1985</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 1985 NOS - Ijsbreker</p> 
+		  <p>Nederlandse Omroep Stichting (NOS) television broadcast directed
+		    by Klaas Rusticus, titled De Ysbreker about the Ijsbreker festival in
+		    Amsterdam. It includes interviews with director Jan Wolff and composer Louis
+		    Andriessen, with studio performances of music by Heppener, Veldhoen, Nancarrow,
+		    and Glass. Spoken word by Wolff and Andriessen in Dutch.</p> 
+		  <p>Recorded at Amsterdam (Netherlands).</p> 
+		  <p>Performers: Jane Manning, soprano ; Nieuw Ensemble, conducted by
+		    Ed Spanjaard; Frances Marie Uitti, cello with Judith Hamer, dancer;
+		    Balletstudio of Maureen Kramer; Hugh Davies; Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 1:00:01</p> 
+		  <p>Label on tape: NTSC</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Contents include: Heppener, Robert: Memento; Veldhoen,
+		  David: Eidofoon; Davies, Hugh: Shozyg sequence, no. 2; Nancarrow, Conlon:
+		  Tango? ; Glass, Philip: Modern love waltz</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_003_am.mov</item> 
+		    <item>Production master: ubmu0001_8_003_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_003_sc.mov</item> 
+		    <item>DVD or CD disc number 03</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">04</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 4, 
+		  <unitdate type="inclusive" normal="1985-11-uu">November
+		    1985</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette E-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Nederland-C N.O.S. TV Nov. 85, De Ysbreker,
+		    copy</p> 
+		  <p>Nederlandse Omroep Stichting (NOS) television broadcast directed
+		    by Klaas Rusticus, titled De Ysbreker about the Ijsbreker festival in
+		    Amsterdam. It includes interviews with director Jan Wolff and composer Louis
+		    Andriessen, with studio performances of music by Heppener, Veldhoen, Nancarrow,
+		    and Glass. Spoken word by Wolff and Andriessen in Dutch.</p> 
+		  <p>Recorded at Amsterdam (Netherlands).</p> 
+		  <p>Performers: Jane Manning, soprano ; Nieuw Ensemble, conducted by
+		    Ed Spanjaard; Frances Marie Uitti, cello with Judith Hamer, dancer;
+		    Balletstudio of Maureen Kramer; Hugh Davies; Yvar Mikhashoff, piano</p> 
+		  <p>Do not reformat - duplicate</p> 
+		  <p>PAL; mono sound</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Contents include: Heppener, Robert: Memento; Veldhoen,
+		  David: Eidofoon; Davies, Hugh: Shozyg sequence, no. 2; Nancarrow, Conlon:
+		  Tango? ; Glass, Philip: Modern love waltz</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: Not reformatted. </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">05</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 5, 
+		  <unitdate type="inclusive" normal="1986-09-23">23 September
+		    1986</unitdate> </unittitle> 
+		<physdesc> <extent>Video cassette missing; 3 photocopied
+		  leaves</extent> </physdesc> 
+		<note> 
+		  <p>Title on photocopy of container: 1986 Thomson and Satie</p> 
+		  <p>Recorded at Merkin Concert Hall (New York, N.Y.)</p> 
+		  <p>Performers: Yvar Mikhashoff, piano; Virgil Thomson, narrator</p>
+		  
+		  <p>There is no original tape.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Unknown</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: Not reformatted. </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">06</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 6, 
+		  <unitdate type="inclusive" normal="1987-06-uu">June 1987</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Vienna Now BBC Program, June 1987</p> 
+		  <p>BBC TV: Vienna Now. Likely the following about the Almeida
+		    Festival, from a BBC description: Vienna Now: Introductory Film Every summer,
+		    the Almeida Theatre in Islington plays host to one of Europe's most adventurous
+		    music festivals. This year its main theme is the music of Vienna today, and the
+		    city's leading composers, Friedrich Cerha, Kurt Schwertsik and Heinz Karl
+		    Gruber, are in residence at the theatre. Despite its reputation for
+		    conservatism, Vienna was the crucible for many of the 20th century's most
+		    radical developments in music and the arts. Michael Berkeley explores the
+		    appealing and often ironic sounds of Vienna today with some of its most
+		    important artistic figures. Executive producer Dennis Marks, Producer Peter
+		    Maniura, Director Jane Walker</p> 
+		  <p>Recorded at London (England).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano, and many others</p> 
+		  <p>Duplicate of 007. Technical issues prevented digitizing.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Contents include excerpts from works by Hanns Eisler
+		  (Massnahme), Friedrich Cerha (Elegie, Keintate), Kurt Schwertsik (Rumba, Horn
+		  trio, Kurze Geschichte der Bourgeoisie) and Heinz Karl Gruber
+		  (Frankenstein).</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: Not reformatted </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">07</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 7, 
+		  <unitdate type="inclusive" normal="1987-06-uu">June 1987</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 1987 BBC TV - Vienna Now (2) (NTSC)</p> 
+		  <p>Almeida Festival: Vienna now. Introduced by Michael Berkeley.
+		    BBC TV production about the June 1987 Almeida Festival, with interviews with
+		    Pierre Audi, artistic director of the festival, and guest composers, Friedrich
+		    Cerha, Kurt Schwertsik and Heinz Karl Gruber. Executive producer Dennis Marks,
+		    producer Peter Maniura, director Jane Walker. Includes excerpts from interview
+		    with Pierre Audi. Kurt Schwertsik Tango performed by Mikhashoff. Presents
+		    History of 20th century music in Vienna, with historical footage.</p> 
+		  <p>Recorded at London (England).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano and many others</p> 
+		  <p>Durations: 26:43</p> 
+		  <p>NTSC format</p> 
+		  <p>Includes Mikhashoff performing Cerha's Elegie at ca. 10:05.
+		    English subtitled for German interviews.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Contents include excerpts from works by Hanns Eisler
+		  (Massnahme), Friedrich Cerha (Elegie, Keintate), Kurt Schwertsik (Rumba, Horn
+		  trio, Kurze Geschichte der Bourgeoisie) and Heinz Karl Gruber
+		  (Frankenstein).</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_007_am.mov</item> 
+		    <item>Production master: ubmu0001_8_007_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_007_sc.mov</item> 
+		    <item>DVD or CD disc number 04</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">08</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 8, 
+		  <unitdate type="inclusive" normal="1987-uu-uu">1987</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette 130</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 1987 Norwegian recording session Tape 1</p> 
+		  <p>Audio only from recording session, with multiple takes of some
+		    works.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 1:01:31; 1:12:24</p> 
+		  <p>Tape 1 of 3</p> 
+		  <p>PAL/F1 format</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include: Feldman, Morton: Intermission 5; Speech,
+		  Bernadette: To tango or not ; Copland, Aaron: Sonnets ; Berkman, Robert:
+		  Thorn-torn lips ; Thomson, Virgil: Sentimental tango ; Loudova, Ivana: Tango ;
+		  Hovhaness, Alan: Visionary landscapes I</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_008_01am.wav;
+			 ubmu0001_8_008_02am.wav </item> 
+		    <item>Production master: ubmu0001_8_008_01pm.wav;
+			 ubmu0001_8_008_02pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_008_01sc.mp3;
+			 ubmu0001_8_008_02sc.mp3</item> 
+		    <item>DVD or CD disc number 05-06</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">09</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 9, 
+		  <unitdate type="inclusive" normal="1987-uu-uu">1987</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette 130</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 1987 Norwegian recording session Tape 2</p> 
+		  <p>Audio only from recording session, with multiple takes of some
+		    works.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 49:09 ; 55:03</p> 
+		  <p>Tape 2 of 3</p> 
+		  <p>PAL/F1 format</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include: White, John: Piano sonata no. 108 ; Thomson,
+		  Virgil: Sentimental tango ; Copland, Aaron: Moods ; Nancarrow, Conlon: Tango? ;
+		  Riegger, Wallingford: Blue voyage ; Shapey, Ralph: unnamed work
+		  (Passacaglia?)</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_009_01am.wav;
+			 ubmu0001_8_009_02am.wav </item> 
+		    <item>Production master: ubmu0001_8_009_01pm.wav;
+			 ubmu0001_8_009_02pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_009_01sc.mp3;
+			 ubmu0001_8_009_02sc.mp3</item> 
+		    <item>DVD or CD disc number 07-08</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">10</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 10, 
+		  <unitdate type="inclusive" normal="1987-uu-uu">1987</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette 130</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: 1987 Norwegian recording session Tape 3</p> 
+		  <p>Audio only from recording session, with multiple takes of some
+		    works.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 50:02 ; 58:37</p> 
+		  <p>Tape 3 of 3</p> 
+		  <p>PAL/F1 format</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include: Liszt, Franz: Resignazione -- In festo
+		  transfigurationis Domini nostri Jesu Christi -- Wiegenlied -- Other works
+		  --Richard Wagner Venezia ; Shapey, Ralph: Tango variations ; Riegger,
+		  Wallingford: unnamed work ; Feldman, Morton: Palais de Mari</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_010_01am.wav;
+			 ubmu0001_8_010_02am.wav </item> 
+		    <item>Production master: ubmu0001_8_010_01pm.wav;
+			 ubmu0001_8_010_02pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_010_01sc.mp3;
+			 ubmu0001_8_010_02sc.mp3</item> 
+		    <item>DVD or CD disc number 09-10</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">11</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 11, 
+		  <unitdate type="inclusive" normal="1988-03-14">14 March
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival 1988:
+		    Cage, Scelsi and Hauer</p> 
+		  <p>Title frame: Cage, Scelsi, Hauer, Burchfield Art Center, Monday,
+		    March 14.</p> 
+		  <p>Recorded at Burchfield Art Center (Buffalo, N.Y.).</p> 
+		  <p>Performers: Yvar Mikhashoff, Anthony de Mare, Frieda and Stephen
+		    Manes, piano; Robert Black, bass guitar; Frances-Marie Uitti, cello; Isabelle
+		    Ganz, mezzo-soprano; Carol Plantamura, soprano</p> 
+		  <p>Durations: 1:48:59</p> 
+		  <p>1st 6:20 just ambient setting. Very dark.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cage, John: … from Finnegan's wake -- The wonderful
+		  widow of eighteen springs -- North upon Nacht -- ASLSP -- composed
+		  improvisation for Steinberger bass guitar ; Hauer, Josef Matthias: Labyrinthine
+		  dance op.3 ; Cage, John: Etudes boreales -- A flower ; Scelsi, Giacinto: CKCKC
+		  ; Cage, John: Souvenir ; Scelsi, Giacinto: YGGHUR ; Cage, John: Litany for the
+		  whale</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_011_am.mov</item> 
+		    <item>Production master: ubmu0001_8_011_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_011_sc.mov</item> 
+		    <item>DVD or CD disc number 11</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">12</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 12, 
+		  <unitdate type="inclusive" normal="1988-03-18">18 March
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival 1988:
+		    Music for words, Pierre Audi directs works by Mauricio Kagel and Sylvano
+		    Bussotti</p> 
+		  <p>Title frame: North American New Music Festival 1988 … Friday,
+		    March 18 Tralfamadore Café: Music for words: Pierre Audi directs.</p> 
+		  <p>Recorded at Tralfamadore Café (Buffalo, N.Y.).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano and actor; Frances-Marie
+		    Uitti, David Sims, cello; Jan Williams, percussion; Paul Schmidt, actor;
+		    Pauline Vaillancourt, soprano; Pierre Audi, director; Robert Fernandez,
+		    percussion (Match)</p> 
+		  <p>Durations: 1:24:35</p> 
+		  <p> Very dark; camera pans with subjects in theatrical works.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Kagel:, Mauricio: Match (19:20) -- Presentation (to
+		  40:55) ; Bussotti, Sylvano: Pianobar pour Phaedre</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_012_am.mov</item> 
+		    <item>Production master: ubmu0001_8_012_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_012_sc.mov</item> 
+		    <item>DVD or CD disc number 12</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">13</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 13, 
+		  <unitdate type="inclusive" normal="1988-03-03">3 March
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival 3/13/88:
+		    Arditti String Quartet</p> 
+		  <p>Title frame: North American New Music Festival. Sunday, March
+		    13.</p> 
+		  <p>Recorded at Albright-Knox Art Gallery (Buffalo, N.Y.).</p> 
+		  <p>Performers: Arditti String Quartet: Irwin Arditti, David
+		    Alberman, violin; Levine Andrade, viola; Rohan de Saram, cello</p> 
+		  <p>Durations: 1:44:00</p> 
+		  <p>There is ambient sound only for the first 1:34.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Nash, Peter Paul: String quartet ; Speach: Pentamenta ;
+		  Felder, David: Third face ; Hoyland, Vic: String quartet ; Ferneyhough, Brian:
+		  String quartet no. 3</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_013_am.mov</item> 
+		    <item>Production master: ubmu0001_8_013_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_013_sc.mov</item> 
+		    <item>DVD or CD disc number 13</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">14</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 14, 
+		  <unitdate type="inclusive" normal="1988-03-14">14 March
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival March 14
+		    1988: John Cage Lecture on anarchy</p> 
+		  <p>Recorded at Frederick C. and Alice Slee Chamber Hall (State
+		    University of New York at Buffalo).</p> 
+		  <p>Performers: John Cage, speaker</p> 
+		  <p>Durations: 1:26:08</p> 
+		  <p>At the beginning there seem to be 2 audio tracks: one clear, the
+		    other via the room ambience which contains so much reverberation it is
+		    extremely difficult to understand Cage's words. The clear track stops ca. 2:30.
+		    Video very dark.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cage, John: Lecture on anarchy</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_014_am.mov</item> 
+		    <item>Production master: ubmu0001_8_014_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_014_sc.mov</item> 
+		    <item>DVD or CD disc number 14</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">15</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 15, 
+		  <unitdate type="inclusive" normal="1988-03-14">14 March
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: John Cage - Lecture on Anarchy audio dub</p>
+		  
+		  <p>Audio only.</p> 
+		  <p>Recorded at Frederick C. and Alice Slee Chamber Hall (State
+		    University of New York at Buffalo).</p> 
+		  <p>Performers: John Cage, speaker</p> 
+		  <p>Durations: 47:45 ; 36:28</p> 
+		  <p>Audio only. It is much better than the audio on Tape 14 but has
+		    to be checked to see if complete</p> 
+		  <p>Sounds like this is directly from the mike feed without room
+		    reverberation.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cage, John: Lecture on anarchy</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_015_01am.wav;
+			 ubmu0001_8_015_02am.wav </item> 
+		    <item>Production master: ubmu0001_8_015_01pm.wav;
+			 ubmu0001_8_015_02pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_015_01sc.mp3;
+			 ubmu0001_8_015_02sc.mp3</item> 
+		    <item>DVD or CD disc number 15-16</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">16</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 16, 
+		  <unitdate type="inclusive" normal="1988-03-11">11 March
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival 1988:
+		    Music for words, Peter Sellers [sic] directs Paul Schmidt</p> 
+		  <p>Music for words: Peter Sellars directs Paul Schmidt</p> 
+		  <p>Recorded at Pfeifer Theater (State University of New York at
+		    Buffalo).</p> 
+		  <p>Performers: Peter Sellars, director; Yvar Mikhashoff, Mark
+		    Bennett, Elizabeth Swados, and Paul Schmidt, performers</p> 
+		  <p>Durations: 1:01:31</p> 
+		  <p>Video very dark.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Bennett, Mark: The drunken boat ; Glass, Philip:
+		  Einstein on the beach. Paris speech ; Hassell, Jon: Zangezi ; Swados,
+		  Elizabeth: The beautiful lady</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_016_am.mov</item> 
+		    <item>Production master: ubmu0001_8_016_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_016_sc.mov</item> 
+		    <item>DVD or CD disc number 17</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">17</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 17, 
+		  <unitdate type="inclusive" normal="1988-03-uu">March
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Excerpt performances at the 1988 North
+		    American New Music Festival, presented by SUNY at Buffalo and Hallwalls</p> 
+		  <p>North American New Music Festival 1988 presented by the Dept. of
+		    Music, SUNY at Buffalo in cooperation with Hallwalls Inc., Jan Williams, Yvar
+		    Mikhashoff, artistic directors, Donald Metz, administrative director,
+		    videography, Seth Tamrowski and James H. Braun.</p> 
+		  <p>Recorded at Buffalo (N.Y.).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano; Arditti String Quartet;
+		    Robert Fernandez, Frances-Marie Uitti; Don Metz, and Paul Schmidt</p> 
+		  <p>Durations: 1:01:29</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cage, John: Souvenir ; Scelsi, Giacinto: YGGHUR ;
+		  Felder, David: Third face ; Hoyland, Vic: String quartet ; Zappa, Frank:
+		  Persona non grata ; [Fernandez, Robert: Katibo] ; Glass, Philip: Einstein on
+		  the beach</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_017_am.mov</item> 
+		    <item>Production master: ubmu0001_8_017_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_017_sc.mov</item> 
+		    <item>DVD or CD disc number 18</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">18</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 18, 
+		  <unitdate type="inclusive" normal="1989-04-11">11 April
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival 1989 April
+		    11: The music of George Crumb</p> 
+		  <p>Recorded at Frank B. and Cameron Baird Music Hall (State
+		    University of New York at Buffalo).</p> 
+		  <p>Performers: Stephen Manes, piano, Frieda Manes, piano, and
+		    Chamber Concerts Canada Ensemble</p> 
+		  <p>Durations: 1:09:31</p> 
+		  <p>Semi-staged with adult and child female dancers.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Crumb: Zeitgeist (through 37:30) -- Ancient voices of
+		  children (begins at 39:40)</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_018_am.mov</item> 
+		    <item>Production master: ubmu0001_8_018_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_018_sc.mov</item> 
+		    <item>DVD or CD disc number 19</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">19</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 19, 
+		  <unitdate type="inclusive" normal="1989-04-13">13 April
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival 1989 April
+		    13: The music of Frederic Rzewski</p> 
+		  <p>Recorded at Frederick C. and Alice Slee Chamber Hall (State
+		    University of New York at Buffalo).</p> 
+		  <p>Performers: Aki Takahashi, Frederic Rzewski, piano; The
+		    California E.A.R. Unit: Amy Knowles, Arthur Jarvinen, Rand Steiger, James
+		    Rohrig, Dorothy Stone, Erika Duke, Gaylord Mowrey, and Lorna Little</p> 
+		  <p>Durations: 1:43:59</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Rzewski, Frederic: Spots -- Turtle and the crane --
+		  Mary's dream -- Spots -- Mayn Yingele -- Coming together</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_019_am.mov</item> 
+		    <item>Production master: ubmu0001_8_019_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_019_sc.mov</item> 
+		    <item>DVD or CD disc number 20</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">20</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 20, 
+		  <unitdate type="inclusive" normal="1989-04-12">12 April
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival Concert
+		    II</p> 
+		  <p>Recorded at Frederick C. and Alice Slee Chamber Hall (State
+		    University of New York at Buffalo).</p> 
+		  <p>Performers: California E.A.R. Unit: Amy Knowles, Arthur
+		    Jarvinen, Rand Steiger, percussion; James Rohrig, clarinet; Dorothy Stone,
+		    flute; Erika Duke, cello; Gaylord Mowrey, Lorna Little, piano</p> 
+		  <p>Durations: 1:24:27</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Torke, Michael: The yellow pages ; Carter, Elliott:
+		  Enchanted preludes ; Boulez, Pierre: Derive ; Lang, David: Illumination rounds
+		  ; Fernandez, Robert: Tentacles ; Jarvinen, Arthur: The seven golden vampires ;
+		  Steiger, Rand: 13 loops</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_020_am.mov</item> 
+		    <item>Production master: ubmu0001_8_020_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_020_sc.mov</item> 
+		    <item>DVD or CD disc number 21</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">21</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 21, 
+		  <unitdate type="inclusive" normal="1989-04-14">14 April
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival April 14
+		    1989</p> 
+		  <p>Recorded at Hallwalls (Buffalo, N.Y.).</p> 
+		  <p>Performers: Robert Ashley , piano; Blue 'Gene' Tyranny , piano;
+		    Tom Buckner, vocals</p> 
+		  <p>Durations: 1:35:14</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Ashley, Robert: My brother called</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_021_am.mov</item> 
+		    <item>Production master: ubmu0001_8_021_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_021_sc.mov</item> 
+		    <item>DVD or CD disc number 22</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">22</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 22, 
+		  <unitdate type="inclusive" normal="1989-04-16">16 April
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival April 16
+		    1989 (1)</p> 
+		  <p>Recorded at Hallwalls (Buffalo, N.Y.).</p> 
+		  <p>Performers: Yvar Mikhashoff, Aki Takahashi, piano; Paul Schmidt,
+		    actor</p> 
+		  <p>Durations: 25:12</p> 
+		  <p>Tape 1 of 2</p> 
+		  <p>With projected video</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Satie, Erik: Relâche</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_022_am.mov</item> 
+		    <item>Production master: ubmu0001_8_022_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_022_sc.mov</item> 
+		    <item>DVD or CD disc number 23</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">23</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 23, 
+		  <unitdate type="inclusive" normal="1989-04-16">16 April
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: North American New Music Festival April 16
+		    1989 (2)</p> 
+		  <p>Recorded at Hallwalls (Buffalo, N.Y.).</p> 
+		  <p>Performers: Yvar Mikhashoff, Aki Takahashi, piano; Paul Schmidt,
+		    actor</p> 
+		  <p>Durations: 1:33:14</p> 
+		  <p>Tape 2 of 2</p> 
+		  <p>Program begins at circa 2:20.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Satie, Erik: Parade (version for 2 pianos) -- Sports and
+		  diversions ; Cage, John: Two indeterminate variations ; Satie, Erik: Socrate,
+		  transcribed by Cage ; Cage, John: Furniture music etcetera</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_023_am.mov</item> 
+		    <item>Production master: ubmu0001_8_023_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_023_sc.mov</item> 
+		    <item>DVD or CD disc number 24</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">24</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 24, 
+		  <unitdate type="inclusive" normal="1992-04-11">11 April
+		    1992</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Burchfield Art Center, Buffalo N.Y. USA.
+		    North American Music Festival</p> 
+		  <p>Recorded at Burchfield Art Center (Buffalo, N.Y.).</p> 
+		  <p>Performers: Haydee Schvartz, piano; Jill Gaylord, mezzo-soprano;
+		    Marcelo Maragno, baritone; Timothy Gastle, tenor; Michele Costa, puppets; Paul
+		    Schmidt, narrator</p> 
+		  <p>Durations: 1:15:29</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cage, John: Four walls ; Satie, Erik: Geneviève de
+		  Brabant</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_024_am.mov</item> 
+		    <item>Production master: ubmu0001_8_024_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_024_sc.mov</item> 
+		    <item>DVD or CD disc number 25</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">25</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 25, 
+		  <unitdate type="inclusive" normal="1989-07-29">29 July
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette unknown length</extent> </physdesc>
+		
+		<note> 
+		  <p>Title on container: PoMoCoMo - Theory in your ear</p> 
+		  <p>The performance involved the use of a tracker, Grid Activated
+		    Sonar Production, or GASP, worn by dancer Beth Kotecki.</p> 
+		  <p>Recorded at Articule Gallery, Montreal, Canada.</p> 
+		  <p>Performers: PoMoCoMo; Beth Kotecki, dancer</p> 
+		  <p>Durations: 9:01</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Theory in your ear, a collaborative work by Will Bauer,
+		  Rafael Lozano-Hemmer, Andreas Kitzmann, Kim Sawchuck, Steve Gibson, Mark Bell,
+		  and others</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_025_am.mov</item> 
+		    <item>Production master: ubmu0001_8_025_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_025_sc.mov</item> 
+		    <item>DVD or CD disc number 26</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">26</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 26, 
+		  <unitdate type="inclusive" normal="19uu-uu-uu">1979 or
+		    later</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Baker - Chairs</p> 
+		  <p>Live performance of the work, a theater piece, involving five
+		    chairs, a chamber ensemble, a soprano and a speaker/actor.</p> 
+		  <p>Recorded at unknown location.</p> 
+		  <p>Performers: Unknown</p> 
+		  <p>Durations: 18:59</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Baker, Larry: Chairs</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_026_am.mov</item> 
+		    <item>Production master: ubmu0001_8_026_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_026_sc.mov</item> 
+		    <item>DVD or CD disc number 27</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">27</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 27, 
+		  <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-90</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Films for music for film: six films by
+		    Lawrence F. Brose</p> 
+		  <p>Recorded at unknown location.</p> 
+		  <p>Performers: Buffalo New Music Ensemble; Yvar Mikhashoff, piano;
+		    Paul Schmidt, narrator; Scott Gray-Vickery, countertenor</p> 
+		  <p>Durations: 1:10:59</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Brose: Film for music for film: six films: Everbest,
+		  Virgil (Virgil Thomson: Piano sonata no. 2, "Portrait of the artist as a young
+		  man" transcription by Mikhashoff) (8:00) ; Chamnan (music by Brose and Douglas
+		  Cohen) (13:00) ; War songs (poems by Paul Schmidt, music by Mark Bennett) ;
+		  Ryoanji (John Cage) (21:00) ; Long eyes of earth (Yvar Mikhashoff: Looking
+		  through the air from the trilogy Elemental figures, poem "Shaman" by Paul
+		  Schmidt) (10:00) ; Study no. 23 (Conlon Nancarrow)</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_027_am.mov</item> 
+		    <item>Production master: ubmu0001_8_027_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_027_sc.mov</item> 
+		    <item>DVD or CD disc number 28</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">28</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 28, 
+		  <unitdate type="inclusive" normal="19uu-uu-uu">undated</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette 130</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Mikhashoff - First session Backup Tape I</p>
+		  
+		  <p>Audio only from recording session, with multiple takes of some
+		    works.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 56:00 ; 55:41</p> 
+		  <p>Tape 1 of 4</p> 
+		  <p>CTC/NTSC</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include: Curran, Alvin: For Cornelius ; Rudhyar, Dane:
+		  Tango d'Antan ; Nichifor, Serban: Tango for Yvar ; Foss, Lukas: Tango --
+		  Curriculum vitae. Tango. File 2. Foss, Lukas: Curriculum vitae. Tango ;
+		  Duckworth, William. Tango voices ; Chadabe, Joel: Long ago and far away tango ;
+		  Johnson: Tango ; Ruders, Poul: Tangonetta ; Hill, Jackson: Tango no tango ;
+		  Savaskan, Sinan: Square root impressions with tears ; Kondo, Jo: Tango Mnemonic
+		  ; Genge, Anthony: Tango</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_028_01am.wav;
+			 ubmu0001_8_028_02am.wav </item> 
+		    <item>Production master: ubmu0001_8_028_01pm.wav;
+			 ubmu0001_8_028_02pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_028_01sc.mp3;
+			 ubmu0001_8_028_02sc.mp3</item> 
+		    <item>DVD or CD disc number 29-30</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">29</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 29, 
+		  <unitdate type="inclusive" normal="19uu-uu-uu">undated</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette 130</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Mikhashoff - First session Tape II
+		    Backup</p> 
+		  <p>Audio only from recording session, with multiple takes of some
+		    works.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 56:44 ; 56:15</p> 
+		  <p>Tape 2 of 4</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include: Bennett, Richard Rodney: Tango after Syrinx ;
+		  Rzewski, Frederic: Piano piece no. 4 ; Bolcom, William: Dead moth tango. File
+		  2. Bolcom: Dead moth tango ; Feldman, Morton: Piano</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_029_01am.wav;
+			 ubmu0001_8_029_02am.wav </item> 
+		    <item>Production master: ubmu0001_8_029_01pm.wav;
+			 ubmu0001_8_029_02pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_029_01sc.mp3;
+			 ubmu0001_8_029_02sc.mp3</item> 
+		    <item>DVD or CD disc number 31-32</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">30</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 30, 
+		  <unitdate type="inclusive" normal="19uu-uu-uu">undated</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette 130</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Mikhashoff - First session master III</p> 
+		  <p>Audio only from recording session, with multiple takes of some
+		    works.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 53:15 ; 48:36</p> 
+		  <p>Tape 3 of 4</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p> Contents include: Griffes, Charles: Preludes no. 1-3 ; Cage,
+		  John: In a landscape ; Curran, Alvin: Hope Street Tunnel blues. File 2. Curran,
+		  Alvin: Hope Street Tunnel blues ; Sahl, Michael: Exiles' café ; Foss, Lukas:
+		  Solo</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_030_01am.wav;
+			 ubmu0001_8_030_02am.wav </item> 
+		    <item>Production master: ubmu0001_8_030_01pm.wav;
+			 ubmu0001_8_030_02pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_030_01sc.mp3;
+			 ubmu0001_8_030_02sc.mp3</item> 
+		    <item>DVD or CD disc number 33-34</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">31</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 31, 
+		  <unitdate type="inclusive" normal="19uu-uu-uu">undated</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 Betamax cassette 130</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Mikhashoff First session IV Backup</p> 
+		  <p>Audio only from recording session, with multiple takes of some
+		    works.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Yvar Mikhashoff, piano</p> 
+		  <p>Durations: 47:15</p> 
+		  <p>Tape 4 of 4</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include: Foss, Lukas: Solo (continued from previous
+		  tape)</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master:
+			 ubmu0001_8_031_01am.wav</item> 
+		    <item>Production master: ubmu0001_8_031_01pm.wav</item> 
+		    <item>Service copy: ubmu0001_8_031_01sc.mp3</item> 
+		    <item>DVD or CD disc number 35</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">32</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 32, 
+		  <unitdate type="inclusive" normal="1988-06-08">8 June
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-30</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Neighbor Music III</p> 
+		  <p>Recorded at Hallwalls (Buffalo, N.Y.).</p> 
+		  <p>Performers: Salvatore Andolina, Jerome Simas, clarinet; Ann
+		    Laberge, Taci Edwards, flute; Robert Fernandez, Jan Williams, percussion;
+		    Stephen L. Mosko, conductor</p> 
+		  <p>Durations: 32:24</p> 
+		  <p>Shot under extreme low-light conditions - begins with
+		    silence.</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Cohen, Douglas: Neighbor music III; film by Lawrence F.
+		  Brose</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_032_am.mov</item> 
+		    <item>Production master: ubmu0001_8_032_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_032_sc.mov</item> 
+		    <item>DVD or CD disc number 36</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">33</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 33, 
+		  <unitdate type="inclusive" normal="19uu-uu-uu">undated</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-30</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: High touch</p> 
+		  <p>Not reformatted due to subject matter.</p> 
+		  <p>Recorded at San Francisco.</p> 
+		  <p>Performers: William Palaskas, speaker</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Dr. William Palaskas: High touch: video about massage
+		  technique.</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: Not reformatted. </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">34</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 34, 
+		  <unitdate type="inclusive" normal="1987-04-11">11 April
+		    1987</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-30</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Dan Froot: The Story of Violette</p> 
+		  <p>Recorded at San Francisco.</p> 
+		  <p>Performers: Dan Froot, saxophone and speaker</p> 
+		  <p>Durations: 25:29</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Froot, Dan: The story of the violette</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_034_am.mov</item> 
+		    <item>Production master: ubmu0001_8_034_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_034_sc.mov</item> 
+		    <item>DVD or CD disc number 37</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">35</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 35, 
+		  <unitdate type="inclusive" normal="1988-06-12">12 June
+		    1988</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette E-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Listahatid 1988: Norraeni kvartettinn</p> 
+		  <p>Recorded at Bústaðakirkju, Reykjavik, Iceland.</p> 
+		  <p>Performers: Norraeni kvartettinn: Einar Jóhannesson, clarinet;
+		    Joseph Fung, guitar; Áskell Másson, Roger Carlsson, percussion</p> 
+		  <p>Durations: 1:23:50</p> 
+		  <p>Listahatid I Reykjavik 4-19 June 1988</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Másson, Áskell: Fantasia um kinverskt ; Hauksson,
+		  Thorstein: Tokkata f. gitar ; Másson, Áskell: Impromptu f. fjórar handtrommur ;
+		  Heininen, Paavo: Discantus II f. klarinett ; Nørgaard, Per: Waves, f. slagverk
+		  ; Másson, Áskell: Divertimento f. kvartett ; Fung: Choreographic poems, f.
+		  kvartett</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_035_am.mov</item> 
+		    <item>Production master: ubmu0001_8_035_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_035_sc.mov</item> 
+		    <item>DVD or CD disc number 38</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">36</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 36, 
+		  <unitdate type="inclusive" normal="1989-02-17">17 February
+		    1989</unitdate> </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Aki Takahashi New ears series VII</p> 
+		  <p>Recorded at Yokohama (Japan).</p> 
+		  <p>Performers: Aki Takahashi, Yvar Mikhashoff, piano; others</p> 
+		  <p>Durations: 1:24:19</p> 
+		  <p>Very dark</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include performances of George Brecht: Drip music; John
+		  Cage: Music for (Four) ; Sylvano Bussotti: Gran duo ; Mieko Shiomi: A trick of
+		  time Part II</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_036_am.mov</item> 
+		    <item>Production master: ubmu0001_8_036_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_036_sc.mov</item> 
+		    <item>DVD or CD disc number 39</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">37</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 37, 
+		  <unitdate type="inclusive" normal="1989-uu-uu">1989?</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 VHS cassette unknown length</extent> </physdesc>
+		
+		<note> 
+		  <p>Title on container: Satie Sports et divertissements</p> 
+		  <p>The tape is a recording from a performance of Satie's Sports et
+		    divertissements broadcast on Japanese television featuring a "Jan-Paulo"; with
+		    Japanese subtitles.</p> 
+		  <p>Recorded at Japan.</p> 
+		  <p>Performers: Unknown</p> 
+		  <p>Durations: 58:59</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Satie, Erik: Sports et divertissements</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_037_am.mov</item> 
+		    <item>Production master: ubmu0001_8_037_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_037_sc.mov</item> 
+		    <item>DVD or CD disc number 40</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">38</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 38, 
+		  <unitdate type="inclusive" normal="1986-uu-uu">1986</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 VHS cassette E-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: West Coast Story Episode 1: Frontiers of New
+		    Music</p> 
+		  <p>Film produced by Eva Soltes and directed by Michael McIntyre for
+		    BBC, a three-part program about California composers. BBC's summary: This film
+		    tells the story of the development of west coast music in this century, against
+		    the background of the Californian landscape, the Asian communities of San
+		    Francisco and the cybernetic paradise of Silicon valley.</p> 
+		  <p>Recorded at Multiple locations.</p> 
+		  <p>Performers: John Chowning, Garrett Bowles, Rinde Eckert, Ron
+		    George, Jerry Goldsmith, Joe Kubera, Yvar Mikhashoff, Danlee Mitchell, Doren
+		    Nelson, Pauline Oliveros, Steve Reich, Roger Reynolds, Dave Whittaker; directed
+		    by Michael Macintyre</p> 
+		  <p>Durations: 1:15:09</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: With contributions from John Cage, Terry Riley, John
+		  Adams, Lou Harrison, Frank Zappa, Charles Amirkhanian, Robert Erickson, Paul
+		  Dresher, Daniel Lentz, and Morton Subotnick</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_038_am.mov</item> 
+		    <item>Production master: ubmu0001_8_038_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_038_sc.mov</item> 
+		    <item>DVD or CD disc number 41</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">39</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 39, 
+		  <unitdate type="inclusive" normal="1990-07-uu">July 1990</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 VHS cassette T-60</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: Amnon Wolman’s Concerto for piano, piano[s]
+		    and orchestra</p> 
+		  <p>Recorded at Banff (Alberta, Canada).</p> 
+		  <p>Performers: Anthony De Mare, piano; Banff Chamber Players;
+		    Michael Century, conductor</p> 
+		  <p>Durations: 31:28</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents: Wolman, Amnon: Concerto for piano, pianos, and orchestra
+		  (pianist plays seven Disklaviers)</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_039_am.mov</item> 
+		    <item>Production master: ubmu0001_8_039_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_039_sc.mov</item> 
+		    <item>DVD or CD disc number 42</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">2</container> 
+		<container type="item">40</container> 
+		<unittitle>Yvar Mikhashoff Collection of Video Recordings, Item 40, 
+		  <unitdate type="inclusive" normal="19uu-uu-uu">1987?</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>1 VHS cassette E-120</extent> </physdesc> 
+		<note> 
+		  <p>Title on container: VOX - Festspillene</p> 
+		  <p>A film by NRK (Norsk rikskringkasting AS - Norwegian
+		    Broadcasting Company) containing excerpts from the festival, Bergen 1987.</p> 
+		  <p>Recorded at Bergen (Norway).</p> 
+		  <p>Performers: Performers include Yvar Mikhashoff, piano; Knut
+		    Skram, Benedicte Adrian, Ingrid Bjornov, singers; Daniel Bohr, festival
+		    director</p> 
+		  <p>Durations: 50:29</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Contents include John Cage's Perpetual tango, African drumming,
+		  and more</p> 
+	   </scopecontent> 
+	   <altformavail> 
+		<p>Digitized copies: 
+		  <list type="simple"> 
+		    <item>Preservation archival master: ubmu0001_8_040_am.mov</item> 
+		    <item>Production master: ubmu0001_8_040_pm.mov</item> 
+		    <item>Service copy: ubmu0001_8_040_sc.mov</item> 
+		    <item>DVD or CD disc number 43</item> 
+		  </list> </p> 
+	   </altformavail> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Music--20th
+		century</subject> 
+	   <subject source="lcsh" encodinganalog="650">Piano music</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">videotapes</genreform> 
+	   <genreform encodinganalog="655" source="aat">videocassettes</genreform>
+	   
+	   <genreform encodinganalog="655" source="aat">sound
+		recordings</genreform>
+	   <genreform encodinganalog="655" source="aat">musical
+		performances</genreform>
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			  href="http://library.buffalo.edu/music/spcoll/ymhome.html" show="new"
+			  actuate="onrequest" role="text/html"> Yvar Mikhashoff Archive</archref>
+			 </label> 
+		    <item>The Yvar Mikhashoff Archive consists of the following
+			 separate components. Descriptions can be found at the page for the Yvar
+			 Mikhashoff Archive at 
+			 <archref
+			  href="http://library.buffalo.edu/music/special-materials/yvar-mikhashoff/"
+			  show="new" actuate="onrequest"
+			  role="text/html">http://library.buffalo.edu/music/special-materials/yvar-mikhashoff/</archref>:
+			 
+			 <list> 
+			   <item> Yvar Mikhashoff Collection of Compositions</item> 
+			   <item>Yvar Mikhashoff Collection of Transcriptions</item> 
+			   <item>Yvar Mikhashoff Photograph Collection</item> 
+			   <item>Yvar Mikhashoff Collection of Tangos</item> 
+			   <item>Yvar Mikhashoff Collection of Sound Recordings</item> 
+			   <item>Yvar Mikhashoff Cassette Collection</item> 
+			   <item>Yvar Mikhashoff Slide Collection</item> 
+			 </list> </item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc> 
+</ead> 

@@ -1,0 +1,4213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead> 
+  
+   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 
+      <eadid countrycode="US" mainagencycode="NBuU-Mu" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 55::Irene Haupt Photographs of June in Buffalo 2010)//EN" encodinganalog="identifier">ubmu0055</eadid> 
+	 
+      <filedesc> 
+		
+         <titlestmt> 
+		  
+            <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
+			 Photographs of June in Buffalo, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="2010-06">2010</date> 
+            </titleproper> 
+		  
+            <titleproper type="filing" altrender="nodisplay"> Haupt (Irene)
+			 Photographs of June in Buffalo 2010 </titleproper> 
+		  
+            <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		
+         </titlestmt> 
+		
+         <publicationstmt> 
+		  
+            <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  
+            <address> 
+			 
+               <addressline>112 Baird Hall</addressline> 
+			 
+               <addressline>Buffalo, New York 14260-4750</addressline> 
+			 
+               <addressline>United States</addressline> 
+			 
+               <addressline>Phone: 716 645-2924</addressline> 
+			 
+               <addressline>Fax: 716 645-3906</addressline> 
+			 
+               <addressline>Email:<emph render="bold"> 
+				
+                     <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html" linktype="simple">musique@buffalo.edu</extref>
+                  </emph>
+               </addressline> 
+			 
+               <addressline>URL:<emph render="bold"> 
+				
+                     <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html" linktype="simple">http://library.buffalo.edu/music/</extref>
+                  </emph>
+				
+               </addressline> 
+		  
+            </address> 
+		  
+            <p>© 
+			 <date encodinganalog="date" type="publication" era="ce" calendar="gregorian">2011</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		
+         </publicationstmt> 
+	 
+      </filedesc> 
+	 
+      <profiledesc> 
+		
+         <creation>Finding aid encoded in EAD by John Bewley, June
+		  2011.</creation> 
+		
+         <langusage>Finding aid is in
+		  <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage> 
+		
+         <descrules>Finding aid prepared using DACS ( 
+		  <title render="italic" linktype="simple">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 
+      </profiledesc> 
+  
+   </eadheader> 
+  
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 
+      <did> 
+		
+         <head>Collection Overview</head> 
+		
+         <unittitle label="Title" encodinganalog="245$a"> Irene Haupt Photographs
+		  of June in Buffalo, 
+		  <unitdate encodinganalog="245$f" normal="2010-06" type="inclusive" datechar="creation" era="ce" calendar="gregorian"> 2010</unitdate>
+         </unittitle> 
+		
+         <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 55</unitid> 
+		
+         <origination label="Creator"> 
+		  
+            <persname encodinganalog="100" role="creator" source="lcnaf"> Haupt,
+			 Irene </persname> 
+         </origination> 
+		
+         <physdesc label="Extent"> 
+            <extent unit="DVD" encodinganalog="300$a">1
+		  DVD</extent> 
+            <extent unit="image-file" encodinganalog="300$a"> (134 digital
+		  images in tiff format) </extent> 
+         </physdesc> 
+		
+         <langmaterial label="Language of Material" encodinganalog="546">No
+		  textual content in the collection.</langmaterial> 
+		
+         <repository label="Repository" encodinganalog="852"> 
+		  
+            <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea>
+            </corpname> 
+         </repository> 
+		
+         <abstract label="Abstract" encodinganalog="520$a"> Contains 134 digital
+		  images of musicians who participated in the June in Buffalo Festival 2010 at
+		  the University at Buffalo. </abstract> 
+		
+         <note encodinganalog="500"> 
+		  
+            <p>All files in the collection renamed to reflect chronological
+			 sequence. Renamed files stored with the collection on a separate DVD. </p> 
+		
+         </note> 
+	 
+      </did> 
+	 
+      <descgrp type="admininfo"> 
+		
+         <head>Administrative Information</head>  
+		
+         <prefercite encodinganalog="524"> 
+		  
+            <head>Preferred Citation</head> 
+		  
+            <p>[Specified item], Irene Haupt Photographs of June in Buffalo, 2010,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		
+         </prefercite> 
+		
+         <accessrestrict encodinganalog="506"> 
+		  
+            <head>Terms of Access</head> 
+		  
+            <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		
+         </accessrestrict> 
+		
+         <userestrict encodinganalog="540"> 
+		  
+            <head>Copyright</head> 
+		  
+            <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		
+         </userestrict> 
+	  
+		
+         <acqinfo encodinganalog="541"> 
+		  
+            <head>Acquisition Information</head> 
+		  
+            <p>Purchased from Irene Haupt, 2010.</p> 
+		
+         </acqinfo> 
+		
+         <accruals encodinganalog="584"> 
+		  
+            <head>Accruals and Additions</head> 
+		  
+            <p>No further accruals are expected to this collection. </p> 
+		
+         </accruals> 
+		
+         <altformavail encodinganalog="530"> 
+	   
+            <head>Alternate Forms</head> 
+	   
+            <p>The entire collection of images from June in Buffalo 2010 is
+		available in the 
+		<extref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" linktype="simple">University at Buffalo Libraries Digital
+		  Collections</extref>. </p> 
+	 
+         </altformavail> 
+		
+         <processinfo encodinganalog="583"> 
+		  
+            <head>Processing Information</head> 
+		  
+            <p>Processed by John Bewley.</p> 
+		
+         </processinfo> 
+	 
+      </descgrp> 
+	 
+      <bioghist encodinganalog="545"> 
+		
+         <head>Biographical Note</head> 
+		
+         <p>Irene Haupt, a graduate of the State University of New York at
+		  Buffalo, has been documenting the Buffalo arts scene through her photography since 1976. During that time she has worked for, or with, some of the most notable institutions in Buffalo, including the Irish Classical Theatre, Studio Arena Theater, the Kavinoky Theatre, the Buffalo Philharmonic Orchestra, the Theatre of Youth, the Albright-Knox Art Gallery, and the State University of New York at Buffalo. In addition to her specialty of theater photography, Irene 		  Haupt has also devoted much of her career to the photography of musicians and 		  musical events. Most notable is her documentation of the contemporary music 		  scene in Buffalo, including coverage of the University at Buffalo's June in 		  Buffalo festival of new music, 1982-1987, and 2000 to the present. Over the 		  course of those years, she has created a visual record that contains images of 		  some of the most significant composers and performers of the last quarter 		  century. The list of names is impressive: Aaron Copland, Morton Feldman, Leo 		  Smit, Virgil Thomson, Steve Reich, Ralph Shapey, Henry Brant, Earle Brown, 		  Ursula Oppens, Jan Williams, Lukas Foss, Philip Glass, Otto Luening, Conlon 		  Nancarrow, Ernst Krenek, Larry Austin, Lejaren Hiller, Elliott Carter, Milton
+Babbitt, John Cage, Charles Wuorinen, Jacob Druckman, and Yvar Mikhashoff,
+among others. </p> 
+		
+         <p>The June in Buffalo festival of contemporary music was begun at the
+		  University at Buffalo in 1975 by composer Morton Feldman. He directed the festival 1975-1978 and in 1980. The festival was dormant from 1981 through
+1985. David Felder revived the festival in 1986 and has been its director since
+that time.</p> 
+	 
+      </bioghist> 
+	 
+      <scopecontent encodinganalog="520"> 
+		
+         <head>Scope and Content Note</head> 
+		
+         <p>The collection of Irene Haupt Photographs of June in Buffalo 2010
+		  contains 134 digital images of participants in the festival for 2010. The list of musicians includes David Felder, Brad Lubman, Irvine Arditti, Olivier Pasquet, James Baker, Julia Bentley, Bernard Rands, JoAnn Falletta, Roger Reynolds, Augusta Read Thomas, Steve Reich, the Signal Ensemble, Ensemble
+SurPlus, Ensemble Laboratorium, the Arditti Quartet, the Slee Sinfonietta, and
+the Buffalo Philharmonic.</p> 
+	 
+      </scopecontent> 
+	 
+      <arrangement encodinganalog="351"> 
+		
+         <head>Arrangement</head> 
+		
+         <p>One series arranged chronologically.</p> 
+	 
+      </arrangement> 
+	 
+      <dsc type="in-depth"> 
+		
+         <head>Container List</head> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_001</container> 
+			 
+               <unittitle>Ensemble SurPlus members Stefan Haussler, Eun-Ju Kim,
+Thomas Avery (acting as page-turner), and Beverley Ellis rehearsing Jordan
+Kuspa's Piano trio at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-30" era="ce" calendar="gregorian">2010-05-30</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2257"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Surplus rehearsal KUSPA.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+	
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_002</container> 
+			 
+               <unittitle>Ensemble SurPlus members Stefan Haussler, Eun-Ju Kim, Thomas Avery (acting as page-turner), and Beverley Ellis rehearsing Jordan Kuspa's Piano trio at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-30" era="ce" calendar="gregorian">2010-05-30</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2258"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: JIB rehearsal Surplusfor KUSPA.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01>
+
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_003</container> 
+			 
+               <unittitle>Ensemble SurPlus members Stefan Haussler, Eun-Ju Kim, 				Thomas Avery (acting as page-turner), and Beverley Ellis rehearsing Jordan 				Kuspa's Piano trio at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-30" era="ce" calendar="gregorian">2010-05-30</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2259"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SURPLUS rehearsal JIB.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+         <c01 level="item">
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_004</container> 
+			 
+               <unittitle>Composer Olivier Pasquet at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2260"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Olivier Pasquet.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_005</container> 
+			 
+               <unittitle>Composers David Felder and Olivier Pasquet with student
+				composers at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2261"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: David Felder with students and
+				  composers.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_006</container> 
+			 
+               <unittitle>Student composers Diana Soh, Chun Ting Pang, and Shiuan
+				Chang at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2262"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: student composers Diana Soh, Chung Ting Pang,
+				  Shiuan Chang, .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_007</container> 
+			 
+               <unittitle>Composer David Felder with student composers Gabriele
+				Vanoni and Daniel Bassin at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2263"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: David Felder with student composers Daniel
+				  Bassin, Gabriele .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_008</container> 
+			 
+               <unittitle>Composer Olivier Pasquet with student composers Diana Soh
+				and David Hudry at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2264"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Olivier Pasquet, Diana Soh, David
+				  Hudry.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_009</container> 
+			 
+               <unittitle>Composer David Felder with June in Buffalo 2010 students
+				Chun Ting Pang, Joe Lake, and Jacob Gotlib, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2265"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer David Felder with student
+				  composersChun Ting Pang,J.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_010</container> 
+			 
+               <unittitle>James Baker conducting a rehearsal of Roger Reynolds's
+				work, Aspiration, with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2266"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 002.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_011</container> 
+			 
+               <unittitle>Conductor Brad Lubman rehearsing Signal Ensemble at June
+				in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2267"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: conductor Brad Lubman.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_012</container> 
+			 
+               <unittitle>Brad Lubman conducting the Signal Ensemble at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2268"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Brad Lubman conductor SIGNAL.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_013</container> 
+			 
+               <unittitle>Percussionists David Skidmore and Doug Perkins during
+				rehearsal with the Signal Ensemble at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2269"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 016.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_014</container> 
+			 
+               <unittitle>Composer Steve Reich at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2270"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Composer Steve Reich June in Buffalo
+				  2010.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_015</container> 
+			 
+               <unittitle>Composer Steve Reich at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2271"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Steve Reich=.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_016</container> 
+			 
+               <unittitle>Composer Steve Reich and conductor Brad Lubman at
+				rehearsal at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2272"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Steve Reich Brad Lubman, conductor.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_017</container> 
+			 
+               <unittitle>Composer Francois Eckert at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2273"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Francois Eckert , composer workshop.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_018</container> 
+			 
+               <unittitle>Composer Francois Eckert at computer during workshop at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2274"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Francois Eckert.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_019</container> 
+			 
+               <unittitle>Ensemble SurPlus members Martina Roth, Erich Wagner,
+				Christian Kemper, Stefan Haussler, violin, Thomas Avery, and Adrian Romaniuc
+				rehearsing Lukas Foss's work, Music for Six at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2275"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Ensemble SurPlus rehearsing Lukas
+				  Foss-.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_020</container> 
+			 
+               <unittitle>Ensemble SurPlus members Martina Roth, Erich Wagner,
+				Christian Kemper, Stefan Haussler, violin, Thomas Avery, and Adrian Romaniuc
+				rehearsing Lukas Foss's work, Music for Six at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2276"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: ensemble SurPlus rehearsing Lukas
+				  Foss.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_021</container> 
+			 
+               <unittitle>Student composer Ashley Wang rehearsing her work Intimate
+				Rejection with pianist Eric Huebner at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2277"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Eric Huebner Ashley Wang Workshop
+				  Performance.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_022</container> 
+			 
+               <unittitle>Student composer Ashley Wang rehearsing her work, Intimate
+				Rejection with pianist Eric Huebner at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2278"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Ashley Wang Eric Huebner Workshop
+				  Performance.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_023</container> 
+			 
+               <unittitle>Violoncellist Jonathan Golove rehearsing student composer
+				Shiuan Chang's work, Warrior Dance at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2279"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Jonathan Golove cello student composer Shiuan
+				  Chang Workshop.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_024</container> 
+			 
+               <unittitle>Brad Lubman conducting the Signal Ensemble in a workshop
+				performance of student composer Peter Van Zandt Lane's work, Magana at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2280"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SIGNAL ensemble Workshop.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_025</container> 
+			 
+               <unittitle>Brad Lubman conducting the Signal Ensemble in a workshop
+				performance of student composer Peter Van Zandt Lane's work, Magana at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2281"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SIGNAL ensemble workshop=.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_026</container> 
+			 
+               <unittitle>Conductor Brad Lubman talking with student composer Emily
+				Koh during workshop performance of Koh's work, Circum perceptio with the Signal
+				Ensemble at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2282"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop with Emily Koh student
+				  composer.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_027</container> 
+			 
+               <unittitle>Conductor Brad Lubman talking with student composer Emily
+				Koh during workshop at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2283"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop Brad Lubman with Emily Koh.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_028</container> 
+			 
+               <unittitle>Brad Lubman conducting the Signal Ensemble in a workshop
+				performance of student composer Matthew Heap's work, Illicit Trysts at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2284"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop Signal ensemble.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_029</container> 
+			 
+               <unittitle>Conductor Brad Lubman with composer Matthew Heap
+				rehearsing the Signal Ensemble at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2285"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop with student composer Matthew
+				  Heap.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_030</container> 
+			 
+               <unittitle>Conductor Brad Lubman with composer Matthew Heap
+				rehearsing the Signal Ensemble at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2286"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Brad Lubman conductor with Signal ensemble
+				  and student compo.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_031</container> 
+			 
+               <unittitle>Brad Lubman conducting members of the Signal Ensemble in
+				workshop performance of student composer Matthew Heap's work, Illicit Trysts at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2287"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop Performance of JIB
+				  Participants.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_032</container> 
+			 
+               <unittitle>Conductor Brad Lubman addressing the audience at workshop
+				performance by the Signal Ensemble at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2288"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop Performance of JIB.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_033</container> 
+			 
+               <unittitle>Conductor Brad Lubman and members of the Signal Ensemble
+				taking a bow after a workshop performance at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2289"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SIGNAL Workshop Participants of JIB Brad
+				  Lubman conductor.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_034</container> 
+			 
+               <unittitle>Conductor Brad Lubman with members of the Signal Ensemble
+				after performance of student composer Emily Koh's work, circum perceptio at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2290"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop Performance of JIB Participants
+				  SIGNAL.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_035</container> 
+			 
+               <unittitle>Violoncellist Jonathan Golove during workshop performance
+of Shiuan Chang's work, Warrior Dance at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2291"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop Performance Jonathan Golove Cello
+				  playing Shiuan C.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_036</container> 
+			 
+               <unittitle>Pianist Eric Huebner performing student composer Ashley
+				Wang's work, Intimate Rejection at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2292"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Eric Huebner piano Ashley Wang Intimate
+				  Rejection Workshop P.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_037</container> 
+			 
+               <unittitle>Signal Ensemble performing Steve Reich's Sextet at June in
+Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2293"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SIGNAL SEXTET.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_038</container> 
+			 
+               <unittitle>Signal Ensemble performing Steve Reich's Sextet at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2294"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Sextet Steve Reich, SIGNAL ensemble.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_039</container> 
+			 
+               <unittitle>Signal Ensemble performing Steve Reich's Sextet at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2295"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Signal Ensemble Steve Reich SEXTET.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_040</container> 
+			 
+               <unittitle>Signal Ensemble performing Steve Reich's Sextet at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2296"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: STEVE REICH Sextet SIGNAL ensemble.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+	
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_041</container> 
+			 
+               <unittitle>Signal Ensemble performing Steve Reich's Sextet at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2297"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SIGNAL ENSEMBLE.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_042</container> 
+			 
+               <unittitle>Brad Lubman conducting the Signal Ensemble in a
+performance of Steve Reich's Double Sextet at June in Buffalo 2010. Players, from left to right are: Courtney Orlando, Lauren Radnofsky, Oliver Hagen, Bill Kalinkos, Keli Kathman, Doug Perkins, Jessica Schmitz, David Skidmore, Ken Thomson, Caitlin Sullivan, Caleb Burhans, and David Friend, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2298"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Signal ensemble STEVE REICH Double
+				  Sextet.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_043</container> 
+			 
+               <unittitle>Conductor Brad Lubman and the Signal Ensemble after a performance of Steve Reich's Double Sextet at June in Buffalo 2010. Players,
+from left to right are: Courtney Orlando, Lauren Radnofsky, Bill Kalinkos,
+Oliver Hagen, Keli Kathman, Doug Perkins, Jessica Schmitz, David Skidmore, Ken
+Thomson, Caleb Burhans, and Caitlin Sullivan, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2299"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SIGNAL Ensemble Brad Lubman conductor an
+				  evening with Steve .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_044</container> 
+			 
+               <unittitle>Conductor Brad Lubman, composer Steve Reich, and the Signal Ensemble after a performance of Reich's Double Sextet at June in Buffalo 2010. Players are, left to right, Courtney Orlando, Lauren Radnofsky, Bill Kalinkos, Oliver Friend, Keli Kathman, Doug Perkins, Jessica Schmitz, David Skidmore, Ken Thomson, Caleb Burhans, and Caitlin Sullivan, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2300"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Brad Lubman with Steve Reich Signal
+				  ensemble.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_045</container> 
+			 
+               <unittitle>Conductor Brad Lubman, composer Steve Reich, and the Signal Ensemble after a performance of Reich's Double Sextet at June in Buffalo 2010. Players, from left to right are: Courtney Orlando, Lauren Radnofsky, Bill Kalinkos, Oliver Hagen, Keli Kathman, Doug Perkins, Jessica Schmitz, David Skidmore, Caleb Burhans, Ken Thomson, and Caitlin Sullivan, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2301"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Steve Reich with Brad Lubman SIGNAL
+				  ENSEMBLE.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_046</container> 
+			 
+               <unittitle>Composer Steve Reich and conductor Brad Lubman applaud the
+members of the Signal Ensemble after a performance of Reich's Double Sextet at
+June in Buffalo 2010. From left to right after Lubman: pianist Oliver Hagen,
+percussionists Doug Perkins and David Skidmore, clarinetist Bill Kalinkos,
+pianist David Friend, flutists Jessica Schmitz and Keli Kathman, violoncellist
+Lauren Radnofsky, violinist Courtney Orlando, clarinetist Ken Thomson,
+violinist Caleb Burhans, and violoncellist Caitlin Sullivan, 
+				<unitdate type="inclusive" normal="2010-05-31" era="ce" calendar="gregorian">2010-05-31</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2302"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 124.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_047</container> 
+			 
+               <unittitle>Sven Thomas Kiebler conducting Thomas Avery and other members of Ensemble SurPlus in rehearsal of Morton Feldman's Viola in My Life II at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2303"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SurPlus rehearsal for Viola in my Life II by
+				  Morton Feldman.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_048</container> 
+			 
+               <unittitle>Composers David Felder and Steve Reich presenting a lecture at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2304"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Lecture David Felder Steve -Reich--.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_049</container> 
+			 
+               <unittitle>Composers David Felder and Steve Reich presenting a lecture at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2305"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Lecture David Felder Steve Reich--.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_050</container> 
+			 
+               <unittitle>Composers David Felder and Steve Reich presenting a lecture at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2306"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Lecture Steve Reich and David Felder
+				  composer.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_051</container> 
+			 
+               <unittitle>University at Buffalo president John B. Simpson with
+composers Steve Reich and David Felder at ceremony presenting Steve Reich with
+the SUNY Honorary Doctorate in Music in 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2307"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: President John B. Simpson Steve Reich David
+				  Felder.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_052</container> 
+			 
+               <unittitle>University at Buffalo president John B. Simpson and SUNY
+trustee Eunice Lewin placing the SUNY Honorary Doctorate in Music hood upon
+composer Steve Reich, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2308"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: President John B. Simpson Steve Reich Mrs.
+				  Eunice Lewin(Sun.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_053</container> 
+			 
+               <unittitle>University at Buffalo president John B. Simpson and SUNY trustee Eunice Lewin placing the SUNY Honorary Doctorate in Music hood upon				composer Steve Reich, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2309"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: President John B. Simpson Steve Reich
+				  Mrs.Eunice Lewin ( SUN.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_054</container> 
+			 
+               <unittitle>University at Buffalo president John B. Simpson, along
+				with SUNY trustee Eunice Lewin, conferring SUNY Honorary Doctorate in Music to
+				composer Steve Reich, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2310"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SUNY Honorary Degree Conferral and
+				  Presentation composer Dr..tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_055</container> 
+			 
+               <unittitle>Thomas Avery performing as solo violist in Morton		Feldman's Viola in My Life II at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2311"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: THOMAS Avery, viola plays Morton Feldman
+				  Viola in my life I.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_056</container> 
+			 
+               <unittitle>Ensemble SurPlus members Sven Thomas Kiebler, Martina
+Roth, Erich Wagner, and Adrian Romaniuc performing Brian Ferneyhough's work,
+Mort Subite at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2312"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: --Ensemble SurPlus.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_057</container> 
+			 
+               <unittitle>Ensemble SurPlus members Thomas Avery, Sven Thomas	Kiebler, and Beverley Ellis performing Alvin Lucier's Fideliotrio at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2313"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Alvin Lucier Fideliotrio Ensemble
+				  Surplus.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_058</container> 
+			 
+               <unittitle>Sven Thomas Kiebler conducting Ensemble SurPlus members violinist Stefan Haussler, double bassist Johannes Nied, and percussionist Adrian Romaniuc in a performance of Charles Wuorinen's Spinoff at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2314"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: -Ensemble Surplus.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_059</container> 
+			 
+               <unittitle>Sven Thomas Kiebler conducting violinist Stefan Haussler,
+				double bassist Johannes Nied, and percussionist Adrian Romaniuc in a
+				performance of Charles Wuorinen's Spinoff at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2315"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Charles Wuorinen Spinoff Violin (1983) Sven
+				  Thomas Kiebler, .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_060</container> 
+			 
+               <unittitle>Sven Thomas Kiebler conducting violinist Stefan Haussler,
+				double bassist Johannes Nied, and percussionist Adrian Romaniuc in a
+				performance of Charles Wuorinen's Spinoff at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2316"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Spinoff Violin by Charles Wuorinen Sven
+				  Thomas Kiebler,condu.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01>  
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_061</container> 
+			 
+               <unittitle>Ensemble SurPlus members Sven Thomas Kiebler and Christian
+				Kemper performing Brian Ferneyhough's work, Coloratura at June in Buffalo 2010,
+				
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2317"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Ensemble SurPlusin Coloratura (1966) by Brian
+				  Ferneyhough.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_062</container> 
+			 
+               <unittitle>Pianist Sven Thomas Kiebler and oboist Christian Kemper
+				after a performance of Brian Ferneyhough's Coloratura, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2318"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Coloratura (1966) by Brian Ferneyhough
+				  Ensemble SurPlus.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_063</container> 
+			 
+               <unittitle>Ensemble SurPlus on stage after a performance at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-01" era="ce" calendar="gregorian">2010-06-01</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2319"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Black Box Theater Ensemble SurPlus Center for
+				  the Arts.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_064</container> 
+			 
+               <unittitle>Ensemble SurPlus on stage after a performance at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2320"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SurPlus Ensemble Center for the Arts Black
+				  Box Theater.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_065</container> 
+			 
+               <unittitle>Conductor Baldur Bronnimann with student composer Diana
+				Soh at rehearsal of Soh's work, Cross-Sightedness at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2321"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: conductor Baldur Broennimann, student
+				  composer Diana Soh at .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_066</container> 
+			 
+               <unittitle>Student composers John Bacon and Gabriele Vanoni at June
+				in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2322"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: student composrs John Bacon,Gabriele Vanoni
+				  at Laboratorium.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_067</container> 
+			 
+               <unittitle>Ensemble SurPlus onstage at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2323"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: SurPlus Ensemble===.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_068</container> 
+			 
+               <unittitle>James Baker conducting the Slee Sinfonietta and violinist
+Irvine Arditti in a rehearsal of Roger Reynolds's work, Aspiration at June in
+Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2324"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 080.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_069</container> 
+			 
+               <unittitle>James Baker conducting the Slee Sinfonietta and violinist
+Irvine Arditti in a rehearsal of Roger Reynolds's work, Aspiration at June in
+Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2325"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Rehearsal for David Felder Tweener Slee
+				  Sinfonietta June in .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_070</container> 
+			 
+               <unittitle>Percussionist Jonathan Hepfer performing with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2326"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 086.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_071</container> 
+			 
+               <unittitle>Percussionist Jonathan Hepfer rehearsing with the Slee
+				Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2327"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Percussion.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_072</container> 
+			 
+               <unittitle>Violinist Irvine Arditti rehearsing Roger Reynolds's work,
+				Aspiration at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2328"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Violinist soloist Irvine Arditti rehearsing
+				  Roger Reynolds A.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_073</container> 
+			 
+               <unittitle>Violinist Irvine Arditti rehearsing Roger Reynolds's work,
+				Aspiration at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2329"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: violinist soloist Irvine Arditte at June in
+				  Buffalo rehearsi.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_074</container> 
+			 
+               <unittitle>Violinist Irvine Arditti rehearsing Roger Reynolds's work,
+				Aspiration at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2330"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: violinist soloist Irvin Arditti rehearsing
+				  Roger Reynolds As.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_075</container> 
+			 
+               <unittitle>Composer Roger Reynolds conferring with conductor James
+				Baker at rehearsal of Reynolds's work, Aspiration, with the Slee Sinfonietta at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2331"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Roger Reynolds looking at his score
+				  with conductor .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_076</container> 
+			 
+               <unittitle>Composer Roger Reynolds looking at the score of his work,
+				Aspiration, at rehearsal at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2332"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Roger Reynolds.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_077</container> 
+			 
+               <unittitle>Composer Roger Reynolds with conductor James Baker and
+				violinist Irvine Arditti at rehearsal of Reynolds's work, Aspiration, with the
+				Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2333"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Roger Reynolds speaking with
+				  violinist soloist Irvi.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_078</container> 
+			 
+               <unittitle>Composer Roger Reynolds at rehearsal of his work,
+				Aspiration with conductor James Baker, violinist Irvine Arditti, and the Slee
+				Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2334"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Roger Reynolds composer speaking to violinist
+				  soloist Irvine.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_079</container> 
+			 
+               <unittitle>Composer Roger Reynolds with conductor James Baker and
+				violinist Irvine Arditti at rehearsal of Reynolds's work, Aspiration, with the
+				Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2335"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Roger Reynolds speaking to violinist
+				  Irvine Arditti.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_080</container> 
+			 
+               <unittitle>Composer Roger Reynolds with conductor James Baker and violinist Irvine Arditti at rehearsal of Reynolds's work, Aspiration, at June in
+Buffalo 2010, 	
+<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2336"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+
+               <note>
+                  <p>Original filename: composer_Roger_Reynolds...[too long to state].tif</p> 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+	
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_081</container> 
+			 
+               <unittitle>Composer Roger Reynolds at rehearsal of his work,
+				Aspiration with conductor James Baker, violinist Irvine Arditti, and the Slee
+				Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2337"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Roger Reynolds with violinist soloist Irvine
+				  Arditti and com.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_082</container> 
+			 
+               <unittitle>Percussionist Tom Kolor rehearsing David Felder's work,
+				Tweener at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2338"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Tom Kolor percussion soloist in David Felder
+				  Tweener June in.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_083</container> 
+			 
+               <unittitle>Percussionist Tom Kolor rehearsing David Felder's work,
+				Tweener at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2339"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: percussion soloist Tom Kolor in David Felder
+				  Tweener June in.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_084</container> 
+			 
+               <unittitle>Composer Olivier Pasquet at computer at June in Buffalo
+				2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2340"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Olivier Pasquet in June in Buffalo
+				  at Lippes Concer.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_085</container> 
+			 
+               <unittitle>Composer Olivier Pasquet's computers before performance at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2341"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Olivier Pasquet's computer.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_086</container> 
+			 
+               <unittitle>James Baker conducting percussionist Tom Kolor and the
+				Slee Sinfonietta in a performance of David Felder's work, Tweener at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2342"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo James Baker conducting Slee
+				  Sinfonietta at L.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_087</container> 
+			 
+               <unittitle>Composer David Felder shaking hands with conductor James
+				Baker after a performance of Felder's Tweener by percussionist Tom Kolor and
+				the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2343"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer David Felder shaking hands with
+				  conducter James Bak.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_088</container> 
+			 
+               <unittitle>David Felder on stage with Slee Sinfonietta after
+				performance of his composition, Tweener, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2344"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: after David Felder performance of Tweener
+				  with conductor Jam.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_089</container> 
+			 
+               <unittitle>Violinist Irvine Arditti taking a bow onstage with
+				conductor James Baker, composer Roger Reynolds (mostly hidden), and the Slee
+				Sinfonietta after a performance of Reynolds's work, Aspiration at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-02" era="ce" calendar="gregorian">2010-06-02</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2345"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: violinist soloist Irvine Arditti taking a bow
+				  after performi.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_090</container> 
+			 
+               <unittitle>Student composer Daniel Bassin speaking with Lucas Fels,
+				violoncellist with the Arditti Quartet at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2346"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: student composer Daniel Bassin Lucas Fels,
+				  cello at Arditti.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_091</container> 
+			 
+               <unittitle>Student composer Daniel Bassin speaking with violinist
+				Irvine Arditti at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2347"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: student composer Daniel Bassin speaking to
+				  Irvin Arditti, v.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_092</container> 
+			 
+               <unittitle>Composer David Felder speaking with members of the Arditti
+				Quartet during a workshop performance of Daniel Bassin's Typographies II at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2348"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Dr. David Felder speaking to Arditti
+				  Quartet at Wor.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_093</container> 
+			 
+               <unittitle>Composer David Felder applauding the Arditti Quartet at
+				workshop performance at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2349"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 040.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_094</container> 
+			 
+               <unittitle>Composer David Felder applauding the Arditti Quartet at
+				workshop performance at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2350"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 043.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_095</container> 
+			 
+               <unittitle>Arditti String Quartet in workshop performance at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2351"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Arditti Workshop June in Buffalo Irvin
+				  Arditti, violin Ashot.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_096</container> 
+			 
+               <unittitle>Arditti String Quartet in workshop performance of student
+				composer Daniel Bassin's work, Typographies II at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2352"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop Arditti Quartet at Workshop June in
+				  Buffalo Baird H.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_097</container> 
+			 
+               <unittitle>Arditti String Quartet in workshop performance of student
+				composer Daniel Bassin's Typographies II at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2353"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 011.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_098</container> 
+			 
+               <unittitle>Arditti String Quartet in workshop performance of student
+				composer Daniel Bassin's work, Typographies II at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2354"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop with student composers Arditti
+				  Quartet at June in B.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_099</container> 
+			 
+               <unittitle>Arditti String Quartet in workshop performance of student
+				composer Daniel Bassin's Typographies II at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2355"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 015.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_100</container> 
+			 
+               <unittitle>Student composer Daniel Bassin speaking with Ashot
+				Sarkissjan, violinist with the Arditti Quartet at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2356"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: student composer Daniel Bassin speaking to
+				  Ralf Ehlers, viol.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_101</container> 
+			 
+               <unittitle>Student composers Chun Ting Pang, Daniel Bassin, and Carl
+				Christian Bettendorf at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2357"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 student composers Daniel
+				  Bassin, Carl C.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_102</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas, conductor Brad Lubman, and
+				violinist Yuki Numata at rehearsal of Thomas's work, Carillon Sky, with the
+				Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2358"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 041.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_103</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas, conductor Brad Lubman, and
+				violinist Yuki Numata at rehearsal of Thomas's work, Carillon Sky, with the
+				Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2359"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 048.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_104</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas, conductor Brad Lubman, and
+				violinist Yuki Numata at rehearsal of Thomas's work, Carillon Sky, with the
+				Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2360"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 066.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_105</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas at rehearsal of her work,
+				Carillon Sky, with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2361"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 076.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_106</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas at rehearsal of her work,
+				Carillon Sky, with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2362"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 083.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_107</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas at rehearsal of her work,
+				Carillon Sky, with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2363"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 083====.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_108</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas at rehearsal of her work,
+				Carillon Sky, with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2364"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 084.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_109</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas at rehearsal of her work,
+				Carillon Sky, with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2365"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 084===.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_110</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas at rehearsal of her work,
+				Carillon Sky, with the Slee Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2366"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 088.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_111</container> 
+			 
+               <unittitle>Conductor Brad Lubman and violinist Yuki Numata at
+				rehearsal of Augusta Read Thomas's work, Carillon Sky, with the Slee
+				Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2367"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 089.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_112</container> 
+			 
+               <unittitle>Composer Olivier Pasquet during lecture presentation at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2368"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Olivier Pasquet looking at his rythem
+				  dots.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_113</container> 
+			 
+               <unittitle>Composer Olivier Pasquet during lecture presentation at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2369"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Olivier Pasquet reading his score.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_114</container> 
+			 
+               <unittitle>Composer Olivier Pasquet during lecture presentation at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2370"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: -Oliver Pasquet.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_115</container> 
+			 
+               <unittitle>Composer Olivier Pasquet during lecture presentation at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-03" era="ce" calendar="gregorian">2010-06-03</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2371"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Oliver Pasquet looking at his rhythm
+				  dots=.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_116</container> 
+			 
+               <unittitle>Conductor Brad Lubman conferring with composer Bernard
+				Rands at rehearsal of Rands's work, Now again -- fragments from Sappho, at June
+				in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2372"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 008.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_117</container> 
+			 
+               <unittitle>Composer Olivier Pasquet talking with student composers
+				Daniel Bassin, Jordan Kuspa, Mischa Salkind-Pearl, and Ashley Wang at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2373"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: student composers Daniel Bassin, Jordan
+				  Kuspa, Misha Salkind.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_118</container> 
+			 
+               <unittitle>Composer Olivier Pasquet during workshop at June in
+				Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2374"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Workshop with Olivier Pasquet.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_119</container> 
+			 
+               <unittitle>Composer Bernard Rands with conductor Brad Lubman and
+				mezzo-soprano Julia Bentley at rehearsal with Slee Sinfonietta of Rands's work,
+				Now again -- fragments from Sappho at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2375"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 028.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_120</container> 
+			 
+               <unittitle>Mezzo-soprano Julia Bentley and conductor Brad Lubman
+				examining score of Bernard Rands's work, Now again -- fragments from Sappho at
+				June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2376"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 030.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_121</container> 
+			 
+               <unittitle>Composer Harvey Sollberger performing his work, New
+				Millennium Memo at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2377"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Harvey Sollenberger playing his New
+				  Mellwnnium Memo at the A.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_122</container> 
+			 
+               <unittitle>Brad Lubman conducting violinist Yuki Numata and the Slee
+				Sinfonietta in performance of Augusta Read Thomas's work, Carillon Sky at June
+				in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2378"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: violin soloist Yuky Numata playing Augusta
+				  Read Thomas Caril.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_123</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas, violin soloist Yuki Numata,
+				conductor Brad Lubman, and the Slee Sinfonietta after a performance of Thomas's
+				Carillon Sky at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2379"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Augusta Read Thomas with violin
+				  soloist Yuki Namuta.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_124</container> 
+			 
+               <unittitle>Composer Augusta Read Thomas, violin soloist Yuki Numata,
+				conductor Brad Lubman, and the Slee Sinfonietta after a performance of Thomas's
+				Carillon Sky at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2380"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 014.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_125</container> 
+			 
+               <unittitle>Composer David Felder with brass quintet on stage after
+				performance of Felder's Canzonne XXXI at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2381"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Dr.David Felder and brass
+				  ensemble.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_126</container> 
+			 
+               <unittitle>Brass quintet of Adam Unsworth, Benjamin Herrington, Jim
+				Daniels, Tim Leopold, and Jon Nelson performing David Felder's work, Canzonne
+				XXXI at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2382"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: playing composer David Felder
+				  CANZONNE.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_127</container> 
+			 
+               <unittitle>Composer David Felder applauding performers after a
+				performance of his Canzonne XXXI at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2383"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer David Felder applauding brass
+				  ensemble.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_128</container> 
+			 
+               <unittitle>Mezzo-soprano Julia Bentley performing Bernard Rands's
+				work, Now again -- fragments from Sappho with Brad Lubman conducting the Slee
+				Sinfonietta at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2384"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Julia Bentley, mezzo soprano performing Now
+				  again-fragments .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_129</container> 
+			 
+               <unittitle>Composer Bernard Rands with mezzo-soprano Julia Bentley,
+				conductor Brad Lubman, and members of the Slee Sinfonietta after a performance
+				of Rands's Now again -- fragments from Sappho at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2385"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: composer Bernard Rands, mezzo soprano Julia
+				  Bentley and cond.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_130</container> 
+			 
+               <unittitle>Composer Bernard Rands onstage with mezzo-soprano Julia
+				Bentley, conductor Brad Lubman, and the Slee Sinfonietta after a performance of
+				Rands's work, Now again -- fragments from Sappho at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-04" era="ce" calendar="gregorian">2010-06-04</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2386"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: mezzo soprano Julia Bentley , composer
+				  Bernard Rands, Brad L.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_131</container> 
+			 
+               <unittitle>Student composers Felipe Ribeiro, John Bacon, and Ethan
+				Hayden testing sounds at the piano at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-05" era="ce" calendar="gregorian">2010-06-05</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2387"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: June in Buffalo 2010 051.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_132</container> 
+			 
+               <unittitle>Student composers Ashley Wang, Huck Hodge, and others in
+				workshop at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-05" era="ce" calendar="gregorian">2010-06-05</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2388"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Student Forum with student composer Ashely
+				  Wang, Huck Hodge .tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_133</container> 
+			 
+               <unittitle>Conductor JoAnn Falletta rehearsing with the Buffalo
+				Philharmonic Orchestra at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-06" era="ce" calendar="gregorian">2010-06-06</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2389"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Buffalo Philharmonic June In Buffalo June 6
+				  005.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+		
+         <c01 level="item"> 
+		  
+            <did> 
+			 
+               <container type="image-file">JIB2010_134</container> 
+			 
+               <unittitle>Conductor JoAnn Falletta rehearsing with the Buffalo
+				Philharmonic Orchestra at June in Buffalo 2010, 
+				<unitdate type="inclusive" normal="2010-06-06" era="ce" calendar="gregorian">2010-06-06</unitdate> 
+               </unittitle> 
+			 <!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,2390"actuate="onrequest"show="new"> --> 
+			 
+               <physdesc> 
+                  <extent>1 digital image (tiff format)</extent> 
+               </physdesc>
+			 
+			 
+               <note> 
+				
+                  <p>Original filename: Buffalo Philharmonic June In Buffalo June 6
+				  008.tif</p> 
+			 
+               </note> 
+		  
+            </did> 
+		
+         </c01> 
+	 
+      </dsc> 
+	 
+      <controlaccess> 
+		
+         <head>Search Terms</head> 
+		
+         <note> 
+		  
+            <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		
+         </note> 
+		
+         <controlaccess> 
+		  
+            <head>Subjects</head> 
+		  
+            <corpname source="lcnaf" encodinganalog="611">June in Buffalo (Festival) (Buffalo, N.Y.)--Photographs</corpname> 
+		  
+            <subject source="lcsh" encodinganalog="650">Composers--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Music festivals--New York (State)--Buffalo--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+		
+         </controlaccess> 
+		
+         <controlaccess> 
+		  
+            <head>Genres</head> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Digital photographs</genreform> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Portrait photographs</genreform> 
+		
+         </controlaccess> 
+	 
+      </controlaccess> 
+	 
+      <descgrp type="add"> 
+		
+         <head>Associated Material</head> 
+		
+         <relatedmaterial encodinganalog="544 1"> 
+		  
+            <head>Related Resources</head> 
+		  
+            <relatedmaterial> 
+			 
+               <head>Related Resources in the Music Library</head> 
+			 
+               <list type="deflist"> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0018.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2000 </archref> Mus. Arc. 18 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2000 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0019.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2001 </archref> Mus. Arc. 19</label> 
+				  
+                     <item>Finding aid for collection of photographs for 2001 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0020.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2002 </archref> Mus. Arc. 20</label> 
+				  
+                     <item>Finding aid for collection of photographs for 2002 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0021.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2003 </archref> Mus. Arc. 21 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2003 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0025.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2004 </archref> Mus. Arc. 25 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2004 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2005 </archref> Mus. Arc. 27 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2005 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2006 </archref> Mus. Arc. 29 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2006 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0038.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2007 </archref> Mus. Arc. 38 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2007 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0039.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2008</archref> Mus. Arc. 39 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2008 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0050.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2009</archref> Mus. Arc. 50 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2009 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0056.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2011 </archref> Mus. Arc. 56 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2011 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0060.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2012</archref> Mus. Arc. 60 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2012 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0066.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2013 </archref> Mus. Arc. 66 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2013 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0067.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2014 </archref> Mus. Arc. 67 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2014 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" role="text/html" linktype="simple">June in Buffalo Photograph
+						Collection</archref>
+                     </label> 
+				  
+                     <item>A selection of images from the June in Buffalo festivals is available through University at Buffalo Libraries Digital Collections.</item> 
+				
+                  </defitem> 
+
+			 
+               </list> 
+		  
+            </relatedmaterial> 
+		
+         </relatedmaterial> 
+	 
+      </descgrp> 
+  
+   </archdesc> 
+
+</ead>

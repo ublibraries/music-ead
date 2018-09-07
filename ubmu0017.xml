@@ -1,0 +1,4406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  
+   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 
+      <eadid countrycode="US" mainagencycode="NBuU-Mu" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 17::Irene Haupt Photographs of Musicians in Buffalo)//EN" encodinganalog="identifier">ubmu0017</eadid> 
+	 
+      <filedesc> 
+		
+         <titlestmt> 
+		  
+            <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
+			 Photographs of Musicians in Buffalo, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1978/1999">circa 1978-1999</date> 
+            </titleproper> 
+		  
+            <titleproper type="filing" altrender="nodisplay"> Haupt (Irene)
+			 Photographs of Musicians in Buffalo</titleproper> 
+		  
+            <author encodinganalog="contributor">Finding aid written by John
+			 Bewley.</author> 
+		
+         </titlestmt>
+		
+         <publicationstmt> 
+		  
+            <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  
+            <address> 
+			 
+               <addressline>112 Baird Hall</addressline> 
+			 
+               <addressline>Buffalo, New York 14260-4750</addressline> 
+			 
+               <addressline>United States</addressline> 
+			 
+               <addressline>Phone: 716 645-2924</addressline> 
+			 
+               <addressline>Fax: 716 645-3906</addressline> 
+			 
+               <addressline>Email:<emph render="bold"> 
+				
+                     <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html" linktype="simple">musique@buffalo.edu</extref>
+                  </emph>
+               </addressline> 
+			 
+               <addressline>URL:<emph render="bold"> 
+				
+                     <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html" linktype="simple">http://library.buffalo.edu/music/</extref>
+                  </emph>
+				
+               </addressline> 
+		  
+            </address> 
+		  
+            <p>© 
+			 <date encodinganalog="date" type="publication" era="ce" calendar="gregorian">2005</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		
+         </publicationstmt> 
+	 
+      </filedesc> 
+	 
+      <profiledesc> 
+		
+         <creation>Finding aid encoded in HTML by John Bewley, 2005; encoded in
+		  EAD by John Bewley, July 2007.</creation> 
+		
+         <langusage>Finding aid is in
+		  <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage> 
+		
+         <descrules>Finding aid prepared using DACS ( 
+		  <title render="italic" linktype="simple">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 
+      </profiledesc> 
+  
+   </eadheader> 
+  
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 
+      <did> 
+		
+         <head>Collection Overview</head> 
+		
+         <unittitle label="Title" encodinganalog="245$a"> Irene Haupt Photographs
+		  of Musicians in Buffalo, 
+		  <unitdate encodinganalog="245$f" normal="1978/1999" type="inclusive" datechar="creation" certainty="approximate" era="ce" calendar="gregorian">circa
+			 1978-1999</unitdate>
+         </unittitle> 
+		
+         <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 17</unitid> 
+		
+         <origination label="Creator"> 
+		  
+            <persname encodinganalog="100" role="creator" source="lcnaf"> Haupt,
+			 Irene </persname> 
+         </origination> 
+		
+         <physdesc label="Extent"> 
+            <extent unit="box" encodinganalog="300$a">2
+		  boxes</extent> 
+            <extent encodinganalog="300$a" unit="photograph">(193
+		  photographs)</extent> 
+         </physdesc> 
+		
+         <langmaterial label="Language of Material" encodinganalog="546">No
+		  textual content in the collection.</langmaterial> 
+		
+         <repository label="Repository" encodinganalog="852"> 
+		  
+            <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea>
+            </corpname> 
+         </repository> 
+		
+         <abstract label="Abstract" encodinganalog="520$a">The Irene Haupt
+		  Photographs of Musicians in Buffalo contains images of composers and performers
+		  who have participated in new music events at the University at Buffalo ca.
+		  1978-1999. Composers represented in the collection include Larry Austin, Milton
+		  Babbitt, Henry Brant, John Cage, Elliott Carter, Aaron Copland, Jacob Druckman,
+		  David Felder, Morton Feldman, Lejaren Hiller, Lukas Foss, Ernst Krenek, Otto
+		  Luening, Conlon Nancarrow, Pauline Oliveros, Bernard Rands, Steve Reich, Poul
+		  Ruders, Frederic Rzewski, Ralph Shapey, Leo Smit, Virgil Thomason, Nils
+		  Vigeland, and Charles Wuorinen. Notable performers include Ursula Oppens, Yvar
+		  Mikhashoff, Frances-Marie Uitti, Jan Williams, Diamanda Galas, Miles Anderson,
+		  Leroy Jenkins, Malcolm Goldstein, and Carol Plantamura. </abstract> 
+	 
+      </did> 
+	 
+      <descgrp type="admininfo"> 
+		
+         <head>Administrative Information</head>  
+		
+         <prefercite encodinganalog="524"> 
+		  
+            <head>Preferred Citation</head> 
+		  
+            <p>[Specified item], Irene Haupt Photographs of Musicians in Buffalo,
+			 circa 1978-1999, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		
+         </prefercite> 
+		
+         <accessrestrict encodinganalog="506"> 
+		  
+            <head>Terms of Access</head> 
+		  
+            <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		
+         </accessrestrict> 
+		
+         <userestrict encodinganalog="540"> 
+		  
+            <head>Copyright</head> 
+		  
+            <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		
+         </userestrict> 
+	  
+		
+         <acqinfo encodinganalog="541"> 
+		  
+            <head>Acquisition Information</head> 
+		  
+            <p> Items purchased by the Music Library or given to the Music Library
+			 by various agencies. </p> 
+		
+         </acqinfo> 
+		
+         <accruals encodinganalog="584"> 
+		  
+            <head>Accruals and Additions</head> 
+		  
+            <p>No further accruals are expected to this collection. </p> 
+		
+         </accruals> 
+<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>Entire collection digitized and available in 
+			 <extref
+			  href="http://digital.lib.buffalo.edu/collection/LIB-MUS008/"
+			  show="replace" actuate="onrequest" role="text/html">UB Libraries Digital Collections</extref>.</p> 
+		</altformavail> 
+		
+         <processinfo encodinganalog="583"> 
+		  
+            <head>Processing Information</head> 
+		  
+            <p>Processed by John Bewley.</p> 
+		
+         </processinfo> 
+	 
+      </descgrp> 
+	 
+      <bioghist encodinganalog="545"> 
+		
+         <head>Biographical Note</head> 
+		
+         <p>Irene Haupt, a graduate of the State University of New York at
+		  Buffalo, has been documenting the Buffalo arts scene through her photography
+		  since 1976. During that time she has worked for, or with, some of the most
+		  notable institutions in Buffalo, including the Irish Classical Theatre, Studio
+		  Arena Theater, the Kavinoky Theatre, the Buffalo Philharmonic Orchestra, the
+		  Theatre of Youth, the Albright-Knox Art Gallery, and the State University of
+		  New York at Buffalo. In addition to her specialty of theater photography, Irene
+		  Haupt has also devoted much of her career to the photography of musicians and
+		  musical events. Most notable is her documentation of the contemporary music
+		  scene in Buffalo, including coverage of the University at Buffalo's June in
+		  Buffalo festival of new music, 1982-1987, and 2005 to the present. Over the
+		  course of those years, she has created a visual record that contains images of
+		  some of the most significant composers and performers of the last quarter
+		  century. The list of names is impressive: Aaron Copland, Morton Feldman, Leo
+		  Smit, Virgil Thomson, Steve Reich, Ralph Shapey, Henry Brant, Earle Brown,
+		  Ursula Oppens, Jan Williams, Lukas Foss, Philip Glass, Otto Luening, Conlon
+		  Nancarrow, Ernst Krenek, Larry Austin, Lejaren Hiller, Elliott Carter, Milton
+		  Babbitt, John Cage, Charles Wuorinen, Jacob Druckman, and Yvar Mikhashoff,
+		  among others. </p> 
+	 
+      </bioghist> 
+	 
+      <scopecontent encodinganalog="520"> 
+		
+         <head>Scope and Content Note</head> 
+		
+         <p>The collection of Irene Haupt Photographs of Musicians in Buffalo
+		  contains 193 photographs. The collection was compiled from photographs
+		  purchased from Irene Haupt as well as photographs that were donated to the
+		  Music Library by various musicians or institutions. The composers and
+		  performers represented in the collection are contemporary musicians of the last
+		  quarter of the 20th century. The list of composers includes Larry Austin,
+		  Milton Babbitt, Henry Brant, John Cage, Elliott Carter, Aaron Copland, Jacob
+		  Druckman, David Felder, Morton Feldman, Lejaren Hiller, Lukas Foss, Ernst
+		  Krenek, Otto Luening, Conlon Nancarrow, Pailine Oliveros, Steve Reich, Poul
+		  Ruders, Ralph Shapey, Leo Smit, Virgil Thomason, Nils Vigeland, and Charles
+		  Wuorinen. The performers include Ursula Oppens, Yvar Mikhashoff, Frances-Marie
+		  Uitti, Jan Williams, Diamanda Galas, Miles Anderson, Leroy Jenkins, Malcolm
+		  Goldstein, and Carol Plantamura. </p> 
+	 
+      </scopecontent> 
+	 
+      <arrangement encodinganalog="351"> 
+		
+         <head>Arrangement</head> 
+		
+         <p>One sequence of images in alphabetical order by principal subject of
+		  the image.</p> 
+	 
+      </arrangement> 
+	 
+      <dsc type="in-depth"> 
+		
+         <head>Container List</head> 
+		
+         <c01 level="file"> 
+		  
+            <did> 
+			 
+               <unitid id="series1">I.</unitid> 
+			 
+               <unittitle>Photographs, 
+				<unitdate type="inclusive" normal="1978/1999" certainty="approximate" era="ce" calendar="gregorian">circa 1978-1999</unitdate> 
+               </unittitle> 
+		  
+            </did> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-001</container> 
+				
+                  <unittitle>Miles Anderson, trombonist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,64"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-002</container> 
+				
+                  <unittitle>Larry Austin, composer standing behind large
+				  bell</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,139"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-003</container> 
+				
+                  <unittitle>Larry Austin, composer standing behind Jan
+				  Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,57"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-004</container> 
+				
+                  <unittitle>Larry Austin, composer standing behind Jan
+				  Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,96"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-005</container> 
+				
+                  <unittitle>Larry Austin, composer with Joel Chadabe and Charles
+				  Dodge</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,169"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-006</container> 
+				
+                  <unittitle>Larry Austin, composer with Joel Chadabe and Charles
+				  Dodge</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,11"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-007</container> 
+				
+                  <unittitle>Milton Babbitt, composer talking to Lejaren
+				  Hiller</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,84"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-008</container> 
+				
+                  <unittitle>Milton Babbitt, composer with Lejaren Hiller</unittitle>
+				
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,171"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-009</container> 
+				
+                  <unittitle>Milton Babbitt, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,47"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-010</container> 
+				
+                  <unittitle>Baird Piano Trio, ensemble in private home with Nils
+				  Vigeland</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,120"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-011</container> 
+				
+                  <unittitle>Baird Piano Trio, ensemble</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,39"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-012</container> 
+				
+                  <unittitle>John Bergamo, percussionist seated on floor, playing
+				  drums</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,82"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-013</container> 
+				
+                  <unittitle>John Bergamo, percussionist with Jan Williams, Timothy
+				  Moon (left), and Thomas Nanni (right)</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,156"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-014</container> 
+				
+                  <unittitle>Henry Brant, composer sitting at desk</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,8"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-015</container> 
+				
+                  <unittitle>Henry Brant, composer at chalkboard</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,85"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-016</container> 
+				
+                  <unittitle>Henry Brant, composer at organ</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,151"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-017</container> 
+				
+                  <unittitle>Colin Bright, composer seated, playing
+				  didjeridoo</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,15"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-018</container> 
+				
+                  <unittitle>John Cage, composer laughing</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,99"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-019</container> 
+				
+                  <unittitle>John Cage, composer having a drink with Morton
+				  Feldman</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,174"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-020</container> 
+				
+                  <unittitle>John Cage, composer having a drink with Morton
+				  Feldman</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,37"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-021</container> 
+				
+                  <unittitle>John Cage, composer with Lejaren Hiller and Morton
+				  Feldman</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,121"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-022</container> 
+				
+                  <unittitle>John Cage, composer with Joseph Celli</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,34"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-023</container> 
+				
+                  <unittitle>John Cage, composer preparing piano with Yvar Mikhashoff
+				  and Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,46"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-024</container> 
+				
+                  <unittitle>John Cage, composer preparing piano with Yvar Mikhashoff
+				  and Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,115"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-025</container> 
+				
+                  <unittitle>John Cage, composer preparing piano with Yvar Mikhashoff
+				  and Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,179"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-026</container> 
+				
+                  <unittitle>John Cage, composer speaking into microphone</unittitle>
+				
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,42"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-027</container> 
+				
+                  <unittitle>John Cage, composer with David Felder, JÃ¡nos NÃ©gyÃ©sy,
+				  and Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,130"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-028</container> 
+				
+                  <unittitle>John Cage, composer with David Felder, JÃ¡nos NÃ©gyÃ©sy,
+				  and Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,63"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-029</container> 
+				
+                  <unittitle>Elliott Carter, composer sitting at desk,
+				  close-up</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,53"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-030</container> 
+				
+                  <unittitle>Elliott Carter, composer sitting at desk,
+				  lecturing</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,116"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-031</container> 
+				
+                  <unittitle>Elliott Carter, composer at chalkboard,
+				  lecturing</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,185"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-032</container> 
+				
+                  <unittitle>Elliott Carter, composer looking at score</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,48"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-033</container> 
+				
+                  <unittitle>Elliott Carter, composer at piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,126"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-034</container> 
+				
+                  <unittitle>Joseph Celli, oboist with oboe and english horn in front
+				  of him</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,22"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-035</container> 
+				
+                  <unittitle>Frank Cipolla, conductor with Steven B. Sample, William
+				  Ortiz, and Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,86"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-036</container> 
+				
+                  <unittitle>Frank Cipolla, conductor with musicians, standing behind
+				  percussion instruments</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,167"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-037</container> 
+				
+                  <unittitle>Frank Cipolla, conductor conducting wind ensemble in
+				  performance</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,12"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-038</container> 
+				
+                  <unittitle>Aaron Copland, composer lecturing in June in Buffalo
+				  seminar, composers' workshop</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,90"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-039</container> 
+				
+                  <unittitle>Aaron Copland, composer lecturing in June in Buffalo
+				  seminar, composers' workshop</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,158"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-040</container> 
+				
+                  <unittitle>Aaron Copland, composer lecturing in June in Buffalo
+				  seminar, composers' workshop</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,17"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-041</container> 
+				
+                  <unittitle>Aaron Copland, composer in tuxedo, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,103"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-042</container> 
+				
+                  <unittitle>Aaron Copland, composer in tuxedo</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,172"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-043</container> 
+				
+                  <unittitle>Aaron Copland, composer adjusting bow-tie</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,32"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-044</container> 
+				
+                  <unittitle>Anthony De Mare, pianist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,95"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-045</container> 
+				
+                  <unittitle>Jacob Druckman, composer with Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,161"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-046</container> 
+				
+                  <unittitle>Jacob Druckman, composer with Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,23"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-047</container> 
+				
+                  <unittitle>Jacob Druckman, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,108"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-048</container> 
+				
+                  <unittitle>Jacob Druckman, composer conducting Buffalo Philharmonic
+				  Orchestra</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,162"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-049</container> 
+				
+                  <unittitle>Jacob Druckman, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,5"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-050</container> 
+				
+                  <unittitle>Jacob Druckman, composer conducting (ensemble not
+				  visible)</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,79"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-051</container> 
+				
+                  <unittitle>David Felder, composer with Craig Bove and Bernard
+				  Rands</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,155"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-052</container> 
+				
+                  <unittitle>David Felder, composer with Yvar Mikhashoff and
+				  unidentified musician</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,2"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-053</container> 
+				
+                  <unittitle>Morton Feldman, composer with Bunita Marcus and
+				  unidentified person</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,80"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-054</container> 
+				
+                  <unittitle>Morton Feldman, composer with RenÃ©e Levine</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,150"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-055</container> 
+				
+                  <unittitle>Morton Feldman, composer with RenÃ©e Levine, facing each
+				  other</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,25"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-056</container> 
+				
+                  <unittitle>Morton Feldman, composer having drink with John
+				  Cage</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,94"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-057</container> 
+				
+                  <unittitle>Morton Feldman, composer at piano, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,157"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-058</container> 
+				
+                  <unittitle>Morton Feldman, composer at piano, looking
+				  down</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,9"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-059</container> 
+				
+                  <unittitle>Morton Feldman, composer at piano, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,87"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-060</container> 
+				
+                  <unittitle>Morton Feldman, composer in plaid suit</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,160"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-061</container> 
+				
+                  <unittitle>Morton Feldman, composer in plaid suit</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,21"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-062</container> 
+				
+                  <unittitle>Morton Feldman, composer examining rug</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,111"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-063</container> 
+				
+                  <unittitle>Morton Feldman, composer examining rug</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,189"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-064</container> 
+				
+                  <unittitle>Morton Feldman, composer with cat</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,67"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-065</container> 
+				
+                  <unittitle>Morton Feldman, composer with cat</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,144"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-066</container> 
+				
+                  <unittitle>Morton Feldman, composer with cat</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,106"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-067</container> 
+				
+                  <unittitle>Morton Feldman, composer with cat</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,78"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-068</container> 
+				
+                  <unittitle>Morton Feldman, composer with cat</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,180"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-069</container> 
+				
+                  <unittitle>Morton Feldman, composer with composer Terry
+				  Riley</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,59"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-070</container> 
+				
+                  <unittitle>Lukas Foss, composer with Monte Hoffman, Yvar Mikhashoff
+				  and Charles Haupt</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,119"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-071</container> 
+				
+                  <unittitle>Lukas Foss, composer with Bernard Rands</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,187"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-072</container> 
+				
+                  <unittitle>Lukas Foss, composer with Bernard Rands</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,45"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-073</container> 
+				
+                  <unittitle>Lukas Foss, composer with Bernard Rands</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,127"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-074</container> 
+				
+                  <unittitle>Lukas Foss, composer, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,20"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-075</container> 
+				
+                  <unittitle>Lukas Foss, composer in rehearsal</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,110"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-076</container> 
+				
+                  <unittitle>Lukas Foss, composer in rehearsal</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,176"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-077</container> 
+				
+                  <unittitle>Lukas Foss, composer with Yvar Mikhashoff</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,18"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-078</container> 
+				
+                  <unittitle>Lukas Foss, composer, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,91"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-079</container> 
+				
+                  <unittitle>Lukas Foss, composer with Nils Vigeland and David
+				  Felder</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,153"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-080</container> 
+				
+                  <unittitle>Lukas Foss, composer with Nils Vigeland and David
+				  Felder</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,26"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-081</container> 
+				
+                  <unittitle>Jean Charles FranÃ§ois, composer with Carol
+				  Plantamura</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,112"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-082</container> 
+				
+                  <unittitle>Jean Charles FranÃ§ois, composer with Carol Plantamura
+				  and Frederic Rzewski on stage</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,184"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-083</container> 
+				
+                  <unittitle>Jean Charles FranÃ§ois, composer with Carol Plantamura
+				  on stage</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,51"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-084</container> 
+				
+                  <unittitle>Diamanda Galas, vocalist holding two
+				  microphones</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,129"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-085</container> 
+				
+                  <unittitle>Diamanda Galas, vocalist crouching</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,181"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-086</container> 
+				
+                  <unittitle>Philip Glass, composer at piano accompanying Jon Gibson,
+				  soprano saxophone</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,28"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-087</container> 
+				
+                  <unittitle>Philip Glass, composer at piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,101"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-088</container> 
+				
+                  <unittitle>Philip Glass, composer at piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,173"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">1</container> 
+				
+                  <container type="item">H01-089</container> 
+				
+                  <unittitle>Malcolm Goldstein, violinist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,6"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-001</container> 
+				
+                  <unittitle>Irene Haupt, photographer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,89"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 color photograph,</extent> 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-002</container> 
+				
+                  <unittitle>Irene Haupt, photographer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,163"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-003</container> 
+				
+                  <unittitle>Lejaren Hiller, composer with Barry Truax</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,19"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-004</container> 
+				
+                  <unittitle>Lejaren Hiller, composer with Elizabeth
+				  Hiller</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,109"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-005</container> 
+				
+                  <unittitle>Lejaren Hiller, composer with Elizabeth Hiller,
+				  kissing</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,183"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-006</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,49"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-007</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,132"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-008</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,188"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-009</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,35"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-010</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,107"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-011</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,178"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-012</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,41"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-013</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,122"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-014</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,4"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-015</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,65"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-016</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,123"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-017</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,191"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-018</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,58"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-019</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,140"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-020</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,125"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-021</container> 
+				
+                  <unittitle>"HPSCHD" by John Cage and Lejaren Hiller performed at
+				  the Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,81"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-022</container> 
+				
+                  <unittitle>Paul Jacobs, pianist at keyboard</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,164"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-023</container> 
+				
+                  <unittitle>Paul Jacobs, pianist at keyboard</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,3"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-024</container> 
+				
+                  <unittitle>Leroy Jenkins, violinist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,77"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-025</container> 
+				
+                  <unittitle>Chris Kenner, horn player</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,142"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-026</container> 
+				
+                  <unittitle>Ernst Krenek, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,175"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-027</container> 
+				
+                  <unittitle>Hugh Levick, composer in front of television</unittitle>
+				
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,83"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-028</container> 
+				
+                  <unittitle>Jesse Levine, conductor</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,159"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-029</container> 
+				
+                  <unittitle>Jesse Levine, violist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,16"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-030</container> 
+				
+                  <unittitle>Jesse Levine, violist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,102"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-031</container> 
+				
+                  <unittitle>Otto Luening, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,168"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-032</container> 
+				
+                  <unittitle>Otto Luening, composer at piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,31"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-033</container> 
+				
+                  <unittitle>Otto Luening, composer with Yvar Mikhashoff</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,114"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-034</container> 
+				
+                  <unittitle>Otto Luening, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,165"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-035</container> 
+				
+                  <unittitle>Michael McCandless, composer with other
+				  musicians</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,10"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-036</container> 
+				
+                  <unittitle>Chester L. Mais, composer standing near
+				  mirror</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,92"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-037</container> 
+				
+                  <unittitle>Yvar Mikhashoff, pianist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,166"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-038</container> 
+				
+                  <unittitle>Yvar Mikhashoff, pianist</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,29"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-039</container> 
+				
+                  <unittitle>Yvar Mikhashoff, pianist in empty hall</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,113"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-040</container> 
+				
+                  <unittitle>Yvar Mikhashoff, pianist in empty hall</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,186"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-041</container> 
+				
+                  <unittitle>Yvar Mikhashoff, pianist in empty hall</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,54"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-042</container> 
+				
+                  <unittitle>Yvar Mikhashoff , harpsichordist with Frances-Marie
+				  Uitti</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,137"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-043</container> 
+				
+                  <unittitle>Carman Moore, composer conducting rehearsal</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,88"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-044</container> 
+				
+                  <unittitle>Carman Moore, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,72"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-045</container> 
+				
+                  <unittitle>Carman Moore, composer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,147"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-046</container> 
+				
+                  <unittitle>David Moss, composer leaning against bass
+				  drum</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,93"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-047</container> 
+				
+                  <unittitle>Conlon Nancarrow, composer at piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,61"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-048</container> 
+				
+                  <unittitle>Pauline Oliveros, composer playing accordion</unittitle>
+				
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,136"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-049</container> 
+				
+                  <unittitle>Ursula Oppens, pianist being videotaped and
+				  recorded</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,30"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-050</container> 
+				
+                  <unittitle>Ursula Oppens, pianist with Anthony Davis at
+				  keyboard</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,70"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-051</container> 
+				
+                  <unittitle>Steve Reich, composer with percussionists</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,148"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-052</container> 
+				
+                  <unittitle>Steve Reich, composer playing drums</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,13"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-053</container> 
+				
+                  <unittitle>Neil B. Rolnick, composer at synthesizer</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,100"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-054</container> 
+				
+                  <unittitle>Poul Ruders, composer with Jan Williams</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,154"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-055</container> 
+				
+                  <unittitle>Paul Schmidt, actor seated at table, surrounded by glass
+				  bottles</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,1"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-056</container> 
+				
+                  <unittitle>Paul Schmidt, actor seated at table, surrounded by glass
+				  bottles</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,75"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-057</container> 
+				
+                  <unittitle>Paul Schmidt, actor in robe holding umbrella</unittitle>
+				
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,145"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-058</container> 
+				
+                  <unittitle>Paul Schmidt, actor singing, accompanied by Yvar
+				  Mikhashoff</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,36"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-059</container> 
+				
+                  <unittitle>William Kirkpatrick, dancer on floor, Yvar Mikhashoff at
+				  piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,52"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-060</container> 
+				
+                  <unittitle>William Kirkpatrick, dancer leaning on piano, Yvar
+				  Mikhashoff at piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,118"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-061</container> 
+				
+                  <unittitle>Ralph Shapey, composer resting chin on hand</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,182"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-062</container> 
+				
+                  <unittitle>Ralph Shapey, composer resting chin on hand</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,40"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-063</container> 
+				
+                  <unittitle>Ralph Shapey, composer looking up</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,124"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-064</container> 
+				
+                  <unittitle>Ralph Shapey, composer resting chin on hand</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,192"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-065</container> 
+				
+                  <unittitle>Ralph Shapey, composer on contact sheet with Jacob
+				  Druckman, Nils Vigeland, Arie Lipsky, and others</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,73"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-066</container> 
+				
+                  <unittitle>Harriet Simons, conductor conducting University at
+				  Buffalo Choir</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,138"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-067</container> 
+				
+                  <unittitle>Harriet Simons, conductor conducting University at
+				  Buffalo Choir</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,43"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-068</container> 
+				
+                  <unittitle>Leo Smit, composer in white collar</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,60"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-069</container> 
+				
+                  <unittitle>Leo Smit , composer, close-up, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,133"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-070</container> 
+				
+                  <unittitle>Leo Smit, composer at piano, playing
+				  Rachmaninoff</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,0"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-071</container> 
+				
+                  <unittitle>Leo Smit, composer playing piano, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,62"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-072</container> 
+				
+                  <unittitle>Leo Smit, composer with open hands</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,141"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-073</container> 
+				
+                  <unittitle>Leo Smit, composer in black</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,97"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-074</container> 
+				
+                  <unittitle>Stockhausen's "Stimmung", six performers seated on
+				  floor</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,74"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-075</container> 
+				
+                  <unittitle>Virgil Thomson, composer in checkered jacket and
+				  polka-dot bow tie, facing camera</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,149"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-076</container> 
+				
+                  <unittitle>Virgil Thomson, composer in checkered jacket and
+				  polka-dot bow tie, looking down</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,14"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-077</container> 
+				
+                  <unittitle>Virgil Thomson, composer in checkered jacket and
+				  polka-dot bow tie, without glasses</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,104"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-078</container> 
+				
+                  <unittitle>Virgil Thomson, composer in checkered jacket and
+				  polka-dot bow tie, examining Satie score</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,177"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-079</container> 
+				
+                  <unittitle>Virgil Thomson, composer in checkered jacket and
+				  polka-dot bow tie, examining Satie score, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,44"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-080</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist seated, chin resting
+				  on hand, white background</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,131"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-081</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist performing at
+				  Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,38"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-082</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist standing and
+				  playing</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,76"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-083</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist performing at
+				  Albright-Knox Art Gallery</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,135"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-084</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist at Albright-Knox Art
+				  Gallery, laughing</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,68"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-085</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist performing at
+				  Albright-Knox Art Gallery, profile</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,69"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-086</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist, close-up</unittitle>
+				
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,143"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-087</container> 
+				
+                  <unittitle>Frances-Marie Uitti, violoncellist seated, white
+				  background</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,24"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-088</container> 
+				
+                  <unittitle>Nils Vigeland, composer with Harvey Sollberger, David
+				  Felder, and Stephen Manes</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,50"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-089</container> 
+				
+                  <unittitle>Nils Vigeland, composer standing near piano</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,117"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-090</container> 
+				
+                  <unittitle>Nils Vigeland, composer standing near brick
+				  wall</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,190"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-091</container> 
+				
+                  <unittitle>Jan Williams, percussionist playing marimba</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,56"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-092</container> 
+				
+                  <unittitle>Jan Williams, percussionist conducting, arms
+				  closed</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,134"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-093</container> 
+				
+                  <unittitle>Jan Williams, percussionist conducting, arms
+				  open</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,33"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-094</container> 
+				
+                  <unittitle>Jan Williams, percussionist conducting, with Paul Jacobs
+				  on harpsichord and Ursula Oppens on piano, and other musicians</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,66"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-095</container> 
+				
+                  <unittitle>Jan Williams, percussionist surrounded by
+				  instruments</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,128"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-096</container> 
+				
+                  <unittitle>Jan Williams, percussionist with Yvar Mikhashoff
+				  examining score</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,55"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-097</container> 
+				
+                  <unittitle>Jan Williams, percussionist with Yvar Mikhashoff
+				  examining score</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,71"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-098</container> 
+				
+                  <unittitle>Jan Williams, percussionist with Yvar Mikhashoff
+				  examining score</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,146"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-099</container> 
+				
+                  <unittitle>Jan Williams, percussionist using mallets on piano
+				  strings</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,7"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-100</container> 
+				
+                  <unittitle>Jan Williams, percussionist rehearsing</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,98"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-101</container> 
+				
+                  <unittitle>Jan Williams, percussionist playing marimba, four
+				  mallets</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,170"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-102</container> 
+				
+                  <unittitle>Jan Williams, percussionist playing marimba, wearing
+				  black</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,27"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-103</container> 
+				
+                  <unittitle>Charles Wuorinen, composer, close-up</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,105"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="box">2</container> 
+				
+                  <container type="item">H02-104</container> 
+				
+                  <unittitle>Charles Wuorinen, composer sitting at desk, resting chin
+				  on hand</unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS008,152"actuate="onrequest"show="new"> --> 
+				  
+                  <physdesc>
+                     <extent>1 black and white photograph</extent>
+					 
+                  </physdesc> 
+			 
+               </did>
+		  
+            </c02> 
+		
+         </c01> 
+	 
+      </dsc> 
+	 
+      <controlaccess> 
+		
+         <head>Search Terms</head> 
+		
+         <note> 
+		  
+            <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		
+         </note> 
+		
+         <controlaccess> 
+		  
+            <head>Subjects</head> 
+		  
+            <corpname source="lcnaf" encodinganalog="611">June in Buffalo--Photographs</corpname> 
+		  
+            <subject source="lcsh" encodinganalog="650">Composers--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Music festivals--New York (State)--Buffalo--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+		
+         </controlaccess> 
+		
+         <controlaccess> 
+		  
+            <head>Genres</head> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Photographs</genreform> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Portraits</genreform> 
+		
+         </controlaccess> 
+	 
+      </controlaccess> 
+	 
+      <descgrp type="add"> 
+		
+         <head>Associated Material</head> 
+		
+         <relatedmaterial encodinganalog="544 1"> 
+		  
+            <head>Related Resources</head> 
+		  
+            <relatedmaterial> 
+			 
+               <head>Related Resources in the Music Library</head> 
+			 
+               <list type="deflist"> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0018.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2000 </archref> Mus. Arc. 18 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2000 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0019.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2001 </archref> Mus. Arc. 19 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2001 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0020.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2002 </archref> Mus. Arc. 21 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2002 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0021.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2003 </archref> Mus. Arc. 21 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2003 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0025.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2004 </archref> Mus. Arc. 25 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2004 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2005 </archref> Mus. Arc. 27 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2005 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0029.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2006 </archref> Mus. Arc. 29 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2006 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://ubdigit.buffalo.edu/collections/lib/lib-mus/lib-mus009_JIB.php" show="new" actuate="onrequest" role="text/html" linktype="simple">June in Buffalo Photograph
+						Collection</archref>
+                     </label> 
+				  
+                     <item>Digital images of all the photographs of the June in
+					 Buffalo festivals are available through UBdigit.</item> 
+				
+                  </defitem> 
+			 
+               </list> 
+		  
+            </relatedmaterial> 
+		
+         </relatedmaterial> 
+	 
+      </descgrp> 
+  
+   </archdesc> 
+
+</ead>

@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 23.4::Livingston Gearhart Recordings)//EN">ubmu0023_4
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Livingston
+			 Gearhart Recordings, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1949/2001">1949-2001 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Gearhart (Livingston)
+			 Recordings</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2011</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, April 2011.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Livingston Gearhart
+		  Recordings, 
+		  <unitdate encodinganalog="245$f" normal="1949/2001" type="inclusive"
+			datechar="creation">1949-2001</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 23.4</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Gearhart,
+			 Livingston</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">3
+		  boxes</extent> (<extent unit="folder" encodinganalog="300$a">41 items</extent>)
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> No
+		  textual materials are included in this collection. </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection of
+		  Livingston Gearhart Recordings contains reel to reel and cassette tapes,
+		  compact discs, and LPs containing music composed, arranged, or performed by Livingston
+		  Gearhart.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Livingston Gearhart Recordings, 1949-2001, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Livingston and Pamela Gearhart. Some items acquired by the
+			 Music Library separately.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>Reel to reel tape items (1-5) have been reformatted to digital
+			 files. Archival and service copies are housed adjacent to the related
+			 items.</p> 
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Kathryn M. Blough, 1999; re-processed as separate
+			 collection by John Bewley, 2011. Additions processed, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Livingston Gearhart was born in Buffalo, New York December 31, 1916.
+		  His mother was Lillian Hawley Gearhart, a pianist who had studied for a year
+		  under Theodor Leschetizky in Vienna. As a child Gearhart studied piano, oboe,
+		  violoncello, and sang in church choirs in Buffalo and New York City. He
+		  graduated from high school in East Orange, New Jersey in 1935. He entered
+		  Curtis Institute of Music in Philadelphia in 1935 as an oboe student of Marcel
+		  Tabuteau. In his second year he switched his major to study composition with
+		  Rosario Scalero and piano with Nadia Reisenberg. </p> 
+		<p>Gearhart sailed to Paris aboard the Normandie in 1937. With generous
+		  support from a wealthy American expatriate, he was able to enroll at the
+		  Conservatoire Américain de Fontainebleau where he studied music theory and
+		  composition with Nadia Boulanger. He was awarded the school's 2nd prize (no
+		  first prize was awarded that year) in the Prix Stovall composition competition
+		  in 1937. While in Paris he also met Igor Stravinsky, Darius Milhaud, Robert
+		  Casadesus, pianist Isidore Philipp, and his future wife and duo-piano partner,
+		  Virginia Clotfelter. He and Virginia performed their debut in Paris February 1,
+		  1939 at the Salle Chopin. They received good reviews and were then able to give
+		  concerts in other French and Swiss locations until the conditions of World War
+		  II caused them to return to the United States.</p> 
+		<p>Virginia Clotfelter adopted the professional name Morley and married
+		  Gearhart February 28, 1940 in New York City. They worked at numerous venues,
+		  including the Hotel Brevoort and the club, Ruban Bleu, both operated by Herbert
+		  Jacoby. The pair spent the summers of 1942 and 1943 as Artists-in-Residence at
+		  Morley's alma mater, Mills College in Oakland, California. While there Gearhart
+		  was able to study composition with Darius Milhaud. The Budapest String Quartet
+		  was also in residence at Mills College during those years and Gearhart and
+		  Morley formed friendships with quartet members Alexander and Mischa Schneider.
+		  The Morley Gearhart duo was very successful, performing works by Milhaud,
+		  Norman Dello Joio, David Diamond, and Stravinsky's 
+		<title><emph render="italic">Concerto per due pianoforte
+		  soli</emph></title>. </p> 
+		<p>The duo received contracts with Columbia Concerts and the Fred Waring
+		  Show that extended from 1943-1954. During 1941 to 1954, the two-piano team of
+		  Morley and Gearhart performed over 2000 concerts throughout the US and Canada
+		  in addition to recording for Columbia Masterworks and Decca Records. Included
+		  among the many concert dates was a performance by the duo at the White House
+		  for President Dwight D. Eisenhower in 1953. During this period Gearhart also
+		  worked as a staff arranger for the Fred Waring Show. </p> 
+		<p>A two-CD retrospective released in 2001, 
+		<title><emph render="italic">Morley and Gearhart
+		  Rediscovered</emph></title> by Ivory Classics, features 22 of Gearhart's
+		two-piano arrangements. Some of these arrangements survive at Penn State in
+		their collection, Fred Waring's America. In many cases Gearhart never fully
+		wrote out his part of a duo so no written arrangement survives. </p> 
+		<p>Livingston Gearhart's output contains several collections written for
+		  pedagogical purposes. The first of Gearhart's these works to be published was 
+		<title><emph render="italic">Clarinet Sessions</emph></title> in 1945.
+		That was followed by similar collections for trumpet, violin, flute, and duos.
+		Gearhart's entire compositional and arranging output includes 400-500 works
+		(counting individual works within the collections). </p> 
+		<p>Gearhart returned to Buffalo in 1955 and was appointed to the faculty
+		  of the music department at the University of Buffalo. After a divorce from
+		  Virginia Morley, he married violinist and conductor Pamela Gerhart (not a
+		  misspelling) in 1955. He taught various courses in keyboard, theory, and
+		  orchestration until his retirement in 1985. </p> 
+		<p>Livingston Gearhart had four children: Paul, born to Virginia Morley
+		  Gearhart; Kim, Martha, and Fritz, born to Pamela Gearhart. Livingston Gearhart
+		  died in Buffalo at the age of 79 on July 14, 1996. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains reel-to-reel and cassette tapes of music
+		  composed, arranged, or performed by Livingston Gearhart. One cassette contains a
+		  recording of his memorial service. Two compact discs contain reissues of
+		  recordings issued by the duo-piano team, Morley and Gearhart. The long playing
+		  recordings consist of three Fred Waring recordings with arrangements by
+		  Gearhart, the original Morley and Gearhart duo-piano recordings, and seven
+		  recordings of other compositions and arrangements by Gearhart. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in four series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I. Reel to
+				reel tapes</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				Cassettes</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III. Compact
+				discs</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV. Long
+				playing records</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series5">V. Additions</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Reel to reel tapes, 
+				<unitdate type="inclusive" normal="1950/1979"
+				 datechar="creation">1950-1979</unitdate> </unittitle> 
+			 <physdesc><extent>Items 1-6</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">1</container> 
+				<unittitle> 
+				  <persname source="lcnaf" role="composer">Gearhart,
+					 Livingston</persname> 
+				  <title>Parade of the cliches</title>, 
+				  <unitdate normal="1950/1960"
+					type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 3-inch reel of tape</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">2</container> 
+				<unittitle> 
+				  <persname source="lcnaf" role="composer">Brubeck, Dave</persname>
+				  
+				  <title>Watusi drums</title>, 
+				  <unitdate normal="1966/1979" type="inclusive">after
+					 1966?</unitdate></unittitle> 
+				<physdesc><extent>1 3-inch reel of tape</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Arrangement of Dave Brubeck's 
+				<title><emph render="italic">Watusi drums</emph></title> by
+				Livingston Gearhart for concert band.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">3</container> 
+				<unittitle> 
+				  <title>FW &amp; PA's Rudolph, the red-nose reindeer</title>, 
+				  <unitdate normal="1950/1960"
+					type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 5-inch reel of tape</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Arrangement by Livingston Gearhart for Fred Waring and the
+				  Pennsylvanians for voices, instrumental accompaniment, and sound effects. The
+				  arrangement appeared on Fred Waring's Christmas albums, 
+				<title render="italic">Twas the night before Christmas</title> and 
+				<title render="italic">Meaning of Christmas</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">4</container> 
+				<unittitle> 
+				  <persname source="lcnaf" role="composer">Gearhart,
+					 Livingston</persname> 
+				  <title>Variations on an American air</title>, 
+				  <unitdate normal="1962-08-14" type="inclusive">August 14,
+					 1962</unitdate></unittitle> 
+				<physdesc><extent>1 5-inch reel of tape</extent></physdesc> 
+				<note> 
+				  <p>Chautauqua Symphony Orchestra, Walter Hendl, conductor and
+					 piano soloist, Chautauqua, New York. Based on Yankee Doodle.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>7 ½ ips, Full track</p> 
+			 </phystech> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">5</container> 
+				<unittitle> 
+				  <persname source="lcnaf" role="composer">Gearhart,
+					 Livingston</persname> 
+				  <title>YD in Ithaca</title>, 
+				  <unitdate normal="1979-10-19" type="inclusive">October 19,
+					 1979</unitdate></unittitle> 
+				<physdesc><extent>1 7-inch reel of tape</extent></physdesc> 
+				<note> 
+				  <p>Gearhart's 
+				  <title>Variations on an American air</title> performed by the
+				  Ithaca College Orchestra in Ford Auditorium, Ithaca College, Ithaca, New York.
+				  It is based on Yankee Doodle.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>7 ½ ips, 2 channels</p> 
+			 </phystech> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">6</container> 
+				<unittitle> 
+				  <persname source="lcnaf" role="composer">Gearhart,
+					 Livingston</persname> 
+				  <title>Frontier U.</title>, 
+				  <unitdate normal="1960/1970"
+					type="inclusive">undated</unitdate></unittitle> 
+				<physdesc><extent>1 10-inch reel of tape</extent></physdesc> 
+				<note> 
+				  <p>Music for a documentary film, 
+				  <title render="italic">Decade for decision</title>. It was about
+				  education in the United States and used the University of Buffalo as an
+				  example. The film was produced for RKO-Pathe in 1957 by Jay Bonafield and was
+				  written by Ardis Smith.</p> 
+				  <p>Reformatted to compact disc April 16, 2004.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Cassettes, 
+				<unitdate type="inclusive" normal="1979/1993"
+				 certainty="approximate">1979-1993 </unitdate> </unittitle> 
+			 <physdesc><extent>Items 7-8 </extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">7</container> 
+				<unittitle> 
+				  <persname source="lcnaf" role="composer">Gearhart,
+					 Livingston</persname> 
+				  <title>Variations on an American air</title>, 
+				  <unitdate normal="1979-10-19" type="inclusive">October 19,
+					 1979</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				<note> 
+				  <p>Ithaca College Orchestra, Pamela Gearhart, conductor. With
+					 commentary by the composer.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">8</container> 
+				<unittitle>Livingston Gearhart Memorial Service, 
+				  <unitdate normal="1996-10-06" type="inclusive">October 6,
+					 1996</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Compact discs, 
+				<unitdate type="inclusive" normal="1990/2001" datechar="creation">
+				  1990-2001</unitdate> </unittitle> 
+			 <physdesc><extent>Items 9-11</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">9</container> 
+				<unittitle> 
+				  <persname source="lcnaf" role="composer">Gearhart,
+					 Livingston</persname> 
+				  <title>Variations on an American air</title>, 
+				  <unitdate normal="1977/1979">1977 or 1979</unitdate> </unittitle>
+				
+				<physdesc><extent>1 compact disc</extent></physdesc> 
+				<note> 
+				  <p>Writing on CD states "Ithaca College 1977". Ithaca College
+					 Orchestra, Pamela Gearhart, conductor, with Livingston Gearhart as piano
+					 soloist and narrator. </p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">10</container> 
+				<unittitle> 
+				  <title render="italic">Americans in Paris: Morley &amp; Gearhart,
+					 duo-pianists</title> <imprint> 
+				  <geogname>University Park, Pennsylvania</geogname>: 
+				  <publisher>Pennsylvania State University</publisher>, 
+				  <date type="publication">1990</date></imprint> </unittitle> 
+				<physdesc><extent>1 compact disc</extent></physdesc> 
+				<note> 
+				  <p>Mastered by Digi-Rom.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">11</container> 
+				<unittitle> 
+				  <title render="italic">Virginia Morley and Livingston Gearhart
+					 rediscovered</title> <imprint> 
+				  <geogname>Columbus, Ohio</geogname>: 
+				  <publisher>Ivory Classics</publisher>, 
+				  <date type="publication">2001</date></imprint> </unittitle> 
+				<physdesc><extent>2 compact discs</extent></physdesc> 
+				<note> 
+				  <p>Publisher's number: 64405-72004</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Long playing records, 
+				<unitdate type="inclusive" normal="1949/1980">1949-1980 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 12-24</extent></physdesc> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">12</container> 
+				<unittitle> 
+				  <title render="italic">1974 NYSSMA Thousand Islands High School
+					 all state music festival</title> <imprint> 
+				  <geogname>Clarence, New York</geogname> : 
+				  <publisher>Mark Custom Recording Division</publisher>, 
+				  <date type="publication">1974</date></imprint> </unittitle> 
+				<physdesc><extent>2 sound discs</extent></physdesc> 
+				<note> 
+				  <p>Publisher number: MC 5969.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Side one (of four) contains Gearhart's arrangement of Sergei
+				  Rachmaninoff's 
+				<title render="italic">Vocalise</title> and his own composition, 
+				<title render="italic">Overture on Jewish theme[s]</title>,
+				performed by the festival's orchestra, conducted by Pamela Gearhart.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">13</container> 
+				<unittitle> 
+				  <title render="italic">Massachusetts Music Educators Association
+					 fifth annual Southeastern District junior high concert</title> <imprint> 
+				  <geogname>East Bridgewater, Massachusetts</geogname> : 
+				  <publisher>John Brooks Custom Recording </publisher>, 
+				  <date type="publication">1978</date></imprint> </unittitle> 
+				<physdesc><extent>2 sound discs</extent></physdesc> 
+				<note> 
+				  <p>Publisher number: JB7816.</p> 
+				  <p>Concert recorded March 11, 1978 at Silver Lake Regional High
+					 School, Pembroke, Massachusetts.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Side one (of three) contains Gearhart's arrangement of Sergei
+				  Rachmaninoff's 
+				<title render="italic">Vocalise, op. 34</title>, performed by the
+				festival's orchestra, conducted by Pamela Gearhart.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">14</container> 
+				<unittitle> 
+				  <title render="italic">Ithaca College Sectional All-State Music
+					 Festival</title> <imprint> 
+				  <geogname>Clarence, New York</geogname> : 
+				  <publisher>Mark Custom Recording Division </publisher>, 
+				  <date type="publication">197-</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher number: MC-5367.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Contains Gearhart's 
+				<title render="italic"> Overture on Jewish themes</title> ,
+				performed by the festival's orchestra, conducted by Pamela Gearhart.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">15</container> 
+				<unittitle> 
+				  <title render="italic">Orchfare, volume 1: the Ithaca College
+					 string and symphony orchestras</title> <imprint> 
+				  <geogname>Delaware Water Gap, Pennsylvania</geogname> : 
+				  <publisher>Shawnee Press</publisher>, 
+				  <date type="publication">1981</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher number: P 652.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Contains Gearhart's 
+				<title render="italic">String Mix no. 1 </title> , performed by the
+				Ithaca College String Orchestra, conducted by Pamela Gearhart.</p> 
+				<p>Program notes consist of miniature scores of recorded works.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">16</container> 
+				<unittitle> 
+				  <title render="italic">Orchfare, volume 2: the Ithaca College
+					 String and Symphony Orchestras</title> <imprint> 
+				  <geogname>Delaware Water Gap, Pennsylvania</geogname> : 
+				  <publisher>Shawnee Press</publisher>, 
+				  <date type="publication">1982</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher number: P 679.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Contains Gearhart's arrangement for orchestra of Sergei
+				  Prokofiev's 
+				<title render="italic">Marche, op. 12, no. 1 </title> from his 
+				<title render="italic">Ten Pieces </title> for piano, performed by
+				the festival's orchestra, conducted by Pamela Gearhart.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">17</container> 
+				<unittitle> 
+				  <title render="italic">I hear music</title> <imprint> 
+				  <geogname>[New York]</geogname> : 
+				  <publisher>Decca</publisher>, 
+				  <date type="publication">[1952]</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher number: DL 5408.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>10 inch, 33 1/3 monaural recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Performed by Fred Waring and his Pennsylvanians. Gearhart is
+				  mentioned in the program notes as one of Waring's arrangers but is not cited
+				  specifically for any of the works.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">18</container> 
+				<unittitle> 
+				  <title render="italic">Longines Symphonette Society presents Fred
+					 Waring and The Pennsylvanians, This is my country</title> <imprint> 
+				  <geogname>Larchmont, New York</geogname> : 
+				  <publisher>Longines Symphonette Society</publisher>, 
+				  <date type="publication">196-?</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher number: SYS 5276.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Contains Gearhart's arrangement of 
+				<title render="italic"> Dry bones</title>, not cited on album.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">19</container> 
+				<unittitle> 
+				  <title render="italic">Fred Waring and The Pennsylvanians in
+					 hi-fi</title> <imprint> 
+				  <geogname>Hollywood, California</geogname> : 
+				  <publisher>Capitol </publisher>, 
+				  <date type="publication">1967</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher's number: W-845.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Contains Gearhart's arrangement of 
+				<title render="italic"> Dry bones</title> .</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">20</container> 
+				<unittitle> 
+				  <title render="italic">Again! Virtuosity at two pianos: Morley
+					 and Gearhart encores</title> <imprint> 
+				  <geogname>Delaware Water Gap, Pennsylvania</geogname> : 
+				  <publisher>Omnisound</publisher>, 
+				  <date type="publication">1981</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher's number: N–1030.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Five additional copies.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">21</container> 
+				<unittitle> 
+				  <title render="italic">Two piano artistry of Morley and Gearhart
+					 rediscovered</title> <imprint> 
+				  <geogname>Delaware Water Gap, Pennsylvania</geogname> : 
+				  <publisher>Omnisound</publisher>, 
+				  <date type="publication">1978</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher's number: –1017.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 stereophonic recording</p> 
+			 </phystech> 
+			 <scopecontent> 
+				<p>Two additional copies.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">22</container> 
+				<unittitle> 
+				  <title render="italic">Night life on two pianos: Morley and
+					 Gearhart duo-pianists</title> <imprint> 
+				  <geogname>New York</geogname> : 
+				  <publisher>Columbia</publisher>, 
+				  <date type="publication">1949</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher's number: ML 2033.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>10 inch, 33 1/3 monaural recording</p> 
+			 </phystech> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">23</container> 
+				<unittitle> 
+				  <title render="italic">Americans in Paris: Morley and Gearhart,
+					 duo-pianists</title> <imprint> 
+				  <geogname>New York</geogname> : 
+				  <publisher>Columbia</publisher>, 
+				  <date type="publication">1951</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher's number: ML 2197.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>10 inch, 33 1/3 monaural recording</p> 
+			 </phystech> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">24</container> 
+				<unittitle> 
+				  <title render="italic">Songs recorded from Livingston Gearhart's
+					 A singing bee</title> <imprint> 
+				  <geogname>Delaware Water Gap, Pennsylvania</geogname> : 
+				  <publisher>Shawnee Press</publisher>, 
+				  <date type="publication">196-?</date></imprint> </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+				  <p>Publisher's number: XTV 25573.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 recording</p> 
+			 </phystech> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">25</container> 
+				<unittitle>50th anniversary jubilee concert, College
+					 of Arts and Sciences, State University of New York at Buffalo,
+<unitdate>1964</unitdate>				  
+				  </unittitle> 
+				<physdesc><extent>1 sound disc</extent></physdesc> 
+				<note> 
+<p>Williamsville, New York: Century Custom Recording Service</p>				
+				  <p>Publisher's number: 18669.</p> 
+				</note> 
+			 </did> 
+			 <phystech> 
+				<p>12 inch, 33 1/3 recording</p> 
+			 </phystech> 
+			 <scopecontent>
+				<p>Contains Gearhart's arrangements of the University at Buffalo
+				  Alma Mater for chorus and for band.</p>
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Additions, 
+				<unitdate type="inclusive" normal="1950/2006"
+				datechar="creation">circa 1950-2006</unitdate> </unittitle> 
+			 <physdesc><extent>Item 26-40</extent></physdesc> 
+		  </did> 
+<scopecontent><p>Recordings received after processing of the original collection was completed. Included are recordings of the Morley and Gearhart piano duo, a live performance by Livingston and Pamela Gearhart, and recordings of arrangements and compositions by Gearhart.</p></scopecontent>
+<arrangement><p>Arranged in two subseries: </p>
+<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series5a">A. Performances by Livingston Gearhart</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series5b">B. Compositions and arrangements by Livingston Gearhart</ref></item>
+</list>
+</arrangement>			   
+		  <c02 level="subseries"> 
+			 <did> 
+<unitid id="series5a">V.A</unitid>
+<unittitle>Performances by Livingston Gearhart, <unitdate normal="1950/1960" type="inclusive">1950-1960</unitdate></unittitle> 
+				<physdesc><extent>Item 26-31 (6 cassettes)</extent></physdesc> 
+			 </did> 
+			 <scopecontent>
+				<p>Recordings of the Morley and Gearhart piano duo, Fred Waring television shows, and with violinist Pamela Gearhart.</p>
+			 </scopecontent> 
+<arrangement><p>Arranged in chronological order.</p></arrangement>
+ <c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">26</container> 
+				<unittitle>Devil's dream, from G.E. TV show, <unitdate>1950-1959</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				<note>
+<p>Issued by Shawnee Press.</p>				
+
+				</note> 
+			 </did> 
+			 
+			 <scopecontent>
+				<p>1. 2/19/59 (3:15) -- 2. 10/29/50 (3:15) -- 3. 10/21/50 (3:00).</p>
+			 </scopecontent> 
+		  </c03>
+ <c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">27-28</container> 
+				<unittitle>Morley and Gearhart Potsdam Civic Center, <unitdate>1951 October 5</unitdate>
+				 </unittitle> 
+				<physdesc><extent>2 cassettes</extent></physdesc> 
+				<note>
+<p>With spoken commentary.</p>	
+			</note> 
+			 </did> 			 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">29</container> 
+				<unittitle>Morley and Gearhart un-released material, <unitdate>circa 1951</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+		
+			 </did> 
+			 
+			 <scopecontent>
+				<p>Jesu, joy of man's desiring -- Rachmaninoff Prelude -- Viennese clock -- Nola -- Minute waltz -- Tea for two -- Kitten on the keys -- Mountain tune -- With a song in my heart. </p>
+			 </scopecontent> 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">30</container> 
+				<unittitle>Morley and Gearhart un-used material from Columbia tapes, <unitdate>circa 1951</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				<note>
+<p>Provided by Fred Waring's America, Penn State.</p>				
+				</note> 
+			 </did> 
+			 
+			 <scopecontent>
+				<p>Parlez-moi d'amour -- La tirelitentaine -- Debussy: Fetes -- Baby boogie -- Stormy weather -- Body and soul.</p>
+			 </scopecontent> 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">31</container> 
+				<unittitle>Milhaud: PG and LG, <unitdate>1963?</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				
+			 </did> 
+			 
+			 <scopecontent>
+				<p>Live performance of Darius Milhaud's Suite for clarinet, violin, and piano, op. 157b, with Livingston Gearhart, piano and Pamela Gearhart, violin. 
+					The performance is possibly that of 1963 June 9 with Hazel Colley, clarinet.</p>
+			 </scopecontent> 
+		  </c03>			  		  		  	  
+		  </c02> 
+<c02 level="subseries"> 
+			 <did> 
+<unitid id="series5b">V.B</unitid>
+<unittitle>Compositions and arrangements by Livingston Gearhart, <unitdate normal="1961/2006" type="inclusive">1961-circa 2006</unitdate></unittitle> 
+				<physdesc><extent>Item 32-41 (9 cassettes and 1 compact disc)</extent></physdesc> 
+			 </did> 
+			 <scopecontent>
+				<p>Recordings include compilations of Gearhart arrangements and a demo version of Sax sessions.</p>
+			 </scopecontent> 
+<arrangement><p>Arranged in alphabetical order by title.</p></arrangement>
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">32</container> 
+				<unittitle>Gearhart tape I, <unitdate>circa 1996</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				
+			 </did> 
+			 
+			 <scopecontent>
+				<p>Kyrie -- Short suite -- ALA fanfare -- We shall overcome -- Variations on an American air.</p>
+			 </scopecontent> 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">33</container> 
+				<unittitle>Gearhart tape II, <unitdate>circa 1996</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				
+			 </did> 
+			 
+			 <scopecontent>
+				<p>Holst variations -- Brubeck Ostinato -- Theme X -- Ce soir.</p>
+			 </scopecontent> 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">34</container> 
+				<unittitle>Gearhart tape III, <unitdate>circa 1996</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				
+			 </did> 
+			 
+			 <scopecontent>
+				<p>Mendelssohn -- Bach Arioso -- Ravel Pavane -- Bach Cantata #54 -- Bach Fantasia -- Bach Old year -- Boccherini Quintet -- MLK.</p>
+			 </scopecontent> 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">35</container> 
+				<unittitle>Gearhart tape V, <unitdate>circa 1996</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				
+			 </did> 
+			 
+			 <scopecontent>
+				<p>L. Gearhart accompaniments for beginning Suzuki pieces (5) plus Fioco Allegro.</p>
+			 </scopecontent> 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">36</container> 
+				<unittitle>Humor in music, <unitdate>1961</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+				
+			 </did> 
+			 
+			 <scopecontent>
+				<p>With narration by Livingston Gearhart.</p>
+			 </scopecontent> 
+		  </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">37</container> 
+				<unittitle>London Bridge variations by Livingston Gearhart, <unitdate>circa 2006</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 compact disc</extent></physdesc> 
+<note><p>Performed by the Oregon String Quartet.</p></note>				
+			 </did> 
+			  </c03>
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">38</container> 
+				<unittitle>Sax sessions demo, <unitdate>circa 1987</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+<note><p>Performed by Kelland Thomas.</p></note>				
+			 </did> 			 			
+		  </c03>
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">39</container> 
+				<unittitle>Short suite, <unitdate>undated</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc>				
+			 </did> 
+			 </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">40</container> 
+				<unittitle>Variations on Yankee doodle, <unitdate>undated</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc>
+<note><p>Narrated by Livingston Gearhart.</p></note>								
+			 </did> 
+			 </c03>	
+<c03 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">41</container> 
+				<unittitle>We shall overcome: orchestra and chorus, <unitdate>undated</unitdate>
+				 </unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc>				
+			 </did> 
+			 </c03>				 			 		  				  		  		  		  		  		  
+</c02>  
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <persname source="lcnaf" encodinganalog="700" role="creator">Waring,
+			 Virginia</persname> 
+		  <persname source="lcnaf" encodinganalog="700" role="creator">Gearhart,
+			 Pamela</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject encodinganalog="650" source="lcsh">Piano music (Pianos
+			 (2))</subject> 
+		  <subject source="lcsh" encodinganalog="650">Composers--New York
+			 (State)--Buffalo</subject> 
+		  <subject source="lcsh" encodinganalog="650">Orchestral music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Orchestral music,
+			 Arranged</subject> 
+		  <subject source="lcsh" encodinganalog="650">Vocal music</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Sound
+			 recordings</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<otherfindaid encodinganalog="555"> 
+		  <head>Additional Guides</head> 
+		  <p>Items 1-24 in the collection are cataloged in WorldCat and are
+			 available in 
+			 <extref href="http://bison.buffalo.edu:8991/F" show="new"
+			  actuate="onrequest" role="text/html">BISON</extref>, the online catalog for the
+			 University at Buffalo Libraries, by performing a "Title begins with" search
+			 under "Livingston Gearhart Recordings".</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_1.xml"
+					  show="new" actuate="onrequest" role="text/html"> Livingston Gearhart Papers,
+						1933-1997 </archref>Mus. Arc. 23.1</label> 
+				  <item>Contains Gearhart's vitae, prose writings, correspondence,
+					 programs, clippings, and teaching materials.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_2.xml"
+					 show="new" actuate="onrequest" role="text/html"> Livingston Gearhart Collection
+						of Scores, 1945-1993 </archref> Mus. Arc. 23.2 </label> 
+				  <item>Contains 676 folders of Gearhart's compositions, arrangements, and annotated scores.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0023_3.xml"
+					 show="new" actuate="onrequest" role="text/html"> Livingston Gearhart Collection
+						of Photographs,1896-1941 </archref> Mus. Arc. 23.3 </label> 
+				  <item>Collection of 192 images, including photographs of Nadia
+					 Boulanger and her summer class of 1938, Gearhart and his first wife, Virginia
+					 Morley (Waring) at Mills College in California, with composer Darius Milhaud
+					 and his family, and the Budapest String Quartet. The collection also includes
+					 four photographs of composer Johannes Brahms in 1896. Also available as a
+					 digital collection in 
+					 <archref
+					 href="http://digital.lib.buffalo.edu/collection/LIB-MUS019/"
+					 show="new" actuate="onrequest" role="text/html">University at Buffalo Libraries
+						Digital Collections</archref>.</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

@@ -1,0 +1,1801 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 2.4::C. F. Peters Collection of Morton Feldman Manuscripts)//EN"
+	  encodinganalog="identifier">ubmu0002_4</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the C. F. Peters Collection of Morton Feldman Manuscripts, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1961/1969"> 1961-1969 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Peters (C.F.)
+			 Collection of Morton Feldman Manuscripts </titleproper> 
+		  <author encodinganalog="contributor">Finding aid written by John
+			 Bewley.</author> 
+		</titlestmt>
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2008</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, 
+		  <date normal="200-" era="ce" calendar="gregorian"
+			type="inclusive">October 2008.</date> </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> C. F. Peters Collection
+		  of Morton Feldman Manuscripts, 
+		  <unitdate encodinganalog="245$f" normal="1961/1969" type="inclusive"
+			datechar="creation"> 1961-1969</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 2.4</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Feldman,
+			 Morton, 1926-1987</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">3
+		  boxes</extent> <extent unit="item" encodinganalog="300$a">(79 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> No
+		  textual materials are included in the collection.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection
+		  consists of 79 works by Morton Feldman in either score or part formats (72
+		  scores; 7 sets of parts). All but one item are ink manuscripts on vellum. These
+		  served as the masters that Feldman submitted to C. F. Peters and Peters
+		  published directly from these masters. Almost all of the manuscripts are in
+		  Morton Feldman's hand, except for two scores copied by John Cage and three
+		  items in the hand of a music copyist. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], C. F. Peters Collection of Morton Feldman
+			 Manuscripts, 1961-1969, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Purchased from C. F. Peters, 2003.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Composer Morton Feldman (1926-1987) was best known for his association
+		  with the New York School of experimentalist musicians, including composers John
+		  Cage, Christian Wolff, and Earle Brown, and pianist David Tudor. In addition to
+		  composing approximately 150 works, Feldman also wrote more than three dozen
+		  articles about various aspects of music and art.</p> 
+		<p>Feldman was a member of the music department faculty at the State
+		  University of New York at Buffalo 1972-1987. During those years he served as
+		  Slee Professor of Music 1972-1973, Edgar Varèse Professor 1975-1987, and
+		  Director of the Center of the Creative and Performing Arts, 1976-1980. He was
+		  also responsible for creating the June in Buffalo festival of contemporary
+		  music in 1975. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection consists of 79 works by Morton Feldman in either score
+		  or part formats (72 scores; 7 sets of parts). All but one item are ink
+		  manuscripts on vellum. These served as the masters that Feldman submitted to C.
+		  F. Peters and Peters published directly from these masters. Almost all of the
+		  manuscripts are in Morton Feldman's hand, except for two scores copied by John
+		  Cage and three items in the hand of a music copyist. Some items are accompanied
+		  by the folders in which they were housed at C. F. Peters. The folders contain
+		  brief information about number of copies created and instructions for printing
+		  parts. As such, the collection provides a history of the music publishing
+		  process rather than anything about the musical genesis of the works. The
+		  original manuscripts for the works in the collection, if extant, are housed in
+		  the Paul Sacher Stiftung in Basel, Switzerland. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p> Compositions by Morton Feldman. Arranged in numerical order by C. F.
+		  Peters publisher numbers.</p> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle> Compositions by Morton Feldman, 
+				<unitdate type="inclusive" normal="1961/1969"> 1961-1969</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Items 1-79</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in numerical order by C. F. Peters publisher numbers.</p>
+			 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">01 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Durations, no. 1</title><lb/> 
+				  <title type="transcribed">Durations I</title> 
+				  <unitdate>c1961. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (5 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For flute,
+				  violin, violoncello, and piano. At end of score: June 1960. Includes typescript
+				  performance instructions (1 leaf ; 28 cm.). "Copyright assigned in 1962 to C.F.
+				  Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1.
+				  C.F. Peters publisher's number, 6901, written in pencil bottom of leaf 1. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">02 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Durations, no. 2</title><lb/> 
+				  <title type="transcribed">Durations 2</title> 
+				  <unitdate>c1961. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (2 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For violoncello
+				  and piano. At end of score: 2.2.60. "Copyright assigned in 1962 to C.F. Peters
+				  Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6902 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">03 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Durations, no. 3</title><lb/> 
+				  <title type="transcribed">Durations 3 : for violin, tuba, piano</title> 
+				  <unitdate>c1961. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (6 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. Notation does not
+				  indicate durations. At end of score: 2.16.61. Includes typescript performance
+				  instructions (1 leaf ; 28 cm.). "Copyright assigned in 1962 to C.F. Peters
+				  Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6903 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">04 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Durations, no. 4</title><lb/> 
+				  <title type="transcribed">Durations 4</title> 
+				  <unitdate>1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For violin,
+				  violoncello, and vibraphone. "Copyright assigned in 1962 to C.F. Peters
+				  Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Includes
+				  typescript instructions for performance (1 leaf ; 28 cm.), with two copies
+				  printed in reverse. Assigned publisher's number 6904 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">05 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Durations, no. 5</title><lb/> 
+				  <title type="transcribed">Durations 5</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (8 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For horn, celesta
+				  and piano (1 player), harp, vibraphone, violin, and violoncello. At end of
+				  score: 5/10/61. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Includes typescript instructions for
+				  performance (1 leaf), with reversed copy. Assigned publisher's number 6905 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">06 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Atlantis</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (19 leaves) ; 17 x 27 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For chamber
+				  orchestra. At end of score: Sept. 28 1959. Includes typescript performance
+				  instructions (2 leaves ; 28 cm.) and mockup in reverse print of title for
+				  Peters edition. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6906 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">07 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intersection, no. 1</title><lb/> 
+				  <title type="transcribed">Intersection #1</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (15 leaves) ; 14 x 34 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. Graphic notation.
+				  At end of score: Feb. 1951. Includes two typescript copies of performance
+				  instructions (2 leaves ; 28-29 cm.), with one extra copy in reverse print.
+				  "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6907 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">08 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intervals</title><lb/> 
+				  <title type="transcribed">Intervals I</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (16 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For bass-baritone voice,
+				  trombone, vibraphone, chimes, antique cymbals, tenor drum, bass drum, and
+				  violoncello; without words. At end of score: Sept. 16, 1961. Includes
+				  typescript performance instructions (1 leaf ; 28 cm.). "Copyright 1962 by C.F.
+				  Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6908 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">09 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Marginal intersection</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (11 leaves) ; 14 x 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For orchestra.
+				  Graphic notation. At end of score: July 7, 1951. Includes typescript
+				  performance instructions (2 leaves ; 28 cm.). Leaves 1-2, 3-4, 5-6, 7-8, 9-10
+				  taped together. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6909 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">10 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Out of "Last pieces"</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (12 leaves) ; 25 x 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For orchestra. Graphic notation.
+				  At end of score: 3/61. Includes typescript performance instructions (leaves
+				  I-II ; 31 cm.). "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6910 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">11 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Out of "Last pieces"</title> 
+				  <unitdate>[1962] </unitdate> </unittitle> 
+				<physdesc><extent>21 ms. parts ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum masters). For orchestra. Graphic
+				  notation. Assigned publisher's number 6910 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">12 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Extensions, no. 1</title><lb/> 
+				  <title type="transcribed">Extensions 1 : for violin and piano</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (17 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  Nov. 12, 1951. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6911 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">13 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Structures, string
+					 quartet</title><lb/> 
+				  <title type="transcribed">Structures : for string quartet / [Morton
+					 Feldman].</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (12 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  March 1951. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So., New
+				  York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6912 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">14 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Projection, no. 4</title><lb/> 
+				  <title type="transcribed">Projection 4 : for violin and piano</title> 
+				  <unitdate>c1959. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (III, 8 leaves) ; 22 x 28 cm.
+				  </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink, vellum master in the hand of John Cage). Graphic
+				  notation. Includes instructions for performance. At end of score: 1-16-51.
+				  "Copyright 1959 by C.F. Peters Corporation, 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of t.p. Assigned publisher's number 6913 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">15 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Extensions, no. 4</title><lb/> 
+				  <title type="transcribed">Extensions 4</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (21 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For 3 pianos. At
+				  end of score: late summer, 1952 - April 27, 1953. "Copyright 1962 by C.F.
+				  Peters Corporation, 373 Park Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6914 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">16 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intersection, no. 3</title><lb/> 
+				  <title type="transcribed">Intersection 3 : for piano solo</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>4 ms. leaves of music ; 18 x 28 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Graphic notation. Includes
+				  instructions for performance. At end of score: April, 1953. At head of title:
+				  For David Tudor. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf t.p. Assigned publisher's number 6915 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">17 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, pianos (2)</title><lb/> 
+				  <title type="transcribed">Two pieces for two pianos</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of piece
+				  1: Nov. 17, 1954; at end of 2nd piece: Nov. 21, 1954. "Copyright 1962 by C.F.
+				  Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6916 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">18 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, string quartet</title><lb/> 
+				  <title type="transcribed">Three pieces for string quartet</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (19 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  April 10, 1956. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  N.Y. 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6917 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">19 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, pianos (4)</title><lb/> 
+				  <title type="transcribed">Piece for 4 pianos</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (1 leaf) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  1957. Includes typescript performance instructions (1 leaf ; 28 cm.).
+				  "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6918 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">20 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">The Straits of Magellan</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (9 leaves) ; 20 x 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For flute, horn, trumpet,
+				  amplified guitar, harp, piano, and contrabass. Graphic notation. At end of
+				  score: 12/61. Includes typescript performance instructions (1 leaf ; 28 cm.).
+				  "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So., N.Y. 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6919 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">21 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, clarinet,
+					 strings</title><lb/> 
+				  <title type="transcribed">Two pieces for clarinet and string quartet</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (6 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  April 1961. At head of title: For David Oppenheim. Includes typescript
+				  performance instructions (1 leaf ; 28 cm.), with extra copy. "Copyright 1962 by
+				  C.F. Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf
+				  1. Assigned publisher's number 6920 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">22 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">The swallows of Salangan</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For chorus (SSAATB), 4 flutes,
+				  alto flute, 5 trumpets, 2 tubas, 2 vibraphones, 2 pianos, and 7 violoncellos;
+				  without words. Includes instructions for performance. At end of score: Oct.
+				  1960. Excerpt from Safe Conduct by Boris Pasternak, source of the title of the
+				  work, printed on t.p. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave.
+				  So., New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6921
+				  upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">23 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">The swallows of Salangan</title> 
+				  <unitdate>[1962] </unitdate> </unittitle> 
+				<physdesc><extent>7 ms. parts ; 36 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum masters). For chorus (SSAATB), 4 flutes,
+				  alto flute, 5 trumpets, 2 tubas, 2 vibraphones, 2 pianos, and 7 violoncellos;
+				  without words. Includes instructions for performance (1 leaf ; 28 cm.).
+				  Includes excerpt from Safe Conduct by Boris Pasternak, source of the title of
+				  the work (1 leaf ; 27 cm.). Parts available only on rental from C.F. Peters.
+				  Assigned publisher's number 6921 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">24 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Swallows of Salangan. Chorus
+					 score</title><lb/> 
+				  <title type="transcribed">The swallows of Salangan / M. Feldman.</title> 
+				  <unitdate>[1962] </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. chorus score (leaves 2-3) ; 36 cm.
+				  </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For chorus (SSAATB), 4 flutes,
+				  alto flute, 5 trumpets, 2 tubas, 2 vibraphones, 2 pianos, and 7 violoncellos;
+				  without the accompaniment; without words. Assigned publisher's number 6921a
+				  upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">25 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intersection, no. 2</title><lb/> 
+				  <title type="transcribed">Intersection 2 : for piano solo</title> 
+				  <unitdate>c196. </unitdate> </unittitle> 
+				<physdesc><extent>IV, 12 ms. leaves of music ; 15 x 28 cm.
+				  </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink, vellum master in hand of John Cage). Graphic notation.
+				  Includes instructions for performance. At end of score: New York City, August
+				  1951. "To David Tudor"--Leaf II. "Copyright 1962 by C.F. Peters Corporation,
+				  373 Park Ave. So., New York 16, N.Y."--Bottom of t.p. Assigned publisher's
+				  number 6922 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">26 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intermissions, no. 1-2</title><lb/> 
+				  <title type="transcribed">Two intermissions</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For piano. At end
+				  of score: 1950. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6923 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">27 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, piano (1952)</title><lb/> 
+				  <title type="transcribed">Piano piece 1952</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. "Copyright 1962
+				  by C.F. Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of
+				  leaf 1. Assigned publisher's number 6924 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">28 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Extensions, no. 3</title><lb/> 
+				  <title type="transcribed">Extensions 3</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>4 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For piano. At end
+				  of score: 1952. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6925 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">29 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Ixion</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (19 leaves) ; 12 x 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Graphic notation. Caption title.
+				  For 3 flutes, clarinet, horn, trumpet, trombone, piano, violoncellos (3 to 7),
+				  and double basses (2 to 4). Commissioned by Merce Cunnigham for his dance
+				  "Summer Space." At end of score: August, 1958. Includes typescript performance
+				  instructions (1 leaf ; 24 cm.). "Copyright 1962 by C.F. Peters Corporation, 373
+				  Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's
+				  number 6926 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">30 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Ixion / M. Feldman.</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>10 ms. parts ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum masters). Caption title. For 3 flutes,
+				  clarinet, horn, trumpet, trombone, piano, violoncellos (3 to 7), and double
+				  basses (2 to 4). "Copyright 1963 by C.F. Peters Corp., New York, N.Y."--Bottom
+				  of leaf 1. Assigned publisher's number 6926 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">31 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Ixion; arr.</title><lb/> 
+				  <title type="transcribed">Ixion</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (5 leaves) ; 23 x 29 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For two pianos; originally for
+				  10 unspecified instruments. Caption title. "Copyright 1963 by C.F. Peters
+				  Corp., New York, N.Y."--Bottom of leaf 1. "Peters #6926A"--Bottom of leaf 1.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">32 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Journey to the end of the night</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (12 leaves) ; 39 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For high voice,
+				  flute, clarinet, bass clarinet, and bassoon.At end of score: 1947. "Copyright
+				  1963 by C.F. Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom
+				  of leaf 1. Assigned publisher's number 6927 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">33 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Journey to the end of the night</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>4 ms. parts ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink, vellum masters, copyist's hand). For soprano, flute,
+				  bassoon, clarinet, and bass clarinet; instrumental parts only included. Title
+				  from caption of flute part. "Copyright 1963 by C.F. Peters Corp., New York,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6927a upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">34 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intermission, no. 6</title><lb/> 
+				  <title type="transcribed">Intermission 6 : for one or two pianos</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. leaf of music ; 30 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. Chance
+				  composition. At end of score: 1953. Includes two typescript copies of
+				  performance instructions (1 leaf ea. ; 28 cm.). "Copyright 1963 by C.F. Peters
+				  Corp., 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6928 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">35 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Eleven instruments</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (21 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  Dec. 1953. "Copyright 1962 by C.F. Peters Corp., 373 Park Ave. So., N.Y. 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6929 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">36 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, winds, strings</title><lb/> 
+				  <title type="transcribed">Two pieces for six instruments</title> 
+				  <unitdate>c1964. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (9 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For flute, alto
+				  flute, horn, trumpet, violin, and violoncello. At end of score: Sept. 23, 1956.
+				  "Copyright 1964 by C.F. Peters Corp., 373 Park Ave. So., N.Y. 16, N.Y."--Bottom
+				  of leaf 1. Assigned publisher's number 6930 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">37 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, piano (1956a)</title><lb/> 
+				  <title type="transcribed">Piano piece 1956 A</title> 
+				  <unitdate>c1961. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 35 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At head of title:
+				  For Cynthia. "Copyright 1961 by C.F. Peters Corp., 373 Park Ave. South, New
+				  York, N.Y."--Bottom of leaf 1. Assigned publisher's number 6931 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">38 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, piano (1956b)</title><lb/> 
+				  <title type="transcribed">Piano piece 1956 B</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. "Copyright 1962
+				  by C.F. Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of
+				  leaf 1. Assigned publisher's number 6932 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">39 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Structures, orchestra</title><lb/> 
+				  <title type="transcribed">Structures : for orchestra</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (15 leaves) ; 39 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  1960-1962. Typed title pasted over ms. title in caption. Includes typescript
+				  explanatory note by the composer (1 leaf ; 28 cm.). "Copyright 1962 by C.F.
+				  Peters Corporation, 373 Park Avenue South, New York, N.Y."--Label pasted on
+				  bottom of leaf 1. Assigned publisher's number 6934 upon publication by Peters.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">40 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Structures, orchestra</title><lb/> 
+				  <title type="transcribed">Structures : for orchestra</title> 
+				  <unitdate>[1962] </unitdate> </unittitle> 
+				<physdesc><extent>30 ms. parts ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Ms. (Ink, vellum masters, copyist's hand). Title from caption of
+				  1st flute part. Includes typescript explanatory note by the composer (1 leaf ;
+				  28 cm.). Assigned publisher's number 6934 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">41 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intermission, no. 5</title><lb/> 
+				  <title type="transcribed">Intermission 5</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>3 ms. leaves of music ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For piano. At end
+				  of score: 1952. "Copyright 1962 by C.F. Peters Corp., 373 Park Ave. So., New
+				  York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6935 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">42 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Songs to e.e. cummings</title><lb/> 
+				  <title type="transcribed">4 songs to e.e. cummings : voice, cello, piano</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  1951. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So., New York
+				  16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6936 upon publication
+				  by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">43 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, piano (1954)</title><lb/> 
+				  <title type="transcribed">Three pieces for piano</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>4 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of each
+				  mvt., respectively: 3-12-54 -- Feb. '54 -- Oct. '54. "Copyright 1962 by C.
+				  Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6937 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">44 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Two instruments : horn and cello</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master; t.p. in copyist's hand). At end
+				  of score: 5.18.58. Includes typescript performance instructions (1 leaf ; 28
+				  cm.); additional performance instructions on t.p. "Copyright 1962 by C.F.
+				  Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6938 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">45 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Two pianos</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. The two pianists
+				  play from identical parts; time values are left to the discretion of the
+				  performers. At end of score: 12-5-57. "Copyright 1962 by C.F. Peters
+				  Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6939 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">46 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Projection, no. 2</title><lb/> 
+				  <title type="transcribed">Projection 2</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (9 leaves) ; 17 x 28 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For flute,
+				  trumpet, violin, violoncello, and piano. Graphic notation. At end of score:
+				  Jan. 3, 1951. Includes typescript performance instructions (1 leaf ; 28 cm.).
+				  "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6940 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">47 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Last pieces</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>4 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For piano. Caption title. At end
+				  of each movement, respectively: 3.25.59, 3.29.59, 3.30.59, 4.3.59. "Copyright
+				  1962 by C.F. Peters Corporation, 373 Park Ave. So., New York 16, N.Y."--Bottom
+				  of leaf 1. Cover folder for Peters publication inserted. Assigned publisher's
+				  number 6941 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">48 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, piano (1955)</title><lb/> 
+				  <title type="transcribed">Piano piece 1955</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. leaf of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  Jan. 4, 1955. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6942 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">49 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Piano (three hands)</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (2 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  12/1/57. At head of title: To Lulla. "Copyright 1962 by C.F. Peters Corp., 373
+				  Park Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1. Assigned publisher's number
+				  6943 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">50 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, violin, piano</title><lb/> 
+				  <title type="transcribed">Piece for violin and piano</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (2 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  12.17.50. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So., New
+				  York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6944 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">51 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Projection, no. 1</title><lb/> 
+				  <title type="transcribed">Projection 1 : for solo cello</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>4 ms. leaves of music ; 17 x 28 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Graphic notation. Includes
+				  instructions for performance. At end of score: 1950. "Copyright 1962 by C.F.
+				  Peters Corporation, 373 Park Ave. So., New York 16, N.Y." Assigned publisher's
+				  number P6945 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">52 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Piano four hands</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. leaf of music ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  4.10.58. "Copyright 1962 by C.F. Peters Corp., 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6946 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">53 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Piano four hands</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  4.10.58. "Copyright 1962 by C.F. Peters Corp., 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6946 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">54 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">For Franz Kline</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. Vocalise for
+				  soprano, with horn, piano, chimes, violin, and violoncello. At end of score:
+				  May 26, 1962. "Copyright 1962 by C.F. Peters Corporation, 373 Park Ave. So.,
+				  New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6948 upon
+				  publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">55 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">The O'Hara songs</title> 
+				  <unitdate>c1962. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (8 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For baritone
+				  voice, violin, and violoncello; words by Frank O'Hara. At end of score: 12/62.
+				  "Copyright 1962 by C.F. Peters Corp., 373 Park Ave. So., N.Y. 16, N.Y."--Bottom
+				  of leaf 1. Assigned publisher's number 6949 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">56 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, piano (1963)</title><lb/> 
+				  <title type="transcribed">Piano piece (to Philip Guston)</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  3.3.63. "Copyright 1963 by C.F. Peters Corp., 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6950 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">57 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">De Kooning : 1963</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (7 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For horn,
+				  percussion, piano, violin, and violoncello. Score prepared for reproduction by
+				  publisher Peters, with ms. annotations concerning reduction ratio for printing;
+				  leaf 1 mounted on cardboard backing. Includes typescript performance
+				  instructions (1 leaf ; 28 cm.). "Copyright 1963 by C.F. Peters Corporation, 373
+				  Park Ave. So., New York, N.Y."--Label pasted on bottom of leaf 1. "Edition
+				  Peters 6951"--Label pasted on bottom of leaf 1. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">58 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Vertical thoughts, no. 1</title><lb/>
+				  
+				  <title type="transcribed">Vertical thoughts 1 : for two pianos</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (2 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  4.9.63. Includes typescript performance instructions (1 leaf ; 28 cm.), with
+				  additional copy in reverse print. "Copyright 1963 by C.F. Peters Corporation,
+				  373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's
+				  number 6952 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">59 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Vertical thoughts, no. 2</title><lb/>
+				  
+				  <title type="transcribed">Vertical thoughts 2 : for violin and piano</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (2 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  4.25.63. Includes typescript performance instructions (1 leaf ; 28 cm.).
+				  "Copyright 1963 by C.F. Peters Corporation, 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6953 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">60 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Vertical thoughts, no. 3</title><lb/>
+				  
+				  <title type="transcribed">Vertical thoughts 3</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For soprano, flute, horn,
+				  trumpet, trombone, tuba, piano, celesta, percussion, violin, violoncello, and
+				  double bass; words by the composer. Caption title. At end of score: 6/63.
+				  Includes typescript performance instructions (1 leaf ; 28 cm.). "Copyright 1963
+				  by C.F. Peters Corp., 373 Park Ave. So., New York 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6954 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">61 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Vertical thoughts, no. 4</title><lb/>
+				  
+				  <title type="transcribed">Vertical thoughts 4 : for piano</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. leaf of music ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of score:
+				  7/7/63. "Copyright 1963 by C.F. Peters Corp., 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6955 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">62</container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Vertical thoughts, no. 5</title><lb/>
+				  
+				  <title type="transcribed">Vertical thoughts 5</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (3 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For soprano, violin, tuba,
+				  percussion, celeste. Caption title. Text: Life is a passing shadow, by the
+				  composer. At end of score: 8/12/63. "Copyright 1963 by C.F. Peters Corp., 373
+				  Park Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1. Assigned publisher's number
+				  6956 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">63 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Rabbi Akiba</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (14 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For soprano,
+				  flute, English horn, trumpet, trombone, tuba, percussion, celesta, violoncello,
+				  and double bass; without words. At end of score: Nov. 1963. Includes typescript
+				  performance instructions (1 leaf ; 28 cm.), with pencil X through the text.
+				  "Copyright 1963 by C.F. Peters Corp., 373 Park Ave. So., New York 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6957 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">64</container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Chorus and instruments, no.
+					 1</title><lb/> 
+				  <title type="transcribed">Chorus and instruments</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (15 leaves) ; 36 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). For chorus (SATB), horn,
+				  percussion (1 performer), celesta, violin, violoncello, and double bass; no
+				  words or syllables indicated. Caption title. At end of score: Nov. 1963.
+				  Includes typescript performance instructions (1 leaf ; 28 cm.). "Copyright 1963
+				  by C.F. Peters Corp., 373 Park Ave. So., New York 16, N.Y. "--Bottom of leaf 1.
+				  Assigned publisher's number 6958 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">65 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Christian Wolff in Cambridge : 1963</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (1 leaf) ; 38 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For chorus, mixed
+				  voices, without text or syllables. Score prepared for reproduction by publisher
+				  Peters, with ms. annotations concerning reduction ratio for printing; leaf 1
+				  mounted on cardboard backing. "Copyright 1963 by C.F. Peters Corporation, 373
+				  Park Ave. South, New York, N.Y."--Label pasted on bottom of leaf 1. "Edition
+				  Peters 6959"--Label pasted on bottom of leaf 1. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">66 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Christian Wolff in Cambridge</title> 
+				  <unitdate>c1963. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (1 leaf) ; 34 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ozalid copy). Caption title. For chorus, mixed
+				  voices, without text or syllables. At end of score: 12/19/63. "Copyright 1963
+				  by C.F. Peters Corp., 373 Park Ave. South, New York 16, N.Y."--Bottom of leaf
+				  1. Assigned publisher's number 6959 by Peter's upon publication. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">67 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Intersection, no. 4</title><lb/> 
+				  <title type="transcribed">Intersection 4</title> 
+				  <unitdate>c1964. </unitdate> </unittitle> 
+				<physdesc><extent>3 ms. leaves of music ; 18 x 28 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For violoncello.
+				  Graphic notation. At end of score: Nov. 22, 1953. Includes typescript
+				  performance instructions (1 leaf ; 18 x 22 cm.). "Copyright 1964 by C.F. Peters
+				  Corp., 373 Park Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6960 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">68 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Projection, no. 3</title><lb/> 
+				  <title type="transcribed">Projection 3</title> 
+				  <unitdate>c1964. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (3 leaves) ; 18 x 28 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For 2 pianos.
+				  Graphic notation. At end of score: Jan. 5, 1951. Includes typescript
+				  performance instructions (1 leaf ; 17 x 22 cm.). "Copyright 1964 by C.F. Peters
+				  Corporation, 373 Park Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6961 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">69 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Projection, no. 5</title><lb/> 
+				  <title type="transcribed">Projection 5</title> 
+				  <unitdate>c1964. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (4 leaves) ; 18 x 27 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For 3 flutes,
+				  trumpet, 3 violoncellos, and 2 pianos. Graphic notation. At end of score: 1951.
+				  Includes typescript performance instructions (1 leaf ; 18 x 22 cm.). "Copyright
+				  1964 by C.F. Peters Corp., 373 Park Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6962 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">70 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Numbers</title> 
+				  <unitdate>c1965. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (8 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For flute, horn,
+				  trombone, tuba, percussion, piano, celesta, violin, violoncello, and double
+				  bass. At end of score: Dec. 10, 1964. Includes typescript performance
+				  instructions (1 leaf ; 28 cm.). "Copyright 1965 by C.F. Peters Corp., 373 Park
+				  Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1. Assigned publisher's number 6964
+				  upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">71 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, piano (1964)</title><lb/> 
+				  <title type="transcribed">Piano piece (1964)</title> 
+				  <unitdate>c1965. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. leaves of music ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. "Copyright 1965
+				  by C.F. Peters Corp., 373 Park Ave. So., N.Y. 16, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6965 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">72 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Four instruments : violin, cello, chimes and piano</title>
+				  
+				  <unitdate>c1965. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (6 leaves) ; 30-32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). At end of score: May 12, 1965.
+				  Includes typescript performance instructions on t.p. "Copyright 1965 by C.F.
+				  Peters Corporation, 373 Park Ave. South, New York, N.Y."--Bottom of leaf 1.
+				  Assigned publisher's number 6966 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">73 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Pieces, pianos (3)</title><lb/> 
+				  <title type="transcribed">Two pieces for three pianos</title> 
+				  <unitdate>c1966. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (5 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. At end of piece
+				  1: 12/65 ; at end of piece 2: 6/66. "Copyright 1966 by C.F. Peters Corp., 373
+				  Park Ave. So., New York 16, N.Y."--Bottom of leaf 1. Assigned publisher's
+				  number 6967 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">74 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <title type="uniform">Chorus and instruments, no.
+					 2</title><lb/> 
+				  <title type="transcribed">Chorus and instruments II : 1967</title> 
+				  <unitdate>c1967. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (2 leaves) ; 39 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For mixed chorus
+				  (SATB), chimes, and tuba. "The chorus sings a consistent open hum throughout on
+				  the vowel 'u'" Score prepared for reproduction by publisher Peters, with ms.
+				  annotations concerning reduction ratio for printing; leaves 1-2 mounted on
+				  cardboard backing. At head of title: "Dedicated to the Brandeis University
+				  Choral Union, Alvin Lucier, director." "Copyright 1967 by C.F. Peters
+				  Corporation, 373 Park Ave. South, New York, N.Y."--Label pasted on bottom of
+				  leaf 1. "Edition Peters 6968"--Label pasted on bottom of leaf 1. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">75 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">First principles</title> 
+				  <unitdate>c1967. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (17 leaves) ; 38 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Caption title. For 2 violins, 3
+				  violoncellos, 2 contrabasses, 2 flute, 2 tubas, trombone, horn, harp, 4 pianos,
+				  2 percussions. At end of score: 1966/1967 (Oct.). Includes typescript
+				  performance instructions (1 leaf ; 28 cm.) inside wrapper marked "Old, do not
+				  use." "Copyright 1967 by C.F. Peters Corp., 373 Park Ave. So., N.Y. 16,
+				  N.Y."--Bottom of leaf 1. Assigned publisher's number 6969 upon publication by
+				  Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">76 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">First principles</title> 
+				  <unitdate>c1967. </unitdate> </unittitle> 
+				<physdesc><extent>7 ms. parts ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum masters). Caption title. For 2 violins, 3
+				  violoncellos, 2 contrabasses, 2 flute, 2 tubas, trombone, horn, harp, 4 pianos,
+				  2 percussions. Parts are condensed scores for instrumental groups: movement one
+				  has three groups, movement 2 has four groups. Includes two typescript copies of
+				  performance instructions (1 leaf ea. ; 28 cm.). "Copyright 1967 by C.F. Peters
+				  Corporation, 373 Park Ave. South, N.Y. 16, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6969 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">77 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">False relationships and the extended ending : cello,
+					 violin, trombone, 3 pianos, chimes</title> 
+				  <unitdate>c1968. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (15 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Includes typescript performance
+				  instructions on t.p. (1 leaf ; 28 cm.). "Copyright 1968 by C.F. Peters
+				  Corporation, 373 Park Ave. South, New York, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6970 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">78 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">False relationships and the extended ending : cello,
+					 violin, trombone, 3 pianos, chimes</title> 
+				  <unitdate>c1968. </unitdate> </unittitle> 
+				<physdesc><extent>2 ms. parts ; 32 cm. </extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum masters). Caption title. Parts are
+				  condensed scores for instrumental groups: Group 1: violin, trombone, piano;
+				  Group 2: cello, 2 pianos, chimes. Includes typescript performance instructions
+				  (1 leaf ; 28 cm.) attached to each parts group. "Copyright 1968 by C.F. Peters
+				  Corporation, 373 Park Ave. South, New York, N.Y."--Bottom of leaf 1. Assigned
+				  publisher's number 6970a upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">79 </container> 
+				<unittitle> 
+				  <persname role="composer">Feldman, Morton, 1926-1987</persname> 
+				  <lb/> 
+				  <title type="transcribed">Between categories : piano, chimes, violin, violoncello (2
+					 of each instrument)</title> 
+				  <unitdate>c1969. </unitdate> </unittitle> 
+				<physdesc><extent>1 ms. score (9 leaves) ; 32 cm. </extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Holograph (Ink, vellum master). Includes instructions for
+				  performance on t.p. At end of score: Feb. 9, 1969. "Copyright 1969 by C.F.
+				  Peters Corporation, 373 Park Ave. South, New York, N.Y. "--Bottom of leaf 1.
+				  Assigned publisher's number 6971 upon publication by Peters. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <corpname source="lcnaf" encodinganalog="710" role="contributor">C. F. Peters Corporation</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Music--Scores and parts</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music--Manuscripts</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Feldman, Morton, 1926-1987--Manuscripts</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<otherfindaid encodinganalog="555"> 
+		  <head>Additional Guides</head> 
+		  <p>All scores in the collection are cataloged in WorldCat and are
+			 available in 
+			 <extref href="http://bison.buffalo.edu:8991/F" show="new"
+			  actuate="onrequest" role="text/html">BISON</extref>, the online catalog for the
+			 University at Buffalo Libraries, by performing a "Title begins with" search
+			 under "C F Peters collection of morton feldman manuscripts".</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0002_1.xml"
+					  show="new" actuate="onrequest" role="text/html"> Morton Feldman Papers,
+						1950-1999 </archref> Mus. Arc. 2.1</label> 
+				  <item>Predominantly secondary materials, including eight boxes of programs and clippings, two boxes of Feldman's published writings, and another box of writings for or about Feldman. Other than a small number of musical fragments, it contains none of Feldman's scores, printed or manuscript. </item>
+				  
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0002_3.xml"
+					  show="new" actuate="onrequest" role="text/html"> Morton Feldman Images by Jan Williams, 1974-1979</archref> Mus. Arc. 2.3</label> 
+				  <item>A digitized collection of 56 images of Feldman taken by percussionist Jan Williams during European concert tours in 1974, 1977, and 1979.</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc> 
+</ead> 

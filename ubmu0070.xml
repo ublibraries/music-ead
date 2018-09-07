@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 70::Sylvia Brigham-Dimiziani Collection of Annotated and Manuscript Scores)//EN">ubmu0070</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Sylvia
+		Brigham-Dimiziani Collection of Annotated and Manuscript Scores, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1921/1978">1921-1978</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> Brigham-Dimiziani
+		(Sylvia) Collection of Annotated and Manuscript Scores </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, January 2015.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a"> Sylvia Brigham-Dimiziani
+	   Collection of Annotated and Manuscript Scores 
+	   <unitdate encodinganalog="245$f" normal="1921/1978" type="inclusive"
+	    datechar="creation">1921-1978</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 70</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf">
+		Brigham-Dimiziani, Sylvia </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   box</extent> <extent unit="item" encodinganalog="300$a">(11 items)</extent>
+	   </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546"> Song
+	   texts in <language encodinganalog="041" langcode="eng">English</language>,
+	   <language encodinganalog="041" langcode="eng">French</language>, and
+	   <language encodinganalog="041" langcode="eng">German</language>.</langmaterial>
+	 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a"> The Sylvia
+	   Brigham-Dimiziani Collection of Annotated and Manuscript Scores contains eleven
+	   musical scores including three works by Lukas Foss that contain markings
+	   entered on the scores by Sylvia Brigham-Dimiziani in preparation for
+	   performances.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Sylvia Brigham-Dimiziani Collection of Annotated
+		and Manuscript Scores, 1921-1978, Music Library, The State University of New
+		York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Sylvia Brigham-Dimiziani, 2000.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley, 2015.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Sylvia Brigham-Dimiziani was born in 1937. She received her earliest
+	   musical training on the piano before studying voice. She earned her Bachelor's
+	   degree from Pomona College (1959) and her Master's degree from Juilliard School
+	   of Music (1961). She also studied in Paris at L'Ecole Normale de Musique as a
+	   Fulbright Scholar, at the Mozarteum in Salzburg, with a coach at Rome Opera,
+	   and at the Darmstadt Fereinkurse für neue Musik. She came to Buffalo in 1964 as
+	   a member of the first group of Creative Associates at the Center of the
+	   Creative and Performing Arts. After leaving Buffalo in 1966 she performed in
+	   Italy before joining the faculty at California State University, Northridge.
+	   She returned to Buffalo in 1970 to join the music faculty at the University at
+	   Buffalo. She remained on the faculty until her retirement in 2001. </p> 
+	 <p>While at the University at Buffalo Professor Brigham-Dimiziani taught
+	   voice lessons, vocal diction, and courses in vocal literature and chamber
+	   music. Her performances as a soprano covered a wide range of repertoire,
+	   including works by Bach, Handel, Bononcini, Mozart, Schumann, Satie, Roussel,
+	   Ravel, Arrigo, Ives, Schoenberg, Webern, Brant, Del Tredici, Foss, Rorem, Smit,
+	   Pousseur, and Fredric Myrow, who composed his 
+	 <title render="italic">Songs from the Japanese</title> for her voice
+	 while they were both Creative Associates. Her career was international in
+	 scope, with performances at the Maggio Musicale in Florence, the Domaine
+	 Musical in Paris, with the Berlin Philharmonic, the New York Philharmonic, and
+	 Cleveland Orchestra. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The Sylvia Brigham-Dimiziani Collection of Annotated and Manuscript
+	   Scores contains eleven musical scores including three works by Lukas Foss that
+	   contain markings entered on the scores by Sylvia Brigham-Dimiziani in
+	   preparation for performances. The other works are all for solo voice or voice
+	   and piano. They include two settings of poetry by Muriel Muschamp (Orr-Ewing).
+	   </p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is in one series, arranged alphabetically by either
+	   composer or author of text, and then alphabetically by title.</p> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">1</container> 
+		<unittitle> 
+		  <persname>Angrave, Carl</persname> 
+		  <title>Mignonette : song</title> 
+		  <unitdate>1921</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (3 pages) </extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Ink manuscript. For voice and piano.</p> 
+		<p>Music by Carl Angrave with text by Muriel Muschamp [Muriel
+		  Orr-Ewing]. First line of text: A little bunch of mignonette.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">2</container> 
+		<unittitle> 
+		  <persname>Carpenter, Edward, 1844-1929</persname> 
+		  <title>The idler</title> 
+		  <unitdate>undated</unitdate> </unittitle> 
+		<physdesc><extent>1 leaf of manuscript music</extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Pencil manuscript. Vocal line only.</p> 
+		<p>Text by Edward Carpenter, from his work, 
+		<title render="italic">Towards democracy</title>. Composer of music
+		not identified. First line of text: I am he that beholds and praises the
+		universe. </p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">3</container> 
+		<unittitle> 
+		  <persname>Foss, Lukas, 1922-2009</persname> 
+		  <title>[Thirteen ways of looking at a blackbird]</title> 
+		  <unitdate>1978</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (17 leaves)</extent> </physdesc>
+		
+	   </did> 
+	   <note> 
+		<p>Photocopy of manuscript. Leaves taped together for performance
+		  purposes and marked for performance throughout. </p> 
+		<p> For voice (soprano or mezzo-soprano, possibly tenor or high
+		  baritone), percussion (1 performer playing inside the piano on strings with
+		  tape covered triangle beaters, 2 cowbells, 2 bowls balancing on piano strings,
+		  and using a superball mallet, flexatron and Jew's harp), piano, and flute; with
+		  2 tape recorders (optional). </p> 
+		<p>Text by Wallace Stevens.</p> 
+		<p>Accompanied by 3 December 1978 UB Percussion Ensemble concert
+		  program on which the work was performed.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">4</container> 
+		<unittitle> 
+		  <persname>Foss, Lukas, 1922-2009</persname> 
+		  <title>[Thirteen ways of looking at a blackbird]</title> 
+		  <unitdate>1978</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (17 leaves)</extent> </physdesc>
+		
+	   </did> 
+	   <note> 
+		<p>Photocopy of manuscript. Marked for performance throughout. </p> 
+		<p> For voice (soprano or mezzo-soprano, possibly tenor or high
+		  baritone), percussion (1 performer playing inside the piano on strings with
+		  tape covered triangle beaters, 2 cowbells, 2 bowls balancing on piano strings,
+		  and using a superball mallet, flexatron and Jew's harp), piano, and flute; with
+		  2 tape recorders (optional). </p> 
+		<p>Text by Wallace Stevens.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">5</container> 
+		<unittitle> 
+		  <persname>Foss, Lukas, 1922-2009</persname> 
+		  <title>Three airs for Frank O'Hara's angel</title> 
+		  <unitdate>1972</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (15 leaves) </extent>
+		  </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Photocopy of manuscript. For male speaker, soprano solo, small
+		  women's chorus, 1 piano, 1 mandolin or guitar, and/or harp or harpsichord, 1
+		  percussionist, and 1 tape recorder. Score bears small number of performance
+		  markings. </p> 
+		<p>Text by Frank O'Hara.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">6</container> 
+		<unittitle> 
+		  <persname>Foss, Lukas, 1922-2009</persname> 
+		  <title>Time cycle: four songs for soprano, clarinet, cello,
+		    percussion, and piano-celesta</title> <imprint> 
+		  <geogname>New York</geogname>: 
+		  <publisher>Carl Fischer</publisher>,</imprint> 
+		  <unitdate>1964</unitdate> </unittitle> 
+		<physdesc><extent>2 scores</extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Piano-full score and Soprano solo with piano reduction. Both
+		  scores marked for performance. </p> 
+		<p>Texts by W. H. Auden, A. E. Housman, Franz Kafka, and Friedrich
+		  Nietzsche.</p> 
+		<p>Accompanied by 226 February 1969 International Society for
+		  Contemporary Music concert program on which the work was performed and a 
+		<title>Los Angeles Times</title> 28 February 1969 review of the
+		concert.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">7</container> 
+		<unittitle> 
+		  <persname>Macky, A. M.</persname> 
+		  <title>Sister, awake: Old English lyrick</title> 
+		  <unitdate>undated</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (2 pages) </extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Ink manuscript. For voice and piano. </p> 
+		<p>Traditional English text set to music by A. M. Macky. First line
+		  of text: Sister, awake, close not your eyes.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">8</container> 
+		<unittitle> 
+		  <persname>Mistral, Frédéric, 1830-1914</persname> 
+		  <title>Magali</title> 
+		  <unitdate>undated</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (1 leaf)</extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Ink manuscript. For voice and piano. </p> 
+		<p>Text by Frédéric Mistral; traditional French tune set by unknown
+		  arranger. First line of text: O Magali, ma tant aimée. </p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">9</container> 
+		<unittitle> 
+		  <persname>Orr-Ewing, Muriel M. (Muriel Muschamp),
+		    1900-1994</persname> 
+		  <title>You spoke of shells</title> 
+		  <unitdate>1931</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (2 pages) </extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Ink manuscript. For voice and piano. </p> 
+		<p>Text by Muriel Muschamp (later Orr-Ewing) set by unidentified
+		  composer. First line of text: You spoke of shells for forgetting.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">10</container> 
+		<unittitle> 
+		  <persname>Petzold, Alfons, 1882-1923</persname> 
+		  <title>Mann weiss nicht wie man lebt in diesen Tagen</title> 
+		  <unitdate>undated</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (4 pages) </extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Pencil manuscript. For voice and piano. </p> 
+		<p>Text from Alfons Petzold's 
+		<title render="italic">Der Frühling</title> from his 
+		<title render="italic">Heimat Welt</title> set by unidentified
+		composer.</p> 
+	   </note> 
+	 </c01> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">11</container> 
+		<unittitle> 
+		  <persname>Unknown</persname> 
+		  <title>U. N. A.</title> 
+		  <unitdate>undated</unitdate> </unittitle> 
+		<physdesc><extent>1 manuscript score (2 pages) </extent> </physdesc> 
+	   </did> 
+	   <note> 
+		<p>Pencil manuscript. For voice and piano. </p> 
+		<p>No attributions for author of text or composer. First line of
+		  text: Standing together shoulder to shoulder fighting for freedom and peace on
+		  earth. </p> 
+	   </note> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Contributors</head> 
+	   <persname source="lcnaf" encodinganalog="700" role="creator">Foss,
+		Lukas, 1922-2009</persname> 
+	   <persname rules="local" encodinganalog="700" role="creator">Orr-Ewing,
+		Muriel M. (Muriel Muschamp), 1900-1994</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Music --
+		Manuscripts</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Foss,
+		Lukas, 1922-2009 -- Manuscripts</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Scores</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources in the University Archives</head> 
+	   <list type="deflist"> 
+		<defitem> 
+		  <label> 
+		    <archref
+		    href="http://purl.org/net/findingaids/view?docId=ead/archives/ubar_ms0070.xml"
+		    show="new" actuate="onrequest" role="text/html"> Muriel Orr-Ewing Papers,
+			 1822-1994 </archref> MS 70 </label> 
+		  <item>Correspondence, diaries, photograph albums of previous hit
+		    Muriel Orr next hit-Ewing (nicknamed "Meiko"). Collection includes records as
+		    founding president of the British Association of Women Executives and
+		    headmistress of the English girls finishing school, The Grove. Also includes
+		    personal correspondence with opera singer, Adèle Leigh, child author Berthe
+		    Grimault, and other notable writers and poets. </item> 
+		</defitem> 
+	   </list> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

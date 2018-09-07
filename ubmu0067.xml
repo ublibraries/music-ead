@@ -1,0 +1,5627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead> 
+  
+   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+    
+      <eadid countrycode="US" mainagencycode="NBuU-Mu" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 67::Irene Haupt Photographs of June in Buffalo 2014)//EN" encodinganalog="identifier">ubmu0067</eadid> 
+    
+      <filedesc> 
+	 
+         <titlestmt> 
+	   
+            <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
+		Photographs of June in Buffalo, 
+		<date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="2014-06">2014</date> 
+            </titleproper> 
+	   
+            <titleproper type="filing" altrender="nodisplay"> Haupt (Irene)
+		Photographs of June in Buffalo 2014</titleproper> 
+	   
+            <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 
+         </titlestmt> 
+	 
+         <publicationstmt> 
+	   
+            <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   
+            <address> 
+		
+               <addressline>112 Baird Hall</addressline> 
+		
+               <addressline>Buffalo, New York 14260-4750</addressline> 
+		
+               <addressline>United States</addressline> 
+		
+               <addressline>Phone: 716 645-2924</addressline> 
+		
+               <addressline>Fax: 716 645-3906</addressline> 
+		
+               <addressline>Email:<emph render="bold"> 
+		  
+                     <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html" linktype="simple">musique@buffalo.edu</extref>
+                  </emph>
+               </addressline> 
+		
+               <addressline>URL:<emph render="bold"> 
+		  
+                     <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html" linktype="simple">http://library.buffalo.edu/music/</extref>
+                  </emph>
+		  
+               </addressline> 
+	   
+            </address> 
+	   
+            <p>© 
+		<date encodinganalog="date" type="publication" era="ce" calendar="gregorian">2014</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 
+         </publicationstmt> 
+    
+      </filedesc> 
+    
+      <profiledesc> 
+	 
+         <creation>Finding aid encoded in EAD by John Bewley, December
+	   2014.</creation> 
+	 
+         <langusage>Finding aid is in
+	   <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage> 
+	 
+         <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic" linktype="simple">Describing Archives: A Content Standard
+		</title>). </descrules> 
+    
+      </profiledesc> 
+  
+   </eadheader> 
+  
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    
+      <did> 
+	 
+         <head>Collection Overview</head> 
+	 
+         <unittitle label="Title" encodinganalog="245$a"> Irene Haupt Photographs
+	   of June in Buffalo, 
+	   <unitdate encodinganalog="245$f" normal="2014-06" type="inclusive" datechar="creation" era="ce" calendar="gregorian">2014</unitdate>
+         </unittitle> 
+	 
+         <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 67</unitid> 
+	 
+         <origination label="Creator"> 
+	   
+            <persname encodinganalog="100" role="creator" source="lcnaf">Haupt,
+		Irene </persname> 
+         </origination> 
+	 
+         <physdesc label="Extent"> 
+            <extent unit="CD-ROM" encodinganalog="300$a">3
+	   CD-ROMs</extent> 
+            <extent unit="image-file" encodinganalog="300$a"> (180 digital
+	   images in tiff format) </extent> 
+         </physdesc> 
+	 
+         <langmaterial label="Language of Material" encodinganalog="546">No
+	   textual content in the collection.</langmaterial> 
+	 
+         <repository label="Repository" encodinganalog="852"> 
+	   
+            <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea>
+            </corpname> 
+         </repository> 
+	 
+         <abstract label="Abstract" encodinganalog="520$a"> Contains 180 digital
+	   images of musicians who participated in the June in Buffalo 2014 at the
+	   University at Buffalo, including guest composers Joshua Fineberg, Stephen
+	   Hartke, Philippe Hurel, Hilda Paredes, and Bernard Rands. </abstract> 
+	 
+         <note encodinganalog="500"> 
+	   
+            <p>All files in the collection were renamed to reflect chronological
+		sequence. Original filenames stated in the container list are transcribed as
+		stated on the DVDs as received. Renamed files stored in the Institutional
+		Repository. </p> 
+	 
+         </note> 
+    
+      </did> 
+    
+      <descgrp type="admininfo"> 
+	 
+         <head>Administrative Information</head> 
+	 
+         <prefercite encodinganalog="524"> 
+	   
+            <head>Preferred Citation</head> 
+	   
+            <p>[Specified item], Irene Haupt Photographs of June in Buffalo, 2014,
+		Music Library, The State University of New York at Buffalo.</p> 
+	 
+         </prefercite> 
+	 
+         <accessrestrict encodinganalog="506"> 
+	   
+            <head>Terms of Access</head> 
+	   
+            <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 
+         </accessrestrict> 
+	 
+         <userestrict encodinganalog="540"> 
+	   
+            <head>Copyright</head> 
+	   
+            <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 
+         </userestrict> 
+	 
+         <acqinfo encodinganalog="541"> 
+	   
+            <head>Acquisition Information</head> 
+	   
+            <p>Purchased from Irene Haupt, 2014.</p> 
+	 
+         </acqinfo> 
+	 
+         <accruals encodinganalog="584"> 
+	   
+            <head>Accruals and Additions</head> 
+	   
+            <p>No further accruals are expected to this collection. </p> 
+	 
+         </accruals> 
+	 
+         <altformavail encodinganalog="530"> 
+	   
+            <head>Alternate Forms</head> 
+	   
+            <p>The entire collection of images from June in Buffalo 2014 is
+		available in 
+		<extref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" linktype="simple">University at Buffalo Libraries Digital
+		  Collections</extref>. </p> 
+	 
+         </altformavail> 
+	 
+         <processinfo encodinganalog="583"> 
+	   
+            <head>Processing Information</head> 
+	   
+            <p>Processed by Layne Vanderbeek.</p> 
+	 
+         </processinfo> 
+    
+      </descgrp> 
+    
+      <bioghist encodinganalog="545"> 
+	 
+         <head>Biographical Note</head> 
+	 
+         <p>Irene Haupt, a graduate of the State University of New York at
+	   Buffalo, has been documenting the Buffalo arts scene through her photography
+	   since 1976. During that time she has worked for, or with, some of the most
+	   notable institutions in Buffalo, including the Irish Classical Theatre, Studio
+	   Arena Theater, the Kavinoky Theatre, the Buffalo Philharmonic Orchestra, the
+	   Theatre of Youth, the Albright-Knox Art Gallery, and the State University of
+	   New York at Buffalo. In addition to her specialty of theater photography, Irene
+	   Haupt has also devoted much of her career to the photography of musicians and
+	   musical events. Most notable is her documentation of the contemporary music
+	   scene in Buffalo, including coverage of the University at Buffalo's June in
+	   Buffalo festival of new music, 1982-1987, and 2000 to the present. Over the
+	   course of those years, she has created a visual record that contains images of
+	   some of the most significant composers and performers of the last quarter
+	   century. The list of names is impressive: Aaron Copland, Morton Feldman, Leo
+	   Smit, Virgil Thomson, Steve Reich, Ralph Shapey, Henry Brant, Earle Brown,
+	   Ursula Oppens, Jan Williams, Lukas Foss, Philip Glass, Otto Luening, Conlon
+	   Nancarrow, Ernst Krenek, Larry Austin, Lejaren Hiller, Elliott Carter, Milton
+	   Babbitt, John Cage, Charles Wuorinen, Jacob Druckman, and Yvar Mikhashoff,
+	   among others. </p> 
+	 
+         <p>The June in Buffalo festival of contemporary music was begun at the
+	   University at Buffalo in 1975 by composer Morton Feldman. He directed the
+	   festival 1975-1978 and in 1980. The festival was dormant from 1981 through
+	   1985. David Felder revived the festival in 1986 and has been its director since
+	   that time.</p> 
+    
+      </bioghist> 
+    
+      <scopecontent encodinganalog="520"> 
+	 
+         <head>Scope and Content Note</head> 
+	 
+         <p>The collection of Irene Haupt Photographs of June in Buffalo 2014
+	   contains 180 digital images of participants in the festival for 2014. The list of
+	   musicians includes guest composers Joshua Fineberg, Stephen
+	   Hartke, Philippe Hurel, Hilda Paredes, and Bernard Rands. Performers include Irvine
+	   Arditti, Brad Lubman, Julia Bentley, Nicholas Isherwood, Steven Beck, Marianne Gythfeldt, Tom Kolor, Yuki Numata Resnick, 
+	   Emi Ferguson, JoAnn Falletta, and Jerry Hou.
+	   Ensembles include Ensemble Court-Circuit, Signal Ensemble, Norrbotten NEO, the Slee Sinfonietta, and the 
+	   Buffalo Philharmonic Orchestra. </p> 
+    
+      </scopecontent> 
+    
+      <arrangement encodinganalog="351"> 
+	 
+         <head>Arrangement</head> 
+	 
+         <p>One series arranged chronologically.</p> 
+    
+      </arrangement> 
+    
+      <dsc type="in-depth"> 
+	 
+         <head>Container List</head> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_001</container> 
+		
+               <unittitle>Student composers Luciano Leite Barbosa and Marc Migo
+		  Cortes looking over scores during June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3398"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6663student composers JIB XXX.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_002</container> 
+		
+               <unittitle>Composer Stephen Hartke with student composers Jessica
+		  Rudman, Camilo Mendez, and Luciano Leite Barbosa at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3402"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6665June in Buffalo XXX.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_003</container> 
+		
+               <unittitle>Composer Stephen Hartke at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3403"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6669JIB Composer== XXX.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_004</container> 
+		
+               <unittitle>Composer Stephen Hartke at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3399"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6673composer.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_005</container> 
+		
+               <unittitle>Student composers Luciano Leite Barbosa, Chin Ting Chan,
+		  Mu-Xuan Lin, Paul Frucht, Binna Kim, John Rot, Haralabos Stafylakis, and Noah
+		  Meites at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3407"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: XXX_MG_6676student composers JIB
+		    2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_006</container> 
+		
+               <unittitle>Student composers Luciano Leite Barbosa, Chin Ting Chan,
+		  Noah Meites, Jessica Rudman, John Rot, Haralabos Stafylakis, Matt Sargent, and
+		  percussionist Trevor Saint at June in Buffalo 2014., 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3400"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6686student composers June in Buffalo
+		    2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_007</container> 
+		
+               <unittitle>Composer Joshua Fineberg preparing for a lecture at June
+		  in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3404"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: XXX_MG_6695composerXXX.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_008</container> 
+		
+               <unittitle>Composers David Felder and Joshua Fineberg onstage before
+		  a lecture given by Fineberg at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3409"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6696composer lecture.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_009</container> 
+		
+               <unittitle>Composer Joshua Fineberg and J.T. Rinker on stage before a
+		  lecture given by Joshua Fineberg at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3401"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6697composer Josuha Fineberg
+		    lecture.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_010</container> 
+		
+               <unittitle>Composers David Felder and Joshua Fineberg at a lecture
+		  given by Joshua Fineberg at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3411"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6706.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_011</container> 
+		
+               <unittitle>Student composers attending a lecture presentation by
+		  composer David Felder at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3405"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6714 Student composer and David
+		    Felder.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_012</container> 
+		
+               <unittitle>Student composers, including Mu-Xuan Lin, Binna Kim,
+		  Haralabos Stafylakis, Matt Sargent, and Jessica Rudman at a lecture presented
+		  by composer David Felder at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3406"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: XXX_MG_6717student composersXXX.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_013</container> 
+		
+               <unittitle>Composer Bernard Rands studying a score at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3416"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6722B Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_014</container> 
+		
+               <unittitle>Composer Bernard Rands in discussion with conductor Jerry
+		  Hou at a June in Buffalo 2014 rehearsal with Slee Sinfonietta members,
+		  violoncellist Jonathan Golove, percussionist John Bacon, and clarinetist
+		  Marianne Gythfeldt in the background, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3410"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6729Bernard Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_015</container> 
+		
+               <unittitle>Composer Bernard Rands in discussion with singer Julia
+		  Bentley at a rehearsal with Slee Sinfonietta members, violinist Yuki Numata
+		  Resnick and flutist Emi Ferguson at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3413"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6730rehearsal with Bernard Rands.tif</p>
+		  
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_016</container> 
+		
+               <unittitle>Composer Bernard Rands in discussion with mezzo-soprano
+		  Julia Bentley at a rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3412"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6734Bernard Rands Julia Bentley.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_017</container> 
+		
+               <unittitle>Mezzo-soprano Julia Bentley conferring with percussionist
+		  Thomas Kolor in a rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3429"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6739Julia Bentley Tom Kolor.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_018</container> 
+		
+               <unittitle>Mezzo-soprano Julia Bentley conferring with percussionist
+		  Thomas Kolor in a rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3408"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6740Juklia Bentley Tom Kolor.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_019</container> 
+		
+               <unittitle>Mezzo-soprano Julia Bentley rehearsing with Slee
+		  Sinfonietta members, pianist Ning Yu, flutist Emi Ferguson, violinist Yuki
+		  Numata Resnick, and percussionist Thomas Kolor at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3414"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6743Rands rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_020</container> 
+		
+               <unittitle>Conductor Jerry Hou and mezzo-soprano Julia Bentley
+		  rehearsing with Slee Sinfonietta members, including percussionist John Bacon at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3415"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6745Rands rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_021</container> 
+		
+               <unittitle>Conductor Jerry Hou and mezzo-soprano Julia Bentley
+		  rehearsing with Slee Sinfonietta members, clarinetist Marianne Gythfeldt,
+		  violinist Yuki Numata Resnick, violoncellist Jonathan Golove, and percussionist
+		  John Bacon at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3417"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6752Rands rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_022</container> 
+		
+               <unittitle>Trumpeter Mike Gurfield with conductor Jerry Hou at June
+		  in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3418"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6756June in Buffalo 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_023</container> 
+		
+               <unittitle>Composers Bernard Rands and David Felder at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3419"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6760 Bernard Rands David Felder.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_024</container> 
+		
+               <unittitle>Composer Hilda Paredes at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3420"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 black and white digital image (tiff
+		  format)</extent> 
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6772composer Hilda Paaredes-.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_025</container> 
+		
+               <unittitle>Composer Hilda Paredes at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3421"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6772composer Hilda Paaredes---.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_026</container> 
+		
+               <unittitle>Composer Hilda Paredes teaching a master class, with
+		  student composers John Rot, Ramteen Sazegari, Luciano Leite Barbosa, Marc Migo
+		  Cortes, Camilo Mendez (obscured), and John Yu at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3422"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6780composer Hilda Paredes master
+		    class.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_027</container> 
+		
+               <unittitle>Composers Joshua Fineberg, David Felder, Bernard Rands and
+		  Stephen Hartke at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3423"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6788stage.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_028</container> 
+		
+               <unittitle>Violinist Yuki Numata Resnick and pianist Steven Beck
+		  rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3424"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6790 Stephen Beck Yuki Numata
+		    Resnick.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_029</container> 
+		
+               <unittitle>Composer Stephen Hartke in rehearsal with pianist Steven
+		  Beck and violinist Yuki Numata Resnick at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3425"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6796composer Stephen Hartke Yuki Numata
+		    Resnick pianist Beck.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_030</container> 
+		
+               <unittitle>Flutist Emi Ferguson and percussionist Thomas Kolor
+		  (obscured) rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3426"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6799Emi Ferguson flute Tom Kolor
+		    percussion in Jessica Rudman .tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_031</container> 
+		
+               <unittitle>Student composers Jessica Rudman and Ramteen Sazegari at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3427"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6801student composers Jessica Rudman and
+		    Ramteen Sazegare.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_032</container> 
+		
+               <unittitle>Student composers Jessica Rudman and Ramteen Sazegari with
+		  percussionist Thomas Kolor, flutist Emi Ferguson, and guitarist Sungmin Shin at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3428"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6804flutist Emi Ferguson, Tom Kolor
+		    percussion with student composer Jessica Rudman and Sungmin Shin,
+		    guitar.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_033</container> 
+		
+               <unittitle>Composer Stephen Hartke teaching a master class to student
+		  composers Haralabos Stafylakis, and Mu-Xuan Lin at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3430"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6807master class comoiser
+		    Haertke.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_034</container> 
+		
+               <unittitle>Composer Stephen Hartke teaching a master class to student
+		  composers Haralabos Stafylakis (obscured), and Mu-Xuan Lin at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3431"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6809composer Stephen Hartke master
+		    class.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_035</container> 
+		
+               <unittitle>Horn player Adam Unsworth performing David Felder's
+		  composition Box man at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3432"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6812Adam Unswroth, horn in David Felder
+		    BoxMan.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_036</container> 
+		
+               <unittitle>Clarinetist Adrián Sandí performing Hilda Paredes's
+		  composition Intermezzo Maliconico at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3437"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6813Adrian Sandi, clarinet.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_037</container> 
+		
+               <unittitle>Flutist Emi Ferguson performing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3441"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6816Emi Ferguson flute.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_038</container> 
+		
+               <unittitle>Flutist Emi Ferguson performing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3433"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6818 Emi Ferguson, flute.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_039</container> 
+		
+               <unittitle>Clarinetist Marianne Gythfeldt performing Joshua
+		  Fineberg's composition Facets at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3434"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6819Marianne Gythfeldt, clarinet.tif</p>
+		  
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_040</container> 
+		
+               <unittitle>Thomas Kolor performing Philippe Hurel's composition Loops
+		  IV on the marimba at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3435"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6820Tom Kolor.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_041</container> 
+		
+               <unittitle>Violinist Yuki Numata Resnick and pianist Steven Beck
+		  performing Stephen Hartke's composition Netsuke at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-02" era="ce" calendar="gregorian">2014-06-02</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3436"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Yuki Numata Resnick pianist Beck.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_042</container> 
+		
+               <unittitle>Composer Bernard Rands at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3438"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6824Bernard Rands 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_043</container> 
+		
+               <unittitle>Conductor Jerry Hou conferring with mezzo-soprano Julia
+		  Bentley at a rehearsal with members of the Slee Sinfonietta, including violist
+		  David Rose at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3439"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6832Julia Bentley Jerry Hou
+		    conductor.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_044</container> 
+		
+               <unittitle>Composer Bernard Rands listening to a rehearsal by
+		  conductor Jerry Hou, mezzo-soprano Julia Bentley, and members of the Slee
+		  Sinfonietta, percussionist Thomas Kolor, violist David Rose, and trumpeter Mike
+		  Gurfield at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3440"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6834 Julia Bentley Jerry Hou conductor
+		    Bernared Rands rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_045</container> 
+		
+               <unittitle>Composer Bernard Rands listening with Julia Bentley to a
+		  rehearsal by pianist Steven Beck at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3442"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6850pianist Beck.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_046</container> 
+		
+               <unittitle>Composer Bernard Rands with mezzo-soprano Julia Bentley
+		  listening to a rehearsal by Steven Beck at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3445"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6852 June in Buffalo 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_047</container> 
+		
+               <unittitle>Composer Bernard Rands with conductor Jerry Hou and
+		  mezzo-soprano Julia Bentley listening to a rehearsal by Steven Beck at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3443"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6854pianist Beck with Bernard Rands
+		    reh..tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_048</container> 
+		
+               <unittitle>Pianist Steven Beck rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3444"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6868Steven Beck piano.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_049</container> 
+		
+               <unittitle>Conductor Brad Lubman and student composer Marc Migo
+		  Cortes at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3446"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6876SEND SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_050</container> 
+		
+               <unittitle>Flutist Zach Sheets with student composer Luciano Leite
+		  Barbosa and pianist Oliver Hagen at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3447"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6879 June in Buffalo.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_051</container> 
+		
+               <unittitle>Conductor Brad Lubman rehearsing with members of Ensemble
+		  Signal, violinist Yuki Numata Resnick, violoncellist Lauren Radnofsky,
+		  clarinetist Adrián Sandí, percussionist Nick Tolle, and flutist Zach Sheets at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3448"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6889 SEND SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_052</container> 
+		
+               <unittitle>Conductor Jerry Hou and mezzo-soprano Julia Bentley in
+		  performance with Slee Sinfonietta members, violinist Yuki Numata Resnick,
+		  flutist Emi Ferguson, violist David Rose, trumpeter Mike Gurfield,
+		  percussionist John Bacon, violoncellist Jonathan Golove (obscured), and
+		  clarinetist Marianne Gythfeldt at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3449"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6893 June in Buffalo.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_053</container> 
+		
+               <unittitle>Mezzo-soprano Julia Bentley in performance with Slee
+		  Sinfonietta members, violinist Yuki Numata Resnick (obscured), pianist Ning Yu,
+		  flutist Emi Ferguson, and violist David Rose at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3450"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6895 Julia Bentley SEND SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_054</container> 
+		
+               <unittitle>Conductor Jerry Hou and mezzo-soprano Julia Bentley
+		  onstage after a performance with Slee Sinfonietta members, violinist Yuki
+		  Numata Resnick, pianist Ning Yu, flutist Emi Ferguson, violist David Rose, and
+		  trumpeter Mike Gurfield at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3451"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6896 Julia Bentley Jerry Hou conductor
+		    SEND SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_055</container> 
+		
+               <unittitle>Conductor Jerry Hou and mezzo-soprano Julia Bentley
+		  onstage after a performance with Slee Sinfonietta members, percussionist Thomas
+		  Kolor, violinist Yuki Numata Resnick, flutist Emi Ferguson, violist David Rose,
+		  trumpeter Mike Gurfield, violoncellist Jonathan Golove, percussionist John
+		  Bacon, and clarinetist Marianne Gythfeldt at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3459"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6897 Julia Bentley Jerry Hou conductor
+		    SEN SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_056</container> 
+		
+               <unittitle>Conductor Jerry Hou and mezzo-soprano Julia Bentley
+		  onstage after a performance with Slee Sinfonietta members, percussionist Thomas
+		  Kolor, violinist Yuki Numata Resnick, flutist Emi Ferguson, violist David Rose,
+		  trumpeter Mike Gurfield, violoncellist Jonathan Golove, percussionist John
+		  Bacon, and clarinetist Marianne Gythfeldt at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3452"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6898 Julia Bentley Jerry Hou conductor
+		    SENd SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_057</container> 
+		
+               <unittitle>Conductor Jerry Hou and mezzo-soprano Julia Bentley
+		  onstage after a performance with Slee Sinfonietta members, percussionist Thomas
+		  Kolor, violinist Yuki Numata Resnick, flutist Emi Ferguson, pianist Ning Yu,
+		  violist David Rose, trumpeter Mike Gurfield, violoncellist Jonathan Golove,
+		  percussionist John Bacon, and clarinetist Marianne Gythfeldt at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3453"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6899 Bernard Rands SEND SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_058</container> 
+		
+               <unittitle>Composer Bernard Rands and conductor Jerry Hou onstage
+		  with mezzo-soprano Julia Bentley and members of the Slee Sinfonietta,
+		  percussionist Thomas Kolor, violinist Yuki Numata Resnick, pianist Ning Yu,
+		  flutist Emi Ferguson, and violist David Rose after a performance at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3454"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6900Bernard Rands SEN SEND.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_059</container> 
+		
+               <unittitle>Composer Bernard Rands and conductor Jerry Hou onstage
+		  with mezzo-soprano Julia Bentley and members of the Slee Sinfonietta,
+		  percussionist Thomas Kolor, violinist Yuki Numata Resnick, pianist Ning Yu,
+		  flutist Emi Ferguson, and violist David Rose after a performance at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3455"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6901Bernard Rands Send Send.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_060</container> 
+		
+               <unittitle>Composer Bernard Rands and conductor Jerry Hou onstage
+		  with mezzo-soprano Julia Bentley and members of the Slee Sinfonietta,
+		  percussionist Thomas Kolor, violinist Yuki Numata Resnick, pianist Ning Yu,
+		  flutist Emi Ferguson, and violist David Rose after a performance at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3456"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6902Bernard Rands send send.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_061</container> 
+		
+               <unittitle>Composer Bernard Rands and conductor Jerry Hou onstage
+		  with mezzo-soprano Julia Bentley and members of the Slee Sinfonietta,
+		  percussionist Thomas Kolor, violinist Yuki Numata Resnick, pianist Ning Yu
+		  (obscured), flutist Emi Ferguson, and violist David Rose (obscured) after a
+		  performance at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3457"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6903 Bernard Rands send send.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_062</container> 
+		
+               <unittitle>Composer Bernard Rands and conductor Jerry Hou onstage
+		  with mezzo-soprano Julia Bentley and members of the Slee Sinfonietta,
+		  percussionist Thomas Kolor, violinist Yuki Numata Resnick, pianist Ning Yu,
+		  flutist Emi Ferguson, and violist David Rose (obscured) after a performance at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3458"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6904Bernard Rands Jerry Hou
+		    conductor.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_063</container> 
+		
+               <unittitle>Composer Bernard Rands and conductor Jerry Hou onstage
+		  with mezzo-soprano Julia Bentley and members of the Slee Sinfonietta,
+		  percussionist Thomas Kolor, violinist Yuki Numata Resnick, pianist Ning Yu,
+		  flutist Emi Ferguson, and violist David Rose (obscured) after a performance at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3460"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6905 Bernard Rands send send.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_064</container> 
+		
+               <unittitle>Composer Bernard Rands and conductor Jerry Hou with
+		  mezzo-soprano Julia Bentley and members of the Slee Sinfonietta, percussionist
+		  Thomas Kolor, violinist Yuki Numata Resnick, pianist Ning Yu (partially
+		  obscured), flutist Emi Ferguson, and violist David Rose at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3461"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6906 Bernard Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_065</container> 
+		
+               <unittitle>Pianist Steven Beck performing Bernard Rands's composition
+		  Piano preludes at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3470"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6910 Steven Beck piano.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_066</container> 
+		
+               <unittitle>Composer Hilda Paredes in rehearsal with violinist Brusk
+		  Zanganeh at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3462"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6914composer Hilda Paredes.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_067</container> 
+		
+               <unittitle>Composer Hilda Paredes in rehearsal with violoncellist
+		  Elemér Lavotha and violinist Brusk Zanganeh at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3463"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6915composer Hilda Paredes and
+		    Norrbotten NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_068</container> 
+		
+               <unittitle>Members of ensemble Norrbotten NEO, violinist Brusk
+		  Zanganeh, violoncellist Elemér Lavotha, flutist Sara Hammarström, and
+		  clarinetist Robert Ek rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3464"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6919Norrbotten Neo rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_069</container> 
+		
+               <unittitle>Conductor Petter Sundkvist in rehearsal with the ensemble
+		  Norrbotten NEO: percussionist Daniel Saur, flutist Sara Hammarström,
+		  violoncellist Elemér Lavotha, and violinist Brusk Zanganeh at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3465"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_692 Norrbotten NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_070</container> 
+		
+               <unittitle>Conductor Petter Sundkvist in rehearsal with Norrbotten
+		  NEO members: flutist Sara Hammarström and violoncellist Elemér Lavotha at June
+		  in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3466"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6929June in Buffalo.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_071</container> 
+		
+               <unittitle>Composer Hilda Paredes in rehearsal with pianist Märten
+		  Landström of Norrbotten NEO at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3467"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6930Hilda Paredes.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_072</container> 
+		
+               <unittitle>Composer Joshua Fineberg in rehearsal with conductor
+		  Petter Sundkvist, violoncellist Elemér Lavotha, and flutist Sara Hammarström at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3468"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6933composer Fineberg and Norrbotten
+		    NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_073</container> 
+		
+               <unittitle>Violinist Irvine Arditti in rehearsal at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3469"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6937Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_074</container> 
+		
+               <unittitle>Violinist Irvine Arditti in rehearsal at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3474"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6938Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_075</container> 
+		
+               <unittitle>Violinist Irvine Arditti in rehearsal at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3479"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 black and white digital image (tiff
+		  format)</extent> 
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6938Irving Arditti=.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_076</container> 
+		
+               <unittitle>Violinist Irvine Arditti in rehearsal at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3471"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6940Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_077</container> 
+		
+               <unittitle>Violinist Irvine Arditti in rehearsal at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3472"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6943Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_078</container> 
+		
+               <unittitle>Pianist Märten Landström in rehearsal at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3473"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6945Norbotten NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_079</container> 
+		
+               <unittitle>Pianist Märten Landström rehearsing on a flexatone at June
+		  in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3475"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6953June in Buffalo 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_080</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3476"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6966Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_081</container> 
+		
+               <unittitle>Conductor Petter Sundkvist onstage after a performance
+		  with ensemble Norrbotten NEO: pianist Märten Landström, violist Kim Hellgren,
+		  violoncellist Elemér Lavotha, percussionist Daniel Saur, flutist Sara
+		  Hammarström, and clarinetist Robert Ek at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3477"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6968 Norrbotten NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_082</container> 
+		
+               <unittitle>Conductor Petter Sundkvist in performance with ensemble
+		  Norrbotten NEO: pianist Märten Landström, violist Kim Hellgren, violoncellist
+		  Elemér Lavotha, percussionist Daniel Saur, flutist Sara Hammarström, and
+		  clarinetist Robert Ek at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3478"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6970Norrbotten NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_083</container> 
+		
+               <unittitle>Conductor Petter Sundkvist in performance with Norrbotten
+		  NEO members: flutist Sara Hammarström, violoncellist Elemér Lavotha, and
+		  clarinetist Robert Ek at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3480"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6974Norrbotten NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_084</container> 
+		
+               <unittitle>Conductor Petter Sundkvist in performance with Norrbotten
+		  NEO members: flutist Sara Hammarström, violoncellist Elemér Lavotha, and
+		  clarinetist Robert Ek at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3481"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6975June in Buffalo Norrbotten
+		    Neo.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_085</container> 
+		
+               <unittitle>Conductor Petter Sundkvist in performance with ensemble
+		  Norrbotten NEO: pianist Märten Landström, violinist Brusk Zanganeh,
+		  violoncellist Elemér Lavotha, flutist Sara Hammarström, clarinetist Robert Ek,
+		  and percussionist Daniel Saur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3482"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6976Norrbotten NEO composer Hilda
+		    Paredes.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_086</container> 
+		
+               <unittitle>Composer Hilda Paredes onstage after a performance by
+		  Norrbotten NEO members: pianist Märten Landström, violinist Brusk Zanganeh,
+		  violoncellist Elemér Lavotha, and flutist Sara Hammarström at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3483"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6977Hilda Paredes.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_087</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and conductor Petter
+		  Sundkvist in performance with the ensemble Norrbotten NEO: pianist Märten
+		  Landström violinist Brusk Zanganeh, violist Kim Hellgren (obscured),
+		  violoncellist Elemér Lavotha, clarinetist Robert Ek, and percussionists Daniel
+		  Saur and Tom Kolor (obscured) in performance at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3484"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6978 Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_088</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and conductor Petter
+		  Sundkvist in performance with the ensemble Norrbotten NEO: violinist Brusk
+		  Zanganeh, violist Kim Hellgren, and violoncellist Elemér Lavotha in performance
+		  at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3485"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6979Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_089</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and conductor Petter
+		  Sundkvist in performance with the ensemble Norrbotten NEO: violinist Brusk
+		  Zanganeh, violist Kim Hellgren, violoncellist Elemér Lavotha, percussionists
+		  Tom Kolor and Daniel Saur, and flutist Sara Hammarström at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3486"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6980 Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_090</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood in performance with the
+		  ensemble Norrbotten NEO at June in Buffalo 2014 with ensemble members
+		  violoncellist Elemér Lavotha and percussionist Daniel Saur in the background, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3487"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6981 Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_091</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and conductor Petter
+		  Sundkvist performing with ensemble Norrbotten NEO: violist Kim Hellgren,
+		  percussionist Daniel Saur, and flutist Sara Hammarström at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3488"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6983 Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_092</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and conductor Petter
+		  Sundkvist in performance with ensemble Norrbotten NEO: violinist Brusk
+		  Zanganeh, violist Kim Hellgren, flutist Sara Hammarström, and percussionists
+		  Tom Kolor and Daniel Saur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3489"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6984Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_093</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and conductor Petter
+		  Sundkvist with ensemble Norrbotten NEO: pianist Märten Landström, violinist
+		  Brusk Zanganeh, violist Kim Hellgren, violoncellist Elemér Lavotha, flutist
+		  Sara Hammarström, clarinetist Robert Ek, and percussionists Tom Kolor and
+		  Daniel Saur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3495"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6986 Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_094</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and composer David Felder
+		  onstage with ensemble Norrbotten NEO: pianist Märten Landström, violist Kim
+		  Hellgren, percussionist Tom Kolor, violoncellist Elemér Lavotha, flutist Sara
+		  Hammarström, and clarinetist Robert Ek after a performance at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3490"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6991Isherwood David Felder.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_095</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and composer David Felder
+		  onstage with ensemble Norrbotten NEO: pianist Märten Landström, violist Kim
+		  Hellgren, percussionist Tom Kolor, violoncellist Elemér Lavotha, flutist Sara
+		  Hammarström, and clarinetist Robert Ek after a performance at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3491"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6992David Felder Isherwood.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_096</container> 
+		
+               <unittitle>Bass-baritone Nicholas Isherwood and composer David Felder
+		  onstage with ensemble Norrbotten NEO: pianist Märten Landström, violist Kim
+		  Hellgren, percussionist Tom Kolor, violoncellist Elemér Lavotha, flutist Sara
+		  Hammarström, and clarinetist Robert Ek after a performance at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-04" era="ce" calendar="gregorian">2014-06-04</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3492"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6995David Felder.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_097</container> 
+		
+               <unittitle>Violinist Alexandra Greffin-Klein and violoncellist Ingrid
+		  Schoenlaub from Ensemble Court-Circuit rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3493"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_6997 June in Buffalo Ensemble
+		    Court-Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_098</container> 
+		
+               <unittitle>Pianist Jean-Marie Cottet of Ensemble Court-circuit
+		  rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3494"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7007Ensemble Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_099</container> 
+		
+               <unittitle>Conductor Julien Leroy and members of Ensemble
+		  Court-Circuit: flutist Jérémie Fèvre clarinetist Pierre Dutrieu, violinist
+		  Alexandra Greffin-Klein, violoncellist Ingrid Schoenlaub, violist David Rose,
+		  and pianist Jean-Marie Cottet rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3496"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7008Ensemble Court Circuit
+		    rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_100</container> 
+		
+               <unittitle>Conductor Julien Leroy conducting at a rehearsal at June
+		  in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3497"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7014Ensemble Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_101</container> 
+		
+               <unittitle>Conductor Julien Leroy and composer David Felder with
+		  members of Ensemble Court-Circuit: flutist Jérémie Fèvre clarinetist Pierre
+		  Dutrieu, violinist Alexandra Greffin-Klein, violist David Rose, violoncellist
+		  Ingrid Schoenlaub, and percussionist Eve Payeur rehearsing at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3498"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7024rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_102</container> 
+		
+               <unittitle>Conductor Julien Leroy consulting with composer David
+		  Felder at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3503"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7037David Felder Ensemble Court
+		    Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_103</container> 
+		
+               <unittitle>Composer Joshua Fineberg with pianist Jean-Marie Cottet
+		  and clarinetist Pierre Dutrieu at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3499"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7043composer Fineberg Court
+		    Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_104</container> 
+		
+               <unittitle>Percussionist Eve Payeur rehearsing at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3500"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7049JIB 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_105</container> 
+		
+               <unittitle>Conductor Julien Leroy rehearsing members of Ensemble
+		  Court-Circuit: pianist Jean-Marie Cottet, flutist Jérémie Fèvre, clarinetist
+		  Pierre Dutrieu, violinist Alexandra Greffin-Klein, violoncellist Ingrid
+		  Schoenlaub, and percussionist Eve Payeur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3501"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7051Ensemble Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_106</container> 
+		
+               <unittitle>Conductor Julien Leroy rehearsing members of Ensemble
+		  Court-Circuit: pianist Jean-Marie Cottet, flutist Jérémie Fèvre, clarinetist
+		  Pierre Dutrieu, violinist Alexandra Greffin-Klein, violoncellist Ingrid
+		  Schoenlaub, and percussionist Eve Payeur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3502"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7052ensemble Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_107</container> 
+		
+               <unittitle>Composer Bernard Rands giving a lecture to student
+		  composers at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3504"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7060Bernard Rands lecture.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_108</container> 
+		
+               <unittitle>Bernard Rands giving a lecture at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3505"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7061Bernard Rands lecture.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_109</container> 
+		
+               <unittitle>Student composers Binna Kim and Chin Ting Chan with
+		  bass-baritone Nicholas Isherwood and composers Stephen Hartke and Bernard Rands
+		  at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3506"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7063Isherwood Stephen Hartke Bernard
+		    Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_110</container> 
+		
+               <unittitle>Composer Bernard Rands speaking with student composer
+		  Binna Kim and two unidentified students at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3507"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7073Bernard Rands and students.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_111</container> 
+		
+               <unittitle>Composer Bernard Rands speaking with student composer
+		  Binna Kim and two unidentified students at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3509"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7074Bernard Rands and students.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_112</container> 
+		
+               <unittitle>Student composers Luciano Leite Barbosa and Mu-Xuan Lin
+		  consulting a score at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3508"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7082studentcomposers Mu-Xuan-Lin.tif</p>
+		  
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_113</container> 
+		
+               <unittitle>Violinist Brusk Zanganeh rehearsing at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3510"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7085JIB 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_114</container> 
+		
+               <unittitle>Violinist Brusk Zanganeh rehearsing at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3511"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7087Brusk Zanganeh.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_115</container> 
+		
+               <unittitle>Conductor Petter Sundkvist in rehearsal with members of
+		  Norrbotten NEO: pianist Märten Landström, violinist Brusk Zanganeh,
+		  violoncellist Elemér Lavotha, flutist Sara Hammarström, clarinetist Robert Ek,
+		  and percussionist Daniel Saur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3512"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Norrbotten NEO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_116</container> 
+		
+               <unittitle>Conductor Petter Sundkvist and composer Mu-Xuan Lin in
+		  rehearsal with Norrbotten NEO: pianist Märten Landström, violinist Brusk
+		  Zanganeh, violoncellist Elemér Lavotha, flutist Sara Hammarström, clarinetist
+		  Robert Ek, and percussionist Daniel Saur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3513"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7095Norrbotten NEO and studentcomposer
+		    Lin.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_117</container> 
+		
+               <unittitle>Violinist Alexandra Greffin-Klein and violoncellist Ingrid
+		  Schoenlaub of Ensemble Court-circuit rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3514"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7101Ensemble Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_118</container> 
+		
+               <unittitle>Violoncellist Ingrid Schoenlaub marking her part at a
+		  rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3515"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7102JIB 2014Ingrid Schoenlaub.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_119</container> 
+		
+               <unittitle>Conductor Julien Leroy in performance with Ensemble
+		  Court-Circuit: pianist Jean-Marie Cottet, flutist Jérémie Fèvre, clarinetist
+		  Pierre Dutrieu, violinist Alexandra Greffin-Klein, violist David Rose,
+		  violoncellist Ingrid Schoenlaub, and percussionist Eve Payeur at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3516"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7109Ensemble Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_120</container> 
+		
+               <unittitle>Conductor Julien Leroy onstage after a performance with
+		  Ensemble Court-Circuit: pianist Jean-Marie Cottet, flutist Jérémie Fèvre,
+		  clarinetist Pierre Dutrieu, violinist Alexandra Greffin-Klein, violist David
+		  Rose, violoncellist Ingrid Schoenlaub, and percussionist Eve Payeur at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3517"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7110Ensemble Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_121</container> 
+		
+               <unittitle>Composer David Felder shaking hands with conductor Julien
+		  Leroy after a performance by members of Ensemble Court-Circuit: flutist Jérémie
+		  Fèvre, clarinetist Pierre Dutrieu, violinist Alexandra Greffin-Klein, violist
+		  David Rose, and percussionist Eve Payeur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3524"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7112David Felder and Ensemble Court
+		    Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_122</container> 
+		
+               <unittitle>Composer David Felder onstage after a performance by
+		  conductor Julien Leroy and members of Ensemble Court-Circuit: pianist
+		  Jean-Marie Cottet, flutist Jérémie Fèvre, clarinetist Pierre Dutrieu, violinist
+		  Alexandra Greffin-Klein, and violist David Rose at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3518"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7114David Felder.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_123</container> 
+		
+               <unittitle>Ensemble Court-circuit members violinist Alexandra
+		  Greffin-Klein and violoncellist Ingrid Schoenlaub acknowledging applause after
+		  a performance at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3519"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_711 Alexandra Greffin-Klein Ingrid
+		    Schoenlaub,cello.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_124</container> 
+		
+               <unittitle>Conductor Julien Leroy in performance with Ensemble
+		  Court-Circuit: pianist Jean-Marie Cottet, flutist Jérémie Fèvre, clarinetist
+		  Pierre Dutrieu, violinist Alexandra Greffin-Klein, violoncellist Ingrid
+		  Schoenlaub, and percussionist Eve Payeur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3520"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: David Felder partial (dist)res(s)toration
+		    (2002).tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_125</container> 
+		
+               <unittitle>Conductor Julien Leroy shaking hands with composer Joshua
+		  Fineberg onstage after a performance with members of Ensemble Court-Circuit:
+		  flutist Jérémie Fèvre, clarinetist Pierre Dutrieu, violoncellist Ingrid
+		  Schoenlaub, and percussionist Eve Payeur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3521"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Fineberg Objects trouve (2008).tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_126</container> 
+		
+               <unittitle>Conductor Julien Leroy in performance with Ensemble
+		  Court-Circuit: pianist Jean-Marie Cottet, clarinetist Pierre Dutrieu, violinist
+		  Alexandra Greffin-Klein, violoncellist Ingrid Schoenlaub, and percussionist Eve
+		  Payeur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3522"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7123JIB.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_127</container> 
+		
+               <unittitle>Conductor Julien Leroy acknowledging audience applause
+		  after a performance with Ensemble Court-Circuit: pianist Jean-Marie Cottet,
+		  flutist Jérémie Fèvre, clarinetist Pierre Dutrieu, violinist Alexandra
+		  Greffin-Klein, violoncellist Ingrid Schoenlaub, and percussionist Eve Payeur at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3523"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7124JIB Ensemble Court-Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_128</container> 
+		
+               <unittitle>Conductor Julien Leroy acknowledging audience applause
+		  with Ensemble Court-Circuit: violinist Alexandra Greffin-Klein, pianist
+		  Jean-Marie Cottet, clarinetist Pierre Dutrieu, flutist Jérémie Fèvre,
+		  percussionist Eve Payeur, and violoncellist Ingrid Schoenlaub at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3525"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7126Ensemble Court-Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_129</container> 
+		
+               <unittitle>Ensemble Signal cimbalom player Nick Tolle rehearsing at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3526"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7130June In Buffalo 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_130</container> 
+		
+               <unittitle>Conductor Brad Lubman and violinist Irvine Arditti in
+		  rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3530"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7133Brad Lubman Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_131</container> 
+		
+               <unittitle>Conductor Brad Lubman rehearsing with members of Ensemble
+		  Signal: violist Isabel Hagen, harpist Sophie Rusnock, flutist Kelli Kathman,
+		  and violoncellist Lauren Radnofsky at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3527"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7136Ensemble Signal Rehearsal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_132</container> 
+		
+               <unittitle>Conductor Brad Lubman and violinist Irvine Arditti
+		  rehearsing with members of Ensemble Signal: cimbalom player Nick Tolle, harpist
+		  Sophie Rusnock, percussionist Bill Solomon, violist Isabel Hagen, clarinetist
+		  Adrián Sandí, violoncellist Lauren Radnofsky, horn player Kate Sheeran,
+		  percussionist Carson Moody, and bassist Greg Chudzik at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3528"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7138Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_133</container> 
+		
+               <unittitle>Conductor Brad Lubman, violinist Irvine Arditti, and
+		  double bassist Greg Chudzik rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3529"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Irving Arditti Ensemble Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_134</container> 
+		
+               <unittitle>Conductor Brad Lubman and violinist Irvine Arditti
+		  examining a score at a rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3531"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7149Brad Lubman Irving Arditti Ensemble
+		    Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_135</container> 
+		
+               <unittitle>Ensemble Signal members, harpist Sophie Rusnock, flutist
+		  Kelli Kathman, clarinetist Adrián Sandí, and horn player Kate Sheeran
+		  rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3532"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7150 JIB 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_136</container> 
+		
+               <unittitle>Conductor Brad Lubman and violinist Irvine Arditti
+		  examining a score at a rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3533"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Ensemble Signal Brad Lubman Irving Arditti
+		    in Hilda Paredes Senales (2012).tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_137</container> 
+		
+               <unittitle>Flutist Jérémie Fèvre, violoncellist Ingrid Schoenlaub,
+		  and clarinetist Pierre Dutrieu rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3534"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: rehearsal June in Buffalo 2014 Ensemble
+		    Court Circuit.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_138</container> 
+		
+               <unittitle>Vocalist Esin Gündüz with violoncellist Jonathan Golove,
+		  percussionist John Bacon and pianist Michael McNeill performing at PAUSA Art
+		  House during June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3535"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Resaunance Concert at Pausa June 6
+		    2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_139</container> 
+		
+               <unittitle>Vocalist Esin Gündüz with violoncellist Jonathan Golove,
+		  percussionist John Bacon and pianist Michael McNeill performing at PAUSA Art
+		  House during June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3538"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Resaunance June in Buffalo 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_140</container> 
+		
+               <unittitle>Vocalist Esin Gündüz with violoncellist Jonathan Golove,
+		  percussionist John Bacon and pianist Michael McNeill performing at PAUSA Art
+		  House during June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3536"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Resaunance at Pausa June in Buffalo
+		    2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_141</container> 
+		
+               <unittitle>Violoncellist Jonathan Golove performing at PAUSA Art
+		  House during June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-06" era="ce" calendar="gregorian">2014-06-06</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3537"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Jonathan Golove.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_142</container> 
+		
+               <unittitle>Conductor Brad Lubman, oboist Jacqueline Leclair, and
+		  composer Bernard Rands rehearsing with members of Ensemble Signal: violinists
+		  Yuki Numata Resnick and Will Knuth, flutist Kelli Kathman, clarinetist Adrián
+		  Sandí, violist Isabel Hagen, and violoncellist Lauren Radnofsky, at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3539"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Bernard Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_143</container> 
+		
+               <unittitle>Conductor Brad Lubman and oboist Jacqueline Leclair
+		  examining a score at rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3540"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Brad Lubman conductor Jacqueline Leclar oboe
+		    Ensemble Signal Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_144</container> 
+		
+               <unittitle>Conductor Brad Lubman, composer Bernard Rands, and
+		  conductor Jerry Hou conversing with pianist Oliver Hagen at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3541"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Brad Lubman Bernard Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_145</container> 
+		
+               <unittitle>Guitarist Sungmin Shin performing at June in Buffalo 2014,
+		  
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3542"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Sungmin Shin.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_146</container> 
+		
+               <unittitle>Pianist Oliver Hagen performing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3543"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7199June in Buffalo.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_147</container> 
+		
+               <unittitle>Conductor Brad Lubman and guitarist Sungmin Shin
+		  rehearsing with members of Ensemble Signal: clarinetist Adrián Sandí, flutist
+		  Kelli Kathman, violoncellist Lauren Radnofsky, violist Isabel Hagen, and
+		  doublebassist Greg Chudzik at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3544"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: rehearsal Requiscat (2010).tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_148</container> 
+		
+               <unittitle>Conductor Brad Lubman and guitarist Sungmin Shin
+		  rehearsing with members of Ensemble Signal: doublebassist Greg Chudzik, violist
+		  Isabel Hagen, violinists Will Knuth and Yuki Numata Resnick, and pianist Oliver
+		  Hagen at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3547"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7203rehearsal JIB.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_149</container> 
+		
+               <unittitle>Conductor Brad Lubman and guitarist Sungmin Shin
+		  rehearsing with members of Ensemble Signal: flutist Kelli Kathman and violist
+		  Isabel Hagen at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3545"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7209Sungmin Shin quitar David Felder
+		    Ensemble Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_150</container> 
+		
+               <unittitle>Conductor Brad Lubman and guitarist Sungmin Shin
+		  rehearsing with members of Ensemble Signal: pianist Oliver Hagen, violinists
+		  Yuki Numata Resnick and Will Knuth, flutist Kelli Kathman, percussionist Bill
+		  Solomon, clarinetist Adrián Sandí, violist Isabel Hagen, violoncellist Lauren
+		  Radnofsky, and doublebassist Greg Chudzik at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3546"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_721 rehearsal David Felder Ensemble
+		    Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_151</container> 
+		
+               <unittitle>Conductor Brad Lubman and guitarist Sungmin Shin
+		  rehearsing with members of Ensemble Signal: violinists Yuki Numata Resnick and
+		  Will Knuth, flutist Kelli Kathman, percussionist Bill Solomon, and violist
+		  Isabel Hagen at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3548"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7214reheasal Ensembal Signal David
+		    Felder Requiscat ( 2010).tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_152</container> 
+		
+               <unittitle>Conductor Brad Lubman and composer David Felder in a
+		  rehearsal at June in Buffalo 2014 with bass player Greg Chudzik in the
+		  background, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3549"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Brad Lubman conductor David Felder Ensemble
+		    Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_153</container> 
+		
+               <unittitle>Conductor Brad Lubman and composer David Felder in a
+		  rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3550"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7218Brad Lubman conductor David
+		    Felder.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_154</container> 
+		
+               <unittitle>Conductor Brad Lubman and composer David Felder in a
+		  rehearsal at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3551"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7219David Fellder Brad Lubman.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_155</container> 
+		
+               <unittitle>Conductor Brad Lubman and guitarist Sungmin Shin
+		  performing with members of Ensemble Signal: pianist Oliver Hagen, violinists
+		  Yuki Numata Resnick and Will Knuth, flutist Kelli Kathman, percussionist Bill
+		  Solomon, violist Isabel Hagen, violoncellist Lauren Radnofsky, and double
+		  bassist Greg Chudzik at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3552"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7234David Felder Ensemble Signal.tif</p>
+		  
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_156</container> 
+		
+               <unittitle>Conductor Brad Lubman with composer David Felder onstage
+		  after a performance of Felder's Requiescat with members of Ensemble Signal:
+		  violinists Yuki Numata Resnick and Will Knuth, flutist Kelli Kathman,
+		  percussionist Bill Solomon, clarinetist Adrián Sandí, violist Isabel Hagen, and
+		  violoncellist Lauren Radnofsky at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3553"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7235David Felder Ensemble Signal.tif</p>
+		  
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_157</container> 
+		
+               <unittitle>Conductor Brad Lubman with composer David Felder onstage
+		  after a performance of Felder's Requiescat with guitarist Sungmin Shin and
+		  members of Ensemble Signal: pianist Oliver Hagen, violinists Yuki Numata
+		  Resnick and Will Knuth, flutist Kelli Kathman, percussionist Bill Solomon,
+		  violist Isabel Hagen, and violoncellist Lauren Radnofsky at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3554"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: David Felder Brad Lubman conductor Ensemble
+		    Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_158</container> 
+		
+               <unittitle>Conductor Brad Lubman with composer David Felder onstage
+		  after a performance of Felder's Requiescat with guitarist Sungmin Shin and
+		  members of Ensemble Signal: pianist Oliver Hagen, violinists Yuki Numata
+		  Resnick and Will Knuth, flutist Kelli Kathman, percussionist Bill Solomon,
+		  violist Isabel Hagen, and violoncellist Lauren Radnofsky at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3555"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: David Felder Requiescat (2010) Ensemble
+		    Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_159</container> 
+		
+               <unittitle>Conductor Brad Lubman and oboist Jacqueline Leclair
+		  performing with members of Ensemble Signal: violinists Yuki Numata Resnick and
+		  Will Knuth, clarinetist Adrián Sandí, violist Isabel Hagen, and violoncellist
+		  Lauren Radnofsky at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3564"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7239Ensemble Signal Rands CONCERTINO
+		    (1996).tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_160</container> 
+		
+               <unittitle>Oboist Jacqueline Leclair and composer Bernard Rands
+		  onstage with harpist Sophie Rusnock and violinist Yuki Numata Resnick after a
+		  performance of Rands's Concertino at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3556"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7240Bernard Rands Jacqueline Leclair
+		    oboe CONCERTINO(1996).tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_161</container> 
+		
+               <unittitle>Conductor Brad Lubman, oboist Jacqueline Leclair and
+		  composer Bernard Rands onstage with members of Ensemble Signal: harpist Sophie
+		  Rusnock, violinists Yuki Numata Resnick and Will Knuth, flutist Kelli Kathman,
+		  clarinetist Adrián Sandí, violist Isabel Hagen, and violoncellist Lauren
+		  Radnofsky after a performance of Rands's Concertino at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3557"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7241Bernard Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_162</container> 
+		
+               <unittitle>Conductor Brad Lubman, oboist Jacqueline Leclair and
+		  composer Bernard Rands onstage with members of Ensemble Signal: harpist Sophie
+		  Rusnock, violinists Yuki Numata Resnick and Will Knuth, flutist Kelli Kathman
+		  (obscured), clarinetist Adrián Sandí (obscured), violist Isabel Hagen, and
+		  violoncellist Lauren Radnofsky after a performance of Rands's Concertino at
+		  June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3558"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7242Bernard Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_163</container> 
+		
+               <unittitle>Conductor Brad Lubman and pianist Oliver Hagen performing
+		  Philippe Hurel's Interstices with Ensemble Signal percussionists Carson Moody,
+		  Bill Solomon, and Nick Tolle at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3559"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7243Philippe Hurel.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_164</container> 
+		
+               <unittitle>Conductor Brad Lubman and pianist Oliver Hagen performing
+		  Philippe Hurel's Interstices with Ensemble Signal percussionists Carson Moody,
+		  Bill Solomon, and Nick Tolle at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3560"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7246Philippe Hurel Interstices.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_165</container> 
+		
+               <unittitle>Conductor Brad Lubman and violinist Irvine Arditti
+		  performing with Ensemble Signal: cimbalom player Nick Tolle, violist Isabel
+		  Hagen, percussionist Bill Solomon, clarinetist Adrián Sandí, violoncellist
+		  Lauren Radnofsky, horn player Kate Sheeran, percussionist Caron Moody, and
+		  double bassist Greg Chudzik at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3561"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7248Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_166</container> 
+		
+               <unittitle>Violinist Irvine Arditti performing with Ensemble Signal
+		  members, violist Isabel Hagen, flutist Kelli Kathman, and percussionist Bill
+		  Solomon at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3562"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7250 Irving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_167</container> 
+		
+               <unittitle>Conductor Brad Lubman shaking hands with violinist Irvine
+		  Arditti with Ensemble Signal members, percussionist Bill Solomon and violist
+		  Isabel Hagen (obscured) after a performance of Hilda Paredes's Senales at June
+		  in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3563"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7251Iving Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_168</container> 
+		
+               <unittitle>Violinist Irvine Arditti onstage with members of Ensemble
+		  Signal, harpist Sophie Rusnock, percussionist Bill Solomon, flutist Kelli
+		  Kathman, and violist Isabel Hagen after a performance Hilda Paredes's Senales
+		  at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3565"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7254Irvine Arditti.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_169</container> 
+		
+               <unittitle>Conductor Brad Lubman and violinist Irvine Arditti onstage
+		  with Ensemble Signal members, cimbalom player Nick Tolle, harpist Sophie
+		  Rusnock, percussionist Bill Solomon, flutist Kelli Kathman, violist Isabel
+		  Hagen, violoncellist Lauren Radnofsky, horn player Kate Sheeran, and double
+		  bassist Greg Chudzik after a performance of Hilda Paredes's Senales at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3571"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7255Ensemble Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_170</container> 
+		
+               <unittitle>Conductor Brad Lubman and violinist Irvine Arditti onstage
+		  with Ensemble Signal members, cimbalom player Nick Tolle, harpist Sophie
+		  Rusnock, percussionist Bill Solomon, flutist Kelli Kathman, violist Isabel
+		  Hagen, violoncellist Lauren Radnofsky, horn player Kate Sheeran, and double
+		  bassist Greg Chudzik after a performance of Hilda Paredes's Senales at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3566"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7256Ensemble Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_171</container> 
+		
+               <unittitle>Conductor Brad Lubman, composer Hilda Paredes, and
+		  violinist Irvine Arditti with Ensemble Signal: cimbalom player Nick Tolle,
+		  harpist Sophie Rusnock, percussionist Bill Solomon, flutist Kelli Kathman, and
+		  violist Isabel Hagen after a performance of Hilda Paredes's Senales at June in
+		  Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3567"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7257Hilda Paredes.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_172</container> 
+		
+               <unittitle>Conductor Brad Lubman, composer Hilda Paredes, and
+		  violinist Irvine Arditti with Ensemble Signal members, cimbalom player Nick
+		  Tolle, harpist Sophie Rusnock, percussionist Bill Solomon, flutist Kelli
+		  Kathman, and clarinetist Adrián Sandí after a performance of Hilda Paredes's
+		  Senales at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-07" era="ce" calendar="gregorian">2014-06-07</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3568"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7258composer Hilda Paredes Irving
+		    Arditti Ensemble Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_173</container> 
+		
+               <unittitle>Conductor JoAnn Falletta and composer Bernard Rands with
+		  the Buffalo Philharmonic Orchestra rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-08" era="ce" calendar="gregorian">2014-06-08</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3569"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7265Buffalo Philharmonic Rehearsal
+		    Rands.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_174</container> 
+		
+               <unittitle>Conductor JoAnn Falletta and composer Stephen Hartke with
+		  the Buffalo Philharmonic Orchestra rehearsing at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-08" era="ce" calendar="gregorian">2014-06-08</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3570"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7273 BPO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_175</container> 
+		
+               <unittitle>Conductor JoAnn Falletta rehearsing the Buffalo
+		  Philharmonic Orchestra at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-08" era="ce" calendar="gregorian">2014-06-08</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3572"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7274Buffalo Philharmonic.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_176</container> 
+		
+               <unittitle>Composer Stephen Hartke examining score at June in Buffalo
+		  2014, 
+		  <unitdate type="inclusive" normal="2014-06-08" era="ce" calendar="gregorian">2014-06-08</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3573"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7282Stephen Hartke.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_177</container> 
+		
+               <unittitle>Conductor JoAnn Falletta rehearsing the Buffalo
+		  Philharmonic Orchestra at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-08" era="ce" calendar="gregorian">2014-06-08</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3574"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: _MG_7287BPO.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_178</container> 
+		
+               <unittitle>Conductor Brad Lubman in rehearsal with pianist Oliver
+		  Hagen, and Ensemble Signal members percussionist Nick Tolle, violoncellist
+		  Lauren Radnofsky, and violist Isabel Hagen at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-03" era="ce" calendar="gregorian">2014-06-03</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3575"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: Untitled-1Ensemble Signal.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_179</container> 
+		
+               <unittitle>Conductor Julien Leroy rehearsing Ensemble Court-Circuit
+		  members, flutist Jérémie Fèvre, clarinetist Pierre Dutrieu, violinist Alexandra
+		  Greffin-Klein, violist David Rose, violoncellist Ingrid Schoenlaub, and
+		  percussionist Eve Payeur at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3577"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: =Ensemble Court Circuit</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+	 
+         <c01 level="item"> 
+	   
+            <did> 
+		
+               <container type="image-file">jib2014_180</container> 
+		
+               <unittitle>Conductor Julien Leroy rehearsing Ensemble Court-Circuit
+		  members, flutist Jérémie Fèvre, clarinetist Pierre Dutrieu, violinist Alexandra
+		  Greffin-Klein, violist David Rose, violoncellist Ingrid Schoenlaub, and pianist
+		  Jean-Marie Cottet at June in Buffalo 2014, 
+		  <unitdate type="inclusive" normal="2014-06-05" era="ce" calendar="gregorian">2014-06-05</unitdate> 
+               </unittitle> 
+		<!-- <dao linktype="simple"href="http://digital.lib.buffalo.edu/cdm/ref/collection/LIB-MUS009/id/3576"actuate="onrequest"show="new"> --> 
+		
+               <physdesc> 
+                  <extent>1 color digital image (tiff format)</extent>
+		  
+               </physdesc> 
+		
+               <note> 
+		  
+                  <p>Original file name: June in Buffalo 2014.tif</p> 
+		
+               </note> 
+	   
+            </did> 
+	 
+         </c01> 
+    
+      </dsc> 
+    
+      <controlaccess> 
+	 
+         <head>Search Terms</head> 
+	 
+         <note> 
+	   
+            <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 
+         </note> 
+	 
+         <controlaccess> 
+	   
+            <head>Subjects</head> 
+	   
+            <corpname source="lcnaf" encodinganalog="611">June in Buffalo (Festival) (Buffalo, N.Y.)--Photographs</corpname> 
+	   
+            <subject source="lcsh" encodinganalog="650">Composers--Photographs</subject> 
+	   
+            <subject source="lcsh" encodinganalog="650">Music festivals--New York
+		(State)--Buffalo--Photographs</subject> 
+	   
+            <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+	 
+         </controlaccess> 
+	 
+         <controlaccess> 
+	   
+            <head>Genres</head> 
+	   
+            <genreform encodinganalog="655" source="gmgpc">Digital
+		photographs</genreform> 
+	   
+            <genreform encodinganalog="655" source="gmgpc">Portrait
+		photographs</genreform> 
+	 
+         </controlaccess> 
+    
+      </controlaccess> 
+    
+      <descgrp type="add"> 
+	 
+         <head>Associated Material</head> 
+	 
+         <relatedmaterial encodinganalog="544 1"> 
+	   
+            <head>Related Resources</head> 
+	   
+            <relatedmaterial> 
+		
+               <head>Related Resources in the Music Library</head> 
+		
+               <list type="deflist"> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0018.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2000 </archref> Mus. Arc. 18 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2000 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0019.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2001 </archref> Mus. Arc. 19</label> 
+		    
+                     <item>Finding aid for collection of photographs for 2001 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0020.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2002 </archref> Mus. Arc. 20</label> 
+		    
+                     <item>Finding aid for collection of photographs for 2002 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0021.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2003 </archref> Mus. Arc. 21 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2003 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0025.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2004 </archref> Mus. Arc. 25 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2004 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2005 </archref> Mus. Arc. 27 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2005 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2006 </archref> Mus. Arc. 29 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2006 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0038.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2007 </archref> Mus. Arc. 38 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2007 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0039.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2008</archref> Mus. Arc. 39 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2008 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0050.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2009</archref> Mus. Arc. 50 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2009 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0055.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2010</archref> Mus. Arc. 55 </label> 
+		    
+                     <item>Finding aid for collection of photographs for 2010 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0056.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2011</archref> Mus. Arc. 56</label> 
+		    
+                     <item>Finding aid for collection of photographs for 2011 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0060.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2012</archref> Mus. Arc. 60</label> 
+		    
+                     <item>Finding aid for collection of photographs for 2012 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0066.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+			   in Buffalo 2013</archref> Mus. Arc. 66</label> 
+		    
+                     <item>Finding aid for collection of photographs for 2013 June in
+			 Buffalo. </item> 
+		  
+                  </defitem> 
+		  
+                  <defitem> 
+		    
+                     <label> 
+			 
+                        <archref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" role="text/html" linktype="simple">June in Buffalo Photograph
+			   Collection</archref> 
+                     </label> 
+		    
+                     <item>A selection of images from the June in Buffalo festivals
+			 is available through University at Buffalo Libraries Digital
+			 Collections.</item> 
+		  
+                  </defitem> 
+		
+               </list> 
+	   
+            </relatedmaterial> 
+	 
+         </relatedmaterial> 
+    
+      </descgrp> 
+  
+   </archdesc> 
+
+</ead>

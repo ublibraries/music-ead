@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 32::Allen Sigel Collection of scores)//EN">ubmu0032</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Allen Sigel
+			 Collection of Scores, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1946/1998">1946-1998 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Sigel (Allen)
+			 Collection of Scores </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by Gabrielle
+			 Carlo and John Bewley, September 2012.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2012</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, September 2012.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Allen Sigel Collection
+		  of Scores, 
+		  <unitdate encodinganalog="245$f" normal="1946/1998" type="inclusive"
+			datechar="creation">1946-1998</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 32</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Sigel,
+			 Allen </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">10
+		  boxes</extent> <extent unit="folder" encodinganalog="300$a">(102
+		  folders)</extent> </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection materials include texts in
+		  <language encodinganalog="041" langcode="eng">English.</language>
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The Allen Sigel
+		  Collection of Scores, 1946-1998 contains approximately 27 compositions by Allen
+		  Sigel. Many of them are present in multiple versions. There are also ten works
+		  by other composers in arrangements by Sigel and three of his didactic works for
+		  clarinet.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Allen Sigel Collection of Scores, 1946-1998, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Allen Sigel, April 2004.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Gabrielle Carlo 2012.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Allen Sigel was born 9 February 1925 in Chicago, Illinois. He spent his youth in 
+Ottumwa, Iowa and began his studies in clarinet at the age of eleven. He earned his bachelor's degree at the University of Iowa where he studied clarinet with Hymie Voxman and earned a master's degree in 1947 at the Eastman School of Music in Rochester, New York.</p>
+<p>Allen Sigel served as principal clarinetist with
+		  the Buffalo Philharmonic Orchestra 1948-1960 (with the exception of the
+		  1950-1951 season) and served on the music faculty at the University at Buffalo
+		  beginning in 1953. In 1960 he joined the faculty full time and served until
+		  1992. He also taught in other positions in Iowa, Kentucky, and California. He
+		  wrote three books on clarinet instruction, including <title render="italic">
+The Twentieth Century Clarinetist</title>. In 1986 Sigel traveled to China to lecture
+ and perform. He served as music director for the Jewish Center of Buffalo and was an instructor in
+		  the Elder Hostel program where he taught a course, Composers of the golden age
+		  of American musical theatre. </p>
+<p>Allen Sigel died in Williamsville, New York 15 March 2013.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains 102 folders holding approximately 27
+		  compositions by Allen Sigel, ten works by other composers in arrangements by
+		  Sigel, and three of his didactic works for clarinet. Many of the compositions
+		  exist in multiple versions and some were reworked altogether and renamed. For
+		  example, the melody to his 
+		<title render="italic"> Patriots all</title>, which he submitted as an
+		entry in a competition to select a new national anthem for the United States,
+		is the same as that of his 
+		<title render="italic">U.B., our University </title>, a candidate to
+		become the alma mater for the University at Buffalo.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in three series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				Compositions</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				Arrangements of works by other composers</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				Clarinet methods and etudes</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1"> I.</unitid> 
+			 <unittitle>Compositions, 
+				<unitdate type="inclusive" normal="1946/1998">1946-1998 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 1-85 </extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by first element of the uniform title. Movements within works are filed in order as presented in the work. </p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">01</container> 
+				<container type="folder">001</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Americana suite</title> 
+				  <title type="transcribed">Americana suite for woodwind quintet,
+					 </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (76 p. ; 28 cm)and 5
+				  manuscript parts</extent> </physdesc> 
+				<note> 
+				  <p>Arranged for flute, piccolo; oboe, English horn; clarinet,
+					 French horn, and bassoon.</p> 
+				  <p>Includes 3 holograph (photocopy) scores with minor differences
+					 and a complete set of 5 holograph (photocopy) parts.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">01</container> 
+				<container type="folder">002</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Bartokiana</title> 
+				  <title type="transcribed">Bartokiana for violin, B? clarinet, and
+					 piano, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>4 manuscript scores (9 pages; 28 cm) and 2
+				  manuscript parts</extent> </physdesc> 
+				<note> 
+				  <p>Accompanied with a letter addressed to Allen Sigel from Nancy
+					 Braithwaite expressing interest in obtaining a copy of Bartokiana.</p> 
+				  <p> Contains 1 holograph (pencil) score and 1 ink score, 1
+					 incomplete holograph (ink) score, 1 spiral-bound photocopied score, holograph
+					 (ink) violin part, and photocopy of clarinet part.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">01</container> 
+				<container type="folder">003</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Casual developments</title> 
+				  <title type="transcribed">Casual developments for clarinet and
+					 string quartet, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (15 p.) and 8 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Dedicated to Ken Grant.</p> 
+				  <p>Includes 1 holograph (photocopy) score of the 3rd movement, 4
+					 photocopied parts of the 1st movement, and 4 manuscript (ink) parts for the 3rd
+					 movement. A tacet is indicated for the 2nd movement for all instruments.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Cloning--Fantasia (tacet)--At Odds.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">01</container> 
+				<container type="folder">004</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Dorothy Parker On men</title> 
+				  <title type="transcribed">Dorothy Parker on men: poems of Dorothy
+					 Parker set to music, </title> 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (9 p.) and 2 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (ink)</p> 
+				  <p>For soprano, oboe, bassoon, and piano.</p> 
+				  <p>Accompanied by photocopy of typescript letter form Sigel to
+					 Andrew D. Weinberger seeking permission to use Parker's poems.</p> 
+				  <p>Includes 1 holograph (ink) score with markings of 2 poems, and
+					 2 manuscript (ink) parts of 2 poems.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Chant for dark hours--Coda.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">01</container> 
+				<container type="folder">005</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Eppes klezmer</title> 
+				  <title type="transcribed">Eppes klezmer for B?clarinet and
+					 piano, </title> 
+				  <unitdate type="inclusive">1998</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (14 pages; 28 cm) and 1
+				  manuscript part</extent> </physdesc> 
+				<note> 
+				  <p>Related to Shtetl echoes, composed in 1995.</p> 
+				  <p>Includes 1 holograph (ink) score with corrections, 1 photocopy
+					 with additional markings for the piano part, 1 pencil score, and 1 manuscript
+					 (ink)part for clarinet with markings and another photocopy without
+					 markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">02</container> 
+				<container type="folder">006</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Flapper era dances</title> 
+				  <title type="transcribed">Flapper era dances nonet, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (14 p.)and 9 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Consists of 1 manuscript (pencil and ink) score with
+					 corrections, 2 holograph (photocopy) scores (1 spiral-bound), 9 manuscript
+					 (pencil) parts and an additional set of photocopied parts with further
+					 markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Tango-maxixe.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">02</container> 
+				<container type="folder">007</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Flapper era dances</title> 
+				  <title type="transcribed">Flapper era dances for saxophone
+					 quartet, </title> 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores (27p.), manuscript sketches,
+				  and 4 manuscript parts</extent> </physdesc> 
+				<note> 
+				  <p>Arranged for soprano, alto, tenor, and baritone saxophone.</p>
+				  
+				  <p>Accompanied with a letter containing information about the
+					 premiere of flapper era dances, which took place on Monday, October 10
+					 1994.</p> 
+				  <p>Also contains tempo and articulation instructions for each
+					 part.</p> 
+				  <p>Contains 1 holograph (pencil) score of all 4 movements with
+					 corrections and 1 spiral-bound holograph (photocopy) score, 4 photocopied parts
+					 and a separate folder containing manuscript (pencil) sketches of all 4
+					 movements.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Tango--Hesitation waltz--Fox-Trot
+				  variations--Charleston.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">02</container> 
+				<container type="folder">008</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Flapper era dances</title> 
+				  <title type="transcribed">Flapper era dances for clarinet and
+					 string quartet, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (10, 15, 15 p.) and 5
+				  manuscript parts</extent> </physdesc> 
+				<note> 
+				  <p>Arranged for B?clarinet, violin I and 2, viola, and
+					 violoncello.</p> 
+				  <p>Charleston is marked movement 3 on manuscript parts and
+					 movement 4 on the score.</p> 
+				  <p>Contains 1 manuscript (pencil) score of all 3 movements, 1
+					 photocopy of the 3rd movement with additional markings, and 5 manuscript
+					 (pencil) parts.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Tango--Fox-Trot variations--Charleston.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">009</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Four nations suite</title> 
+				  <title type="transcribed">Four nations suite for piano, four
+					 hands, </title> 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (12 p.) and manuscript
+				  sketches</extent> </physdesc> 
+				<note> 
+				  <p>Includes 1 spiral-bound holograph (pencil) score with list of
+					 corrections, 2 spiral-bound holograph (photocopy) scores with additional
+					 markings, and manuscript sketches: variation of the 1st movement, sketch of
+					 movements 3 and 4.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: France-homage to Francis Poulenc--Spain-homage to
+				  Manuel De Falla--Israel-homage to Ernest Block--Hungary-homage to Béla
+				  Bartók.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">010</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Four nations suite</title> 
+				  <title type="transcribed">Four nations suite for piano and
+					 saxophone quartet, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores and 4 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Arranged for piano, soprano, alto, tenor, and baritone
+					 saxophone.</p> 
+				  <p>Consists of 1 manuscript (ink) score of all 4 movements, 1
+					 manuscript (pencil) score of all 4 movements, 1 photocopy of movement 4 with
+					 markings for clarinet and violin, and 4 manuscript parts of all 4
+					 movements.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: France-homage to Francis Poulenc--Spain-homage to
+				  Manuel De Falla--Israel-homage to Ernest Block--Hungary-homage to Béla
+				  Bartók.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">011</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">From then 'till now</title> 
+				  <title type="transcribed">From then 'till now: suite for oboe or
+					 soprano saxophone and strings, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (35 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Accompanied with an analysis of all 4 movements.</p> 
+				  <p>The baroque concerto is based on Johann Sebastian Bach's
+					 keyboard concerto in C minor BWV 981--an arrangement of Benedetto Marcello's
+					 op. 1 no.2.</p> 
+				  <p>Includes 1 spiral bound manuscript (ink) score of all 4
+					 movements.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Baroque concerto--Classical rondo--Romantic
+				  serenade--Twentieth century scherzo.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">012</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Garland for Gershwin</title> 
+				  <title type="transcribed">Garland for Gershwin: for C clarinet
+					 and piano, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (11 p.)</extent> </physdesc>
+				
+				<note> 
+				  <p>Includes 1 holograph (ink) score with corrections, and 2
+					 holographs (photocopy) with additional markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">013</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Gershwin</title> 
+				  <title type="transcribed">Homage to Gershwin: for B? clarinet and
+					 piano, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores and manuscript sketches (10
+				  p.)</extent> </physdesc> 
+				<note> 
+				  <p>Includes 1 holograph (ink) score of all 3 movements, 2
+					 photocopies of the 3rd movement of the holograph score with additional
+					 markings, and 10 pages of manuscript sketches for the 3rd and 1st
+					 movements.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture--Blues--Swing finale.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">014</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Gershwin</title> 
+				  <title type="transcribed">Homage to Gershwin: for B? clarinet and
+					 piano, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript parts</extent> </physdesc> 
+				<note> 
+				  <p>Accompanied by a cover sheet that dedicates the piece to Tom
+					 Ridenour.</p> 
+				  <p>Contains 1 holograph (ink) part for B? clarinet for the 1st
+					 and 3rd movements, 1 photocopy of the 2nd movement, and 1 manuscript (pencil)
+					 cadenza that proceeds the 2nd movement.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture--Blues--Swing finale.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">015</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Gershwin</title> 
+				  <title type="transcribed">Homage to Gershwin: for B? clarinet and
+					 piano, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (13 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Includes 13 pages of manuscript (pencil) sketches for the 3rd
+					 movement.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture--Blues--Swing finale.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">016</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Gershwin</title> 
+				  <title type="transcribed">Homage to Gershwin: piano solo,
+					 </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (5 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Includes 1 holograph (pencil) score, 1 manuscript (ink) score
+					 with corrections, and 1 holograph (photocopy) with further markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">017</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Gershwin</title> 
+				  <title type="transcribed">Homage to Gershwin: for saxophone
+					 quartet, </title> 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>4 manuscript scores</extent> </physdesc> 
+				<note> 
+				  <p>Arranged for soprano, alto, tenor, and baritone saxophone.</p>
+				  
+				  <p>Accompanied with a description of the piece.</p> 
+				  <p>Dedicated to the Amherst Saxophone Quartet.</p> 
+				  <p>Includes 1 holograph (ink) score of all 3 movements, 2
+					 holograph (photocopy) scores of the 3rd movement with differences, and 10 pages
+					 of manuscript sketches.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture--Blues--Swing finale.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">03</container> 
+				<container type="folder">018</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Gershwin</title> 
+				  <title type="transcribed">Homage to Gershwin: for saxophone
+					 quartet, </title> 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>5 manuscript parts</extent> </physdesc> 
+				<note> 
+				  <p>Arranged for soprano, alto, tenor, and baritone saxophone.</p>
+				  
+				  <p>Includes 4 holograph (photocopy) parts of all 3 movements, and
+					 1 holograph (photocopy) of the 1st movement part for alto saxophone.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture--Blues--Swing finale.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">019</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Gershwin</title> 
+				  <title type="transcribed">Homage to Gershwin: for woodwind
+					 quintet, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores (10 p.) and 5 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Arranged for flute, oboe, B? clarinet, French horn, and
+					 bassoon.</p> 
+				  <p>Contains 1 manuscript (pencil) score, 1 incomplete manuscript
+					 (pencil) score, and 5 manuscript (pencil) parts.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">020</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Homage to Prokofiev</title> 
+				  <title type="transcribed">Homage to Prokofiev for B? clarinet and
+					 piano, </title> 
+				  <unitdate type="inclusive">1959</unitdate> </unittitle> 
+				<physdesc> <extent>4 scores (23 p.) and 4 parts</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Includes 2 holograph (photocopy), 1 trimmed and taped to
+					 create performance copy for pianist. The performance copy contains additional
+					 markings including an optional cut. 1 manuscript copy (ink) with photocopy
+					 containing additional manuscript replacement pages. 1 manuscript (ink) part for
+					 B? clarinet and 3 photocopies with different markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">021</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">In Gershwin's garden</title> 
+				  <title type="transcribed">In Gershwin's garden: trio for
+					 clarinet, violoncello, and piano, </title> 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (24 p.) and 2 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Includes 1 holograph (pencil) score of both movements, 2
+					 holograph (photocopy) scores, and 2 manuscript (ink) parts.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture, cadenza--Swing.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">022</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Jerusalem 3000</title> 
+				  <title type="transcribed">Jerusalem 3000, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores (32 p.) and 4 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Accompanied with program notes.</p> 
+				  <p>Includes Hatikva score.</p> 
+				  <p>Includes 1 spiral bound photocopy of holograph score with
+					 additional markings; 1 photocopy of the holograph score (not bound) with other
+					 markings; ink manuscript parts for violin I and II, viola, and violoncello,
+					 heavily marked with bowings. Also included are additional unmarked photocopies
+					 of the violin II, viola, and violoncello.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Ancestors--King David--Exodus--Hava
+				  nagilah--Jerusalem city of gold--Hatikva.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">023</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Jerusalem 3000. Ancestors</title> 
+				  <title type="transcribed">Patriarchs, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				<note> 
+				  <p>Pencil draft of Ancestors, movement of Jerusalem 3000.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Ancestors--King David--Exodus--Hava
+				  nagilah--Jerusalem city of gold--Hatikva.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">024</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Jerusalem 3000. King David</title> 
+				  <title type="transcribed">Bar kochba, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				<note> 
+				  <p>Pencil draft of King David, movement of Jerusalem 3000.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Ancestors--King David--Exodus--Hava
+				  nagilah--Jerusalem city of gold--Hatikva.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">025</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Jerusalem 3000</title> 
+				  <title type="transcribed">Exodus, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				<note> 
+				  <p>Pencil draft of Exodus.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Ancestors--King David--Exodus--Hava
+				  nagilah--Jerusalem city of gold--Hatikva</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">026</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Jerusalem 3000</title> 
+				  <title type="transcribed">Hava nagilah, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				<note> 
+				  <p>Pencil draft of Hava nagilah.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Ancestors--King David--Exodus--Hava
+				  nagilah--Jerusalem city of gold--Hatikva.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">027</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Jerusalem 3000</title> 
+				  <title type="transcribed">Jerusalem city of gold, </title> 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				<note> 
+				  <p>Pencil draft of Jerusalem city of gold.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Ancestors--King David--Exodus--Hava
+				  nagilah--Jerusalem city of gold--Hatikva.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">028</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Moods, clarinet, piano</title> 
+				  <title type="transcribed">Two moods for B? clarinet and piano,
+					 </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (10 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Accompanied by 7 photocopied pages from The Twentieth Century
+					 Clarinetist: Advanced Studies in Contemporary Music for the Clarinet by Allen
+					 Sigel.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Prologue--Jubilation.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">04</container> 
+				<container type="folder">029</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Moods, clarinet, piano</title> 
+				  <title type="transcribed">Two moods for B? clarinet and piano,
+					 </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores (10 p. each) and 2
+				  manuscript parts (3 p. each)</extent> </physdesc> 
+				<note> 
+				  <p>For both score and clarinet part there are holographs (Ink
+					 master on blueprint paper) and ozalid reproductions of the holographs.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Prologue--Jubilation.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">030</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Moods, clarinet, piano</title> 
+				  <title type="transcribed">Two moods for B? clarinet and
+					 pianoforte: Prologue and jubilation, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript part (3 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Subtitle added to first movement: Homage to Ernest Bloch.</p> 
+				  <p>Holograph (Ink) with additional photocopy of pages 2-3 with
+					 some changes.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Prologue--Jubilation.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">031</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Moods, clarinet, piano</title> 
+				  <title type="transcribed">Two moods for B? clarinet and
+					 pianoforte, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>3 manuscript scores (9 p. each)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Ink holograph score with two photocopies each with additional
+					 and different markings. Scores may have been intended for use as piano
+					 parts.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Prologue--Jubilation.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">032</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nocturne</title> 
+				  <title type="transcribed">Nocturne, </title> 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (3 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Dedicated to Emily.</p> 
+				  <p>1 holograph (ink) score with markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">033</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite</title> 
+				  <title type="transcribed">Nostalgic suite: for solo clarinet and
+					 wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (77 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Dedicated to clarinetist John Fullam and the University at
+					 Buffalo wind ensemble.</p> 
+				  <p>1 holograph (photocopy) score marked "original complete."
+					 Accompanied by photocopy of last movement (p. 49-77) with additional
+					 markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">034</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Selections</title> 
+				  <title type="transcribed">[Nostalgic suite]. Broadway overture;
+					 Blues: for solo clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				<note> 
+				  <p>1 holograph: Broadway overture is a photocopy with some
+					 additional markings; Blues is an ink holograph.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">035</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Selections</title> 
+				  <title type="transcribed">[Nostalgic suite]. Blues; Swing
+					 variations: for solo clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (55 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score with small number of additional
+					 markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">036</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Broadway overture</title> 
+				  <title type="transcribed">[Nostalgic suite]. Broadway overture:
+					 "corrected copy" for solo clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (27 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score marked "corrected copy" with additional
+					 markings and accompanied by printout of the ending measures 258-266 in a
+					 differently formatted version.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">037</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Broadway overture</title> 
+				  <title type="transcribed">[Nostalgic suite]. Broadway overture:
+					 for solo clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (26 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score with additional markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">038</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Broadway overture</title> 
+				  <title type="transcribed">Nostalgic suite. Broadway overture: for
+					 solo clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (25 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score with additional markings and
+					 changes.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">039</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Broadway overture</title> 
+				  <title type="transcribed">[Nostalgic suite]. Broadway overture:
+					 "partially corrected copy," [1995] for solo clarinet and wind ensemble,
+					 </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (26 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score with additional markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">040</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Blues</title> 
+				  <title type="transcribed">[Nostalgic suite]. Blues: "partially
+					 corrected" [1995] for solo clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (17 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score with additional markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">041</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Blues</title> 
+				  <title type="transcribed">[Nostalgic suite]. Blues: for solo
+					 clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (14 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score with additional markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">042</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite. Swing variations</title> 
+				  <title type="transcribed">[Nostalgic suite]. Swing variations:
+					 "partially corrected" [1995] for solo clarinet and wind ensemble, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (41 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-generated score with additional markings.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">043</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite</title> 
+				  <title type="transcribed">Nostalgic suite: clarinet part,
+					 </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript part</extent> </physdesc> 
+				<note> 
+				  <p>1 ink manuscript of all 3 movements.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">044</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite</title> 
+				  <title type="transcribed">[Nostalgic suite]. Parts, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>31 parts</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated parts with additional performance markings.
+					 Missing oboe 1 part for Swing variations.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">045</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite</title> 
+				  <title type="transcribed">[Nostalgic suite]. solo clarinet part,
+					 </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>8 folders</extent> </physdesc> 
+				<note> 
+				  <p>8 computer-generated scores for solo clarinet part. Folders
+					 1-4 contain 4 versions of the 1st movement with corrections. Folders 5 and 6
+					 contain 2 versions of the 2nd movement with corrections, and folders 7 and 8
+					 consist of 2 versions of the 3rd movement with corrections.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">05</container> 
+				<container type="folder">046</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Nostalgic suite</title> 
+				  <title type="transcribed">[Nostalgic suite]. Recording [1995],
+					 </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 cassette tape</extent> </physdesc> 
+				<note> 
+				  <p>Cassette recording.</p> 
+				  <p>1 cassette tape with complete recording on B-side.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Broadway overture--Blues--Swing variations.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">047</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all</title> 
+				  <title type="transcribed">Patriots all: (song version), </title> 
+				  <unitdate type="inclusive">June 1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink)</p> 
+				  <p>First line of text: Patriots all, united are we in the cause
+					 of sweet liberty. Words by Allen Sigel.</p> 
+				  <p>Accompanied by 6 photocopies of the text and a notice from
+					 Anthem America about the contest for a new national anthem.</p> 
+				  <p>1 holograph (ink) score with markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">048</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all</title> 
+				  <title type="transcribed">Patriots all: [song version], </title> 
+				  <unitdate type="inclusive">June 1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>First line of text: Patriots all united are we in the quest of
+					 sweet liberty. Words by Allen Sigel.</p> 
+				  <p>1 holograph (pencil) score with markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">049</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all</title> 
+				  <title type="transcribed">Patriots all: [song version], </title> 
+				  <unitdate type="inclusive">June 1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 sketchbook</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink and pencil)</p> 
+				  <p>First line of text: Patriots all united are we in the quest of
+					 true liberty. Words by Allen Sigel.</p> 
+				  <p>Spiral-bound book also contains sketches for the song and an
+					 arrangement of Duke Ellington's Sophisticated lady and Paris blues.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">050</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all; arr.</title> 
+				  <title type="transcribed">Patriots all: [choral version],
+					 </title> 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink)</p> 
+				  <p> First line of text: Patriots all, united are we, in the cause
+					 of sweet liberty. Words by Allen Sigel.</p> 
+				  <p>Setting for soprano, alto, tenor, bass voices with piano
+					 accompaniment provided for rehearsal only.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">051</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all; arr.</title> 
+				  <title type="transcribed">Patriots all: [choral version],
+					 </title> 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (1 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>First line of text: Patriots all united are we in the cause of
+					 sweet liberty. Words by Allen Sigel.</p> 
+				  <p>Setting for unaccompanied soprano, alto, tenor, and bass
+					 voices.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">052</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all</title> 
+				  <title type="transcribed">Patriots all: [piano part], </title> 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript part (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink)</p> 
+				  <p>1 holograph (ink) score with markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">053</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all; arr.</title> 
+				  <title type="transcribed">Patriots all: [choral version with
+					 second verse], </title> 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Reproduction of holograph.</p> 
+				  <p> Twenty-eight copies of setting for soprano, alto, tenor, bass
+					 voices with piano accompaniment provided for rehearsal with 2nd verse of text
+					 written in red between the staves of the piano part.</p> 
+				  <p>First line of text: Patriots all, united are we, in the cause
+					 of sweet liberty. Words by Allen Sigel.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">054</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all; arr.</title> 
+				  <title type="transcribed">Patriots all: [choral version],
+					 </title> 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of printed score with photocopy of 1 page of
+					 holograph score attached.</p> 
+				  <p>First line of text: Patriots all, united are we, in the cause
+					 of sweet liberty. Words by Allen Sigel: this version includes 3 verses.</p> 
+				  <p> Setting for soprano, alto, tenor, bass voices with piano
+					 accompaniment for rehearsal.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">055</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Patriots all</title> 
+				  <title type="transcribed">Patriots free: [song version], </title>
+				  
+				  <unitdate type="inclusive">June 1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph with manuscript additions.</p> 
+				  <p> First line of text: Let us unite as patriots free in the
+					 search for true liberty. Words by Allen Sigel.</p> 
+				  <p> Variant version of music and text of Sigel's Patriots
+					 all.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">056</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri</title> 
+				  <title type="transcribed">[Poe potpurri [sic] for narrator,
+					 trumpet, and saxophone quartet], </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (55 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Accompanied with 4 photocopied leaves of Poe texts marked in
+					 preparation for use.</p> 
+				  <p>Holograph (Ink) score. The score is in two groups. The pages
+					 in the first group run p. 1-23 in one direction and then p. 24-39 return in the
+					 opposite direction on the verses, so the verse of p. 23 is p.24, the verse of
+					 p. 22 is p. 25 and so on. The second group is paged in normal fashion as p.
+					 40-55</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: The haunted palace--A dream within a dream--The
+				  masque of the red death.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">057</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, voice, trumpet, saxophones
+					 (4)</title> 
+				  <title type="transcribed">A Poe potpurri [sic] for narrator,
+					 trumpet, and saxophone quartet, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (55 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Photocopy) with additional markings, including
+					 notes on A dream to score saxophone parts for string quintet.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: The haunted palace--A dream within a dream--The
+				  masque of the red death.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">058</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, trumpet, saxophones (4).
+					 Masque of the red death</title> 
+				  <title type="transcribed">Masque of the red death: 1st draft,
+					 </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores (12, [5] p.)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>The 5 page score is marked "extra."</p> 
+				  <p>For piccolo, trumpet (at opening), and saxophone quartet with
+					 text for narrator written on same pages.</p> 
+				  <p>Accompanied by 3 photocopied leaves of the text of the Poe
+					 story.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">059</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, clarinets (4)</title> 
+				  <title type="transcribed">Poe 2 Cl. 4tet, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 sketchbook</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Title from card attached to cover.</p> 
+				  <p>Also includes sketches for Sigel's Dorothy Parker On men.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Alone--The haunted palace--A dream within a
+				  dream.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">06</container> 
+				<container type="folder">060</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, clarinets (4)</title> 
+				  <title type="transcribed">Alone; The haunted palace; A dream
+					 within a dream: for clarinet quartet, </title> 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>4 manuscript parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink)</p> 
+				  <p>The haunted palace and A dream within a dream movements are
+					 versions of the same movements in Sigel's Poe potpurri for narrator, trumpet,
+					 and saxophone quartet.</p> 
+				  <p>Each part contains 3 fascicles with separate title pages
+					 corresponding to the 3 movements.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Alone--The haunted palace--A dream within a
+				  dream.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">061</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, saxophone, strings.
+					 Selections.</title> 
+				  <title type="transcribed">A dream within a dream; Moving,
+					 </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (p. 35-60)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>An oboe can be substituted for the soprano saxophone part.</p>
+				  
+				  <p>Holograph: Dream within a dream is an ink holograph; Moving is
+					 a photocopy of a holograph with additional changes. The movements are marked
+					 III and IV respectively.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">062</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, voice and piano</title> 
+				  <title type="transcribed">Alone; The haunted palace; A dream
+					 within a dream: for voice and piano, </title> 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (8, 15, 7 p.)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Holograph (Ink and pencil)</p> 
+				  <p>Words by Edgar Allan Poe.</p> 
+				  <p>First line of text for Alone: From childhood's hour I have not
+					 been as others were; I have not seen as others saw; I could not bring my
+					 passions from a common spring.</p> 
+				  <p>First line of text for The haunted palace: In the greenest of
+					 our valleys by good angels tenanted, once a fair and stately palace-radiant
+					 palace- reared its head.</p> 
+				  <p>First line of text for A dream within a dream: Take this kiss
+					 upon the brow, and in parting from you now, this much let me avow-you are not
+					 wrong who deem that my days have been a dream.</p> 
+				  <p>Includes an additional photocopy of The haunted palace. The
+					 haunted palace and A dream within a dream are versions of the movements with
+					 same titles in Sigel's Poe potpurri for narrator, trumpet, and saxophone
+					 quartet.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Alone--The haunted palace--A dream within a
+				  dream.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">063</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, voice and piano.
+					 Selections</title> 
+				  <title type="transcribed">Alone; A dream within a dream, </title>
+				  
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (7, 7 p.)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Words by Edgar Allan Poe.</p> 
+				  <p> 
+				  <title>A dream within a dream</title> is a different version of
+				  the movement with the same title in Sigel's 
+				  <title> Poe potpurri</title> for narrator, trumpet, and saxophone
+				  quartet.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Alone--A dream within a dream.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">064</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, voice and piano. Haunted
+					 palace</title> 
+				  <title type="transcribed">The haunted palace: for voice and
+					 piano, </title> 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (15 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score.</p> 
+				  <p>Words by Edgar Allan Poe.</p> 
+				  <p>Version of movement with the same title in Sigel's Poe
+					 Potpurri for narrator, trumpet, and saxophone quartet.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">065</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri. Dream within a dream</title> 
+				  <title type="transcribed">A dream within a dream, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (7 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Sketch with instrumentation not noted; scored as solo line
+					 with piano accompaniment. Part of his work, Poe potpurri [sic].</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">066</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Poe potpurri, Haunted palace</title> 
+				  <title type="transcribed">The haunted palace, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (14 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil) with text written in red pencil.</p> 
+				  <p>Sketch for voice (sung), flute, oboe, clarinet, horn, and
+					 bassoon.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">067</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Prelude and allegro</title> 
+				  <title type="transcribed">Prelude and allegro for mixed clarinet
+					 quartet, </title> 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+				<physdesc> <extent>2 scores (12 p.) and 4 manuscript parts</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Arranged for B? clarinet 1, 2, 3, and bass.</p> 
+				  <p>1 ink manuscript and 1 computer-generated score, accompanied
+					 by a marked photocopy of holograph of the Allegro, which was titled Homage to
+					 Prokofiev. Also includes 4 holograph (ink) parts.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">068</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Quintet, winds</title> 
+				  <title type="transcribed">Quintet for wind instruments, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (17 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink)</p> 
+				  <p>For flute, clarinet, oboe, horn, and bassoon.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">069</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Serenade and rondo</title> 
+				  <title type="transcribed">Serenade and rondo for B? clarinet and
+					 orchestra, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (45 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil and ink)</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">070</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Shtetl echoes</title> 
+				  <title type="transcribed">Shtetl echoes for saxophone quartet,
+					 </title> 
+				  <unitdate type="inclusive">October 1995</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores (13 p.)</extent> </physdesc>
+				
+				<note> 
+				  <p>Holograph (Ink) score and spiral-bound photocopy of holograph
+					 with additional markings.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">071</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Shtetl echoes</title> 
+				  <title type="transcribed">Shtetl echoes, </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (15 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil) sketch version.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">072</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Shtetl echoes</title> 
+				  <title type="transcribed">Shtetl echoes for saxophone quartet,
+					 </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (21 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score.</p> 
+				  <p>Accompanied with a manuscript note from Sigel to "Steve" about the copying and a
+					 photocopy of a typescript (1 leaf) program note.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">07</container> 
+				<container type="folder">073</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Shtetl echoes</title> 
+				  <title type="transcribed">Shtetl echoes for saxophone quartet
+					 (parts), </title> 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>4 parts (5 p. ea.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated parts with additional editorial markings.</p>
+				  
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">074</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Sonata, violin, piano</title> 
+				  <title type="transcribed">[Sonata for violin and piano], </title>
+				  
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (27 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink and Pencil)</p> 
+				  <p>The completion of the 3rd movement is in a spiral-bound music
+					 manuscript book that also contains a sketch for a woodwind quintet and an
+					 arrangement of Beethoven's String quartet in G major op. 18 no. 2, 3rd
+					 movement, 1st theme for woodwind quintet.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">075</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Sonata, violin, piano</title> 
+				  <title type="transcribed">Sonata for violin and piano, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript part (8 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil) violin part.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">076</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Songs of summer</title> 
+				  <title type="transcribed">Songs of summer for mixed chorus and
+					 clarinet, </title> 
+				  <unitdate type="inclusive">Summer 1992</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores (21 p. each) and 1
+				  manuscript part (4 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink) and photocopy; holograph part is for
+					 clarinet.</p> 
+				  <p>For Harriet Simons and the University at Buffalo Choir.</p> 
+				  <p>First lines of texts: Pastorale. Caressing breezes glide past;
+					 The beach. Seen from the high bridge it sparkles; All life must yield. This
+					 cycle, dimly felt in our youth.</p> 
+				  <p>Text is unattributed, presumably by Sigel.</p> 
+				  <p>Accompanied by photocopied typescript (2 p. ) containing the
+					 lyrics.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Pastorale--The beach--All life must yield.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">077</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Songs of summer</title> 
+				  <title type="transcribed">[Songs of summer. Sketches], </title> 
+				  <unitdate type="inclusive">Summer 1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (15 p.) and 1 manuscript part
+				  (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil) sketch version of score and clarinet
+					 part.</p> 
+				  <p>Clarinet part also includes other sketches, including Sigel's
+					 work Patriots all of 1992.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Pastorale--The beach(begins on p. 4 without
+				  title)--Summer's end (titled All life must yield in final version).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">078</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Songs of summer</title> 
+				  <title type="transcribed">Songs of summer for chorus and
+					 clarinet, </title> 
+				  <unitdate type="inclusive">Summer 1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 part (5 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated part.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Pastorale--The beach--All life must yield.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">079</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Swing set</title> 
+				  <title type="transcribed">Swing set for saxophone quartet,
+					 </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores</extent> </physdesc> 
+				<note> 
+				  <p>Accompanied with a description of the piece.</p> 
+				  <p>Arranged for soprano, alto, tenor, and baritone saxophone.</p>
+				  
+				  <p>Includes 1 spiral-bound holograph (photocopy) of all
+					 movements, and 1 holograph (photocopy) of the 2nd movement.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Overture--Swing finale.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">080</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">Trio, flute, clarinet, bassoon</title> 
+				  <title type="transcribed">Trio [for] flute, clarinet, bassoon,
+					 </title> 
+				  <unitdate type="inclusive">March 1946</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (14 p.) and 3 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink)</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Prelude--Finale.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">081</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">U.B., our university</title>: 
+				  <title type="transcribed">Alma mater, </title> 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (2 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink)</p> 
+				  <p>For unaccompanied four-voice chorus (soprano, alto, tenor,
+					 bass).</p> 
+				  <p>Words by Allen Sigel. First line of text: Learning's clear
+					 light shines radiant and bright.</p> 
+				  <p>Accompanied by printed lyrics (1 leaf) bearing the title U.
+					 B., our university.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">082</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">U. B., our university</title> 
+				  <title type="transcribed">Alma mater, State University of New
+					 York at Buffalo, </title> 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+				<physdesc> <extent>4 scores (3 p. each)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score for chorus (soprano, alto, tenor, bass)
+					 and piano accompaniment.</p> 
+				  <p>Words by Allen Sigel. First line of text: Learning's clear
+					 light shines radiant and bright.</p> 
+				  <p>Scores numbered 1-4; number 4 has the title U. B., our
+					 university; number 3 has the first line of text from Sigel's work, Patriots
+					 all.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">083</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">U. B., our university</title> 
+				  <title type="transcribed">Alma mater, State University of New
+					 York at Buffalo, </title> 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+				<physdesc> <extent>2 scores</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score for unaccompanied 4-voice chorus.</p> 
+				  <p>Words by Allen Sigel. First line of text: Learning's clear
+					 light shines radiant and bright.</p> 
+				  <p>Accompanied by the printed lyrics (1 leaf) bearing the title
+					 U. B., our university. The two scores differ in formatting and contain minor
+					 variations in lyrics.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">08</container> 
+				<container type="folder">084</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">U. B., our university</title> 
+				  <title type="transcribed">U. B., our university, </title> 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+				<physdesc> <extent>2 leaves of music</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Ink) and computer-notated.</p> 
+				  <p>Single melody line with text. Words by Allen Sigel. First line
+					 of text: Learning's clear light shines radiant and bright, in this noble
+					 university.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">085</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="uniform">U. B., our university; arr.</title> 
+				  <title type="transcribed">U. B., our university, </title> 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (5 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Photocopy)</p> 
+				  <p>The work is for chorus and band; this score is only for
+					 band.</p> 
+				  <p>Words (not included here) by Allen Sigel.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Arrangements of works by other composers, 
+				<unitdate type="inclusive" normal="1972/1991">1972-1991 </unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 86-98 </extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by composer surname and then by uniform
+				title.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">086</container> 
+				<unittitle> 
+				  <persname>Brahms, Johannes, 1833-1897</persname> 
+				  <title type="uniform">Quartets, piano, strings, no. 1, op. 25, G
+					 minor. Rondo alla zingarese; arr.</title> 
+				  <title type="transcribed">Quartet for piano, oboe, clarinet, and
+					 violoncello, op. 25. Rondo alla zingarese, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (15 p.) and 3 parts</extent>
+				  </physdesc> 
+				<note> 
+				  <p>The score is a pencil holograph. The piano and violoncello
+					 lines in the score are photocopies from a printed score taped onto the
+					 holograph. The clarinet part is an ink holograph; the oboe part is a photocopy
+					 of a holograph, the violoncello part is a photocopy of a printed part with some
+					 changes on manuscript paper taped onto the part. Also includes photocopy of a
+					 printed violin part.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">087</container> 
+				<unittitle> 
+				  <persname>Brahms, Johannes, 1833-1897</persname> 
+				  <title type="uniform">Ungarische Tänze. Selections; arr.</title> 
+				  <title type="transcribed">Hungarian dances 1, 3, 4, 5, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (23 p.) and 5 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Originally for piano; arranged for woodwind quintet. Each
+					 dance is a separate fascicle in score and parts.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">088</container> 
+				<unittitle> 
+				  <persname>Confrey, Zez, 1895-1971</persname> 
+				  <title type="uniform">Dizzy fingers; arr.</title> 
+				  <title type="transcribed">Dizzy fingers (1923), </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (11 p.) and 5 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Arranged for woodwind quintet.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">089</container> 
+				<unittitle> 
+				  <persname>Confrey, Zez, 1895-1971</persname> 
+				  <title type="uniform">Dizzy fingers; arr.</title> 
+				  <title type="transcribed">Dizzy fingers (1923), </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (8 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Incomplete draft.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">090</container> 
+				<unittitle> 
+				  <persname>Devienne, François, 1759-1803</persname> 
+				  <title type="uniform">Deuxième sonate pour clarinette si? et
+					 piano-forte</title> 
+				  <title type="transcribed">Sonatas, clarinet, continuo, no. 2, op.
+					 28, </title> 
+				  <unitdate type="inclusive">1972</unitdate> </unittitle> 
+				<physdesc> <extent>1 score</extent> </physdesc> 
+				<note> 
+				  <p>Clarinet part annotated by Allen Sigel, including an
+					 additional leaf (ink holograph) containing a composed cadenza.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">091</container> 
+				<unittitle> 
+				  <persname>Ellington, Duke, 1899-1974</persname> 
+				  <title type="uniform">Paris blues; arr.</title> 
+				  <title type="transcribed">Paris Blues (1961), </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (11 p.) and 5 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Arranged for woodwind quintet.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">092</container> 
+				<unittitle> 
+				  <persname>Ellington, Duke, 1899-1974</persname> 
+				  <title type="uniform">Selections; arr.</title> 
+				  <title type="transcribed">A Duke Ellington triptych, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score and 5 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Arranged for woodwind quintet by Allen Sigel.</p> 
+				  <p>There are duplicate manuscript parts for the flute in Caravan,
+					 and flute and clarinet in Sophisticated lady.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: Caravan--Sophisticated lady--Take the A train.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">093</container> 
+				<unittitle> 
+				  <persname>Handel, George Frideric, 1685-1759</persname> 
+				  <title type="uniform">Fugues, organ, HMV 609, A minor;
+					 arr.</title> 
+				  <title type="transcribed">Fugue number 5 in A minor for soprano
+					 voice, clarinet, and piano, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (7 p.) and 2 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Originally for organ; arranged by Allen Sigel. The voice part
+					 was remarked to be for oboe.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">094</container> 
+				<unittitle> 
+				  <persname>Mozart, Wolfgang Amadeus, 1756-1791</persname> 
+				  <title type="uniform">Variationen über Unser dummer Pöbel meint;
+					 arr.</title> 
+				  <title type="transcribed">Variations on a theme of Gluck, K. 455,
+					 </title> 
+				  <unitdate type="inclusive">1986</unitdate> </unittitle> 
+				<physdesc> <extent>1 part (9 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Computer-notated score.</p> 
+				  <p>Originally for piano; arranged for clarinet and piano by Allen
+					 Sigel. Part marked for performance by Sigel.</p> 
+				  <p>Published 1986 by Shall-u-mo Publications, Rochester, New
+					 York.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">095</container> 
+				<unittitle> 
+				  <persname>Porter, Cole, 1891-1964</persname> 
+				  <title type="uniform">Songs. Selections; arr.</title> 
+				  <title type="transcribed">Cole Porter Medley, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores and 2 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Pencil holograph score and ink holograph parts.</p> 
+				  <p>Songs arranged by Allen Sigel for violin, clarinet, and
+					 piano.</p> 
+				  <p>The pencil holograph score includes attached photocopied
+					 pages; the pages of the photocopy of the score are numbered 1-33. Accompanied
+					 by photocopy of the original version of 
+				  <title>I love you</title>.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p> Contents: It's de-lovely--So in love--My heart belongs to
+				  daddy--I love you--You're the top.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">09</container> 
+				<container type="folder">096</container> 
+				<unittitle> 
+				  <persname>Porter, Cole, 1891-1964</persname> 
+				  <title type="transcribed">Cole Porter research folder, </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+				<note> 
+				  <p>Contains manuscript list of recorded Porter songs, 22 leaves
+					 of printed Porter lyrics, and photocopies of Porter songs: Always true to you
+					 in my fashion, In the still of the night, Just one of those things.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">097</container> 
+				<unittitle> 
+				  <persname>Schubert, Franz, 1797-1828</persname> 
+				  <title type="uniform">Impromptus, piano, no. 4, D.935;
+					 arr.</title> 
+				  <title type="transcribed">Impromptu number 4 in F minor, op. 142,
+					 </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (12 p.) and 1 manuscript part
+				  (5 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph score; pencil holograph part.</p> 
+				  <p>Originally for piano; arranged for clarinet and piano.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">098</container> 
+				<unittitle> 
+				  <persname>Turpin, Tom, 1873-1922</persname> 
+				  <title type="uniform">Buffalo rag; arr.</title> 
+				  <title type="transcribed">Buffalo rag (1904), </title> 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (6 p.) and 5 manuscript
+				  parts</extent> </physdesc> 
+				<note> 
+				  <p>Holograph (Pencil)</p> 
+				  <p>Arranged for woodwind quintet.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Clarinet methods and etudes, 
+				<unitdate type="inclusive" normal="1965/1987">1965-1987</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 99-102 </extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by title.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">099</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="transcribed">Clarinet articulation, </title> 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+				<physdesc> <extent>1 book (76 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Published by Roncorp, Inc., Cherry Hill, New Jersey. Musical
+					 studies with accompanying text.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">100</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="transcribed">Clarinet masterwork etudes: mastering
+					 the masterworks, </title> 
+				  <unitdate type="inclusive">1980</unitdate> </unittitle> 
+				<physdesc> <extent>1 book (32 p.)</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of typescript and musical studies based on eleven
+					 masterworks of the repertoire for clarinet.</p> 
+				  <p>Title on cover: Clarinet master class.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">101</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="transcribed">Twentieth century clarinetist, </title>
+				  
+				  <unitdate type="inclusive">1965</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+				<note> 
+				  <p>Combination of mimeographed typescript text and musical etudes
+					 written in ink on vellum masters.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<container type="folder">102</container> 
+				<unittitle> 
+				  <persname>Sigel, Allen</persname> 
+				  <title type="transcribed">Twentieth century clarinetist, </title>
+				  
+				  <unitdate type="inclusive">1965</unitdate> </unittitle> 
+				<physdesc> <extent>1 volume</extent> </physdesc> 
+				<note> 
+				  <p>Spiral-bound volume with 14 preliminary pages of mimeographed
+					 text and charts, 49 pages of ozalid reproductions of musical etudes, and 12
+					 pages of mimeographed text following the etudes.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh"
+			encodinganalog="650">Music--Manuscripts</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

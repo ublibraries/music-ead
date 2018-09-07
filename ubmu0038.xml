@@ -1,0 +1,3012 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 38::Irene Haupt Photographs of June in Buffalo 2007)//EN"
+	  encodinganalog="identifier">ubmu0038</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
+			 Photographs of June in Buffalo, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="2007-06">2007</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Haupt (Irene)
+			 Photographs of June in Buffalo 2007 </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2009</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, March
+		  2009.</creation> 
+		<langusage>Finding aid is in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Irene Haupt Photographs
+		  of June in Buffalo, 
+		  <unitdate encodinganalog="245$f" normal="2007-06" type="inclusive"
+			datechar="creation"> 2007</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 38</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Haupt,
+			 Irene </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="CD-ROMS"
+		  encodinganalog="300$a">11 CD-ROMS</extent> <extent unit="image-files" encodinganalog="300$a"> (248
+		  digital images) </extent> </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">No
+		  textual content in the collection.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Contains 248 digital
+		  images (tiff files) of musicians who participated in the June in Buffalo
+		  Festival 2007 at the University at Buffalo. </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Irene Haupt Photographs of June in Buffalo, 2007,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Purchased from Irene Haupt, 2007.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>130 images from the June in Buffalo 2007 collection are included in the 
+		<extref
+		 href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009"
+		 show="new" actuate="onrequest">University at Buffalo Libraries Digital
+		  Collections</extref>.</p> 
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Irene Haupt, a graduate of the State University of New York at
+		  Buffalo, has been documenting the Buffalo arts scene through her photography
+		  since 1976. During that time she has worked for, or with, some of the most
+		  notable institutions in Buffalo, including the Irish Classical Theatre, Studio
+		  Arena Theater, the Kavinoky Theatre, the Buffalo Philharmonic Orchestra, the
+		  Theatre of Youth, the Albright-Knox Art Gallery, and the State University of
+		  New York at Buffalo. In addition to her specialty of theater photography, Irene
+		  Haupt has also devoted much of her career to the photography of musicians and
+		  musical events. Most notable is her documentation of the contemporary music
+		  scene in Buffalo, including coverage of the University at Buffalo's June in
+		  Buffalo festival of new music, 1982-1987, and 2000 to the present. Over the
+		  course of those years, she has created a visual record that contains images of
+		  some of the most significant composers and performers of the last quarter
+		  century. The list of names is impressive: Aaron Copland, Morton Feldman, Leo
+		  Smit, Virgil Thomson, Steve Reich, Ralph Shapey, Henry Brant, Earle Brown,
+		  Ursula Oppens, Jan Williams, Lukas Foss, Philip Glass, Otto Luening, Conlon
+		  Nancarrow, Ernst Krenek, Larry Austin, Lejaren Hiller, Elliott Carter, Milton
+		  Babbitt, John Cage, Charles Wuorinen, Jacob Druckman, and Yvar Mikhashoff,
+		  among others. </p> 
+		<p>The June in Buffalo festival of contemporary music was begun at the
+		  University at Buffalo in 1975 by composer Morton Feldman. He directed the
+		  festival 1975-1978 and in 1980. The festival was dormant from 1981 through
+		  1985. David Felder revived the festival in 1986 and has been its director since
+		  that time.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection of Irene Haupt Photographs of June in Buffalo 2007
+		  contains 248 images of participants in the festival for 2007. The list of
+		  musicians includes David Felder, Roger Reynolds, Steve Reich, John Harbison,
+		  Charles Wuorinen, Arditti String Quartet, Harold Rosenbaum, Lucy Shelton,
+		  Curtis Macomber, Red Fish Blue Fish Percussion Ensemble, Steve Schick, Alan
+		  Feinberg, Nicholas Isherwood, and Tony Arnold.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>Eleven series, one for each CD-ROM. Series titles are transcriptions
+		  of markings on the CD-ROMS.</p> 
+		<list type="simple"> 
+		  <item> 
+			 <ref target="series1" show="replace" actuate="onrequest">I. CD-ROM
+				1.</ref> June in Buffalo 07</item> 
+		  <item> 
+			 <ref target="series2" show="replace" actuate="onrequest">II. CD-ROM
+				2.</ref> June in Buffalo 2</item> 
+		  <item> 
+			 <ref target="series3" show="replace" actuate="onrequest">III. CD-ROM
+				3.</ref> JIB 2007-3</item> 
+		  <item> 
+			 <ref target="series4" show="replace" actuate="onrequest">IV. CD-ROM
+				4.</ref> JIB-07</item> 
+		  <item> 
+			 <ref target="series5" show="replace" actuate="onrequest">V. CD-ROM
+				5.</ref> Steve Reich rehearsal</item> 
+		  <item> 
+			 <ref target="series6" show="replace" actuate="onrequest">VI. CD-ROM
+				6.</ref> Reich &amp; Reynolds, RFBF</item> 
+		  <item> 
+			 <ref target="series7" show="replace" actuate="onrequest">VII. CD-ROM
+				7.</ref> RFBR [sic]</item> 
+		  <item> 
+			 <ref target="series8" show="replace" actuate="onrequest">VIII. CD-ROM
+				8.</ref> Reynolds masterclass '07</item> 
+		  <item> 
+			 <ref target="series9" show="replace" actuate="onrequest">IX. CD-ROM
+				9.</ref> Lucy Shelton</item> 
+		  <item> 
+			 <ref target="series10" show="replace" actuate="onrequest">X. CD-ROM
+				10.</ref> Harbison masterclass</item> 
+		  <item> 
+			 <ref target="series11" show="replace" actuate="onrequest">XI. CD-ROM
+				11.</ref> Felder Chasmal, Reynolds The Palace, JIB '07</item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>June in Buffalo 07, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(12 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_01</container> 
+				<unittitle>Arditti Quartet violinist Ashkot Sarkissian with student
+				  composer Bert Van Herck</unittitle> 
+				<note><p>Original file name: -Arditti workshop-
+				  -------.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_02</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) on stage in Baird Recital Hall with student composer
+				  Dominique Schafer</unittitle> 
+				<note><p>Original file name: ARDITTI WORKSHOP
+				  07.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_03</container> 
+				<unittitle>Arditti Quartet violinists Irvine Arditti and Ashkot
+				  Sarkissian with student composer Bert Van Herck</unittitle> 
+				<note><p>Original file name: Arditti
+				  workshop----.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_04</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) with student composer Bert Van Herck</unittitle> 
+				<note><p>Original file name: Arditti
+				  workshop_---------.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_05</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) with student composer Bert Van Herck</unittitle> 
+				<note><p>Original file name: JIB 07 workshop
+				  Arditti.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_06</container> 
+				<unittitle>Irvine Arditti with student composer Dominique
+				  Schafer</unittitle> 
+				<note><p>Original file name: o7 Arditti
+				  Workshop.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_07</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) on stage in Baird Recital Hall with student composer
+				  Dominique Schafer</unittitle> 
+				<note><p>Original file name: stud.composer Arditti
+				  workshop.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_08</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) on stage in Baird Recital Hall with student composer
+				  Dominique Schafer</unittitle> 
+				<note><p>Original file name: Workshop Arditti
+				  -x.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_09</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) with student composer Bert Van Herck</unittitle> 
+				<note><p>Original file name: Workshop Arditti Quartet
+				  --.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_10</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) with student composer Bert Van Herck</unittitle> 
+				<note><p>Original file name: Workshop Arditti Quartet
+				  -.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_11</container> 
+				<unittitle>Arditti Quartet violist Ralf Ehlers and violoncellist
+				  Lucas Fels with student composer Bert Van Herck</unittitle> 
+				<note><p>Original file name: workshop Arditti-.tif</p>
+				
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd01_12</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) on stage in Baird Recital Hall with student composer
+				  Dominique Schafer</unittitle> 
+				<note><p>Original file name: x Arditti
+				  workshop.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>June in Buffalo 2, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(53 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_01</container> 
+				<unittitle>Red Fish Blue Fish percussionist Johannes Fischer
+				  playing bass drum</unittitle> 
+				<note><p>Original file name: - Johannes
+				  Fischer.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_02</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble, with director
+				  Steve Schick, composer Lee Weisert, Justin DeHart?, and Matthew Jenkins,
+				  rehearsing Weisert's composition Rockaby</unittitle> 
+				<note><p>Original file name: ---..RFBF--.tif</p> 
+				<p>Converted file name:  JIB2007-052</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_03</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Ross
+				  Karre, Robert Esler, Steve Schick, and Fabio Oliveira rehearsing Charles
+				  Wuorinen's Percussion Quartet</unittitle> 
+				<note><p>Original file name: --RFBF--.tif</p> 
+				<p>Converted file name:  JIB2007-056</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_04</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Justin
+				  DeHart, Matthew Jenkins, and Fabio Oliveira rehearsing Ya-Ting Lee's
+				  composition, Ritual</unittitle> 
+				<note><p>Original file name: --RFBF.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_05</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Justin
+				  DeHart, Matthew Jenkins, Johannes Fischer, and Fabio Oliveira rehearsing
+				  Ya-Ting Lee's composition, Ritual</unittitle> 
+				<note><p>Original file name: -.tif</p> 
+				<p>Converted file name:  JIB2007-054</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_06</container> 
+				<unittitle>Percussionist Steven Schick rehearsing solo sections of
+				  Part I of Roger Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: -Steve Schick.tif</p> 
+				<p>Converted file name:  JIB2007-104</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_07</container> 
+				<unittitle>Red Fish Blue Fish percussionist Johannes Fischer
+				  playing bass drum</unittitle> 
+				<note><p>Original file name: ...Johannes
+				  Fischer.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_08</container> 
+				<unittitle>Red Fish Blue Fish percussionist Fabio Oliveira playing
+				  bass drum</unittitle> 
+				<note><p>Original file name: ...tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_09</container> 
+				<unittitle>Johannes Fischer playing the bass drum</unittitle> 
+				<note><p>Original file name: ..Johannes
+				  Fischer....tif</p> 
+				<p>Converted file name:  JIB2007-018</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_10</container> 
+				<unittitle>Red Fish Blue Fish percussionist Johannes Fischer
+				  playing bass drum</unittitle> 
+				<note><p>Original file name: ..Johannes
+				  Fischer.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_11</container> 
+				<unittitle>Student composers Aaron Helgesen and Fusun Koksal with
+				  Arditti Quartet violoncellist Lucas Fels and violist Ralf Ehlers</unittitle> 
+				<note><p>Original file name: Aaron Helgeson=Fusun Koksal in
+				  ARDITTI workshop.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_12</container> 
+				<unittitle>Arditti String Quartet with workshop participants,
+				  Dominique Schafer, Trevor Bjorklund, Carmel Raz, Aaron Helgeson, Fusun Koksal,
+				  and Bert Van Herck</unittitle> 
+				<note><p>Original file name: ARDITTI QUARTET and student
+				  composers.tif</p> 
+				<p>Converted file name:  JIB2007-004</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_13</container> 
+				<unittitle>Arditti String Quartet in rehearsal</unittitle> 
+				<note><p>Original file name: ARDITTI quartet
+				  workshop.tif</p> 
+				<p>Converted file name:  JIB2007-001</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_14</container> 
+				<unittitle>Arditti Quartet (Irvine Arditti, Ashkot Sarkissian, Ralf
+				  Ehlers, Lucas Fels) on stage</unittitle> 
+				<note><p>Original file name: ARDITTI quartet.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_15</container> 
+				<unittitle>Student composers Aaron Helgesen and Fusun Koksal with
+				  Arditti Quartet violinist Irvine Arditti</unittitle> 
+				<note><p>Original file name: Arditti workshop Aaron
+				  Helgeson Fusun Koksal.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_16</container> 
+				<unittitle>Student composer Aaron Helgesen with Arditti Quartet
+				  violinist Ashkot Sarkissian and violoncellist Lucas Fels</unittitle> 
+				<note><p>Original file name: Arditti workshop Aaron
+				  Helgeson.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_17</container> 
+				<unittitle>Arditti Quartet violist Ralf Ehlers with student
+				  composer Fusun Koksal</unittitle> 
+				<note><p>Original file name: ARDITTI workshop Fusun
+				  Koksal.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_18</container> 
+				<unittitle>Arditti Quartet violinist Irvine Arditti with student
+				  composer Trevor Bjorklund</unittitle> 
+				<note><p>Original file name: Arditti
+				  workshop....tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_19</container> 
+				<unittitle>Audience at Arditti Quartet workshop in Baird Recital
+				  Hall, including John Harbison</unittitle> 
+				<note><p>Original file name: ARDITTI workshop.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_20</container> 
+				<unittitle>David Felder gesturing during masterclass</unittitle> 
+				<note><p>Original file name: DAVID FELDER.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_21</container> 
+				<unittitle>David Felder gesturing during masterclass</unittitle> 
+				<note><p>Original file name: FELDER
+				  masterclass-x.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_22</container> 
+				<unittitle>David Felder gesturing during masterclass</unittitle> 
+				<note><p>Original file name: FELDER
+				  masterclass--.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_23</container> 
+				<unittitle>Student composers at David Felder
+				  masterclass</unittitle> 
+				<note><p>Original file name: Felder
+				  masterclass.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_24</container> 
+				<unittitle>Composer Fusun Koksal with violist Ralf
+				  Ehlers</unittitle> 
+				<note><p>Original file name: Fusun Koksal in ARDITTI
+				  workshop.tif</p> 
+				<p>Converted file name:  JIB2007-041</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_25</container> 
+				<unittitle>Student composers Aaron Helgesen and Fusun Koksal with
+				  Arditti Quartet violoncellist Lucas Fels and violist Ralf Ehlers</unittitle> 
+				<note><p>Original file name: Fusun Koksal-Aaron
+				  Helgeson=ARDITTI QUARTET.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_26</container> 
+				<unittitle>Red Fish Blue Fish percussionist Johannes Fischer
+				  playing bass drum</unittitle> 
+				<note><p>Original file name: Johannes Fischer.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_27</container> 
+				<unittitle>Student composer Lee Weisart with Red Fish Blue Fish
+				  percussionists Steve Schick and Justin Dehart(?)</unittitle> 
+				<note><p>Original file name: Lee Weisert and
+				  RFBF.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_28</container> 
+				<unittitle>Student composer Lee Weisart with Red Fish Blue Fish
+				  percussionists Steve Schick, Justin Dehart(?), and Matthew Jenkins</unittitle> 
+				<note><p>Original file name: Lee Weisert and
+				  RFBF.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_29</container> 
+				<unittitle>Tony Arnold, vocalist, and Christian Baldini, conductor,
+				  rehearsing Paolo Cavallone's Scendero a patti with ensemble of Sabatino Scirri,
+				  flute, Rin Ozaki, percussion, Will Chapin, guitar, and Jonathan Golove,
+				  violoncello</unittitle> 
+				<note><p>Original file name: Paolo Cavallone SCENDERO A
+				  PATTI.tif</p> 
+				<p>Converted file name:  JIB2007-007</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_30</container> 
+				<unittitle>Tony Arnold, vocalist, and Christian Baldini, conductor,
+				  rehearsing Paolo Cavallone's Scendero a patti with ensemble of Sabatino Scirri,
+				  flute, Rin Ozaki, percussion, Will Chapin, guitar, and Jonathan Golove,
+				  violoncello</unittitle> 
+				<note><p>Original file name: Paolo Cavallone.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_31</container> 
+				<unittitle>Percussionist Steven Schick with composer Lee Weisert,
+				  rehearsing Weisert's composition, Rockaby</unittitle> 
+				<note><p>Original file name: RFBF -Lee Weisert
+				  stud.composer.tif</p> 
+				<p>Converted file name:  JIB2007-105</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_32</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Justin
+				  DeHart and Fabio Oliveira rehearsing Ya-Ting Lee's composition,
+				  Ritual</unittitle> 
+				<note><p>Original file name: RFBF---.tif</p> 
+				<p>Converted file name:  JIB2007-055</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_33</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Justin
+				  DeHart, Matthew Jenkins, Fabio Oliveira, and Johannes Fischer rehearsing
+				  Ya-Ting Lee's composition, Ritual</unittitle> 
+				<note><p>Original file name: RFBF--.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_34</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Ross
+				  Karre, Robert Esler, Steve Schick, and Fabio Oliveira</unittitle> 
+				<note><p>Original file name: RFBF.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_35</container> 
+				<unittitle>Rin Ozaki bowing a gong</unittitle> 
+				<note><p>Original file name: Rin Ozaki---.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_36</container> 
+				<unittitle>Rin Ozaki bowing a gong</unittitle> 
+				<note><p>Original file name: Rin Ozaki.tif</p> 
+				<p>Converted file name:  JIB2007-050</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_37</container> 
+				<unittitle>Red Fish Blue Fish percussionists Justin DeHart and
+				  Fabio Oliveira rehearse Ya-Ting Lee's Ritual</unittitle> 
+				<note><p>Original file name: RITUAL by Ya-Ting
+				  Lee.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_38</container> 
+				<unittitle>Composer Roger Reynolds onstage with the Arditti String
+				  Quartet after a performance of Reynolds's composition, Ariadne's
+				  thread</unittitle> 
+				<note><p>Original file name: Roger Reynolds and
+				  Arditti.tif</p> 
+				<p>Converted file name:  JIB2007-090</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_39</container> 
+				<unittitle>Stage setup for percussion used in Roger Reynolds's
+				  composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Roger Reynolds SANCTUARY
+				  stage.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_40</container> 
+				<unittitle>Stage setup for percussion used in Roger Reynolds's
+				  composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Stage SANCTUARY.tif</p> 
+				<p>Converted file name:  JIB2007-112</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_41</container> 
+				<unittitle>Percussionist Steven Schick rehearsing solo sections of
+				  Part I of Roger Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Steve Schick in
+				  SANCTUARY....tif</p> 
+				<p>Converted file name:  JIB2007-101</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_42</container> 
+				<unittitle>Percussionist Steven Schick rehearsing solo sections of
+				  Part I of Roger Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Steve Schick in
+				  SANCTUARY...tif</p> 
+				<p>Converted file name:  JIB2007-102</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_43</container> 
+				<unittitle>Percussionist Steven Schick rehearsing solo sections of
+				  Part I of Roger Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Steve Schick in
+				  SANCTUARY.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_44</container> 
+				<unittitle>Composer Roger Reynolds adjusting microphone for
+				  percussionist Steven Schick during rehearsal of Reynolds's composition,
+				  Sanctuary</unittitle> 
+				<note><p>Original file name: Steve Schick- Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-085</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_45</container> 
+				<unittitle>Percussionist Steven Schick rehearsing solo sections of
+				  Part I of Roger Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Steve Schick-.tif</p> 
+				<p>Converted file name:  JIB2007-100</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_46</container> 
+				<unittitle>Percussionist Steven Schick rehearsing solo sections of
+				  Part I of Roger Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: STEVE SCHICK.tif</p> 
+				<p>Converted file name:  JIB2007-103</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_47</container> 
+				<unittitle>Composer Fusun Koksal with violinist Irvine Arditti and
+				  violoncellist Lucas Fels</unittitle> 
+				<note><p>Original file name: stud.composer Fusun Koksal
+				  -Arditti.tif</p> 
+				<p>Converted file name:  JIB2007-040</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_48</container> 
+				<unittitle>Jonathan Golove performing on violoncello while composer
+				  Jane Stanley watches (rehearsal of her work, Deep turn)</unittitle> 
+				<note><p>Original file name: stud.composer Jane Stanley
+				  DEEP RUN.tif</p> 
+				<p>Converted file name:  JIB2007-020</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_49</container> 
+				<unittitle>Arditti String Quartet with workshop participants,
+				  Dominique Schafer, Trevor Bjorklund, Carmel Raz, Aaron Helgeson, Fusun Koksal,
+				  and Bert Van Herck</unittitle> 
+				<note><p>Original file name: student composers and ARDITTI
+				  QUARTET.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_50</container> 
+				<unittitle>Johannes Fischer performing with bass drum</unittitle> 
+				<note><p>Original file name: x-Johannes Fischer RITUAL by
+				  Ya-Ting Lee.tif</p> 
+				<p>Converted file name:  JIB2007-019</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_51</container> 
+				<unittitle>Student composer Ya-Ting Lee at rehearsal with Red Fish
+				  Blue Fish percussion group</unittitle> 
+				<note><p>Original file name: YA-Ting Lee at
+				  rehearsal....tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_52</container> 
+				<unittitle>Student composer Ya-Ting Lee at rehearsal with Red Fish
+				  Blue Fish percussion group</unittitle> 
+				<note><p>Original file name: YA-Ting Lee at
+				  rehearsal.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd02_53</container> 
+				<unittitle>Composer Ya-Ting Lee</unittitle> 
+				<note><p>Original file name: Ya-Ting Lee student
+				  composer.tif</p> 
+				<p>Converted file name:  JIB2007-042</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>JIB 2007-3, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(12 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_01</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble, with director
+				  Steve Schick (lower left), Ross Karre, Johannes Fischer, Justin DeHart, Robert
+				  Esler, Fabio Oliveira, Ian Sexton, and Matthew Jenkins, with the Waterphone
+				  used in Roger Reynolds's composition Sanctuary</unittitle> 
+				<note><p>Original file name: ORACLE with RFBF
+				  07.tif</p> 
+				<p>Converted file name:  JIB2007-051</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_02</container> 
+				<unittitle>Steve Schick and members of Red Fish Blue Fish in
+				  discussion with audience after concert</unittitle> 
+				<note><p>Original file name: RFBF talk with audience after
+				  concert.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_03</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble, with director
+				  Steve Schick (lower left), Ross Karre, Johannes Fischer, Justin DeHart, Robert
+				  Esler, Fabio Oliveira, Ian Sexton, and Matthew Jenkins, with the Waterphone
+				  used in Roger Reynolds's composition Sanctuary</unittitle> 
+				<note><p>Original file name: RFBF with Roger Reynolds
+				  Oracle 07.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_04</container> 
+				<unittitle>Student composer Daniel Blake with Red Fish Blue Fish
+				  percussionists Johannes Fischer and Ross Karre</unittitle> 
+				<note><p>Original file name: RFBF with student comp.Daniel
+				  Blake.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_05</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Robert
+				  Esler and Fabio Oliveira rehearse Daniel Van Hassel's composition, Trudge
+				  Blasted Exotic</unittitle> 
+				<note><p>Original file name: RFBF-Daniel VanHassel TRUDGE
+				  BLASTED EXOTIC.tif</p> 
+				<p>Converted file name:  JIB2007-058</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_06</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Robert
+				  Esler and Fabio Oliveira rehearse Daniel Van Hassel's composition, Trudge
+				  Blasted Exotic</unittitle> 
+				<note><p>Original file name: RFBF.tif</p> 
+				<p>Converted file name:  JIB2007-059</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_07</container> 
+				<unittitle>Red Fish Blue Fish percussionists Robert Esler and Fabio
+				  Oliveira</unittitle> 
+				<note><p>Original file name: Robert Esler-Fabio Oliveira
+				  RFBF.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_08</container> 
+				<unittitle>Steve Schick in discussion with audience after
+				  concert</unittitle> 
+				<note><p>Original file name: Steve Schick and RFBF lecture
+				  after concert.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_09</container> 
+				<unittitle>Steve Schick and members of Red Fish Blue Fish in
+				  discussion with audience after concert</unittitle> 
+				<note><p>Original file name: Steve Schick and RFBF talking
+				  to student composers.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_10</container> 
+				<unittitle>Composer Daniel Van Hassel watches as Red Fish Blue Fish
+				  Percussion Ensemble members Fabio Oliveira and Robert Esler rehearse Van
+				  Hassel's composition, Trudge Blasted Exotic</unittitle> 
+				<note><p>Original file name: student composer Daniel
+				  Blake-RFBF.tif</p> 
+				<p>Converted file name:  JIB2007-057</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_11</container> 
+				<unittitle>Red Fish Blue Fish percussionists Ross Karre and
+				  Johannes Fischer performing work by James Ogburn</unittitle> 
+				<note><p>Original file name: Student composer James Ogburn
+				  -RFBF.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd03_12</container> 
+				<unittitle>Student composers listening to Red Fish Blue Fish
+				  post-concert lecture.tif</unittitle> 
+				<note><p>Original file name: student composers listening to
+				  RFBF talk.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>JIB-07, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(46 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_01</container> 
+				<unittitle>Charles Haupt, Rin Ozaki, and Tony Arnold</unittitle> 
+				<note><p>Original file name: 001 Charles Haupt Rin Ozaki
+				  Tony Arnold.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_02</container> 
+				<unittitle>Charles Haupt, Rin Ozaki, and Tony Arnold</unittitle> 
+				<note><p>Original file name: 002 Charles Haupt -Rin
+				  Ozaki-Tony Arnold.tif</p> 
+				<p>Converted file name:  JIB2007-027</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_03</container> 
+				<unittitle>Charles Haupt, Tony Arnold, and Rin Ozaki rehearsing
+				  John Aylward's End of winter</unittitle> 
+				<note><p>Original file name: 006 END OF WINTER by John
+				  Aylward Tony Arnold Rin Ozaki Ch~1.tif</p> 
+				<p>Converted file name:  JIB2007-029</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_04</container> 
+				<unittitle>David Felder in masterclass with student
+				  composers</unittitle> 
+				<note><p>Original file name: 044 Masterclass David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_05</container> 
+				<unittitle>David Felder in masterclass with student
+				  composers</unittitle> 
+				<note><p>Original file name: 048Masterclass David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_06</container> 
+				<unittitle>David Felder in masterclass with student
+				  composers</unittitle> 
+				<note><p>Original file name: 049 Masterclass David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_07</container> 
+				<unittitle>David Felder in masterclass with student
+				  composers</unittitle> 
+				<note><p>Original file name: 051 Masterclass David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_08</container> 
+				<unittitle>June in Buffalo students Jeff Silva, Daniel Van Hassel,
+				  and Jacques Baldasari</unittitle> 
+				<note><p>Original file name: 052 Masterclass David
+				  Felder.tif</p> 
+				<p>Converted file name:  JIB2007-115</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_09</container> 
+				<unittitle>Student composers in David Felder
+				  masterclass</unittitle> 
+				<note><p>Original file name: 053 Masterclass David
+				  Felder--=.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_10</container> 
+				<unittitle>David Felder in masterclass with student
+				  composers</unittitle> 
+				<note><p>Original file name: 053 Masterclass David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_11</container> 
+				<unittitle>David Felder examining score with students Aaron
+				  Helgeson, Jane Stanley, Eliza Brown, and Michael McBride</unittitle> 
+				<note><p>Original file name: 054 Masterclass David
+				  Felder.tif</p> 
+				<p>Converted file name:  JIB2007-015</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_12</container> 
+				<unittitle>David Felder commenting on a score, with students
+				  Michael McBride and Jane Stanley</unittitle> 
+				<note><p>Original file name: 055 Masterclass David
+				  Felder.tif</p> 
+				<p>Converted file name:  JIB2007-016</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_13</container> 
+				<unittitle>Arditti String Quartet posing onstage</unittitle> 
+				<note><p>Original file name: Arditti quartet
+				  rehearsal.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_14</container> 
+				<unittitle>Arditti String Quartet posing onstage</unittitle> 
+				<note><p>Original file name: ARDITTI Quartet
+				  018.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_15</container> 
+				<unittitle>Arditti String Quartet posing onstage</unittitle> 
+				<note><p>Original file name: ARDITTI Quartet
+				  019.tif</p> 
+				<p>Converted file name:  JIB2007-003</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_16</container> 
+				<unittitle>David Felder with the Arditti String Quartet during
+				  rehearsal of Felder's String Quartet no. 2</unittitle> 
+				<note><p>Original file name: ARDITTI Quartet and David
+				  Felder 009.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_17</container> 
+				<unittitle>David Felder with the Arditti String Quartet during
+				  rehearsal of Felder's String Quartet no. 2</unittitle> 
+				<note><p>Original file name: ARDITTI Quartet and David
+				  Felder 010.tif</p> 
+				<p>Converted file name:  JIB2007-013</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_18</container> 
+				<unittitle>David Felder with the Arditti String Quartet during
+				  rehearsal of Felder's String Quartet no. 2</unittitle> 
+				<note><p>Original file name: ARDITTI Quartet and David
+				  Felder 011.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_19</container> 
+				<unittitle>David Felder with the Arditti String Quartet during
+				  rehearsal of Felder's String Quartet no. 2</unittitle> 
+				<note><p>Original file name: ARDITTI Quartet and David
+				  Felder 015.tif</p> 
+				<p>Converted file name:  JIB2007-014</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_20</container> 
+				<unittitle>Composer Christian Baldini with conductor Harold
+				  Rosenbaum rehearsing Baldini's composition, Two adoration motets</unittitle> 
+				<note><p>Original file name: Christian Baldini_ Harold
+				  Rosenbaum.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_21</container> 
+				<unittitle>Tony Arnold, Paolo Cavallone, and Christian
+				  Baldini</unittitle> 
+				<note><p>Original file name: Christian Baldini_ Tony Arnold
+				  stud.comp.Paolo Cavallone.tif</p> 
+				<p>Converted file name:  JIB2007-006</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_22</container> 
+				<unittitle>Composer Christian Baldini with conductor Harold
+				  Rosenbaum and members of the New York Virtuoso Singers rehearsing Baldini's
+				  composition, Two adoration motets</unittitle> 
+				<note><p>Original file name: Christian Baldini_The NY
+				  Virtuoso Singers.tif</p> 
+				<p>Converted file name:  JIB2007-098</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_23</container> 
+				<unittitle>Student composers looking at David Felder score during
+				  rehearsal</unittitle> 
+				<note><p>Original file name: David Felder Lecture
+				  score.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_24</container> 
+				<unittitle>Students David Hanner (right), John Aylward, and Fusun
+				  Koksal examining a score during a lecture by David Felder</unittitle> 
+				<note><p>Original file name: David Felder
+				  lecture---.tif</p> 
+				<p>Converted file name:  JIB2007-021</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_25</container> 
+				<unittitle>David Felder examining score with students Jeff Silva,
+				  Daniel Blake, and Dominique Schafer</unittitle> 
+				<note><p>Original file name: David Felder
+				  Lecture-.tif</p> 
+				<p>Converted file name:  JIB2007-017</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_26</container> 
+				<unittitle>Student composers in audience for David Felder
+				  lecture</unittitle> 
+				<note><p>Original file name: David Felder
+				  Lecture.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_27</container> 
+				<unittitle>David Felder during seminar</unittitle> 
+				<note><p>Original file name: David Felder
+				  masterclass.tif</p> 
+				<p>Converted file name:  JIB2007-009</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_28</container> 
+				<unittitle>Student composer looking at David Felder score during
+				  rehearsal</unittitle> 
+				<note><p>Original file name: David Felder
+				  score-.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_29</container> 
+				<unittitle>David Felder during seminar</unittitle> 
+				<note><p>Original file name: FELDER
+				  masterclass-x.tif</p> 
+				<p>Converted file name:  JIB2007-010</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_30</container> 
+				<unittitle>David Felder during seminar</unittitle> 
+				<note><p>Original file name: FELDER
+				  masterclass--.tif</p> 
+				<p>Converted file name:  JIB2007-011</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_31</container> 
+				<unittitle>Student composers in David Felder
+				  masterclass</unittitle> 
+				<note><p>Original file name: Felder
+				  masterclass.-.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_32</container> 
+				<unittitle>Student composers in David Felder
+				  masterclass</unittitle> 
+				<note><p>Original file name: FELDER
+				  masterclass.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_33</container> 
+				<unittitle>John Aylward rehearsing his End of Winter with Rin
+				  Ozaki, Charles Haupt, and Tony Arnold</unittitle> 
+				<note><p>Original file name: John Aylward END OF
+				  WINTER.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_34</container> 
+				<unittitle>Charles Haupt, Tony Arnold, John Aylward, and Rin
+				  Ozaki</unittitle> 
+				<note><p>Original file name: John Aylward stud.composer END
+				  OF WINTER.tif</p> 
+				<p>Converted file name:  JIB2007-028</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_35</container> 
+				<unittitle>June in Buffalo students and auditors, 2007: Jacques
+				  Baldasari, Matthew Barnson, Daniel Van Hassel,S. Anthony Amstutz, Jeff Silva,
+				  Daniel Blake, and Aubrey Byerly</unittitle> 
+				<note><p>Original file name: June in Buffalo
+				  07.tif</p> 
+				<p>Converted file name:  JIB2007-113</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_36</container> 
+				<unittitle>June in Buffalo students and auditors 2007: Jenece
+				  Gerber, Dominique Schafer, Eric Roth, Eliza Brown, Lee Weisert, Michael
+				  McBride, James Ogburn, Ya-Ting Lee, and Patrick Castillo</unittitle> 
+				<note><p>Original file name: June in Buffalo
+				  2007.tif</p> 
+				<p>Converted file name:  JIB2007-114</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_37</container> 
+				<unittitle>David Felder looking at score with student
+				  composers</unittitle> 
+				<note><p>Original file name: Lecture David
+				  Felder--.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_38</container> 
+				<unittitle>Student composers looking at David Felder score during
+				  rehearsal</unittitle> 
+				<note><p>Original file name: LECTURE David
+				  Felder-.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_39</container> 
+				<unittitle>David Felder presenting lecture in Slee Hall</unittitle>
+				
+				<note><p>Original file name: Lecture David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_40</container> 
+				<unittitle>Composer Lee Weisert (center) with members of the Red
+				  Fish Blue Fish Percussion Ensemble, Matthew Jenkins, Justin DeHart, Johannes
+				  Fischer, and Fabio Oliveira, rehearsing Weisert's composition,
+				  Rockaby</unittitle> 
+				<note><p>Original file name: Lee Weisert with
+				  RFBF.tif</p> 
+				<p>Converted file name:  JIB2007-116</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_41</container> 
+				<unittitle>Student composers in David Felder
+				  masterclass</unittitle> 
+				<note><p>Original file name: Masterclass David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_42</container> 
+				<unittitle>Student composers looking at David Felder score during
+				  rehearsal</unittitle> 
+				<note><p>Original file name: Score David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_43</container> 
+				<unittitle>Composer Christian Baldini with conductor Harold
+				  Rosenbaum and members of the New York Virtuoso Singers rehearsing Baldini's
+				  composition, Two adoration motets</unittitle> 
+				<note><p>Original file name: The NY Virtuoso Singers
+				  Christian Baldini_ Harold Rosenbaum.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_44</container> 
+				<unittitle>Composer Christian Baldini with conductor Harold
+				  Rosenbaum and members of the New York Virtuoso Singers rehearsing Baldini's
+				  composition, Two adoration motets</unittitle> 
+				<note><p>Original file name: The NY Virtuoso
+				  Singers.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_45</container> 
+				<unittitle>Conductor Harold Rosenbaum rehearsing with the New York
+				  Virtuoso Singers and instrumentalists</unittitle> 
+				<note><p>Original file name: THE NY VIRTUOSO
+				  SINGERS___.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd04_46</container> 
+				<unittitle>Tony Arnold, Paolo Cavallone, and Christian
+				  Baldini</unittitle> 
+				<note><p>Original file name: Tony Arnold Christian Baldini
+				  _Paolo Cavallone-stud.comp.jpg</p> 
+				<p>Converted file name:  JIB2007-005</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Steve Reich rehearsal, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(30 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_01</container> 
+				<unittitle>Steve Reich and Brad Lubman during rehearsal of Reich's
+				  Tehillim with Slee Sinfonietta</unittitle> 
+				<note><p>Original file name: --Steve Reich Brad
+				  Lubman.tif</p> 
+				<p>Converted file name:  JIB2007-066</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_02</container> 
+				<unittitle>Steve Reich talking with conductor Brad Lubman, with
+				  soprano Jolle Greenleaf, Caleb Burhans, and Martha Cluver</unittitle> 
+				<note><p>Original file name: -Steve Reich Brad Lubman Caleb
+				  Burhans Martha Cluver.tif</p> 
+				<p>Converted file name:  JIB2007-074</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_03</container> 
+				<unittitle>Conductor Brad Lubman and composer Steve
+				  Reich</unittitle> 
+				<note><p>Original file name: 003 Brad Lubman-Steve Reich
+				  07.tif</p> 
+				<p>Converted file name:  JIB2007-073</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_04</container> 
+				<unittitle>Conductor Brad Lubman examining score of Charles
+				  Wuorinen's Percussion Quartet with percussionists Jason Treuting, Jon Hepfer,
+				  and Fabio Oliveira</unittitle> 
+				<note><p>Original file name: 003 Cond.Brad Lubman
+				  explaining Wuorinen music.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_05</container> 
+				<unittitle>Brad Lubman conducting vocalists and the Slee
+				  Sinfonietta in rehearsal of Steve Reich's Tehillim</unittitle> 
+				<note><p>Original file name: 009 TEHILLIM by Steve
+				  Reich.tif</p> 
+				<p>Converted file name:  JIB2007-044</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_06</container> 
+				<unittitle>Brad Lubman conducting vocalists and the Slee
+				  Sinfonietta in rehearsal of Steve Reich's Tehillim</unittitle> 
+				<note><p>Original file name: 011TEHILLIM by Steve
+				  Reich.tif</p> 
+				<p>Converted file name:  JIB2007-045</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_07</container> 
+				<unittitle>Conductor Brad Lubman examining score of Charles
+				  Wuorinen's Percussion Quartet with percussionists Jason Treuting, Jon Hepfer,
+				  and Fabio Oliveira</unittitle> 
+				<note><p>Original file name: 023 conductor Brad Lubman
+				  explaining Wuorinen music.tif</p> 
+				<p>Converted file name:  JIB2007-048</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_08</container> 
+				<unittitle>Brad Lubman conducting vocalists and the Slee
+				  Sinfonietta in rehearsal of Steve Reich's Tehillim</unittitle> 
+				<note><p>Original file name: 025 TEHILLIM by Steve
+				  Reich.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_09</container> 
+				<unittitle>Brad Lubman conducting vocalists and the Slee
+				  Sinfonietta in rehearsal of Steve Reich's Tehillim</unittitle> 
+				<note><p>Original file name: 027 TEHILLIM by Steve
+				  Reich.tif</p> 
+				<p>Converted file name:  JIB2007-046</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_10</container> 
+				<unittitle>Conductor Brad Lubman and composer Steve Reich at
+				  rehearsal of Tehillim</unittitle> 
+				<note><p>Original file name: 031 Brad Lubman -Steve
+				  Reich.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_11</container> 
+				<unittitle>Steve Reich and Brad Lubman during rehearsal of Reich's
+				  Tehillim with Slee Sinfonietta</unittitle> 
+				<note><p>Original file name: 033 Brad Lubman -Steve
+				  Reich.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_12</container> 
+				<unittitle>Steve Reich and Brad Lubman during rehearsal of Reich's
+				  Tehillim with Slee Sinfonietta</unittitle> 
+				<note><p>Original file name: 035 Brad Lubman Steve Reich
+				  07.tif</p> 
+				<p>Converted file name:  JIB2007-069</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_13</container> 
+				<unittitle>Conductor Brad Lubman examining score of Charles
+				  Wuorinen's Percussion Quartet with percussionists Jason Treuting, Jon Hepfer,
+				  and Fabio Oliveira</unittitle> 
+				<note><p>Original file name: conductor Brad Lubman with
+				  Wuorinen score.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_14</container> 
+				<unittitle>Rehearsal of Steve Reich's Daniel Variations</unittitle>
+				
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 002.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_15</container> 
+				<unittitle>Slee Sinfonietta members rehearsing Steve Reich's Daniel
+				  Variations</unittitle> 
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 004.tif</p> 
+				<p>Converted file name:  JIB2007-061</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_16</container> 
+				<unittitle>Slee Sinfonietta members rehearsing Steve Reich's Daniel
+				  Variations</unittitle> 
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 005.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_17</container> 
+				<unittitle>Slee Sinfonietta members rehearsing Steve Reich's Daniel
+				  Variations</unittitle> 
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 007.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_18</container> 
+				<unittitle>Slee Sinfonietta members rehearsing Steve Reich's Daniel
+				  Variations</unittitle> 
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 010.tif</p> 
+				<p>Converted file name:  JIB2007-062</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_19</container> 
+				<unittitle>Slee Sinfonietta members rehearsing Steve Reich's Daniel
+				  Variations</unittitle> 
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 011.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_20</container> 
+				<unittitle>Slee Sinfonietta members rehearsing Steve Reich's Daniel
+				  Variations</unittitle> 
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 015.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_21</container> 
+				<unittitle>Slee Sinfonietta members rehearsing Steve Reich's Daniel
+				  Variations</unittitle> 
+				<note><p>Original file name: Daniel Variations by Steve
+				  Reich Rehears.JIB 07 017.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_22</container> 
+				<unittitle>Composers Steve Reich and David Felder</unittitle> 
+				<note><p>Original file name: David Felder- Steve
+				  Reich.tif</p> 
+				<p>Converted file name:  JIB2007-077</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_23</container> 
+				<unittitle>Steve Reich talking with conductor Brad Lubman, with
+				  Jolle Greenleaf, Caleb Burhans, and Martha Cluver</unittitle> 
+				<note><p>Original file name: Steve Reich Brad Lubman Caleb
+				  Burhans Martha Cluver.tif</p> 
+				<p>Converted file name:  JIB2007-075</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_24</container> 
+				<unittitle>Steve Reich and Brad Lubman during rehearsal of Reich's
+				  Tehillim with Slee Sinfonietta</unittitle> 
+				<note><p>Original file name: Steve Reich Brad
+				  Lubman---.tif</p> 
+				<p>Converted file name:  JIB2007-068</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_25</container> 
+				<unittitle>Steve Reich and Brad Lubman during rehearsal of Reich's
+				  Tehillim with Slee Sinfonietta</unittitle> 
+				<note><p>Original file name: Steve Reich Brad
+				  Lubman.tif</p> 
+				<p>Converted file name:  JIB2007-067</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_26</container> 
+				<unittitle>Singers during rehearsal of Steve Reich's composition,
+				  Tehillim</unittitle> 
+				<note><p>Original file name: TEHILLIM by Steve Reich
+				  Conducter Brad Lubman 007.tif</p> 
+				<p>Converted file name:  JIB2007-071</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_27</container> 
+				<unittitle>Singers and clappers during rehearsal of Steve Reich's
+				  composition, Tehillim</unittitle> 
+				<note><p>Original file name: TEHILLIM by Steve Reich
+				  Conducter Brad Lubman 014.tif</p> 
+				<p>Converted file name:  JIB2007-072</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_28</container> 
+				<unittitle>Singers and clappers during rehearsal of Steve Reich's
+				  composition, Tehillim</unittitle> 
+				<note><p>Original file name: TEHILLIM by Steve Reich
+				  Conducter Brad Lubman 016.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_29</container> 
+				<unittitle>Brad Lubman conducting the Slee Sinfonietta in rehearsal
+				  of Steve Reich's Tehillim</unittitle> 
+				<note><p>Original file name: TEHILLIM by Steve Reich
+				  Conducter Brad Lubman 020.tif</p> 
+				<p>Converted file name:  JIB2007-047</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd05_30</container> 
+				<unittitle>Steve Reich and Brad Lubman during rehearsal of Reich's
+				  Tehillim with Slee Sinfonietta</unittitle> 
+				<note><p>Original file name: x`Steve Reich Brad
+				  Lubman.tif</p> 
+				<p>Converted file name:  JIB2007-070</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Reich &amp; Reynolds, RFBF, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(18 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_01</container> 
+				<unittitle>Steve Reich gesturing during lecture</unittitle> 
+				<note><p>Original file name: -Steve Reich b-w.tif</p> 
+				<p>Converted file name:  JIB2007-063</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_02</container> 
+				<unittitle>Steve Reich gesturing during lecture</unittitle> 
+				<note><p>Original file name: -Steve Reich.tif</p> 
+				<p>Converted file name:  JIB2007-064</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_03</container> 
+				<unittitle>Steve Reich gesturing during lecture</unittitle> 
+				<note><p>Original file name: .Steve Reich
+				  lecture.tif</p> 
+				<p>Converted file name:  JIB2007-065</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_04</container> 
+				<unittitle>Arditti String Quartet in rehearsal onstage in Slee
+				  Hall</unittitle> 
+				<note><p>Original file name: Arditti Quartet==.tif</p>
+				
+				<p>Converted file name:  JIB2007-002</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_05</container> 
+				<unittitle>Conductor Brad Lubman with composer Steve
+				  Reich</unittitle> 
+				<note><p>Original file name: Brad Lubman and Steve Reich at
+				  reheasal.tif</p> 
+				<p>Converted file name:  JIB2007-043</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_06</container> 
+				<unittitle>Composer Roger Reynolds and percussionist Gustavo
+				  Aguilar, member of Red Fish Blue Fish percussion ensemble</unittitle> 
+				<note><p>Original file name: composer Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-086</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_07</container> 
+				<unittitle>John Harbison with conductor Harold Rosenbaum rehearsing
+				  Harbison's But Mary Stood, with Calvin Weirsma and Deborah Wong, violins, and
+				  Lois Martin, viola</unittitle> 
+				<note><p>Original file name: cond. Harold Rosenbaum
+				  comp.J.Harbison rehearsing.tif</p> 
+				<p>Converted file name:  JIB2007-024</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_08</container> 
+				<unittitle>John Harbison and conductor Harold Rosenbaum during
+				  rehearsal of Harbison's But Mary Stood, with Deborah Wong, violin, Lois Martin,
+				  viola, and Chris Finckel, violoncello</unittitle> 
+				<note><p>Original file name: John Harbison_Harold Rosenbaum
+				  cond. The NY Virtuoso Singers.tif</p> 
+				<p>Converted file name:  JIB2007-025</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_09</container> 
+				<unittitle>Steve Reich and David Felder onstage during
+				  lecture/discussion</unittitle> 
+				<note><p>Original file name: Lecture Steve Reich with David
+				  Felder.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_10</container> 
+				<unittitle>Composers Steve Reich and David Felder at a lecture
+				  given by them</unittitle> 
+				<note><p>Original file name: Reich lecture.tif</p> 
+				<p>Converted file name:  JIB2007-079</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_11</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Greg
+				  Stuart, Justin DeHart, Gustavo Aguilar, and Robert Esler rehearsing Roger
+				  Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: RFBF rehearsing
+				  SANCTUARY_Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-060</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_12</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble in
+				  rehearsal</unittitle> 
+				<note><p>Original file name: RFBF rehearsing.tif</p> 
+				<p>Converted file name:  duplicate</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_13</container> 
+				<unittitle>Composer Roger Reynolds with technical assistant, Ian
+				  Saxton, and members of the Red Fish Blue Fish percussion ensemble, Greg Stuart,
+				  Robert Esler, Justin DeHart, and Gustavo Aguilar</unittitle> 
+				<note><p>Original file name: RFBF with composer Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-088-dup</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_14</container> 
+				<unittitle>Composer Roger Reynolds with percussionist Robert Esler
+				  and the Waterphone used in the Oracle section of his composition,
+				  Sanctuary</unittitle> 
+				<note><p>Original file name: Roger Reynolds with THE
+				  ORACLE.tif</p> 
+				<p>Converted file name:  JIB2007-087</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_15</container> 
+				<unittitle>Composers Steve Reich and David Felder</unittitle> 
+				<note><p>Original file name: Steve Reich and David Felder
+				  lecture.tif</p> 
+				<p>Converted file name:  JIB2007-078</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_16</container> 
+				<unittitle>Steve Reich with composer Daniel Van Hassel</unittitle> 
+				<note><p>Original file name: Steve Reich_stud.composer Dan
+				  vanHassle_interviewer.tif</p> 
+				<p>Converted file name:  JIB2007-076</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_17</container> 
+				<unittitle>Roger Reynolds talks with Steven Schick, director the
+				  Red Fish Blue Fish percussion ensemble</unittitle> 
+				<note><p>Original file name: Steve Schick with composer
+				  Roger Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-084</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd06_18</container> 
+				<unittitle>Conductor Harold Rosenbaum rehearsing John Harbison's
+				  composition, But Mary stood, with the New York Virtuoso Singers, Calvin Weirsma
+				  and Deborah Wong, violin, Lois Martin, viola, Chris Finckel, violoncello, and
+				  Jared Egen, bass</unittitle> 
+				<note><p>Original file name: THE NY VIRTUOSO
+				  SINGERS.tif</p> 
+				<p>Converted file name:  JIB2007-099</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII.</unitid> 
+			 <unittitle>RFBR, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(11 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_01</container> 
+				<unittitle>Composer Roger Reynolds with members of the Red Fish
+				  Blue Fish percussion ensemble, Greg Stuart, Robert Esler, Gustavo Aguilar, and
+				  Justin DeHart, with technical assistant, Ian Saxton, around the Waterphone
+				  instrument used in Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: IMG_4936 copy.tif</p> 
+				<p>Converted file name:  JIB2007-089-dup</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_02</container> 
+				<unittitle>Composer Roger Reynolds with Waterphone used in the
+				  Oracle section of his composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Reynolds THE
+				  ORACLE.tif</p> 
+				<p>Converted file name:  JIB2007-083</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_03</container> 
+				<unittitle>Composer Roger Reynolds with technical assistant, Ian
+				  Saxton, and members of the Red Fish Blue Fish percussion ensemble, Greg Stuart,
+				  Robert Esler, Justin DeHart, and Gustavo Aguilar</unittitle> 
+				<note><p>Original file name: RFBF with Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-088</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_04</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble, with Johannes
+				  Fischer conducting, Matthew Jenkins, Robert Esler, Greg Stuart, and Fabio
+				  Oliveira rehearsing Aubrey Byerly's composition, …woven with a silent
+				  motto</unittitle> 
+				<note><p>Original file name: RFBF.tif</p> 
+				<p>Converted file name:  JIB2007-053</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_05</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble, with Johannes
+				  Fischer conducting, Matthew Jenkins, Robert Esler, Greg Stuart, and Fabio
+				  Oliveira rehearsing Aubrey Byerly's composition, …woven with a silent
+				  motto</unittitle> 
+				<note><p>Original file name: RFBF_.tif</p> 
+				<p>Converted file name:  JIB2007-053-dup</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_06</container> 
+				<unittitle>Composer Roger Reynolds with members of the Red Fish
+				  Blue Fish percussion ensemble, Greg Stuart, Robert Esler, Gustavo Aguilar, and
+				  Justin DeHart, with technical assistant, Ian Saxton, around the Waterphone
+				  instrument used in Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Roger Reynolds with
+				  RFBF.tif</p> 
+				<p>Converted file name:  JIB2007-089</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_07</container> 
+				<unittitle>Composer Roger Reynolds with Waterphone used in his
+				  composition, Sanctuary</unittitle> 
+				<note><p>Original file name: Roger Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-082</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_08</container> 
+				<unittitle>Roger Reynolds talks with Steven Schick, director the
+				  Red Fish Blue Fish percussion ensemble</unittitle> 
+				<note><p>Original file name: Steve Schick_Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-084-dup</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_09</container> 
+				<unittitle>Composer Roger Reynolds with Waterphone used in the
+				  Oracle section of his composition, Sanctuary</unittitle> 
+				<note><p>Original file name: The Oracle Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-081</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_10</container> 
+				<unittitle>Composer Roger Reynolds with Waterphone used in the
+				  Oracle section of his composition, Sanctuary</unittitle> 
+				<note><p>Original file name: The Oracle Roger
+				  Reynoldsb-w.tif</p> 
+				<p>Converted file name:  JIB2007-080</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd07_11</container> 
+				<unittitle>Red Fish Blue Fish Percussion Ensemble members Greg
+				  Stuart, Justin DeHart, Gustavo Aguilar, and Robert Esler rehearsing Roger
+				  Reynolds's composition, Sanctuary Red Fish Blue Fish Percussion Ensemble
+				  members Greg Stuart, Justin DeHart, Gustavo Aguilar, and Robert Esler
+				  rehearsing Roger Reynolds's composition, Sanctuary</unittitle> 
+				<note><p>Original file name: _RFBF.tif</p> 
+				<p>Converted file name:  JIB2007-060-dup</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series8">VIII.</unitid> 
+			 <unittitle>Reynolds masterclass '07, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(5 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd08_01</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Masterclass Roger
+				  Reynolds.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd08_02</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Masterclass- Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-095-dup</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd08_03</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Masterclass-Roger
+				  Reynolds.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd08_04</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: ROGER REYNOLDS
+				  Masterclass-.tif</p> 
+				<p>Converted file name:  JIB2007-097-dup</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd08_05</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Roger Reynolds
+				  Masterclass.tif</p> 
+				<p>Converted file name:  JIB2007-096-dup</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series9">IX.</unitid> 
+			 <unittitle>Lucy Shelton, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(17 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_01</container> 
+				<unittitle>Curtis Macomber playing violin</unittitle> 
+				<note><p>Original file name: Curtis Macomber.tif</p> 
+				<p>Converted file name:  JIB2007-049</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_02</container> 
+				<unittitle>Composers Charles Wuorinen and Roger Reynolds with
+				  soprano Lucy Shelton</unittitle> 
+				<note><p>Original file name: Charles 008.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_03</container> 
+				<unittitle>Soprano Lucy Shelton and violinist Curtis
+				  Macomber</unittitle> 
+				<note><p>Original file name: Lucy Shelton rehearsing with
+				  Curtis Macomber.tif</p> 
+				<p>Converted file name:  JIB2007-107</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_04</container> 
+				<unittitle>Composers Charles Wuorinen and Roger Reynolds with
+				  soprano Lucy Shelton</unittitle> 
+				<note><p>Original file name: Lucy Shelton Wuorinen Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-126</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_05</container> 
+				<unittitle>Soprano Lucy Shelton onstage with Curtis Macomber,
+				  violin, Alan Feinberg, piano, and Nina Lee, violoncello</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 001.tif</p>
+				
+				<p>Converted file name:  JIB2007-109</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_06</container> 
+				<unittitle>Soprano Lucy Shelton onstage with Curtis Macomber,
+				  violin, Alan Feinberg, piano, and Nina Lee, violoncello</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 002.tif</p>
+				
+				<p>Converted file name:  JIB2007-110</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_07</container> 
+				<unittitle>Composer Charles Wuorinen with Lucy Shelton, soprano,
+				  Alan Feinberg, piano, and Nina Lee, violoncello</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 004.tif</p>
+				
+				<p>Converted file name:  JIB2007-120</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_08</container> 
+				<unittitle>Composer Charles Wuorinen with violinist Curtis
+				  Macomber, soprano Lucy Shelton, pianist Alan Feinberg, and violoncellist Nina
+				  Lee</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 006.tif</p>
+				
+				<p>Converted file name:  JIB2007-124</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_09</container> 
+				<unittitle>Soprano Lucy Shelton taking a bow onstage with Curtis
+				  Macomber, violin, Alan Feinberg, piano, and Nina Lee, violoncello</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 010.tif</p>
+				
+				<p>Converted file name:  JIB2007-111</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_10</container> 
+				<unittitle>Soprano Lucy Shelton taking a bow onstage with Curtis
+				  Macomber, violin, Alan Feinberg, piano, and Nina Lee, violoncello</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 011.tif</p>
+				
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_11</container> 
+				<unittitle>Soprano Lucy Shelton and violinist Curtis
+				  Macomber</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 022.tif</p>
+				
+				<p>Converted file name:  JIB2007-106</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_12</container> 
+				<unittitle>Composer Charles Wuorinen with Alan Feinberg, piano,
+				  Lucy Shelton, soprano, and Nina Lee, violoncello</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 024.tif</p>
+				
+				<p>Converted file name:  JIB2007-121</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_13</container> 
+				<unittitle>Composer Charles Wuorinen with violinist Curtis
+				  Macomber, pianist Alan Feinberg, soprano Lucy Shelton, and violoncellist Nina
+				  Lee</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 025.tif</p>
+				
+				<p>Converted file name:  JIB2007-122</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_14</container> 
+				<unittitle>Composer Charles Wuorinen with violinist Curtis
+				  Macomber, pianist Alan Feinberg, soprano Lucy Shelton, and violoncellist Nina
+				  Lee</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 026.tif</p>
+				
+				<p>Converted file name:  JIB2007-123</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_15</container> 
+				<unittitle>Soprano Lucy Shelton onstage with Curtis Macomber,
+				  violin, Alan Feinberg, piano, and Nina Lee, violoncello</unittitle> 
+				<note><p>Original file name: Lucy Shelton_ 027.tif</p>
+				
+				<p>Converted file name:  JIB2007-108</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_16</container> 
+				<unittitle>Composer Charles Wuorinen with violoncellist Nina Lee,
+				  soprano Lucy Shelton, pianist Alan Feinberg, and violinist Curtis Macomber,
+				  after a performance of Wuorinen's composition, Fenton Songs II</unittitle> 
+				<note><p>Original file name: Lucy
+				  Shelton_Wuorinen_Macomber_Nina Lee.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd09_17</container> 
+				<unittitle>Composer Charles Wuorinen with violoncellist Nina Lee,
+				  soprano Lucy Shelton, pianist Alan Feinberg, and violinist Curtis Macomber,
+				  after a performance of Wuorinen's composition, Fenton Songs II</unittitle> 
+				<note><p>Original file name: Nina Lee Wuorinen Lucy Shelton
+				  Alan Feinberg Curtis Macomber.tif</p> 
+				<p>Converted file name:  JIB2007-125</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series10">X.</unitid> 
+			 <unittitle>Harbison masterclass, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(26 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_01</container> 
+				<unittitle>John Harbison with conductor Robert Franz and the
+				  Buffalo Philharmonic Orchestra</unittitle> 
+				<note><p>Original file name: BPO composer John
+				  Harbison.tif</p> 
+				<p>Converted file name:  JIB2007-023</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_02</container> 
+				<unittitle>Buffalo Philharmonic Orchestra with Robert Franz,
+				  conductor</unittitle> 
+				<note><p>Original file name: BPO 003.tif</p> 
+				<p>Converted file name:  JIB2007-008</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_03</container> 
+				<unittitle>Buffalo Philharmonic Orchestra with Robert Franz,
+				  conductor</unittitle> 
+				<note><p>Original file name: BPO 007.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_04</container> 
+				<unittitle>David Felder, with the Buffalo Philharmonic Orchestra
+				  and conductor Robert Franz during rehearsal of Felder's Three pieces for
+				  orchestra</unittitle> 
+				<note><p>Original file name: BPO and composer David
+				  Felder.tif</p> 
+				<p>Converted file name:  JIB2007-012</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_05</container> 
+				<unittitle>Composer Charles Wuorinen with June in Buffalo students:
+				  Paolo Cavallone, John Aylward, Michael McBride, Daniel Van Hassel, Jeff Silva,
+				  Eliza Brown, and Lee Weisert</unittitle> 
+				<note><p>Original file name: Charles Wuorinen
+				  masterclass.tif</p> 
+				<p>Converted file name:  JIB2007-127</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_06</container> 
+				<unittitle>Composer Charles Wuorinen gesturing during
+				  seminar</unittitle> 
+				<note><p>Original file name: CHARLES
+				  Wuorinen...tif</p> 
+				<p>Converted file name:  JIB2007-117</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_07</container> 
+				<unittitle>John Harbison examining score with students Aubrey
+				  Byerly, Bert Van Herck, Fusun Koksal, J.T. Rinker, and Lee Weisert</unittitle> 
+				<note><p>Original file name: John Harbison
+				  Masterclass.tif</p> 
+				<p>Converted file name:  JIB2007-026</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_08</container> 
+				<unittitle>John Harbison in Music Library Seminar Room</unittitle> 
+				<note><p>Original file name: John Harbison.tif</p> 
+				<p>Converted file name:  JIB2007-022</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_09</container> 
+				<unittitle>Composer Charles Wuorinen with June in Buffalo students:
+				  Jane Stanley, Bert Van Herck, and Matthew Barnson</unittitle> 
+				<note><p>Original file name: Masterclass Charles Wuorinen
+				  07.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_10</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Masterclass Roger
+				  Reynolds.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_11</container> 
+				<unittitle>Composer Charles Wuorinen with June in Buffalo students:
+				  Paolo Cavallone, John Aylward, Michael McBride, Daniel Van Hassel, Jeff Silva,
+				  Eliza Brown, and Lee Weisert</unittitle> 
+				<note><p>Original file name: masterclass
+				  Wuorinen------.tif</p> 
+				<p>Converted file name:  JIB2007-129</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_12</container> 
+				<unittitle>Composer Charles Wuorinen presenting masterclass to
+				  students</unittitle> 
+				<note><p>Original file name: Masterclass
+				  Wuorinen-==.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_13</container> 
+				<unittitle>Student composers in masterclass by Charles
+				  Wuorinen</unittitle> 
+				<note><p>Original file name: masterclass
+				  Wuorinen....tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_14</container> 
+				<unittitle>Composer Charles Wuorinen with June in Buffalo students:
+				  Jane Stanley, Bert Van Herck, and Matthew Barnson</unittitle> 
+				<note><p>Original file name: Masterclass
+				  WUORINEN.tif</p> 
+				<p>Converted file name:  JIB2007-130</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_15</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Masterclass- Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-095</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_16</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Masterclass-Roger
+				  Reynolds.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_17</container> 
+				<unittitle>Composer Charles Wuorinen with June in Buffalo
+				  students</unittitle> 
+				<note><p>Original file name: masterclass-Wuorinen--...tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_18</container> 
+				<unittitle>Composer Charles Wuorinen with June in Buffalo
+				  students</unittitle> 
+				<note><p>Original file name: masterclass-Wuorinen.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_19</container> 
+				<unittitle>Buffalo Philharmonic Orchestra with Robert Franz,
+				  conductor</unittitle> 
+				<note><p>Original file name: BPO.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_20</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, and Patrick Castillo</unittitle> 
+				<note><p>Original file name: ROGER REYNOLDS
+				  Masterclass-.tif</p> 
+				<p>Converted file name:  JIB2007-097</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_21</container> 
+				<unittitle>Composer Roger Reynolds with students, Jane Stanley,
+				  Carmel Raz, Jenece Gerber, Patrick Castillo, and S. Anthony Amstutz</unittitle>
+				
+				<note><p>Original file name: Roger Reynolds
+				  Masterclass.tif</p> 
+				<p>Converted file name:  JIB2007-096</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_22</container> 
+				<unittitle>Composer Charles Wuorinen gesturing during
+				  seminar</unittitle> 
+				<note><p>Original file name: Wuorinen ---.tif</p> 
+				<p>Converted file name:  JIB2007-119</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_23</container> 
+				<unittitle>Composer Charles Wuorinen gesturing during
+				  seminar</unittitle> 
+				<note><p>Original file name: Wuorinen .tif</p> 
+				<p>Converted file name:  JIB2007-118</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_24</container> 
+				<unittitle>Composer Charles Wuorinen sitting at desk during
+				  masterclass with June in Buffalo students</unittitle> 
+				<note><p>Original file name: Wuorinen
+				  masterclass-=.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_25</container> 
+				<unittitle>Composer Charles Wuorinen with June in Buffalo students:
+				  Jacques Baldasari, Paolo Cavallone, John Aylward, Michael McBride, Daniel Van
+				  Hassel, Jeff Silva, and Eliza Brown</unittitle> 
+				<note><p>Original file name: Wuorinen
+				  masterclass.tif</p> 
+				<p>Converted file name:  JIB2007-128</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd10_26</container> 
+				<unittitle>June in Buffalo students attending masterclass by
+				  Charles Wuorinen</unittitle> 
+				<note><p>Original file name: Wuorinen
+				  masterclass=.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series11">XI.</unitid> 
+			 <unittitle>Felder Chasmal, Reynolds The Palace, JIB '07, 
+				<unitdate type="inclusive" normal="2007-06">June 2007</unitdate>
+				</unittitle> 
+			 <physdesc><extent>1 CD-ROM </extent><extent>(18 image files in TIFF
+				format)</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Files are numerically arranged by intermediate, assigned file
+				names. Original file names are included for reference. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_01</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: -Chashmal.tif</p> 
+				<p>Converted file name:  JIB2007-036</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_02</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: CHASHMAL
+				  Isherwood_front.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_03</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: CHASHMAL
+				  Isherwood_side---.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_04</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: Chashmal- David Felder-Nicolas
+				  Isherwood.tif</p> 
+				<p>Converted file name:  JIB2007-035</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_05</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: Chashmal.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_06</container> 
+				<unittitle>Composer Roger Reynolds at sound console with J.T.
+				  Rinker, David Felder, Nicholas Isherwood, and James Stephenson</unittitle> 
+				<note><p>Original file name: FELDER 001.tif</p> 
+				<p>Converted file name:  JIB2007-094</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_07</container> 
+				<unittitle>Composer Roger Reynolds examining score with bass
+				  Nicholas Isherwood, with J.T. Rinker visible at right</unittitle> 
+				<note><p>Original file name: FELDER 002.tif</p> 
+				<p>Converted file name:  JIB2007-092</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_08</container> 
+				<unittitle>Composer Roger Reynolds examining score with bass
+				  Nicholas Isherwood, with J.T. Rinker visible at right</unittitle> 
+				<note><p>Original file name: FELDER 003.tif</p> 
+				</note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_09</container> 
+				<unittitle>Composer Roger Reynolds examining score with bass
+				  Nicholas Isherwood</unittitle> 
+				<note><p>Original file name: FELDER 004.tif</p> 
+				<p>Converted file name:  JIB2007-091</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_10</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: FELDER 008
+				  chashmal.tif</p> 
+				<p>Converted file name:  JIB2007-034</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_11</container> 
+				<unittitle>Nicholas Isherwood performing Roger Reynolds's The
+				  Palace</unittitle> 
+				<note><p>Original file name: Isherwood in THE PALACE by
+				  Roger Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-031</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_12</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: JIB Felder-Isherwood
+				  trees.tif</p> 
+				<p>Converted file name:  JIB2007-037</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_13</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: JIB Felder-Isherwood
+				  trees_.tif</p> 
+				<p>Converted file name:  JIB2007-038</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_14</container> 
+				<unittitle>Nicholas Isherwood performing Roger Reynolds's The
+				  Palace</unittitle> 
+				<note><p>Original file name: Nicolas Isherwood in THR
+				  PALACE.tif</p> 
+				<p>Converted file name:  JIB2007-030</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_15</container> 
+				<unittitle>Nicholas Isherwood performing David Felder's
+				  Chasmal</unittitle> 
+				<note><p>Original file name: Nicolas
+				  Isherwood....tif</p> 
+				<p>Converted file name:  JIB2007-039</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_16</container> 
+				<unittitle>Composer Roger Reynolds with bass Nicholas
+				  Isherwood</unittitle> 
+				<note><p>Original file name: Roger Reynolds_Nicolas
+				  Isherwood.tif</p> 
+				<p>Converted file name:  JIB2007-093</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_17</container> 
+				<unittitle>Nicholas Isherwood performing Roger Reynolds's The
+				  Palace</unittitle> 
+				<note><p>Original file name: THE PALACE by Roger
+				  Reynolds.tif</p> 
+				<p>Converted file name:  JIB2007-033</p></note>
+			</did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="image-file">cd11_18</container> 
+				<unittitle>Nicholas Isherwood performing Roger Reynolds's The
+				  Palace</unittitle> 
+				<note><p>Original file name: THE PALACE JIB 07.tif</p>
+				
+				<p>Converted file name:  JIB2007-032</p></note>
+			</did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <corpname source="lcnaf" encodinganalog="611">June in Buffalo (Festival) (Buffalo, N.Y.)--Photographs</corpname> 
+		  <subject source="lcsh"
+		  encodinganalog="650">Composers--Photographs</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music festivals--New York (State)--Buffalo--Photographs</subject> 
+		  <subject source="lcsh"
+		  encodinganalog="650">Musicians--Photographs</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="gmgpc">Photographs</genreform> 
+		  <genreform encodinganalog="655" source="gmgpc">Portraits</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial>  <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0018.xml"
+					 show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2000 </archref> Mus. Arc. 18 </label> 
+				  <item>Finding aid for collection of photographs for 2000 June in
+					 Buffalo. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0019.xml"
+					 show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2001 </archref> Mus. Arc. 19</label> 
+				  <item>Finding aid for collection of photographs for 2001 June in
+					 Buffalo. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0020.xml"
+					 show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2002 </archref> Mus. Arc. 20</label> 
+				  <item>Finding aid for collection of photographs for 2002 June in
+					 Buffalo. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0021.xml"
+					 show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2003 </archref> Mus. Arc. 21 </label> 
+				  <item>Finding aid for collection of photographs for 2003 June in
+					 Buffalo. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0025.xml"
+					 show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2004 </archref> Mus. Arc. 25 </label> 
+				  <item>Finding aid for collection of photographs for 2004 June in
+					 Buffalo. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml"
+					 show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2005 </archref> Mus. Arc. 27 </label> 
+				  <item>Finding aid for collection of photographs for 2005 June in
+					 Buffalo. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml"
+					 show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2006 </archref> Mus. Arc. 29 </label> 
+				  <item>Finding aid for collection of photographs for 2006 June in
+					 Buffalo. </item> 
+				</defitem> 
+			<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0039.xml"
+					  show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2008 </archref> Mus. Arc. 39 </label> 
+				  <item>Finding aid for collection of photographs for 2008 June in
+					 Buffalo. </item> 
+				</defitem> 
+
+<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0050.xml"
+					  show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2009 </archref> Mus. Arc. 50 </label> 
+				  <item>Finding aid for collection of photographs for 2009 June in
+					 Buffalo. </item> 
+				</defitem> 
+
+<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0055.xml"
+					  show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2010 </archref> Mus. Arc. 55 </label> 
+				  <item>Finding aid for collection of photographs for 2010 June in
+					 Buffalo. </item> 
+				</defitem> 
+
+<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0056.xml"
+					  show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2011 </archref> Mus. Arc. 56 </label> 
+				  <item>Finding aid for collection of photographs for 2011 June in
+					 Buffalo. </item> 
+				</defitem> 
+
+<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0060.xml"
+					  show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2012</archref> Mus. Arc. 60 </label> 
+				  <item>Finding aid for collection of photographs for 2012 June in
+					 Buffalo. </item> 
+				</defitem> 
+
+<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0066.xml"
+					  show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2013 </archref> Mus. Arc. 66 </label> 
+				  <item>Finding aid for collection of photographs for 2013 June in
+					 Buffalo. </item> 
+				</defitem> 
+
+<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0067.xml"
+					  show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+						in Buffalo 2014 </archref> Mus. Arc. 67 </label> 
+				  <item>Finding aid for collection of photographs for 2014 June in
+					 Buffalo. </item> 
+				</defitem> 
+
+<defitem> 
+				  <label> 
+					 <archref
+					  href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009"
+					  show="new" actuate="onrequest" role="text/html">June in Buffalo Photograph
+						Collection</archref></label> 
+				  <item>A selection of images from the June in Buffalo festivals is available through University at Buffalo Libraries Digital Collections.</item> 
+				</defitem> 
+
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc> 
+</ead> 

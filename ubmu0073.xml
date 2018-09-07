@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 73::University at Buffalo Music Library Collection of Wire Recordings)//EN">
+	 ubmu0073 </eadid> 
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the University at
+		Buffalo Music Library Collection of Wire Recordings, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1946/1954"> circa 1946-1954 </date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> University at Buffalo
+		Music Library Collection of Wire Recordings </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley October 2015.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS (<title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a"> University at Buffalo
+	   Music Library Collection of Wire Recordings, 
+	   <unitdate encodinganalog="245$f" normal="1946/1954" type="inclusive"
+	    datechar="creation"> circa 1946-1954 </unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 73</unitid> 
+	 <origination label="Creator"> 
+	   <corpname role="creator" source="lcnaf" encodinganalog="110">State
+		University of New York at Buffalo. Music Library</corpname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   box</extent> <extent unit="box" encodinganalog="300$a"> (18 spools)</extent>
+	   </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546"> No
+	   textual materials are included in the collection. </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a"> The collection
+	   contains 18 wire recordings the contents of which have not been
+	   confirmed.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], University at Buffalo Music Library Collection of
+		Wire Recordings, circa 1946-1954, Music Library, The State University of New
+		York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Source of acquisition unknown.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley 2015.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>The origin of this collection is currently unknown. The collection was
+	   sent to an audio reformatting vendor in 2015 for assessment. The sound
+	   engineer's comments concerning the condition of the spools is included in the
+	   container list. It was determined that the cost of digital reformatting was
+	   beyond what the current budget for such work will allow. The dates of the
+	   collection are an estimate based on the dates during which wire recordings were
+	   at the height of their popularity in the United States.</p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection contains 18 wire recordings. The contents can only be
+	   confirmed once the recordings have been reformatted. Notes concerning contents
+	   in the container list are based on inscriptions on the spools or their
+	   containers. This information is unclear in many cases. </p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The recordings in the collection have been numbered based on no set
+	   order.</p> 
+    </arrangement> 
+    <dsc type="in-depth"> 
+	 <head>Container List</head> 
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">1</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 1, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Webster.Chicago </p> 
+		  <p>Number on spool case: NA</p> 
+		  <p>Marked 1-12, 12-20, 20-31 ½</p> 
+		  <p>Vendor assessment: Slight keystoning, small risk</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Schoenberg: no title stated</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">2</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 2, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Webster.Chicago </p> 
+		  <p>Number on spool case: NA</p> 
+		  <p>Without box</p> 
+		  <p>Vendor assessment: Outer pack seems loose, would spend 30-60 min
+		    handwinding past loose wire</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: No marking</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">3</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 3, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 1</p> 
+		  <p>Content written on reel</p> 
+		  <p>Vendor assessment: Slight keystoning, but generally ok</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Berg: Wozzeck</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">4</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 4, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 3</p> 
+		  <p>Festa isn't clear. The only mass Hindemith composed dates from
+		    1963. </p> 
+		  <p>Vendor assessment: OK</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Hindemith I festa mass</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">5</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 5, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 4</p> 
+		  <p>Stravinsky did not compose a violin sonata so the composer of
+		    the 2nd work is not clear. </p> 
+		  <p>Vendor assessment: Slight keystoning, flange cracked, small
+		    risk</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Stravinsky: Baiser de la fee ; Violin sonata ;
+		  "Claudios??" trial</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">6</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 6, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool: 05</p> 
+		  <p>Without container</p> 
+		  <p>Vendor assessment: Slight keystoning, but generally ok</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Mahler: Symphony no. 8, Part II</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">7</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 7, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 06</p> 
+		  <p>Vendor assessment: Keystoning, flange cracked, risky. Could
+		    spend 1-2 hours slow-winding to get a flat pack before attempting regular
+		    playback</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Mahler: Symphony no. 8, Mvt.? I ; Chabrier: no
+		  title stated</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">8</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 8, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 07</p> 
+		  <p>Vendor assessment: Slight keystoning, but generally ok</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: No marking</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">9</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 9, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 08</p> 
+		  <p>On container: Acis and Galatea I; could Tana be Talma?</p> 
+		  <p>Vendor assessment: Slight keystoning, but generally ok</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Robertson: Fag.? Sonata ; Taylor: Pf variations
+		  ; Tana?: Cl. Sonata ; Bonner: Pf trio ; Tana?: repeat</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">10</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 10, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 09</p> 
+		  <p>Vendor assessment: Loose pack, keystoning, would spend 30-60 min
+		    handwinding past loose wire</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Hindemith: 3/31/50 II</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">11</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 11, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 10</p> 
+		  <p>Vendor assessment: Loose pack, broken flange. High risk, would
+		    require full hand-wind and spool replacement. At least 2-3 hours work</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Claudio?: 2 pf sonata ; Tala ; Schoenberg: op.
+		  11, no. 1</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">12</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 12, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 11</p> 
+		  <p>Could this be Hermann conducting Schoenberg's Chamber
+		    symphony?</p> 
+		  <p>Vendor assessment: Some loose wire on outmost layer, but seems
+		    generally OK. Wouldn't require much handwinding</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Bernard Hermann: Chamber symphony, 6/5/49 CBS
+		  Symph</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">13</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 13, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 13</p> 
+		  <p>No titles stated</p> 
+		  <p>Vendor assessment: OK</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Boykan, Cohn, Purcell, Binkerd, Poulenc, Fine,
+		  Dello Joio</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">14</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 14, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 14</p> 
+		  <p>On container: Paine, Hall, and Schoenberg</p> 
+		  <p>Vendor assessment: OK</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Schoenberg: Variations op. 43 ; Desmarais:
+		  Fant. Vln. Sonata</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">15</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 15, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 15</p> 
+		  <p>Vendor assessment: Loose pack, would need hand-wind before
+		    playback ~1-2 hrs. Flange seems to have potential of breaking</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Machaut: Mass ; Palestrina: Mss ; Dufay:
+		  Super</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">16</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 16, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 16 (square container)</p> 
+		  <p>Vendor assessment: OK</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: Monteverdi: Acts IV, V ; Perotin</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">17</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 17, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 16 (round container)</p> 
+		  <p>On container: Thompson III, Piston Qu. I</p> 
+		  <p>Vendor assessment: Loose pack, broken flange. High risk, would
+		    require full hand-wind and spool replacement. At least 2-3 hours work</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>Possible contents: [Berg]: Wozzeck Act III (crossed out) ;
+		  Schoenberg: Erwartung</p> 
+	   </scopecontent>
+	 </c01>
+	 <c01 level="item"> 
+	   <did> 
+		<container type="box">1</container> 
+		<container type="item">18</container> 
+		<unittitle>University at Buffalo Music Library Collection of Wire
+		  Recordings, Item 18, 
+		  <unitdate type="inclusive"> undated </unitdate> </unittitle> 
+		<physdesc> <extent> 1 wire recording spool </extent> </physdesc> 
+		<note> 
+		  <p>Manufacturer: Lear</p> 
+		  <p>Number on spool case: 17</p> 
+		  <p>Contents on container: DG [probably Don Giovanni?] crossed out ;
+		    Schoenberg ; Boykan.</p> 
+		  <p>Vendor assessment: OK</p> 
+		</note> 
+	   </did> 
+	   <scopecontent> 
+		<p>From sample reformatted by vendor the opening is a radio broadcast
+		  of a performance (November 2, 3, or 5, 1950) by the New York Philharmonic of
+		  Haydn's Sinfonie concertante in B-flat with John Corigliano, violin, Harold
+		  Gomberg, oboe, Leonard Rose, cello, William Polisi, bassoon, on WEEI Radio,
+		  Boston. With: Schoenberg Variations.</p> 
+	   </scopecontent>
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Music</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Wire
+		recordings</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+  </archdesc>
+</ead> 

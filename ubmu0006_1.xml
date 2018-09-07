@@ -1,0 +1,4672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 6.1::Leo Smit Score Collection)//EN">ubmu0006_1</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Leo Smit Score
+		Collection, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1940/1998" certainty="approximate"> circa 1940-1998
+		  </date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> Smit (Leo) Score
+		Collection </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2009</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, August 2009.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content
+		Standard</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a"> Leo Smit Score
+	   Collection, 
+	   <unitdate encodinganalog="245$f" normal="1940/1998" type="inclusive"
+	    datechar="creation" certainty="approximate"> circa 1940-1998
+		</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 6.1</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf"> Smit,
+		Leo, 1921-1999</persname> </origination> 
+	 <physdesc label="Extent" encodinganalog="300$a">
+	   <extent unit="box" encodinganalog="300$a">18 boxes</extent>
+	   <extent encodinganalog="300$a" unit="item(">(185 items)</extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546"> No
+	   textual materials other than song settings are in the collection. Any
+	   accompanying notes are in <language encodinganalog="041"
+	   langcode="eng">English</language>. </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The collection consists
+	   of 123 scores of compositions by Leo Smit, principally in copies of holographs.
+	   There are 21 scores of works by other composers arranged or transcribed by
+	   Smit. The remaining 41 scores are works by other composers either inscribed to
+	   Smit or marked for performance by Smit. </abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Leo Smit Score Collection, circa 1940-1999, Music
+		Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Collection given to the Music Library in 1998 by Leo Smit.
+		Additional items subsequently given by executor of the estate, Nils Vigeland.
+		</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley, 2003.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Leo Smit was born to Russian immigrants on January 12, 1921, in
+	   Philadelphia. He received his earliest musical training from his father, Kolman
+	   Smit, beginning at age five. Kolman Smit was a professional violinist who
+	   performed in the Philadelphia Orchestra (1926-1931) under Leopold Stokowski,
+	   the Cincinnati Symphony under Fritz Reiner, and the NBC Symphony under Arturo
+	   Toscanini.</p> 
+	 <p>After private piano studies with Martha Lantner, Joseph Wissof, and
+	   Bert Shefter, Smit traveled to Moscow with his mother in 1929 to study piano
+	   for three months with Dmitri Kabalevsky on scholarship at the Moscow
+	   Conservatory. Upon his return to Philadelphia, Smit received a scholarship in
+	   1930 to study piano at Curtis Institute of Music with noted piano pedagogue
+	   Isabelle Vengerova. He continued his studies on scholarship in New York,
+	   studying piano with José Iturbi (1933-35) and composition with Nicolas Nabokov
+	   (1935). It was under Nabokov's tutelage that Smit produced his first original
+	   composition in 1935, Zvay, a song setting of a Yiddish poem by Mani Loeb for
+	   soprano and piano. </p> 
+	 <p>Smit began his professional career as a pianist while still in his
+	   teens. His first professional engagement was as rehearsal pianist for George
+	   Balanchine's American Ballet Company in 1936-37. A year after beginning in this
+	   position, Smit met Igor Stravinsky during rehearsals of the composer's ballet,
+	   Jeu de Cartes. Smit gave his debut recital as a solo pianist at Carnegie Hall
+	   in February 1939. His successful debut was followed by a concert tour of the
+	   United States in 1940. </p> 
+	 <p>Leo Smit's career as composer, pianist, conductor, and educator
+	   spanned seven decades of musical life in the United States. He established
+	   close working relationships, and/or friendships, with many of the most
+	   prominent musicians of the 20th century, including Igor Stravinsky, Béla
+	   Bartók, Aaron Copland, Leonard Bernstein, Harold Shapero, William Schuman, Alex
+	   Haieff, Leopold Stokowski, and Lukas Foss. As a performer, Smit was an
+	   enthusiastic and persuasive advocate and interpreter of the music of his time,
+	   especially the solo piano music of Aaron Copland. His compositional output
+	   totals more than one hundred works, including two operas, three symphonies,
+	   more than ninety songs, two ballets, and numerous chamber and piano works. </p>
+	 
+	 <p>Smit was also a talented photographer. In addition to the many
+	   photographs he took of noted musicians, Smit also used his skill as a
+	   photographer to capture images from his travels. Many of his travel pictures
+	   reflect his reverence for nature. As part of his innovative approach to
+	   programming, Smit would often include displays of his photography in his
+	   theme-based concerts. </p> 
+	 <p>During his career Leo Smit earned several awards and honors, including
+	   Fulbright (piano) and Guggenheim (composition) Fellowships in 1950, a
+	   fellowship at the American Academy in Rome for 1950-51, the Boston Symphony
+	   Merit Award in 1953 for his Symphony No. 1 (premiered October 16, 1953 by the
+	   Boston Symphony Orchestra, conducted by Charles Munch), the New York Critics
+	   Circle Award in 1957 (also for his Symphony No. 1), his selection as an artist
+	   for a State Department concert tour of Latin America in 1967-68, and the
+	   Buffalo Evening News Man of the Year award in 1969. As an educator, Smit held
+	   positions at Sarah Lawrence College (1947-49), UCLA (1957-63), and the State
+	   University of New York at Buffalo (1962-84). </p> 
+	 <p>Leo Smit died December 12, 1999 in Scripps Hospital, Encinitas,
+	   California. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The Leo Smit Score Collection consists of 123 scores of compositions
+	   by Leo Smit, principally in copies of holographs. There are 21 scores of works
+	   by other composers arranged or transcribed by Smit. The remaining 41 scores are
+	   works by other composers either inscribed to Smit or marked for performance by
+	   Smit.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged in seven series: </p> 
+	 <list> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series1">I.
+		  Compositions by Leo Smit</ref> </item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series2">II.
+		  Arrangements and editions of works by other composers</ref> </item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series3">III.
+		  Compositions by other composers marked for performance by Leo Smit</ref>
+		</item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series4">IV. Scores
+		  by other composers with inscriptions to Leo Smit</ref> </item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series5">V. Scores
+		  autographed by Leo Smit. </ref> </item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series6">VI. Assorted
+		  scores received with the collection</ref> </item> 
+	   <item> 
+		<ref actuate="onrequest" show="replace" target="series7">VII.
+		  Additional scores received after original processing was completed</ref>
+		</item> 
+	 </list> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I</unitid> 
+		<unittitle>Compositions by Leo Smit, 
+		  <unitdate type="inclusive" normal="1943/1998" datechar="creation">
+		    1943-1998</unitdate> </unittitle> 
+		<physdesc> <extent>Item 1-104 </extent> </physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged alphabetically by title.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">001</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">ABA : for clarinet (B♭) and piano :
+			 1943</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (10 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Title page bears 1987 copyright stamp.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">002</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">ABA : for clarinet (Bb) and piano :
+			 1943 </title> 
+		    <unitdate>1985</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (10 leaves) ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"ABA is the form of the piece"--Inscription on t.p.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">003</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Academic graffiti (1982)</title> 
+		    <title type="transcribed">Academic graffiti : for (histrionic)
+			 voice, clarinet, violoncello, piano and percussion : 1962-82</title> 
+		    <unitdate type="inclusive">1982</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (19 pages) ; 37 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Score marked for performance; also marked with changes.</p> 
+		  <p>Musical additions on manuscript inserts attached.</p> 
+		  <p>"Rental library, Carl Fischer, Inc."--Label on title page.</p> 
+		  <p>"1161"--Label on cover.</p> 
+		  <p>"For Lukas Foss"--Caption.</p> 
+		  <p>Contents: Title -- Henry Adams -- Queen Mary -- G.F. Handel --
+		    Nietzsche -- Xantippe -- Karl Marx -- James Watt -- Kierkegaard -- Kant --
+		    Robert Liston -- Mallarmé.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">004</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Academic graffiti (1982). Mallarmé</title>
+		    
+		    <title type="transcribed">Academic graffiti.</title> 
+		    <unitdate type="inclusive">1982</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (pages 17-19) ; 34-36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>For voice, clarinet, violoncello, piano and percussion.</p> 
+		  <p>"9/7/82 Buffalo, N.Y."--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">005</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Alabaster chambers : 1989 : seven
+			 threnodies for string orchestra</title> 
+		    <unitdate type="inclusive">1989</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (19 pages) ; 28 cm</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Alternate title: Seven threnodies for string orchestra</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"In memory of a great artist and a beloved friend Jan
+		    DeGaetani."</p> 
+		  <p>"Alabaster Chambers (1989) is a transformation for string
+		    orchestra of some of my choruses and songs, inspired by the stupendous poetic
+		    visions of Emily Dickinson"--Composer's note, 1991, inserted.</p> 
+		  <p>Duration: circa 15:00.</p> 
+		  <p>Contents: I. Reverential : And kiss the hills, for me, just
+		    once--Then--I am ready to go! (3:20) -- II. Agitated : Dying! Dying in the
+		    night! (1:35) -- III. Lyrical : We speculated fair, upon every subject, but the
+		    grave (2:20) -- IV. Intense : Go boldly--for thou paid'st his price (1:50) --
+		    V. Flowing : There--where she--rested--last (2:45) -- VI. Dramatic : Departed
+		    to the judgement (2:20) -- VII. Calm : I have no life but this (1:25).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">006</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Alabaster chambers : (1989) : seven
+			 threnodies for string orchestra</title> 
+		    <unitdate type="inclusive">1989</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (27 [i.e. 32] pages) ; 28
+		    cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Seven threnodies for string orchestra</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Pages 24, 25 marked with changes.</p> 
+		  <p>"In memory of a beloved friend, Jan DeGaetani."</p> 
+		  <p>Movements 1, 2, 4, 5, 6, 7, paged continuously; mvt. 3 paged
+		    separately, 1-5.</p> 
+		  <p>"Five threnodies"--T.p.; "five" changed to "seven."</p> 
+		  <p>"Alabaster Chambers (1989) is a transformation for string
+		    orchestra of some of my choruses and songs, inspired by the stupendous poetic
+		    visions fo Emily Dickinson"--C.f. composer's note in final version of score,
+		    1991.</p> 
+		  <p>Contents: I. Reverential : Goodbye to the life I used to live
+		    (8/8/89) -- II. Agitated : Dying! Dying in the night! (8/24/89) -- III. Lyrical
+		    -- IIII. Intense : Go boldly--for thou paid'st his price (8/24/89) -- V. Moving
+		    : There--where she--rested--last (8/28/89) -- VI. Dramatic : Departed--to the
+		    judgement (10/24/89) -- VI. Calm : The realm of you.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">007</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Alabaster chambers : seven threnodies
+			 for string orchestra : 1989</title> 
+		    <unitdate type="inclusive">1990</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (19 pages) ; 41 cm</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Alternate title: Seven threnodies for string orchestra</p> 
+		    <p>Alternate title: Alabaster chambers for string orchestra</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Score bears Theodore Presser copyright stamp in caption.</p> 
+		  <p>Score marked with changes.</p> 
+		  <p>Duration: circa 15:00.</p> 
+		  <p>"In memory of a great artist and a beloved friend, Jan
+		    DeGaetani."</p> 
+		  <p>"Alabaster Chambers (1989) is a transformation for string
+		    orchestra of some of my choruses and songs, inspired by the stupendous poetic
+		    visions of Emily Dickinson"--C.f. composer's note in final version of score,
+		    1991.</p> 
+		  <p>Contents: I. Reverential : And kiss the hills, for me, just
+		    once--Then--I am ready to go! -- II. Agitated : Dying! Dying in the night! --
+		    III. Lyrical : We speculated fair, upon every subject, but the grave -- IV.
+		    Intense : Go boldly--for thou paid'st his price -- V. Flowing : There--where
+		    she--rested--last -- VI. Dramatic : Departed to the judgment -- VII. Calm : I
+		    have no life but this.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">008</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act I. Vocal score</title>
+		    
+		    <title type="transcribed">The alchemy of love, or, The daemon
+			 servant's retribution : a comic opera in three acts.</title> 
+		    <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (a-b, 94 pages) ; 37
+		    cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Alchemy of love</p> 
+		    <p>Alternate title: Daemon servant's retribution</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Score includes several markings: additions and changes.</p> 
+		  <p>Contents: Introduction -- Scene 1: The alchemist's apartment:
+		    the hour of dinner -- Scene 2: General fireball's office; later the same
+		    evening.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">009 </container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act I. Vocal score
+			 </title> 
+		    <title type="transcribed"> The alchemy of love, or, The daemon
+			 servant's retribution : a comic opera in three acts. [Act 1] / libretto by Fred
+			 Hoyle </title> 
+		    <unitdate>1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (a-b, 94 pages) ; 37
+		    cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Alchemy of love</p> 
+		    <p>Alternate title: Daemon servant's retribution</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Bears small number of Smit's markings.</p> 
+		  <p>Contents: Introduction -- Scene 1: The alchemist's apartment:
+		    the hour of dinner -- Scene 2: General fireball's office; later the same
+		    evening</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">010</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act II</title> 
+		    <title type="transcribed">The alchemy of love : comic
+			 opera.</title> 
+		    <unitdate type="inclusive">1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (148 pages) ; 44 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Cover title.</p> 
+		  <p>Score marked for performance.</p> 
+		  <p>Pages also numbered 200-347.</p> 
+		  <p>"Dec. 21, 1961"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">011</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act II. Vocal
+			 score</title> 
+		    <title type="transcribed">The alchemy of love : a space fable in
+			 three acts.</title> 
+		    <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (pages 95-172) ; 37
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Title from insert.</p> 
+		  <p>Typescript notes (photocopy, 1 leaf) about the opera
+		    inserted.</p> 
+		  <p>Bears small number of Smit's markings.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">012</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act II. Vocal
+			 score</title> 
+		    <title type="transcribed">The alchemy of love, or, The daemon
+			 servant's retribution : a comic opera in three acts.</title> 
+		    <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (pages 95-172) ; 37
+		    cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Alchemy of love</p> 
+		    <p>Alternate title: Daemon servant's retribution</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Cover title.</p> 
+		  <p>Marked with performance indications and changes.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">013</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act II. Vocal
+			 score</title> 
+		    <title type="transcribed">The alchemy of love].</title> 
+		    <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (pages 95-172) ; 37
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Caption title.</p> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Marked with performance indications, changes, and metronome
+		    markings.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">014</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Selections</title> 
+		    <title type="transcribed">Four alchemy marches : according to
+			 Hoyle, Fred : for orchestra</title> 
+		    <unitdate type="inclusive">1972</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (a-c, 36 pages) ; 43
+		    cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Alchemy marches</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"Four kookaburra marches"--Caption of composer's notes, p.
+		    c.</p> 
+		  <p>"The music of the Four kookaburra marches is taken from my
+		    opera, The laughing kookaburras, a space fable with libretto by Sir Fred Hoyle
+		    ..."--Composer's note.</p> 
+		  <p>"Feb. 7, 1972"--Colophon.</p> 
+		  <p>Contents: The messenger's march [from Act I] -- The jailor's
+		    march [from Act III?]-- General fireball's march [from Act I] -- The love march
+		    [from Act II].</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="item">015</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Alone :for female viola-reciter</title>
+		    
+		    <unitdate type="inclusive">1988</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (4 leaves) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Computer-notated score.</p> 
+		  <p>"For Tina Pelikan"--Caption.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">016</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Antiphonies. Selections</title> 
+		    <title type="transcribed">Antiphonies :for solo violin :
+			 1993</title> 
+		    <unitdate type="inclusive">1993</unitdate> </unittitle> 
+		  <physdesc> <extent>4 pages of manuscript music ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>Incomplete score.</p> 
+		  <p>"For Veronika Macchia."</p> 
+		  <p>Duration: circa 6:00.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">017</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">At the corner of the sky :for chorus of
+			 men and boys (or women) with solo flute, oboe, and speaker</title> 
+		    <unitdate type="inclusive">1981</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (24 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes composer's note.</p> 
+		  <p>Includes piano part for rehearsal only.</p> 
+		  <p>"Complimentary Reference Copy."</p> 
+		  <p>"Poems of North American Indians, edited and translated by
+		    Jerome Rothenburg"--C.f. caption, Carl Fischer published score (New York:
+		    1981).</p> 
+		  <p>""A" on tape, Counter #000 beginning."</p> 
+		  <p>Contents: Vision event I (Sioux) -- Lullaby (Tsimshian) --
+		    Interlude -- Mourning song (Tsimshian) -- Animal song 1: Turkey (Navajo) --
+		    Animal song 2: Deer (Yuma) -- Animal song 3: Coyote (Nez Percé) -- Animal song
+		    4: Wolf (Sioux) -- Vision event 3 (Eskimo) -- Song of an initiate
+		    (Huichol).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">018</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Attacca lo scherzo :for piano solo :
+			 1984</title> 
+		    <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		  <physdesc> <extent>8 pages of manuscript music ; 42 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (pencil and ink).</p> 
+		  <p>"1.30.84"--Colophon.</p> 
+		  <p>"First draft."</p> 
+		  <p>"Commissioned by and dedicated to Yvar Mikhashoff."</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">019</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Birthday pieces</title> 
+		    <title type="transcribed">Two birthday pieces for [blank]</title>
+		    
+		    <unitdate type="inclusive">1994</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (2 leaves) ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (photocopy).</p> 
+		  <p>"In friendship and with love, from Leo--July 4, 1994, Garth
+		    Newel, VA."</p> 
+		  <p>Contents: Happy birthday duo for violin and cello (July 4, 1994,
+		    Garth Newel, VA.) -- Happy birthday chorale for string quartet (July 4, 1994,
+		    Garth Newel, VA.).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">020</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Caedmon. Vocal score</title> 
+		    <title type="transcribed">Caedmon : cantata for 3 solo voices,
+			 male chorus and orchestra : 1952/70 </title> 
+		    <unitdate type="inclusive">1970</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (60 pages) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>Includes insert: Acrostic poem to St. Caedmon.</p> 
+		  <p>Text mostly in English; opening chorus in Latin.</p> 
+		  <p>Acc. originally for orchestra.</p> 
+		  <p>"Rome 1952/Malibu 1970"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">021</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Canon super nomen Bach :[for string
+			 quartet : 1985]</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>4 manuscript parts ; 32 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Caption title.</p> 
+		  <p>"2/2/85"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">022</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Canon super nomen Bach; arranged</title> 
+		    <title type="transcribed">Canon super nomen Bach :for saxophone
+			 quartet : 1987</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (3 leaves) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (photocopy).</p> 
+		  <p>Caption title.</p> 
+		  <p>Originally for string quartet.</p> 
+		  <p>"October 6, 1987"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">023</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Canticle prelude, no. 5</title> 
+		    <title type="transcribed">Canticle prelude 5 :for organ</title> 
+		    <unitdate type="inclusive">198-?</unitdate> </unittitle> 
+		  <physdesc> <extent>4 pages of manuscript music ; 28 cm</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Alternate title: Canticle prelude no. 5</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">024</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Capriccio, string orchestra</title> 
+		    <title type="transcribed">Capriccio for string orchestra
+			 :1958</title> 
+		    <unitdate type="inclusive">1958</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (45 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Composer's note on prefatory page.</p> 
+		  <p>"Composed for Aaron Copland, in memory of Peter Ilytch
+		    Tchaikovsky"--Composer's note.</p> 
+		  <p>"The Capriccio for string orchestra was first performed at the
+		    Ojai Festival in 1958, Aaron Copland conducting"--Composer's note.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">025</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">A choir of starlings : a serenata for
+			 four voices and ten instruments</title> 
+		    <unitdate type="inclusive">1951</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (107 pages) ; 36 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>For 4 voices (SATB), with 2 oboes, bassoon, 2 horns, 2 violins,
+		    viola, violoncello, and double bass.</p> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"To Isabel and Laurence Roberts."</p> 
+		  <p>Publisher no. from label on cover: 1296.</p> 
+		  <p>"Property of Carl Fischer, Inc ..."--Stamp on title page.</p> 
+		  <p>Duration: 30:00.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">026</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Choir of starlings. Vocal score</title> 
+		    <title type="transcribed">A choir of starlings : vocal
+			 score</title> 
+		    <unitdate type="inclusive">1951</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (76 leaves) ; 27-28
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Title from folder cover.</p> 
+		  <p>Manuscript (Photocopy).</p> 
+		  <p>Inserted: Lenten is come : a round for four-part chorus of
+		    female, male or mixed voices a cappella / poem by Anthony Hecht ; [music by]
+		    Leo Smit. New York: C. Fischer, c1977. Pl. no. N6118. (pages 2-11).</p> 
+		  <p>Page 46 photocopied backwards.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">027</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Choir of starlings. Vocal score.
+			 Selections</title> 
+		    <title type="transcribed">A choir of starlings</title> 
+		    <unitdate type="inclusive">1951</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (76) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Photocopy).</p> 
+		  <p>Mvt. II (pages 21-26) wanting.</p> 
+		  <p>Inserted: Photocopy of Lenten is come : a round for four-part
+		    chorus of female, male or mixed voices a cappella / poem by Anthony Hecht ;
+		    [music by] Leo Smit. New York: C. Fischer, c1977. Pl. no. N6118. (pages
+		    2-11).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">028</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Choir of starlings. Vocal score.
+			 Selections</title> 
+		    <title type="transcribed">A choir of starlings : a serenata for
+			 four voices and ten instruments</title> 
+		    <unitdate type="inclusive">1951</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (76 leaves) ; 33
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Vellum masters).</p> 
+		  <p>Incomplete: Mvmt VI. (pages 55-62) wanting.</p> 
+		  <p>Acc. arr. for piano.</p> 
+		  <p>Words by Anthony Hecht.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="item">029</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Choir of starlings. Vocal score.
+			 Selections</title> 
+		    <title type="transcribed">A choir of starlings : a serenata for
+			 four voices and ten instruments</title> 
+		    <unitdate type="inclusive">1951</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (76 pages) ; 33
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Ozalid copy).</p> 
+		  <p>Incomplete.</p> 
+		  <p>Mvts. II and III (pages 21-38) and mvts. V-VI (pages 49-62)
+		    wanting.</p> 
+		  <p>Marked with performance indications, changes, and metronome
+		    markings.</p> 
+		  <p>"To Isabel and Laurence Roberts."</p> 
+		  <p>"Return to Boosey &amp; Hawkes hire library."</p> 
+		  <p>Acc. arr. for piano.</p> 
+		  <p>"Dec. 3, 1951."</p> 
+		  <p>Contents: I. Invocation to the muse -- IV. Gigue -- VII.
+		    Finale.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">030</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Christmas tree carols. Vocal score. German
+			 &amp; English</title> 
+		    <title type="transcribed">Three Christmas tree carols :for mixed
+			 chorus with eight instruments</title> 
+		    <unitdate type="inclusive">1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 vocal score (24 pages) ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>"For Christopher and Eliza Foss"--First page of score.</p> 
+		  <p>In German and English; words also printed as text.</p> 
+		  <p>Based on three pieces from Franz Liszt's Weihnachtsbaum.</p> 
+		  <p>Contents: Old Christmas carol = Altes weihnachtslied -- O holy
+		    night = O heilige Nacht -- O come, all ye faithful = Adeste Fideles.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">031</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Christmas tree carols. Vocal score. German
+			 &amp; English</title> 
+		    <title type="transcribed">Three Christmas tree carols : altes
+			 Weihnachtslied : after Franz Liszt : for mixed chorus and an instrumental
+			 ensemble</title> 
+		    <unitdate type="inclusive">1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (ii, 32 pages) ; 36
+		    cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Altes Weihnachtslied</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Includes markings made by Smit; changes and additions.</p> 
+		  <p>"For Christopher and Eliza Foss."</p> 
+		  <p>"May 24, 1974"--Colophon.</p> 
+		  <p>"Carl Fischer sole selling agent"--Cover.</p> 
+		  <p>Words in German &amp; English; also printed as text.</p> 
+		  <p>Duration: 12:00.</p> 
+		  <p>Contents: Altes Weihnachtslied = Old Christmas carol -- O
+		    heilige Nacht! = O holy night -- O come all ye faithful = Adeste Fideles.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">032</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Christmas tree carols. Old Christmas carol.
+			 Vocal score</title> 
+		    <title type="transcribed">Altes Weihnachtslied =Old Christmas
+			 carol</title> 
+		    <unitdate type="inclusive">1974?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (6 pages) ; 36
+		    cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Old Christmas carol</p> 
+		    <p>Alternate title: Weihnachtsbaum</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Based on Altes Weihnachtsbaum, from Liszt's Weihnachtsbaum.</p> 
+		  <p>Includes markings; changes and additions.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">033</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Cock robin :for soprano, piccolo (or
+			 flute) and percussion</title> 
+		    <unitdate type="inclusive">1979</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (24 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid).</p> 
+		  <p>"Corrected."</p> 
+		  <p>"Commissioned by Laurence Trott through the Piccolo
+		    Society"--Title page verso.</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>"22. IX.79"--Colophon.</p> 
+		  <p>"Rental library Carl Fischer"--Sticker on title page.</p> 
+		  <p>"Copied by Nils Vigeland"--Colophon.</p> 
+		  <p>Contents: 1. Sparrow -- 2. Fly -- 3. Fish -- 4. Beetle -- 5. Owl
+		    -- 6. Parson -- 7. Lark -- 8. Dove -- 9. Kite -- 10. Thrush -- 11. Bull -- 12.
+		    Birds.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">034</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Concerto, piano, orchestra</title> 
+		    <title type="transcribed">Concerto for orchestra and
+			 piano</title> 
+		    <unitdate type="inclusive">1968?</unitdate> </unittitle> 
+		  <physdesc> <extent>14 manuscript parts ; 32 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Ink on vellum).</p> 
+		  <p>Caption title.</p> 
+		  <p>Solo piano part wanting.</p> 
+		  <p>"Master parts"--Envelope.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">035</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Concerto, piano, orchestra;
+			 arranged</title> 
+		    <title type="transcribed">Concerto for piano and orchestra
+			 :1968</title> 
+		    <unitdate type="inclusive">1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score ([33] pages) ; 36-42
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy &amp; Photocopy).</p> 
+		  <p>"Revised July 17, 1980, Brevard, N.C."--Colophon.</p> 
+		  <p>"Jan. 15, 1980, Solana Beach, Calif."--Colophon.</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>Contents: Lento improvisato -- Allegro dramatico -- Adagietto
+		    espressivo -- Movimento agitato con cadenza -- Fuga alla marcia -- Allegro
+		    finale.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">036</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Concerto, piano, orchestra
+			 (sketches)</title> 
+		    <title type="transcribed">Piano concerto</title> 
+		    <unitdate type="inclusive">between 1968 and 1980</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>1 manuscript volumes (various pagings) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>Includes full and reduced scores.</p> 
+		  <p>"Sketches finale; Sketches 1st mvt (piano solo)."</p> 
+		  <p>Includes three sketches of the finale.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">037</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Copernicus : narrative and
+			 credo</title> 
+		    <unitdate type="inclusive">1973</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (iii, 91 pages) ; 26 x 32 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"Commissioned by the National Academy of Sciences through the
+		    Copernicus Society of America, Edward J. Piszek, president, to commemorate the
+		    500th birthday of Nicolaus Copernicus."--Page I.</p> 
+		  <p>Words in English or Latin.</p> 
+		  <p>For four-part chorus of mixed voices, narrator, and instrumental
+		    ensemble.</p> 
+		  <p>Duration: circa 25:00.</p> 
+		  <p>"Rental Dept. MCA music"--Cover.</p> 
+		  <p>"March 19, 1973, Roma"--Colophon.</p> 
+		  <p>Contents: Introduction -- The birth -- The uncle (Lucas
+		    Watzelrode) -- Cracow student song -- Columbus west -- Italian madrigal --
+		    Sorrow and solitude -- The Teutonic War -- Papal disputation -- The book -- The
+		    death -- Laudemus -- Credo.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">038</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Dance card; arranged</title> 
+		    <title type="transcribed">Dance card :for orchestra</title> 
+		    <unitdate type="inclusive">198-</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (73 pages) ; 33 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for piano.</p> 
+		  <p>Pages 43-45 blank.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">039</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Delaunay pochoirs (1980) =Delaunay
+			 stencils : troix morceaux pour violoncelle et piano </title> 
+		    <unitdate type="inclusive">1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (17 pages) + 1 manuscript
+		    part ; 36 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Delaunay stencils</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"À Frances-Marie Uitti et Yvar Mikhashoff."</p> 
+		  <p>"Jan. 15, 1980, Solana Beach, Calif."--Colophon.</p> 
+		  <p>Contents: Pochoir Russe (Sonia Delaunay) -- Pochoir en jazz
+		    (Charles Delaunay) -- Pochoir aux fenêtres (Robert Delaunay).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">4</container> 
+		  <container type="item">040</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">The dwarf heart :soprano + piano : six
+			 songs</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (40 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Six songs"--T.p.; "six" changed to "five."</p> 
+		  <p>"Dec. 3, 1987"--Colophon.</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>Duration: circa 23:00.</p> 
+		  <p>Contents: The kiss -- How we danced -- Eighteen days without you
+		    (December 15) -- Seven times (from the death baby) -- The ambition bird --
+		    Ringing the bells.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">041</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Celestial
+			 thrush</title> 
+		    <title type="transcribed">The celestial thrush (1988) : a cycle
+			 of twelve songs about music and birds : for soprano and piano</title> 
+		    <unitdate type="inclusive">1988</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (59 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Cycle 2 from the Ecstatic Pilgrimage.</p> 
+		  <p>Duration: circa 21:30.</p> 
+		  <p>Contents: I was a phoebe (9/13/88) -- The bird her punctual
+		    music brings (10/7/88) -- The earth has many keys (10/6/88) -- The bobolink is
+		    gone (9/22/88) -- A train went through a burial gate (10/5/88) -- I cannot
+		    dance upon my toes (10/4/88) -- Upon his saddle sprung a bird (10/2/88) --
+		    Better--than music! (10/2/88) -- Bind me--I still can sing (9/28/88) -- Within
+		    my garden, rides a bird (9/28/88) -- Heart, not so heavy as mine (9/25/88) -- I
+		    shall keep singing! (9/28/88).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">042</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Celestial
+			 thrush</title> 
+		    <title type="transcribed">The celestial thrush :twelve songs
+			 about birds and music : for mezzo-soprano (or soprano) and piano</title> 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (43 leaves) ; 28 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Computer notated score.</p> 
+		  <p>Cycle 2 from the Ecstatic Pilgrimage.</p> 
+		  <p>Contents: I was a phoebe--nothing more (9/13/88) -- The bird her
+		    punctual music brings (10/7/88) -- The earth has many keys (10/6/88) -- The
+		    bobolink is gone (9/22/88) -- A train went through a burial gate (10/5/88) -- I
+		    cannot dance upon my toes (10/4/88) -- Upon his saddle sprung a bird (10/2/88)
+		    -- Better--than music!--For I--who heard it (10/2/88) -- Bind me--I still can
+		    sing (9/28/88) -- Within my garden rides a bird (9/28/88) -- Heart, not so
+		    heavy as mine (9/25/88) -- I shall keep singing! (9/28/88).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">043</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Childe Emilie</title> 
+		    <title type="transcribed">Childe Emilie :fourteen songs about
+			 memories and fantasies of childhood : for mezzo-soprano (or soprano) and
+			 piano</title> 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (41 pages) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Computer notated score.</p> 
+		  <p>Cycle 1 from the Ecstatic Pilgrimage.</p> 
+		  <p>"For Rosalind Rees."</p> 
+		  <p>Contents: I was the slightest in the house (3/8/89) -- Through
+		    lane it lay--through bramble (4/1/89) -- It troubled me as once I was (4/2?/89)
+		    -- The child's faith is new (3/17/89) -- Softened by time's consummate plush
+		    (4/17/89) -- Papa above! (4/14/89) -- We talked as girls do (4/4/89) -- They
+		    shut me up in prose (3/19/89) -- I cried at pity--not at pain (3/12/89) -- Let
+		    us play yesterday (4/10/89) -- A loss of something ever felt I (3/31/89) --
+		    Good morning--midnight (4/8/89) -- Up life's hill with my little bundle
+		    (5/11?/89) -- I'm ceded--I've stopped being theirs (7/15/89).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">044</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. White diadem</title> 
+		    <title type="transcribed">Cycle V :the purple diadem (the poet
+			 speaks)</title> 
+		    <unitdate type="inclusive">1989</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (26 leaves) ; 28 cm</extent> </physdesc>
+		  
+		  <note> 
+		    <p>Alternate title: Purple diadem</p> 
+		    <p>Alternate title: Poet speaks</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Title from preliminary list of contents.</p> 
+		  <p>For high voice and piano.</p> 
+		  <p>Title later changed to the White diadem, which became Cycle 6 of
+		    the Ecstatic pilgrimage.</p> 
+		  <p>Contents: I reckon--when I count at all (7/5/89) -- I dwell in
+		    possibility (10/2/89) -- This was a poet (7/7/89) -- The poets light but lamps
+		    (7/9/89) -- I would not paint a picture (7/11/89) -- The martyr poets--did not
+		    tell (7/10/89) -- Shall I take thee--the poet said (7/12/89) -- To pile like
+		    thunder to its close (6/30/89) -- Me--come! My dazzled face (4/20/89).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">045</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. White diadem. I dwell
+			 in possibility; arranged</title> 
+		    <title type="transcribed">I dwell in possibility :for baritone
+			 and guitar</title> 
+		    <unitdate type="inclusive">1994</unitdate> </unittitle> 
+		  <physdesc> <extent>2 leaves of manuscript music ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for mezzo-soprano (or soprano) and piano as part of
+		    Cycle 6 (White diadem) of Ecstatic pilgrimage.</p> 
+		  <p>"1989/94."</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">046</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. White diadem. I
+			 reckon, when I count at all; arranged</title> 
+		    <title type="transcribed">I reckon--when I count at all :for
+			 baritone + guitar</title> 
+		    <unitdate type="inclusive">1994</unitdate> </unittitle> 
+		  <physdesc> <extent>3 leaves of manuscript music ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for mezzo-soprano (or soprano) and piano, as part of
+		    Cycle 6 (White diadem) of Ecstatic pilgrimage.</p> 
+		  <p>"1989/94."</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">047</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Exequy :for string trio</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (18 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ink).</p> 
+		  <p>Originally issued as Scena cambiata, for trombone, viola and
+		    violoncello, 1980.</p> 
+		  <p>"In memory of Igor Stravinsky."</p> 
+		  <p>"July 13, 1985"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">048</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Exequy :for string trio</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (21 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally issued as Scena Cambiata for trombone, viola, and
+		    violoncello, 1980.</p> 
+		  <p>"In memory of Igor Stravinsky."</p> 
+		  <p>"July 13, 1985"--Colophon.</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>Contents: Recitativo -- Cavata -- Rice[r]car -- Corale --
+		    Cadenza finale.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">049</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Exequy :for string trio</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>3 manuscript parts ; 35-38 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ink).</p> 
+		  <p>Title supplied by cataloger.</p> 
+		  <p>Originally issued as Scena cambiata, for trombone, viola and
+		    violoncello, 1980.</p> 
+		  <p>Parts incomplete; portions of score meant to be read by players
+		    from full score.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">050</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Exequy :for string trio</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>3 manuscript parts ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally issued as Scena cambiata for trombone, viola, and
+		    violoncello, 1980.</p> 
+		  <p>Contents: Recitativo -- Cavata -- Ricercar -- Corale -- Cadenza
+		    finale.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">051</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Pushkin romances. I loved you once</title> 
+		    <title type="transcribed">I loved you once</title> 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (2 leaves) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Caption title.</p> 
+		  <p>Words by Alexander Pushkin.</p> 
+		  <p>For medium voice and piano.</p> 
+		  <p>The first of the composer's Three Pushkin romances.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">051a</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Pushkin romances</title> 
+		    <title type="transcribed">Three Pushkin romances : voice +
+			 piano</title> 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score ([11] pages) ; 25 cm</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Alternate title: Pushkin romances</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Photocopy).</p> 
+		  <p>Words by Alexander Pushkin.</p> 
+		  <p>Contents: I loved you once (July 27, 1952) -- Casual gift
+		    (August 18, 1952) -- I've lived to bury my desires (August 19, 1952).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">051b</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform"> Pushkin romances. I loved you once
+			 </title> 
+		    <title type="transcribed"> I loved you once </title> 
+		    <unitdate> 1952  </unitdate> </unittitle> 
+		  <physdesc> <extent>1 ms. score (2 leaves) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Words by Alexander Pushkin.</p> 
+		  <p> For medium voice and piano. </p> 
+		  <p>The first of the composer’s Three Pushkin romances.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">052</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Immortality songs</title> 
+		    <title type="transcribed">Three immortality songs (1996) :for
+			 baritone and guitar</title> 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score ([6] pages in various
+		    pagings) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>"In memory of Jan DeGaetani"--Caption.</p> 
+		  <p>"Leucadia, CA, 1996"--Colophon.</p> 
+		  <p>Contents: That such have died enable us -- Extol thee--could I?
+		    -- I went to heaven.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">053</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Immortality songs. Extol thee</title> 
+		    <title type="transcribed">Extol thee--could I? Then I
+			 will</title> 
+		    <unitdate type="inclusive">1989</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (2 leaves) ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>No. 2 of Three immortality songs.</p> 
+		  <p>For medium voice and piano.</p> 
+		  <p>"7.21.89"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">054</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">I went to heaven</title> 
+		    <unitdate type="inclusive">1989</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (2 pages) ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Caption title.</p> 
+		  <p>Words by Emily Dickinson.</p> 
+		  <p>For medium voice and piano.</p> 
+		  <p>"3.13.89"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">055</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">In woods :1978 : for oboe, harp and
+			 percussion (one player) </title> 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (51 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid).</p> 
+		  <p>Photocopy of instrumentation page, with annotations by Jan
+		    Williams inserted.</p> 
+		  <p>"Composed for Nora Post, Mario Falco and Jan Williams and
+		    dedicated to Nils Vigeland"--Insert.</p> 
+		  <p>"January 3, 1978 - Pacific Palisades, California"--Colophon.</p>
+		  
+		  <p>Duration: circa 23:00.</p> 
+		  <p>"Rental Library, Carl Fischer"--Sticker on cover.</p> 
+		  <p>Publisher no. 1713 from label on cover.</p> 
+		  <p>Contents: Murmurations -- Bird-clocks/Nightsinger -- Oracular --
+		    (Branch) -- Crow omen -- In deep woods.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">055b</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">In woods</title> 
+		    <title type="transcribed">Trio (1977-78) : oboe, harp,
+			 percussion</title> 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (29 leaves) ; 37 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Incomplete.</p> 
+		  <p>Contents: Murmurations -- Bird-clocks/Nightsinger -- Oracular --
+		    Branch -- Crow omen.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">056</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">In woods :1978 : for oboe, harp and
+			 percussion (one player) </title> 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (50 pages) ; 28-36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"Composed for Nora Post, Mario Falcao and Jan Williams and
+		    dedicated to Nils Vigeland"--Title page verso.</p> 
+		  <p>"January 3, 1978 - Pacific Palisades, CA"--Colophon.</p> 
+		  <p>"Rental Library, Carl Fischer, Inc ..."</p> 
+		  <p>Includes diagram of stage setup.</p> 
+		  <p>Duration: circa 23:00.</p> 
+		  <p>Contents: Murmurations -- Bird-clocks/Nightsinger -- Oracular --
+		    (Branch) -- Crow omen -- In deep woods.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">057</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">The last hour :settings of five Emily
+			 Dickinson poems for mixed chorus a cappella</title> 
+		    <unitdate type="inclusive">1988</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (17 pages) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"In memory of Harriet Greif."</p> 
+		  <p>Duration: circa 9:00.</p> 
+		  <p>Contents: Tie the strings to my life, my lord (10.12.88) --
+		    Dying in the night (10.14.88) -- If I can stop one heart from breaking
+		    (10.16.88) -- If I shouldn't be alive (10.17.88) -- This is my letter to the
+		    world (10.17.88).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">058</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">A light piece =Un pezzo leggiero : for
+			 violin and piano</title> 
+		    <unitdate type="inclusive">1948</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (14 pages) ; 35 cm</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Alternate title: Pezzo leggiero</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"To L.L.G."</p> 
+		  <p>"Composed May 3, 1945, revised June 13, 1948, New York
+		    City."</p> 
+		  <p>"May 3, 1945, June 13, 1948, New York"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">5</container> 
+		  <container type="item">059</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Lizzie in wonderland :four
+			 characteristic pieces for harp solo</title> 
+		    <unitdate type="inclusive">1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (7 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"Edited, fingered [by] Lucile Laurence"--Caption.</p> 
+		  <p>Includes performance markings.</p> 
+		  <p>"For Elizabeth Rosenthal."</p> 
+		  <p>"Gran Quivira, New Mexico, 3/15/74"--Colophon.</p> 
+		  <p>Contents: Prelude: "Who in the world am I?" -- Air: "Good-bye,
+		    poor little feet" -- March (Boots for Christmas): Lizzie's right foot, Esq.,
+		    Hearthrug, Near the fender (with Lizzie's love) -- Jig: "But I can kick a
+		    little."</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">060</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Madrigals for a Roman lady</title> 
+		    <title type="transcribed">Four madrigals for a Roman lady :for
+			 mixed chorus a cappella</title> 
+		    <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (22 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Score marked for performance.</p> 
+		  <p>"1955/65."</p> 
+		  <p>"Carl Fischer Rental Library"--Sticker on title page.</p> 
+		  <p>Contents: Kisses -- Elegy on her sparrow -- On her inconstancy
+		    -- Love's return.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">061</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Magic water : a chamber opera in one
+			 act, six scenes</title> 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (b, 99 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"Magic Water is based on N. Hawthorne's short story, Dr.
+		    Heidegger's Experiment"--Page b.</p> 
+		  <p>Duration: circa 14-15:00.</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>"June 15, 1978 Solana Beach, California"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">062</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Magic water. Vocal score</title> 
+		    <title type="transcribed">Magic water : a chamber opera in one
+			 act and six scenes</title> 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (43 pages) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Synopsis ([4] leaves) inserted.</p> 
+		  <p>"Based on Hawthorne's short story, Dr. Heidegger's
+		    Experiment"--Insert.</p> 
+		  <p>Duration: circa 15:00.</p> 
+		  <p>Includes markings: marked for performance, changes and additions
+		    to music and text.</p> 
+		  <p>"May 21, 1978 Del Mar, California"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">063</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Martha through the looking-glass :three
+			 pieces for piano solo</title> 
+		    <unitdate type="inclusive">1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (3 pages) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Words in confidence from the composer to the
+		    performer"--Typescript leaf attached.</p> 
+		  <p>Duration: circa 5:00.</p> 
+		  <p>"Feb., 1974 Los Angeles, California."</p> 
+		  <p>Contents: The white knight -- "It's my own invention" -- The
+		    upside-down deal box.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">064</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Martha through the looking-glass :three
+			 pieces for piano solo</title> 
+		    <unitdate type="inclusive">1982</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (3 pages) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"1175."</p> 
+		  <p>Duration: circa 5:00.</p> 
+		  <p>Contents: The white knight -- "It's my own invention" -- The
+		    upside-down deal box.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">065</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Memento '51 :for vibraphone +
+			 bass</title> 
+		    <unitdate type="inclusive">1995</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (9 pages) ; 36 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Memento 1951</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Commissioned by Naomi and Paul Pascal for their son David and
+		    their daughter-in-law Susan and dedicated to all four friends."--Prefatory
+		    page.</p> 
+		  <p>"6 Jan. 95 Leucadia, circa"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">066</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">A mountain eulogy :from Peer Gynt : for
+			 speaker and chamber orchestra </title> 
+		    <unitdate type="inclusive">1979</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (38 pages) ; 40 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"A Mountain Eulogy was commissioned by the State Arena Theatre
+		    for Paul Schmidt and Yvar Mikhashoff in memory of Vera Brynner"--Page preceding
+		    score.</p> 
+		  <p>Publisher no. from label on cover: 1539.</p> 
+		  <p>"Carl Fischer Rental Library"--Sticker on title page.</p> 
+		  <p>Duration: circa 16:00.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">067</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Petals of Amaranth (1995) :ten pieces
+			 for viola and piano</title> 
+		    <unitdate type="inclusive">1995</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (24 pages) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"These pieces are free transcriptions of ten of my Emily
+		    Dickinson songs, originally for mezzo-soprano and piano"--Prefatory page.</p> 
+		  <p>"March 28, 1995 Leucadia, CA"--Colophon.</p> 
+		  <p>Duration: circa 20:00.</p> 
+		  <p>Contents: That first day -- Too late, dear? -- Conversation in
+		    the grave -- The road of pain -- Ruby-lit heaven -- The death-fly -- Suicide!
+		    -- Madness? -- Ascension to the clouds -- The realm of you.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">068</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Poems of M. Willieme</title> 
+		    <title type="transcribed">Three poems of M. Willieme :soprano +
+			 piano</title> 
+		    <unitdate type="inclusive">1994</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (17 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Title from manilla folder.</p> 
+		  <p>"Feb. 27, 1994 Leucadia, CA"--Colophon.</p> 
+		  <p>Contents: And all the air is still -- Bus tour: Boston in the
+		    rain -- In the celestial computer.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">069</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Quartet, strings</title> 
+		    <title type="transcribed">String quartet</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>4 parts ; 43 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Vellum).</p> 
+		  <p>Caption title.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">069a</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Quartet, strings</title> 
+		    <title type="transcribed">String quartet</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>4 parts ; 43 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Ozalid reproductions).</p> 
+		  <p>Parts extensively marked for performance.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">069b</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Quartet, strings</title> 
+		    <title type="transcribed">Quartet (1938-1983)</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (54 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Photocopy).</p> 
+		  <p>Caption title.</p> 
+		  <p>Changes to score marked in pencil and black ink.</p> 
+		  <p>End of Mvt. II: "11/25/82"; end of Mvt. III: "12.10.83."</p> 
+		  <p>Mvt. II (pages 43-54) copied as leaves on narrower paper.</p> 
+		  <p>Movements as marked on enclosing folder: 1. Fantasy, 2. Chorale,
+		    3. Retrospective.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">070</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Scena cambiata :for trombone, viola and
+			 violoncello</title> 
+		    <unitdate type="inclusive">1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (17 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Commissioned by Yvar Mikhashoff for Cambiata, Inc., and
+		    dedicated to Liisa Van Duyts."</p> 
+		  <p>"Feb. 20, 1980/Buffalo, N.Y."--Colophon.</p> 
+		  <p>Contents: Recitativo -- Cavata -- Fuga -- Corale -- Cadenza.</p>
+		  
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">071</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Scena cambiata (Sketches)</title> 
+		    <title type="transcribed">Scena cambiata :for viola, cello and
+			 trombone : sketches 1980</title> 
+		    <unitdate type="inclusive">1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score [22] pages ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">072</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">So well, that I can live
+			 without</title> 
+		    <unitdate type="inclusive">198-?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (1 leaf) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Words by Emily Dickinson.</p> 
+		  <p>For medium voice and piano.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">073</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Sonatas, piano</title> 
+		    <title type="transcribed">Sonata in one movement for piano solo
+			 :1951-55</title> 
+		    <unitdate type="inclusive">1966</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (16 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>"To Francis Thorne."</p> 
+		  <p>"To Mr. Leo Smit for corrections, 7/6/66."</p> 
+		  <p>"Ok for engraving, 4/14/66."</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">074</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Sonatas, piano (4 hands)</title> 
+		    <title type="transcribed">Piano sonata, four hands</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (41 leaves) ; 36 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (partially ink, part photocopy).</p> 
+		  <p>Contains corrections: score prepared by more than one
+		    person.</p> 
+		  <p>"8-9-87"--Colophon.</p> 
+		  <p>Contents: Pastoral -- Scherzo -- Romanza -- Intermezzo -- Fuga
+		    finale.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">075</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Sonatas, cello</title> 
+		    <title type="transcribed">Sonata for solo cello</title> 
+		    <unitdate type="inclusive">1982</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (27 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"For Roger Lebow."</p> 
+		  <p>"For Roger, with affection from Leo 1.8.83"--Crossed out on
+		    title page.</p> 
+		  <p>"7.14.82 Del Mar, CA"--Colophon.</p> 
+		  <p>Duration: circa 20:00.</p> 
+		  <p>Score contains markings, including changes, bowings, fingerings,
+		    and tempo indications.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">6</container> 
+		  <container type="item">076</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Sonatas, cello</title> 
+		    <title type="transcribed">Sonata for solo cello</title> 
+		    <unitdate type="inclusive">1982</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (18 pages) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Computer-notated music.</p> 
+		  <p>"For Roger Lebow"--Caption.</p> 
+		  <p>"7/14/82 Del Mar, CA"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">077</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Songs and refrains. Selections</title> 
+		    <title type="transcribed">Songs and refrains</title> 
+		    <unitdate type="inclusive">1961</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score ([5] pages) ; 36-37 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>For unison chorus; acc. for electric guitar, or harp/piano.</p> 
+		  <p>"August 1961."</p> 
+		  <p>Song four is missing.</p> 
+		  <p>Contents: Minueto ven admirony (March of the grapes) -- Es
+		    tortific dogma texture (The wonderful crocodile) -- Lova, ah lova (My planet)
+		    -- A message for you.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">078</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed"> Songs of wonder : for high voice and
+			 piano / poems by Beth Frost</title> 
+		    <unitdate> 1976 </unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score ([9] pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Includes composer’s note.</p> 
+		  <p>"For Lynne Milstein"--T.p.</p> 
+		  <p>Duration 4:30.</p> 
+		  <p>Contents: Untold wonders -- The horizons of time -- A magic
+		    starry night.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">079</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Songs of wonder :for high voice and
+			 piano</title> 
+		    <unitdate type="inclusive">1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (9 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Includes composer's note.</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>"Aug. 29, 1976"--Colophon.</p> 
+		  <p>"For Lynne Milstein."</p> 
+		  <p>T.p. bears Carl Fischer label.</p> 
+		  <p>Contents: Untold wonders -- The horizons of time -- A magic
+		    starry night.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">080</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform"> Songs of wonder; arr.</title> 
+		    <title type="transcribed"> The flute of wonder : three pieces for
+			 flute and piano</title> 
+		    <unitdate> 1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (9 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for voice and piano.</p> 
+		  <p>"Dec. 31, 1983"--Colophon.</p> 
+		  <p>Duration 4:30.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">081</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Songs of wonder; arranged</title> 
+		    <title type="transcribed">The flute of wonder :three pieces for
+			 flute and piano</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (9 pages) ; 37 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for voice and piano.</p> 
+		  <p>Derived from Songs of Wonder score: flute part taped over voice
+		    part, words removed with white-out.</p> 
+		  <p>"Dec. 31, 1983"--Colophon.</p> 
+		  <p>Duration 4:30.</p> 
+		  <p>Contents: Untold wonders -- The horizons of time -- A magic
+		    starry night.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">082</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Songs of wonder; arranged</title> 
+		    <title type="transcribed">The flute of wonder :three pieces for
+			 flute and piano</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript part ; 37 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for voice and piano.</p> 
+		  <p>"Dec. 31, 1983"--Colophon.</p> 
+		  <p>Duration 4:30.</p> 
+		  <p>Contents: Untold wonders -- The horizons of time -- A magic
+		    starry night.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">083</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Symphonies, no. 1</title> 
+		    <title type="transcribed">Symphony no. 1 in E♭ for
+			 orchestra</title> 
+		    <unitdate type="inclusive">1955</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (155 pages) ; 38 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>"Dedicated to the memory of Serge and Natalie
+		    Koussevitzky"--Title page verso.</p> 
+		  <p>"Commissioned by the Koussevitzky Music Foundation for the
+		    League of Composers' 30th anniversary"--Title page verso.</p> 
+		  <p>"Awarded New York Music Critics Circle Prize as the best
+		    orchestral work by an American composer played during the season
+		    1956-57"--Title page verso.</p> 
+		  <p>"June 30, 1955"--Colophon.</p> 
+		  <p>Duration 25:30.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">084</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Symphonies, no. 2</title> 
+		    <title type="transcribed">Symphony no. 2 in six movements</title>
+		    
+		    <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (80 pages) ; 45 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Includes small number of Smit's markings.</p> 
+		  <p>"Commissioned by Norman Rosenthal for his wife Janice"--Title
+		    page verso.</p> 
+		  <p>"Jan. 12, 1965"--Colophon.</p> 
+		  <p>Duration 17:00.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">085</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Symphony of dances and songs :for
+			 orchestra</title> 
+		    <unitdate type="inclusive">1981</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (146 pages) ; 36 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Includes small number of Smit's markings.</p> 
+		  <p>Includes composer's notes: 5 leaves inserted.</p> 
+		  <p>"Commissioned by the United States International Communication
+		    Agency for the joint American-Yugoslav celebration of the centenary (1881-1981)
+		    of diplomatic relations."</p> 
+		  <p>"9/12/81"--Colophon.</p> 
+		  <p>Duration: circa 29:00.</p> 
+		  <p>Contents: Psalms -- Potpourri -- Spirituals -- Kolo --
+		    Memorial/Benediction.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">086</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">There's a certain slant of
+			 light</title> 
+		    <unitdate type="inclusive">1990</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (3 leaves) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Caption title.</p> 
+		  <p>Includes small number of Smit's markings.</p> 
+		  <p>Words by Emily Dickinson.</p> 
+		  <p>"1/22/90"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">087</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Thinngs all over; arr.</title> 
+		    <title type="transcribed">Thinngs [sic] all over : for voice,
+			 oboe and piano</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (5 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Nov. 4, 1983"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">088</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Thomas Jefferson : a narrative
+			 monodrama for baritone and piano</title> 
+		    <unitdate type="inclusive">1988</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (31 pages) ; 39 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>"12.23.88, Leucadia, CA"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">089</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Toccata, piano</title> 
+		    <title type="transcribed">Toccata for solo piano :1984</title> 
+		    <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (13 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Commissioned by, composed for, and dedicated to Yvar
+		    Mikhashoff."</p> 
+		  <p>"2.5.84"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">7</container> 
+		  <container type="item">090</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Toccata, piano</title> 
+		    <title type="transcribed">Toccata (1984) : piano solo</title> 
+		    <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (13 pages) ; 35 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Cover title.</p> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Includes markings: additions, words from Upon my garden, rides a
+		    bird, an Emily Dickinson poem written above music.</p> 
+		  <p>"2.5.84, Buffalo, NY"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">091</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">A transient view :five choruses [for]
+			 unison, two, three and four equal voices unaccompanied</title> 
+		    <unitdate type="inclusive">1967</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript chorus score (17 pages) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Includes markings: additions, changes, tempo markings.</p> 
+		  <p>Composer's notes (5 pages) inserted.</p> 
+		  <p>"July - August/1967, Los Angeles, Calif."</p> 
+		  <p>"Doubleday &amp; Co., Inc ..."</p> 
+		  <p>Duration: 7:20.</p> 
+		  <p>Contents: The patron's list (variations) -- The unripe day
+		    (canon) -- Saint Valentine (antiphony) -- Monday's journey (solfeggietto) --
+		    That far away country (requiem).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">092</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Trumpeter swan : a cycle of five songs
+			 for soprano and piano</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (9 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes composer's note.</p> 
+		  <p>"March 22, 1985"--Colophon.</p> 
+		  <p>Contents: Trumpeter swan -- Mirror -- Homework blues -- Dreams
+		    -- Invention.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">093</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Trumpeter swan :five songs for a little
+			 girl</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (13 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"March 22, 1985"--Colophon.</p> 
+		  <p>Contents: Trumpeter swan -- Mirror -- Homework blues -- Dreams
+		    -- Invention.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">094</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Trumpeter swan :five songs for a little
+			 girl : voice and piano</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (9 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>"This work is a vocal transformation of the composer's piano
+		    solo, Five pieces for young people"--Composer's note.</p> 
+		  <p>"March 22, 1985"--Colophon.</p> 
+		  <p>Contents: Trumpeter swan -- Mirror -- Homework blues -- Dreams
+		    -- Invention.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">095</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Tzadik, instrumental ensemble</title> 
+		    <title type="transcribed">Tzadik : maker of miracles : for twelve
+			 players (four trios) </title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (92 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for piano trio.</p> 
+		  <p>Score marked for performance.</p> 
+		  <p>Includes composer's note.</p> 
+		  <p>Duration: circa 17:00.</p> 
+		  <p>"Dec. 1983"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">096</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Tzadik, saxophones (4)</title> 
+		    <title type="transcribed">Tzadik :for saxophone quartet</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (34 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Commissioned by and dedicated to the Amherst Saxophone
+		    Quartet."</p> 
+		  <p>Includes composer's note.</p> 
+		  <p>Includes markings: changes, additions, tempo markings.</p> 
+		  <p>"July 30, 1983, Buffalo, NY"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">097</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Tzway =Two : 1935 : for voice and
+			 piano</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (13 pages) ; 36 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Two</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Words in Yiddish and English.</p> 
+		  <p>"Tzway: soprano, piano"--Cover.</p> 
+		  <p>Includes composer's note.</p> 
+		  <p>"December 1935, New York City"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">098</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Under a tender moon :for soprano,
+			 French horn (F), viola, and harp</title> 
+		    <unitdate type="inclusive">1990</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (21 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Score marked for performance.</p> 
+		  <p>Poem also printed as text preceding score.</p> 
+		  <p>"Commissioned by the New York State Music Teachers Association,
+		    1990."</p> 
+		  <p>"September 25, 1990, Buffalo, NY"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">099</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Variations, piano, orchestra</title> 
+		    <title type="transcribed">Variations</title> 
+		    <unitdate type="inclusive">1981</unitdate> </unittitle> 
+		  <physdesc> <extent>11 parts ; 32 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Master parts on vellum.</p> 
+		  <p>For piano and orchestra.</p> 
+		  <p>Caption title.</p> 
+		  <p>Piano part wanting.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">100</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Virginia sampler : a ballet for
+			 orchestra</title> 
+		    <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (100 pages) ; 36 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Holograph pages inserted: pages 32, 34, 35 recomposed in
+		    ink.</p> 
+		  <p>Includes markings: changes, additions, and performance
+		    indications.</p> 
+		  <p>"Feb. 25, 1960"--Colophon.</p> 
+		  <p>Contents: Introduction -- The town -- The townspeople -- Jig
+		    (kid sister) -- Gentlemen's eccosaise -- Waltz and carousel (the lovers) -- The
+		    unidentified lady -- March for a beloved general.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">101</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Virginia sampler; arranged</title> 
+		    <title type="transcribed">Virginia sampler : a ballet arranged
+			 for two pianos by the composer </title> 
+		    <unitdate type="inclusive">1959</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (40 pages) ; 33 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>"1167"--Number on cover.</p> 
+		  <p>"March 10, 1959, Los Angeles"--Colophon.</p> 
+		  <p>"Rental Library, Carl Fischer, Inc."--Label on cover.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">102</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Yerma : a ballet from the play by
+			 Garcia Lorca</title> 
+		    <unitdate type="inclusive">1946</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (38 pages) ; 39 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>For piano, bassoon, flute, trumpet (B♭).</p> 
+		  <p>Includes markings: changes and additions.</p> 
+		  <p>"June, 1946."</p> 
+		  <p>"To Valerie Bettis."</p> 
+		  <p>"June 12, 1946, New York City, Leo Smit"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">103</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Yerma : a ballet from the play by
+			 Garcia Lorca</title> 
+		    <unitdate type="inclusive">1946</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (38 pages) ; 39 cm + 3 parts ; 32
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>For bassoon, flute, trumpet(B♭).</p> 
+		  <p>Includes indications for expanded instrumentation in score and
+		    page following score.</p> 
+		  <p>Score includes markings: changes and additions.</p> 
+		  <p>Trumpet part includes markings: changes.</p> 
+		  <p>"June, 1946."</p> 
+		  <p>"To Valerie Bettis."</p> 
+		  <p>"First performance: June 25, 1946, New York City"--Title page
+		    verso.</p> 
+		  <p>"June 12, 1946, New York City, Leo Smit"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">8</container> 
+		  <container type="item">104</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Yerma</title> 
+		    <unitdate type="inclusive">1946</unitdate> </unittitle> 
+		  <physdesc> <extent>3 parts ; 33 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Vellum).</p> 
+		  <p>Parts for bassoon, flute, and trumpet (B♭).</p> 
+		  <p>Ballet, based on a play by F. García Lorca</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II</unitid> 
+		<unittitle>Arrangements and editions of works by other composers, 
+		  <unitdate type="inclusive" normal="1940/1987"
+		  datechar="creation">1940-1987 </unitdate> </unittitle> 
+		<physdesc> <extent> Item 105-123</extent> </physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged alphabetically by name of composer of original piece.</p>
+		
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">105</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Bernstein, Leonard,
+			 1918-1990</persname> 
+		    <title type="uniform"> Age of anxiety; arr.</title> 
+		    <title type="transcribed"> The age of anxiety : symphony no. 2
+			 for piano and orchestra (after W. H. Auden)</title> <imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>G. Schirmer</publisher>, 
+		    <date type="publication">1950</date> </imprint> </unittitle> 
+		  <physdesc> <extent>1 score (91 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Orchestra part arranged for second piano by Leo Smit.</p> 
+		</note> 
+		<scopecontent> 
+		  <p> Program by composer on t.p. verso. </p> 
+		  <p>Two photocopies of pages 87-94 from 1966 rev. version
+		    inserted.</p> 
+		  <p>Contents: Prologue -- Seven ages -- Seven stages -- Dirge --
+		    Masque -- Epilogue.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">106</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf"> Bernstein, Leonard,
+			 1918-1990 </persname> 
+		    <title type="uniform">Age of anxiety; arr.</title> 
+		    <title type="transcribed"> The age of anxiety : symphony no. 2
+			 for piano and orchestra (after W.H. Auden)</title> <imprint> 
+		    <geogname>New York </geogname>: 
+		    <publisher> Amberson Enterprises</publisher> ; 
+		    <publisher>G. Schirmer</publisher>, 
+		    <date type="publication">1966</date></imprint> </unittitle> 
+		  <physdesc> <extent>1 score (94 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Revised version; orchestra part arranged for second piano by Leo
+		    Smit</p> 
+		</note> 
+		<scopecontent> 
+		  <p> Duration: 30:00 </p> 
+		  <p>Contents: Prologue -- Seven ages -- Seven stages -- Dirge --
+		    Masque -- Epilogue.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">107</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Bernstein, Leonard,
+			 1918-1990</persname> 
+		    <title type="uniform">West Side story. Selections;
+			 arranged</title> 
+		    <title type="transcribed">Four movements from West Side
+			 story</title> 
+		    <unitdate type="inclusive">1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (20 leaves) ; 32 cm</extent> </physdesc>
+		  
+		  <note> 
+		    <p>Alternate title: West Side story</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Caption title.</p> 
+		  <p>Excerpts from the musical.</p> 
+		  <p>"Second proof Feb 20 1968"--Stamp in caption.</p> 
+		  <p>"Corrections pg. 4, 5, 7, 16, 17, 20"--Inscription in margin of
+		    leaf 2.</p> 
+		  <p>Negative print - white text on blue background.</p> 
+		  <p>Publisher's no.: Ed. 2765.</p> 
+		  <p>Contents: Jets -- Jump -- Cha-cha -- Cool.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">108</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Haieff, Alexei,
+			 1914-1994 </persname> 
+		    <title type="transcribed"> Unidentified work / Haieff ; Smit.
+			 </title> 
+		    <unitdate>196-?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (1 leaf) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<note> 
+		  <p>Possibly co-composed by Leo Smit.</p> 
+		</note> 
+		<scopecontent> 
+		  <p>Manuscript (Photocopy)</p> 
+		  <p>For solo instrument and piano.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">109</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Kabalevsky, Dmitry
+			 Borisovich, 1904-1987</persname> 
+		    <title type="uniform"> Concertos, piano, orchestra, no. 2, op.
+			 23; arranged </title> 
+		    <title type="transcribed"> Concerto no. 2 in G minor, op. 23, for
+			 piano and orchestra</title> <imprint> 
+		    <geogname>New York </geogname>: 
+		    <publisher>Leeds Music Corp.</publisher> , 
+		    <date type="publication">1946</date></imprint> </unittitle> 
+		  <physdesc> <extent>1 score (80 pages) ; 30 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Reduction for two pianos; edited with special annotations by Leo
+		    Smit.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">110</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Liszt, Franz,
+			 1811-1886</persname> 
+		    <title type="uniform">Czardas, piano (1884). Csárdás obstiné;
+			 arranged</title> 
+		    <title type="transcribed">Csárdás obstiné (1884) :for wind
+			 quintet</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (19 pages) ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Originally for piano.</p> 
+		  <p>"Feb. 10, 1985"--Colophon.</p> 
+		  <p>"For Sabrina Zolte"--Caption.</p> 
+		  <p>Wanting pages 17-18.</p> 
+		  <p>Photocopy of original piano version of work (leaves 38-48)
+		    inserted.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">111</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Liszt, Franz,
+			 1811-1886</persname> 
+		    <title type="uniform">Czardas, piano (1884). Csárdás obstiné;
+			 arranged</title> 
+		    <title type="transcribed">Csárdás obstiné</title> 
+		    <unitdate type="inclusive">1985</unitdate> </unittitle> 
+		  <physdesc> <extent>5 manuscript parts ; 32 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Ink).</p> 
+		  <p>Originally for piano; arr. for woodwind quintet.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">112</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">MacDowell, Edward,
+			 1860-1908</persname> 
+		    <title type="uniform">Piano music. Selections; arranged</title> 
+		    <title type="transcribed">Three pieces by Edward MacDowell :
+			 arranged for oboe and piano</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (13 pages) ; 29 cm</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Alternate title: Pieces by Edward MacDowell</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"June 6, 1983"--Colophon.</p> 
+		  <p>Contents: The brook, op. 43, no. 1 -- To a wild rose, op. 51,
+		    no. 1 -- From Uncle Remus, op. 51, no. 7.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">113</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Mendelssohn-Bartholdy,
+			 Felix, 1809-1847</persname> 
+		    <title type="uniform">Präludien und Fugen, piano, op. 35. Nr. 5;
+			 arranged</title> 
+		    <title type="transcribed">Praeludium et fuga no. 5 in fa minore
+			 for 2 vlns, 2 vlas and vc </title> 
+		    <unitdate type="inclusive">1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (13, 4, 16 pages) ; 24-26 x
+		    36 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Title on envelope: Prelude &amp; fugue no. 5
+			 in f minor, transcription for small ensemble</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>Originally for piano; arr. for two instrumentations. Praeludium:
+		    for 2 oboes, English horn, bassoon, 4 horns, 2 violins, 2 violas, violoncello;
+		    Fuga: for 2 violins, 2 violas, violoncello.</p> 
+		  <p>Includes two versions of the praeludium: the first (13 pages)
+		    for winds and strings; the second (4 pages) for string quintet, incomplete.</p>
+		  
+		  <p>"7/22, 23/74."</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">9</container> 
+		  <container type="item">114</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Morton, Jelly Roll,
+			 -1941</persname> 
+		    <title type="uniform">Big foot ham; arranged</title> 
+		    <title type="transcribed">Big foot ham :1923</title> 
+		    <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (17 pages) + 4 parts ; 35
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Originally for piano.</p> 
+		  <p>Holograph (Photocopy); Vellum ink masters of parts.</p> 
+		  <p>Duration: circa 15:00.</p> 
+		  <p>At end: May 31, 1984.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">115</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Porter, Cole,
+			 1891-1964</persname> 
+		    <title type="uniform">Songs. Selections; arranged</title> 
+		    <title type="transcribed">Red, hot and Cole :8 songs</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (102 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>"Commissioned by the Eastman School of Music."</p> 
+		  <p>Contents: At long last love -- Find me a primitive man -- Cherry
+		    pies ought to be you -- Fresh as a daisy -- Goodbye, little dream, goodbye --
+		    Where, oh where -- You don't remind me -- Ridin' high.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">116</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Porter, Cole,
+			 1891-1964</persname> 
+		    <title type="uniform">Songs. Selections; arranged</title> 
+		    <title type="transcribed">Red, hot and Cole :8 songs</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (5, 13 pages) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>For oboe, percussion, and strings; vocal part not indicated.</p>
+		  
+		  <p>Contains only two songs.</p> 
+		  <p>"8.87"--End of Cherry pies.</p> 
+		  <p>Contents: Cherry pies [ought to be you] -- [Find me] a primitive
+		    man.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">117</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Porter, Cole,
+			 1891-1964</persname> 
+		    <title type="uniform">Songs. Selections; arranged</title> 
+		    <title type="transcribed">Red, hot &amp; Cole</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>5 manuscript parts ; 28 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Red, hot and Cole</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Title from envelope.</p> 
+		  <p>Song no. 3 (Cherry pies ought to be you) wanting.</p> 
+		  <p>String parts only (Smit arranged the songs for oboe/English
+		    horn, string orchestra, and percussion).</p> 
+		  <p>Contents: At long last love -- Find me a primitive man -- Fresh
+		    as a daisy -- Goodbye, little dream, goodbye -- Where, oh where -- You don't
+		    remind me -- Ridin' high.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">118</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Porter, Cole,
+			 1891-1964</persname> 
+		    <title type="uniform">Songs. Selections; arranged</title> 
+		    <title type="transcribed">Love songs without words :for woodwind
+			 quintet</title> 
+		    <unitdate type="inclusive">1974?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (48 leaves) ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>For flute or alto flute, oboe or English horn, clarinet, horn,
+		    and bassoon.</p> 
+		  <p>"Rental library, Carl Fischer, Inc."</p> 
+		  <p>"9/13/74, Bflo., N.Y."--Colophon.</p> 
+		  <p>Contents: At long last love -- Find me a primitive man -- Use
+		    your imagination -- Ridin' high.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">119</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Porter, Cole,
+			 1891-1964</persname> 
+		    <title type="uniform">Songs. Selections; arranged</title> 
+		    <title type="transcribed">At long last love ;Find me a primitive
+			 man ; Use your imagination ; Ridin' high </title> 
+		    <unitdate type="inclusive">1974?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (3, 4, 6 pages) ; 25 x 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>For flute or alto flute, oboe or English horn, clarinet, horn,
+		    and bassoon.</p> 
+		  <p>"8/28/74"--At end of 2nd song; "8/29/74"--at end of 3rd
+		    song.</p> 
+		  <p>Additional 4 leaves of sketches inserted.</p> 
+		  <p>Contents: At long last love -- Find me a primitive man -- Use
+		    your imagination -- Ridin' high.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">120</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Porter, Cole,
+			 1891-1964</persname> 
+		    <title type="uniform">Songs. Selections; arranged</title> 
+		    <title type="transcribed">Cole Porter songs : arranged for small
+			 ensemble</title> 
+		    <unitdate type="inclusive">1974</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (various pagings) ; 25 x 35
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Title from envelope.</p> 
+		  <p>Contents: At long last love -- Find me a primitive man (8/24/74)
+		    -- Use your imagination (8/13/74) -- Ridin' high (8/14/74) -- It's bad for me
+		    -- Do I love you? -- You don't remind me [incomplete?] -- You're sensational
+		    (8/15/74) -- Goodbye, little dream, goodbye (8/14/74).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">121</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Schumann, Robert,
+			 1810-1856</persname> 
+		    <title type="uniform">Romances, oboe, piano, op. 94;
+			 arranged</title> 
+		    <title type="transcribed">Three romances, op. 94 : for oboe solo
+			 and orchestra</title> 
+		    <unitdate type="inclusive">1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (25 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		  <p>Originally for oboe (or violin) and piano; accompaniment
+		    arranged for orchestra.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">122</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Stravinsky, Igor,
+			 1882-1971</persname> 
+		    <title type="uniform">Jeu de cartes. Danse finale;
+			 arranged</title> 
+		    <title type="transcribed">Finale : the triumph of the hearts :
+			 from Jeu de cartes (1936) </title> 
+		    <unitdate type="inclusive">1950</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (10 pages) ; 35 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Triumph of the hearts</p> 
+		    <p>Alternate title: Finale from Jeu de cartes</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Originally for orchestra; arranged for piano.</p> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>"January 17, 1950, Elmsford, NY"--End of score.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">10</container> 
+		  <container type="item">123</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Stravinsky, Igor,
+			 1882-1971</persname> 
+		    <title type="uniform">Vesna svi︠a︡shchennai︠a︡. Velikai︠a︡
+			 svi︠a︡shchennai︠a︡ pli︠a︡ska; arranged</title> 
+		    <title type="transcribed">Danse sacrale : from Le sacre du
+			 printemps</title> 
+		    <unitdate type="inclusive">194-?</unitdate> </unittitle> 
+		  <physdesc> <extent>[10] pages of music ; 32 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil).</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series3">III</unitid> 
+		<unittitle>Compositions by other composers marked for performance by
+		  Leo Smit, 
+		  <unitdate type="inclusive" normal="1940/1987" datechar="creation">
+		    circa 1940-1987</unitdate> </unittitle> 
+		<physdesc> <extent>Item 124-132 </extent> </physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged alphabetically by composer's name</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">124</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Bartók, Béla,
+			 1881-1945</persname> 
+		    <title type="uniform">Sonatas, pianos (2), percussion</title> 
+		    <title type="transcribed">Sonata for two pianos and
+			 percussion</title> 
+		    <unitdate type="inclusive">1942</unitdate> </unittitle> 
+		  <physdesc> <extent>2 scores (96 pages) + 1 part (24 pages) ; 31
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>For 2 pianos, 3 timpani, xylophone, side drum with snares, side
+		    drum without snares, cymbal suspended, pair of cymbals, bass drum, triangle,
+		    tam-tam.</p> 
+		  <p>"This work exists in two versions--the first, as in the present
+		    score, Sonata for two pianos and percussion; the second, with an orchestral
+		    accompaniment, entitled Concerto for two pianos with orchestra. The piano parts
+		    in the orchestral version differ in some instances from the version without
+		    orchestra. These passages are printed in small type [underneath the
+		    corresponding parts in the version without orchestra]"--Page [3].</p> 
+		  <p>Duration: circa 24:30.</p> 
+		  <p>Pl. nos.: B. &amp; H. 8675, B. &amp; H. 8816.</p> 
+		  <p>Score marked with performance indications by Leo Smit. Markings
+		    reflect preparation of the piece by Smit with the composer.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">125</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Beethoven, Ludwig van,
+			 1770-1827 </persname> 
+		    <title type="uniform">Fantasien, piano, mixed voices, orchestra,
+			 op. 80, C minor</title> 
+		    <title type="transcribed">Chor-Fantasie für Klavier, Chor und
+			 Orchester, op. 80 </title> <imprint> 
+		    <geogname> Wiesbaden</geogname> : 
+		    <publisher>Breitkopf &amp; Härtel</publisher>, 
+		    <date type="publication">[19--]</date> </imprint> </unittitle> 
+		  <physdesc> <extent>Solo piano part (pages 1-3); orchestral score
+		    (pages 4-56) </extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Part prepared for performance by Leo Smit; includes additional
+		    photocopied inserts and markings.</p> 
+		</note> 
+		<scopecontent> 
+		  <p>Program from Oct. 1978 Brockport Keyboard Festival inserted.</p>
+		  
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">126</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Beethoven, Ludwig van,
+			 1770-1827</persname> 
+		    <title type="uniform">Piano music. Selections</title> 
+		    <title type="transcribed">Various piano works : including
+			 bagatelles complete, rondo a cappriccio, various preludes and phantasy</title> 
+		    <unitdate type="inclusive">197-?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (103 pages) ; 31 cm.</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes thematic index.</p> 
+		  <p>Contents: Seven bagatelles, op. 33 --Two preludes, op. 39 --Two
+		    rondos, op. 51 --Phantasy, op. 77 --Polonaise, op. 89 --Eleven new bagatelles,
+		    op. 119 --Six bagatelles, op. 126 --Rondo a capriccio, op. 129 --Andante
+		    --Praeludium --Rondo.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">127</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Fauré, Gabriel,
+			 1845-1924 </persname> 
+		    <title type="uniform">Elegy, violoncello, piano, op. 24 </title> 
+		    <title type="transcribed">Elegy, for cello and piano, opus 24 /
+			 [edited by] Leonard Rose </title> <imprint> 
+		    <geogname>New York</geogname> : 
+		    <publisher>International Music Co.</publisher>, 
+		    <date type="publication">1977</date> </imprint> </unittitle> 
+		  <physdesc> <extent>1 score (8 pages) + 1 part (1 leaf) ; 31
+		    cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Marked for performance by Leo Smit.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">128</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Ravel, Maurice,
+			 1875-1937</persname> 
+		    <title type="transcribed"> Histoires naturelles / paroles de
+			 Jules Renard </title> <imprint> 
+		    <geogname>Paris</geogname> : 
+		    <publisher>A. Durand</publisher> ; 
+		    <geogname> Philadelphia, Pa.</geogname> : 
+		    <publisher>Elkan Vogel</publisher>, 
+		    <date type="publication">[1956], 1907</date>  </imprint>
+		    </unittitle> 
+		  <physdesc> <extent>1 score (23 pages) ; 32 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Vocal part marked for performance</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">129</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Rorem, Ned,
+			 1923-</persname> 
+		    <title type="transcribed"> Snake / [text by] Theodore Roethke
+			 </title> <imprint> 
+		    <geogname>New York</geogname> : 
+		    <publisher>Henmar Press</publisher>: Sole selling agents, 
+		    <publisher>C.F. Peters</publisher>, 
+		    <date type="publication"> 1963 </date>  </imprint> </unittitle> 
+		  <physdesc> <extent>1 score (5 pages) ; 30 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>For medium voice and piano.</p> 
+		  <p>Marked for performance by Leo Smit.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">130</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Stravinsky, Igor,
+			 1882-1971</persname> 
+		    <title type="uniform">Ragtime; arranged</title> 
+		    <title type="transcribed">Rag-time : for eleven
+			 instruments</title> 
+		    <unitdate type="inclusive">1920</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (12 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Caption title.</p> 
+		  <p>Marked for performance by Leo Smit.</p> 
+		  <p>Photocopy (Schott Pl. no. 30929) of Hindemith's Ragtime, from
+		    his piano suite "1922", inserted.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">131</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Tchaikovsky, Peter
+			 Ilich, 1840-1893 </persname> 
+		    <title type="uniform">Sonatas, piano, op. 37, G major </title> 
+		    <title type="transcribed"> Sonate pour piano seul, op. 37
+			 </title> <imprint> 
+		    <geogname>Moscou</geogname> : 
+		    <publisher>P. Jurgenson</publisher>, 
+		    <date type="publication">[1879]</date> </imprint> </unittitle> 
+		  <physdesc> <extent>51 pages of music ; 34 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Marked for performance by Leo Smit</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">11</container> 
+		  <container type="item">132</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Weber, Carl Maria von,
+			 1786-1826</persname> 
+		    <title type="uniform">Concertos, piano, orchestra, no. 2, op. 32,
+			 E♭ major; arranged</title> 
+		    <title type="transcribed">Conzert, Es dur, für Pianoforte und
+			 Orchester, op. 32 </title> 
+		    <unitdate type="inclusive">between 1903 and 1941</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>1 score (39 pages) ; 34 cm.</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Marked for performance by Leo Smit.</p> 
+		  <p>Inserted: 1st movement cadenza from "C. M. v. Weber's
+		    Clavierconcerte mit Orchesterbegleitung ... bearbeitet und Herrn Ernst
+		    Ferdinand Menzel ... hochachtungsvoll gewidmet von Hans von Bülow." Bartholf
+		    Senff pl. no. 904.905.</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series4">IV</unitid> 
+		<unittitle>Scores by other composers with inscriptions to Leo Smit, 
+		  <unitdate type="inclusive" normal="1944/1990"
+		  datechar="creation">1944-1990 </unitdate> </unittitle> 
+		<physdesc> <extent>Item 133-142 </extent> </physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged alphabetically by composer name</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">133</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Allanbrook, Douglas.
+			 </persname> 
+		    <title type="uniform">New American preludes</title> 
+		    <title type="transcribed">Five new American preludes : to the
+			 great American jazz singer Peggy Lee</title> 
+		    <unitdate type="inclusive">1990</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (15 pages) ; 35 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: New American preludes</p> 
+		    <p>Alternate title: American preludes</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>For piano.</p> 
+		  <p>Cover title.</p> 
+		  <p>Reproduction of manuscript (copyist: Christina T. Davidson).</p>
+		  
+		  <p>Contents: Casually -- Dry &amp; rhythmic: somewhat off-hand --
+		    Slow &amp; heartfelt -- Flowing -- Perky and then passionate.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">134</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Allanbrook, Douglas.
+			 </persname> 
+		    <title type="uniform">Night pieces</title> 
+		    <title type="transcribed">Five night pieces : for piano</title> 
+		    <unitdate type="inclusive">198-?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (38 pages) ; 28 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Night pieces</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>For piano.</p> 
+		  <p>Cover title.</p> 
+		  <p>Reproduction of copyist's manuscript</p> 
+		  <p>Contents: Night garden -- Night sky -- Night alarms -- Night
+		    birds -- Night patrol.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">135</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Bernstein, Leonard,
+			 1918-1990</persname> 
+		    <title type="uniform">Anniversaries. Selections</title> 
+		    <title type="transcribed">16 [i.e. 18] anniversaries</title> 
+		    <unitdate type="inclusive">1989?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (38 unnumbered pages) ; 28 cm</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Alternate title: Anniversaries</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Caption title.</p> 
+		  <p>Compiled by Leo Smit.</p> 
+		  <p>Marked for performance by Leo Smit.</p> 
+		  <p>Includes three copies of "For Leo Smit": 2 photocopies of the
+		    composer's holograph score and 1 photocopy of the score as published by Jalni
+		    Publications, 1989. This latter score bears an inscription from the composer to
+		    Leo Smit.</p> 
+		  <p>Included: 2 photocopies of an inscription from the composer to
+		    Leo Smit and 1 photocopy of a handwritten note from Bernstein to Smit.</p> 
+		  <p>Contents: For Aaron Copland -- For Johnny Mehegan -- For Lukas
+		    Foss -- For David Diamond -- For William Schuman -- For Paul Bowles -- In
+		    memoriam: Alfred Eisner -- For my sister, Shirley -- In memoriam: Nathalie
+		    Koussevitzky -- For Elizabeth B. Ehrman -- For Felicia Montealegre -- For
+		    Sergei Koussevitzky -- For Helen Coates -- For Elizabeth Rudolf -- For Sandy
+		    Gellhorn -- For Susanna Kyle -- For Leo Smit -- For my daughter, Nina.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">136</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf"> Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform">Tender land. Promise of living. Vocal score
+			 </title> 
+		    <title type="transcribed"> The promise of living : quintet from
+			 &quot;The tender land,&quot; : arranged for mixed chorus with piano duet
+			 accompaniment </title> <imprint> 
+		    <geogname>[New York]</geogname> : 
+		    <publisher> Boosey &amp; Hawkes</publisher>, 
+		    <date type="publication">1954  </date> </imprint> </unittitle> 
+		  <physdesc> <extent>1 vocal score (19 pages) ; 27 cm</extent>
+		    </physdesc> 
+		</did> 
+		<note> 
+		  <p>Bears inscription from the composer to Leo Smit </p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">136a</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform"> Tender land. Vocal score </title> 
+		    <title type="transcribed">The tender land: opera in three acts
+			 </title> <imprint> 
+		    <geogname>[New York]</geogname> : 
+		    <publisher> Boosey &amp; Hawkes</publisher>, 
+		    <date type="publication">1956</date></imprint> </unittitle> 
+		  <physdesc> <extent>1 vocal score (203 pages) ; 31 cm</extent>
+		    </physdesc> 
+		</did> 
+		<note> 
+		  <p>Title page bears inscription from Aaron Copland to Leo Smit,
+		    April 1956</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">137</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf"> Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform"> Sonatas, violin, piano </title> 
+		    <title type="transcribed"> Sonata for violin and piano</title>
+		    <imprint> 
+		    <geogname>London</geogname> : 
+		    <publisher>Boosey &amp; Hawkes</publisher>, 
+		    <date type="publication">1944 </date> </imprint> </unittitle> 
+		  <physdesc> <extent>1 score (33 pages) and 1 part ; 30 cm</extent>
+		    </physdesc> 
+		</did> 
+		<note> 
+		  <p>Inscription from the composer to Leo Smit (1981) on t.p. </p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">138</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf"> Del Tredici,
+			 David</persname> 
+		    <title type="uniform"> Scherzo, piano, 4 hands </title> 
+		    <title type="transcribed"> Scherzo for piano, four hands</title>
+		    <imprint> 
+		    <geogname>[United States]</geogname> : 
+		    <publisher>Boosey and Hawkes</publisher>, 
+		    <date type="publication">1975  </date> </imprint> </unittitle> 
+		  <physdesc> <extent>1 score (15 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p>Bears inscription from the composer to Leo Smit </p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">139</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf"> Kolb,
+			 Barbara</persname> 
+		    <title type="transcribed"> Appello : for piano </title> <imprint>
+		    
+		    <geogname>[New York]</geogname> : 
+		    <publisher>Boosey &amp; Hawkes</publisher>, 
+		    <date type="publication">[1978]  </date> </imprint> </unittitle> 
+		  <physdesc> <extent>1 score (17 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p> Bears inscription from the composer to Leo Smit </p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">140 </container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Krenek, Ernst,
+			 1900-1991</persname>      
+		    <title render="italic">Echoes from Austria, for piano</title>
+		    <imprint> 
+		    <geogname>New York</geogname> : 
+		    <publisher>Rongwen Music</publisher>, 
+		    <date type="publication">[1959]  </date> </imprint> </unittitle> 
+		  <physdesc> <extent>1 score (12 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<note> 
+		  <p> Bears inscription from the composer to Leo Smit </p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">141</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Kubik, Gail,
+			 1914-1984</persname> 
+		    <title type="uniform">Heure des adieux</title> 
+		    <title type="transcribed">L'heure des adieux, ou Mieux,
+			 d'au-revoir</title> 
+		    <unitdate type="inclusive">1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (2 leaves) ; 35 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Heure des adieux</p> 
+		    <p>Alternate title: Mieux, d'au-revoir</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>For piano.</p> 
+		  <p>Caption title.</p> 
+		  <p>"To the memory of Pope John XXIII."</p> 
+		  <p>"12 Juin, 1963, Paris"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">142</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Shapero, Harold,
+			 1920-2013</persname> 
+		    <title type="uniform">Happy birthday Mister La Sol</title> 
+		    <title type="transcribed">Happy birthday Mr. La Sol : to Leo
+			 Smit</title> 
+		    <unitdate type="inclusive">1987</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (3 leaves) ; 28 cm</extent> </physdesc> 
+		  <note> 
+		    <p>Alternate title: Happy birthday Mister La Sol</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>For piano.</p> 
+		  <p>Title from inscription in caption.</p> 
+		  <p>Includes 4 photocopies of holograph of score dated December 15,
+		    1987 at end of score.</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series5">V</unitid> 
+		<unittitle>Scores autographed by Leo Smit, 
+		  <unitdate type="inclusive" normal="1949" datechar="creation">1949
+		    </unitdate> </unittitle> 
+		<physdesc> <extent>Item 143 </extent> </physdesc> 
+	   </did> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">143</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Vivaldi, Antonio,
+			 1678-1741</persname> 
+		    <title type="uniform"> Concertos. Selections</title> 
+		    <title type="transcribed"> Quattro concerti : autografi della
+			 Sächsische Landesbibliothek di Dresda</title> <imprint> 
+		    <geogname>Siena</geogname> : 
+		    <publisher>Accademia musicale chigiana</publisher>, 
+		    <date type="publication">1949</date></imprint> </unittitle> 
+		  <physdesc> <extent>1 score (Facsims. of holographs)</extent>
+		    </physdesc> 
+		</did> 
+		<note> 
+		  <p>Bears inscription by Leo Smit</p> 
+		</note> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series6">VI</unitid> 
+		<unittitle>Additional scores received with the collection, 
+		  <unitdate type="inclusive" normal="1938/1991"
+		   datechar="creation">1938-1991 </unitdate> </unittitle> 
+		<physdesc> <extent>Item 144-147</extent> </physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged alphabetically by composer name</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">12</container> 
+		  <container type="item">144</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Bernstein, Leonard,
+			 1918-1990</persname> 
+		    <title type="uniform">Songs. Selections</title> 
+		    <title type="transcribed">Lenny memorial :5.29.91, Los
+			 Angeles</title> 
+		    <unitdate type="inclusive">1991</unitdate> </unittitle> 
+		  <physdesc> <extent>1 folder ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>For voice and piano.</p> 
+		  <p>Contents: I hate music. I: My mother says that babies come in
+		    bottles ; II: Jupiter has seven moons -- III: I hate music -- Silhouette --
+		    Piccola serenata -- Somewhere -- I am easily assimilated : from Candide -- I
+		    feel pretty -- Tonight -- What a terrible movie : [from Trouble in Tahiti] --
+		    Make our garden grow : from Candide.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">13</container> 
+		  <container type="item">145</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform">Billy the Kid. Selections; arranged</title>
+		    
+		    <title type="transcribed">Billy the Kid</title> 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>2 manuscript scores (63 pages) ; 38 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Excerpts from ballet originally for orchestra, arr. for 2
+		    pianos.</p> 
+		  <p>Caption title.</p> 
+		  <p>Duration: circa 34:00.</p> 
+		  <p>Score marked with orchestration.</p> 
+		  <p>Both scores marked by Leo Smit for performance.</p> 
+		  <p>At end: Finis July-Sept. 1938 Paris, New York, Peterboro,
+		    N.H.</p> 
+		  <p>Contents: Introduction. The open prairie -- Scene Ia. Street in
+		    a frontier town -- Billy's variation -- Scene IIa. The card game -- Scene IIb.
+		    The battle -- Scene IIc. Macabre dance -- Scene IId. Billy in prison -- Scene
+		    IIIc. Capture and death of Billy -- Scene IIId. Pieta -- Coda.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">13</container> 
+		  <container type="item">146</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Porter, Cole,
+			 1891-1964</persname> 
+		    <title type="uniform">Songs. Selections</title> 
+		    <title type="transcribed">Ten songs</title> 
+		    <unitdate type="inclusive">1974</unitdate> </unittitle> 
+		  <physdesc> <extent>10 scores ; 28-36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Accompanied by typescript (1 leaf) list of Porter songs,
+		    captioned "Manuscripts, ozilids given to Mr. Leo Smith [sic], May 17,
+		    1974."</p> 
+		  <p>Contents: You don't remind me -- Pick me up and lay me down --
+		    What a fair things is a woman -- The perfume of love -- Why should I trust you?
+		    -- The ragtime pipes of Pan -- Slow sinks the sun -- We're on the road to
+		    Athens -- Midsummer night -- Mysteriously.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">13</container> 
+		  <container type="item">147</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Raksin, David.
+			 </persname> 
+		    <title type="uniform">Songs. Selections</title> 
+		    <title type="transcribed">Sixteen songs</title> 
+		    <unitdate type="inclusive">1989</unitdate> </unittitle> 
+		  <physdesc> <extent>16 scores ; 28-37 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Date from postage on envelope.</p> 
+		  <p>Contents: The bad and the beautiful : theme of the M-G-M film /
+		    words by Dory Langdon -- How shall we begin? : from the Paramount picture Too
+		    late blues : publication version / lyric by Jay Livingston, Ray Evans -- I wish
+		    : from If the shoe fits, musical / words by June Carroll -- If you remember me
+		    / words, Ben Perry -- Lonely rider : from the Paramount picture Will Penny /
+		    words by Robert Wells -- Love has many faces / lyric by Mack David -- Mirror,
+		    mirror, mirror : theme from A Big hand for the little lady / lyric by Johnny
+		    Mercer -- My business man : [from] If the shoe fits / words by June Carroll --
+		    Slowly : from the 20th Century Fox production Fallen angel / lyric by Kermit
+		    Goell -- Some days seem so beautiful : from the film Glass houses / lyric,
+		    Arthur Hamilton -- Sometimes I wonder what I'm doing here -- Sylvia : as sung
+		    by Paul Anka in the Paramount picture Sylvia / words by Paul Francis Webster --
+		    Tell me that you love me -- That's loneliness : theme of the Paramount film Too
+		    late blues : original title as used in film: A song after sundown / lyric by
+		    Jay Livingston, Ray Evans.</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series7">VII</unitid> 
+		<unittitle>Additional scores received after original processing was
+		  completed, 
+		  <unitdate type="inclusive" normal="1900/2016"
+		  datechar="creation">circa 1900-2016</unitdate> </unittitle> 
+		<physdesc> <extent>Item 149-185</extent> </physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>These scores were received as gifts after the original processing
+		  and item cataloging was completed. They consist of scores of Smit's
+		  compositions as well as scores by other composers, either marked by him for
+		  performance or inscribed by the composers to Smit.</p> 
+	   </scopecontent> 
+	   <arrangement> 
+		<p>Arranged in order of receipt, then arranged within batches by
+		  either composer name or by title, with Smit's compositions first. </p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">13</container> 
+		  <container type="item">148</container> 
+		  <unittitle> 
+		    <persname role="composer" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Love is a sickness</title> 
+		    <unitdate> [1947] </unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (Ozalid copy)</extent>
+		    </physdesc> 
+		</did> 
+		<note> 
+		  <p>Gift of Sarah Whittaker Peters (Leo Smit was Sarah's piano
+		    teacher at Sarah Lawrence College in the 1950s). "Dedicated to Art and Sally".
+		    Score faded to extent that it is no longer fully legible.</p> 
+		</note> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">14</container> 
+		  <container type="item">149</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act I. Vocal score</title>
+		    
+		    <title type="transcribed">The alchemy of love : a comic opera in
+			 three acts. Act I / libretto by Fred Hoyle</title> 
+		    <unitdate type="inclusive">1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (a-b, 94 pages) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Score includes several markings: additions and changes to
+		    text.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">14</container> 
+		  <container type="item">150</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Alchemy of love. Act III. Vocal
+			 score</title> 
+		    <title type="transcribed">The alchemy of love, or, The daemon
+			 servant's retribution : a comic opera in three acts. Act III / libretto by Fred
+			 Hoyle ; music by Leo Smit</title> 
+		    <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (pages 173-307) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>At end of score: Oct. 20, 1960, Los Angeles.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">14</container> 
+		  <container type="item">151</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Caedmon. Vocal score</title> 
+		    <title type="transcribed">Caedmon, according to the Venerable
+			 Bede : a cantata for 3 solo voices, male chorus and orchestra : 1952-72 / words
+			 by Anthony Hecht</title> 
+		    <unitdate type="inclusive">1972</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript vocal score (60 pages) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Inscribed by Smit to Menise Smith. </p> 
+		  <p>Text mostly in English; opening chorus in Latin.</p> 
+		  <p>Acc. originally for orchestra.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">14</container> 
+		  <container type="item">152</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Capriccio, string orchestra</title> 
+		    <title type="transcribed">Capriccio for string orchestra</title> 
+		    <unitdate type="inclusive">1958</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (41 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy).</p> 
+		  <p>Composer's typescript note affixed to verso of front cover
+		    page.</p> 
+		  <p>Contains performance markings.</p> 
+		  <p>At end of score: February 27, 1958, West Hollywood.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">14</container> 
+		  <container type="item">153</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Beyond circumference.
+			 After great pain, a formal feeling comes; arr.</title> 
+		    <title type="transcribed">After great pain, a formal feeling
+			 comes</title> 
+		    <unitdate type="inclusive">1990?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (7 leaves) ; 31 x 38
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil)</p> 
+		  <p>Text by Emily Dickinson.</p> 
+		  <p>Originally for voice and piano; accompaniment arranged for
+		    instrumental ensemble.</p> 
+		  <p>Possibly incomplete.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">14</container> 
+		  <container type="item">154</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Childe Emilie. I cried
+			 at pity, not at pain; arr.</title> 
+		    <title type="transcribed">I cried at pity, not at pain</title> 
+		    <unitdate type="inclusive">1990</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (9 leaves) ; 31 x 38
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil)</p> 
+		  <p>Text by Emily Dickinson.</p> 
+		  <p>Originally for voice and piano; accompaniment arranged for
+		    instrumental ensemble.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">155</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Childe Emilie. Let us
+			 play yesterday; arr.</title> 
+		    <title type="transcribed">Let us play yesterday</title> 
+		    <unitdate type="inclusive">1990?</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (13 leaves) ; 31 x 38
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil)</p> 
+		  <p>Text by Emily Dickinson.</p> 
+		  <p>Originally for voice and piano; accompaniment arranged for
+		    instrumental ensemble.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">156</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Childe Emilie. Up
+			 life's hill; arr.</title> 
+		    <title type="transcribed">Up life's hill</title> 
+		    <unitdate type="inclusive">1990</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (1 leaf) ; 31 x 38
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil)</p> 
+		  <p>Text by Emily Dickinson.</p> 
+		  <p>Originally for voice and piano; accompaniment arranged for
+		    instrumental ensemble.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">157</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Ecstatic pilgrimage. Childe Emilie. We
+			 talked as girls do; arr.</title> 
+		    <title type="transcribed">We talked as girls do</title> 
+		    <unitdate type="inclusive">1990</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (6 leaves) ; 31 x 38
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil)</p> 
+		  <p>Text by Emily Dickinson.</p> 
+		  <p>Originally for voice and piano; accompaniment arranged for
+		    instrumental ensemble.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">158</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">If I can stop one heart from
+			 breaking</title> 
+		    <title type="transcribed">If I can stop one heart from breaking /
+			 words by Emily Dickinson</title> 
+		    <unitdate type="inclusive">1993</unitdate> </unittitle> 
+		  <physdesc> <extent>1 leaf of music ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Photocopy of Hymn 292 from 
+		  <title>Singing the living tradition</title>, a Unitarian
+		  hymnal.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">159</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Motets</title> 
+		    <title type="transcribed">Four motets for two flues, voice and
+			 violin</title> 
+		    <unitdate type="inclusive">1955</unitdate> </unittitle> 
+		  <physdesc> <extent>2 manuscript scores (6 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid)</p> 
+		  <p>At end of score: May 1955, N.Y.C.</p> 
+		  <p>Translated from German folk lyrics by Sylvia Wright; one copy
+		    has an alternative translation added in pencil.</p> 
+		  <p>Content: Wake up, my love -- Oh Katharine, dearest -- Venus, you
+		    and your son -- Oh Mother, tell me how to die.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">160</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Quartet, strings</title> 
+		    <title type="transcribed">Quartet for strings (1938/83)</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (54 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy)</p> 
+		  <p>Marked with changes.</p> 
+		  <p>Label on verso of front cover: Commissioned by and dedicated to
+		    the Camenae Quartet.</p> 
+		  <p>At end of score: 12.10.83.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">161</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Sequence</title> 
+		    <title type="transcribed">Sequence : three songs for voice and
+			 piano (1959/65) / poems by Theodore Roethke</title> 
+		    <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (9, 5, 9 pages) ; 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ozalid copy)</p> 
+		  <p>Contents: In a dark time -- In evening air -- Sequel.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">162</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Sequence. In a dark time; arr.</title> 
+		    <title type="transcribed">Sequence. I. In a dark time</title> 
+		    <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (13 pages) ; 25 x 36
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil)</p> 
+		  <p> Text by Theodore Roethke not entered on score.</p> 
+		  <p>Originally for voice and piano; accompaniment arranged for
+		    instrumental ensemble: flute, clarinet, horn, trumpet; trombone, harp, violin,
+		    violoncello.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">163</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Symphony of dances and songs for
+			 orchestra</title> 
+		    <unitdate type="inclusive">1981</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (149 pages) ; 36 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Marked for performance.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">164</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Thinngs all over</title> 
+		    <title type="transcribed">Thinngs all over : for soprano and
+			 piano</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (5 pages) ; 36 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>Text by Carla Rodman.</p> 
+		  <p>Inscribed by Smit to Jan DeGaetani.</p> 
+		  <p>Marked with changes, including the ending.</p> 
+		  <p>"Nov. 4, 1983"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">165</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Thinngs all over; arr.</title> 
+		    <title type="transcribed">Thinngs all over : for voice, oboe and
+			 piano</title> 
+		    <unitdate type="inclusive">1983</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (5 pages) ; 35 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Photocopy).</p> 
+		  <p>"Nov. 4, 1983"--Colophon.</p> 
+		  <p>Inscribed by Smit to "Jan and Phil".</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">15</container> 
+		  <container type="item">166</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="uniform">Virginia sampler; arr.</title> 
+		    <title type="transcribed">Virginia sampler : a ballet arranged
+			 for two pianos by the composer </title> 
+		    <unitdate type="inclusive">1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (40 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Ozalid copy).</p> 
+		  <p>"March 10, 1959, Los Angeles"--Colophon.</p> 
+		  <p>"Rental Library, Carl Fischer, Inc."--Label on cover.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">16</container> 
+		  <container type="item">167</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Smit, Leo,
+			 1921-1999</persname> 
+		    <title type="transcribed">Yerma : a ballet from the play by
+			 Garcia Lorca</title> 
+		    <unitdate type="inclusive">1946</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (38 pages) ; 38 cm + 3 parts ; 32
+		    cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Score: Holograph (Ozalid copy).</p> 
+		  <p>Parts for bassoon, flute, trumpet(B♭), all marked for
+		    performance.</p> 
+		  <p>"June 12, 1946, New York City, Leo Smit"--Colophon.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">16</container> 
+		  <container type="item">168</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform">Second hurricane. Selections; arr.</title> 
+		    <title type="transcribed">Piano partita from The Second
+			 hurricane, arranged for piano solo by Leo Smit</title> 
+		    <unitdate type="inclusive">1968</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (13 pages) ; 35 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Pencil)</p> 
+		  <p>Duration: 12 min.</p> 
+		  <p>At end of score: 6/18/68, Los Angeles</p> 
+		  <p>Contents: Overture -- Gyp's song -- Two willow hill --
+		    Introduction and Jeff's song -- Fat's song -- Finale.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">16</container> 
+		  <container type="item">169</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Schumann, Robert,
+			 1810-1856</persname> 
+		    <title type="uniform">Romances, oboe, piano, op. 94;
+			 arranged</title> 
+		    <title type="transcribed">Three romances, op. 94 : for solo oboe
+			 and chamber orchestra / arranged by Leo Smit</title> 
+		    <unitdate type="inclusive">2016</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (62 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Originally for oboe (or violin) and piano; accompaniment
+		    arranged for chamber orchestra by Leo Smit.</p> 
+		  <p>Score prepared from the manuscript for premiere performance by
+		    Dr. Robert Howe, May 21, 2017.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">16</container> 
+		  <container type="item">170</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Schumann, Robert,
+			 1810-1856</persname> 
+		    <title type="uniform">Romances, oboe, piano, op. 94;
+			 arranged</title> 
+		    <title type="transcribed">Three romances, op. 94 / arr. Leo
+			 Smit</title> 
+		    <unitdate type="inclusive">2016</unitdate> </unittitle> 
+		  <physdesc> <extent>31 parts ; 31 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Originally for oboe (or violin) and piano; accompaniment
+		    arranged for chamber orchestra by Leo Smit.</p> 
+		  <p>Complete set of bound parts, including multiple string parts,
+		    prepared from the manuscript for premiere performance by Dr. Robert Howe, May
+		    21, 2017.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">16</container> 
+		  <container type="item">171</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Schumann, Robert,
+			 1810-1856</persname> 
+		    <title type="uniform">Romances, oboe, piano, op. 94;
+			 arranged</title> 
+		    <title type="transcribed">Three romances, op. 94 : for solo oboe
+			 and chamber orchestra / arranged by Leo Smit</title> 
+		    <unitdate type="inclusive">2016</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (62 pages) and 14 parts ; 28 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Originally for oboe (or violin) and piano; accompaniment
+		    arranged for chamber orchestra by Leo Smit.</p> 
+		  <p>Complete set of unbound score and parts, prepared from the
+		    manuscript for premiere performance by Dr. Robert Howe, May 21, 2017.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">172</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Stravinsky, Igor,
+			 1882-1971</persname> 
+		    <title type="uniform">Greeting prelude; arranged</title> 
+		    <title type="transcribed">Greeting prelude (1955) / arranged for
+			 solo piano by Leo Smit</title> 
+		    <unitdate type="inclusive">1962</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (2 pages) ; 30 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Holograph (Ink)</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">173</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Bach, Johann
+			 Sebastian</persname> 
+		    <title type="uniform">Wohltemperierte Klavier, 2. T.</title> 
+		    <title type="transcribed">Das wohltemperierte Klavier 2. Teil
+			 (1744)</title><imprint> 
+		    <geogname>Leipzig</geogname>: 
+		    <publisher>Steingräber Verlag</publisher>, </imprint> 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (133 pages) ; 32 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Typescript notes (2 leaves) by Leo Smit inserted.</p> 
+		  <p>Score bears some markings.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">174</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Beethoven, Ludwig van,
+			 1770-1827</persname> 
+		    <title type="uniform">33 variations en forme d'études</title> 
+		    <title type="transcribed">33 variations on a waltz by Diabelli :
+			 for piano solo op. 120</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Edwin F. Kalmus</publisher>, </imprint> 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (32-63 pages) ; 33 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Bears performance markings and notes by Leo Smit on the versos
+		    of both covers. The notes consist of quotations from different texts to be read
+		    during performances of the work.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">175</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Berger, Arthur,
+			 1912-2003</persname> 
+		    <title type="uniform">Partita, piano</title> 
+		    <title type="transcribed">Partita</title> 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 manuscript score (10 pages) ; 36 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Manuscript (Ozalid copy)</p> 
+		  <p>At end of score: N.Y. Oct. 1947</p> 
+		  <p>Inscribed to Leo Smit. </p> 
+		  <p>Contents: Intonazione -- Aria -- Capriccio -- Intermezzo --
+		    Serenade.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">176</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform">Fantasy, piano</title> 
+		    <title type="transcribed">Piano fantasy</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Boosey and Hawkes</publisher>, </imprint> 
+		    <unitdate type="inclusive">1957</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (45 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Marked by Leo Smit for performance.</p> 
+		  <p>Bears inscription from Copland to Leo Smit.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">177</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform">Quartets, piano, strings</title> 
+		    <title type="transcribed">Quartet for piano and
+			 strings</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Boosey and Hawkes</publisher>, </imprint> 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (36 pages) and 3 parts ; 31 cm</extent>
+		    </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Score and parts bear performance markings.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">178</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform">Symphonies, no. 3</title> 
+		    <title type="transcribed">Third symphony</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Boosey and Hawkes</publisher>, </imprint> 
+		    <unitdate type="inclusive">1947</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (155 pages) ; 27 cm</extent> </physdesc>
+		  
+		</did> 
+		<scopecontent> 
+		  <p>Bears inscription from Copland to Leo Smit.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">179</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Copland, Aaron,
+			 1900-1990</persname> 
+		    <title type="uniform">Variations, piano</title> 
+		    <title type="transcribed">Piano variations</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Cos Cob Press, reissued under the auspices of Arrow
+			 Music Press</publisher>, </imprint> 
+		    <unitdate type="inclusive">1932</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (16 pages) ; 28 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Bears inscription from Copland to Leo Smit.</p> 
+		  <p>Marked for performance by Leo Smit.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">180</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Haieff, Alexei,
+			 1914-1994</persname> 
+		    <title type="uniform">Concertos, piano, orchestra, no. 1;
+			 arranged</title> 
+		    <title type="transcribed">Concerto for piano and orchestra :
+			 reduction for two pianos</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Boosey and Hawkes</publisher>, </imprint> 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (65 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Bears inscription from Haieff to Leo Smit.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">17</container> 
+		  <container type="item">181</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Johnson, Pete,
+			 1904-1967</persname> 
+		    <title type="uniform">Piano music. Selections</title> 
+		    <title type="transcribed">5 boogie woogie piano
+			 solos</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Leeds Music</publisher>, </imprint> 
+		    <unitdate type="inclusive">1941</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (24 pages) ; 31 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Bears inscription from Johnson to Leo Smit.</p> 
+		  <p>Contents: Blues on the downbeat -- Cherry red -- Holler stomp --
+		    Kaycee on my mind -- Roll 'em Pete.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">18</container> 
+		  <container type="item">182</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Nabokov, Nicolas,
+			 1903-1978</persname> 
+		    <title type="transcribed">Contrastes et developpements : pour
+			 piano</title><imprint> 
+		    <geogname>Berlin</geogname>: 
+		    <publisher>Edition russe de musique </publisher>, </imprint> 
+		    <unitdate type="inclusive">1938</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (18 pages) ; 33 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Bears inscription from Nabokov to Leo Smit.</p> 
+		  <p>Marked by Leo Smit for performance.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">18</container> 
+		  <container type="item">183</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Raksin, David</persname> 
+		    <title type="uniform">Laura. Laura; arranged</title> 
+		    <title type="transcribed">Laura : theme melody form the 20th
+			 Century-Fox picture "Laura" : a composition for piano</title><imprint> 
+		    <geogname>New York</geogname>: 
+		    <publisher>Robbins Music Corporation</publisher>, </imprint> 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 score (5 pages) ; 32 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Bears inscription from Raksin to Leo Smit.</p> 
+		
+		
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">18</container> 
+		  <container type="item">184</container> 
+		  <unittitle> 
+		    <persname role="creator" source="lcnaf">Stravinsky, Igor,
+			 1882-1971</persname> 
+		    <title type="uniform">Selections</title> 
+		    <title type="transcribed">Bound volume of five compositions by
+			 Igor Stravinsky</title> 
+		    <unitdate type="inclusive">1924-1929</unitdate> </unittitle> 
+		  <physdesc> <extent>1 bound volume ; 33 cm</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Contents: Sonate pour piano (1925) -- Sérénade en la en quatre
+		    mouvements pour piano (1926) -- Concerto pour piano suivi d'orchestre
+		    d'harmonie, réduction pour deux pianos (1924) -- Capriccio pour piano et
+		    orchestre en 3 parties, réduction pour deux pianos à 4 mains (1929) -- Apollon
+		    musagète : ballet en deux tableaux, réduction pour piano à 2 mains(1928).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">18</container> 
+		  <container type="item">185</container> 
+		  <unittitle> 
+		    <persname role="creator">Tchaikovsky, Peter Ilich,
+			 1840-1893</persname> 
+		    <title type="transcribed">Collection of twelve compositions by
+			 Peter Ilich Tchaikovsky and Igor Stravinsky compiled by Leo Smit</title> 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>12 scores</extent> </physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Held together by notebook rings.</p> 
+		  <p>Contents: Wiegenlied in Sturm ; O pain, O pleasure (op. 6 no. 3)
+		    ; Humoresque ; Album leaves, op. 19 no. 3 ; op. 51, no. 4 ; In the village, op.
+		    40 no. 7 ; Winter evening, op. 54 no. 7 ; Serenade, op. 63 no. 6 ; Peasant
+		    plays the accordion, op. 39 no. 12 ; Evening reverie, op. 19 no. 1 ; Scherzo
+		    humoristique, op. 19 no. 2 ; None but the lonely heart, op. 6 no. 6 ; Danse
+		    russe, op. 40 no. 10 / Tchaikovsky -- Danse russe, from Petrushka, for two
+		    pianos ; Divertimento for violin and piano / Igor Stravinsky.</p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Composers--New York
+		(State)--Buffalo</subject> 
+	   <subject source="lcsh"
+	    encodinganalog="650">Music--Manuscripts</subject>
+	   <persname source="lcnaf" encodinganalog="600" role="subject">Smit, Leo,
+		1921-1999</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Scores</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <otherfindaid encodinganalog="555"> 
+	   <head>Additional Guides</head> 
+	   <p>All scores by Leo Smit (Series I) in the collection are cataloged in
+		WorldCat and are available in 
+		<extref href="http://bison.buffalo.edu:8991/F" show="new"
+		 actuate="onrequest" role="text/html">BISON</extref>, the online catalog for the
+		University at Buffalo Libraries, by performing a "Title begins with" search
+		under "Leo Smit Score Collection".</p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_2.xml"
+			  show="new" actuate="onrequest" role="text/html"> Leo Smit Papers, 1939-2000
+			   </archref> Mus. Arc. 6.2 </label> 
+		    <item>A small collection of personal documents, writings by Smit,
+			 correspondence (chiefly photocopies of letters from Aaron Copland to Smit),
+			 clippings, programs, and lecture materials. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0006_3.xml"
+			  show="new" actuate="onrequest" role="text/html"> Leo Smit Photograph
+			   Collection, circa 1926-1999 </archref> Mus. Arc. 6.3 </label> 
+		    <item>A collection of photographs of and by Leo Smit, with
+			 digital images online.</item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://library.buffalo.edu/music/exhibits/smit/"
+			  show="new" actuate="onrequest" role="text/html"> Remembering Leo Smit
+			   (1921-1999)</archref> </label> 
+		    <item>An online exhibit commemorating the life and career of Leo
+			 Smit. It contains many images of Smit as well as photographs taken by him. A
+			 list of Smit's compositions, compiled by the composer, is also included.
+			 </item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	   <relatedmaterial> 
+		<head>Related Resources Outside the Music Library</head> 
+		<list> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://www.nypl.org/research/manuscripts/music/mussmit.xml"
+			 role="text/html" show="new" actuate="onrequest">Guide to the Leo Smit Papers,
+			   1905-1998</archref>JPB 00-42</label> 
+		    <item>Finding aid for the collection at the New York Public
+			 Library for the Performing Arts. Music Division. The Leo Smit collection
+			 contains scores, correspondence, and research materials.</item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead>

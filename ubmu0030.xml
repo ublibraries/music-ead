@@ -1,0 +1,4611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 30::Recordings of June in Buffalo)//EN">ubmu0030</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Recordings of
+		June in Buffalo, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1975/1980">1975-1978, 1980</date></titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">June in Buffalo
+		Recordings </titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	   <sponsor>Preservation and digitization performed by George Blood Audio
+		funded by a grant from the J. Warren and Charles Donald Perry Memorial Fund
+		administered by the Community Foundation of Greater Buffalo.</sponsor> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2011</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, October, 2011.
+	   </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+    <revisiondesc> 
+	 <change> 
+	   <date normal="2012-08-30">August 30, 2012</date> 
+	   <item>The finding aid was updated with the addition of a series for the
+		John Cage lecture recordings.</item> 
+	 </change> 
+    </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Recordings of June in
+	   Buffalo, 
+	   <unitdate encodinganalog="245$f" normal="1975/1980" type="inclusive"
+	    datechar="creation">1975-1978, 1980</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 30</unitid> 
+	 <origination label="Creator"> 
+	   <corpname rules="aacr2" role="creator" encodinganalog="110"
+	    authfilenumber="2649575 ">State University of New York at Buffalo. Music
+		Dept.</corpname> </origination> 
+	 <physdesc label="Extent">
+	   <extent unit="linear foot" encodinganalog="300$a">9 linear feet</extent>
+	   <extent unit="reel" encodinganalog="300$a">(64 reel to reel tapes,</extent>
+	   <extent unit="compact disc" encodinganalog="300$a">179 audio compact
+	   discs</extent>, <extent unit="DVD" encodinganalog="300$a">58 DVDs)</extent>
+	   </physdesc> 
+	 <materialspec label="Material specifications" encodinganalog="255">The
+	   reformatted contents are on two sets of 79 CDs: one is labeled Service Copy,
+	   the other is labeled In-house Master. They contain audio files at 44.1kHz/16bit
+	   resolution. The 58 DVDs are labeled Preservation Master and contain WAV files
+	   at 96kHZ/24bit resolution. The John Cage lecture recordings were reformatted
+	   separately. They were reformatted as CD-R 44.1kHZ 16bit files and are contained
+	   on 3 sets of 7 CDs each: service copy, in-house master, and preservation
+	   master. </materialspec> 
+	 <physloc label="Location" encodinganalog="852$z">The reel to reel tapes
+	   are currently housed in Music Library Storage (B-32). The preservation masters
+	   are located in the Music Library's Treasure Room.</physloc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">
+	   Collection material includes spoken word recordings in
+	   <language encodinganalog="041" langcode="eng">English.</language>
+	   </langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a"> The collection
+	   contains recordings of fifty-one of the fifty-three concerts presented at the
+	   June in Buffalo festival from 1975-1978 and in 1980. Approximately 216 works
+	   were recorded as well as some spoken introductions to works by their respective
+	   composers. The collection also contains recordings of three of the five
+	   lecture-seminars presented by John Cage during June in Buffalo 1975.
+	   </abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Recordings of June in Buffalo, 1975-1978, 1980,
+		Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Additionally, performers' permissions were not acquired at
+		the time of the recordings. Therefore, patrons wishing to publish any item, or
+		part of an item from this collection for any purpose, are responsible for
+		securing requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of State University of New York at Buffalo Music Dept.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <altformavail encodinganalog="530"> 
+	   <head>Alternate Forms</head> 
+	   <p>The original recordings were made on reel-to-reel tapes (all but two
+		are 10 inch reels). The contents were digitized in 2007 onto CDs (service and
+		in-house masters) and DVDs (preservation masters). Preservation wav files that
+		match the original reel faces are named with roots that match the concert
+		numbering, for example preservation files for the first concert are named
+		JIB01_01.wav and JIB01_02.wav. The CD audio files on the Service CDs match the
+		works presented at the concerts. Wav files were created from these files and
+		are named using the work numbers listed in the container list with the addition
+		of the suffix "sc" for service copy. For example, the first concert contains
+		four works represented by files named JIB01_001_sc.wav, JIB01_002_sc.wav,
+		JIB01_003_sc.wav, and JIB01_004_sc.wav. The preservation files and service
+		files were also offloaded from the CDs and DVDs to the Institutional
+		Repository.</p> 
+	 </altformavail> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley, 2006.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>The June in Buffalo festival of contemporary music was established by
+	   Morton Feldman in 1975. Morton Feldman joined the University at Buffalo Music
+	   Faculty in 1972. He was the Slee Professor, 1972-1973, Edgar Varèse Professor,
+	   1975-1987, and the Director of the Center of the Creative and Performing Arts,
+	   1976-1980. Feldman established the June in Buffalo festival in 1975 as a
+	   counterpart to the Center of the Creative and Performing Arts' successful
+	   Evenings for New Music concerts. The new festival was presented 1975-1978, and
+	   again in 1980, with a year off in 1979 when Feldman was on sabbatical. The
+	   festival was revived in 1986 by composer David Felder. </p> 
+	 <p>In addition to presenting concerts, Feldman's festival created a
+	   seminar environment in which student composers attended workshops where
+	   distinguished composers-in-residence rehearsed their works and gave lectures.
+	   Feldman also wanted to create a more intense listening experience by presenting
+	   programs that contained multiple works by a single composer. To that end,
+	   twelve works by John Cage were presented on the three concerts that opened the
+	   first festival in June 1975. Other single-composer programs were devoted to the
+	   works of Christian Wolff, Ralph Shapey, George Crumb, Lejaren Hiller, Nils
+	   Vigeland, Steve Reich, Charles Wuorinen, Henry Brant, Elliott Carter, Stefan
+	   Wolpe, Milton Babbitt, Lou Harrison, Earle Brown, and Aaron Copland. Works by
+	   earlier twentieth-century composers, including Ives, Schoenberg, Satie, Cowell,
+	   Webern, Berg, and Bártók were also presented on June in Buffalo programs. Three
+	   works received their United States premieres and five works received their
+	   world premieres at the festival. All concerts but one were held in what was
+	   then called Baird Hall (now Allen Hall) on what is now the South Campus. The
+	   June 1, 1976 concert was held at the Albright Knox Art Gallery in Buffalo.</p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection contains recordings for 51 of the 53 concerts that were
+	   presented 1975-1980 as part of the June in Buffalo concert series. It contains
+	   approximately 216 works. There are several instances of composers providing
+	   spoken introductions to their own works. The original recordings were made on
+	   reel-to-reel tapes (all but two are 10 inch reels). The contents were digitized
+	   in 2007 onto CDs (service and in-house masters) and DVDs (preservation
+	   masters). </p> 
+	 <p>Please note that this finding aid contains a description of the
+	   recorded concerts. However, the container list also reflects single works that
+	   were not recorded along with the rest of a concert program, such as when tapes
+	   were played of electronic works. Two complete concerts were not recorded:
+	   Concerts 7 and 34. Concert 7 (17 June 1975) consisted of performances of the
+	   two piano sonatas of Charles Ives. Piano sonata 1 was performed by Nils
+	   Vigeland; Piano sonata 2 was performed by Yvar Mikhashoff. Concert 34 (2 June
+	   1978) featured performances by violinist Paul Zukofsky and pianist Ursula
+	   Oppens in John Cage's 
+	 <title render="italic">Cheap imitation</title> (violin alone) and 
+	 <title render="italic">Six melodies</title>, and Morton Feldman's 
+	 <title render="italic">Spring of Chosroes</title>.</p> 
+	 <p>John Cage presented five lecture-seminars during June in Buffalo 1975.
+	   Of these, the collection has recordings of the three seminars presented June 4,
+	   5, and 6. These seminars by visiting composers were an integral part of Morton
+	   Feldman's plan for the festival. The presentations by Cage are of interest
+	   because they are unscripted, spontaneous discussions rather than the prepared
+	   lectures he often presented. His interactions with the students and his
+	   digressions from reviewing their compositions provide glimpses of his
+	   personality and his aesthetics. The June 5 lecture is notable for containing
+	   Cage's dramatic response to a performance of his 
+	 <title render="italic">Song Books</title> by the S.E.M. Ensemble on June
+	 4.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged in two series:</p> 
+	 <list type="simple"> 
+	   <item> 
+		<ref target="series1" actuate="onrequest" show="replace"> I. Concert
+		  recordings</ref> </item> 
+	   <item> 
+		<ref target="series2" actuate="onrequest" show="replace"> II. John
+		  Cage Lectures </ref> </item> 
+	 </list> 
+    </arrangement> 
+    <dsc type="in-depth"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I</unitid> 
+		<unittitle>Concert recordings, 
+		  <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>,
+		  
+		  <unitdate type="inclusive" normal="1980">1980</unitdate>
+		  </unittitle> 
+		<physdesc> <extent>Reel 1-2, 7-68</extent> </physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>The concert recordings are arranged in chronological order by
+		  concert. The descriptions pertain to entire concert programs. Reels 3-6 contain
+		  the John Cage lectures found in Series II.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">1-2</container> 
+		  <unittitle>June in Buffalo Concert 1: Music of John Cage, 
+		    <unitdate type="inclusive" normal="1975-06-02">June 2,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 1-2. Preservation master on DVD 1-2.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB01_001">Work number: JIB01_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Third construction (1941)</title>
+			   </item> 
+			 <item>Performers: John Boudler, Donald Knaack, Jan Williams,
+			   Thomas Walsh, percussion</item> 
+			 <item>Duration: 11:13</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB01_002">Work number: JIB01_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Six melodies for violin and keyboard
+				(1950)</title> </item> 
+			 <item>Performers: Benjamin Hudson, violin; Joseph Kubera,
+			   piano</item> 
+			 <item>Duration: 12:58</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB01_003">Work number: JIB01_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Music for toy piano (1960)</title>
+			   </item> 
+			 <item>Performers: Joseph Kubera, toy piano</item> 
+			 <item>Duration: 9:01</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB01_004">Work number: JIB01_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Book of music (1944)</title> </item> 
+			 <item>Performers: Joseph Kubera, Steve Radecke, prepared
+			   pianos</item> 
+			 <item>Duration: 37:45</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">7-8</container> 
+		  <unittitle>June in Buffalo Concert 2: Music of John Cage, 
+		    <unitdate type="inclusive" normal="1975-06-04">June 4,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 3-4. Preservation master on DVD 3-4.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB02_001">Work number: JIB02_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Atlas eclipticalis (1961-62)</title>
+			   </item> 
+			 <item>Realization by Jan Williams.</item> 
+			 <item>Performers: Eberhard Blum, flute; Benjamin Hudson,
+			   violin; Donald Knaack, John Boudler, Jan Williams, percussion; Ralph Jones,
+			   electronics; Suzy Hawkins, conductor</item> 
+			 <item>Duration: 39:48</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB02_002">Work number: JIB02_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Song books (1970)</title> </item> 
+			 <item>Performers: S.E.M. Ensemble; Petr Kotík, flute, director;
+			   Julius Eastman, voice; Judith Martin, synthesizer; Jan Williams,
+			   percussion</item> 
+			 <item>Duration: 1:03:04</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">9-10</container> 
+		  <unittitle>June in Buffalo Concert 3: Music of John Cage, 
+		    <unitdate type="inclusive" normal="1975-06-06">June 6,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred CD 5-6. Preservation master on DVD 5-6.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>First five works performed simultaneously for a total duration
+		    of 45:06.</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB03_001A">Work number: JIB03_001A</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">45' for a speaker (1954)</title>
+			   </item> 
+			 <item>Performers: Michael Christopher, speaker</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB03_001B">Work number: JIB03_001B</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">27' 10.554 for a percussionist
+				(1956)</title> </item> 
+			 <item>Performers: Jan Williams, percussion</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB03_001C">Work number: JIB03_001C</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">34' 46.776 for a pianist
+				(1954)</title> </item> 
+			 <item>Performers: Joseph Kubera, piano</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB03_001D">Work number: JIB03_001D</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">26' 1.1499 for a string player
+				(1955)</title> </item> 
+			 <item>Performers: Benjamin Hudson, violin</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB03_001E">Work number: JIB03_001E</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Solo for flute (1957)</title> </item> 
+			 <item>Performers: Eberhard Blum, flute</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB03_002">Work number: JIB03_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Etcetera (1972-73)</title> </item> 
+			 <item>Performers: Eberhard Blum, flute; Mary Sue Wells,
+			   violoncello; Benjamin Hudson, violin; James Kasprowicz, trombone; John Boudler,
+			   Donald Knaack, Jan Williams, percussion; Ralph Jones, electronics; Daniel J.
+			   Zelonky, Windsor Viney, Samuel Magrill, Marten Ingle, Suzy Hawkins, Ron
+			   Kuivila, Mary Michels, percussion; Michael Christopher (Quartets), Robert
+			   Brainerd (Duets), Andrew Stiller (Trios), conductors</item> 
+			 <item>Duration: 1:01:20</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">11</container> 
+		  <unittitle>June in Buffalo Concert 4: Music of Christian Wolff,
+		    Earle Brown, Morton Feldman, and John Cage, 
+		    <unitdate type="inclusive" normal="1975-06-11">June 11,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 7. Preservation master on DVD 7.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB04_001">Work number: JIB04_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Snowdrop (1970)</title> </item> 
+			 <item>Performers: Joseph Kubera, piano; Steve Radecke, organ;
+			   Nils Vigeland, harpsichord</item> 
+			 <item>Duration: 9:35</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB04_002">Work number: JIB04_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Corroboree (1963-64)</title> </item> 
+			 <item>Performers: Joseph Kubera, Steve Radecke, Nils Vigeland,
+			   pianos</item> 
+			 <item>Duration: 13:00</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB04_003">Work number: JIB04_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Feldman, Morton,
+				1926-1987</persname> </item> 
+			 <item> 
+			   <title render="italic">Piece for four pianos (1957)</title>
+			   </item> 
+			 <item>Performers: Morton Feldman, Steve Radecke, Joseph Kubera,
+			   Nils Vigeland, pianos</item> 
+			 <item>Duration: 6:00</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB04_004">Work number: JIB04_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Winter music (1957)</title> </item> 
+			 <item>Performers: Mark Brooks, James Calabrese, Tom Constanten,
+			   Peter Gena, Neal Hatch, Benjamin Hudson, Margaret Knaack, Joseph Kubera, Steve
+			   Radecke, Casey Sokol, Yong Sook Won, pianos</item> 
+			 <item>Duration: 30:00</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">12-13</container> 
+		  <unittitle>June in Buffalo Concert 5: Music of Earle Brown, 
+		    <unitdate type="inclusive" normal="1975-06-13">June 13,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel and 1 7-inch reel of audio
+		    tape</extent> </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 8-9. Preservation master on DVD 8-9.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks by Earle Brown (4:55).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB05_001">Work number: JIB05_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Novara (1962)</title> </item> 
+			 <item>Performers: Joseph Kubera, piano; Eberhard Blum, flute;
+			   Ron Byerly, trumpet; Gary Hatt, bass clarinet; Benjamin Hudson, Sue Harbison,
+			   violins; Diane Williams, viola; Mary Sue Wells, violoncello; Marten Ingle,
+			   double bass; Jan Williams, conductor</item> 
+			 <item>Duration: 16:34</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB05_002">Work number: JIB05_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Hodograph (1959)</title> </item> 
+			 <item>Performers: Joseph Kubera, keyboards; Donald Knaack,
+			   percussion; Eberhard Blum, flute</item> 
+			 <item>Duration: 4:38</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB05_003">Work number: JIB05_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Times five (1963)</title> </item> 
+			 <item>Performers: Eberhard Blum, flute; James Kasprowicz,
+			   trombone; Benjamin Hudson, violin; Mary Sue Wells, violoncello; Diana Landes,
+			   harp; Jan Williams, conductor</item> 
+			 <item>Duration: 15:08</item> 
+		    </list> </p> 
+		  <p>Additional spoken comments by Brown (2:25).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB05_004">Work number: JIB05_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">December (1952)</title> </item> 
+			 <item>Performers: Donald Knaack, Joseph Kubera, Eberhard Blum,
+			   penny whistles, kazoos</item> 
+			 <item>Duration: 7:08</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB05_005">Work number: JIB05_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">New piece (1971)</title> </item> 
+			 <item>Performers: Benjamin Hudson, Sue Harbison, violins; Diane
+			   Williams, viola; Mary Sue Wells, violoncello; Marten Ingle, double bass;
+			   Eberhard Blum, flute; Gary Hatt, bass clarinet; William Lynn Johnston,
+			   saxophone; Jonathan Adler, bassoon; Ron Byerly, trumpet; James Kasprowicz,
+			   trombone; Donald Knaack, John Boudler, percussion; Earle Brown,
+			   conductor</item> 
+			 <item>Duration: 7:00</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB05_006">Work number: JIB05_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Syntagm III (1970)</title> </item> 
+			 <item>Performers: Eberhard Blum, flute; Gary Hatt, bass
+			   clarinet; Diana Landes, harp; Benjamin Hudson, violin; Joseph Kubera, piano;
+			   Donald Knaack, percussion; Mary Sue Wells, violoncello; Earle Brown,
+			   conductor</item> 
+			 <item>Duration: 13:58</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">14 </container> 
+		  <unittitle>June in Buffalo Concert 6: Music of Earle Brown, Morton
+		    Feldman, Lejaren Hiller, 
+		    <unitdate type="inclusive" normal="1975-06-16">June 16,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape </extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 10-11. Preservation master on DVD 10-11.</p>
+		    
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB06_001">Work number: JIB06_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Brown, Earle, 1926-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings (1965)</title>
+			   </item> 
+			 <item>Performers: Benjamin Hudson, Carol Zeavin, violins;
+			   Maureen Gallagher, viola; Dana Rusinak, violoncello</item> 
+			 <item>Duration: 8:35</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB06_002">Work number: JIB06_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Feldman, Morton,
+				1926-1987</persname> </item> 
+			 <item> 
+			   <title render="italic">Three pieces for string quartet
+				(1954-55)</title> </item> 
+			 <item>Performers: Benjamin Hudson, Carol Zeavin, violins;
+			   Maureen Gallagher, viola; Dana Rusinak, violoncello</item> 
+			 <item>Duration: 13:39</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB06_003">Work number: JIB06_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 6,
+				(1972)</title> </item> 
+			 <item>Performers: Benjamin Hudson, Carol Zeavin, violins;
+			   Maureen Gallagher, viola; Dana Rusinak, violoncello</item> 
+			 <item>Duration: 23:44</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB06_004">Work number: JIB06_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Three rituals for two
+				percussionists</title> </item> 
+			 <item>Performers: Jan Williams, Donald Knaack, percussion;
+			   Peter Gena, technical assistance</item> 
+			 <item>Included film by Roberta Friedman and Grahame
+			   Weinbren.</item> 
+			 <item>Duration: 36:02</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head>Encore</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Clapping music</title> </item> 
+			 <item>Performers: Jan Williams, Dennis Kahle, hands</item> 
+			 <item>Duration: 2:36</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">15</container> 
+		  <unittitle>June in Buffalo Concert 8: Music of Christian Wolff, 
+		    <unitdate type="inclusive" normal="1975-06-18">June 18,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 12. Preservation master on DVD 12.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Preceded by ambient sound (ca. 3:15) and introductory remarks by
+		    Christian Wolff (7:26).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB08_001">Work number: JIB08_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Changing the system (1972-73)</title>
+			   </item> 
+			 <item>Performers: Jonathan Adler, bassoon; Eberhard Blum, bass
+			   flute, percussion; James Calabrese, assorted percussion, text; Michael
+			   Christopher, assorted percussion, text; George Cisneros, marimba; Kyle Gann,
+			   percussion, text; John Green, percussion, text; Gary Hatt, bass clarinet;
+			   clarinet, percussion; Benjamin Hudson, violin; Marten Ingle, double bass,
+			   percussion; Ralph Jones, text, trumpet; James Kasprowicz, trombone; Donald
+			   Knaack, vibraphone, percussion; Joseph Kubera, piano, percussion; Ron Kuivila,
+			   assorted percussion, text; Sam Magrill, percussion, text; Steve Radecke,
+			   harmonica, percussion; Casey Sokol, piano, percussion; Windsor Viney, assorted
+			   percussion, text; Christian Wolff, flute, percussion</item> 
+			 <item>Duration: 60:22</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">16</container> 
+		  <unittitle>June in Buffalo Concert 9: Music of Christian Wolff, 
+		    <unitdate type="inclusive" normal="1975-06-20">June 20,
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 13. Preservation master on DVD 13.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB09_001">Work number: JIB09_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Exercises and songs (1973-74)</title>
+			   </item> 
+			 <item>Performers: Eberhard Blum, flute; Benjamin Hudson,
+			   violin; Marten Ingle, Donald Knaack, percussion; Joseph Kubera, organ; James
+			   Kasprowicz, trombone; Steve Radecke, piano; Christian Wolff, melodien; Joan
+			   Collopy, voice</item> 
+			 <item>Duration: 62:03</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="reel">17-18</container> 
+		  <unittitle>June in Buffalo Concert 10: Music of Iannis Xenakis, 
+		    <unitdate type="inclusive" normal="1976-06-01">June 1,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 14. Preservation master on DVD 14.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB10_001">Work number: JIB10_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Xenakis, Iannis,
+				1922-2001</persname> </item> 
+			 <item> 
+			   <title render="italic">Persephassa</title> </item> 
+			 <item>Performers: Donald Knaack, John Boudler, David Kayne,
+			   Timothy Leaphart, Robert Mahoney, Will Rogers, percussion; Jan Williams,
+			   conductor</item> 
+			 <item>Duration: 25:18</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB10_002">Work number: JIB10_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Xenakis, Iannis,
+				1922-2001</persname> </item> 
+			 <item> 
+			   <title render="italic">Eonta</title> </item> 
+			 <item>Performers: Joseph Kubera, piano; Charles Gleaves, Gerald
+			   Soffer, Charles Lirette, David Kuehn, trumpets; Lon Gormley, James Kasprowicz,
+			   Donald Miller, trombones; Jan Williams, conductor</item> 
+			 <item>Duration: 20:04</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">19</container> 
+		  <unittitle>June in Buffalo Concert 11: Music of Soegijo, Globokar,
+		    Xenakis, Kagel, 
+		    <unitdate type="inclusive" normal="1975-06-02">June 2,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 15. Preservation master on DVD 15.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB11_001">Work number: JIB11_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Soegijo, Paul Gutama</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Saih I (1970)</title> </item> 
+			 <item>Performers: Eberhard Blum, bass flute</item> 
+			 <item>Duration: 13:26</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB11_002">Work number: JIB11_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Globokar, Vinko, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Discours III (1969)</title> </item> 
+			 <item>Performers: Nora Post, oboes</item> 
+			 <item>Duration: 11:38</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB11_003">Work number: JIB11_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Xenakis, Iannis,
+				1922-2001</persname> </item> 
+			 <item> 
+			   <title render="italic">Psappha</title> </item> 
+			 <item>Performers: Donald Knaack, percussion</item> 
+			 <item>Duration: 16:30</item> 
+			 <item>United States premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB11_004">Work number: JIB11_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Kagel, Mauricio</persname> </item> 
+			 <item> 
+			   <title render="italic">Atem (1970)</title> </item> 
+			 <item>Performers: Eberhard Blum, flute; Jan Williams,
+			   mime</item> 
+			 <item>Duration: 14:37</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">20</container> 
+		  <unittitle>June in Buffalo Concert 12: Music of Xenakis, Feldman,
+		    Hiller, Crumb, 
+		    <unitdate type="inclusive" normal="1975-06-03">June 3,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 16. Preservation master on DVD 16.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB12_001">Work number: JIB12_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Xenakis, Iannis,
+				1922-2001</persname> </item> 
+			 <item> 
+			   <title render="italic">ST/4</title> </item> 
+			 <item>Performers: David Harrington, Richard Balkin, violins;
+			   Aliza Appel, viola; Walter Gray, violoncello</item> 
+			 <item>Duration: 16:59</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB12_002">Work number: JIB12_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Feldman, Morton,
+				1926-1987</persname> </item> 
+			 <item> 
+			   <title render="italic">Structures for string quartet</title>
+			   </item> 
+			 <item>Performers: David Harrington, Richard Balkin, violins;
+			   Aliza Appel, viola; Walter Gray, violoncello</item> 
+			 <item>Duration: 7:22</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB12_003">Work number: JIB12_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Illiac suite</title> </item> 
+			 <item>Performers: David Harrington, Richard Balkin, violins;
+			   Aliza Appel, viola; Walter Gray, violoncello</item> 
+			 <item>Duration: 18:42</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB12_004">Work number: JIB12_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Black angels</title> </item> 
+			 <item>Performers: David Harrington, Richard Balkin, violins;
+			   Aliza Appel, viola; Walter Gray, violoncello</item> 
+			 <item>Duration: 24:58</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">21</container> 
+		  <unittitle>June in Buffalo Concert 13: Music of Morton Feldman, 
+		    <unitdate type="inclusive" normal="1976-06-04">June 4,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 17. Preservation master on DVD 17.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB13_001">Work number: JIB13_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Feldman, Morton,
+				1926-1987</persname> </item> 
+			 <item> 
+			   <title render="italic">Instruments I</title> </item> 
+			 <item>Performers: Eberhard Blum, flute; Nora Post, oboe; James
+			   Kasprowicz, trombone; Joseph Kubera, celeste; Jan Williams, percussion</item> 
+			 <item>Duration: 23:16</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB13_002">Work number: JIB13_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Feldman, Morton,
+				1926-1987</persname> </item> 
+			 <item> 
+			   <title render="italic">Instruments II</title> </item> 
+			 <item>Performers: Eberhard Blum, flute; Nora Post, oboe; Gary
+			   Hatt, clarinet; David Kuehn, trumpet; James Kasprowicz, trombone; Don Harry,
+			   tuba; Suzanne Thomas, harp; Joseph Kubera, piano; Donald Knaack, percussion;
+			   Makoto Michii, double bass; Jan Williams, conductor</item> 
+			 <item>Duration: 20:12</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">22</container> 
+		  <unittitle>June in Buffalo Concert 14: American songs performed by
+		    Winifred Simpson and Yvar Mikhashoff, 
+		    <unitdate type="inclusive" normal="1976-06-07">June 7,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 18. Preservation master on DVD 18.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Presented in the form of a salon entertainment with comments
+		    provided by Winifred Simpson about the music between the songs.</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_001">Work number: JIB14_001</head> 
+			 <item> 
+			   <persname source="lcnaf">MacDowell, Edward,
+				1860-1908</persname> </item> 
+			 <item> 
+			   <title render="italic">To a water lily</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, piano</item> 
+			 <item>Duration: 2:36</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:52).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_002">Work number: JIB14_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Beach, H. H. A., Mrs.,
+				1867-1944</persname> </item> 
+			 <item> 
+			   <title render="italic">Year's at the spring</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 1:02</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:47).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_003">Work number: JIB14_003</head> 
+			 <item> 
+			   <persname source="lcnaf">MacDowell, Edward,
+				1860-1908</persname> </item> 
+			 <item> 
+			   <title render="italic">Merry maiden spring</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 1:18</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:54).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_004">Work number: JIB14_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Cadman, Charles Wakefield,
+				1881-1946</persname> </item> 
+			 <item> 
+			   <title render="italic">From the land of sky-blue
+				water</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 2:16</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:38).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_005">Work number: JIB14_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Chadwick, George Whitefield,
+				1854-1931</persname> </item> 
+			 <item> 
+			   <title render="italic">Nocturne</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 1:37</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (2:19).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_006">Work number: JIB14_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Gottschalk, Louis Moreau,
+				1829-1869</persname> </item> 
+			 <item> 
+			   <title render="italic">Last hope</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, piano</item> 
+			 <item>Duration: 4:25</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (1:01).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_007">Work number: JIB14_007</head> 
+			 <item> 
+			   <persname source="lcnaf">Work, Henry C. (Henry Clay),
+				1832-1884</persname> </item> 
+			 <item> 
+			   <title render="italic">Father, dear father, come home with me
+				now (Come home, father)</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 4:46</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:33).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_008">Work number: JIB14_008</head> 
+			 <item> 
+			   <persname source="lcnaf">Von Tilzer, Harry,
+				1872-1946</persname> </item> 
+			 <item> 
+			   <title render="italic">Bird in a gilded cage</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 4:01</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:17).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_009">Work number: JIB14_009</head> 
+			 <item> 
+			   <persname source="lcnaf">Romberg, Sigmund,
+				1887-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Will you remember</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 2:05</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (1:32).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_010">Work number: JIB14_010</head> 
+			 <item> 
+			   <persname source="lcnaf">Edwards, Gus, 1879-1945</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Pan, Pan, Pan</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 1:15</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:50).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_011">Work number: JIB14_011</head> 
+			 <item> 
+			   <persname source="lcnaf">Loomis, Harvey Worthington,
+				1865-1930</persname> </item> 
+			 <item> 
+			   <title render="italic">Violet fan</title> </item> 
+			 <item>Performers: Winifred Simpson, reciter; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 6:18</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:45).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_012">Work number: JIB14_012</head> 
+			 <item> 
+			   <persname source="lcnaf">Edwards, Gus, 1879-1945</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">I'm after Madame Tetrazzini's
+				job</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 2:57</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (1:23).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_013">Work number: JIB14_013</head> 
+			 <item> 
+			   <persname source="lcnaf">Stromberg, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Come down ma evenin' star</title>
+			   </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 2:48</item> 
+		    </list> </p> 
+		  <p>Applause and introductory remarks (0:32).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_014">Work number: JIB14_014</head> 
+			 <item> 
+			   <persname source="lcnaf">Herbert, Victor,
+				1859-1924</persname> </item> 
+			 <item> 
+			   <title render="italic">Italian street song</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 1:43</item> 
+		    </list> </p> 
+		  <p>Applause (0:22).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB14_015">Work number: JIB14_015</head> 
+			 <item> 
+			   <persname source="lcnaf">Harris, Chas. (Charles Kassell),
+				1867-1930</persname> </item> 
+			 <item> 
+			   <title render="italic">After the ball</title> </item> 
+			 <item>Performers: Winifred Simpson, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 2:22</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">23</container> 
+		  <unittitle>June in Buffalo Concert 15: Music of Charles Ives, 
+		    <unitdate type="inclusive" normal="1976-06-08">June 8,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape </extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 19-20. Preservation master on DVD 19.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB15_001">Work number: JIB15_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Ives, Charles, 1874-1954</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, violin, piano, no. 1</title>
+			   </item> 
+			 <item>Performers: Paul Zukofsky, violin; Gilbert Kalish,
+			   piano</item> 
+			 <item>Duration: 28:47</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB15_002">Work number: JIB15_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Ives, Charles, 1874-1954</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, violin, piano, no. 2</title>
+			   </item> 
+			 <item>Performers: Paul Zukofsky, violin; Gilbert Kalish,
+			   piano</item> 
+			 <item>Duration: 15:52</item> 
+		    </list> </p> 
+		  <p>Announcement about the order of movements in next work
+		    (0:21)</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB15_003">Work number: JIB15_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Ives, Charles, 1874-1954</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, violin, piano, no. 3</title>
+			   </item> 
+			 <item>Performers: Paul Zukofsky, violin; Gilbert Kalish,
+			   piano</item> 
+			 <item>Duration: 36:07</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB15_004">Work number: JIB15_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Ives, Charles, 1874-1954</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, violin, piano, no. 4</title>
+			   </item> 
+			 <item>Performers: Paul Zukofsky, violin; Gilbert Kalish,
+			   piano</item> 
+			 <item>Duration: 12:23</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB15_005">Work number: JIB15_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Ives, Charles, 1874-1954</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Largo</title> </item> 
+			 <item>Performers: Paul Zukofsky, violin; Gilbert Kalish,
+			   piano</item> 
+			 <item>Duration: 6:48</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">24</container> 
+		  <unittitle>June in Buffalo Concert 16: Music of Lejaren Hiller, 
+		    <unitdate type="inclusive" normal="1976-06-09">June 9,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 21. Preservation master on DVD 20.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB16_001">Work number: JIB16_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Algorithms II, version 3
+				(1972)</title> </item> 
+			 <item>Performers: Jay Hersher, flute; Gary Hatt, clarinet;
+			   Andrew Stiller, bassoon; Suzanne Thomas, harp; Donald Knaack, John Boudler,
+			   percussion; Linda Cummiskey, violin; Don Reinfeld, violoncello; Makoto Michii,
+			   double bass; Jan Williams, conductor</item> 
+			 <item>Duration: 4:56</item> 
+			 <item>Premiere performance</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB16_002">Work number: JIB16_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Algorithms I, version 2 (1968)</title>
+			   </item> 
+			 <item>Performers: Jay Hersher, flute; Gary Hatt, clarinet;
+			   Andrew Stiller, bassoon; Suzanne Thomas, harp; Donald Knaack, John Boudler,
+			   percussion; Linda Cummiskey, violin; Don Reinfeld, violoncello; Makoto Michii,
+			   double bass; Jan Williams, conductor</item> 
+			 <item>Duration: 6:01</item> 
+			 <item>Buffalo premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB16_003">Work number: JIB16_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Algorithms II [or III?], version 4
+				(1972)</title> on two tracks </item> 
+			 <item>Performers: Jay Hersher, flute; Gary Hatt, clarinet;
+			   Andrew Stiller, bassoon; Suzanne Thomas, harp; Donald Knaack, John Boudler,
+			   percussion; Linda Cummiskey, violin; Don Reinfeld, violoncello; Makoto Michii,
+			   double bass; Jan Williams, conductor</item> 
+			 <item>Duration: 10:24</item> 
+			 <item>Premiere performance</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB16_004">Work number: JIB16_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Malta for tuba and tape (1975)</title>
+			   </item> 
+			 <item>Performers: Don Harry, tuba</item> 
+			 <item>Duration: 22:55</item> 
+			 <item>Tape realized by the composer</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB16_005">Work number: JIB16_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Portfolio for diverse performers and
+				tape (1974)</title> </item> 
+			 <item>Performers: Jay Hersher, flute; Donald Knaack, Jan
+			   Williams, percussion; Nora Post, oboe; Linda Cummiskey, violin; Gary Hatt,
+			   clarinet; James Kasprowicz, trombone; Andrew Stiller, bassoon; Joseph Kubera,
+			   piano; Ned Sublette, guitar; Walter Gajewski, electronics</item> 
+			 <item>Duration: 22:27</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">25</container> 
+		  <unittitle>June in Buffalo Concert 17: Music of Schoenberg, Webern,
+		    Boulez, 
+		    <unitdate type="inclusive" normal="1976-06-10">June 10,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 22. Preservation master on DVD 21.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB17_001">Work number: JIB17_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Drei Klavierstücke, op. 11
+				(1909)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 14:15</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB17_002">Work number: JIB17_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Webern, Anton, 1883-1945</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Variationen fur Klavier, op. 27
+				(1936)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 5:29</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB17_003">Work number: JIB17_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Boulez, Pierre, 1925-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, piano, no. 3</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, piano</item> 
+			 <item>Duration: 12:49</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB17_004">Work number: JIB17_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Boulez, Pierre, 1925-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, piano, no. 2</title> </item> 
+			 <item>Performers: Joseph Kubera, piano</item> 
+			 <item>Duration: 34:52</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">26</container> 
+		  <unittitle>June in Buffalo Concert 18: Music of Steve Reich, 
+		    <unitdate type="inclusive" normal="1976-06-11">June 11,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 23. Preservation master on DVD 22.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB18_001">Work number: JIB18_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Clapping music (1972)</title> </item> 
+			 <item>Performers: Donald Knaack, Steve Reich, hands</item> 
+			 <item>Duration: 5:27</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB18_002">Work number: JIB18_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Piano phase (1967)</title> </item> 
+			 <item>Performers: John Newell, Steve Reich, pianos</item> 
+			 <item>Duration: 14:44</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB18_003">Work number: JIB18_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Drumming (1971). Part 3</title>
+			   </item> 
+			 <item>Performers: John Boudler, Steve Reich, Tom Walsh, Jan
+			   Williams, glockenspiels; Jay Hersher, piccolo</item> 
+			 <item>Duration: 9:44</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB18_004">Work number: JIB18_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Music for pieces of wood
+				(1973)</title> </item> 
+			 <item>Performers: John Boudler, Donald Knaack, Steve Reich, Tom
+			   Walsh, Jan Williams, tuned claves</item> 
+			 <item>Duration: 11:52</item> 
+		    </list> </p> 
+		  <p>Concert concluded with audio tape played of Steve Reich's 
+		  <title render="italic">Music for 18 Musicians</title>, which was
+		  not recorded.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">27</container> 
+		  <unittitle>June in Buffalo Concert 19: Music of George Crumb, 
+		    <unitdate type="inclusive" normal="1976-06-14">June 14,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> 1 10-inch reel of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 24-25. Preservation master on DVD 23.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB19_001">Work number: JIB19_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Makrokosmos (volume I)</title> </item>
+			 
+			 <item>Performers: Yvar Mikhashoff, amplified piano</item> 
+			 <item>Duration: 38:23</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB19_002">Work number: JIB19_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Makrokosmos (volume II)</title>
+			   </item> 
+			 <item>Performers: Yvar Mikhashoff, amplified piano</item> 
+			 <item>Duration: 39:14</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">28</container> 
+		  <unittitle>June in Buffalo Concert 20: Music of Erik Satie, 
+		    <unitdate type="inclusive" normal="1976-06-16">June 16,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 26. Preservation master on DVD 24.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB20_001">Work number: JIB20_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Satie, Erik, 1866-1925</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Trois morceaux en forme de poire
+				(1903)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, Nils Vigeland, pianos</item>
+			 
+			 <item>Duration: 15:18</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB20_002">Work number: JIB20_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Satie, Erik, 1866-1925</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Habit de cheval (1911)</title> </item>
+			 
+			 <item>Performers: Yvar Mikhashoff, Nils Vigeland, pianos</item>
+			 
+			 <item>Duration: 6:25</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB20_003">Work number: JIB20_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Satie, Erik, 1866-1925</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Trois nocturnes (1919)</title> </item>
+			 
+			 <item>Performers: Nils Vigeland, piano</item> 
+			 <item>Duration: 7:53</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB20_004">Work number: JIB20_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Satie, Erik, 1866-1925</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Socrate (1918)</title> </item> 
+			 <item>Performers: Martha Hanneman, soprano; Nils Vigeland,
+			   piano</item> 
+			 <item>Duration: 30:35</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">29</container> 
+		  <unittitle>June in Buffalo Concert 21: Music of George Crumb, 
+		    <unitdate type="inclusive" normal="1976-06-18">June 18,
+			 1976</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 27-28. Preservation master on DVD 25.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB21_001">Work number: JIB21_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Madrigals, book I</title> </item> 
+			 <item>Performers: Martha Hanneman, soprano; Donald Knaack, Jan
+			   Williams, percussion; Makoto Michii, double bass</item> 
+			 <item>Duration: 10:39</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB21_002">Work number: JIB21_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Madrigals, book II</title> </item> 
+			 <item>Performers: Martha Hanneman, soprano; Eberhard Blum,
+			   flute; Donald Knaack, Jan Williams, percussion</item> 
+			 <item>Duration: 7:35</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB21_003">Work number: JIB21_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Madrigals, book III</title> </item> 
+			 <item>Performers: Martha Hanneman, soprano; Suzanne Thomas,
+			   harp; Donald Knaack, Jan Williams, percussion</item> 
+			 <item>Duration: 8:46</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB21_004">Work number: JIB21_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Madrigals, book IV</title> </item> 
+			 <item>Performers: Martha Hanneman, soprano; Suzanne Thomas,
+			   harp; Eberhard Blum, flute; Donald Knaack, Jan Williams, percussion; Makoto
+			   Michii, double bass</item> 
+			 <item>Duration: 11:57</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB21_005">Work number: JIB21_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Music for a summer evening
+				(Makrokosmos III, 1974)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, John Newell, pianos ; John
+			   Boudler, Lynn Harbold, percussion</item> 
+			 <item>Duration: 41:43</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">30</container> 
+		  <unittitle>June in Buffalo Concert 22: Piano Music of Aaron
+		    Copland, 
+		    <unitdate type="inclusive" normal="1977-06-01">June 1,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 29-30. Preservation master on DVD 26.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB22_001">Work number: JIB22_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Copland, Aaron, 1900-1990</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Passacaglia (1922)</title> </item> 
+			 <item>Performers: Leo Smit, piano</item> 
+			 <item>Duration: 6:31</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB22_002">Work number: JIB22_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Copland, Aaron, 1900-1990</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Piano variations (1930)</title>
+			   </item> 
+			 <item>Performers: Leo Smit, piano</item> 
+			 <item>Duration: 11:37</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB22_003">Work number: JIB22_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Copland, Aaron, 1900-1990</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, piano, 1939-41</title> </item>
+			 
+			 <item>Performers: Leo Smit, piano</item> 
+			 <item>Duration: 22:42</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB22_004">Work number: JIB22_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Copland, Aaron, 1900-1990</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Scherzo humoristique, The cat and the
+				mouse (1920)</title> </item> 
+			 <item>Performers: Leo Smit, piano</item> 
+			 <item>Duration: 3:26</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB22_005">Work number: JIB22_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Copland, Aaron, 1900-1990</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Four piano blues (1926-48)</title>
+			   </item> 
+			 <item>Performers: Leo Smit, piano</item> 
+			 <item>Duration: 7:52</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB22_006">Work number: JIB22_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Copland, Aaron, 1900-1990</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Night thoughts (1972)</title> </item> 
+			 <item>Performers: Leo Smit, piano</item> 
+			 <item>Duration: 7:33</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB22_007">Work number: JIB22_007</head> 
+			 <item> 
+			   <persname source="lcnaf">Copland, Aaron, 1900-1990</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Piano fantasy (1955-57)</title>
+			   </item> 
+			 <item>Performers: Leo Smit, piano</item> 
+			 <item>Duration: 31:34</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">31</container> 
+		  <unittitle>June in Buffalo Concert 23: Music of Farwell, Loeffler,
+		    Griffes, Beach, 
+		    <unitdate type="inclusive" normal="1977-06-02">June 2,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 31. Preservation master on DVD 27.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB23_001">Work number: JIB23_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Farwell, Arthur George,
+				1872-1952</persname> </item> 
+			 <item> 
+			   <title render="italic">To Morfydd (1903)</title> </item> 
+			 <item>Performers: Nora Post, oboe; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 3:20</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB23_002">Work number: JIB23_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Loeffler, Charles Martin,
+				1861-1935</persname> </item> 
+			 <item> 
+			   <title render="italic">Two rhapsodies for oboe, viola and
+				piano (1905)</title> </item> 
+			 <item>Performers: Nora Post, oboe; Richard Field, viola; Yvar
+			   Mikhashoff, piano</item> 
+			 <item>Duration: 21:33</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB23_003">Work number: JIB23_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Griffes, Charles Tomlinson,
+				1884-1920</persname> </item> 
+			 <item> 
+			   <title render="italic">Sonata, piano</title> </item> 
+			 <item>Performers: Nils Vigeland, piano</item> 
+			 <item>Duration: 12:34</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB23_004">Work number: JIB23_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Beach, H. H. A., Mrs.,
+				1867-1944</persname> </item> 
+			 <item> 
+			   <title render="italic">Quintet, piano-string</title> </item> 
+			 <item>Performers: Thomas Halpin, Marie Yadzinski, violins;
+			   Richard Field, viola; Frances-Marie Uitti, violoncello; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 29:39</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">32-33 </container> 
+		  <unittitle>June in Buffalo Concert 24: Music of Terry Riley, 
+		    <unitdate type="inclusive" normal="1977-06-03">June 3,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> 2 10-inch reels of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 32-33. Preservation master on DVD 28.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Preceded by audience noise and laughter (1:02).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB24_001">Work number: JIB24_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Riley, Terry, 1935-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">[Improvisation]</title> </item> 
+			 <item>Performers: Terry Riley, electric organ</item> 
+			 <item>Duration: 40:15</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB24_002">Work number: JIB24_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Riley, Terry, 1935-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">[Improvisation]</title> </item> 
+			 <item>Performers: Terry Riley, electric organ</item> 
+			 <item>Duration: 42:08</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">34</container> 
+		  <unittitle>June in Buffalo Concert 25: Music of Druckman, Wolpe,
+		    Babbitt, Bartok, 
+		    <unitdate type="inclusive" normal="1977-06-07">June 7,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent/> 1 10-inch reel of audio tape <extent/>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 34-35. Preservation master on DVD 29.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB25_001">Work number: JIB25_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Druckman, Jacob,
+				1928-1996</persname> </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 2 (1966)</title>
+			   </item> 
+			 <item>Performers: Concord String Quartet: Mark Sokol, Andrew
+			   Jennings, violins; John Kochanowski, viola; Norman Fischer, violoncello</item> 
+			 <item>Duration: 18:07</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB25_002">Work number: JIB25_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolpe, Stefan</persname> </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings (1968-69)</title>
+			   </item> 
+			 <item>Performers: Concord String Quartet: Mark Sokol, Andrew
+			   Jennings, violins; John Kochanowski, viola; Norman Fischer, violoncello</item> 
+			 <item>Duration: 18:59</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB25_003">Work number: JIB25_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Babbitt, Milton, 1916-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 2</title>
+			   </item> 
+			 <item>Performers: Concord String Quartet: Mark Sokol, Andrew
+			   Jennings, violins; John Kochanowski, viola; Norman Fischer, violoncello</item> 
+			 <item>Duration: 14:25</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB25_004">Work number: JIB25_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Bartók, Béla, 1881-1945</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 6 (1939)</title>
+			   </item> 
+			 <item>Performers: Concord String Quartet: Mark Sokol, Andrew
+			   Jennings, violins; John Kochanowski, viola; Norman Fischer, violoncello</item> 
+			 <item>Duration: 34:13</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">35</container> 
+		  <unittitle>June in Buffalo Concert 26: Piano music of Schoenberg,
+		    Webern, Berg, 
+		    <unitdate type="inclusive" normal="1977-06-08">June 8,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> 1 10-inch reel of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 36-37. Preservation master on DVD 30.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_001">Work number: JIB26_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Drei Klavierstücke, op. 11
+				(1909)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 13:48</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_002">Work number: JIB26_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Sechs kleine Klavierstücke, op. 19
+				(1911)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 5:48</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_003">Work number: JIB26_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Webern, Anton, 1883-1945</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Klavierstücke, op. post.
+				(1925)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 1:12</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_004">Work number: JIB26_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Klavierstücke, op. 33b (1932)</title>
+			   </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 3:14</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_005">Work number: JIB26_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Berg, Alban, 1885-1935</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Sonata, piano, op. 1 (1908)</title>
+			   </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 11:04</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_006">Work number: JIB26_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Fünf Klavierstücke, op. 23
+				(1923)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 11:03</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_007">Work number: JIB26_007</head> 
+			 <item> 
+			   <persname source="lcnaf">Webern, Anton, 1883-1945</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Variationen fur Klavier, op. 27
+				(1936)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 5:46</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_008">Work number: JIB26_008</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Klavierstücke, op. 33a (1932)</title>
+			   </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 2:10</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB26_009">Work number: JIB26_009</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Suite, op. 25 (1924)</title> </item> 
+			 <item>Performers: Stephen Manes, piano</item> 
+			 <item>Duration: 16:04</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">36-37</container> 
+		  <unittitle>June in Buffalo Concert 27: Percussion Music of Cowell,
+		    Cage, Harrison, 
+		    <unitdate type="inclusive" normal="1977-06-09">June 9,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel and 1 7-inch reel of audio
+		    tape</extent> </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 38. Preservation master on DVD 31.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_001">Work number: JIB27_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Cowell, Henry, 1897-1965</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Ostinato pianissimo (1941)</title>
+			   </item> 
+			 <item>Performers: Dan Mink, wood blocks; Michael Pugliese,
+			   gongs; Joanne Rosenberg, tom-toms; Charles Clifton, piano; Michael Friedland,
+			   piano; Gregory Ketchum, bongos; Albert Furness, rice bowls; Timothy Leaphart,
+			   xylophone solo; John Boudler, conductor</item> 
+			 <item>Duration: 3:57</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_002">Work number: JIB27_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Cowell, Henry, 1897-1965</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Banshee (1925)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, piano</item> 
+			 <item>Duration: 3:48</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_003">Work number: JIB27_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Cowell, Henry, 1897-1965</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Pulse (1939)</title> </item> 
+			 <item>Performers: Michael Pugliese, dragon's mouth, woodblocks;
+			   Albert Furness, tom-toms; Timothy Leaphart, rice bowls; John Boudler, temple
+			   gongs; Gregory Ketchum, cymbals, gongs; Dan Mink, pipes, brake drums; Jan
+			   Williams, conductor</item> 
+			 <item>Duration: 4:16</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_004">Work number: JIB27_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">She is asleep (1943)</title> </item> 
+			 <item>Performers: John Boudler, Gregory Ketchum, Timothy
+			   Leaphart, Michael Pugliese, tom-toms</item> 
+			 <item>Duration: 4:02</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_005">Work number: JIB27_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Amores (1943)</title> </item> 
+			 <item>Performers: John Boudler, Gregory Ketchum, Albert
+			   Furness, tom-toms, woodblocks, pod rattle; Yvar Mikhashoff, prepared
+			   piano</item> 
+			 <item>Duration: 10:08</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_006">Work number: JIB27_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Imaginary landscape, no. 3
+				(1942)</title> </item> 
+			 <item>Performers: Albert Furness, audio frequency oscillator;
+			   John Boudler, tin cans; Timothy Leaphart, tin cans; Dan Mink, buzzer, variable
+			   frequency oscillator; Gregory Ketchum, muted gongs, generator whine; Michael
+			   Pugliese, amplified slinky, marimbula; Walter Gajewski, electronics; Jan
+			   Williams, conductor</item> 
+			 <item>Duration: 3:50</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_007">Work number: JIB27_007</head> 
+			 <item> 
+			   <persname source="lcnaf">Harrison, Lou, 1917-2003</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Song of Queztecoatl (1941)</title>
+			   </item> 
+			 <item>Performers: John Boudler, bowls, dragon's mouths,
+			   woodblocks, maracas, sistrum; Albert Furness, brake drums, cowbells, rattle;
+			   Timothy Leaphart, snare drum, guiro, windglass, triangle, gong, tam-tam;
+			   Michael Pugliese, tom-toms, bass drum</item> 
+			 <item>Duration: 6:06</item> 
+		    </list> </p> 
+		  <p>The following is preceded by a partial recording of the work
+		    (6:35).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB27_008">Work number: JIB27_008</head> 
+			 <item> 
+			   <persname source="lcnaf">Harrison, Lou, 1917-2003</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Suite (1942)</title> </item> 
+			 <item>Performers: Gregory Ketchum, brake drums, triangles,
+			   dragon's mouths; John Boudler, brake drums, small bells; Dan Mink, brake drum,
+			   clock coils; Timothy Leaphart, washtub, thundersheet; Albert Furness, tam-tam,
+			   gongs, bass drum; Jan Williams, conductor</item> 
+			 <item>Duration: 9:10</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1 </container> 
+		  <container type="reel">38</container> 
+		  <unittitle>June in Buffalo Concert 28: Music of Milton Babbitt, 
+		    <unitdate type="inclusive" normal="1977-06-10">June 10,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> 1 10-inch reel of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 39-40. Preservation master on DVD 32.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks to the first work by Milton Babbitt are on
+		    a separate track, with additional remarks preceding each of the other works.
+		    Comments introducing the second work are on the end of the first track, the
+		    comments introducing the third work are on the end of the second track, the
+		    comments introducing the fourth work are on a separate track, and comments
+		    introducing the fifth work are on the end of the fourth track.</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB28_001">Work number: JIB28_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Babbitt, Milton, 1916-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Ensembles for synthesizer
+				(1962-64)</title> </item> 
+			 <item>Performers: Tape played</item> 
+			 <item>Duration: 10:00</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB28_002">Work number: JIB28_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Babbitt, Milton, 1916-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Composition for four instruments
+				(1947-48)</title> </item> 
+			 <item>Performers: Henrik Svitzer, flute; Edward Yadzinski,
+			   clarinet; Marie Yadzinski, violin; Don Reinfeld, violoncello</item> 
+			 <item>Duration: 11:03</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB28_003">Work number: JIB28_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Babbitt, Milton, 1916-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Partitions for piano (1957)</title>
+			   </item> 
+			 <item>Performers: Nils Vigeland, piano</item> 
+			 <item>Performed twice.</item> 
+			 <item>Duration: 5:13 (one performance)</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB28_004">Work number: JIB28_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Babbitt, Milton, 1916-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, winds (1953)</title> </item> 
+			 <item>Performers: Henrik Svitzer, flute; Nora Post, oboe;
+			   Edward Yadzinski, clarinet; Darlene Reynard, bassoon</item> 
+			 <item>Duration: 11:24</item> 
+			 <item>Buffalo premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB28_005">Work number: JIB28_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Babbitt, Milton, 1916-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Occasional variations for synthesizer
+				(1971)</title> </item> 
+			 <item>Performers: Tape played</item> 
+			 <item>Duration: 10:59</item> 
+			 <item>Buffalo premiere</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">39-40</container> 
+		  <unittitle>June in Buffalo Concert 29: Music of Lukas Foss, 
+		    <unitdate type="inclusive" normal="1977-06-14">June 14,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 41-43. Preservation master on DVD 33.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB29_001">Work number: JIB29_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Foss, Lukas, 1922-2009</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Paradigm (1970)</title> </item> 
+			 <item>Performers: Jan Williams, percussion; Nora Post, oboe;
+			   Don Reinfeld, violoncello; Edward Yadzinski, clarinet, bass clarinet; Stu
+			   Weissman, electric guitar; Jan Williams, conductor</item> 
+			 <item>Duration: 25:46</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB29_002">Work number: JIB29_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Foss, Lukas, 1922-2009</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Map (1970) (1977 version)</title>
+			   </item> 
+			 <item>Performers: James Kasprowicz, brass; Don Reinfeld,
+			   strings; Jan Williams, percussion; Edward Yadzinski, winds; Walter Gajewski,
+			   electronics</item> 
+			 <item>Duration: 1:20:05 (divided between two CDs)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">41</container> 
+		  <unittitle>June in Buffalo Concert 30: Music of Nemiroff, Wolpe, 
+		    <unitdate type="inclusive" normal="1977-06-15">June 15,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 44-45. Preservation master on DVD 34.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks about Stefan Wolpe by Morton Feldman
+		    (8:19). </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB30_001">Work number: JIB30_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Nemiroff, Isaac</persname> </item> 
+			 <item> 
+			   <title render="italic">Duo for oboe and bass clarinet</title>
+			   </item> 
+			 <item>Performers: Nora Post, oboe; Jack Kreiselman, bass
+			   clarinet</item> 
+			 <item>Duration: 7:26</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB30_002">Work number: JIB30_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolpe, Stefan</persname> </item> 
+			 <item> 
+			   <title render="italic">Form (1959)</title> </item> 
+			 <item>Performers: Anne Chamberlain, piano</item> 
+			 <item>Duration: 3:32</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB30_003">Work number: JIB30_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolpe, Stefan</persname> </item> 
+			 <item> 
+			   <title render="italic">Form IV. Broken sequences
+				(1969)</title> </item> 
+			 <item>Performers: Anne Chamberlain, piano</item> 
+			 <item>Duration: 4:12</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB30_004">Work number: JIB30_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolpe, Stefan</persname> </item> 
+			 <item> 
+			   <title render="italic">Sonata, oboe, piano, 1939-41</title>
+			   </item> 
+			 <item>Performers: Nora Post, oboe; Anne Chamberlain,
+			   piano</item> 
+			 <item>Duration: 19:37</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB30_005">Work number: JIB30_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolpe, Stefan</persname> </item> 
+			 <item> 
+			   <title render="italic">Four Palestinian songs: Two songs from
+				the Song of Solomon --If it be my fate -- Epitaph.</title> </item> 
+			 <item>Performers: Suze Leal, mezzo-soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 16:22</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB30_006">Work number: JIB30_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolpe, Stefan</persname> </item> 
+			 <item> 
+			   <title render="italic">Suite in hexachord for oboe and
+				clarinet (1936)</title> </item> 
+			 <item>Performers: Nora Post, oboe; Jack Kreiselman,
+			   clarinet</item> 
+			 <item>Duration: 14:46</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">42</container> 
+		  <unittitle>June in Buffalo Concert 31: Music of Lejaren Hiller, 
+		    <unitdate type="inclusive" normal="1977-06-16">June 16,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 46. Preservation master on DVD 35.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks, largely about sonata form, by Lejaren
+		    Hiller (11:23).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB31_001">Work number: JIB31_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Sonata, violin, piano, no. 2,
+				1955</title> </item> 
+			 <item>Performers: Thomas Halpin, violin; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 16:37</item> 
+			 <item>United States premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB31_002">Work number: JIB31_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Machine music (1964)</title> </item> 
+			 <item>Performers: John Boudler, percussion; Yvar Mikhashoff,
+			   piano; Ralph Jones, electronic tape</item> 
+			 <item>Duration: 15:06</item> 
+		    </list> </p> 
+		  <p>Concert concluded with tape played of Hiller's 
+		  <title render="italic">Electronic sonata for four-channel
+		    tape</title>, which was not recorded as part of the concert. It was the
+		  premiere performance.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">43</container> 
+		  <unittitle>June in Buffalo Concert 32: Music of Jacob Druckman, 
+		    <unitdate type="inclusive" normal="1977-06-17">June 17,
+			 1977</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 47. Preservation master on DVD 36.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks by Jacob Druckman (17:32).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB32_001">Work number: JIB32_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Druckman, Jacob,
+				1928-1996</persname> </item> 
+			 <item> 
+			   <title render="italic">Animus I</title> </item> 
+			 <item>Performers: James Kasprowicz, trombone</item> 
+			 <item>Duration: 13:16</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB32_002">Work number: JIB32_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Druckman, Jacob,
+				1928-1996</persname> </item> 
+			 <item> 
+			   <title render="italic">Animus II</title> </item> 
+			 <item>Performers: Joan Collopy, soprano; Jan Williams, John
+			   Boudler, percussion</item> 
+			 <item>Duration: 23:03</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">44-45</container> 
+		  <unittitle>June in Buffalo Concert 33: String quartets of Elliott
+		    Carter, 
+		    <unitdate type="inclusive" normal="1978-06-01">June 1,
+			 1978</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 48-49. Preservation master on DVD 37.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB33_001">Work number: JIB33_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Carter, Elliott, 1908-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 2 (1959)</title>
+			   </item> 
+			 <item>Performers: Composers' Quartet: Matthew Raimondi, Anahid
+			   Ajemian, violins; Jean Dane, viola; Mark Shuman, violoncello</item> 
+			 <item>Duration: 19:34</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB33_002">Work number: JIB33_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Carter, Elliott, 1908-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 3 (1973)</title>
+			   </item> 
+			 <item>Performers: Composers' Quartet: Matthew Raimondi, Anahid
+			   Ajemian, violins; Jean Dane, viola; Mark Shuman, violoncello</item> 
+			 <item>Duration: 20:43</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB33_003">Work number: JIB33_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Carter, Elliott, 1908-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no.1 (1951)</title>
+			   </item> 
+			 <item>Performers: Composers' Quartet: Matthew Raimondi, Anahid
+			   Ajemian, violins; Jean Dane, viola; Mark Shuman, violoncello</item> 
+			 <item>Duration: 38:20</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">46-47</container> 
+		  <unittitle>June in Buffalo Concert 35: Music of Henry Brant, 
+		    <unitdate type="inclusive" normal="1978-06-06">June 6,
+			 1978</unitdate> </unittitle> 
+		  <physdesc> 2 10-inch reels of audio tape </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 50-51. Preservation master on DVD 38. </p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks by Henry Brant (2:19).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB35_001">Work number: JIB35_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Brant, Henry, 1913-2008</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Ice age (1954)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, piano; Gary Hatt, clarinet;
+			   Henry Brant, Gregory Ketchum, percussion; Sylvia Brigham-Dimiziani,
+			   soprano</item> 
+			 <item>Duration: 7:21</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB35_002">Work number: JIB35_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Brant, Henry, 1913-2008</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Encephalograms 2 (1955)</title>
+			   </item> 
+			 <item>Performers: Sylvia Brigham-Dimiziani, soprano; Robert
+			   Dick, piccolo; Gary Hatt, clarinet; Nora Post, oboe; Yvar Mikhashoff, piano;
+			   Mario Falcao, harp; Gregory Ketchum, percussion; Michael Burke, organ</item> 
+			 <item>Duration: 6:44</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB35_003">Work number: JIB35_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Brant, Henry, 1913-2008</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Piri (1954)</title> </item> 
+			 <item>Performers: Robert Dick, flute; Mario Falcao, harp; Yvar
+			   Mikhashoff, piano; Jan Williams, glockenspiel</item> 
+			 <item>Duration: 4:10</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB35_004">Work number: JIB35_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Brant, Henry, 1913-2008</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Hieroglyphics (1966)</title> </item> 
+			 <item>Performers: Weronika Knittel, solo violin; Mario Falcao,
+			   harp; Krzysztof Knittel, celeste; Michael Pugliese, percussion; Sylvia
+			   Brigham-Dimiziani, voice; Henry Brant, organ</item> 
+			 <item>Duration: 15:22</item> 
+		    </list> </p> 
+		  <p>Introductory remarks about the work 
+		  <title render="italic">Headhunt</title> by Henry Brant (4:14).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB35_005">Work number: JIB35_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Brant, Henry, 1913-2008</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Headhunt (1962)</title> </item> 
+			 <item>Performers: James Kasprowicz, trombone; Gary Haft,
+			   clarinet; Michael Peebles, violoncello; Darlene Reynard, bassoon; Henry Brant,
+			   Gregory Ketchum, percussion</item> 
+			 <item>Duration: 16:10</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB35_006">Work number: JIB35_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Brant, Henry, 1913-2008</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Prevailing winds (1974)</title>
+			   </item> 
+			 <item>Performers: Robert Dick, flute; Nora Post, oboe; Gary
+			   Hatt, clarinet; Darlene Reynard, bassoon; Lowell Shaw, horn; Henry Brant,
+			   organ</item> 
+			 <item>Duration: 19:09</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">48-49</container> 
+		  <unittitle>June in Buffalo Concert 36: Music of Wolff, Rzewski,
+		    Wuorinen, 
+		    <unitdate type="inclusive" normal="1978-06-07">June 7,
+			 1978</unitdate> </unittitle> 
+		  <physdesc> 2 10-inch reels of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 52-53. Preservation master on DVD 39.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB36_001">Work number: JIB36_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Bread and roses (1976)</title> </item>
+			 
+			 <item>Performers: Ursula Oppens, piano</item> 
+			 <item>Duration: 9:06</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB36_002">Work number: JIB36_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Rzewski, Frederic</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">Four pieces (1977)</title> </item> 
+			 <item>Performers: Ursula Oppens, piano</item> 
+			 <item>Duration: 32:22</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB36_003">Work number: JIB36_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Wuorinen, Charles</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">Sonata, piano, no. 2</title> </item> 
+			 <item>Performers: Ursula Oppens, piano</item> 
+			 <item>Duration: 32:01</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">50</container> 
+		  <unittitle>June in Buffalo Concert 37: Lecture by Ben Johnston,
+		    "The Music of Harry Partch", 
+		    <unitdate type="inclusive" normal="1978-06-08">June 8,
+			 1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 54-55. Preservation master on DVD 40.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB37_001">Work number: JIB37_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Johnston, Ben</persname> </item> 
+			 <item> 
+			   <title render="italic">Lecture: The music of Harry
+				Partch</title> </item> 
+			 <item>Ben Johnston, lecturer</item> 
+			 <item>Duration: 58:43</item> 
+		    </list> </p> 
+		  <p>Followed by questions and discussion (33:44).</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">51</container> 
+		  <unittitle>June in Buffalo Concert 38: Music of Charles Wuorinen, 
+		    <unitdate type="inclusive" normal="1978-06-09">June 9,
+			 1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 56. Preservation master on DVD 41.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks by Charles Wuorinen (limited to change in
+		    order of works on program) (2:16).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB38_001">Work number: JIB38_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Wuorinen, Charles</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">Fantasy for violin and piano
+				(1974)</title> </item> 
+			 <item>Performers: Benjamin Hudson, violin; Charles Wuorinen,
+			   piano</item> 
+			 <item>Duration: 15:44</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB38_002">Work number: JIB38_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Wuorinen, Charles</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">Violin variations (1972)</title>
+			   </item> 
+			 <item>Performers: Benjamin Hudson, violin</item> 
+			 <item>Duration: 13:07</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB38_003">Work number: JIB38_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Wuorinen, Charles</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">The long and the short (1969)</title>
+			   </item> 
+			 <item>Performers: Benjamin Hudson, violin</item> 
+			 <item>Duration: 9:25</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB38_004">Work number: JIB38_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Wuorinen, Charles</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">Six pieces for violin and piano
+				(1977)</title> </item> 
+			 <item>Performers: Benjamin Hudson, violin; Charles Wuorinen,
+			   piano</item> 
+			 <item>Duration: 20:25</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">52</container> 
+		  <unittitle>June in Buffalo Concert 39: Music of Lou Harrison and
+		    John Cage, 
+		    <unitdate type="inclusive" normal="1978-06-12">June 12,
+			 1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 57. Preservation master on DVD 42.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_001">Work number: JIB39_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Harrison, Lou, 1917-2003</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Song of Queztecoatl (1941)</title>
+			   </item> 
+			 <item>Performers: Albert Furness, Gregory Ketchum, Robert
+			   Mahoney, Michael Pugliese, percussion</item> 
+			 <item>Duration: 6:03</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_002">Work number: JIB39_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Harrison, Lou, 1917-2003</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Fugue(1942)</title> </item> 
+			 <item>Performers: Albert Furness, Gregory Ketchum, Robert
+			   Mahoney, Michael Pugliese, percussion</item> 
+			 <item>Duration: 4:08</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_003">Work number: JIB39_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Harrison, Lou, 1917-2003</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Suite (1942)</title> </item> 
+			 <item>Performers: Albert Furness, Gregory Ketchum, Robert
+			   Mahoney, Michael Pugliese, percussion</item> 
+			 <item>Duration: 9:26</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_004">Work number: JIB39_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John and Harrison,
+				Lou</persname> </item> 
+			 <item> 
+			   <title render="italic">Double music (1941)</title> </item> 
+			 <item>Performers: Albert Furness, Gregory Ketchum, Robert
+			   Mahoney, Michael Pugliese, percussion</item> 
+			 <item>Duration: 6:22</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_005">Work number: JIB39_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Spontaneous earth (1944)</title>
+			   </item> 
+			 <item>Performers: Yvar Mikhashoff, prepared piano</item> 
+			 <item>Duration: 2:23</item> 
+			 <item>Buffalo premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_006">Work number: JIB39_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">In the name of the Holocaust
+				(1942)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, prepared piano</item> 
+			 <item>Duration: 6:48</item> 
+			 <item>Buffalo premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_007">Work number: JIB39_007</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Primitive (1942)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, prepared piano</item> 
+			 <item>Duration: 3:40</item> 
+			 <item>Buffalo premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_008">Work number: JIB39_008</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">She is asleep (1943)</title> </item> 
+			 <item>Performers: Albert Furness, Gregory Ketchum, Robert
+			   Mahoney, Michael Pugliese, percussion</item> 
+			 <item>Duration: 4:34</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB39_009">Work number: JIB39_009</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Third construction (1941)</title>
+			   </item> 
+			 <item>Performers: Albert Furness, Gregory Ketchum, Robert
+			   Mahoney, Michael Pugliese, percussion</item> 
+			 <item>Duration: 13:06</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">53</container> 
+		  <unittitle>June in Buffalo Concert 40: Music of Virgil Thomson, 
+		    <unitdate type="inclusive" normal="1978-06-13">June 13,
+			 1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 58. Preservation master on DVD 43.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB40_001">Work number: JIB40_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Thomson, Virgil,
+				1896-1989</persname> </item> 
+			 <item> 
+			   <title render="italic">Concerto for flute, strings and
+				percussion (1954); arr.</title> </item> 
+			 <item>Performers: Robert Dick, flute; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 12:00</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB40_002">Work number: JIB40_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Thomson, Virgil,
+				1896-1989</persname> </item> 
+			 <item> 
+			   <title render="italic">Sonata da chiesa (1926)</title>
+			   </item> 
+			 <item>Performers: Gary Hatt, clarinet; David Kuehn, trumpet;
+			   Richard Field, viola; Duane Saetveit, horn; James Kasprowicz, trombone; Jan
+			   Williams, conductor</item> 
+			 <item>Duration: 19:10</item> 
+		    </list> </p> 
+		  <p>Program concluded with a showing of the film 
+		  <title render="italic">Louisiana story (1948)</title> with a
+		  soundtrack by Virgil Thomson. It was not recorded as part of the concert.</p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">54</container> 
+		  <unittitle>June in Buffalo Concert 41: String quartets of Charles
+		    Wuorinen, 
+		    <unitdate type="inclusive" normal="1980-06-02">June 2,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 59. Preservation master on DVD 44.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB41_001">Work number: JIB41_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Wuorinen, Charles</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 1 (1971)</title>
+			   </item> 
+			 <item>Performers: Benjamin Hudson, Carol Zeavin, violins; Janet
+			   Lyman Hill, viola; Andre Emelianoff, violoncello</item> 
+			 <item>Duration: 24:28</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB41_002">Work number: JIB41_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Wuorinen, Charles</persname> </item>
+			 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 2 (1979)</title>
+			   </item> 
+			 <item>Performers: Benjamin Hudson, Carol Zeavin, violins; Janet
+			   Lyman Hill, viola; Andre Emelianoff, violoncello</item> 
+			 <item>Duration: 23:59</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">55</container> 
+		  <unittitle>June in Buffalo Concert 42: String Quartet, 1979 by
+		    Morton Feldman, 
+		    <unitdate type="inclusive" normal="1980-06-03">June 3,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> 1 10-inch reel of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 60-61. Preservation master on DVD 45.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB42_001">Work number: JIB42_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Feldman, Morton,
+				1926-1987</persname> </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings (1979)</title>
+			   </item> 
+			 <item>Performers: Benjamin Hudson, Carol Zeavin, violins; Janet
+			   Lyman Hill, viola; Andre Emelianoff, violoncello</item> 
+			 <item>Duration: 1:43:37 (divided over 2 CDs)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">56</container> 
+		  <unittitle>June in Buffalo Concert 43: Music of Steve Reich, 
+		    <unitdate type="inclusive" normal="1980-06-04">June 4,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 62. Preservation master on DVD 46.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB43_001">Work number: JIB43_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Violin phase (1967)</title> </item> 
+			 <item>Performers: Shem Guibbory, violin</item> 
+			 <item>Duration: 15:56</item> 
+		    </list> </p> 
+		  <p>Tape played at concert of Reich's 
+		  <title render="italic">Music for a large ensemble (1979)</title>,
+		  not recorded as part of the concert.</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB43_003">Work number: JIB43_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">My name is (1967-80)</title> </item> 
+			 <item>Performers: </item> 
+			 <item>Duration: 17:15</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB43_004">Work number: JIB43_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Reich, Steve, 1936-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Octet (1979)</title> </item> 
+			 <item>Performers: Virgil Blackwell, Mort Silver, flutes,
+			   clarinets; Robert Chausow, Shem Guibbory, violins; Ruth Siegler, viola; Chris
+			   Finckel, violoncello; Edmund Niemann, Nurit Tilles, pianos</item> 
+			 <item>Duration: 19:01</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">57</container> 
+		  <unittitle>June in Buffalo Concert 44: Piano Music by Japanese
+		    composers, 
+		    <unitdate type="inclusive" normal="1980-06-05">June 5,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> 1 10-inch reel of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 63-64. Preservation master on DVD 47.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB44_001">Work number: JIB44_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Kai, Sesshu</persname> </item> 
+			 <item> 
+			   <title render="italic">Music for piano I (1974)</title>
+			   </item> 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 7:51</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB44_002">Work number: JIB44_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Kondo, Jo, 1947-</persname> </item> 
+			 <item> 
+			   <title render="italic">Sight rhythmics (1975)</title> </item>
+			 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 11:31</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB44_003">Work number: JIB44_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Takemitsu, Toru</persname> </item> 
+			 <item> 
+			   <title render="italic">Les yeux clos (1979)</title> </item> 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 7:02</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB44_004">Work number: JIB44_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Ichiyanagi, Toshi, 1933-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Piano media (1972)</title> </item> 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 6:24</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB44_005">Work number: JIB44_005</head> 
+			 <item> 
+			   <persname source="lcnaf">Yuasa, Joji</persname> </item> 
+			 <item> 
+			   <title render="italic">On the keyboard (1972)</title> </item>
+			 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 5:45</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB44_006">Work number: JIB44_006</head> 
+			 <item> 
+			   <persname source="lcnaf">Takahashi, Yuji, 1938-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Three poems of Mao Tse-Tung
+				(1975)</title> </item> 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 11:44</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB44_007">Work number: JIB44_007</head> 
+			 <item> 
+			   <persname source="lcnaf">Satoh, Somei, 1947-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Incarnation II (1978)</title> </item> 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 12:41</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">58</container> 
+		  <unittitle>June in Buffalo Concert 45: Music of Arnold Schoenberg, 
+		    <unitdate type="inclusive" normal="1980-06-06">June 6,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 65. Preservation master on DVD 48.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB45_001">Work number: JIB45_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Gedichte aus Das Buch der hängenden
+				Gärten (1908-09)</title> </item> 
+			 <item>Performers: Roswitha Trexler, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 25:57</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB45_002">Work number: JIB45_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Vier deutsche Volkslieder
+				(1929)</title> </item> 
+			 <item>Performers: Roswitha Trexler, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 10:09</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB45_003">Work number: JIB45_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Haringer-Lieder, op. 48 (1933)</title>
+			   </item> 
+			 <item>Performers: Roswitha Trexler, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 4:55</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB45_004">Work number: JIB45_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Schoenberg, Arnold,
+				1874-1951</persname> </item> 
+			 <item> 
+			   <title render="italic">Brettllieder (1901)</title> </item> 
+			 <item>Performers: Roswitha Trexler, soprano; Yvar Mikhashoff,
+			   piano</item> 
+			 <item>Duration: 11:12</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">59</container> 
+		  <unittitle>June in Buffalo Concert 46: Music of Won, Cage, Jolas,
+		    Amy, 
+		    <unitdate type="inclusive" normal="1980-06-07">June 7,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 66. Preservation master on DVD 49.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB46_001">Work number: JIB46_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Won, Yong Sook</persname> </item> 
+			 <item> 
+			   <title render="italic">Nirvana (1979)</title> </item> 
+			 <item>Performers: Jan Williams, percussion</item> 
+			 <item>Duration: 10:57</item> 
+			 <item>Premiere performance</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB46_002">Work number: JIB46_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Cage, John</persname> </item> 
+			 <item> 
+			   <title render="italic">Furniture music, Etcetera
+				(1980)</title> </item> 
+			 <item>Performers: Aki Takahashi, Yvar Mikhashoff, pianos</item>
+			 
+			 <item>Duration: 19:49</item> 
+			 <item>Composed for Aki Takahashi and Yvar Mikhashoff.</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB46_003">Work number: JIB46_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Jolas, Betsy</persname> </item> 
+			 <item> 
+			   <title render="italic">B for sonata (1979)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, piano</item> 
+			 <item>Duration: 16:14</item> 
+			 <item>United States premiere</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB46_004">Work number: JIB46_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Amy, Gilbert</persname> </item> 
+			 <item> 
+			   <title render="italic">Inventions (1962)</title> </item> 
+			 <item>Performers: Robert Dick, flute; Mario Falcao, harp; Yvar
+			   Mikhashoff, piano; Bruce Penner, percussion</item> 
+			 <item>Duration: 17:41</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">60</container> 
+		  <unittitle>June in Buffalo Concert 47: Music of Nils Vigeland, 
+		    <unitdate type="inclusive" normal="1980-06-08">June 8,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 67. Preservation master on DVD 50.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB47_001">Work number: JIB47_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Vigeland, Nils</persname> </item> 
+			 <item> 
+			   <title render="italic">Octet (1978)</title> </item> 
+			 <item>Performers: Marie Yadzinski, Susan Harbison, violins;
+			   Diane Williams, viola; Mary Sue Wells, violoncello; Nils Vigeland, piano;
+			   Edward Yadzinski, clarinet; Bruce Penner, percussion; Jan Williams,
+			   conductor</item> 
+			 <item>Duration: 17:02</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB47_002">Work number: JIB47_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Vigeland, Nils</persname> </item> 
+			 <item> 
+			   <title render="italic">Vara (1979)</title> </item> 
+			 <item>Performers: Edward Folger, David Gordon, Joel Harrod,
+			   Walter Hunt, Rick Kazmierczak, Bruce Penner, percussion; Nils Vigeland, piano;
+			   Jan Williams, conductor</item> 
+			 <item>Duration: 25:42</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB47_003">Work number: JIB47_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Vigeland, Nils</persname> </item> 
+			 <item> 
+			   <title render="italic">Sonata, piano, no. 1 (1979)</title>
+			   </item> 
+			 <item>Performers: Nils Vigeland, piano</item> 
+			 <item>Duration: 11:43</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">61</container> 
+		  <unittitle>June in Buffalo Concert 48: Music by East German
+		    composers, 
+		    <unitdate type="inclusive" normal="1980-06-09">June 9,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 68. Preservation master on DVD 51.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB48_001">Work number: JIB48_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Dessau, Paul, 1894-1979</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Shakespeare-sonette (1971-74)</title>
+			   </item> 
+			 <item>Performers: Roswitha Trexler, soprano; Thomas Halpin,
+			   violin; Ronald Richards, oboe; Erik Skjoldan, piano; David Gibson, violoncello;
+			   James Kasprowicz, trombone; Jan Williams, conductor</item> 
+			 <item>Duration: 11:36</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB48_002">Work number: JIB48_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Voigtländer, Lothar,
+				1943-</persname> </item> 
+			 <item> 
+			   <title render="italic">Drei elektronische Studien nach Texten
+				von Erich Arendt fur Gesang, Klavier und Tonband (1976)</title> </item> 
+			 <item>Performers: Roswitha Trexler, soprano; Fritz Hennenberg,
+			   piano</item> 
+			 <item>Duration: 10:01</item> 
+			 <item>Tape realized by the composer.</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB48_003">Work number: JIB48_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Schenker, Friedrich</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Versuch über Roswitha für Stimme und
+				Tonband (1974)</title> </item> 
+			 <item>Performers: Roswitha Trexler, soprano</item> 
+			 <item>Duration: 8:45</item> 
+			 <item>Tape realized by the composer.</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB48_004">Work number: JIB48_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Dittrich, Paul Heinz</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Kammermusik IV (1977)</title> </item> 
+			 <item>Performers: Roswitha Trexler, soprano; Scott Tinney,
+			   piano; Thomas Halpin, violin; David Gibson, violoncello; Robert Dick, flute;
+			   Ronald Richards, oboe; Edward Yadzinski, clarinet, bass clarinet; Michael Zak,
+			   electronics; Michael Andriaccio, guitar; Bruce Penner, percussion</item> 
+			 <item>Duration: 26:31</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">62</container> 
+		  <unittitle>June in Buffalo Concert 49: Music of Ralph Shapey, 
+		    <unitdate type="inclusive" normal="1980-06-10">June 10,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 69-70. Preservation master on DVD 52.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB49_001">Work number: JIB49_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Shapey, Ralph, 1921-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Seven (1963)</title> </item> 
+			 <item>Performers: Frieda Manes, Stephen Manes, piano</item> 
+			 <item>Duration: 7:29</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB49_002">Work number: JIB49_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Shapey, Ralph, 1921-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Configurations (1965)</title> </item> 
+			 <item>Performers: Robert Dick, flute; Aki Takahashi,
+			   piano</item> 
+			 <item>Duration: 11:12</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB49_003">Work number: JIB49_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Shapey, Ralph, 1921-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Evocations (1959)</title> </item> 
+			 <item>Performers: Douglas Cone, violin; Jan Williams,
+			   percussion; Aki Takahashi, piano</item> 
+			 <item>Duration: 18:42</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB49_004">Work number: JIB49_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Shapey, Ralph, 1921-2002</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 7 (1972)</title>
+			   </item> 
+			 <item>Performers: Kronos Quartet: David Harrington, John
+			   Sherba, violins; Hank Dutt, viola; Joan Jeanrenand, violoncello</item> 
+			 <item>Duration: 35:21</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">63</container> 
+		  <unittitle>June in Buffalo Concert 50: String quartets of Lejaren
+		    Hiller, 
+		    <unitdate type="inclusive" normal="1980-06-11">June 11,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 71-72. Preservation master on DVD 53.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB50_001">Work number: JIB50_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 6 (1972)</title>
+			   </item> 
+			 <item>Performers: Kronos Quartet: David Harrington, John
+			   Sherba, violins; Hank Dutt, viola; Joan Jeanrenand, violoncello</item> 
+			 <item>Duration: 27:05</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB50_002">Work number: JIB50_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 7 (1979)</title>
+			   </item> 
+			 <item>Performers: Kronos Quartet: David Harrington, John
+			   Sherba, violins; Hank Dutt, viola; Joan Jeanrenand, violoncello</item> 
+			 <item>Duration: 30:56</item> 
+			 <item>Premiere performance</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB50_003">Work number: JIB50_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Hiller, Lejaren,
+				1924-1994</persname> </item> 
+			 <item> 
+			   <title render="italic">Quartet, strings, no. 3 (1953)</title>
+			   </item> 
+			 <item>Performers: Kronos Quartet: David Harrington, John
+			   Sherba, violins; Hank Dutt, viola; Joan Jeanrenand, violoncello</item> 
+			 <item>Duration: 29:16</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">64-65</container> 
+		  <unittitle>June in Buffalo Concert 51: Music of George Crumb, 
+		    <unitdate type="inclusive" normal="1980-06-12">June 12,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 73-74. Preservation master on DVD 54-55.</p>
+		    
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list> 
+			 <head id="JIB51_001">Work number: JIB51_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Makrokosmos (Volume I, 1972)</title>
+			   </item> 
+			 <item>Performers: Aki Takahashi, amplified piano</item> 
+			 <item>Duration: 34:41</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB51_002">Work number: JIB51_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Makrokosmos (Volume II, 1973)</title>
+			   </item> 
+			 <item>Performers: Yvar Mikhashoff, amplified piano</item> 
+			 <item>Duration: 35:34</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB51_003">Work number: JIB51_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Music for a summer evening
+				(Makrokosmos III, 1974)</title> </item> 
+			 <item>Performers: Yvar Mikhashoff, Aki Takahashi, pianos ; Jan
+			   Williams, Bruce Penner, percussion</item> 
+			 <item>Duration: 38:50</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB51_004">Work number: JIB51_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Crumb, George</persname> </item> 
+			 <item> 
+			   <title render="italic">Celestial mechanics (Makrokosmos IV,
+				1979), four hands</title> </item> 
+			 <item>Performers: Frieda Manes, Stephen Manes, piano</item> 
+			 <item>Duration: 25:20</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">66</container> 
+		  <unittitle>June in Buffalo Concert 52: Music of Christian Wolff, 
+		    <unitdate type="inclusive" normal="1980-06-13">June 13,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 75-76. Preservation master on DVD 56.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Introductory remarks by Christian Wolff (5:47).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB52_001">Work number: JIB52_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Exercises 15-16 (1975)</title> </item>
+			 
+			 <item>Performers: Christian Wolff, piano</item> 
+			 <item>Duration: 12:13</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB52_002">Work number: JIB52_002</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Exercises 17 (1975)</title> </item> 
+			 <item>Performers: James Kasprowicz, trombone</item> 
+			 <item>Duration: 8:18</item> 
+		    </list> </p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB52_003">Work number: JIB52_003</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Hay una mujer desaparecida (1979)
+				after Holly Near</title> </item> 
+			 <item>Performers: Aki Takahashi, piano</item> 
+			 <item>Duration: 15:30</item> 
+		    </list> </p> 
+		  <p>Introductory remarks by Christian Wolff (3:28).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB52_004">Work number: JIB52_004</head> 
+			 <item> 
+			   <persname source="lcnaf">Wolff, Christian, 1934-</persname>
+			   </item> 
+			 <item> 
+			   <title render="italic">Braverman music (1978)</title> </item>
+			 
+			 <item>Performers: Bunita Marcus, bass clarinet; Jan Williams,
+			   percussion; Robert Dick, flute; James Kasprowicz, trombone; Christian Wolff,
+			   piano</item> 
+			 <item>Duration: 28:45</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="reel">67-68</container> 
+		  <unittitle>June in Buffalo Concert 53: "Stimmung", by Karlheinz
+		    Stockhausen, 
+		    <unitdate type="inclusive" normal="1980-06-14">June 14,
+			 1980</unitdate> </unittitle> 
+		  <physdesc> <extent>2 10-inch reels of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 77-79. Preservation master on DVD 57-58.</p>
+		    
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p>Music fragment and introductory remarks, possibly by Heinz
+		    Rehfuss (13:29).</p> 
+		  <p> 
+		    <list> 
+			 <head id="JIB53_001">Work number: JIB53_001</head> 
+			 <item> 
+			   <persname source="lcnaf">Stockhausen, Karlheinz,
+				1928-2007</persname> </item> 
+			 <item> 
+			   <title render="italic">Stimmung (1968)</title> </item> 
+			 <item>Performers: Jocelyn Alaimo, Jay Anstee, John Kasprowicz,
+			   Christine Marstrand, Carol Ann Sirmay, voices; Heinz Rehfuss, Paul Gallagher,
+			   conductors</item> 
+			 <item>Duration: 2:09:31 (divided over 3 CDs)</item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II</unitid> 
+		<unittitle>John Cage lectures, 
+		  <unitdate type="inclusive" normal="1975-06-04/1975-06-06">June
+		    4-June 6 1975</unitdate> </unittitle> 
+		<physdesc> <extent>Reel 3-6</extent> </physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>The compact discs are arranged in order matching the numbering of
+		  the original reel to reel tapes, Reel 03-Reel 06.</p> 
+	   </arrangement> 
+	   <scopecontent> 
+		<p> The spines of the original containers of the reel to reel tapes
+		  are dated June 3, June 4, and June 5; the spine of the fourth reel is missing.
+		  The reformatted CDs were all incorrectly dated June 3 1975. However,
+		  auditioning the recordings reveals dates as stated below. The June 5 and June 6
+		  are dated with certainty; the June 4 dates are less certain. Jeff Simon wrote
+		  an article in the June 21 1975 
+		<title render="italic">Buffalo Evening News</title> titled "Composer
+		Cage: Stung by followers". It contains details, including specific quotations
+		of remarks by Cage, about lectures presented by Cage on June 2, June 3, and
+		June 5. None of the details from the June 2 and June 3 lectures can be matched
+		to content on the recordings below. </p> 
+	   </scopecontent> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="reel">3</container> 
+		  <unittitle>John Cage lectures at June in Buffalo, 
+		    <unitdate type="inclusive" normal="1975-06-04">June 4
+			 1975</unitdate> and 
+		    <unitdate type="inclusive" normal="1975-06-05">June 5
+			 1975</unitdate> </unittitle> 
+		  <physdesc> 1 10-inch reel of audio tape</physdesc> 
+		  <note> 
+		    <p>Transferred to CD 80-81. Preservation master on CD Box 3 CD
+			 1-2.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list type="simple"> 
+			 <item>CD 80, Track 1 (11:00): June 4 1975 (Wednesday). First
+			   spoken line: "…such an exchange of ideas … among those exchanges Christian
+			   [Wolff] brought to me the I ching which had been published by his
+			   father."</item> 
+			 <item>CD 80, Track 2 (24:44): June 5 1975 (Thursday). This is
+			   the first part of the lecture in which Cage responds to the S.E.M. performance
+			   of 
+			   <title render="italic">Song Books</title> on Wednesday June
+			   4. </item> 
+			 <item>CD 81, Track 1 (10:20): June 5 1975 (Thursday). This is
+			   the second part of the lecture in which Cage responds to the S.E.M. performance
+			   of 
+			   <title render="italic">Song Books</title> on Wednesday June
+			   4.</item> 
+			 <item>CD 81, Track 2 (24:43): June 5 1975 (Thursday). This is
+			   the third part of the lecture in which Cage responds to the S.E.M. performance
+			   of 
+			   <title render="italic">Song Books</title> on Wednesday June
+			   4. </item> 
+		    </list> </p> 
+		</scopecontent> 
+		<odd>
+						<!-- Note that the file number for the pdf, html page, and audio file should all be 
+					changed to ubmu0030_80 if any other audio links are ever added to this finding aid. -->
+		  <p> <emph> 
+		    <extref href="../xtf/audio/ubmu0030_03.html" show="new"
+		    actuate="onrequest" title="John Cage June 5 1975 lecture audio"> Online
+			 access</extref> to the recording of the lecture and an annotated transcription
+		    has generously been made available courtesy of the 
+		    <extref href="http://johncage.org/" show="new"
+		    actuate="onrequest">John Cage Trust</extref>.</emph> </p> 
+		</odd> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="reel">4</container> 
+		  <unittitle>John Cage lecture at June in Buffalo, 
+		    <unitdate type="inclusive" normal="1975-06-04">June 4
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 82-83. Preservation master on CD Box 3 CD
+			 3-4.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list type="simple"> 
+			 <item>CD 82, Track 1 (61:41): June 4 1975 (Wednesday). First
+			   spoken line: "This morning at the rehearsal, not all of you were there, we got
+			   involved in a discussion towards the end [about] the publication of music."
+			   </item> 
+			 <item>CD 83, Track 1 (32:24): June 4 1975 (Wednesday). First
+			   spoken line: "But find out how to go on and I would warn against coming down to
+			   depending on your spontaneity." </item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="reel">5</container> 
+		  <unittitle>John Cage lecture at June in Buffalo, 
+		    <unitdate type="inclusive" normal="1975-06-06">June 6
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 84-85. Preservation master on CD Box 3 CD
+			 5-6.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list type="simple"> 
+			 <item>CD 84, Track 1 (55:10): June 6 1975 (Friday). Begins with
+			   Cage telling a story about Lois Long and Morton Feldman. </item> 
+			 <item>CD 85, Track 1 (40:56): June 6 1975 (Friday). Begins with
+			   a continuation of a discussion of Georgia O'Keefe's paintings. </item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">3</container> 
+		  <container type="reel">6</container> 
+		  <unittitle>John Cage lecture at June in Buffalo, 
+		    <unitdate type="inclusive" normal="1975-06-06">June 6
+			 1975</unitdate> </unittitle> 
+		  <physdesc> <extent>1 10-inch reel of audio tape</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Transferred to CD 86. Preservation master on CD Box 3 CD
+			 7.</p> 
+		  </note> 
+		</did> 
+		<scopecontent> 
+		  <p> 
+		    <list type="simple"> 
+			 <item>CD 86, Track 1 (31:31): June 6 1975 (Friday). Begins with
+			   Cage in the midst of reviewing a student composer's work. </item> 
+		    </list> </p> 
+		</scopecontent> 
+	   </c02> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Contributors</head> 
+	   <persname source="lcnaf" encodinganalog="700" role="creator">Feldman,
+		Morton, 1926-1987</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Music festivals--New York
+		(State)--Buffalo</subject> 
+	   <subject encodinganalog="650" source="lcsh">Music--20th
+		century</subject> 
+	   <persname source="lcnaf" encodinganalog="600" role="subject">Cage,
+		John</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Sound
+		recordings</genreform> 
+	   <genreform encodinganalog="655" source="aat">Lectures</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <index> 
+	   <head>Index of composers</head> 
+	   <p>The following is a listing of all composers represented by works in
+		the collection with links to the specific works.</p> 
+	   <indexentry> 
+		<persname source="lcnaf">Amy, Gilbert</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB46_004">JIB46_004</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Babbitt, Milton, 1916-</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB25_003">JIB25_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB28_001">JIB28_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB28_002">JIB28_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB28_003">JIB28_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB28_004">JIB28_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB28_005">JIB28_005</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Bartók, Béla, 1881-1945</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB25_004">JIB25_004</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Beach, H. H. A., Mrs., 1867-1944</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB14_002">JIB14_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB23_004">JIB23_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Berg, Alban, 1885-1935</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB26_005">JIB26_005</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Boulez, Pierre, 1925-</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB17_003">JIB17_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB17_004">JIB17_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Brant, Henry, 1913-2008</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB35_001">JIB35_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB35_002">JIB35_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB35_003">JIB35_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB35_004">JIB35_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB35_005">JIB35_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB35_006">JIB35_006</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Brown, Earle, 1926-2002</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB04_002">JIB04_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB05_001">JIB05_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB05_002">JIB05_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB05_003">JIB05_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB05_004">JIB05_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB05_005">JIB05_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB05_006">JIB05_006</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB06_001">JIB06_001</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Cadman, Charles Wakefield,
+		  1881-1946</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_004">JIB14_004</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Cage, John</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB01_001">JIB01_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB01_002">JIB01_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB01_003">JIB01_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB01_004">JIB01_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB02_001">JIB02_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB02_002">JIB02_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB03_001A">JIB03_001A</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB03_001B">JIB03_001B</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB03_001C">JIB03_001C</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB03_001D">JIB03_001D</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB03_001E">JIB03_001E</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB03_002">JIB03_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB04_004">JIB04_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_004">JIB27_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_005">JIB27_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_006">JIB27_006</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_005">JIB39_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_006">JIB39_006</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_007">JIB39_007</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_008">JIB39_008</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_009">JIB39_009</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB46_002">JIB46_002</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Cage, John and Harrison, Lou</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB39_004">JIB39_004</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Carter, Elliott, 1908-</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB33_001">JIB33_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB33_002">JIB33_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB33_003">JIB33_003</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Chadwick, George Whitefield,
+		  1854-1931</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_005">JIB14_005</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Copland, Aaron, 1900-1990</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB22_001">JIB22_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB22_002">JIB22_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB22_003">JIB22_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB22_004">JIB22_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB22_005">JIB22_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB22_006">JIB22_006</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB22_007">JIB22_007</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Cowell, Henry, 1897-1965</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_001">JIB27_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_002">JIB27_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_003">JIB27_003</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Crumb, George</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB12_004">JIB12_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB19_001">JIB19_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB19_002">JIB19_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB21_001">JIB21_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB21_002">JIB21_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB21_003">JIB21_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB21_004">JIB21_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB21_005">JIB21_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB51_001">JIB51_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB51_002">JIB51_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB51_003">JIB51_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB51_004">JIB51_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Dessau, Paul, 1894-1979</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB48_001">JIB48_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Dittrich, Paul Heinz</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB48_004">JIB48_004</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Druckman, Jacob, 1928-1996</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB25_001">JIB25_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB32_001">JIB32_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB32_002">JIB32_002</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Edwards, Gus, 1879-1945</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB14_010">JIB14_010</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB14_012">JIB14_012</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Farwell, Arthur George, 1872-1952</persname>
+		
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB23_001">JIB23_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Feldman, Morton, 1926-1987</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB04_003">JIB04_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB06_002">JIB06_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB12_002">JIB12_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB13_001">JIB13_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB13_002">JIB13_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB42_001">JIB42_001</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Foss, Lukas, 1922-2009</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB29_001">JIB29_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB29_002">JIB29_002</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Globokar, Vinko, 1934-</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB11_002">JIB11_002</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Gottschalk, Louis Moreau,
+		  1829-1869</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_006">JIB14_006</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Griffes, Charles Tomlinson,
+		  1884-1920</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB23_003">JIB23_003</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Harris, Chas. (Charles Kassell),
+		  1867-1930</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_015">JIB14_015</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Harrison, Lou, 1917-2003</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_007">JIB27_007</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB27_008">JIB27_008</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_001">JIB39_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_002">JIB39_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB39_003">JIB39_003</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Herbert, Victor, 1859-1924</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_014">JIB14_014</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Hiller, Lejaren, 1924-1994</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB06_003">JIB06_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB06_004">JIB06_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB12_003">JIB12_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB16_001">JIB16_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB16_002">JIB16_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB16_003">JIB16_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB16_004">JIB16_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB16_005">JIB16_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB31_001">JIB31_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB31_002">JIB31_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB50_001">JIB50_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB50_002">JIB50_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB50_003">JIB50_003</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Ichiyanagi, Toshi, 1933-</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB44_004">JIB44_004</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Ives, Charles, 1874-1954</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB15_001">JIB15_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB15_002">JIB15_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB15_003">JIB15_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB15_004">JIB15_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB15_005">JIB15_005</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Johnston, Ben</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB37_001">JIB37_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Jolas, Betsy</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB46_003">JIB46_003</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Kagel, Mauricio</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB11_004">JIB11_004</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Kai, Sesshu</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB44_001">JIB44_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Kondo, Jo, 1947-</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB44_002">JIB44_002</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Loeffler, Charles Martin,
+		  1861-1935</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB23_002">JIB23_002</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Loomis, Harvey Worthington,
+		  1865-1930</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_011">JIB14_011</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">MacDowell, Edward, 1860-1908</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB14_001">JIB14_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB14_003">JIB14_003</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Nemiroff, Isaac</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB30_001">JIB30_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Reich, Steve, 1936-</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB18_001">JIB18_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB18_002">JIB18_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB18_003">JIB18_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB18_004">JIB18_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB43_001">JIB43_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB43_003">JIB43_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB43_004">JIB43_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Riley, Terry, 1935-</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB24_001">JIB24_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB24_002">JIB24_002</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Romberg, Sigmund, 1887-1951</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_009">JIB14_009</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Rzewski, Frederic</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB36_002">JIB36_002</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Satie, Erik, 1866-1925</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB20_001">JIB20_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB20_002">JIB20_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB20_003">JIB20_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB20_004">JIB20_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Satoh, Somei, 1947-</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB44_007">JIB44_007</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Schenker, Friedrich</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB48_003">JIB48_003</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Schoenberg, Arnold, 1874-1951</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB17_001">JIB17_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_001">JIB26_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_002">JIB26_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_004">JIB26_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_006">JIB26_006</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_008">JIB26_008</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_009">JIB26_009</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB45_001">JIB45_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB45_002">JIB45_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB45_003">JIB45_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB45_004">JIB45_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Shapey, Ralph, 1921-2002</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB49_001">JIB49_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Shapey, Ralph, 1921-2002</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB49_002">JIB49_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB49_003">JIB49_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB49_004">JIB49_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Soegijo, Paul Gutama</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB11_001">JIB11_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Stockhausen, Karlheinz, 1928-2007</persname>
+		
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB53_001">JIB53_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Stromberg, John</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_013">JIB14_013</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Takahashi, Yuji, 1938-</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB44_006">JIB44_006</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Takemitsu, Toru</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB44_003">JIB44_003</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Thomson, Virgil, 1896-1989</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB40_001">JIB40_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB40_002">JIB40_002</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Vigeland, Nils</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB47_001">JIB47_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB47_002">JIB47_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB47_003">JIB47_003</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Voigtländer, Lothar, 1943-</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB48_002">JIB48_002</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Von Tilzer, Harry, 1872-1946</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_008">JIB14_008</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Webern, Anton, 1883-1945</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB17_002">JIB17_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_003">JIB26_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB26_007">JIB26_007</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Wolff, Christian, 1934-</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB04_001">JIB04_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB08_001">JIB08_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB09_001">JIB09_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB36_001">JIB36_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB52_001">JIB52_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB52_002">JIB52_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB52_003">JIB52_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB52_004">JIB52_004</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Wolpe, Stefan</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB25_002">JIB25_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB30_002">JIB30_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB30_003">JIB30_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB30_004">JIB30_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB30_005">JIB30_005</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB30_006">JIB30_006</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Won, Yong Sook</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB46_001">JIB46_001</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Work, Henry C. (Henry Clay),
+		  1832-1884</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB14_007">JIB14_007</ref> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Wuorinen, Charles</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB36_003">JIB36_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB38_001">JIB38_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB38_002">JIB38_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB38_003">JIB38_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB38_004">JIB38_004</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB41_001">JIB41_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB41_002">JIB41_002</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Xenakis, Iannis, 1922-2001</persname> 
+		<ptrgrp> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB10_001">JIB10_001</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB10_002">JIB10_002</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB11_003">JIB11_003</ref> 
+		  <ref actuate="onrequest" show="replace" linktype="simple"
+		  target="JIB12_001">JIB12_001</ref> 
+		</ptrgrp> 
+	   </indexentry> 
+	   <indexentry> 
+		<persname source="lcnaf">Yuasa, Joji</persname> 
+		<ref actuate="onrequest" show="replace" linktype="simple"
+		target="JIB44_005">JIB44_005</ref> 
+	   </indexentry> 
+	 </index> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://libweb1.lib.buffalo.edu:8080/findingaids/data/html/music/concerts/ubmu_html_northamerican/ubmu_html_northamerican.html"
+			 show="new" actuate="onrequest" role="text/html">North American New Music
+			   Festival Catalog, 1983-1993</archref> </label> 
+		    <item>An online catalog of the festival performances. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			 href="http://libweb1.lib.buffalo.edu:8080/findingaids/data/html/music/concerts/ubmu_html_evenings/ubmu_html_evenings.html"
+			 show="new" role="text/html" actuate="onrequest">Evenings for New Music,
+			   1964-1980</archref> </label> 
+		    <item>An online catalog of the concert performances.</item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead>

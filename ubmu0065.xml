@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 65::James B. Coover Collection of Jazz Recordings)//EN">
+		ubmu0065</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the James B. Coover
+			 Collection of Jazz Recordings, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1950/1957"> circa 1950-1957 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Coover (James B.)
+			 Collection of Jazz Recordings </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2013</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley November 2013.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> James B. Coover
+		  Collection of Jazz Recordings, 
+		  <unitdate encodinganalog="245$f" normal="1950/1957" type="inclusive"
+			datechar="creation"> circa 1950-1957 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 65</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Coover,
+			 James, 1925-2004 </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+		  boxes</extent> <extent unit="box" encodinganalog="300$a">(84 10-inch sound
+		  recordings)</extent> </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material is recorded material. The only written content is the
+		  program notes all of which are in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection
+		  contains 84 10-inch sound recordings of jazz, blues, ragtime, and boogie
+		  woogie.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], James B. Coover Collection of Jazz Recordings,
+			 circa 1950-1957, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of James B. Coover, 1996.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Sean Ahern, November 2013.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>James B. Coover (1925-2004) served as Director of the Music Library at
+		  the State University of New York at Buffalo 1967-1999. During that time he was
+		  responsible for building a major research collection from almost nothing. Jazz
+		  was one of his many interests and his love of the music is reflected in this
+		  collection of rarer early recordings. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains 84 10-inch sound recordings of various types
+		  of jazz and blues music issued in the 1950s. It includes many of the most
+		  prominent jazz musicians, including Louis Armstrong, Jack Teagarden, Miles
+		  Davis, Bix Beiderbecke, Dizzy Gillespie, Jelly Roll Morton, Stan Getz, Gerry
+		  Mulligan, Chet Baker, and many others. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is alphabetically arranged by manufacturer label name
+		  and then in manufacturer's number. </p> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">01 </container> 
+			 <unittitle>Allegro : 4032, 
+				<unitdate type="inclusive">1954</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Gillespie, Dizzy,
+					 1917-1993</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Dizzy Gillespie and His Orchestra / Dizzy
+				  Gillespie</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: I waited for you -- Salt peanuts -- A hand fulla gimme
+				-- Ray's idea -- Our delight -- Good dues blues -- That's Earl Brother -- Oop
+				bob Sh'bam</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">02 </container> 
+			 <unittitle>Allegro : 4049, 
+				<unitdate type="inclusive">1954</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Wiley, Lee </persname>
+				  </p> 
+				<p>Album title: 
+				<title render="italic">Lee Wiley sings / Lee Wiley and Lennie
+				  Tristano</title> </p> 
+				<p>Performer(s): Lee Wiley ; Lennie Tristano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: But not for me -- Sugar -- Woman alone with the blues --
+				Memories of you -- Supersonic -- on a planet -- Air pocket -- Celestia</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">03</container> 
+			 <unittitle>Atlantic : ALS 133, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Meade Lux Lewis' interpretations of the
+				  great boogie woogie styles</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Yancey special -- Pinetop's boogie woogie -- Mr.
+				Freddie's blues -- Jumpin' for Pete -- Suitcase blues -- Albert's blues -- Cow
+				Cow blues -- Honkey tonk train blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">04</container> 
+			 <unittitle>Atlantic : ALS 11237--ALS 11238, 
+				<unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Hines, Earl,
+					 1903-1983</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Piano solo</title> </p> 
+				<p>Performer(s): Earl Hines, piano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Chicago high life -- Just too soon -- Our Monday date --
+				Off time blues -- Panther rag -- Chimes in blues -- Stowaway -- Blues in
+				thirds</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">05</container> 
+			 <unittitle>Atlantic: LP 130, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Yancey special : the last recordings of the
+				  late Jimmy Yancey</title> </p> 
+				<p>Performer(s): Jimmy Yancey, piano ; Mama Yancey, vocals ; Israel
+				  Crosby, bass </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: How long blues -- Make me a pallet on the floor --
+				Monkey woman blues -- Four o'clock blues -- Sante Fe blues -- Yancey
+				special</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">06 </container> 
+			 <unittitle>Bethlehem : BCP 1011, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Pete Brown Sextette</title> </p> 
+				<p>Performer(s): Pete Brown, alto sax ; Joe Wilder, trumpet ;
+				  Wallie Richardson, guitar ; Wade Legge, piano ; Gene Ramey, bass ; Rudy
+				  Collins, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: There will never be another you -- I can't believe
+				you're in love with me -- Used blues -- Moonlight in Vermont -- The world is
+				waiting for the sunrise -- Tea for two -- Delta blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">07 </container> 
+			 <unittitle>Bethlehem : BCP-1014, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Jonah Jones Sextette</title> </p> 
+				<p>Performer(s): Jonah Jones, trumpet ; Vic Dickenson, Urbie Green,
+				  trombone ; Edmond Hall, clarinet ; George Clark, tenor sax ; Milt Hinton, Pops
+				  Foster, bass ; Osie Johnson, drums ; Ken Kersey, piano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Beale street blues -- Down by the riverside -- European
+				blues -- The Sheik of Araby -- You're the cream in my coffee -- Wrap your
+				troubles in dreams -- J. J. special -- Stars fell on Alabama</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">08 </container> 
+			 <unittitle>Bethlehem : BCP 1017, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Stan Levey plays the compositions of Bill
+				  Holman, Bob Cooper and Jimmy Giuffre</title> </p> 
+				<p>Performer(s): Stan Levey, drums ; Zoot Sims, tenor ; Jimmy
+				  Giuffre, baritone ; Conti Candoli, trumpet ; Max Bennett, bass ; Claude
+				  Williamson, piano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Exaktamo -- Extraversion -- Drum sticks -- Lightnin' bug
+				-- West coasting -- Fast clip</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">09 </container> 
+			 <unittitle>Bethlehem : BCP-1019, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Basically, Duke</title> </p> 
+				<p>Performer(s): Oscar Pettiford, bass ; Clarke Terry, Joe Wilder,
+				  trumpet ; Jimmy Cleveland, trombone ; Jimmy Hamilton, clarinet ; Dave
+				  Schildkraut, alto ; Danny Bank, baritone sax ; Earl Knight, piano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Jack the bear -- Tamalpais -- Swing until the girls come
+				home -- Mood indigo -- Chuckles -- Time on my hands</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">10 </container> 
+			 <unittitle>Bethlehem : BCP-1040, 
+				<unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>33 1/3 rpm, stereophonic</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Garcia, Russell
+					 </persname> </p> 
+				<p>Album title: 
+				<title render="italic">Wigville</title> </p> 
+				<p>Performer(s): Russ Garcia, conductor ; Russ Cheever, soprano sax
+				  ; Charlie Mariano, alto sax ; Bill Holman, tenor sax ; Jimmy Giuffre, baritone
+				  sax ; Pete Candoli, trumpet ; Conte Candoli, trumpet ; Max Bennett, bass ; Stan
+				  Levy, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Rocky road. -- Floating. -- Butter duck. -- Mellow bone.
+				-- Wigville. -- Smogville. -- Livin' it up. -- Love row. -- Lovely one. -- Then
+				the lid blew off</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">11 </container> 
+			 <unittitle>Blue Note : BLP 5001, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Mellow the mood</title> </p> 
+				<p>Performer(s): Ike Quebec ; Ben Webster ; John Hardee ; Buck
+				  Clayton ; Jonah Jones ; Tyree Glenn ; Benny Morton ; Barney Bigard ; Edmond
+				  Hall ; Ram Ramirez ; Meade Lux Lewis ; Charlie Christian ; Tiny Grimes ; Oscar
+				  Pettiford ; Milton Hinton ; Israel Crosby ; Sidney Catlett ; J.C. Heard </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: I surrender dear -- Sweet and lovely -- If I had you --
+				Profoundly blue -- She's funny that way -- My old flame -- Blue Harlem</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">12 </container> 
+			 <unittitle>Blue Note : BLP 5002, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Monk, Thelonious
+					 </persname> </p> 
+				<p>Album title: 
+				<title render="italic">Genius of modern music / Thelonious
+				  Monk</title> </p> 
+				<p>Performer(s): Thelonious Monk, piano ; others: George Taitt ;
+				  Edmund Gregory ; Milton Jackson ; Robert Paige ; Gene Ramey ; John Simmons ;
+				  Art Blakey ; Shadow Wilson ; Idresse Suliman ; Danny Quebec West ; Billy Smith
+				  </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: 'Round about midnight -- Off minor -- Ruby my dear -- I
+				mean you -- Thelonious -- Epistrophy -- Well you needn't -- Mysterioso</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">13 </container> 
+			 <unittitle>Blue Note : BLP 5003, 
+				<unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate>
+				</unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Powell, Bud </persname>
+				  </p> 
+				<p>Album title: 
+				<title render="italic">Amazing Bud Powell / Bud Powell</title> </p>
+				
+				<p>Performer(s): Bud Powell, piano ; others: Fats Navarro ; Sonny
+				  Rollins ; Curly Russell ; Tommy Potter ; Max Roach ; Roy Haynes </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Un poco loco / Powell -- Over the rainbow / Harburg -
+				Arlen -- Ornithology / Harris -- Wail / Powell -- A night in Tunisia / Robin -
+				Gillespie -- It could happen to you / Burke - Van Heusen -- You go to my head /
+				Coots - Gillespie -- Bouncing with Bud / Powell</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">14 </container> 
+			 <unittitle>Blue Note : BLP 5013, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Davis, Miles </persname>
+				  </p> 
+				<p>Album title: 
+				<title render="italic">Young man with a horn / Miles Davis</title>
+				</p> 
+				<p>Performer(s): Miles Davis, trumpet ; others: Jay Jay Johnson ;
+				  Jackie McLean ; Gil Coggins ; Oscar Pettiford ; Kenny Clarke </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Dear old Stockholm / Varmeland -- Would'n you /
+				Gillespie -- Yesterdays / Kern - Harbach -- Chance it / Pettiford -- Donna /
+				McClean -- How deep is the ocean / Berlin</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">15 </container> 
+			 <unittitle>Blue Note : BLP 5033, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Gil Mellé Quintet : with Urbie Green and Tal
+				  Farlow volume 2</title> </p> 
+				<p>Performer(s): Gil Mellé, tenor and baritone sax ; Urbie Green,
+				  trombone ; Tal Farlow, guitar ; Clyde Lombardi, bass ; Joe Morello, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Timepiece -- Lover man -- Gingersnap -- A lion lives
+				here -- Spellbound -- Transition</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">16 </container> 
+			 <unittitle>Blue Note : BLP 7009, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Giant of Jazz / Sidney Bechet and his Blue
+				  Note Jazz Men</title> </p> 
+				<p>Performer(s): "Wild Bill" Davison ; Ray Diehl ; Sidney Bechet ;
+				  Art Hodes ; Walter Page ; "Slick" Jones ; Fred Moore ; Claude Luter </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Jazz band ball -- Tin roof blues -- Cake walking babies
+				-- Temptation rag -- When the saints go marching in -- Basin Street blues --
+				Tiger rag -- Riverboat shuffle</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">17 </container> 
+			 <unittitle>Blue Note : BLP 7010, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">George Lewis and his New Orleans
+				  Stompers</title> </p> 
+				<p>Performer(s): Avery "Kid" Howard ; Jim Robinson ; George Lewis ;
+				  Lawrence Marrero ; Chester Zardis ; Edgar Mosley </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Climaz Rag -- Dauphine Street blues -- Just a closer
+				walk with thee -- Fidgety feet -- Deep bayou blues -- Milenberg joys</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">18 </container> 
+			 <unittitle>Blue Note : BLP 7017, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Albert Ammons : memorial album</title> </p> 
+				<p>Performer(s): Meade Lux Lewis, piano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Boogie woogie stomp -- Boogie woogie blues -- Bass goin'
+				crazy -- Twos and fews -- Chicago in mind -- Suitcase blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">19 </container> 
+			 <unittitle>Brunswick : BL 58002, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Ellingtonia volume 1 : a collection of
+				  distinctive recordings / played by Duke Ellington and his orchestra</title>
+				</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: East St. Louis toodle-oo -- Birmingham breakdown --
+				Rockin' in rhythm -- Twelfth street rag -- Black and tan fantasy -- The mooche
+				-- Mood indigo -- Wall street wail</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">20 </container> 
+			 <unittitle>Brunswick : BL 58003, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Boogie woogie piano : a collection of rare
+				  recordings by the originator of boogie woogie / Pine Top Smith ; A King of the
+				  piano : in a collection of rare piano solo recordings volume 1 / Jelly Roll
+				  Morton</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Pinetop's boogie woogie ; Pinetop's blues ; Jump steady
+				blues ; I'm sober now -- King Porter stomp ; The Pearls ; Frog I more rag ; Fat
+				meat and greens</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">21 </container> 
+			 <unittitle>Brunswick : BL 58004, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Jazz classics / Louis Armstrong</title> </p>
+				
+				<p>Performer(s): Louis Armstrong with: Johnny Dodds' Black Bottom
+				  Stompers ; Lill's Hot Shots ; Erskine Tate's Vendome Orchestra ; Red Onion Jazz
+				  Babies </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Wild man blues -- Melancholy -- Georgia bo bo -- Drop
+				that sack -- Static strut -- Stomp off, let's go! -- Terrible blues -- Santa
+				Claus blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">22 </container> 
+			 <unittitle>Brunswick : BL 58018, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Boogie woogie piano : historic recordings by
+				  pioneer piano men</title> </p> 
+				<p>Performer(s): Montana Taylor ; Speckled Red ; Romeo Nelson ; Cow
+				  Cow Davenport </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Detroit rocks -- Indian Avenue stomp -- The dirty dozen
+				no. 1 &amp; 2 -- Head rag hop -- Wilkins Street stomp -- Cow Cow blues -- State
+				Street</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">23 </container> 
+			 <unittitle>Brunswick : BL 58022, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Barrel house piano : eight authentic solos
+				  by acknowledged masters of the style</title> </p> 
+				<p>Performer(s): Frank Melrose ; James P. Johnson ; Mary Lou
+				  Williams ; Alex Hill </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Pass the jug -- Jelly Roll stomp -- Jingels -- You've
+				got to be modernistic -- Drag 'em -- Night life -- Stompin' 'em down -- Tack
+				head blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">24 </container> 
+			 <unittitle>Brunswick : BL 58024, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Harlem jazz 1930 : selected performances by
+				  the first great swing bands</title> </p> 
+				<p>Performer(s): Duke Ellington ; Don Redman ; Fletcher Henderson ;
+				  Luis Russell </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Double check stomp -- Jolly wog -- Chant of the weed --
+				Shakin' the African -- Radio rhythm -- Just blues -- Saratoga drag -- Case on
+				dawn</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">25 </container> 
+			 <unittitle>Brunswick : BL 58026, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Riverboat jazz : New Orleans to Chicago :as
+				  played by the famous jazzmen on the Mississippi</title> </p> 
+				<p>Performer(s): King Oliver ; Dewey Jackson ; Jelly Roll Morton ;
+				  Jimmy Wade ; Punch Miller ; Albert Wynn </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Snag it -- Capitol blues -- Mr. Jelly Lord -- Midnight
+				mama -- Gates blues -- Parkway stomp -- Down by the levee -- She's cryin' for
+				me</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">26 </container> 
+			 <unittitle>Brunswick : BL 58037, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Battle of jazz : volume 1</title> </p> 
+				<p>Performer(s): On side 1: Bud Freeman, tenor sax, and the Summa
+				  cum Laude Orchestra (Max Kaminsky, trumpet ; Brad Gowans, trombone ; Pee Wee
+				  Russell, clarinet ; Dave Bowman, piano ; Eddie Condon, guitar ; Clyde Newcomb,
+				  bass ; Al Sidell, drums) ; on side 2: Joe Marsala, clarinet, and his orchestra
+				  (Marty Marsala, trumpet ; Ben Glassman, alto sax ; John Smith, tenor sax ;
+				  Adele Girard, harp ; Dave Bowman, piano ; Carmen Mastren, guitar ; Jack
+				  Kelleher, bass ; Shelly Manne, drums) </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: The sail fish / Bud Freeman -- As long as I live ;
+				Harold Arlen ; Ted Koehler -- Sunday / Ned Miller ; Chester Conn ; Jules Stein
+				; Bennie Krueger -- Satanic blues / Larry Shields ; Emile Christian -- Bulls
+				eye ; Lower register / Adele Girard -- Slow down / Redd Evans -- I know that
+				you know / Vincent Youmans ; Anne Caldwell</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">27 </container> 
+			 <unittitle>Capitol : H-383, 
+				<unitdate type="inclusive">1956?</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">New concepts of artistry in rhythm </title>
+				</p> 
+				<p>Performer(s): Stan Kenton and his orchestra </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: 23°N - 82°W -- Portrait of a count -- Improvisation --
+				Invention for guitar and trumpet -- My lady -- Young blood -- Frank
+				speaking</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">28 </container> 
+			 <unittitle>Capitol : H 439, 
+				<unitdate type="inclusive">19–</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Mulligan, Gerry
+					 </persname> </p> 
+				<p>Album title: 
+				<title render="italic">Gerry Mulligan and his ten-tette</title>
+				</p> 
+				<p>Performer(s): Gerry Mulligan, baritone sax, piano; Chet Baker,
+				  Pete Candoli, trumpet; John Graas, horn; Bud Shank, alto sax; Bob Enevoldsen,
+				  trombone; Ray Siegel, tuba; Joe Mondragon, bass; Chico Hamilton or Larry
+				  Bunker, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Rocker--Walking shoes--Simbah--Ontet--Westwood
+				walk--Ballad--Taking a chance on love--Flash</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">29 </container> 
+			 <unittitle>Clef : MG C-116, 
+				<unitdate type="inclusive">1951?</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p> 
+				  <corpname role="creator" source="lcnaf">Oscar Peterson
+					 Quartet</corpname> </p> 
+				<p>Album title: 
+				<title render="italic">The Oscar Peterson Quartet</title> </p> 
+				<p>Performer(s): Jazz quartets; Peterson, piano ; Barney Kessel,
+				  guitar ; Ray Brown, bass ; Alvin Stoller, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: The Astaire blues -- Stompin' at the Savoy</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">30 </container> 
+			 <unittitle>Columbia : CL 6052, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Goodman sextet session / Benny Goodman
+				  Sextet</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Tiger rag -- Ain't misbehavin' -- She's funny that way
+				-- I got rhythm -- Just one of those things -- China boy -- Shine -- Rachel's
+				dream</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">31 </container> 
+			 <unittitle>Columbia : CL 6187, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Freddy Gardner</title> </p> 
+				<p>Performer(s): Peter Yorke &amp; his orchestra </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: I'm in the mood for love -- Valse vanite -- These
+				foolish things -- Roses of Picardy -- Body and soul -- I only have eyes for
+				you</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">32 </container> 
+			 <unittitle>Contemporary : C 2504, 
+				<unitdate type="inclusive">1953</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Dizzy in Paris</title> </p> 
+				<p>Performer(s): Dizzy Gillepsie, trumpet ; Nat Peck, trombone ;
+				  Wade Legge, piano ; Lou Hackney, bass ; Al Jones, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Mon homme -- Toujours -- C'est comme ça -- 's
+				merveilleux -- Fais gaffe! -- Au pays d'oobladee -- Nocturne lunaire -- J'ai du
+				rhythme</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">33 </container> 
+			 <unittitle>Contemporary : C2511, 
+				<unitdate type="inclusive">1954</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Manne, Shelly </persname>
+				  </p> 
+				<p>Album title: 
+				<title render="italic">Shelly Manne and his men, vol. 2</title>
+				</p> 
+				<p>Performer(s): Ollie Mitchell, Don Fagerquist &amp; Shorty
+				  Rogers, trumpet ; Bob Enevoldsen, trombone ; Paul Sarmento, tuba ; Russ Freeman
+				  &amp; Marty Paich, piano ; Joe Mondragon, bass ; Shelly Mann, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Dimension in thirds -- Shapes, motion, colors --
+				Alternation -- Divertimento for brass and rhythm -- Lullaby -- Etude de
+				concert</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">34 </container> 
+			 <unittitle>Contemporary Records : C2514, 
+				<unitdate type="inclusive">1954</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Kessel, Barney
+					 </persname> </p> 
+				<p>Album title: 
+				<title render="italic">Barney Kessel</title> </p> 
+				<p>Performer(s): Barney Kessel ; others: Bob Cooper ; Claude
+				  Williamson ; Monty Budwig ; Shelly Manne </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Barney's Blues -- A foggy day / George and Ira Gershwin
+				-- Prelude to a kiss / Ellington -- 64 bars on Wilshire -- Speak low / Kurt
+				Weill and Ogden Nash -- Love is here to stay / George and Ira Gershwin -- How
+				long has this been going on / George and Ira Gershwin -- On a slow boat to
+				China / Frank Loesser</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">35 </container> 
+			 <unittitle>Contemporary : C2516, 
+				<unitdate type="inclusive">1955</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Manne, Shelly </persname>
+				  </p> 
+				<p>Album title: 
+				<title render="italic">Shelly Manne: "The Three"</title> </p> 
+				<p>Performer(s): Shelly Manne, drums ; Shorty Rogers, trumpet ;
+				  Jimmy Giuffre, clarinet, tenor &amp; baritone saxes </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Flip -- Autumn in New York -- Pas de trois -- Three on a
+				row -- Steeplechase -- Abstract no. 1</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">36</container> 
+			 <unittitle>EmArcy : MG 26005, 
+				<unitdate type="inclusive">1952</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Vaughan, Sarah,
+					 1924-1990</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Images / Sarah Vaughan</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Lover man -- Shulie a bop -- Polka dots and moonbeams --
+				Body and soul -- They can't take that away from me -- Prelude to a kiss -- You
+				hit the spot -- If I knew then (What I know now)</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">37</container> 
+			 <unittitle>EmArcy : MG 26041, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p> 
+				  <corpname role="creator" source="lcnaf">Lars Gullin
+					 Quartet</corpname> </p> 
+				<p>Album title: 
+				<title render="italic">Lars Gullin Quartet </title> </p> 
+				<p>Performer(s): Lars Gullin, baritone sax ; Rolf Berg, guitar ;
+				  George Riedel, bass ; Robert Edman, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Danny's dream -- Be careful -- Igloo -- Circus</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">38</container> 
+			 <unittitle>EmArcy : MG 26043, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Clifford Brown and Max Roach</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Delilah -- Parisian thoroughfare -- Däähoud -- Joy
+				spring -- Jordu</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">39</container> 
+			 <unittitle>Epic : LG-1010, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Moder woodwind expressions / the
+				  Harris-Leigh Woodwinds</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Burlesque -- Ceres -- Spooks -- Blues -- Sudden change
+				-- Horn song -- Waltz for an insane puppet -- Mambo diablo</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">40-41</container> 
+			 <unittitle>Good Time Jazz : L-10-L-11, 
+				<unitdate type="inclusive">1953</unitdate> </unittitle> 
+			 <physdesc> <extent>2 10-inch sound recordings</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Kid Ory's Creole Jazz Band volume 1 &amp;
+				  2</title> </p> 
+				<p>Performer(s): Kid Ory, trombone ; Mutt Carey, trumpet ; Omer
+				  Simeon &amp; Darnell Howard, clarinet ; Bud Scott, guitar ; Buster Wilson,
+				  piano ; Ed Garland, bass ; Minor Hall &amp; Alton Redd, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Creole song -- Get out of here -- Blues for Jimmie Noone
+				-- South -- Panama -- Under the bamboo tree -- Careless love -- Do what Ory say
+				-- Maryland, my Maryland -- Down home rag -- 1919 rag -- Oh! Didn't he ramble
+				-- Ory's creole trombone -- Weary blues -- Maple leaf rag -- Original dixieland
+				one step</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">42</container> 
+			 <unittitle>Jazztone : J-SPEC-100, 
+				<unitdate type="inclusive">1955</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Jazz sampler </title> </p> 
+				<p>Performer(s): Various performers </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Jelly roll blues (Sidney Bechet and his New Orleans
+				Feetwarmers) -- Slam slam blues (Red Norvo All-Stars) -- Relaxin' at Camarillo
+				(Charlie Parker All-Stars) -- Dark eyes (Art Tatum Trio) -- B.C. blues (Buck
+				Clayton Quintet) -- Honeysuckle rose (Coleman Hawkins Quartet) -- Serenade to a
+				Shylock (Jack Teagarden and his orchestra) -- Trio (Erroll Garner Trio) -- Moon
+				burns (Woody Herman Woodchoppers) -- Basin Street blues (Rex Stewart and his
+				Dixieland Jazz Band)</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">43 </container> 
+			 <unittitle>MGM : E-523, 
+				<unitdate type="inclusive">1957?</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Eckstine, Billy
+					 </persname> </p> 
+				<p>Album title: 
+				<title render="italic">Songs by Billy Eckstine</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Temptation -- Over the rainbow -- My old flame --
+				Someone to watch over me -- Fools rush in -- Nobody knows the trouble I've seen
+				-- You go to my head -- I don't want to cry any more</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">44 </container> 
+			 <unittitle>Norgran Records : MG –2, 
+				<unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate>
+				</unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p>Currently missing: November 20 2013.</p>
+				<p>Album title: 
+				<title render="italic">The Dizzy Gillespie Stan Getz Sextet
+				  </title> </p> 
+				<p>Performer(s): Performed by the Dizzy Gillespie Stan Getz Sextet
+				  </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: It don't mean a thing -- Let a song go out of my heart
+				-- Exactly like you -- Talk of the town</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">45 </container> 
+			 <unittitle>Norgran : MG –27, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Chico mambo dance session / Chico
+				  O'Farrill</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: No te importe saber -- Vaya con dios -- Pianarabatibri
+				-- L. A. mambo -- Quiéreme mucho -- More mambo -- Mambo for bunto --
+				Botellero</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">46 </container> 
+			 <unittitle>Norgran : MG –28, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Chico O'Farrill's Latino dance
+				  session</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Lamento -- You stepped out of a dream -- Cachita --
+				Rumbonsito -- Munequita Linda -- Siboney -- Angels flight -- Tres palabras</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">47 </container> 
+			 <unittitle>Pacific Jazz : PJ LP-1, 
+				<unitdate type="inclusive" normal="950/1959">1950-1959</unitdate>
+				</unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>33 1/3 rpm</materialspec> 
+			 <note> 
+				<p> 
+				  <corpname role="creator" source="lcnaf">Gerry Mulligan
+					 Quartet</corpname> </p> 
+				<p>Album title: 
+				<title render="italic">Pacific Jazz presents the Gerry Mulligan
+				  Quartet </title> </p> 
+				<p>Performer(s): Gerry Mulligan, baritone saxophone ; Chet Baker,
+				  trumpet ; Chico Hamilton, drums ; Bob Whitlock, bass </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Frenesi--Freeway--Soft shoe--Aren't you glad you're
+				you--Bernie's tune--Walkin' shoes--Nights at the turntable--Lullaby of the
+				leaves</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">48 </container> 
+			 <unittitle>Pacific Jazz : PJ LP-6, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Pacific Jazz presents the Chet Baker Quartet
+				  </title> </p> 
+				<p>Performer(s): Performed by the Chet Baker Quartet ; featuring
+				  Russ Freeman </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: No ties -- Band aid -- The thrill is gone -- All the
+				things you are -- Long ago and far away -- Happy little sunbeam -- Moon love --
+				Bea's flat</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">49 </container> 
+			 <unittitle>Period : SPL 1105, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Spring sequence / Ralph Burns and his
+				  ensemble</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Springs sequence -- It might as well be Spring -- Spring
+				is here -- Sprang -- Echo of Spring</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">50</container> 
+			 <unittitle>Period : SPL 1108, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Osie's oasis</title> </p> 
+				<p>Performer(s): Osie Johnson and his combos </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: The desert song -- Cokernut tree -- Jumpin' at the
+				waterhole -- Blues for the camels -- Osi's Oasis -- Midnight mirage</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">51 </container> 
+			 <unittitle>Period : SPL 1109, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Bijou</title> </p> 
+				<p>Performer(s): Ralph Burns and his ensemble </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Bijou -- Gina -- Perpetual motion -- Lover come back to
+				me -- Autobahn blues -- Spring in Naples</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">52 </container> 
+			 <unittitle>Period : SPL 1110, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Original Dixieland / Jack Teagarden and his
+				  orchestra</title> </p> 
+				<p>Performer(s): Jack Teagarden and his orchestra </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Original Dixieland one step -- Riverboat shuffle -- King
+				Porter stomp -- High society -- Eccentric -- Milenberg joys</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">53 </container> 
+			 <unittitle>Period : SPL 1111, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Jazzical moods, volume 2</title> </p> 
+				<p>Performer(s): Charles Mingus, piano ; Oliver King, trumpet ;
+				  John La Porta, alto sax ; Teo Macero, tenor sax ; Jackson Wiley, cello ; Clem
+				  DeRosa, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: The spur of the moment -- Echonitus -- Thrice upon a
+				theme -- Four hands</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">54 </container> 
+			 <unittitle>Period : SPL 1112, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Johnson's Whacks / Osie Johnson and his
+				  combos</title> </p> 
+				<p>Performer(s): Osie Johnson Sextet ; Osie Johnson Quintet </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Cat walk -- I don't want to cry anymore -- Don't hug me
+				-- Johnson's whacks -- Flute to boot -- Osmosis</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">55 </container> 
+			 <unittitle>Prestige : PRLP 160, 
+				<unitdate type="inclusive">1955?</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">The Modern Jazz Quartet </title> </p> 
+				<p>Performer(s): Jazz quartet: Milt Jackson, vibes ; John Lewis,
+				  piano ; Percy Heath, bass ; Kenny Clarke, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: All the things you are / Kern -- La Ronde ; Vendome /
+				Lewis -- Rose of the Rio Grande / Warren -- The queen's fancy ; Delaunay's
+				dilemma / Lewis -- Autumn in New York / Duke -- But not for me / Gershwin</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">56 </container> 
+			 <unittitle>Prestige : PRLP 189, 
+				<unitdate type="inclusive">1954</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Monk, Thelonious
+					 </persname> </p> 
+				<p>Album title: 
+				<title render="italic">Thelonious Monk Plays / Thelonious
+				  Monk</title> </p> 
+				<p>Performer(s): Thelonious Monk, piano ; others: Percy Heath ; Art
+				  Blakey </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Work -- Nutty -- Blue Monk -- Just a gigolo</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">57 </container> 
+			 <unittitle>Riverside : 1003, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Ma Rainey, first of the great blues singers
+				  volume 1</title> </p> 
+				<p>Performer(s): Tampa Red, guitar ; The Tub Jug Washboard Band
+				  </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Daddy, goodbye blues -- Black eye blues -- Deep moanin'
+				blues -- Runaway blues -- Leaving this morning -- Travelling blues -- Sleep
+				talking blues -- Blame it on the blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">58 </container> 
+			 <unittitle>Riverside : RLP 1004, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Muggsy, Tesch and the Chicagoans </title>
+				</p> 
+				<p>Performer(s): Muggsy Spanier, cornet ; Frank Teschenmacher,
+				  clarinet </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: China boy -- Bull frog blues -- Friar's Point shuffle --
+				Darktown strutters' ball -- Nobody's sweetheart -- Whoopee stomp -- Sister Kate
+				-- Jazz me blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">59 </container> 
+			 <unittitle>Riverside : RLP 1011, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Early Harlem piano / James P.
+				  Johnson</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Charleston -- I've got my habits on -- Harlem strut --
+				Vampin' Liza Jane -- Harlem choc'late babies on parade -- Make me a pallet on
+				the floor -- Loveless love -- it takes love to cure the heart's disease</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">60 </container> 
+			 <unittitle>Riverside : RLP 1017, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Collector's Items : Volume I</title> </p> 
+				<p>Performer(s): Richard M. Jones Jazz Wizards ; Parham-Pickett
+				  Apollo Syncopators ; Tiny Parham and his Forty-Five ; Clarence Williams and his
+				  Orchestra </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Hot and ready -- It's a low down thing -- Mojo strut --
+				Alexander, where's that band -- A little bit closer - Jim Jackson's Kansas City
+				blues -- Jingles -- Shake 'em up</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">61 </container> 
+			 <unittitle>Riverside : RLP 1023, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Bix Beiderbecke and the Wolverines</title>
+				</p> 
+				<p>Performer(s): Bix Beiderbecke, cornet ; Al Gande &amp; George
+				  Brunis, trombone ; Jimmy Hartwell, clarinet ; George Johnson, tenor sax ; Dick
+				  Voynow, piano ; Bob Gillette, banjo ; Min Leibrook, tuba ; Vic Moore, drums
+				  </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Fidgety feet -- Jazz me blues -- Oh baby -- Copenhagen
+				-- Riverboat shuffle -- Sensation -- Lazy daddy</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">62 </container> 
+			 <unittitle>Riverside : RLP 1025, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Ragtime piano roll : volume 2</title> </p> 
+				<p>Performer(s): Scott Joplin and other, unknown pianists </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Maple leaf rag -- Evergreen rag -- Grizzly bear rag --
+				The cascades -- States rag medley #8 -- St. Louis tickle -- Jungle time --
+				'possum and 'taters</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">63 </container> 
+			 <unittitle>Riverside : RLP 1029, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Armstrong, Louis,
+					 1901-1971</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Louis Armstrong with King Oliver's Creole
+				  Jazz band</title> </p> 
+				<p>Performer(s): Joe (King) Oliver, Louis Armstrong, cornets ;
+				  Honore Dutray, trombone ; Johnny Dodds, clarinet ; Lil Hardin Armstrong, piano
+				  ; Bill Johnson, banjo ; Warren (Baby) Dodds, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Chimes blues -- Froggie Moore -- Just gone -- Canal
+				Street blues -- Dipper mouth blues -- Weatherbird rag -- Mandy Lee blues --
+				Snake rag</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">64 </container> 
+			 <unittitle>Riverside : RLP 1032, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">The great blues singers</title> </p> 
+				<p>Performer(s): Bessie Smith ; Ida Cox ; Ma Rainey ; Chippie Hill
+				  </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: St. Louis blues -- Jail house blues -- I'm so glad --
+				Soon this morning -- Don't fish in my sea -- Troubled in mind blues -- Careless
+				love</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">65 </container> 
+			 <unittitle>Riverside : RLP 1033, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Williams, Clarence,
+					 1893-1965</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Clarence Williams : with King Oliver and/or
+				  Ed Allen</title> </p> 
+				<p>Performer(s): Clarence Williams ; Joe (King) Oliver ; Ed Allen ;
+				  Charlie Irvis ; Ben Waters ; Ed Whittet ; Omer Simeon ; Buddy Christian ; Cyrus
+				  St. Clair ; Anna Bell ; </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Bozo -- Kitchen woman blues -- Lock step blues -- Bimbo
+				-- Beau Koo Jack -- Sister Kate -- Speakeasy blues -- Long, deep and wide</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">66 </container> 
+			 <unittitle>Riverside : RLP 1034, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Pioneers of Boogie Woogie volume 2</title>
+				</p> 
+				<p>Performer(s): Cow Cow Davenport ; Jabo Williams ; Charlie Spand
+				  ; Charles Avery ; Henry Brown </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Dearborn St. breakdown -- Polack blues -- Fat mama blues
+				-- Chimes blues -- Eastern Chimes blues -- Deep Morgan blues -- Mississippi
+				blues -- Atlanta rag</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">67 </container> 
+			 <unittitle>Riverside : RLP 1038, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Morton, Jelly Roll,
+					 -1941</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Classic jazz piano: Vol. 1 / Jelly Roll
+				  Morton</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Grandpa's spells -- Shreveport stomp -- Kansas city
+				stomps -- Stratford hunch -- Bucktown blues -- Big foot ham -- Perfect rag --
+				Tom cat blues</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">68 </container> 
+			 <unittitle>Riverside : RLP 2505, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">New Orleans jazz party / Dixieland Rhythm
+				  Kings</title> </p> 
+				<p>Performer(s): Dixieland Rhythm Kings (Bob Hodes, trumpet ;
+				  Charlie Sonnanstine, trombone ; Joe Darensbourg, clarinet ; Robin Wetterau,
+				  piano ; Gene Mayl, tuba ; Jack Vastine, banjo) </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Blue mama's suicide wail -- Bill Bailey, won't you
+				please come home -- Darktown strutters ball -- Irish black bottom -- Ory's
+				creole trombone -- Melancholy -- St. James infirmary -- Come back, sweet
+				papa</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">69 </container> 
+			 <unittitle>Riverside : RLP 2512, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">George Lewis</title> </p> 
+				<p>Performer(s): George Lewis and his New Orleans All Stars and
+				  Quartet </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Darktown strutters ball -- Hindustan -- St. James
+				infirmary -- Some of these days -- Dallas blues -- Red wing -- Lou-easy-an-I-a
+				-- Careless love</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">70 </container> 
+			 <unittitle>Riverside : RLP 2513, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Lu Watters: 1947</title> </p> 
+				<p>Performer(s): Lu Watters &amp; Bob Scobey, trumpets ; Turk
+				  Murphy, trombone ; Bob Helm, clarinet ; Wally Rose, piano ; Harry Mordecai,
+				  banjo ; Dick Lammi, tuba ; Bill Dart, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Cake Walking babies from home -- Antigua blues -- Beale
+				street blues -- Chattanooga stomp -- Jazzin' babies blues -- Snake rag</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">71 </container> 
+			 <unittitle>Riverside : RLP 2517, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Six valves: Don Elliot &amp; Rusty
+				  Dedrick</title> </p> 
+				<p>Performer(s): Don Elliott &amp; Lyle (Rusty) Dedrick, trumpets ;
+				  Dick Hyman, piano ; Mundell Lowe, guitar ; Eddie Safranski, bass ; Don Lamond,
+				  drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Vampire till ready -- When your lover has gone --
+				Gargantuan chant -- Your own iron -- Easy to remember -- Dominick seventh</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">72 </container> 
+			 <unittitle>Royal Roost : RLP 410, 
+				<unitdate type="inclusive">1953?</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p> 
+				  <corpname role="creator" source="lcnaf">Johnny Smith
+					 Quintet</corpname> </p> 
+				<p>Album title: 
+				<title render="italic">Jazz at NBC / Johnny Smith Quintet</title>
+				</p> 
+				<p>Performer(s): For jazz quintet featuring Johnny Smith, guitar;
+				  other performers Stan Getz, sax ; Eddie Safranski, bass ; Don Lamond, drums ;
+				  Sanford Gold, piano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Moonlight in Vermont -- Tabu -- A ghost of a chance --
+				Where or when -- Tenderly -- Jaguar -- My funny valentine -- Vilia</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">73 </container> 
+			 <unittitle>Royal Roost : RLP 417, 
+				<unitdate type="inclusive" normal="950/1959">1950-1959</unitdate>
+				</unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Getz, Stan,
+					 1927-1991</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Chamber Music by the Stan Getz Quintet /
+				  Stan Getz Quintet</title> </p> 
+				<p>Performer(s): Stan Getz ; others: Jimmy Rainey ; Horace Silver ;
+				  Len Gaskin ; Roy Haynes ; Tommy Potter </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Yvette / Gryce -- Potters luck / Silver -- Autumn leaves
+				-- Lullaby of Birdland / Shearing -- Wildwood / Gryce -- Melody express / Gryce
+				-- These foolish things -- Penny / Silver</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">74 </container> 
+			 <unittitle>Stinson Records : SLP 20, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Jazz variations </title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Twelfth Street rag (Fletcher Henderson's Connie's Inn
+				Orchestra) -- Jess stay blues (Jess Stacy) -- Snowy morning blues (James P.
+				Johnson) -- Milenberg joys (Fletcher Henderson's Connie's Inn Orchestra) -- I
+				never knew (Peck's Bad Boys) -- Noni (Jess Stacy)</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">75 </container> 
+			 <unittitle>Stinson : SLP 21, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">New York Jazz / James P. Johnson</title>
+				</p> 
+				<p>Performer(s): James P. Johnson, piano, with assisting jazz
+				  artists </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Hot Harlem -- The dream -- Euphonic sounds -- Four
+				o'clock groove -- Hesitation blues -- The boogie dream</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">76 </container> 
+			 <unittitle>Stinson Records : LP-23, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, monaural</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Granz, Norman,
+					 1918-2001</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Jazz at the philharmonic / Norman
+				  Granz</title> </p> 
+				<p>Performer(s): Willie Smith ; Illinois Jacquet ; Charles Ventura
+				  ; Joe Guy ; Howard McGhee ; Garland Finney ; Ulysses Livingston ; Red Callander
+				  </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: How high the moon / Lewis - Hamilton -- Lady be good /
+				Gershwin</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">77 </container> 
+			 <unittitle>Stinson : SLP 24, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Mary Lou Williams jazz concert</title> </p> 
+				<p>Performer(s): Mary Lou Williams, piano ; Claude Green, clarinet
+				  ; Don Byas, tenor sax ; Jack Parker, drums ; Al Lucas, bass ; Vic Dickenson,
+				  trombone ; Dick Vance, trumpet </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Lady be good -- Man o' mine -- Carcinoma -- Jgon mili
+				jam session -- Star dust</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">78 </container> 
+			 <unittitle>Stinson : SLP 30, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Ragtimers / Muggsy Spanier &amp; Pee Wee
+				  Russell</title> </p> 
+				<p>Performer(s): Muggsy Spanier, cornet ; Vic Dickenson, trombone ;
+				  Pee Wee Russell, clarinet and vocal ; Cliff Jackson, piano ; Francis Palmer
+				  &amp; Bob Casey, bass ; Joe Grausso, drums </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Muskogee blues -- Since my best gal turned me down --
+				Rosie -- Red hot mama -- Take me back to the land of jazz -- I'd climb the
+				highest mountain</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">79 </container> 
+			 <unittitle>Stinson : SLP 46, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Sidney Bechet</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Mayette meringue -- Ba ba rhumba -- Magic island
+				meringue -- Tropical mood rhumba -- Sous les palmiers -- Rosa rhumba</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">80 </container> 
+			 <unittitle>Stinson : SLP 56, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Blind Garry Davis with Sonny Terry and his
+				  mouth harp</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: I can't make the journey by myself -- Oh what a
+				beautiful city -- Jesus met the woman at the well -- You got to move -- Bad
+				company brought me here -- Motherless children -- Say no to the devil -- Death
+				is riding every day</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">81 </container> 
+			 <unittitle>Stinson : SLP 58, 
+				<unitdate type="inclusive">undated</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>Analog, 33 1/3 rpm, monaural</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Piano rags, stomps and blues / played by
+				  Johnny Wittwer</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Sister Kate -- Willie the weeper -- Yonder comes the
+				blues -- Canned meat rag -- Yellow dog blues -- Joe Turner blues -- Ory's
+				creole trombone -- Black and white rag</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">82 </container> 
+			 <unittitle>Stinson Records : SLP 59, 
+				<unitdate type="inclusive">1950-1959</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm ;</materialspec> 
+			 <note> 
+				<p>Album title: 
+				<title render="italic">Yank Lawson and Bob Haggart</title> </p> 
+				<p>Performer(s): Yank Lawson, trumpet ; Bob Haggart, bass,
+				  whistling ; with Jerry Jerome, tenor sax, and his orchestra </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Coniff riff -- Misty blues -- Opus -- Girl of my dreams
+				-- Arsenic and old face -- Ain't misbehavin -- St. Louis blues -- When I grow
+				too old to dream</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">83 </container> 
+			 <unittitle>Vanguard : VRS-8019, 
+				<unitdate type="inclusive">1955</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Braff, Ruby,
+					 1927-2003</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Two part inventions in jazz : vol.1 / Ruby
+				  Braff and Ellis Larkins</title> </p> 
+				<p>Performer(s): Ruby Braff, Trumpet ; Ellis Larkin, piano </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Love for sale -- I've got a pocket full of dreams --
+				blues for Ruby -- I've got he world on a string -- Please -- Old folks</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="item">84 </container> 
+			 <unittitle>Vanguard : VRS-8020, 
+				<unitdate type="inclusive">1955</unitdate> </unittitle> 
+			 <physdesc> <extent>1 10-inch sound recording</extent> </physdesc> 
+			 <materialspec>analog, 33 1/3 rpm, monaural ;</materialspec> 
+			 <note> 
+				<p> 
+				  <persname role="creator" source="lcnaf">Braff, Ruby,
+					 1927-2003</persname> </p> 
+				<p>Album title: 
+				<title render="italic">Two part inventions in jazz, vol.2 / Ruby
+				  Braff and Ellis Larkins</title> </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contents: Blues for Ellis -- A city called heaven -- What is there
+				to say -- Sailboat in the moonlight -- When a woman loves a man -- You are too
+				beautiful -- Skylark</p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Jazz</subject> 
+		  <subject source="lcsh" encodinganalog="650">Blues (Music)</subject> 
+		  <subject source="lcsh" encodinganalog="650">Ragtime music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Boogie woogie
+			 (Music)</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Sound
+			 recordings</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add">
+	 
+	 <head>Associated Material</head>
+	<otherfindaid encodinganalog="555"> 
+<head>Additional Guides</head> 
+<p>All recordings in the collection are cataloged in WorldCat and are
+ available in <extref href="http://library.buffalo.edu/" show="new" actuate="onrequest" 
+ role="text/html">University at Buffalo Libraries' Catalog</extref>, by performing a search 
+ under "James B Coover collection of jazz recordings".</p> 
+ </otherfindaid>
+
+	 
+	 </descgrp>
+  </archdesc>
+</ead>

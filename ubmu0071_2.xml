@@ -1,0 +1,3806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 71.2::Joseph Chouinard Collection of Images)//EN">ubmu0071_2</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Joseph
+		Chouinard Collection of Images, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1928/2006">circa 1928-2006</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Chouinard (Joseph)
+		Collection of Images</titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley. </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2015</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley June 2015.</creation>
+	 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a"> Joseph Chouinard
+	   Collection of Images, 
+	   <unitdate encodinganalog="245$f" normal="1928/2006" type="inclusive"
+	    datechar="creation">circa 1928-2006</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 71.2</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="" source="lcnaf"> Chouinard,
+		Joseph Jerod, 1926-2014 </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+	   boxes</extent> <extent unit="item" encodinganalog="300$a">(227 items)</extent>
+	   </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546"> No
+	   textual materials are included with this collection.</langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The collection contains
+	   227 images collected by Joseph Chouinard. The images provide documentation of his life from the age
+	   of about two years through age eighty. The collection contains images of his
+	   performances with opera companies in Maine, Binghamton, Buffalo, and elsewhere.
+	   The collection also contains images from the fourteen months Joseph Chouinard
+	   spent as a member of the United States Navy on Okinawa.</abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Joseph Chouinard Collection of Images, circa
+		1928-2006, Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Joseph Chouinard, 2006.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+    	<altformavail encodinganalog="530"> 
+    		<head>Alternate Forms</head> 
+    		<p>Collection contents have been digitized and are available in
+    			
+    			<extref href="http://digital.lib.buffalo.edu/collection/LIB-MUS023/"
+    				actuate="onrequest" show="new">University Libraries Digital
+    				Collections.</extref></p> 
+    	</altformavail> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Joseph Chouinard was born in Middletown, Connecticut. His birth
+	   certificate lists his middle name as Gerard and his date of birth as May 4th,
+	   1926. However, later documentation shows his date of birth to be May 7th, 1926
+	   and his middle name to be Jerod. It is unclear why this discrepancy exists,
+	   though it should be noted. He graduated from Middletown High School in 1944.
+	   Following graduation Joseph enlisted in the United States Navy. He served in
+	   the Navy from 1944-1946, during which time he was stationed in Okinawa, Japan.
+	   After he was discharged he attended the University of Connecticut, graduating
+	   with a BA in Music in 1950. He stayed at the university and in 1952, obtained
+	   his Master of Arts and Music Degree. Later, he obtained his MLS in Music
+	   Librarianship from State University of New York College at Geneseo in 1970. In
+	   addition to his degrees, Joseph studied with Nadia Boulanger at Fontainebleau
+	   in 1957 and 1958. He also attended the 1961 Session of the Summer School for
+	   Singers in Oxford, England. </p> 
+	 <p>Throughout his life, Joseph performed both nationally and
+	   internationally as a bass baritone. He performed both as a chorus member and as
+	   a soloist, including performances at the Tanglewood Festival, Calvary Church in
+	   New York City, the Tri-Cities Opera Company in Binghamton, the Aspen Music
+	   Festival, the Florida International Music Festival, Columbia University,
+	   Arundel Opera (Maine), Theatre Under the Stars in Atlanta, Georgia, and with
+	   the University Opera Studio at the State University of New York at Buffalo.
+	   </p> 
+	 <p>His music librarianship career included positions as Music and Art
+	   Librarian, California State College at San Bernardino (1971-1974), Music
+	   Cataloger, State University of New York at Buffalo (1974-1978), Music
+	   Librarian, State University of New York College at Fredonia (1978-1991), and
+	   Exchange Music Librarian at Royal Holloway College, Great Britain (1983-1984).
+	   After retiring, Joseph Chouinard remained active as a volunteer at the State
+	   University of New York at Buffalo Music Library and at the Buffalo Veterans
+	   Administration Hospital where he led patients in various arts activities such
+	   as readings of plays and poetry. He died in Buffalo on January 6th, 2014. </p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection contains 227 images collected by Joseph Chouinard. They
+	   document his life from the age of about two years through age eighty. The
+	   collection contains images of his performances with opera companies in Maine,
+	   Binghamton, Buffalo, and elsewhere. The collection also contains a set of twenty 
+	   packaged images from Pikes Peak, Colorado and another set of forty-five images that document
+	   the fourteen months Joseph Chouinard spent as a United States sailor on
+	   Okinawa at the end of World War II. Mr. Donn Cuson generously provided information to identify 
+	   many of the photographs in this set.</p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is arranged in six series based on format and size of
+	   material: 
+	   <list type="simple"> 
+		<item> 
+		  <ref target="series1" actuate="onrequest" show="replace">I. Larger
+		    format photographs</ref></item> 
+		<item> 
+		  <ref target="series2" actuate="onrequest" show="replace">II. Medium
+		    format photographs</ref></item> 
+		<item> 
+		  <ref target="series3" actuate="onrequest" show="replace">III.
+		    Smaller format photographs</ref></item> 
+		<item> 
+		  <ref target="series4" actuate="onrequest" show="replace">IV.
+		    Drawings</ref></item> 
+		<item> 
+		  <ref target="series5" actuate="onrequest" show="replace">V. 35 mm
+		    slides</ref></item> 
+		<item> 
+		  <ref target="series6" actuate="onrequest" show="replace">VI.
+		    Oversize</ref></item> 
+	   </list></p> 
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series1">I.</unitid> 
+		<unittitle>Large format photographs, 
+		  <unitdate type="inclusive" normal="1930/2006-05"
+		   certainty="approximate">circa 1930-May 2006 </unitdate> </unittitle> 
+		<physdesc><extent>Item 001-047</extent></physdesc> 
+	   </did> 
+	   <scopecontent> 
+		<p>Larger format photographs, including formal portraits.</p> 
+	   </scopecontent> 
+	   <arrangement> 
+		<p>Arranged in roughly chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">001</container> 
+		  <unittitle>Portrait of an unidentified woman, possibly the mother
+		    or grandmother of Joseph Chouinard, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Welker Studio (Middletown, Conn.)</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">002</container> 
+		  <unittitle>Portrait of Joseph Chouinard and brother Thomas as young
+		    children, 
+		    <unitdate type="inclusive">circa 1930</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Turner Studio (Middletown, Conn.)</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">003</container> 
+		  <unittitle>Portrait of an unidentified woman, possibly Elizabeth
+		    Bradley, Joseph Chouinard's adoptive mother, 
+		    <unitdate type="inclusive">circa 1930</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">004</container> 
+		  <unittitle>Boys' choir of Holy Trinity Church in Middletown,
+		    Connecticut, 
+		    <unitdate type="inclusive">circa 1936</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		    <p>Venue: Church of the Holy Trinity (Middletown, Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">005</container> 
+		  <unittitle>Portrait of Joseph Chouinard during his high school
+		    years, 
+		    <unitdate type="inclusive">circa 1942</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">006</container> 
+		  <unittitle>Portrait of Joseph Chouinard during his high school
+		    years, 
+		    <unitdate type="inclusive">circa 1942</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">007</container> 
+		  <unittitle>Portrait of Joseph Chouinard in his Navy uniform, 
+		    <unitdate type="inclusive">circa 1944</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Loring Studio</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">008</container> 
+		  <unittitle>Portrait of Joseph Chouinard in his Navy uniform with
+		    his adoptive parents, George and Elizabeth Bradley, 
+		    <unitdate type="inclusive">circa 1944</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">009</container> 
+		  <unittitle>Drawing of Joseph Chouinard by Annis Martin, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 drawing</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Martin, Annis</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">010</container> 
+		  <unittitle>Portrait of Joseph Chouinard during his college years, 
+		    <unitdate type="inclusive">circa 1950</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">011</container> 
+		  <unittitle>Joseph Chouinard on stage as the character Frank Butler
+		    and Celeste Maggiore as Annie Oakley in the Arundel Opera production of Annie
+		    get your gun, 
+		    <unitdate type="inclusive">1959 July 1</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Kennebunkport (Me.)</p> 
+		    <p>Venue: Arundel Opera Theatre (Kennebunkport, Me.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">012</container> 
+		  <unittitle>Celeste Maggiore as Annie Oakley in Arundel Opera
+		    production of Annie get your gun, 
+		    <unitdate type="inclusive">1959 July 1</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Kennebunkport (Me.)</p> 
+		    <p>Venue: Arundel Opera Theatre (Kennebunkport, Me.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">013</container> 
+		  <unittitle>Unidentified female character in Arundel Opera's
+		    production of Die Fledermaus, 
+		    <unitdate type="inclusive">1959 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Kennebunkport (Me.)</p> 
+		    <p>Venue: Arundel Opera Theatre (Kennebunkport, Me.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">014</container> 
+		  <unittitle>Ballet scene from Arundel Opera's production of Die
+		    Fledermaus, 
+		    <unitdate type="inclusive">1959 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Kennebunkport (Me.)</p> 
+		    <p>Venue: Arundel Opera Theatre (Kennebunkport, Me.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">015</container> 
+		  <unittitle>Joseph Chouinard with unidentified female singer, both
+		    in costume, possibly as characters in The Mikado, 
+		    <unitdate type="inclusive">1959 September</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>On verso: Opera Guild party, Binghamton, N.Y. during Butterfly
+			 run, Sept. 59.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">016</container> 
+		  <unittitle>Joseph Chouinard (center) in costume in the role of
+		    Bonze in Puccini's Madame Butterfly, presented by the Tri-Cities Opera Company,
+		    
+		    <unitdate type="inclusive">1959 October</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>Venue: Masonic Temple (Binghamton, N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">017</container> 
+		  <unittitle>Joseph Chouinard (left), Gene Talley-Schmidt (3rd from
+		    left) and two unidentified males in costume in a production of Romberg's The
+		    student prince at Chastain Park, Atlanta, 
+		    <unitdate type="inclusive">1961</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Miller, Marc</p> 
+		    <p>Location: Atlanta (Ga.)</p> 
+		    <p>Venue: Chastain Memorial Park (Atlanta, Ga.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">018</container> 
+		  <unittitle>Prompter of the Tri-Cities Opera Company (probably John
+		    Sportelli), 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>Venue: Masonic Temple (Binghamton, N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">019</container> 
+		  <unittitle>Joseph Chouinard (3rd from left) in costume as the
+		    character Talpa in Tri-Cities Opera production of Puccini's Il Tabarro, 
+		    <unitdate type="inclusive">1961 March</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>Venue: Masonic Temple (Binghamton, N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">020</container> 
+		  <unittitle>The character Violetta Valery (either Rosalie DeFelice
+		    or Lois Crane) in a Tri-Cities Opera production Puccini's La Traviata, 
+		    <unitdate type="inclusive">1961 October</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>Venue: Masonic Temple (Binghamton, N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">021</container> 
+		  <unittitle>Joseph Chouinard (2nd from left) as Dr. Grenvil in the
+		    Tri-Cities Opera production of Verdi's La Traviata, 
+		    <unitdate type="inclusive">1961 October</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>Venue: Masonic Temple (Binghamton, N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">022</container> 
+		  <unittitle>Portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">1964 December</unitdate> </unittitle> 
+		  <physdesc> <extent>1 Portrait photographs</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Delmar Studio (Binghamton, N.Y.)</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">023</container> 
+		  <unittitle>Joseph Chouinard (left) as the character Polyphemus and
+		    Lawrence Bennett as Acis in a production of Handel's Acis and Galatea, 
+		    <unitdate type="inclusive">1967 January</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sladin, V.</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		    <p>Venue: Minor Latham Playhouse</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">024</container> 
+		  <unittitle>Joseph Chouinard (left) as the character Polyphemus and
+		    Lawrence Bennett as Acis in a production of Handel's Acis and Galatea, 
+		    <unitdate type="inclusive">1967 January</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sladin, V.</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		    <p>Venue: Minor Latham Playhouse</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">025</container> 
+		  <unittitle>Lawrence Bennett as the character Acis in a production
+		    of Handel's Acis and Galatea, 
+		    <unitdate type="inclusive">1967 January</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sladin, V.</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		    <p>Venue: Minor Latham Playhouse</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">026</container> 
+		  <unittitle>Lawrence Bennett as the character Acis in a production
+		    of Handel's Acis and Galatea, 
+		    <unitdate type="inclusive">1967 January</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sladin, V.</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		    <p>Venue: Minor Latham Playhouse</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">027</container> 
+		  <unittitle>Lawrence Bennett as the character Acis in a production
+		    of Handel's Acis and Galatea, 
+		    <unitdate type="inclusive">1967 January</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sladin, V.</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		    <p>Venue: Minor Latham Playhouse</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">028</container> 
+		  <unittitle>Lawrence Bennett as the character Acis in a production
+		    of Handel's Acis and Galatea, 
+		    <unitdate type="inclusive">1967 January</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Sladin, V.</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		    <p>Venue: Minor Latham Playhouse</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">029</container> 
+		  <unittitle>Portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">1974 October</unitdate> </unittitle> 
+		  <physdesc> <extent>1 Portrait photographs</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Buffalo (N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">030</container> 
+		  <unittitle>In Soo Park as the character Rodolfo and Rachel Lewis as
+		    Mimi in Act 1 of a University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">031</container> 
+		  <unittitle>In Soo Park as the character Rodolfo and Rachel Lewis as
+		    Mimi in Act 1 of a University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">032</container> 
+		  <unittitle>Opening of Act 2 of University at Buffalo production of
+		    Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">033</container> 
+		  <unittitle>Scene from Act 2 of University at Buffalo production of
+		    Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">034</container> 
+		  <unittitle>Joseph Chouinard (far right) as the character Colline in
+		    Act 2 of University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">035</container> 
+		  <unittitle>Jane Bane (center) as the character Musetta and Joseph
+		    Chouinard (far right) as Colline in Act 2 of University at Buffalo production
+		    of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">036</container> 
+		  <unittitle>Jane Bane (center) as the character Musetta, with In Soo
+		    Park as Rodolfo and Rachel Lewis as Mimi (seated at table), and Joseph
+		    Chouinard (far right) as Colline in Act 2 of University at Buffalo production
+		    of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">037</container> 
+		  <unittitle>In Soo Park (left) as the character Rodolfo and George
+		    Wands in Act 3 of University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">038</container> 
+		  <unittitle>In Soo Park as the character Rodolfo and Rachel Lewis as
+		    Mimi in Act 3 of a University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">039</container> 
+		  <unittitle>In Soo Park (right) as the character Rodolfo and George
+		    Wands in Act 3 of University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">040</container> 
+		  <unittitle>Kenneth Friesema as Schaunard, Joseph Chouinard as
+		    Colline, In Soo Park as Rodolfo, and George Wands as Marcello in Act 4 of
+		    University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">041</container> 
+		  <unittitle>Kenneth Friesema as Schaunard, George Wands as Marcello,
+		    In Soo Park as Rodolfo, Rachel Lewis as Mimi, and Joseph Chouinard as Colline
+		    in Act 4 of University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">042</container> 
+		  <unittitle>Rachel Lewis as Mimi, Joseph Chouinard as Colline, and
+		    Kenneth Friesema as Schaunard in Act 4 of University at Buffalo production of
+		    Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">043</container> 
+		  <unittitle>In Soo Park as Rodolfo and Rachel Lewis as Mimi in Act 4
+		    of University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">044</container> 
+		  <unittitle>In Soo Park as Rodolfo and Rachel Lewis as Mimi in Act 4
+		    of University at Buffalo production of Puccini's La Boheme, 
+		    <unitdate type="inclusive">1974 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Willoughby, Robert</p> 
+		    <p>Location: Williamsville (N.Y.)</p> 
+		    <p>Venue: Williamsville North High School (Williamsville,
+			 N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">045</container> 
+		  <unittitle>Joseph Chouinard and Ethelmae Mason on steps of a
+		    church, 
+		    <unitdate type="inclusive">2006 May</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">046</container> 
+		  <unittitle>Joseph Chouinard sitting at a table in Ethelmae Mason's
+		    home, 
+		    <unitdate type="inclusive">2006 May</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">047</container> 
+		  <unittitle>Joseph Chouinard shaking hands with the operator of a
+		    pedi-cab in New York City, 
+		    <unitdate type="inclusive">2006 May</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	 </c01>
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series2">II.</unitid> 
+		<unittitle>Medium format photographs, 
+		  <unitdate type="inclusive" normal="1944/1996"
+		  certainty="approximate"> circa 1944-1996 </unitdate> </unittitle> 
+		<physdesc><extent>Item 048-069</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in roughly chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">048</container> 
+		  <unittitle>Portrait of Thomas J. Chouinard in United States Marine
+		    uniform, 
+		    <unitdate type="inclusive">circa 1944</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">049</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">050</container> 
+		  <unittitle>Aspen Music School Opera workshop production of Bizet's
+		    The Pearl fishers, 
+		    <unitdate type="inclusive">1962 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Aspen (Colo.)</p> 
+		    <p>Venue: Wheeler Opera House (Aspen, Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">051</container> 
+		  <unittitle>Joseph Chouinard as the character of the General in the
+		    Aspen Music School Opera Workshop's production of Henri Sauguet's La
+		    Contrebasse, 
+		    <unitdate type="inclusive">1962 July</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Aspen (Colo.)</p> 
+		    <p>Venue: Wheeler Opera House (Aspen, Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">052</container> 
+		  <unittitle>Joseph Chouinard as the character of the General in the
+		    Aspen Music School Opera Workshop's production of Henri Sauguet's La
+		    Contrebasse, 
+		    <unitdate type="inclusive">1962 July</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Aspen (Colo.)</p> 
+		    <p>Venue: Wheeler Opera House (Aspen, Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">053</container> 
+		  <unittitle>Joseph Chouinard as the character of the General in the
+		    Aspen Music School Opera Workshop's production of Henri Sauguet's La
+		    Contrebasse, 
+		    <unitdate type="inclusive">1962 July</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Aspen (Colo.)</p> 
+		    <p>Venue: Wheeler Opera House (Aspen, Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">054</container> 
+		  <unittitle>Composer Ross Lee Finney (left) and vocalist Joseph
+		    Chouinard at a rehearsal for the premiere performance of Finney's The nun's
+		    priest tale at Dartmouth's Congregation of the Arts, 
+		    <unitdate type="inclusive">1965 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">055</container> 
+		  <unittitle>Composer Ross Lee Finney (left) and vocalist Joseph
+		    Chouinard at a rehearsal for the premiere performance of Finney's The nun's
+		    priest's tale at Dartmouth's Congregation of the Arts, 
+		    <unitdate type="inclusive">1965 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Hanover (N.H.)</p> 
+		    <p>Venue: Hopkins Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">056</container> 
+		  <unittitle>Composer Ross Lee Finney (left) and vocalist Joseph
+		    Chouinard at a rehearsal for the premiere performance of Finney's The nun's
+		    priest's tale at Dartmouth's Congregation of the Arts, 
+		    <unitdate type="inclusive">1965 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Hanover (N.H.)</p> 
+		    <p>Venue: Hopkins Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">057</container> 
+		  <unittitle>Allan Evans (left) and Joseph Chouinard in the world
+		    premiere performance of Ross Lee Finney's The nun's priest's tale at
+		    Dartmouth's Congregation of the Arts, 
+		    <unitdate type="inclusive">1965 August 21</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Hanover (N.H.)</p> 
+		    <p>Venue: Hopkins Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">058</container> 
+		  <unittitle>Allan Evans (left) and Joseph Chouinard, with narrator
+		    Michael Best in the background in the world premiere performance of Ross Lee
+		    Finney's The nun's priest's tale at Dartmouth's Congregation of the Arts, 
+		    <unitdate type="inclusive">1965 August 21</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Hanover (N.H.)</p> 
+		    <p>Venue: Hopkins Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">059</container> 
+		  <unittitle>Allan Evans, Joseph Chouinard, Michael Best, conductor
+		    Mario di Bonaventura, and the Dartmouth Symphony Orchestra in the world
+		    premiere performance of Ross Lee Finney's The nun's priest's tale at
+		    Dartmouth's Congregation of the Arts, 
+		    <unitdate type="inclusive">1965 August 21</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Hanover (N.H.)</p> 
+		    <p>Venue: Hopkins Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">060</container> 
+		  <unittitle>Conductor Mario Di Bonaventura, composer Ross Lee
+		    Finney, baritone Allan Evans, bass Joseph Chouinard, and folksinger James W.
+		    Symington receiving applause after the world premiere performance of Finney's
+		    The nun's priest's tale at Dartmouth's Congregation of the Arts, 
+		    <unitdate type="inclusive">1965 August 21</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Hanover (N.H.)</p> 
+		    <p>Venue: Hopkins Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">061</container> 
+		  <unittitle>Joseph Chouinard being served a dessert by an
+		    unidentified male, 
+		    <unitdate type="inclusive">1984</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">062</container> 
+		  <unittitle>Joseph Chouinard and Ethelmae Mason seated outdoors, 
+		    <unitdate type="inclusive">1995 July</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">063</container> 
+		  <unittitle>View from apartment balcony of Manhattan Plaza and
+		    docks, 
+		    <unitdate type="inclusive">circa 1995</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: New York (N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">064</container> 
+		  <unittitle>Joseph Chouinard speaking with tenor Robert White at a
+		    Bargemusic concert, 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Brooklyn (N.Y.)</p> 
+		    <p>Venue: Bargemusic</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">065</container> 
+		  <unittitle>View of the Brooklyn Bridge from Fulton Ferry, Brooklyn,
+		    
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Brooklyn (N.Y.)</p> 
+		    <p>Venue: Bargemusic</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">066</container> 
+		  <unittitle>Joseph Chouinard speaking with tenor Robert White at a
+		    Bargemusic concert, 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Brooklyn (N.Y.)</p> 
+		    <p>Venue: Bargemusic</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">067</container> 
+		  <unittitle>Violist Paul Neubauer in conversation with unidentified
+		    woman at a Bargemusic concert, 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Brooklyn (N.Y.)</p> 
+		    <p>Venue: Bargemusic</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">068</container> 
+		  <unittitle>Violinist Mark Peskanov at a Bargemusic concert, 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Brooklyn (N.Y.)</p> 
+		    <p>Venue: Bargemusic</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">069</container> 
+		  <unittitle>Tenor Robert White in conversation at a Bargemusic
+		    concert, 
+		    <unitdate type="inclusive">1996</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Brooklyn (N.Y.)</p> 
+		    <p>Venue: Bargemusic</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	 </c01>
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series3">III.</unitid> 
+		<unittitle>Smaller format photographs, 
+		  <unitdate type="inclusive" normal="1928/1981"
+		  certainty="approximate"> circa 1928-circa 1981 </unitdate> </unittitle> 
+		<physdesc><extent>Item 070-200</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in roughly chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">070</container> 
+		  <unittitle>Joseph Chouinard (right) and his brother Thomas, 
+		    <unitdate type="inclusive">circa 1928</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">071</container> 
+		  <unittitle>Joseph Chouinard (left) and his brother Thomas, 
+		    <unitdate type="inclusive">circa 1928</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">072</container> 
+		  <unittitle>Joseph Chouinard (right) and his brother Thomas, with an
+		    unidentified woman, probably Elizabeth Bradley, their adoptive mother, 
+		    <unitdate type="inclusive">circa 1928</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">073</container> 
+		  <unittitle>Joseph Chouinard (right) and his brother Thomas on the
+		    steps of a house, 
+		    <unitdate type="inclusive">circa 1928</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">074</container> 
+		  <unittitle>Joseph Chouinard (left) and his brother Thomas, 
+		    <unitdate type="inclusive">circa 1928</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">075</container> 
+		  <unittitle>Thomas and Joseph Chouinard playing with a cat, 
+		    <unitdate type="inclusive">circa 1929</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		    <p>On verso: Shirley Gustafson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">076</container> 
+		  <unittitle>Joseph Chouinard (left) and his brother Thomas, 
+		    <unitdate type="inclusive">1931</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		    <p>On verso: Middletown, Ct. 215 Prospect St.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">077</container> 
+		  <unittitle>Joseph Chouinard standing next to a house, 
+		    <unitdate type="inclusive">1931 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">078</container> 
+		  <unittitle>Thomas and Joseph Chouinard with Joyce Flood standing in
+		    front of a rock on Cadillac Mountain, 
+		    <unitdate type="inclusive">1933 August 20</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Bar Harbor (Me.)</p> 
+		    <p>On verso: "Tom, Joe &amp; Joyce, top of Cadilac [sic] Mtn."
+			 Note: Joyce Flood was another of the foster or adopted children at the home of
+			 George and Elizabeth Bradley.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">079</container> 
+		  <unittitle>Thomas and Joseph Chouinard with two unidentified girls
+		    (the one on the far right was identified as Joyce Flood on another photograph),
+		    
+		    <unitdate type="inclusive">1933</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">080</container> 
+		  <unittitle>Thomas and Joseph Chouinard with fellow foster or
+		    adopted child, Joyce Flood, 
+		    <unitdate type="inclusive">1933</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">081</container> 
+		  <unittitle>Thomas and Joseph Chouinard with their adoptive mother,
+		    Elizabeth Bradley, 
+		    <unitdate type="inclusive">1933</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">082</container> 
+		  <unittitle>Joseph Chouinard standing in front of a house, 
+		    <unitdate type="inclusive">1933</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Probably 215 Prospect Street, Middletown, Connecticut</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">083</container> 
+		  <unittitle>School portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">circa 1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">084</container> 
+		  <unittitle>School portrait of Thomas Chouinard, 
+		    <unitdate type="inclusive">circa 1935</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">085</container> 
+		  <unittitle>School portrait of Thomas Chouinard, 
+		    <unitdate type="inclusive">circa 1936</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">086</container> 
+		  <unittitle>Joseph and Thomas Chouinard on the steps of a house, 
+		    <unitdate type="inclusive">1936 September</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">087</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip:
+		    Airplane view of P.P. highway, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">088</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Pike's
+		    Peak from Colo. Springs, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">089</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Pike's
+		    Peak from Mile 4, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">090</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Looking
+		    down from Mile 14, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">091</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: At
+		    timberline, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">092</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: The W's
+		    or switchbacks, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">093</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Glen
+		    Cove, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">094</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: The W's
+		    above Glen Cove, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">095</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: One of
+		    the many wide curves, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">096</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Above
+		    the clouds, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">097</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Pike's
+		    Peak from Pilot Knob, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">098</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Ute
+		    Pass, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">099</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Above
+		    Glen Cove, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">100</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: At
+		    timberline, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">101</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: 25%
+		    grade, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">102</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Lake
+		    Moraine, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">103</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Above
+		    the timberline, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">104</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: Pike's
+		    Peak summit house, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">105</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: The
+		    rocky summit, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">106</container> 
+		  <unittitle>20 original photographs of the Pike's Peak trip: The
+		    observatory, 
+		    <unitdate type="inclusive">1937 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Stewart Brothers (Firm)</p> 
+		    <p>Location: Pikes Peak (Colo.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">107</container> 
+		  <unittitle>Joseph and Thomas Chouinard, with Joyce Flood and an
+		    unidentified girl at a beach, 
+		    <unitdate type="inclusive">1938 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">108</container> 
+		  <unittitle>Thomas and Joseph Chouinard (right) in suit coats
+		    outside a house, 
+		    <unitdate type="inclusive">1939 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">109</container> 
+		  <unittitle>Joseph Chouinard with an unidentified male and female at
+		    the Holy Trinity Church in Middletown, Connecticut, 
+		    <unitdate type="inclusive">1939 December</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		    <p>Venue: Church of the Holy Trinity (Middletown, Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">110</container> 
+		  <unittitle>Joseph Chouinard with two unidentified males at Holy
+		    Trinity Church in Middletown, Connecticut, 
+		    <unitdate type="inclusive">1939 December</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		    <p>Venue: Church of the Holy Trinity (Middletown, Conn.)</p> 
+		    <p>On verso: Trinity Church, with organist</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">111</container> 
+		  <unittitle>Joseph Chouinard in his robe for graduation from 8th
+		    grade, 
+		    <unitdate type="inclusive">1940 August</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Middletown (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">112</container> 
+		  <unittitle>Identification photograph of Joseph Chouinard in his
+		    naval uniform, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">113</container> 
+		  <unittitle>Joseph Chouinard in his naval uniform with an
+		    unidentified young boy also in a uniform, 
+		    <unitdate type="inclusive">1945 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">114</container> 
+		  <unittitle>Joseph Chouinard in his naval uniform with an
+		    unidentified young boy also in a uniform, 
+		    <unitdate type="inclusive">1945 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">115</container> 
+		  <unittitle>Joseph Chouinard in his naval uniform with an
+		    unidentified young boy also in a uniform, 
+		    <unitdate type="inclusive">1945 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">116</container> 
+		  <unittitle>Joseph Chouinard in his naval uniform standing next to a
+		    house, 
+		    <unitdate type="inclusive">1945 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">117</container> 
+		  <unittitle>Joseph Chouinard in his naval uniform standing on a
+		    lawn, 
+		    <unitdate type="inclusive">1945 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">118</container> 
+		  <unittitle>Joseph Chouinard in his naval uniform on duty in Okinawa
+		    towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown city in Okinawa</p> 
+		    <p>On verso: A. L. Lawrence, â€¦ CUB 16, A-2 â€¦</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">119</container> 
+		  <unittitle>Ruins of Shuri Boys' High School on Okinawa towards the
+		    end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Shuri-shi (Japan)</p> 
+		    <p>On verso: University of Naha.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">120</container> 
+		  <unittitle>Torii gate in Naha on Okinawa towards the end of World
+		    War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Naha-shi (Japan)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">121</container> 
+		  <unittitle>Okinawans sharing tea towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">122</container> 
+		  <unittitle>Woman washing her hair at a cistern on Okinawa towards
+		    the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">123</container> 
+		  <unittitle>Okinawan refugees near a building with a thatched roof
+		    on Okinawa towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">124</container> 
+		  <unittitle>Two Okinawan men working outside on Okinawa towards the
+		    end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">125</container> 
+		  <unittitle>Okinawa women refugees gathered outside a food
+		    distribution center on Okinawa towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		    <p>Information courtesy of Mr. Donn Cuson, who also stated: "...
+			 note the pile of sweet potatoes, everything was on the barter system during
+			 that period, food for work. The US military government provided food and
+			 shelter and the Okinawans would go out and work the fields and the food would
+			 be divided among all of the people at the camps. "</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">126</container> 
+		  <unittitle>Okinawan refugees along a road on Okinawa towards the
+		    end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">127</container> 
+		  <unittitle>Native police unit on Okinawa towards the end of World
+		    War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		    <p>Information supplied by Mr. Donn Cuson: "NP Native Police,
+			 trained and used by the US Military Government to watch and help in the refugee
+			 camps."</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">128</container> 
+		  <unittitle>Building on Okinawa towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">129</container> 
+		  <unittitle>Woman hanging clothes to dry on Okinawa towards the end
+		    of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">130</container> 
+		  <unittitle>Okinawan refugees walking on a dirt road on Okinawa
+		    towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">131</container> 
+		  <unittitle>Okinawan Children on Okinawa towards the end of World
+		    War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">132</container> 
+		  <unittitle>Okinawan child standing by herself on Okinawa towards
+		    the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">133</container> 
+		  <unittitle>Okinawan children along a dirt road on Okinawa towards
+		    the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">134</container> 
+		  <unittitle>Okinawan child standing on a dirt road on Okinawa
+		    towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">135</container> 
+		  <unittitle>Ornate table inside the Higaonna Museum in Ishikawa,
+		    Okinawa shortly after the museum's opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">136</container> 
+		  <unittitle>Exterior of the Higaonna Museum in Ishikawa, Okinawa
+		    shortly after the museum's opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">137</container> 
+		  <unittitle>Okinawan child standing next to a rock wall on Okinawa
+		    towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">138</container> 
+		  <unittitle>Okinawan woman with two children on Okinawa towards the
+		    end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">139</container> 
+		  <unittitle>Okinawan woman with four children behind her on Okinawa
+		    towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">140</container> 
+		  <unittitle>Three Okinawan children on Okinawa towards the end of
+		    World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">141</container> 
+		  <unittitle>Decorative table inside Higaonna Museum in Ishikawa,
+		    Okinawa shortly after its opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">142</container> 
+		  <unittitle>Exterior of the Higaonna Museum in Ishikawa, Okinawa
+		    shortly after its opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">143</container> 
+		  <unittitle>Shelf holding vases inside Higaonna Museum in Ishikawa,
+		    Okinawa shortly after its opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">144</container> 
+		  <unittitle>Buddhist shrine inside Higaonna Museum in Ishikawa,
+		    Okinawa shortly after its opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">145</container> 
+		  <unittitle>Small shrine inside Higaonna Museum in Ishikawa, Okinawa
+		    shortly after its opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">146</container> 
+		  <unittitle>Exterior of the Higaonna Museum in Ishikawa, Okinawa
+		    shortly after its opening in September 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Ishikawa-shi (Japan)</p> 
+		    <p>Information courtesy of Mr. Donn Cuson</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">147</container> 
+		  <unittitle>Okinawan people aboard a horse-drawn wagon on Okinawa
+		    towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">148</container> 
+		  <unittitle>Two United States servicemen examining remains of a
+		    Japanese pilot and his plane on Okinawa towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		    <p>Information supplied by Mr. Donn Cuson: "During the war there
+			 was an attempted suicide attack by airplane at one of the airfields on Okinawa,
+			 several Japanese planes with troops tried to land and attack the airfield, this
+			 is one of the Japanese soldiers after the attack failed. "</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">149</container> 
+		  <unittitle>Remains of a building at a Naval Supply Depot on Okinawa
+		    the day that Typhoon Louise hit the island, 
+		    <unitdate type="inclusive">1945 October 9</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		    <p>Information supplied by Mr. Donn Cuson: "Navy Supply Depot,
+			 most likely the installation at Tengan. Major damage on Okinawa, 80% of
+			 military installations damage or destroyed. Over 200 ships and aircraft damaged
+			 or destroyed. 36 killed and 47 missing."</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">150</container> 
+		  <unittitle>United States Naval Supply Depot on Okinawa sometime
+		    after Typhoon Louise hit the island October 9 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		    <p>Information supplied by Mr. Donn Cuson: "Navy Supply Depot,
+			 most likely the installation at Tengan. Major damage on Okinawa, 80% of
+			 military installations damage or destroyed. Over 200 ships and aircraft damaged
+			 or destroyed. 36 killed and 47 missing."</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">151</container> 
+		  <unittitle>Remains of the railroad station at Naha, Okinawa towards
+		    the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Naha-shi (Japan)</p> 
+		    <p>On verso: What is left of the railroad station and trains at
+			 Naha. It was a narrow gauge rail line that ran from Naha south to Itoman and
+			 north to Kadena. Information courtesy of Mr. Donn Cuson.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">152</container> 
+		  <unittitle>Unidentified serviceman in pith helmet on Okinawa
+		    towards the end of World War II, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">153</container> 
+		  <unittitle>Joseph Chouinard on Okinawa towards the end of World War
+		    II, 
+		    <unitdate type="inclusive">1945 December 10</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">154</container> 
+		  <unittitle>Joseph Chouinard on Okinawa towards the end of World War
+		    II, 
+		    <unitdate type="inclusive">1945 December 10</unitdate>
+		    </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">155</container> 
+		  <unittitle>United States C-54 plane used to transport Japanese
+		    surrender delegation from the base on Iejima, an island off Okinawa, to Manila
+		    on August 19, 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Iejima (Japan)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">156</container> 
+		  <unittitle>Japanese Mitsubishi G4M Betty bomber with special
+		    markings used to fly the Japanese surrender delegation to the base on Iejima,
+		    an island off Okinawa, August 19, 1945, 
+		    <unitdate type="inclusive">1945 August 19</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Iejima (Japan)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">157</container> 
+		  <unittitle>Grave sites on Okinawa, including D. E. Smith, R. I.
+		    Dunn, and Simon Bolivar Buckner, Jr., 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		    <p>Simon Bolivar Buckner, Jr. (July 18, 1886-June 18, 1945),
+			 Lieutenant General, U.S. Army, killed by enemy fire at the Battle of Okinawa
+			 during World War II</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">158</container> 
+		  <unittitle>Dentist examining teeth of an Okinawan, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">159</container> 
+		  <unittitle>Japanese flight crew of one of the two Mitsubishi G4M
+		    Betty bombers that flew the Japanese surrender delegation to Iejima, an island
+		    off Okinawa, August 19, 1945, 
+		    <unitdate type="inclusive">1945 August 19</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location in Okinawa</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">160</container> 
+		  <unittitle>Members of the Japanese surrender delegation waiting to
+		    board the United States C-54 plane at the Iejima base before flying to Manila
+		    August 19, 1945, 
+		    <unitdate type="inclusive">1945</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Iejima (Japan)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">161</container> 
+		  <unittitle>Lieutenant General Torasirou Kawabe (center), Vice Chief
+		    of the Japanese Army General Staff, and other members of the Japanese surrender
+		    delegation on the island of Iejima with United States military personnel before
+		    flying to Manila, August 19, 1945, 
+		    <unitdate type="inclusive">1945 August 19</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Iejima (Japan)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">162</container> 
+		  <unittitle>Lieutenant General Torasirou Kawabe (center), Vice Chief
+		    of the Japanese Army General Staff, and other members of the Japanese surrender
+		    delegation on the island of Iejima before flying to Manila, August 19, 1945, 
+		    <unitdate type="inclusive">1945 August 19</unitdate> </unittitle>
+		  
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Iejima (Japan)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">163</container> 
+		  <unittitle>Joseph Chouinard and adoptive mother Elizabeth Bradley
+		    in a cemetery, 
+		    <unitdate type="inclusive">1947 April</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">164</container> 
+		  <unittitle>Joseph Chouinard in cap and gown for graduation from
+		    University of Connecticut, 
+		    <unitdate type="inclusive">1950 June 11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">165</container> 
+		  <unittitle>Joseph Chouinard in cap and gown for graduation from
+		    University of Connecticut, 
+		    <unitdate type="inclusive">1950 June 11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">166</container> 
+		  <unittitle>Joseph Chouinard in cap and gown for graduation from
+		    University of Connecticut, 
+		    <unitdate type="inclusive">1950 June 11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">167</container> 
+		  <unittitle>Joseph Chouinard in cap and gown for graduation from
+		    University of Connecticut, 
+		    <unitdate type="inclusive">1950 June 11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">168</container> 
+		  <unittitle>Joseph Chouinard in cap and gown for graduation from
+		    University of Connecticut, 
+		    <unitdate type="inclusive">1950 June 11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">169</container> 
+		  <unittitle>Joseph Chouinard in cap and gown for graduation from
+		    University of Connecticut, 
+		    <unitdate type="inclusive">1950 June 11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">170</container> 
+		  <unittitle>Joseph Chouinard in cap and gown for graduation from
+		    University of Connecticut standing with unidentified woman and man, 
+		    <unitdate type="inclusive">1950 June 11</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">171</container> 
+		  <unittitle>Joseph Chouinard in suit and tie, 
+		    <unitdate type="inclusive">1951 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">172</container> 
+		  <unittitle>Joseph Chouinard in suit and tie, 
+		    <unitdate type="inclusive">1951 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">173</container> 
+		  <unittitle>University of Connecticut Library, 
+		    <unitdate type="inclusive">1951 July</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Storrs (Conn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">174</container> 
+		  <unittitle>Joseph Chouinard in suit and tie standing in front of a
+		    tree, 
+		    <unitdate type="inclusive">1951 April</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">175</container> 
+		  <unittitle>Choral conductor Lorna Cooke deVaron with one of her
+		    daughters at Tanglewood Music Center, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Chouinard, Joseph</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>Venue: Tanglewood Music Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">176</container> 
+		  <unittitle>Members of the choral program at Tanglewood in 1953,
+		    with conductor Hugh Ross seated in front center, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Chouinard, Joseph</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>Venue: Tanglewood Music Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">177</container> 
+		  <unittitle>Members of the choral program at Tanglewood in 1953, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Chouinard, Joseph</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>Venue: Tanglewood Music Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">178</container> 
+		  <unittitle>Members of the choral program at Tanglewood in 1953, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Chouinard, Joseph</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>Venue: Tanglewood Music Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">179</container> 
+		  <unittitle>Elizabeth Bradley, adoptive mother of Joseph Chouinard,
+		    outside a restaurant in Fort Lauderdale, 
+		    <unitdate type="inclusive">1955 March</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Fort Lauderdale (Fla.)</p> 
+		    <p>On verso: This was taken after we had dinner in this lovely
+			 place in Fort Lauderdale the day we went on The Cruise beautiful.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">180</container> 
+		  <unittitle>Joseph Chouinard in costume for the character of the
+		    Imperial commissioner and unidentified woman in costume for performance of
+		    Puccini's Madame Butterfly by the Chattanooga Opera Association, 
+		    <unitdate type="inclusive">1955 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Chattanooga (Tenn.)</p> 
+		    <p>Venue: Chattanooga High School (Chattanooga, Tenn.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">181</container> 
+		  <unittitle>Portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">circa 1955</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">182</container> 
+		  <unittitle>People in Western costumes, possibly cast members for a
+		    performance of Annie get your gun, 
+		    <unitdate type="inclusive">circa 1957</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Mercure (Paris, France)</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>On verso: Paris TV RDF</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">183</container> 
+		  <unittitle>New Arundel Opera Theatre postcard, 
+		    <unitdate type="inclusive">circa 1958</unitdate> </unittitle> 
+		  <physdesc> <extent>1 Card photographs</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Albrecht, Arthur</p> 
+		    <p>Location: Kennebunkport (Me.)</p> 
+		    <p>Venue: Arundel Opera Theatre (Kennebunkport, Me.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">184</container> 
+		  <unittitle>Joseph Chouinard (center) as Frank Butler in the Arundel
+		    Opera production of Annie get your gun, 
+		    <unitdate type="inclusive">1959 July 1</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Kennebunkport (Me.)</p> 
+		    <p>Venue: Arundel Opera Theatre (Kennebunkport, Me.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">185</container> 
+		  <unittitle>Joseph Chouinard (center) in costume in the role of
+		    Bonze in Puccini's Madame Butterfly, presented by the Tri-Cities Opera Company,
+		    
+		    <unitdate type="inclusive">1959 October</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>Venue: Masonic Temple (Binghamton, N.Y.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">186</container> 
+		  <unittitle>Thomas Chouinard holding a basketball, 
+		    <unitdate type="inclusive">1960</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Fox Co.</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">187</container> 
+		  <unittitle>Joseph Chouinard holding a dog in his lap while sitting
+		    outside a house, 
+		    <unitdate type="inclusive">1961 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">188</container> 
+		  <unittitle>Hopkins Center at Dartmouth College, Hanover, New
+		    Hampshire postcard, 
+		    <unitdate type="inclusive">circa 1962</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Allen, Carleton</p> 
+		    <p>Location: Hanover (N.H.)</p> 
+		    <p>Venue: Hopkins Center</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">189</container> 
+		  <unittitle>Joseph Chouinard as the character Amos Murphy in a
+		    Tri-Cities Opera Workshop production of Myron S. Fink's Jeremiah, 
+		    <unitdate type="inclusive">1962 May</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Binghamton (N.Y.)</p> 
+		    <p>Venue: Harpur College</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">190</container> 
+		  <unittitle>Joseph Chouinard as the character Brighella in a
+		    production of Salieri's The little harliquinade at the Florida International
+		    Music Festival, 
+		    <unitdate type="inclusive">1967 July</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Daytona Beach (Fla.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">191</container> 
+		  <unittitle>Joseph Chouinard holding a dog while sitting in San
+		    Bernardino, 
+		    <unitdate type="inclusive">1974 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: San Bernardino (Calif.)</p> 
+		    <p>On verso: Genuine Burgess photograph</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">192</container> 
+		  <unittitle>Joseph Chouinard sitting with the children of Lionel
+		    Pike, 
+		    <unitdate type="inclusive">1979 November</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">193</container> 
+		  <unittitle>Joseph Chouinard standing by a door, 
+		    <unitdate type="inclusive">1981 June</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">194</container> 
+		  <unittitle>Joseph Chouinard (2nd from right) sitting at a dinner
+		    table with four friends, 
+		    <unitdate type="inclusive">circa 1981</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">195</container> 
+		  <unittitle>Three friends of Joseph Chouinard standing in a living
+		    room, 
+		    <unitdate type="inclusive">circa 1981</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">196</container> 
+		  <unittitle>Joseph Chouinard holding a score or text while a woman
+		    plays the piano, 
+		    <unitdate type="inclusive">circa 1981</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">197</container> 
+		  <unittitle>Portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">circa 1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">198</container> 
+		  <unittitle>Passport portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">1961 May 18</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">199</container> 
+		  <unittitle>Portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">200</container> 
+		  <unittitle>Portrait of Joseph Chouinard, 
+		    <unitdate type="inclusive">circa 1972</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Platte of Hollywood (Hollywood, Calif.)</p> 
+		    <p>Location: Hollywood (Calif.)</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	 </c01>
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series4">IV.</unitid> 
+		<unittitle>Drawings, 
+		  <unitdate type="inclusive" normal="1952/1953"
+		   certainty="approximate"> 1952-1953 </unitdate> </unittitle> 
+		<physdesc><extent>Item 200-206</extent></physdesc> 
+	   </did> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">201</container> 
+		  <unittitle>Caricature of conductor Hugh Ross, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 drawn caricature</extent> </physdesc> 
+		  <note> 
+		    <p>Artist: Adler, Wolf, 1924-2012</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>Inscribed: To Joe with best wishes, Wolf Adler. On verso:
+			 caricature of Charles Munch</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">202</container> 
+		  <unittitle>Caricature of composer Carlos Chávez, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 drawn caricature</extent> </physdesc> 
+		  <note> 
+		    <p>Artist: Adler, Wolf, 1924-2012</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>Inscription on verso: Carlos Chavez, Tanglewood 1953 by Wolf Adler.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">203</container> 
+		  <unittitle>Caricature of conductor Charles Munch, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 drawn caricature</extent> </physdesc> 
+		  <note> 
+		    <p>Artist: Adler, Wolf, 1924-2012</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>On verso: caricature of Hugh Ross</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">204</container> 
+		  <unittitle>Caricature of Joseph Chouinard, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 drawn caricature</extent> </physdesc> 
+		  <note> 
+		    <p>Artist: Adler, Wolf, 1924-2012</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>On verso: caricature of Leonard Bernstein</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">205</container> 
+		  <unittitle>Caricature of Leonard Bernstein, 
+		    <unitdate type="inclusive">1953</unitdate> </unittitle> 
+		  <physdesc> <extent>1 drawn caricature</extent> </physdesc> 
+		  <note> 
+		    <p>Artist: Adler, Wolf, 1924-2012</p> 
+		    <p>Location: Stockbridge (Mass.)</p> 
+		    <p>On verso: caricature of Joseph Chouinard</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">206</container> 
+		  <unittitle>Colored drawing of a female figure by P. Heck, 
+		    <unitdate type="inclusive">1952</unitdate> </unittitle> 
+		  <physdesc> <extent>1 drawing</extent> </physdesc> 
+		  <note> 
+		    <p>Artist: Heck, P.</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	 </c01>
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series5">V.</unitid> 
+		<unittitle>35 mm slides, 
+		  <unitdate type="inclusive" normal="1954/1965-02"
+		   certainty="approximate"> 1954-February 1965 </unitdate> </unittitle> 
+		<physdesc><extent>Item 207-225</extent></physdesc> 
+	   </did> 
+	   <arrangement> 
+		<p>Arranged in roughly chronological order.</p> 
+	   </arrangement> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">207</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">208</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">209</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">210</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">211</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">212</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">213</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">214</container> 
+		  <unittitle>Joseph Chouinard holding a viola, 
+		    <unitdate type="inclusive">1954</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">215</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">216</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">217</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">218</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">219</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte?, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">220</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">221</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">222</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">223</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">224</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="image">225</container> 
+		  <unittitle>Possible unidentified production of Massenet's Don
+		    Quichotte, 
+		    <unitdate type="inclusive">1965 February</unitdate> </unittitle> 
+		  <physdesc> <extent>1 35 mm slide</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Unknown location</p> 
+		    <p>Note on slide carton: Feb. 1965 Don Quixotte</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+	   <did> 
+		<unitid id="series6">VI.</unitid> 
+		<unittitle>Oversize, 
+		  <unitdate type="inclusive" normal="1956" certainty="approximate">
+		    1956 </unitdate> </unittitle> 
+		<physdesc><extent>Item 226-227</extent></physdesc> 
+	   </did> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="box">2</container> 
+		  <container type="image">226</container> 
+		  <unittitle>Performance of Joseph Haydn's The Creation by the National Music Camp Festival Choir at the Interlochen Arts
+		    Camp, with University of Michigan Orchestra, Maynard Klein, conductor, 
+		    <unitdate type="inclusive">1956</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		    <p>Location: Interlochen (Mich.)</p>
+		    <p>Venue: Interlochen Center for the Arts</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	   <c02 level="item"> 
+		<did> 
+		  <container type="oversize">Framed art</container> 
+		  <container type="image">227</container> 
+		  <unittitle>Oil painting portrait of Joseph Chouinard as a young man,
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 oil portrait</extent> </physdesc> 
+		  <note> 
+		    <p>Artist: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c02> 
+	 </c01> 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh"
+	    encodinganalog="650">Musicians--Photographs</subject> 
+	   <geogname source="lcsh" encodinganalog="651" role="subject">Okinawa-ken
+		(Japan)--Photographs</geogname> 
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Japan--Okinawa Island--Photographs</subject>		
+	   <geogname source="lcsh" encodinganalog="651" role="subject">Pikes Peak
+		(Colo.)--Photographs</geogname> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Chouinard,
+		Joseph Jerod, 1926-2014--Photographs</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Photographs</genreform> 
+	   <genreform encodinganalog="655" source="aat">Caricatures</genreform>
+	   <genreform encodinganalog="655" source="aat">Color slides</genreform>
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0071_1.xml "
+			  show="new" actuate="onrequest" role="text/html"> Joseph Chouinard
+			   Papers</archref> Mus. Arc. 71.1</label> 
+		    <item>Contains 6 boxes of personal documents, correspondence,
+			 concert programs, and clippings.</item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref
+			  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0071_3.xml"
+			  show="new" actuate="onrequest" role="text/html"> Joseph Chouinard Collection of
+			   Scores</archref> Mus. Arc. 71.3</label> 
+		    <item>Contains scores of 33 musical works by Joseph Chouinard.
+			 </item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc>
+</ead> 

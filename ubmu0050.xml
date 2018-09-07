@@ -1,0 +1,3810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead> 
+  
+   <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 
+      <eadid countrycode="US" mainagencycode="NBuU-Mu" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 50::Irene Haupt Photographs of June in Buffalo 2009)//EN" encodinganalog="identifier">ubmu0050</eadid> 
+	 
+      <filedesc> 
+		
+         <titlestmt> 
+		  
+            <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
+			 Photographs of June in Buffalo, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="2009-06">2009</date> 
+            </titleproper> 
+		  
+            <titleproper type="filing" altrender="nodisplay"> Haupt (Irene)
+			 Photographs of June in Buffalo 2009 </titleproper> 
+		  
+            <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		
+         </titlestmt> 
+		
+         <publicationstmt> 
+		  
+            <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  
+            <address> 
+			 
+               <addressline>112 Baird Hall</addressline> 
+			 
+               <addressline>Buffalo, New York 14260-4750</addressline> 
+			 
+               <addressline>United States</addressline> 
+			 
+               <addressline>Phone: 716 645-2924</addressline> 
+			 
+               <addressline>Fax: 716 645-3906</addressline> 
+			 
+               <addressline>Email:<emph render="bold"> 
+				
+                     <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html" linktype="simple">musique@buffalo.edu</extref>
+                  </emph>
+               </addressline> 
+			 
+               <addressline>URL:<emph render="bold"> 
+				
+                     <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html" linktype="simple">http://library.buffalo.edu/music/</extref>
+                  </emph>
+				
+               </addressline> 
+		  
+            </address> 
+		  
+            <p>© 
+			 <date encodinganalog="date" type="publication" era="ce" calendar="gregorian">2010</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		
+         </publicationstmt> 
+	 
+      </filedesc> 
+	 
+      <profiledesc> 
+		
+         <creation>Finding aid encoded in EAD by John Bewley, June
+		  2010.</creation> 
+		
+         <langusage>Finding aid is in
+		  <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage> 
+		
+         <descrules>Finding aid prepared using DACS ( 
+		  <title render="italic" linktype="simple">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 
+      </profiledesc> 
+  
+   </eadheader> 
+  
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 
+      <did> 
+		
+         <head>Collection Overview</head> 
+		
+         <unittitle label="Title" encodinganalog="245$a"> Irene Haupt Photographs
+		  of June in Buffalo, 
+		  <unitdate encodinganalog="245$f" normal="2009-06" type="inclusive" datechar="creation" era="ce" calendar="gregorian"> 2009</unitdate>
+         </unittitle> 
+		
+         <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 50</unitid> 
+		
+         <origination label="Creator"> 
+		  
+            <persname encodinganalog="100" role="creator" source="lcnaf"> Haupt,
+			 Irene </persname> 
+         </origination> 
+		
+         <physdesc label="Extent"> 
+            <extent unit="CD-ROMS" encodinganalog="300$a">8
+		  CD-ROMS</extent> 
+            <extent unit="image-file" encodinganalog="300$a"> (142 digital
+		  images in tiff and jpeg format) </extent> 
+         </physdesc> 
+		
+         <langmaterial label="Language of Material" encodinganalog="546">No
+		  textual content in the collection.</langmaterial> 
+		
+         <repository label="Repository" encodinganalog="852"> 
+		  
+            <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea>
+            </corpname> 
+         </repository> 
+		
+         <abstract label="Abstract" encodinganalog="520$a"> Contains 142 digital
+		  images of musicians who participated in the June in Buffalo Festival 2009 at
+		  the University at Buffalo. </abstract> 
+	 
+      </did> 
+	 
+      <descgrp type="admininfo"> 
+		
+         <head>Administrative Information</head>  
+		
+         <prefercite encodinganalog="524"> 
+		  
+            <head>Preferred Citation</head> 
+		  
+            <p>[Specified item], Irene Haupt Photographs of June in Buffalo, 2009,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		
+         </prefercite> 
+		
+         <accessrestrict encodinganalog="506"> 
+		  
+            <head>Terms of Access</head> 
+		  
+            <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		
+         </accessrestrict> 
+		
+         <userestrict encodinganalog="540"> 
+		  
+            <head>Copyright</head> 
+		  
+            <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		
+         </userestrict> 
+	  
+		
+         <acqinfo encodinganalog="541"> 
+		  
+            <head>Acquisition Information</head> 
+		  
+            <p>Purchased from Irene Haupt, 2009.</p> 
+		
+         </acqinfo> 
+		
+         <accruals encodinganalog="584"> 
+		  
+            <head>Accruals and Additions</head> 
+		  
+            <p>No further accruals are expected to this collection. </p> 
+		
+         </accruals> 
+		
+         <altformavail encodinganalog="530"> 
+		  
+            <head>Alternate Forms</head> 
+		  
+            <p>The entire collection of images from June in Buffalo 2009 is
+			 available in the 
+		<extref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" linktype="simple">University at Buffalo Libraries Digital
+		  Collections</extref>. </p> 
+		
+         </altformavail> 
+		
+         <processinfo encodinganalog="583"> 
+		  
+            <head>Processing Information</head> 
+		  
+            <p>Processed by John Bewley.</p> 
+		
+         </processinfo> 
+	 
+      </descgrp> 
+	 
+      <bioghist encodinganalog="545"> 
+		
+         <head>Biographical Note</head> 
+		
+         <p>Irene Haupt, a graduate of the State University of New York at
+		  Buffalo, has been documenting the Buffalo arts scene through her photography
+		  since 1976. During that time she has worked for, or with, some of the most
+		  notable institutions in Buffalo, including the Irish Classical Theatre, Studio
+		  Arena Theater, the Kavinoky Theatre, the Buffalo Philharmonic Orchestra, the
+		  Theatre of Youth, the Albright-Knox Art Gallery, and the State University of
+		  New York at Buffalo. In addition to her specialty of theater photography, Irene
+		  Haupt has also devoted much of her career to the photography of musicians and
+		  musical events. Most notable is her documentation of the contemporary music
+		  scene in Buffalo, including coverage of the University at Buffalo's June in
+		  Buffalo festival of new music, 1982-1987, and 2000 to the present. Over the
+		  course of those years, she has created a visual record that contains images of
+		  some of the most significant composers and performers of the last quarter
+		  century. The list of names is impressive: Aaron Copland, Morton Feldman, Leo
+		  Smit, Virgil Thomson, Steve Reich, Ralph Shapey, Henry Brant, Earle Brown,
+		  Ursula Oppens, Jan Williams, Lukas Foss, Philip Glass, Otto Luening, Conlon
+		  Nancarrow, Ernst Krenek, Larry Austin, Lejaren Hiller, Elliott Carter, Milton
+		  Babbitt, John Cage, Charles Wuorinen, Jacob Druckman, and Yvar Mikhashoff,
+		  among others. </p> 
+		
+         <p>The June in Buffalo festival of contemporary music was begun at the
+		  University at Buffalo in 1975 by composer Morton Feldman. He directed the
+		  festival 1975-1978 and in 1980. The festival was dormant from 1981 through
+		  1985. David Felder revived the festival in 1986 and has been its director since
+		  that time.</p> 
+	 
+      </bioghist> 
+	 
+      <scopecontent encodinganalog="520"> 
+		
+         <head>Scope and Content Note</head> 
+		
+         <p>The collection of Irene Haupt Photographs of June in Buffalo 2009
+		  contains 142 images of participants in the festival for 2009. The list of
+		  musicians includes David Felder, Brad Lubman, Stefano Scodanibbio, Bernard
+		  Rands, Harvey Sollberger, Lina Bahn, Mathew Rosenblum, Philippe Manoury,
+		  Christophe Desjardins, James Baker, Mario Caroli, Mikko Luoma, and the Meridian
+		  Arts Ensemble.</p> 
+	 
+      </scopecontent> 
+	 
+      <arrangement encodinganalog="351"> 
+		
+         <head>Arrangement</head> 
+		
+         <p>Six series, one for each of the original CD-ROMs. Series titles are
+		  either transcriptions of titles on corresponding contact sheets.</p> 
+		
+         <list type="simple"> 
+		  
+            <item> 
+			 
+               <ref target="series1" show="replace" actuate="onrequest" linktype="simple">I. CD-ROM
+				1.</ref> Mikko Luoma JIB 2009</item> 
+		  
+            <item> 
+			 
+               <ref target="series2" show="replace" actuate="onrequest" linktype="simple">II. CD-ROM
+				2.</ref> Inner sky JIB2009</item> 
+		  
+            <item> 
+			 
+               <ref target="series3" show="replace" actuate="onrequest" linktype="simple">III. CD-ROM
+				3.</ref> Masterclasses JIB 2009</item> 
+		  
+            <item> 
+			 
+               <ref target="series4" show="replace" actuate="onrequest" linktype="simple">IV. CD-ROM
+				4.</ref> Stefano Scodanibbio JIB 2009</item> 
+		  
+            <item> 
+			 
+               <ref target="series5" show="replace" actuate="onrequest" linktype="simple">V. CD-ROM
+				5.</ref> NY New Music Ensemble JIB 2009 </item> 
+		  
+            <item> 
+			 
+               <ref target="series6" show="replace" actuate="onrequest" linktype="simple">VI. CD-ROM
+				6.</ref> June in Buffalo 2009</item> 
+		
+         </list> 
+	 
+      </arrangement> 
+	 
+      <dsc type="in-depth"> 
+		
+         <head>Container List</head> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series1">I.</unitid> 
+			 
+               <unittitle>Mikko Luoma, JIB 2009, 
+				<unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian">June 2009</unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>1 CD-ROM </extent>
+                  <extent>(14 image files in TIFF
+				format)</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Files are numerically arranged by intermediate, assigned file
+				names.</p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_01</container> 
+				
+                  <unittitle>Mikko Luoma with his accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1445"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_02</container> 
+				
+                  <unittitle>Mikko Luoma in his accordion workshop in Baird hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1446"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_03</container> 
+				
+                  <unittitle>Mikko Luoma playing his accordion, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1441"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_04</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1442"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_05</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1444"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_06</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1443"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_07</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1447"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_08</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1448"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_09</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1449"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_10</container> 
+				
+                  <unittitle>Mikko Luoma, accordionist, with June in Buffalo student,
+				  Moshe Shulman, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1450"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_11</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1451"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_12</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall with Harvey
+				  Sollberger and Bernard Rands in audience, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1452"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_13</container> 
+				
+                  <unittitle>Mikko Luoma playing accordion in Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1453"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_01_14</container> 
+				
+                  <unittitle>Mikko Luoma talking during his accordion workshop in
+				  Baird Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1454"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series2">II.</unitid> 
+			 
+               <unittitle>Inner Sky, JIB 2009, 
+				<unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian">June 2009</unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>1 CD-ROM </extent>
+                  <extent>(44 image files in TIFF
+				format)</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Files are numerically arranged by intermediate, assigned file
+				names. </p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_01</container> 
+				
+                  <unittitle>Mario Caroli playing piccolo with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1459"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_02</container> 
+				
+                  <unittitle>Mario Caroli playing piccolo with the Slee Sinfonietta
+				  conducted by Brad Lubman in rehearsal of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1455"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_03</container> 
+				
+                  <unittitle>Mario Caroli playing piccolo with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1456"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_04</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1457"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_05</container> 
+				
+                  <unittitle>Composer David Felder shaking hand of flute soloist
+				  Mario Caroli, after performance of Felder's Inner Sky by the Slee Sinfonietta
+				  with conductor Brad Lubman, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1458"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_06</container> 
+				
+                  <unittitle>Composer David Felder accepting applause after
+				  performance of his Inner Sky, by flutist Mario Caroli with the Slee Sinfonietta
+				  conducted by Brad Lubman, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1460"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_07</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1461"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_08</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1462"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_09</container> 
+				
+                  <unittitle>Flutist Mario Caroli during performance with the Slee
+				  Sinfonietta of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1463"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_10</container> 
+				
+                  <unittitle>Mario Caroli playing piccolo with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1464"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_11</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta
+				  conducted by Brad Lubman in rehearsal of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1465"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_12</container> 
+				
+                  <unittitle>Composer David Felder shaking hands with conductor Brad
+				  Lubman after performance of Felder's Inner Sky by flutist Mario Caroli with the
+				  Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1466"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_13</container> 
+				
+                  <unittitle>Mario Caroli playing piccolo with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1467"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_14</container> 
+				
+                  <unittitle>Mario Caroli, flutist, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1468"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_15</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta in
+				  rehearsal of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1469"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_16</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1476"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_17</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta and
+				  conductor Brad Lubman taking bows after performance of David Felder's Inner
+				  Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1484"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_18</container> 
+				
+                  <unittitle>Percussionist Jon Hepfer bowing glockenspiel during
+				  rehearsal with the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1470"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_19</container> 
+				
+                  <unittitle>Percussionist Jon Hepfer bowing glockenspiel during
+				  performance with Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1471"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_20</container> 
+				
+                  <unittitle>Mario Caroli, flutist rehearsing David Felder's Inner
+				  Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1472"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_21</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1473"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_22</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1474"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_23</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1475"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_24</container> 
+				
+                  <unittitle>String section of the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1477"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_25</container> 
+				
+                  <unittitle>String section of the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1478"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_26</container> 
+				
+                  <unittitle>Pianist Catarina Domenici and percussionist Rin Ozaki
+				  performing with the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1479"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_27</container> 
+				
+                  <unittitle>Violinists in the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1482"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_28</container> 
+				
+                  <unittitle>Flutist Mario Caroli, conductor Brad Lubman, and
+				  composer David Felder consult during a rehearsal of Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1481"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_29</container> 
+				
+                  <unittitle>Flutist Mario Caroli, conductor Brad Lubman, and
+				  composer David Felder consult during a rehearsal of Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1480"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_30</container> 
+				
+                  <unittitle>Concertmaster Charles Haupt and other string players of
+				  the Slee Sinfonietta in rehearsal, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1483"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_31</container> 
+				
+                  <unittitle>Concertmaster Charles Haupt and other string players of
+				  the Slee Sinfonietta in rehearsal, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1485"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_32</container> 
+				
+                  <unittitle>Conductor Brad Lubman and composer David Felder on edge
+				  of stage in Slee Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1490"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_33</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1501"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_34</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1486"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_35</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1488"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_36</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1487"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_37</container> 
+				
+                  <unittitle>Mario Caroli, flutist, taking bow in front of the Slee
+				  Sinfonietta after performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1489"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_38</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1491"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_39</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, with Rin
+				  Ozaki percussion, in rehearsal of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1492"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_40</container> 
+				
+                  <unittitle>Mario Caroli, flutist, at rehearsal of David Felder's
+				  Inner Sky with the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1493"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_41</container> 
+				
+                  <unittitle>Mario Caroli, flutist, at performance of David Felder's
+				  Inner Sky with the Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1494"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_42</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta in rehearsal
+				  of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1495"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_43</container> 
+				
+                  <unittitle>Mario Caroli, flutist, with the Slee Sinfonietta
+				  conducted by Brad Lubman in performance of David Felder's Inner Sky, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1496"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_02_44</container> 
+				
+                  <unittitle>Percussionist Tom Kolor in performance with the Slee
+				  Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1497"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series3">III.</unitid> 
+			 
+               <unittitle>Masterclasses, JIB 2009, 
+				<unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian">June 2009</unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>1 CD-ROM </extent>
+                  <extent>(31 image files in TIFF
+				format)</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Files are numerically arranged by intermediate, assigned file
+				names.</p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_01</container> 
+				
+                  <unittitle>Composer Bernard Rands with June in Buffalo student Kye
+				  Ryung Park, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1498"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_02</container> 
+				
+                  <unittitle>Composer Mathew Rosenblum with June in Buffalo students
+				  Todd Tarantino, Chun Ting Pang, Christopher Rogerson, Jason Thompson, and
+				  Joseph Lake, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1499"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_03</container> 
+				
+                  <unittitle>Composer Mathew Rosenblum during June in Buffalo
+				  masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1500"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_04</container> 
+				
+                  <unittitle>Composer David Felder with students Andrew Ly, Christian
+				  Gentry, Matthew Schreibeis, Todd Tarantino, and Eleanor Aversa during June in
+				  Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1511"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_05</container> 
+				
+                  <unittitle>Composer David Felder with students Andrew Ly, Christian
+				  Gentry, Matthew Schreibeis, Todd Tarantino, and Eleanor Aversa during June in
+				  Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1512"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_06</container> 
+				
+                  <unittitle>Composer David Felder with students Andrew Ly, Christian
+				  Gentry, Matthew Schreibeis, Todd Tarantino, and Eleanor Aversa during June in
+				  Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1502"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_07</container> 
+				
+                  <unittitle>Composer David Felder during a lecture at June in
+				  Buffalo, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1503"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_08</container> 
+				
+                  <unittitle>Composer Harvey Sollberger during lecture at June in
+				  Buffalo, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1504"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_09</container> 
+				
+                  <unittitle>Composer Harvey Sollberger during lecture at June in
+				  Buffalo, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1505"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_10</container> 
+				
+                  <unittitle>June in Buffalo student composer, Jaime S. Reveles, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1506"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_11</container> 
+				
+                  <unittitle>June in Buffalo student composer Jason Thompson, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1507"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_12</container> 
+				
+                  <unittitle>Group photograph of the June in Buffalo student
+				  composers for 2009, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1508"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_13</container> 
+				
+                  <unittitle>Composer David Felder with students Andrew Ly, Christian
+				  Gentry, Matthew Schreibeis, Todd Tarantino, and Eleanor Aversa during June in
+				  Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1509"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_14</container> 
+				
+                  <unittitle>Composer Bernard Rands during masterclass with June in
+				  Buffalo students, Moshe Shulman, Diane Berry, Helena Michelson, and Chun Ting
+				  Pang, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1510"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_15</container> 
+				
+                  <unittitle>Composer David Felder with students Andrew Ly, Christian
+				  Gentry, Matthew Schreibeis, Todd Tarantino, and Eleanor Aversa during June in
+				  Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1513"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_16</container> 
+				
+                  <unittitle>Composer David Felder with students Andrew Ly, Christian
+				  Gentry, Matthew Schreibeis, Todd Tarantino, and Eleanor Aversa during June in
+				  Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1514"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_17</container> 
+				
+                  <unittitle>Composer Martin Bresnick with students Moshe Shulman and
+				  Matthew Schreibeis during June in Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1515"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_18</container> 
+				
+                  <unittitle>Composer Mathew Rosenblum with students Chun Ting Pang,
+				  Joseph Lake, Jason Thompson, and Christopher Rogerson during June in Buffalo
+				  masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1524"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_19</container> 
+				
+                  <unittitle>Composer Brian Griffeath-Loeb during June in Buffalo
+				  masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1516"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_20</container> 
+				
+                  <unittitle>Composer Bernard Rands during masterclass with June in
+				  Buffalo students, Moshe Shulman, Diane Berry, Helena Michelson, and Chun Ting
+				  Pang, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1517"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_21</container> 
+				
+                  <unittitle>Composer Harvey Sollberger with students Andrew Ly, John
+				  Bacon, Helena Michelson, and Eric Lindsay during June in Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1518"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_22</container> 
+				
+                  <unittitle>Composer Harvey Sollberger with students Andrew Ly, John
+				  Bacon, and Eric Lindsay during June in Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1520"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_23</container> 
+				
+                  <unittitle>Composer Mathew Rosenblum with students Chun Ting Pang,
+				  Joseph Lake, Jason Thompson, and Christopher Rogerson during June in Buffalo
+				  masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1519"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_24</container> 
+				
+                  <unittitle>Composer Harvey Sollberger with students Andrew Ly, John
+				  Bacon, Helena Michelson, and Eric Lindsay during June in Buffalo masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1521"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_25</container> 
+				
+                  <unittitle>Composer Mathew Rosenblum during June in Buffalo
+				  masterclass, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1522"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_26</container> 
+				
+                  <unittitle>June in Buffalo student composers Eric Lindsay,
+				  Christian Gentry, and Travis Alford, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1523"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_27</container> 
+				
+                  <unittitle>June in Buffalo student composer Jason Thompson, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1525"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_28</container> 
+				
+                  <unittitle>Group photograph of the June in Buffalo student
+				  composers for 2009, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1526"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_29</container> 
+				
+                  <unittitle>June in Buffalo student composers Chun Ting Pang, Joseph
+				  Lake, Jason Thompson, and Christopher Rogerson studying scores, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1528"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_30</container> 
+				
+                  <unittitle>June in Buffalo student composer Sara Carvalho, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1527"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_03_31</container> 
+				
+                  <unittitle>June in Buffalo student composers Diana Soh and Moshe
+				  Shulman, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1529"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series4">IV.</unitid> 
+			 
+               <unittitle>Stefano Scodanibbio, JIB 2009, 
+				<unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian">June 2009</unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>1 CD-ROM </extent>
+                  <extent>(5 image files in TIFF
+				format)</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Files are numerically arranged by intermediate, assigned file
+				names.</p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_04_01</container> 
+				
+                  <unittitle>Composer and double bass player Stefano Scodanibbio
+				  during June in Buffalo workshop, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1530"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_04_02</container> 
+				
+                  <unittitle>Composer and double bass player Stefano Scodanibbio
+				  during June in Buffalo workshop, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1531"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_04_03</container> 
+				
+                  <unittitle>Composer and double bass player Stefano Scodanibbio
+				  during June in Buffalo workshop, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1533"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_04_04</container> 
+				
+                  <unittitle>Composer and double bass player Stefano Scodanibbio
+				  during June in Buffalo workshop, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1532"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_04_05</container> 
+				
+                  <unittitle>Composer and double bass player Stefano Scodanibbio
+				  during June in Buffalo workshop, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1534"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series5">V.</unitid> 
+			 
+               <unittitle>NY New Music Ensemble, JIB 2009 
+				<unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian">June 2009</unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>1 CD-ROM </extent>
+                  <extent>(10 image files in TIFF
+				format)</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Files are numerically arranged by intermediate, assigned file
+				names. </p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_01</container> 
+				
+                  <unittitle>Conductor James Baker in rehearsal with violoncellist
+				  Chris Finckel, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1540"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_02</container> 
+				
+                  <unittitle>Conductor James Baker in rehearsal with the New York New
+				  Music Ensemble, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1553"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_03</container> 
+				
+                  <unittitle>June in Buffalo student composer Eric Lindsay rehearsing
+				  with violoncellist Chris Finckel, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1535"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_04</container> 
+				
+                  <unittitle>June in Buffalo student composer Eric Lindsay at
+				  rehearsal in Slee Hall, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1536"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_05</container> 
+				
+                  <unittitle>Conductor James Baker rehearsing with violinist Linda
+				  Quan, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1537"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_06</container> 
+				
+                  <unittitle>Conductor James Baker with June in Buffalo student
+				  composer Mark Fromm, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1538"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_07</container> 
+				
+                  <unittitle>James Baker conducting New York New Music Ensemble
+				  members, Linda Quan, Chris Finckel, Jean Kopperud, and pianist Stephen Gosling,
+				  
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1539"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_08</container> 
+				
+                  <unittitle>James Baker conducting New York New Music Ensemble
+				  members, Linda Quan, Chris Finckel, Jean Kopperud, and pianist Stephen Gosling,
+				  
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1541"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_09</container> 
+				
+                  <unittitle>Conductor James Baker rehearsing with the New York New
+				  Music Ensemble, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1542"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_05_10</container> 
+				
+                  <unittitle>Conductor James Baker rehearsing with the New York New
+				  Music Ensemble, Stephen Gosling, piano and Tom Kolor, percussion, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1543"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+		
+         <c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series6">VI.</unitid> 
+			 
+               <unittitle>June in Buffalo 2009, 
+				<unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian">June 2009</unitdate>
+				
+               </unittitle> 
+			 
+               <physdesc>
+                  <extent>1 CD-ROM </extent>
+                  <extent>(38 image files in TIFF
+				format)</extent>
+               </physdesc> 
+		  
+            </did> 
+		  
+            <arrangement> 
+			 
+               <p>Files are numerically arranged by intermediate, assigned file
+				names. </p> 
+		  
+            </arrangement> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_01</container> 
+				
+                  <unittitle>Composer Philippe Manoury with violist Christophe
+				  Desjardins, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1544"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_02</container> 
+				
+                  <unittitle>Composer Philippe Manoury with violist Christophe
+				  Desjardins, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1545"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_03</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, with
+				  mezzo-soprano Julia Bentley in performance of Bernard Rands Now again, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1546"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_04</container> 
+				
+                  <unittitle>June in Buffalo student composer Bruce Pennycook, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1547"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_05</container> 
+				
+                  <unittitle>Robert Franz conducting the Buffalo Philharmonic in June
+				  in Buffalo rehearsal, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1548"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_06</container> 
+				
+                  <unittitle>Robert Franz conducting the Buffalo Philharmonic in June
+				  in Buffalo rehearsal, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1549"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_07</container> 
+				
+                  <unittitle>Robert Franz conducting the Buffalo Philharmonic in June
+				  in Buffalo rehearsal, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1550"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_08</container> 
+				
+                  <unittitle>Violist Christophe Desjardins, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1552"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_09</container> 
+				
+                  <unittitle>Violist Christophe Desjardins in rehearsal, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1551"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_10</container> 
+				
+                  <unittitle>Violist Christophe Desjardins, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1554"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_11</container> 
+				
+                  <unittitle>Violist Christophe Desjardins in action, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1555"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_12</container> 
+				
+                  <unittitle>Composer Bernard Rands accepting applause after
+				  performance of his Now again, with mezzo-soprano Julia Bentley, conductor Brad
+				  Lubman, and the Slee Sinfonietta on stage, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1556"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_13</container> 
+				
+                  <unittitle>Composer David Felder discussing his piece Another Face
+				  with violinist Lina Bahn, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1557"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_14</container> 
+				
+                  <unittitle>Composer David Felder with violinist Lina Bahn, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1558"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_15</container> 
+				
+                  <unittitle>Composer Mathew Rosenblum, with conductor Brad Lubman,
+				  composer David Felder, and violinist Lina Bahn, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1574"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_16</container> 
+				
+                  <unittitle>Composers Steve Antosca and Mathew Rosenblum, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1578"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_17</container> 
+				
+                  <unittitle>Conductor Brad Lubman, composer David Felder, and
+				  violist Sandy Robbins, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1559"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_18</container> 
+				
+                  <unittitle>Flutist Lindsey Goodman performing Mathew Rosenblum's
+				  Under the rainbow, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1560"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_19</container> 
+				
+                  <unittitle>Composer Philippe Manoury and violist Christophe
+				  Desjardins, with Christophe Lebreton and unidentified sound engineer at sound
+				  console, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1561"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_20</container> 
+				
+                  <unittitle>Brad Lubman conducting the Slee Sinfonietta, with
+				  mezzo-soprano Julia Bentley in performance of Bernard Rands Now again, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1562"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_21</container> 
+				
+                  <unittitle>Violist Christophe Desjardins, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1563"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_22</container> 
+				
+                  <unittitle>Violinist Lina Bahn, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1564"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_23</container> 
+				
+                  <unittitle>Violinist Lina Bahn, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1565"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_24</container> 
+				
+                  <unittitle>Flutist Lindsey Goodman performing Mathew Rosenblum's
+				  Under the rainbow, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1566"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_25</container> 
+				
+                  <unittitle>Pianist Lisa Moore performing Martin Bresnick's For the
+				  sexes, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1567"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_26</container> 
+				
+                  <unittitle>Pianist Lisa Moore performing Martin Bresnick's For the
+				  sexes with projected video, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1568"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_27</container> 
+				
+                  <unittitle>Meridian Arts Ensemble performing Bruce Pennycook's
+				  Redwood Quintet, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1569"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_28</container> 
+				
+                  <unittitle>Meridian Arts Ensemble performing Bruce Pennycook's
+				  Redwood Quintet, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1570"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_29</container> 
+				
+                  <unittitle>Meridian Arts Ensemble performing at June in Buffalo, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1571"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_30</container> 
+				
+                  <unittitle>Meridian Arts Ensemble taking bow after June in Buffalo
+				  performance, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1572"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_31</container> 
+				
+                  <unittitle>Meridian Arts Ensemble in performance at June in
+				  Buffalo, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1573"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_32</container> 
+				
+                  <unittitle>Composer Philippe Manoury, with violist Christophe
+				  Desjardins and sound engineer Christophe Lebreton at sound console, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1575"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_33</container> 
+				
+                  <unittitle>Composer Philippe Manoury and violist Christophe
+				  Desjardins, with Christophe Lebreton and unidentified sound engineer at sound
+				  console, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1576"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_34</container> 
+				
+                  <unittitle>Composer Bernard Rands in rehearsal with Jean Kopperud,
+				  Jon Hepfer, Jon Nelson, and Brad Lubman, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1577"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_35</container> 
+				
+                  <unittitle>Composer Bernard Rands talking to mezzo-soprano Julia
+				  Bentley during rehearsal of Rands Now again, with conductor Brad Lubman and the
+				  Slee Sinfonietta, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1581"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_36</container> 
+				
+                  <unittitle>Percussionist Rin Ozaki and small chimes, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1582"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_37</container> 
+				
+                  <unittitle>Percussionist Rin Ozaki with small chimes, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1579"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		  
+            <c02 level="item"> 
+			 
+               <did> 
+				
+                  <container type="image-file">jib2009_06_38</container> 
+				
+                  <unittitle>Violist Christophe Desjardins in motion, 
+				  <unitdate type="inclusive" normal="2009-06" era="ce" calendar="gregorian"> June
+					 2009</unitdate>
+                  </unittitle> 
+				<!-- <dao linktype="simple"href="http://ubdigit.buffalo.edu/u?/LIB-MUS009,1580"actuate="onrequest"show="new"> --> 
+				
+                  <physdesc>
+                     <extent>1 digital image (tiff format)</extent>
+                  </physdesc>
+				
+			 
+               </did> 
+		  
+            </c02> 
+		
+         </c01> 
+	 
+      </dsc> 
+	 
+      <controlaccess> 
+		
+         <head>Search Terms</head> 
+		
+         <note> 
+		  
+            <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		
+         </note> 
+		
+         <controlaccess> 
+		  
+            <head>Subjects</head> 
+		  
+            <corpname source="lcnaf" encodinganalog="611">June in Buffalo (Festival) (Buffalo, N.Y.)--Photographs</corpname> 
+		  
+            <subject source="lcsh" encodinganalog="650">Composers--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Music festivals--New York (State)--Buffalo--Photographs</subject> 
+		  
+            <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+		
+         </controlaccess> 
+		
+         <controlaccess> 
+		  
+            <head>Genres</head> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Photographs</genreform> 
+		  
+            <genreform encodinganalog="655" source="gmgpc">Portraits</genreform> 
+		
+         </controlaccess> 
+	 
+      </controlaccess> 
+	 
+      <descgrp type="add"> 
+		
+         <head>Associated Material</head> 
+		
+         <relatedmaterial encodinganalog="544 1"> 
+		  
+            <head>Related Resources</head> 
+		  
+            <relatedmaterial> 
+			 
+               <head>Related Resources in the Music Library</head> 
+			 
+               <list type="deflist"> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0018.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2000 </archref> Mus. Arc. 18 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2000 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0019.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2001 </archref> Mus. Arc. 19</label> 
+				  
+                     <item>Finding aid for collection of photographs for 2001 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0020.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2002 </archref> Mus. Arc. 20</label> 
+				  
+                     <item>Finding aid for collection of photographs for 2002 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0021.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2003 </archref> Mus. Arc. 21 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2003 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0025.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2004 </archref> Mus. Arc. 25 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2004 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2005 </archref> Mus. Arc. 27 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2005 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2006 </archref> Mus. Arc. 29 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2006 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0038.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2007 </archref> Mus. Arc. 38 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2007 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0039.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2008</archref> Mus. Arc. 39 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2008 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+				
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0055.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2010 </archref> Mus. Arc. 55 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2010 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0056.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2011 </archref> Mus. Arc. 56 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2011 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0060.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2012</archref> Mus. Arc. 60 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2012 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0066.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2013 </archref> Mus. Arc. 66 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2013 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0067.xml" show="new" actuate="onrequest" role="text/html" linktype="simple">Irene Haupt Photographs of June
+						in Buffalo 2014 </archref> Mus. Arc. 67 </label> 
+				  
+                     <item>Finding aid for collection of photographs for 2014 June in
+					 Buffalo. </item> 
+				
+                  </defitem> 
+
+
+                  <defitem> 
+				  
+                     <label> 
+					 
+                        <archref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" role="text/html" linktype="simple">June in Buffalo Photograph
+						Collection</archref>
+                     </label> 
+				  
+                     <item>A selection of images from the June in Buffalo festivals is available through University at Buffalo Libraries Digital Collections.</item> 
+				
+                  </defitem> 
+
+			 
+               </list> 
+		  
+            </relatedmaterial> 
+		
+         </relatedmaterial> 
+	 
+      </descgrp> 
+  
+   </archdesc> 
+
+</ead>
