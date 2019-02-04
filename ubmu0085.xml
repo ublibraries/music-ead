@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 85::Peter Gena Collection of Papers and Scores)//EN">ubmu0085
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Peter Gena
+			 Collection of Papers and Scores, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1950/2012">1950-2012</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Gena (Peter)
+			 Collection of Papers and Scores </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, December 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Peter Gena Collection of
+		  Papers and Scores, 
+		  <unitdate encodinganalog="245$f" normal="1950/2012" type="inclusive"
+			datechar="creation">1950-2012 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 85</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf"> Gena,
+			 Peter </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">5
+		  boxes</extent>
+		  <extent unit="folder" encodinganalog="300$a">(139 folders and
+		  items)</extent> </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Contains
+		  correspondence, writings, concert programs, articles, scores, and
+		  recordings.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Peter Gena Collection of Scores and Papers,
+			 1950-2012, Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Peter Gena, 2015-2018.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, December 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Peter Gena was born in Buffalo, New York, 27 April 1947. He earned his
+		  B.A. (1969), M.A. (1972) and Ph.D. (1976) degrees at the State University of
+		  New York at Buffalo where he studied composition with Morton Feldman, William
+		  Kothe, and Lejaren Hiller. From 1974 to 1976, he was a Lecturer in Music and
+		  Director of the Electronic Music Studio at the California State University in
+		  Fresno. From 1976 to 1983, he was an Assistant Professor in Theory-Composition
+		  at the School of Music of Northwestern University, where he co-directed the
+		  Computer Music Studio. From 1983-2017 he was on the faculty at the School of
+		  the Art Institute of Chicago. During his time in Chicago, Gena has produced,
+		  directed, and performed in many new musical and multi-media events, including
+		  NEMO '96, New Music America '82 in Chicago, and the 1978 International Computer
+		  Music Conference at Northwestern University. He was the Events Program Director
+		  for the 1997 International Symposium of Electronic Arts (Chicago), and was the
+		  Artistic Director of the New European Music Overseas Festival (1995-96). Gena
+		  is decorated by the French government at the rank of Chevalier dans l'Ordre des
+		  Palmes Académiques. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains correspondence, writings, concert programs,
+		  articles, scores, and recordings. The content reflects Gena's work on the 
+		<title render="italic">John Cage Reader</title>, his work as a concert
+		programmer, and his research interests. The score series includes six of Gena's
+		compositions and three works by Julius Eastman. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in seven series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				Correspondence</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II. Writings
+				and teaching notes by Gena</ref></item>
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				Writings by others</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV. Programs
+				</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series5">V. Clippings
+				</ref></item>
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series6">VI. Journal
+				issues and publications </ref></item>
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series7">VII.
+				Scores</ref></item>
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series8">VIII. Audio
+				and video recordings</ref></item>
+<item> 
+			 <ref actuate="onrequest" show="replace" target="series9">IX. Additions</ref></item>				 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Correspondence, 
+				<unitdate type="inclusive" normal="1979/2010"> 1979-2010</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 1-31</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains correspondence to and from Peter Gena, or to others on
+				behalf of Gena.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Arranged alphabetically by correspondent.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">001</container> 
+				<unittitle> 
+				  <persname>Amirkhanian, Charles</persname>, 
+				  <unitdate type="inclusive">1988-10-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letter of recommendation for Gena to Martin Prekop, School of
+				  the Art Institute of Chicago.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">002</container> 
+				<unittitle> 
+				  <persname>Ashley, Robert</persname>, 
+				  <unitdate type="inclusive">1988</unitdate>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>4 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letter of recommendation for Gena to Martin Prekop, School of
+				  the Art Institute of Chicago.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">003</container> 
+				<unittitle> 
+				  <persname>Buckner, Thomas</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>3 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letters to Buckner from Gena.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">004</container> 
+				<unittitle> 
+				  <persname>Cage, John</persname>, 
+				  <unitdate type="inclusive">1988-09-20</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letter of recommendation for Gena to Martin Prekop, School of
+				  the Art Institute of Chicago.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">005</container> 
+				<unittitle> 
+				  <persname>Chatham, Rhys</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">006</container> 
+				<unittitle> 
+				  <persname>Cohen, Douglas</persname>, 
+				  <unitdate type="inclusive">1992-1994</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">007</container> 
+				<unittitle> 
+				  <persname>Consey, Kevin E.</persname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">008</container> 
+				<unittitle> 
+				  <persname>Coover, James B.</persname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>4 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">009</container> 
+				<unittitle> 
+				  <persname>De Mare, Anthony</persname>, 
+				  <unitdate type="inclusive">1986</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes a concert program and related material.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">010</container> 
+				<unittitle> 
+				  <corpname>French American Cultural Exchange</corpname>, 
+				  <unitdate type="inclusive">2010</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Funding matters for two Partner University Fund projects:
+				  TransAtLab Research: Actual/virtual sound, space, and object and Space and
+				  objects: the new Atlantis sound</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">011</container> 
+				<unittitle> 
+				  <persname>Gann, Kyle</persname>, 
+				  <unitdate type="inclusive">1994-01-19</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letter of recommendation for Gena to Carol Becker, School of the
+				  Art Institute of Chicago.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">012</container> 
+				<unittitle> 
+				  <persname>Gozdziewski, Marek</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>3 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>On behalf of Centre of Contemporary Art, Warsaw, Poland.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">013</container> 
+				<unittitle> 
+				  <persname>Higgins, Dick</persname>, 
+				  <unitdate type="inclusive">1979-1982</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes catalogs and a bio-bibliography.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">014</container> 
+				<unittitle> 
+				  <corpname>InterArts Chicago</corpname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Chiefly concerning arrangements for NEMO (New European Music
+				  Overseas) festival 1995-96.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">015</container> 
+				<unittitle> 
+				  <corpname>InterArts Chicago</corpname>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Chiefly concerning arrangements for NEMO (New European Music
+				  Overseas) festival 1995-96. Includes organizational documents for InterArts
+				  Chicago.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">016</container> 
+				<unittitle> 
+				  <persname>Kubera, Joseph</persname>, 
+				  <unitdate type="inclusive">1990</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">017</container> 
+				<unittitle> 
+				  <persname>Lauten, Elodie</persname>, 
+				  <unitdate type="inclusive">1995-02-28</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">018</container> 
+				<unittitle> 
+				  <persname>Lawson, Peter</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">019</container> 
+				<unittitle> 
+				  <persname>Lombardo, Robert</persname>, 
+				  <unitdate type="inclusive">1995-02-21</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">020</container> 
+				<unittitle> 
+				  <persname>Luft, Mary</persname>, 
+				  <unitdate type="inclusive">1991-09-26</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>For Tigertail Productions.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">021</container> 
+				<unittitle> 
+				  <corpname>Montréal Musique Actuelles</corpname>, 
+				  <unitdate type="inclusive">1990-11-28</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">022</container> 
+				<unittitle> 
+				  <corpname>Museu de arte contemoranea</corpname>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes correspondence from Sylvio Continho and Christina
+				  Freire.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">023</container> 
+				<unittitle> 
+				  <persname>Oliveros, Pauline</persname>, 
+				  <unitdate type="inclusive">1992-12-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Letter of recommendation for Gena to Martin Prekop, School of
+				  the Art Institute of Chicago.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">024</container> 
+				<unittitle> 
+				  <persname>Pratesi, Ludovico</persname>, 
+				  <unitdate type="inclusive">1993-07-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Gena to Pratesi.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">025</container> 
+				<unittitle> 
+				  <persname>Schubert, Barbara</persname>, 
+				  <unitdate type="inclusive">1994-02-14</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>On behalf of University of Chicago Department of Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">026</container> 
+				<unittitle> 
+				  <persname>Stäbler, Gerhard</persname>, 
+				  <unitdate type="inclusive">1993-08-04</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Gena to Stäbler.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">027</container> 
+				<unittitle> 
+				  <persname>Syverud, Steven</persname>, 
+				  <unitdate type="inclusive">1995-02-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>On behalf of Northwestern University School of Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">028</container> 
+				<unittitle> 
+				  <persname>Terkel, Studs</persname>, 
+				  <unitdate type="inclusive">1983-04-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Gena to Terkel.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">029</container> 
+				<unittitle> 
+				  <corpname>TriQuarterly</corpname>, 
+				  <unitdate type="inclusive">circa 1980</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Sent by Anne-Marie Zwierzna concerning manuscript for the John
+				  Cage Reader.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">030</container> 
+				<unittitle> 
+				  <persname>Williams, Jan</persname>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">031</container> 
+				<unittitle> 
+				  <persname>Yim, Jay Alan</persname>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>On behalf of Northwestern University School of Music.</p> 
+			 </scopecontent>
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Writings and teaching notes by Peter Gena, 
+				<unitdate type="inclusive" normal="1974/1999"> 1974-1999</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 32-48</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains writings that include drafts for his contributions to the
+				John Cage Reader and notes prepared for teaching classes.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Arranged alphabetically by title.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">032</container> 
+				<unittitle> 
+				  <title render="italic">After antiquity: John Cage in conversation
+					 with Peter Gena</title>, 
+				  <unitdate type="inclusive">1982-03-31</unitdate> </unittitle> 
+				<physdesc> <extent>23 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">033</container> 
+				<unittitle> 
+				  <title render="italic">Biofeedback in music: biomusic</title>, 
+				  <unitdate type="inclusive">1974-11</unitdate> </unittitle> 
+				<physdesc> <extent>13 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Research proposal for California State University, Fresno.</p>
+<p>Accompanied by Research proposal submitted to the National Science Foundation by California State University, Fresno, March 30, 1976.</p>				 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">034</container> 
+				<unittitle> 
+				  <title render="italic">Concert of antimusic: program
+					 notes</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">035</container> 
+				<unittitle> 
+				  <title render="italic">Experimental music</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manuscript notes.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">036</container> 
+				<unittitle> 
+				  <title render="italic">Fifty years after: Music of the European
+					 reconstruction and the Euro-American community</title>, 
+				  <unitdate type="inclusive">1995</unitdate> </unittitle> 
+				<physdesc> <extent>4 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>In CUBE (calendar).</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">037</container> 
+				<unittitle> 
+				  <title render="italic">Freedom in experimental music</title>, 
+				  <unitdate type="inclusive">circa 1980</unitdate> </unittitle> 
+				<physdesc> <extent>2 copies (19 and 27 pages)</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>In TriQuarterly 52 (1981).</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">038</container> 
+				<unittitle> 
+				  <title render="italic">Hiller notes</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>13 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Authorship is not clear.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">039</container> 
+				<unittitle> 
+				  <title render="italic">John Cage, 1912-1992</title>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>In <title render="italic">New Art Examiner</title>, October 1992.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">040</container> 
+				<unittitle> 
+				  <title render="italic">John Cage Reader: Preface</title>, 
+				  <unitdate type="inclusive">circa 1980</unitdate> </unittitle> 
+				<physdesc> <extent>4 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>TriQuarterly 52 (1981).</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">041</container> 
+				<unittitle> 
+				  <title render="italic">John Cage, the composer</title>, 
+				  <unitdate type="inclusive">circa 1980</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Three typescript versions, including one titled John Cage, a
+				  portrait of the man as (of all things) a composer. Version of the chapter in
+				  the John Cage reader.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">042</container> 
+				<unittitle> 
+				  <title render="italic">Physiological approach to DNA music
+					 (excerpt)</title>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+				<physdesc> <extent>3 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Written with Charles Strom. In Ylem Newsletter, number 10 volume
+				  19.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">043</container> 
+				<unittitle> 
+				  <title render="italic">Program notes for April 5 composer's
+					 concert</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>For the work, Romance, based on a work by Claude Balbastre.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">044</container> 
+				<unittitle> 
+				  <title render="italic">Teaching notes for Acoustics 101</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">045</container> 
+				<unittitle> 
+				  <title render="italic">Teaching notes for Music A-15-1</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">046</container> 
+				<unittitle> 
+				  <title render="italic">Teaching notes for Music A-15-2</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">047</container> 
+				<unittitle> 
+				  <title render="italic">Teaching notes for Music A-15-3</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">048</container> 
+				<unittitle> 
+				  <title render="italic">Teaching notes for Music theory 102: some
+					 comments on voice-leading and chord connection</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did>
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Writings by others, 
+				<unitdate type="inclusive" normal="1974/2005"> 1974-2005</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 49-59</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Writings by other authors collected by Gena, including three texts
+				for the 
+			 <title render="italic">John Cage Reader</title>.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Alphabetically arranged by author surname.</p>
+		  </arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">049</container> 
+				<unittitle> 
+				  <persname>Brooks, William</persname>: 
+				  <title render="italic">Choice and change in Cage's recent
+					 music</title>, 
+				  <unitdate type="inclusive">circa 1980</unitdate> </unittitle> 
+				<physdesc> <extent>31 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Marked with correction as prepared for the John Cage reader.</p>
+				
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">050</container> 
+				<unittitle> 
+				  <persname>Burns, Kristine H.</persname>: 
+				  <title render="italic">History of electronic and computer music
+					 including automatic instruments and composition machines</title>, 
+				  <unitdate type="inclusive">2005</unitdate> </unittitle> 
+				<physdesc> <extent>18 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">051</container> 
+				<unittitle> 
+				  <persname>Davies, P. J.</persname>: 
+				  <title render="italic">Beethoven's nephropathy and death:
+					 discussion paper</title>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>3 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>In Journal of the Royal Society of Medicine, volume 86.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">052</container> 
+				<unittitle> 
+				  <persname>Dobrian, Chris</persname>: 
+				  <title render="italic">MSP tutorial: Tutorial 24: Analysis, using
+					 the FFT</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>13 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Version unknown but based on original text by Dobrian.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">053</container> 
+				<unittitle> 
+				  <persname>Dunn, John</persname>: 
+				  <title render="italic">Life music: the sonification of
+					 proteins</title>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+				<physdesc> <extent>9 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Written with Mary Anne Clark. In Leonardo volume 32 number 1,
+				  1999.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">054</container> 
+				<unittitle> 
+				  <persname>Gann, Kyle</persname>: 
+				  <title render="italic">New music in the Second City</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>11 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">055</container> 
+				<unittitle> 
+				  <persname>Kostelanetz, Richard</persname>: 
+				  <title render="italic">Numbers: Poems and stories</title>, 
+				  <unitdate type="inclusive">1974</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">056</container> 
+				<unittitle> 
+				  <persname>Oliveros, Pauline</persname>: 
+				  <title render="italic">To the American Society of University
+					 Composers</title>, 
+				  <unitdate type="inclusive">1981-04-05</unitdate> </unittitle> 
+				<physdesc> <extent>14 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Caption: To the benefit of all sentient beings".</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">057</container> 
+				<unittitle> 
+				  <persname>O'Shea, J. G.</persname>: 
+				  <title render="italic">Was Frederic Chopin's illness actually
+					 cystic fibrosis?</title>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+				<physdesc> <extent>2 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Abstracts and citations for Chopin studies.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">058</container> 
+				<unittitle> 
+				  <persname>Perloff, Marjorie</persname>: 
+				  <title render="italic">Unimpededness and interpenetration: the
+					 poetic of John Cage</title>, 
+				  <unitdate type="inclusive">circa 1980</unitdate> </unittitle> 
+				<physdesc> <extent>19 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Marked with correction as prepared for the John Cage reader.</p>
+				
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">059</container> 
+				<unittitle> 
+				  <persname>Schmitt, Natalie Crohn</persname>: 
+				  <title render="italic">John Cage's aesthetics and
+					 twentieth-century science</title>, 
+				  <unitdate type="inclusive">circa 1980</unitdate> </unittitle> 
+				<physdesc> <extent>54 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Preliminary version of text titled John Cage, nature, and
+				  theater, in the John Cage reader.</p> 
+			 </scopecontent>
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Programs, 
+				<unitdate type="inclusive" normal="1969/2012">1969-2012</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 60-78</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Concert programs, some including additional material, including
+				research for the concert planning and organizational documents of the concert
+				programmer. </p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Arranged in chronological order.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">060</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1969-04-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Senior recital of Joseph Kubera.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">061</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1974-1979</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">062</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1980-01-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Julius Eastman at Northwestern University.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">063</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1980-1981</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">064</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">065</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">066</container> 
+				<unittitle>Cornelius Cardew memorial concert, 
+				  <unitdate type="inclusive">1983-05-05</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>With supporting research material.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">067</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1984</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">068</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1985-1986</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">069</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">070</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">071</container> 
+				<unittitle> 
+				  <persname>Young, La Monte and Marian Zazeela</persname>: Sound
+				  and light environment: a time installation measured by a setting of continuous
+				  frequencies in sound and light, 
+				  <unitdate type="inclusive">1989-03-01</unitdate> </unittitle> 
+				<physdesc> <extent>11 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>With program notes by Young and Zazeela.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">072</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1990-1994</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">073</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1995-1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Including NEMO events.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">074</container> 
+				<unittitle>ISEA '95 : 6th International Symposium on Electronic
+				  Art, 
+				  <unitdate type="inclusive">1995-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Full packet, including correspondence.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">075</container> 
+				<unittitle>ISEA '97 : 8th International Symposium on Electronic
+				  Art, 
+				  <unitdate type="inclusive">1997-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Booklet with documentation of organizing the festival in
+				  Chicago.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">076</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">1998-1999</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">077</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">2000-2012</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">078</container> 
+				<unittitle>Programs, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Clippings, 
+				<unitdate type="inclusive" normal="1975/2003"> 1975-2003</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 79-84</extent></physdesc> 
+		  </did> 
+		  <arrangement>
+			 <p>Arranged in chronological order.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">079</container> 
+				<unittitle>Clippings, 
+				  <unitdate type="inclusive">1975</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">080</container> 
+				<unittitle>Clippings, 
+				  <unitdate type="inclusive">1981-1988</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">081</container> 
+				<unittitle>Clippings, 
+				  <unitdate type="inclusive">1991</unitdate>, 
+				  <unitdate type="inclusive">1993</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">082</container> 
+				<unittitle>Clippings, 
+				  <unitdate type="inclusive">1996</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">083</container> 
+				<unittitle>Clippings, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">084</container> 
+				<unittitle>Clippings, 
+				  <unitdate type="inclusive">2003</unitdate>, <unitdate type="inclusive">2007</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Journal issues and publications, 
+				<unitdate type="inclusive" normal="1974/1997"> 1974-1997</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 85-92</extent></physdesc> 
+		  </did> 
+		  <arrangement>
+			 <p>Alphabetically arranged by author.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">085</container> 
+				<unittitle> 
+				  <corpname>Arts Midwest</corpname>: 
+				  <title render="italic">Jazz Masters Journal</title>, 
+				  <unitdate type="inclusive">1991-1995</unitdate> </unittitle> 
+				<physdesc> <extent>5 volumes</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">086</container> 
+				<unittitle> 
+				  <corpname>Arts Midwest</corpname>: 
+				  <title render="italic">Midwest Jazz</title>, 
+				  <unitdate type="inclusive">1995-1997</unitdate> </unittitle> 
+				<physdesc> <extent>5 volumes</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">087</container> 
+				<unittitle> 
+				  <persname>Danner, Gregory J.</persname>: 
+				  <title render="italic">Nonlinear processor/multiresonant filter
+					 system for synthesis of musical tones</title>, 
+				  <unitdate type="inclusive">1974-08</unitdate> </unittitle> 
+				<physdesc> <extent>51 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Experimental Music Studios Technical Report no. 24 from
+				  University of Illinois School of Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">088</container> 
+				<unittitle> 
+				  <persname>Ferrari, Luc</persname>: 
+				  <title render="italic">Eléments d'un parcours confus…</title>, 
+				  <unitdate type="inclusive">circa 1997</unitdate> </unittitle> 
+				<physdesc> <extent>45 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Bio-bibliography and discography accompanied by other material
+				  about Ferrari.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">089</container> 
+				<unittitle> 
+				  <persname>George, Anne</persname>: 
+				  <title render="italic">Suddenly</title>, 
+				  <unitdate type="inclusive">1985</unitdate> </unittitle> 
+				<physdesc> <extent>21 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">090</container> 
+				<unittitle> 
+				  <corpname>Northwestern University School of Music</corpname>: 
+				  <title render="italic">Fanfare: Centennial issue no. 4</title>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+				<physdesc> <extent>61 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">091</container> 
+				<unittitle> 
+				  <persname>Rucktenwald, Thomas E.</persname>: 
+				  <title render="italic">Electronic synthesis of violin
+					 tones</title>, 
+				  <unitdate type="inclusive">1974-06</unitdate> </unittitle> 
+				<physdesc> <extent>67 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Experimental Music Studios Technical Report no. 22 from
+				  University of Illinois School of Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">092</container> 
+				<unittitle> 
+				  <corpname>Second annual music computation conference</corpname>: 
+				  <title render="italic">Proceedings</title>, 
+				  <unitdate type="inclusive">1975-11</unitdate> </unittitle> 
+				<physdesc> <extent>4 volumes</extent> </physdesc> 
+			 </did>
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII.</unitid> 
+			 <unittitle>Scores, 
+				<unitdate type="inclusive" normal="1950/1994"> 1950-1994</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 93-125</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains scores by Gena and others.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Alphabetically arranged by author and then by title.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">093</container> 
+				<unittitle> 
+				  <persname>Amirkhanian, Charles</persname>: 
+				  <title render="italic">His anxious hours</title>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">094</container> 
+				<unittitle> 
+				  <persname>Amirkhanian, Charles</persname>: 
+				  <title render="italic">Metropolis San Francisco</title>, 
+				  <unitdate type="inclusive">1986</unitdate> </unittitle> 
+				<physdesc> <extent>14 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">095</container> 
+				<unittitle> 
+				  <persname>Eastman, Julius</persname>: 
+				  <title render="italic">Crazy nigger</title>, 
+				  <unitdate type="inclusive">1978</unitdate> </unittitle> 
+				<physdesc> <extent>13 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Accompanied by performance guide.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">096</container> 
+				<unittitle> 
+				  <persname>Eastman, Julius</persname>: 
+				  <title render="italic">Evil nigger</title>, 
+				  <unitdate type="inclusive">1979</unitdate> </unittitle> 
+				<physdesc> <extent>29 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">097</container> 
+				<unittitle> 
+				  <persname>Eastman, Julius</persname>: 
+				  <title render="italic">Gay guerrilla</title>, 
+				  <unitdate type="inclusive">1979</unitdate> </unittitle> 
+				<physdesc> <extent>14 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Two copies.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">098</container> 
+				<unittitle> 
+				  <persname>Foss, Lukas</persname>: 
+				  <title render="italic">Curriculum vitae for solo
+					 accordion</title>, 
+				  <unitdate type="inclusive">1978</unitdate> </unittitle> 
+				<physdesc> <extent>9 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Pembroke Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">099</container> 
+				<unittitle> 
+				  <persname>Foss, Lukas</persname>: 
+				  <title render="italic">Thirteen ways of looking at a
+					 blackbird</title>, 
+				  <unitdate type="inclusive">1980</unitdate> </unittitle> 
+				<physdesc> <extent>15 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Pembroke Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">100</container> 
+				<unittitle> 
+				  <persname>Gaburo, Kenneth</persname>: 
+				  <title render="italic">Antiphony IV</title>, 
+				  <unitdate type="inclusive">1967</unitdate> </unittitle> 
+				<physdesc> <extent>16 pages</extent> </physdesc> 
+				<note> 
+				  <p>Ozalid copy.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>With accompanying notes.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">101</container> 
+				<unittitle> 
+				  <persname>Gena, Peter</persname>: 
+				  <title render="italic">Egg and the machine</title>, 
+				  <unitdate type="inclusive">1967</unitdate> </unittitle> 
+				<physdesc> <extent>12 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>For mixed chorus and piano, on a text by Robert Frost.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">102</container> 
+				<unittitle> 
+				  <persname>Gena, Peter</persname>: 
+				  <title render="italic">Modular fantasies</title>, 
+				  <unitdate type="inclusive">1974</unitdate> </unittitle> 
+				<physdesc> <extent>2 scores (13 pages each) and 7 parts</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Ozalid copy.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">103</container> 
+				<unittitle> 
+				  <persname>Gena, Peter</persname>: 
+				  <title render="italic">Modular fantasies II: sketches</title>, 
+				  <unitdate type="inclusive">circa 1975</unitdate> </unittitle> 
+				<physdesc> <extent>1 score</extent> </physdesc> 
+				<note> 
+				  <p>Pencil holograph.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Composition served as Gena's dissertation in 1976.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">104</container> 
+				<unittitle> 
+				  <persname>Gena, Peter</persname>: 
+				  <title render="italic">O thou to whom the musical white spring:
+					 for flute, soprano, viola, guitar</title>, 
+				  <unitdate type="inclusive">1968</unitdate> </unittitle> 
+				<physdesc> <extent>9 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">105</container> 
+				<unittitle> 
+				  <persname>Gena, Peter</persname>: 
+				  <title render="italic">Syzygy</title>, 
+				  <unitdate type="inclusive">1967</unitdate> </unittitle> 
+				<physdesc> <extent>15 pages</extent> </physdesc> 
+				<note> 
+				  <p>Ozalid copy.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">106</container> 
+				<unittitle> 
+				  <persname>Gena, Peter</persname>: 
+				  <title render="italic">Upon arriving in the city by the
+					 bay</title>, 
+				  <unitdate type="inclusive">1970</unitdate> </unittitle> 
+				<physdesc> <extent>3 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy of holograph.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">107</container> 
+				<unittitle> 
+				  <persname>Higgins, Dick</persname>: 
+				  <title render="italic">Sonata for prepared piano</title>, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+				<physdesc> <extent>8 pages</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">108</container> 
+				<unittitle> 
+				  <persname>Higgins, Dick</persname>: 
+				  <title render="italic">Ten ways of looking at a bird</title>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+				<physdesc> <extent>15 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>For violin and harpsichord.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">109</container> 
+				<unittitle> 
+				  <persname>Johnson, Tom</persname>: 
+				  <title render="italic">252 : for piano</title>, 
+				  <unitdate type="inclusive">1985</unitdate> </unittitle> 
+				<physdesc> <extent>12 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Two-Eighteen Press.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">110</container> 
+				<unittitle> 
+				  <persname>Johnson, Tom</persname>: 
+				  <title render="italic">Chord : for four instruments</title>, 
+				  <unitdate type="inclusive">1984</unitdate> </unittitle> 
+				<physdesc> <extent>19 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Two-Eighteen Press.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">111</container> 
+				<unittitle> 
+				  <persname>Johnson, Tom</persname>: 
+				  <title render="italic">Septapede : for piano</title>, 
+				  <unitdate type="inclusive">1975</unitdate> </unittitle> 
+				<physdesc> <extent>7 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Associated Music Publishers. Accompanied by
+				  catalogs of Johnson's works and a concert program.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">112</container> 
+				<unittitle> 
+				  <persname>Johnson, Tom</persname>: 
+				  <title render="italic">Symmetries</title>, 
+				  <unitdate type="inclusive">1981</unitdate> </unittitle> 
+				<physdesc> <extent>64 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Two-Eighteen Press.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">113</container> 
+				<unittitle> 
+				  <persname>Lerman, Richard</persname>: 
+				  <title render="italic">Changing states 3 : Duo version</title>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>1 score</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Frog Peak Music. For metal microphones,
+				  blowtorches, and other instrument.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">114</container> 
+				<unittitle> 
+				  <persname>Lerman, Richard</persname>: 
+				  <title render="italic">Travelon gamelon</title>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+				<physdesc> <extent>19 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>For three amplified bicycles. Published by Frog Peak Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">115</container> 
+				<unittitle> 
+				  <persname>Lombardi, Luca</persname>: 
+				  <title render="italic">Ai pedi del faro</title>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+				<physdesc> <extent>37 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Ricordi.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">116</container> 
+				<unittitle> 
+				  <persname>Lombardi, Luca</persname>: 
+				  <title render="italic">Bagatelles sans ry avec tonalité</title>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>24 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Ricordi.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">117</container> 
+				<unittitle> 
+				  <persname>Lombardi, Luca</persname>: 
+				  <title render="italic">Canzone di Greta</title>, 
+				  <unitdate type="inclusive">1987</unitdate> </unittitle> 
+				<physdesc> <extent>15 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Ricordi.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">118</container> 
+				<unittitle> 
+				  <persname>Lombardi, Luca</persname>: 
+				  <title render="italic">Jahreswechsel</title>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+				<physdesc> <extent>48 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Ricordi.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">119</container> 
+				<unittitle> 
+				  <persname>Lombardi, Luca</persname>: 
+				  <title render="italic">Lied</title>, 
+				  <unitdate type="inclusive">1988</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (15 pages) and 2 parts</extent>
+				  </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Ricordi.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">120</container> 
+				<unittitle> 
+				  <persname>Lombardi, Luca</persname>: 
+				  <title render="italic">Ophelia-fragmente</title>, 
+				  <unitdate type="inclusive">1983</unitdate> </unittitle> 
+				<physdesc> <extent>12 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Ricordi. Accompanied by works catalog.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">121</container> 
+				<unittitle> 
+				  <persname>Lombardi, Luca</persname>: 
+				  <title render="italic">Primo quartetto per archi : Quartett vom
+					 armen Mann</title>, 
+				  <unitdate type="inclusive">1992</unitdate> </unittitle> 
+				<physdesc> <extent>15 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Ricordi.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">122</container> 
+				<unittitle> 
+				  <persname>Miller, Thomas P.</persname>: 
+				  <title render="italic">Pines</title>, 
+				  <unitdate type="inclusive">1973</unitdate> </unittitle> 
+				<physdesc> <extent>1 page</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">123</container> 
+				<unittitle> 
+				  <persname>Randall, J. K.</persname>: 
+				  <title render="italic">Gap 2-5</title>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+				<physdesc> <extent>51 pages</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Open Space.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">124</container> 
+				<unittitle> 
+				  <persname>Rzewski, Frederic</persname>: 
+				  <title render="italic">Coming together, part 1</title>, 
+				  <unitdate type="inclusive">1972</unitdate> </unittitle> 
+				<physdesc> <extent>17 pages</extent> </physdesc> 
+				<note> 
+				  <p>Photocopy.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="folder">125</container> 
+				<unittitle> 
+				  <persname>Sapp, Allen</persname>: 
+				  <title render="italic">Five landscapes. Virginia ; Cape
+					 Ann</title>, 
+				  <unitdate type="inclusive">1950</unitdate> </unittitle> 
+				<physdesc> <extent>7 pages</extent> </physdesc> 
+				<note> 
+				  <p>Ozalid copy.</p> 
+				</note> 
+			 </did>
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series8">VIII.</unitid> 
+			 <unittitle>Audio and video recordings, 
+				<unitdate type="inclusive" normal="1983/2010"> 1983-2010</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 126-139</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Includes audio cassettes, compact discs, a VHS tape, and DVDs.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Separated by format and then arranged alphabetically by
+				creator.</p>
+		  </arrangement>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">126</container> 
+				<unittitle> 
+				  <persname>Lerman, Richard</persname>: 
+				  <title render="italic">Within earreach</title>, 
+				  <unitdate type="inclusive">1994</unitdate> </unittitle> 
+				<physdesc> <extent>1 compact disc</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Artifact Records.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">127</container> 
+				<unittitle> 
+				  <persname>Lucier, Alvin</persname>: 
+				  <title render="italic">Theme</title>, 
+				  <unitdate type="inclusive">1999</unitdate> </unittitle> 
+				<physdesc> <extent>1 compact disc</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Published by Lovely Music.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">128</container> 
+				<unittitle> 
+				  <corpname>School of the Art Institute of Chicago</corpname>: 
+				  <title render="italic">Sound projects Fall 2002</title>, 
+				  <unitdate type="inclusive">2002</unitdate> </unittitle> 
+				<physdesc> <extent>1 compact disc</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Works by Anderko, Lange, Hanson, Winters, and Allard.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">129</container> 
+				<unittitle> 
+				  <corpname>School of the Art Institute of Chicago</corpname>: 
+				  <title render="italic">Sound projects Spring '97</title>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+				<physdesc> <extent>1 compact disc</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Works by Evans, Berkowitz, Moore, Clepper, Williams,
+				  Morgenstern, Deluge, Olan, Lechago, Dornberger, Peterson, Sinkinson, Collins,
+				  Gomez, and Whitt.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">130</container> 
+				<unittitle> 
+				  <corpname>Arts Council of Lapland, Finland</corpname>: 
+				  <title render="italic">Polararc</title>, 
+				  <unitdate type="inclusive">1997</unitdate> </unittitle> 
+				<physdesc> <extent>1 CD-ROM</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">131</container> 
+				<unittitle> 
+				  <persname>Battier, Marc</persname>: 
+				  <title render="italic">Untitled cassette</title>, 
+				  <unitdate type="inclusive">circa 1983</unitdate> </unittitle> 
+				<physdesc> <extent>1 audio cassette</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes works by, and collaborations with Jean-Paul Curtay.</p>
+				
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">132</container> 
+				<unittitle> 
+				  <persname>Chadabe, Joel</persname>: 
+				  <title render="italic">Sample of playthings</title>, 
+				  <unitdate type="inclusive">1980</unitdate> </unittitle> 
+				<physdesc> <extent>1 audio cassette</extent> </physdesc> 
+			 </did>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">133</container> 
+				<unittitle> 
+				  <persname>Martirano, Salvatore</persname>: 
+				  <title render="italic">Untitled cassette</title>, 
+				  <unitdate type="inclusive">1982</unitdate> </unittitle> 
+				<physdesc> <extent>1 audio cassette</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Works by Salvatore Martirano and Ed Herrmann. "Selections from
+				  their KOPN performance November 1982."</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">134</container> 
+				<unittitle> 
+				  <persname>Velasco, Alejandro</persname>: 
+				  <title render="italic">Urbe máxima</title>, 
+				  <unitdate type="inclusive">1991</unitdate> </unittitle> 
+				<physdesc> <extent>1 audio cassette</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Released by Paraiso.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">135</container> 
+				<unittitle> 
+				  <corpname>Cittadellarte-Fondazione Pistoletto</corpname>: 
+				  <title render="italic">Universita delle ideee</title>, 
+				  <unitdate type="inclusive">2000</unitdate> </unittitle> 
+				<physdesc> <extent>1 VHS video cassette</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>PAL format.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">136</container> 
+				<unittitle> 
+				  <persname>Fontana, Bill</persname>: 
+				  <title render="italic">River sounding</title>, 
+				  <unitdate type="inclusive">2010</unitdate> </unittitle> 
+				<physdesc> <extent>1 DVD</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>VOB file format. Sound installation at Somerset House,
+				  London.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">137</container> 
+				<unittitle> 
+				  <persname>Fontana, Bill</persname>: 
+				  <title render="italic">Sonic shadows</title>, 
+				  <unitdate type="inclusive">2010</unitdate> </unittitle> 
+				<physdesc> <extent>1 DVD</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>VOB file format.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">138</container> 
+				<unittitle> 
+				  <persname>Fontana, Bill</persname>: 
+				  <title render="italic">Sound sculptures 1976-2007</title>, 
+				  <unitdate type="inclusive">circa 2010</unitdate> </unittitle> 
+				<physdesc> <extent>1 DVD</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>VOB file format.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<container type="folder">139</container> 
+				<unittitle> 
+				  <persname>Fontana, Bill</persname>: 
+				  <title render="italic">Speeds of time</title>, 
+				  <unitdate type="inclusive">2008</unitdate> </unittitle> 
+				<physdesc> <extent>1 DVD</extent> </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>VOB file format. Version 1: London, 2004, Palace of Westminster;
+				  Version 2: London, 2008, Tate Britain and the BBC.</p> 
+			 </scopecontent>
+		  </c02> 
+		</c01>
+<c01 level="series"> 
+		  <did> 
+			 <unitid id="series9">IX.</unitid> 
+			 <unittitle>Additions, 
+				<unitdate type="inclusive" normal="1970/2012">1970-2012</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 140-142</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains additions received after initial processing was completed.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Arranged as received.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">140</container> 
+				<unittitle>Correspondence, 
+				  <unitdate type="inclusive">1990-2012</unitdate> </unittitle> 
+				<physdesc> <extent>1 folder</extent> </physdesc> 
+			 </did> 
+			
+		  </c02>
+ <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">141</container> 
+				<unittitle><persname>Gena, Peter</persname>: 
+				<title render="italic">Technical Report no. 7, National Science Foundation Project no. GK-14191: Musicol Manual, Version 1</title>, 
+				  <unitdate type="inclusive">May 1973</unitdate> </unittitle> 
+				<physdesc> <extent>132 pages (typescript)</extent> </physdesc>
+<note><p>MUSical Instruction Composition Oriented Language for the 6400 Digital Computer.</p></note>				 
+			 </did> 
+<scopecontent><p>Accompanied by manuscript note from Lejaren Hiller.</p></scopecontent>			
+		  </c02>
+<c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="folder">142</container> 
+				<unittitle><persname>Sinclair, John G., Jr.</persname>: 
+				  <title render="italic">Research report on audio display of brain waves</title>, 
+				  <unitdate type="inclusive">21 August 1970</unitdate> </unittitle> 
+				<physdesc> <extent>45 pages</extent> </physdesc>
+<note><p>Written with Wendell R. Lipscomb.</p></note>				 
+			 </did> 
+<scopecontent><p>From the Research Department, Mendocino State Hospital, Talmage, California.</p></scopecontent>			
+		  </c02>				    
+</c01>		  		
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <persname source="lcnaf" encodinganalog="700" role="creator">Eastman,
+			 Julius</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Music--20th
+			 century</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Gena,
+			 Peter--Archives</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+		  
+		  <genreform encodinganalog="655" source="aat">Concert
+			 programs</genreform> 
+		  <genreform encodinganalog="655" source="aat">Clippings (information
+			 artifacts)</genreform>
+		  <genreform encodinganalog="655" source="rbgenr">Scores</genreform> 
+		  <genreform encodinganalog="655" source="gmgpc">Sound
+			 recordings</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<separatedmaterial encodinganalog="544 0"> 
+		  <head>Separated Material</head> 
+		  <p>The following published books were removed from the collection,
+			 either to be added to the general collection, or if duplicates, offered
+			 elsewhere.</p> 
+		  <list type="marked">
+			 <item>
+				<bibref> 
+				  <title render="italic">Proceedings of the 1978 International
+					 Computer Music Conference, volume 1-2</title> </bibref></item>
+			 <item>
+				<bibref> 
+				  <title render="italic">Yamaha Avant Grand N3/N2 owner's
+					 manual</title>
+				</bibref></item> 
+			 <item> 
+				<bibref> 
+				  <corpname>Espace Culturel Louis Vuitton : </corpname> 
+				  <title render="italic">Anicroches: variations, choral et fugue
+					 </title> <imprint> 
+				  <geogname>Paris (France): </geogname> 
+				  <publisher>Triangle/TRAM, </publisher> 
+				  <date type="publication">2012</date> </imprint> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <persname>Leopoldseder, Hannes : </persname> 
+				  <title render="italic">Prix Ars Electronica: International
+					 compendium for the computer arts </title> <imprint> 
+				  <geogname>Vienna (Austria ; New York (New York): </geogname> 
+				  <publisher>Springer, </publisher> 
+				  <date type="publication">1996</date> </imprint> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <persname>Leopoldseder, Hannes : </persname> 
+				  <title render="italic">Cyber Arts 2001 </title> <imprint> 
+				  <geogname>Vienna (Austria ; New York (New York): </geogname> 
+				  <publisher>Springer, </publisher> 
+				  <date type="publication">2001</date> </imprint> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <corpname>Espace Culturel Louis Vuitton : </corpname> 
+				  <title render="italic">Anicroches: variations, choral et fugue
+					 </title> <imprint> 
+				  <geogname>Paris (France): </geogname> 
+				  <publisher>Triangle/TRAM, </publisher> 
+				  <date type="publication">2012</date> </imprint> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <corpname>European Media Arts Festival : </corpname> 
+				  <title render="italic">Media Arts Festival</title> <imprint> 
+				  <geogname>Osnabruck (Germany):</geogname> 
+				  <publisher>European Media Arts Festival, </publisher> 
+				  <date type="publication">1998</date> </imprint> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <title render="italic">Kunstforum International </title>
+				  <imprint> 
+				  <geogname>Mainz (Germany): </geogname> 
+				  <publisher>Kunstforum International, </publisher> 
+				  <date type="publication">1989</date> </imprint> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <persname>Gerber, Karl : </persname> 
+				  <title render="italic">Mythos information: Welcome to the wired
+					 world : Ars electronica 95 </title> <imprint> 
+				  <geogname>Vienna (Austria ; New York (New York): </geogname> 
+				  <publisher>Springer, </publisher> 
+				  <date type="publication">1995</date> </imprint> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <title render="italic">Ars Electronica: 1995, 1996, 1997, 2005
+					 </title> </bibref> </item>
+			 <item> 
+				<bibref> 
+				  <corpname>ISEA : </corpname> 
+				  <title render="italic">Seventh International Symposium on
+					 Electronic Art: proceedings </title> <imprint> 
+				  <geogname>Rotterdam (Netherlands): </geogname> 
+				  <publisher>ISEA Foundation, </publisher> 
+				  <date type="publication">1996</date> </imprint> </bibref> </item>
+			 
+			 <item> 
+				<bibref> 
+				  <title render="italic">ISEA 97, Chicago : the eighth
+					 international symposium on electronic art: program guide, abstracts, events
+					 </title> </bibref> </item> 
+		  </list> 
+		  <p>The following posters were removed from the collection, either to be
+			 added to the Music Library poster collection, or if duplicates, offered
+			 elsewhere.</p> 
+		  <list type="marked"> 
+			 <item>
+				<bibref> 
+				  <title render="italic">Mayor Byrne's New Music America '82</title> </bibref></item>
+			 <item>
+				<bibref> 
+				  <title render="italic">ISEA 97 Chicago: The 8th International Symposium of Electronic Art</title> </bibref></item> 
+<item>
+				<bibref> 
+				  <title render="italic">1978 International Computer Music Conference</title> </bibref></item> 
+<item>
+				<bibref> 
+				  <title render="italic">Northwestern University Contemporary Music Ensemble, Robert Moran, director: April 20, 1978</title> </bibref></item> 
+<item>
+				<bibref> 
+				  <title render="italic">Chicago InterArts Ministry in cooperation with West Hubbard Gallery Music Series presents Moratorium - Manifesto: a performance minus. Sunday December 7 1980</title> </bibref></item> 
+<item>
+				<bibref> 
+				  <title render="italic">School of the Art Institute of Chiacgo: Time Arts visiting artists</title> </bibref></item> 				  				  				  				  
+		  </list> 
+		</separatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

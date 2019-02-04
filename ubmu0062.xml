@@ -1,0 +1,3685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+
+<ead>
+
+
+
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 62::Slee Lecture Recital Recordings)//EN">ubmu0062</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Slee Lecture
+			 Recital Recordings,
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1957/1975">1957-1975</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Slee Lecture Recital
+			 Recordings </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Slee Lecture Recital
+		  Recordings, 
+		  <unitdate encodinganalog="245$f" normal="1957/1975" type="inclusive" datechar="creation">1957-1975</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 62</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" source="lcnaf" role="creator">State University of New York at Buffalo. Music
+			 Department</corpname> </origination> 
+		<physdesc label="Extent"> <extent unit="reel" encodinganalog="300$a">94
+		  reel to reel tapes</extent> (<extent unit="linear foot" encodinganalog="300$a">15 linear feet</extent>) </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">Spoken
+		  word content in collection in <language encodinganalog="041" langcode="eng">English.</language> </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection of Slee
+		  Lecture Recital Recordings contains 94 reel to reel tapes of lectures by the
+		  named Slee Visiting Lecturer in the Music Department at the State University of
+		  New York at Buffalo.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Slee Lecture Recital Recordings, 1957-1975, Music
+			 Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access and Use</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Music Department, State University of New York at
+			 Buffalo.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>The reel to reel tapes were reformatted to cassettes sometime in the
+			 1970s or 1980s. It is possible that when these transfers were made, they were done in such a way that any musical works presented within a lecture were separated out to stand on their own rather than transferring the entire lecture-recital in its original presentation order. The cassettes have been retained for this reason. </p>
+			<p>The reels of tape were also digitally reformatted. The preservation files were stored on a hard drive and CD audio discs were created as service copies. However, on the service copies there may not be a one-to-one correspondence between musical works or lectures to discrete tracks or audio files.</p> 
+		</altformavail> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley 2013.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>Frederick Caldecott Slee was born 25 September 1870 in Skaneatles, New York. He studied music 
+		  at Harvard while earning his undergraduate degree there. He was a violist and a composer of more 
+		  than three dozen works. His wife Alice and he bequeathed funds to the University of Buffalo to establish 
+		  an annual concert series at the University of the entire cycle of Beethoven's string quartets, an ongoing musical tradition in Buffalo. They also designated funds to be used to pay renowned composers or music theorists to come to the University as the Slee Visiting Professor in Music. The chief component of the teaching obligation was to present public lecture recitals, the topics and programs of which were to be determined by the visiting professor. The resulting Slee Lecture Recitals took place 1957-1975. The fund was later shifted to be used for a Slee Chair position in music theory within the department rather than funding visiting faculty. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection of Slee Lecture Recital Recordings contains 94 reel to reel tapes of lectures by the named Slee Visiting Lecturer in the Music Department at the State University of New York at Buffalo. There were 76 lecture-recitals presented and approximately 277 works programmed. Unfortunately, not all programs or works were recorded. </p>
+		  <p>Lecturers included Aaron Copland, Leon Kirchner, Carlos Chavez, Ned Rorem, David Diamond, Allen Sapp, Haieff, Leo Smit, Virgil Thomson, George Rochberg, Mauricio Kagel, Luciano Berio, Daniel Pinkham, Henri Pousseur, Lejaren Hiller, Istvan Anhalt, Nicholas Nabokov, Morton Feldman, Luis De Pablo, Harrison Birtwistle, and Betsy Jolas.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is chronologically arranged by event.</p> 
+	 </arrangement> 
+<dsc type="in-depth">
+		<head>Container List</head> 
+
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel">002 Side 1, 003 Side 1</container>
+      <unittitle>Slee Lecture Recital no. 1, October 10, 1957                                 
+            , <unitdate type="inclusive">1957-10-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_001_01.wav, ubmu0062_001_02.wav, ubmu0062_001_03.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_001_01</head>
+         <item>Original cassette number: SLR 001</item>
+         <item>
+            <persname>Copland, Aaron, 1900-1990</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Introduction to the contemporary idiom</title>
+         </item>
+         <item>Performers: Aaron Copland, lecturer</item>
+         <item>Duration: 30:00</item>
+         <item>Note: Side 1 only on both reels; Side 2 of each contains Lecture 2. Titles from printed program.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_001_02</head>
+         <item>Original cassette number: SLR 002</item>
+         <item>
+            <persname>Debussy, Claude, 1862-1918</persname>
+         </item>
+         <item>
+            <title render="italic">Preludes. Book II, No. 2, 12</title>
+         </item>
+         <item>Performers: Allen Giles, piano</item>
+         <item>Duration: 6:48</item>
+         <item>Note: Side 1 only; Side 2 contains recital music for Lecture 2. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_001_03</head>
+         <item>Original cassette number: SLR 003</item>
+         <item>
+            <persname>Bartók, Béla, 1881-1945</persname>
+         </item>
+         <item>
+            <title render="italic">Bagatelles, op. 6. no. 13, 1</title>
+         </item>
+         <item>Performers: Livingston Gearhart, piano</item>
+         <item>Duration: 2:51</item>
+         <item>Note: Side 1 only; Side 2 contains recital music for Lecture 2. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_001_04</head>
+         <item>Original cassette number: SLR 004</item>
+         <item>
+            <persname>Stravinsky, Igor, 1882-1971</persname>
+         </item>
+         <item>
+            <title render="italic">Five easy pieces</title>
+         </item>
+         <item>Performers: Livingston Gearhart, Carol Wolf, pianos</item>
+         <item>Duration: 5:08</item>
+         <item>Note: Side 1 only; Side 2 contains recital music for Lecture 2. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_001_05</head>
+         <item>Original cassette number: SLR 005</item>
+         <item>
+            <persname>Schoenberg, Arnold, 1874-1951</persname>
+         </item>
+         <item>
+            <title render="italic">Pierrot Lunaire, op. 21. No. 1, 4, 7, 9</title>
+         </item>
+         <item>Performers: Dorothy Rosenberger, soprano; Robert Mols, flute; Allen Sigel, clarinet; Harry Taub, violin; Dorris Jane Dugan-Baird, violoncello; Cameron Baird, piano</item>
+         <item>Duration: 6:25</item>
+         <item>Note: Side 1 only; Side 2 contains recital music for Lecture 2. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel"> 001 Side 2, 003 Side 2</container>
+      <unittitle>Slee Lecture Recital no. 2, November 14, 1957                                 
+            , <unitdate type="inclusive">1957-11-14</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_002_01.wav, ubmu0062_002_02.wav, ubmu0062_002_03.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_002_01</head>
+         <item>Original cassette number: SLR 006</item>
+         <item>
+            <persname>Copland, Aaron, 1900-1990</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Music of the twenties</title>
+         </item>
+         <item>Performers: Aaron Copland, lecturer</item>
+         <item>Duration: 30:00</item>
+         <item>Note: Side 2 only; Side 1 contains Lecture 1, Part 1</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_002_06</head>
+         <item>Original cassette number: SLR 011</item>
+         <item>
+            <persname>Berg, Alban, 1885-1935</persname>
+         </item>
+         <item>
+            <title render="italic">Vier Stucke fur Klarinette und Klavier, op. 5</title>
+         </item>
+         <item>Performers: Allen Sigel, clarinet; Squire Haskin, piano</item>
+         <item>Duration: 6:01</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 1. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_002_05</head>
+         <item>Original cassette number: SLR 010</item>
+         <item>
+            <persname>Hindemith, Paul, 1895-1963</persname>
+         </item>
+         <item>
+            <title render="italic">Marienleben, 1948. 1, 5, 11, 15</title>
+         </item>
+         <item>Performers: Dorothy Rosenberger, soprano; Squire Haskin, piano</item>
+         <item>Duration: 10:12</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 1. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_002_04</head>
+         <item>Original cassette number: SLR 009</item>
+         <item>
+            <persname>Stravinsky, Igor, 1882-1971</persname>
+         </item>
+         <item>
+            <title render="italic">Suite italienne. Introduzione, Gavotta, Finale</title>
+         </item>
+         <item>Performers: Pamela Gearhart, violin; Livingston Gearhart, piano</item>
+         <item>Duration: 6:55</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 1. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_002_02</head>
+         <item>Original cassette number: SLR 007</item>
+         <item>
+            <persname>Milhaud, Darius, 1892-1974</persname>
+         </item>
+         <item>
+            <title render="italic">Rape of Europa</title>
+         </item>
+         <item>Performers: Dorothy Rosenberger, Deok X. Koe, Vehan Khanzadian,  Richard Siegel, principal roles; Unnamed chorus and orchestra; David G. Gooding, conductor</item>
+         <item>Duration: 2:39</item>
+         <item>Note: Only first part of opera recorded. Side 2 only; Side 1 contains recital music for Lecture 1. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_002_03</head>
+         <item>Original cassette number: SLR 008</item>
+         <item>
+            <persname>Poulenc, Francis, 1899-1963</persname>
+         </item>
+         <item>
+            <title render="italic">Bestiaire</title>
+         </item>
+         <item>Performers: Toni Packer, alto; David G. Gooding, piano</item>
+         <item>Duration: 4:25</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 1. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel"> 004 Side 1,  005 Side 1</container>
+      <unittitle>Slee Lecture Recital no. 3, December 5, 1957                                 
+            , <unitdate type="inclusive">1957-12-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_003_01.wav, ubmu0062_003_02.wav, ubmu0062_003_03.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_003_01</head>
+         <item>Original cassette number: SLR 012</item>
+         <item>
+            <persname>Copland, Aaron, 1900-1990</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Current trends in European music</title>
+         </item>
+         <item>Performers: Aaron Copland, lecturer</item>
+         <item>Duration: 30:00</item>
+         <item>Note: Side 1 only; Side 2 contains Lecture 4 part 2</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_003_02</head>
+         <item>Original cassette number: SLR 013</item>
+         <item>
+            <persname>Webern, Anton, 1883-1945</persname>
+         </item>
+         <item>
+            <title render="italic">Variationen fur Klavier, op. 27</title>
+         </item>
+         <item>Performers: Allen Giles, piano</item>
+         <item>Duration: 6:12</item>
+         <item>Note: Side 1 only; Side 2 contains recital music for Lecture 4. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_003_03</head>
+         <item>Original cassette number: SLR 014</item>
+         <item>
+            <persname>Britten, Benjamin, 1913-1976</persname>
+         </item>
+         <item>
+            <title render="italic">Seven sonnets of Michelangelo, op. 22. No. 1, 3, 5, 7</title>
+         </item>
+         <item>Performers: Stanley Wieczorek, tenor; Squire Haskin, piano</item>
+         <item>Duration: 10:44</item>
+         <item>Note: Side 1 only; Side 2 contains recital music for Lecture 4. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_003_04</head>
+         <item>Original cassette number: SLR 015</item>
+         <item>
+            <persname>Henze, Hans Werner, 1926-</persname>
+         </item>
+         <item>
+            <title render="italic">Quintet, woodwinds. 1 (fragment), 3</title>
+         </item>
+         <item>Performers: UB Woodwind Quintet: Robert Mols, flute; De Vere Moore, oboe; Allen Sigel, clarinet; Robert Hughes, bassoon; Lowell Shaw, horn</item>
+         <item>Duration: 4:42</item>
+         <item>Note: Side 1 only; Side 2 contains recital music for Lecture 4. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel"> 004 Side 2, 006 Side 2</container>
+      <unittitle>Slee Lecture Recital no. 4, January 16, 1958                                 
+            , <unitdate type="inclusive">1958-01-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_004_01.wav, ubmu0062_004_02.wav, ubmu0062_004_03.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_004_03</head>
+         <item>Original cassette number: SLR 018</item>
+         <item>
+            <persname>Bowles, Paul, 1910-1999</persname>
+         </item>
+         <item>
+            <title render="italic">Sayula</title>
+         </item>
+         <item>Performers: Livingston Gearhart, Carol Wolf, pianos</item>
+         <item>Duration: 0:52</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 3. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_004_03</head>
+         <item>Original cassette number: SLR 019</item>
+         <item>
+            <persname>Ives, Charles, 1874-1954</persname>
+         </item>
+         <item>
+            <title render="italic">Three songs: At the river, Serenity, Charlie Rutlage</title>
+         </item>
+         <item>Performers: Herbert Beattie, bass; Livingston Gearhart, piano</item>
+         <item>Duration: 5:37</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 3. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_004_04</head>
+         <item>Original cassette number: SLR 020</item>
+         <item>
+            <persname>Fine, Irving, 1914-1962</persname>
+         </item>
+         <item>
+            <title render="italic">Partita. I, III, IV</title>
+         </item>
+         <item>Performers: U.B. Woodwind Quintet: Robert Mols, flute; De Vere Moore, oboe; Allen Sigel, clarinet; Hughes, bassoon; Lowell Shaw, horn</item>
+         <item>Duration: 8:39</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 3. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_004_01</head>
+         <item>Original cassette number: SLR 016</item>
+         <item>
+            <persname>Copland, Aaron, 1900-1990</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The American composer today</title>
+         </item>
+         <item>Performers: Aaron Copland, lecturer</item>
+         <item>Duration: 25:00</item>
+         <item>Note: Side 2 only; Side 1 contains Lecture 3 part 2</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_004_05</head>
+         <item>Original cassette number: SLR 021</item>
+         <item>
+            <persname>Copland, Aaron, 1900-1990</persname>
+         </item>
+         <item>
+            <title render="italic">12 poems of Emily Dickinson (1949-50). 1, 7, 11, 12</title>
+         </item>
+         <item>Performers: Ruth Johnson Mohn, soprano; Aaron Copland, piano</item>
+         <item>Duration: 12:30</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 3. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_004_02</head>
+         <item>Original cassette number: SLR 017</item>
+         <item>
+            <persname>Diamond, David, 1915-2005</persname>
+         </item>
+         <item>
+            <title render="italic">Concerto, pianos 2 (1942)</title>
+         </item>
+         <item>Performers: Livingston Gearhart, Carol Wolf, pianos</item>
+         <item>Duration: 3:57</item>
+         <item>Note: Side 2 only; Side 1 contains recital music for Lecture 3. The individual titles of works are taken from a printed program not the container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel">007</container>
+      <unittitle>Slee Lecture Recital no. 5, March 6, 1958                                 
+            , <unitdate type="inclusive">1958-03-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_005_01.wav, ubmu0062_005_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_005_01</head>
+         <item>Original cassette number: SLR 022</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Introduction to Latin American music</title>
+         </item>
+         <item>Performers: Carlos Chávez, lecturer</item>
+         <item>Duration: 30:00</item>
+         <item>Note: Audio quality is marred by loud coughing directly into the microphone.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_005_02</head>
+         <item>Original cassette number: SLR 023</item>
+         <item>
+            <persname>Plaza, Juan Bautista, 1898-1965</persname>
+         </item>
+         <item>
+            <title render="italic">Fuga romantica venezolana (1950)</title>
+         </item>
+         <item>Performers: Unnamed string orchestra; Carlos Chavez, conductor</item>
+         <item>Duration: 5:18</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_005_03</head>
+         <item>Original cassette number: SLR 024</item>
+         <item>
+            <persname>Plaza, Juan Bautista, 1898-1965</persname>
+         </item>
+         <item>
+            <title render="italic">Fuga criolla (1931)</title>
+         </item>
+         <item>Performers: Unnamed string orchestra; Carlos Chavez, conductor</item>
+         <item>Duration: 4:44</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_005_04</head>
+         <item>Original cassette number: SLR 025</item>
+         <item>
+            <persname>Halffler, Rodolf</persname>
+         </item>
+         <item>
+            <title render="italic">Tres piezas (1954)</title>
+         </item>
+         <item>Performers: Unnamed string orchestra; Carlos Chavez, conductor</item>
+         <item>Duration: 11:55</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_005_05</head>
+         <item>Original cassette number: SLR 026</item>
+         <item>
+            <persname>Tosar Errecart, Héctor A.  (Héctor Alberto), 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Symphony no. 2</title>
+         </item>
+         <item>Performers: Unnamed string orchestra; Carlos Chavez, conductor</item>
+         <item>Duration: 24:43</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel">008</container>
+      <unittitle>Slee Lecture Recital no. 6, April 17, 1958                                 
+            , <unitdate type="inclusive">1958-04-17</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_006_01.wav, ubmu0062_006_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_006_03</head>
+         <item>Original cassette number: SLR 029</item>
+         <item>
+            <persname>Caamaño, Roberto, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Music for strings</title>
+         </item>
+         <item>Performers: Unnamed string orchestra; Carlos Chavez, conductor</item>
+         <item>Duration: 17:07</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_006_04</head>
+         <item>Original cassette number: SLR 030</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Sinfonia, string orchestra, no. 5</title>
+         </item>
+         <item>Performers: Unnamed string orchestra; Carlos Chavez, conductor</item>
+         <item>Duration: 21:27</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_006_02</head>
+         <item>Original cassette number: SLR 028</item>
+         <item>
+            <persname>Galindo, Blas, 1910-1993</persname>
+         </item>
+         <item>
+            <title render="italic">Sinfonia breve (1956)</title>
+         </item>
+         <item>Performers: Unnamed string orchestra; Carlos Chavez, conductor</item>
+         <item>Duration: 17:50</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_006_01</head>
+         <item>Original cassette number: SLR 027</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Latin American music</title>
+         </item>
+         <item>Performers: Carlos Chávez, lecturer</item>
+         <item>Duration: 40:00</item>
+         <item>Note: There is some bad interference on the tape towards the middle of the lecture.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel">009</container>
+      <unittitle>Slee Lecture Recital no. 8, May 29, 1958                                 
+            , <unitdate type="inclusive">1958-05-29</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_008_01.wav, ubmu0062_008_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_008_01</head>
+         <item>Original cassette number: SLR 035</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Untitled</title>
+         </item>
+         <item>Performers: Carlos Chávez, lecturer</item>
+         <item>Duration: 30:00</item>
+         <item>Note: The first part of the cassette tape is unusable due to hum. It sounds as if this is part of the original recording set-up and so returning to the original tape probably won't provide a solution.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_008_02</head>
+         <item>Original cassette number: SLR 036</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Soli I (1933)</title>
+         </item>
+         <item>Performers: Ronald Richards, oboe; James Pyne, clarinet; Frank Collura, trumpet; Robert Hughes, bassoon</item>
+         <item>Duration: 6:46</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_008_03</head>
+         <item>Original cassette number: SLR 037</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Tree of sorrow (1942)</title>
+         </item>
+         <item>Performers: Unknown chorus</item>
+         <item>Duration: 2:04</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_008_04</head>
+         <item>Original cassette number: SLR 038</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Three nocturnes</title>
+         </item>
+         <item>Performers: Unknown chorus</item>
+         <item>Duration: 4:40</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_008_05</head>
+         <item>Original cassette number: SLR 039</item>
+         <item>
+            <persname>Chávez, Carlos, 1899-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Three songs (?)</title>
+         </item>
+         <item>Performers: Performer(s) unknown</item>
+         <item>Duration: 12:46</item>
+         <item>Note: Titles of performed works from cassette catalog, not from original reel container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel">010 Side 1</container>
+      <unittitle>Slee Lecture Recital no. 9, March 23, 1959                                 
+            , <unitdate type="inclusive">1959-03-23</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_009.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_009_01</head>
+         <item>Original cassette number: SLR 040</item>
+         <item>
+            <persname>Kirchner, Leon</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Materials of musical composition</title>
+         </item>
+         <item>Performers: Leon Kirchner, lecturer; Pamela Gearhart, violin; Livingston Gearhart, piano; Herbert Beattie, bass baritone; Janice Menel, Joyce Ismert, Ann Holblinger, Elaine Merritt, Elizabeth Winkler, Dorcas DeMunn, voices</item>
+         <item>Note: Side 1 only: Side 2 is marked "Reading of an Ibsen play"</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="reel">012</container>
+      <unittitle>Slee Lecture Recital no. 12, May 22, 1959                                 
+            , <unitdate type="inclusive">1959-05-22</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_012.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_012_06</head>
+         <item>Original cassette number: SLR 053</item>
+         <item>
+            <persname>Kirchner, Leon</persname>
+         </item>
+         <item>
+            <title render="italic">Trio, piano, violin, violoncello</title>
+         </item>
+         <item>Performers: Theodora Mantz, violin; Donald McCall, violoncello; Leon Kirchner, piano</item>
+         <item>Duration: 13:53</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_012_04</head>
+         <item>Original cassette number: SLR 051</item>
+         <item>
+            <persname>Stilman, Julia, 1935-</persname>
+         </item>
+         <item>
+            <title render="italic">Quarteto</title>
+         </item>
+         <item>Performers: John Rowland, xylophone; Frank Collura, trumpet; James Pyne, clarinet; Donald McCall, violoncello</item>
+         <item>Duration: 6:16</item>
+         <item>Note: Composer stated as Ada Julia Stilman de Lasansky in cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_012_03</head>
+         <item>Original cassette number: SLR 050</item>
+         <item>
+            <persname>Hauschka, Elsa</persname>
+         </item>
+         <item>
+            <title render="italic">Two songs to Blake poems</title>
+         </item>
+         <item>Performers: Dorothy Rosenberger, soprano; Robert Mols, flute; Lowell Shaw, horn; Donald Shrimpton, piano</item>
+         <item>Duration: 10:27</item>
+         <item>Note: Second song repeated after applause</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_012_02</head>
+         <item>Original cassette number: SLR 049</item>
+         <item>
+            <persname>Seitz, Kenneth</persname>
+         </item>
+         <item>
+            <title render="italic">Scherzo</title>
+         </item>
+         <item>Performers: Donald Shrimpton, piano</item>
+         <item>Duration: 3:58/3:51</item>
+         <item>Note: Repeated after applause</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_012_01</head>
+         <item>Original cassette number: SLR 048</item>
+         <item>
+            <persname>Kirchner, Leon</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Untitled</title>
+         </item>
+         <item>Performers: Leon Kirchner, lecturer</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">013</container>
+      <unittitle>Slee Lecture Recital no. 13, December 3, 1959                                 
+            , <unitdate type="inclusive">1959-12-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_013_01.wav, ubmu0062_013_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_013_12</head>
+         <item>Original cassette number: SLR 065</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Youth, day, old age, and night</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 2:00</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_10</head>
+         <item>Original cassette number: SLR 063</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Sally's smile</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 0:39</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_18</head>
+         <item>Original cassette number: SLR 071</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">I am Rose</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 0:12</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_17</head>
+         <item>Original cassette number: SLR 070</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Early in the morning</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 1:33</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_16</head>
+         <item>Original cassette number: SLR 069</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Spring and fall</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 2:01</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_15</head>
+         <item>Original cassette number: SLR 068</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">What if some little pain</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 1:45</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_13</head>
+         <item>Original cassette number: SLR 066</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">To you</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 0:28</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_11</head>
+         <item>Original cassette number: SLR 064</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">O you whom I often and silently come</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 0:21</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_19</head>
+         <item>Original cassette number: SLR 072</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Alleluia</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 2:15</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_08</head>
+         <item>Original cassette number: SLR 061</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Rain in spring</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 1:18</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_07</head>
+         <item>Original cassette number: SLR 060</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Midnight sun</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 1:37</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_06</head>
+         <item>Original cassette number: SLR 059</item>
+         <item>
+            <persname>Stravinsky, Igor, 1882-1971</persname>
+         </item>
+         <item>
+            <title render="italic">Oedipus Rex. Nonn' erubeskite, reges</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 5:58</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_05</head>
+         <item>Original cassette number: SLR 058</item>
+         <item>
+            <persname>Chanler, Theodore, 1902-1961</persname>
+         </item>
+         <item>
+            <title render="italic">Two songs: Ann Poverty; Be very quiet now</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 1:42</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_04</head>
+         <item>Original cassette number: SLR 057</item>
+         <item>
+            <persname>Flanagan, William, 1923-1969</persname>
+         </item>
+         <item>
+            <title render="italic">Two songs: Send home my long strayed eyes; [Unknown song]</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 3:45</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_03</head>
+         <item>Original cassette number: SLR 056</item>
+         <item>
+            <persname>Thomson, Virgil, 1896-1989</persname>
+         </item>
+         <item>
+            <title render="italic">Two songs</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 2:44</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_02</head>
+         <item>Original cassette number: SLR 055</item>
+         <item>
+            <persname>Copland, Aaron, 1900-1990</persname>
+         </item>
+         <item>
+            <title render="italic">Twelve poems of Emily Dickinson. 3, 11</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 4:38</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_01</head>
+         <item>Original cassette number: SLR 054</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Untitled</title>
+         </item>
+         <item>Performers: Ned Rorem, lecturer</item>
+         <item>Note: Very poor sound quality on cassette transfer</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_14</head>
+         <item>Original cassette number: SLR 067</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Visits to St. Elizabeths</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 3:20</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_013_09</head>
+         <item>Original cassette number: SLR 062</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Lordly Hudson</title>
+         </item>
+         <item>Performers: Regipa Sarfaty, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 2:24</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">014-015</container>
+      <unittitle>Slee Lecture Recital no. 14, January 26, 1960                                 
+            , <unitdate type="inclusive">1960-01-26</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels</extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_014_01_01.wav, ubmu0062_014_01_02.wav, ubmu0062_014_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_014_03</head>
+         <item>Original cassette number: SLR 075</item>
+         <item>
+            <persname>Cowell, Henry, 1897-1965</persname>
+         </item>
+         <item>
+            <title render="italic">Andante con moto</title>
+         </item>
+         <item>Performers: Robert Brink, violin; Daniel Pinkham, harpsichord</item>
+         <item>Duration: 2:41</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_014_07</head>
+         <item>Original cassette number: SLR 079</item>
+         <item>
+            <persname>Pinkham, Daniel</persname>
+         </item>
+         <item>
+            <title render="italic">Cantilena and capriccio</title>
+         </item>
+         <item>Performers: Robert Brink, violin; Daniel Pinkham, harpsichord</item>
+         <item>Duration: 6:14</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_014_06</head>
+         <item>Original cassette number: SLR 078</item>
+         <item>
+            <persname>Bavicchi, John, 1922-</persname>
+         </item>
+         <item>
+            <title render="italic">Short sonata</title>
+         </item>
+         <item>Performers: Robert Brink, violin; Daniel Pinkham, harpsichord</item>
+         <item>Duration: 6:22</item>
+         <item>Note: Written for this program; Premiere performance. Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_014_04</head>
+         <item>Original cassette number: SLR 076</item>
+         <item>
+            <persname>Hovhaness, Alan, 1911-2000</persname>
+         </item>
+         <item>
+            <title render="italic">Duet for violin and harpsichord</title>
+         </item>
+         <item>Performers: Robert Brink, violin; Daniel Pinkham, harpsichord</item>
+         <item>Duration: 2:31/2:32</item>
+         <item>Note: Title of work from cassette catalog, not from original container. Played again as an encore</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_014_02</head>
+         <item>Original cassette number: SLR 074</item>
+         <item>
+            <persname>Henning, Ervin, 1910-1982</persname>
+         </item>
+         <item>
+            <title render="italic">Fantasia for violin and harpsichord</title>
+         </item>
+         <item>Performers: Robert Brink, violin; Daniel Pinkham, harpsichord</item>
+         <item>Duration: 6:21</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_014_01</head>
+         <item>Original cassette number: SLR 073</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Four questions answered</title>
+         </item>
+         <item>Performers: Ned Rorem, lecturer</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_014_05</head>
+         <item>Original cassette number: SLR 077</item>
+         <item>
+            <persname>Ray, Mans George</persname>
+         </item>
+         <item>
+            <title render="italic">Trialogue</title>
+         </item>
+         <item>Performers: Robert Brink, violin; Daniel Pinkham, harpsichord</item>
+         <item>Duration: 2:19</item>
+         <item>Note: Title of work from cassette catalog, not from original container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">016-017</container>
+      <unittitle>Slee Lecture Recital no. 15, February 25, 1960                                 
+            , <unitdate type="inclusive">1960-02-25</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels</extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_015_01_01.wav, ubmu0062_015_01_02.wav, ubmu0062_015_02_01.wav, ubmu0062_015_02_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_015_01</head>
+         <item>Original cassette number: SLR 080</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Writing songs</title>
+         </item>
+         <item>Performers: Ned Rorem, lecturer</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_015_02</head>
+         <item>Original cassette number: SLR 081</item>
+         <item>
+            <persname>Satie, Erik, 1866-1925</persname>
+         </item>
+         <item>
+            <title render="italic">Socrate (1919). The death of Socrates</title>
+         </item>
+         <item>Performers: Dorothy Rosenberger, soprano; Patricia Oreskovic, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 17:10</item>
+         <item>Note: Title of work from cassette catalog, not from original container. Buffalo premiere</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_015_03</head>
+         <item>Original cassette number: SLR 082</item>
+         <item>
+            <persname>Stravinsky, Igor, 1882-1971</persname>
+         </item>
+         <item>
+            <title render="italic">Sonata, pianos 2 (1945)</title>
+         </item>
+         <item>Performers: Allen Giles, Ned Rorem, pianos</item>
+         <item>Duration: 9:41</item>
+         <item>Note: Title of work from cassette catalog, not from original container. Buffalo premiere</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_015_04</head>
+         <item>Original cassette number: SLR 083</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Sicilienne for two pianos (1950)</title>
+         </item>
+         <item>Performers: Allen Giles, Ned Rorem, pianos</item>
+         <item>Duration: 3:14</item>
+         <item>Note: Title of work from cassette catalog, not from original container. Buffalo premiere</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_015_05</head>
+         <item>Original cassette number: SLR 084</item>
+         <item>
+            <persname>Britten, Benjamin, 1913-1976</persname>
+         </item>
+         <item>
+            <title render="italic">Canticle no. 2 (Abraham and Isaac) (1952)</title>
+         </item>
+         <item>Performers: Stanley Curtis, tenor; Patricia Oreskovic, mezzo-soprano; Ned Rorem, piano</item>
+         <item>Duration: 15:12</item>
+         <item>Note: Title of work from cassette catalog, not from original container. Buffalo premiere</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">018</container>
+      <unittitle>Slee Lecture Recital no. 17, May 17, 1960                                 
+            , <unitdate type="inclusive">1960-05-17</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 7 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_017.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_017_01</head>
+         <item>Original cassette number: SLR 093</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Listening and hearing</title>
+         </item>
+         <item>Performers: Ned Rorem, lecturer</item>
+         <item>Note: Container only indicates Eleven studies but the cassette catalog indicates this lecture was recorded</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_017_02</head>
+         <item>Original cassette number: SLR 094</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Eleven studies for eleven players</title>
+         </item>
+         <item>Performers: Robert Mols, flute, piccolo; Ronald Richards, oboe, English horn; Allen Sigel, clarinet; Frank Collura, trumpet; George D'Anna, John Rowland, percussion; Marjorie Winey, harp; Allen Giles, piano; Pamela Gearhart, violin; Fred Ressel, viola; Alta Mayer, vi</item>
+         <item>Duration: Less than 30 minutes</item>
+         <item>Note: Premiere performance</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">019</container>
+      <unittitle>Slee Lecture Recital no. 25, November 30, 1961                                 
+            , <unitdate type="inclusive">1961-11-30</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Butler Auditorium, Capen Hall</p>
+         <p>Preservation files: ubmu0062_025.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_025_01</head>
+         <item>Original cassette number: SLR 124</item>
+         <item>
+            <persname>Sapp, Allen, 1922-1000</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The lyric impulse</title>
+         </item>
+         <item>Performers: Allen Sapp, lecturer</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_025_02</head>
+         <item>Original cassette number: SLR 125</item>
+         <item>
+            <persname>Debussy, Claude, 1862-1918</persname>
+         </item>
+         <item>
+            <title render="italic">Fetes galantes</title>
+         </item>
+         <item>Performers: Jennie Tourel, mezzo-soprano; James Wadsworth, piano</item>
+         <item>Note: Marked as Not recorded in cassette catalog but original should be checked for its presence</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_025_03</head>
+         <item>Original cassette number: SLR 126</item>
+         <item>
+            <persname>Mussorgsky, Modest Petrovich, 1839-1881</persname>
+         </item>
+         <item>
+            <title render="italic">Songs and dances of death</title>
+         </item>
+         <item>Performers: Jennie Tourel, mezzo-soprano; James Wadsworth, piano</item>
+         <item>Note: Marked as Not recorded in cassette catalog but original should be checked for its presence</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">020</container>
+      <unittitle>Slee Lecture Recital no. 26, February 5, 1962                                 
+            , <unitdate type="inclusive">1962-02-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 7 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Butler Auditorium, Capen Hall</p>
+         <p>Preservation files: ubmu0062_026_01.wav, ubmu0062_026_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_026_01</head>
+         <item>Original cassette number: SLR 127</item>
+         <item>
+            <persname>Sapp, Allen, 1922-1000</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The corporate experience</title>
+         </item>
+         <item>Performers: Allen Sapp, lecturer</item>
+         <item>Note: Cassette catalog marked Tape incomplete. Reel container marked "Tracks superimposed at about 3:25"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_026_02</head>
+         <item>Original cassette number: SLR 128</item>
+         <item>
+            <persname>Roussel, Albert, 1869-1937</persname>
+         </item>
+         <item>
+            <title render="italic">Trio, violin, viola, violoncello, op. 58 (1937)</title>
+         </item>
+         <item>Performers: Joseph Silverstein, violin; Joseph de Pasquale, viola; Samuel Mayers, violoncello</item>
+         <item>Note: Cassette catalog indicates it was Not recorded but it is marked on the reel container - check for content</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_026_03</head>
+         <item>Original cassette number: SLR 129</item>
+         <item>
+            <persname>Beethoven, Ludwig van, 1770-1827</persname>
+         </item>
+         <item>
+            <title render="italic">Trio, violin, viola, violoncello, op. 9, no. 3, C minor</title>
+         </item>
+         <item>Performers: Joseph Silverstein, violin; Joseph de Pasquale, viola; Samuel Mayers, violoncello</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_026_04</head>
+         <item>Original cassette number: SLR 130</item>
+         <item>
+            <persname>Sapp, Allen, 1922-1000</persname>
+         </item>
+         <item>
+            <title render="italic">Trio, violin, viola, violoncello (1956) G</title>
+         </item>
+         <item>Performers: Joseph Silverstein, violin; Joseph de Pasquale, viola; Samuel Mayers, violoncello</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">021</container>
+      <unittitle>Slee Lecture Recital no. 40, February 14, 1964                                 
+            , <unitdate type="inclusive">1964-02-14</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 5 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Butler Auditorium, Capen Hall</p>
+         <p>Preservation files: ubmu0062_040.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_040_01</head>
+         <item>Original cassette number: SLR 224</item>
+         <item>
+            <persname>Rochberg, George</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The new image of music</title>
+         </item>
+         <item>Performers: George Rochberg, lecturer</item>
+         <item>Note: Container marked "Dub of Rochberg; excerpts from lectures 1 and 2" - check for content for Lecture 1 which is otherwise marked as tape lacking in the cassette catalog</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">022</container>
+      <unittitle>Slee Lecture Recital no. 41, March 20, 1964                                 
+            , <unitdate type="inclusive">1964-03-20</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 7 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Butler Auditorium, Capen Hall</p>
+         <p>Preservation files: ubmu0062_041.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_041_01</head>
+         <item>Original cassette number: SLR 227</item>
+         <item>
+            <persname>Rochberg, George</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Direction in Music</title>
+         </item>
+         <item>Performers: George Rochberg, lecturer</item>
+         <item>Note: Recording of Rochberg lecture 2; 3/20/64? [end missing] "L. Ch. Only". Check Reel 21 to see if any content there is missing from Reel 22. Also check Reel 22b which is marked Dub with complete ending. Choose most complete copy.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">023-024</container>
+      <unittitle>Slee Lecture Recital no. 42, April 16, 1964                                 
+            , <unitdate type="inclusive">1964-04-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Butler Auditorium, Capen Hall</p>
+         <p>Preservation files: ubmu0062_042_01.wav, ubmu0062_042_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_042_03</head>
+         <item>Original cassette number: SLR 232</item>
+         <item>
+            <persname>Rochberg, George</persname>
+         </item>
+         <item>
+            <title render="italic">Quartet, strings, no. 2 with soprano (1961)</title>
+         </item>
+         <item>Performers: Janice Harsany, soprano; Veda Reynolds, Alan Iglitzin, violins; Irwin Eisenberg, viola; Charles Brennand, violoncello</item>
+         <item>Duration: 12:19</item>
+         <item>Note: Containers do not contain specific program contents so the piece could be on either Reel 23 or Reel 24. Cassette catalog is marked "End of piece missing (not recorded?) "</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_042_01</head>
+         <item>Original cassette number: SLR 230</item>
+         <item>
+            <persname>Rochberg, George</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The computer, the brain and music</title>
+         </item>
+         <item>Performers: George Rochberg, lecturer</item>
+         <item>Note: Possibly continued on Reel 24</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_042_02</head>
+         <item>Original cassette number: SLR 231</item>
+         <item>
+            <persname>Rochberg, George</persname>
+         </item>
+         <item>
+            <title render="italic">Quartet, strings, no. 1, 1952</title>
+         </item>
+         <item>Performers: Veda Reynolds, Alan Iglitzin, violins; Irwin Eisenberg, viola; Charles Brennand, violoncello</item>
+         <item>Duration: 24:41</item>
+         <item>Note: Containers do not contain specific program contents so the piece could be on either Reel 23 or Reel 24</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="reel">025-028</container>
+      <unittitle>Slee Lecture Recital no. 44, November 16, 1964                                 
+            , <unitdate type="inclusive">1964-11-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>4 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Butler Auditorium, Capen Hall</p>
+         <p>Preservation files: ubmu0062_044_01_01.wav, ubmu0062_044_02_01.wav, ubmu0062_044_03_01.wav, ubmu0062_044_04_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_044_01</head>
+         <item>Original cassette number: SLR 236</item>
+         <item>
+            <persname>Haieff, Alexei, 1914-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Musical education and the new musical styles (a speculation)</title>
+         </item>
+         <item>Performers: Alexei Haieff, lecturer</item>
+         <item>Note: Program inserted</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_044_02</head>
+         <item>Original cassette number: SLR 237</item>
+         <item>
+            <persname>Haieff, Alexei, 1914-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Sonata, violoncello, piano (1963)</title>
+         </item>
+         <item>Performers: Jay Humeston, violoncello; Emmanuel Sinderbrand, piano</item>
+         <item>Duration: 14:37</item>
+         <item>Note: Program inserted indicates the work is possibly on this reel. If not, it is probably on Reel 26</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_044_03</head>
+         <item>Original cassette number: SLR 238</item>
+         <item>
+            <persname>Poulenc, Francis, 1899-1963</persname>
+         </item>
+         <item>
+            <title render="italic">Sonata, pianos 2 (1953)</title>
+         </item>
+         <item>Performers: Arthur Gold, Robert Fizdale, pianos</item>
+         <item>Duration: 19:35</item>
+         <item>Note: Program contents not specified on container; title of work from program inserted in Reel 25.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_044_04</head>
+         <item>Original cassette number: SLR 239</item>
+         <item>
+            <persname>Poulenc, Francis, 1899-1963</persname>
+         </item>
+         <item>
+            <title render="italic">Sonata, piano, 4 hands (1918)</title>
+         </item>
+         <item>Performers: Arthur Gold, Robert Fizdale, piano duo</item>
+         <item>Duration: 5:36</item>
+         <item>Note: Program contents not specified on container; title of work from program inserted in Reel 25.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_044_05</head>
+         <item>Original cassette number: SLR 240</item>
+         <item>
+            <persname>Poulenc, Francis, 1899-1963</persname>
+         </item>
+         <item>
+            <title render="italic">Elegie (en accords alternes) (1959)</title>
+         </item>
+         <item>Performers: Arthur Gold, Robert Fizdale, pianos</item>
+         <item>Duration: 5:33</item>
+         <item>Note: Program contents not specified on container; title of work from program inserted in Reel 25.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_044_06</head>
+         <item>Original cassette number: SLR 241</item>
+         <item>
+            <persname>Poulenc, Francis, 1899-1963</persname>
+         </item>
+         <item>
+            <title render="italic">Capriccio (d'apres Le bal masque) (1952)</title>
+         </item>
+         <item>Performers: Arthur Gold, Robert Fizdale, pianos</item>
+         <item>Duration: 4:11</item>
+         <item>Note: Program contents not specified on container; title of work from program inserted in Reel 25.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_044_07</head>
+         <item>Original cassette number: SLR 242</item>
+         <item>
+            <persname>Poulenc, Francis, 1899-1963</persname>
+         </item>
+         <item>
+            <title render="italic">L'embarquement pour Cythere (1951)</title>
+         </item>
+         <item>Performers: Arthur Gold, Robert Fizdale, pianos</item>
+         <item>Duration: 1:45</item>
+         <item>Note: Program contents not specified on container; title of work from cassette catalog - it is not on the program in Reel 25.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">3</container>
+      <container type="reel">029-031</container>
+      <unittitle>Slee Lecture Recital no. 45, December 18, 1964                                 
+            , <unitdate type="inclusive">1964-12-18</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>3 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Butler Auditorium, Capen Hall</p>
+         <p>Preservation files: ubmu0062_045_01.wav, ubmu0062_045_02.wav, ubmu0062_045_03.wav, ubmu0062_045_04.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_045_04</head>
+         <item>Original cassette number: SLR 246</item>
+         <item>
+            <persname>Haieff, Alexei, 1914-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Three bagatelles</title>
+         </item>
+         <item>Performers: Sylvia Marlowe, harpsichord</item>
+         <item>Duration: 6:20</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_045_05</head>
+         <item>Original cassette number: SLR 247</item>
+         <item>
+            <persname>Carter, Elliott, 1908-</persname>
+         </item>
+         <item>
+            <title render="italic">Sonata, harpsichord, flute, oboe, violoncello (1952)</title>
+         </item>
+         <item>Performers: Samuel Baron, flute; Ronald Roseman, oboe; Alexander Kouguell. violoncello; Sylvia Marlowe, harpsichord</item>
+         <item>Duration: 16:01</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_045_06</head>
+         <item>Original cassette number: SLR 248</item>
+         <item>
+            <persname>Falla, Manuel de, 1876-1946</persname>
+         </item>
+         <item>
+            <title render="italic">Concerto, harpsichord</title>
+         </item>
+         <item>Performers: Sylvia Marlowe, harpsichord; Samuel Baron, flute; Ronald Roseman, oboe; David Glazer, clarinet; Matthew Raimond, violin; Alexander Kouguell, violoncello</item>
+         <item>Duration: 14:09</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_045_01</head>
+         <item>Original cassette number: SLR 243</item>
+         <item>
+            <persname>Haieff, Alexei, 1914-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Dangerous disparities</title>
+         </item>
+         <item>Performers: Alexei Haieff, lecturer</item>
+         <item>Note: Program inserted in container</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_045_02</head>
+         <item>Original cassette number: SLR 244</item>
+         <item>
+            <persname>Rorem, Ned, 1923-</persname>
+         </item>
+         <item>
+            <title render="italic">Lovers - A narrative in ten scenes (1964)</title>
+         </item>
+         <item>Performers: Sylvia Marlowe, harpsichord; Ronald Roseman, oboe, English horn; Alexander Kouguell, violoncello; John Bergamo, percussion</item>
+         <item>Duration: 18:30</item>
+         <item>Note: Premiere performance; Program contents not specified on containers (1-4). Program inserted in Reel 29 indicates a different order for the pieces on the concert. Check content against program.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_045_03</head>
+         <item>Original cassette number: SLR 245</item>
+         <item>
+            <persname>Sauguet, Henri, 1901-1989</persname>
+         </item>
+         <item>
+            <title render="italic">Suite royale (1962)</title>
+         </item>
+         <item>Performers: Sylvia Marlowe, harpsichord</item>
+         <item>Duration: 14:25</item>
+         <item>Note: U.S. premiere</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">3</container>
+      <container type="reel">033-36</container>
+      <unittitle>Slee Lecture Recital no. 46, February 22, 1965                                 
+            , <unitdate type="inclusive">1965-02-22</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>4 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_046_01_01.wav, ubmu0062_046_01_02.wav, ubmu0062_046_03.wav, ubmu0062_046_04.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_046_01</head>
+         <item>Original cassette number: SLR 249</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: On new electronic and instrumental music</title>
+         </item>
+         <item>Performers: Mauricio Kagel, lecturer</item>
+         <item>Note: Program inserted in container. Reel 33 is marked as "1 of 2"; Reel 34 is marked "2 of 2" but also indicates it is "copy of 15"" which could refer to Reel 35 - check for duplicate content.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_046_03</head>
+         <item>Original cassette number: SLR 251</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Sonant</title>
+         </item>
+         <item>Performers: Stanley Silverman, Spanish and electric guitars; Buell Neidlinger, double bass; John Bergamo, Jan Williams, percussion</item>
+         <item>Duration: 10:35</item>
+         <item>Note: Reel 35 is possibly recorded at 15 ips - it is marked "15". Content of both reels is not certain - check for content. The work Sonant could be on Reel 33 or 34, too.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">3</container>
+      <container type="reel">037-040</container>
+      <unittitle>Slee Lecture Recital no. 47, March 24, 1965                                 
+            , <unitdate type="inclusive">1965-03-24</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>4 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_047_01.wav, ubmu0062_047_02.wav, ubmu0062_047_03.wav, ubmu0062_047_04.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_047_04</head>
+         <item>Original cassette number: SLR 255</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Sextet, 2 violins, 2 violas, 2 violoncellos (1953)</title>
+         </item>
+         <item>Performers: Paul Zukofsky, Rivka Mandelkern, violins; Jean Dupouy, Inti Marshall, violas; Jay Humeston, Howard Colf, violoncellos</item>
+         <item>Duration: 8:37</item>
+         <item>Note: U.S. premiere ; Reel 39 marked "3 of 4"; reel 40 marked "4 of 4"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_047_07</head>
+         <item>Original cassette number: SLR 256C</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Metapiece (Mimetics)(1961)</title>
+         </item>
+         <item>Performers: Tape played: Mauricio Kagel, piano</item>
+         <item>Duration: 8:32</item>
+         <item>Note: U.S. premiere. Performed simultaneously with Mimetics and Sextet. Reel 39 marked "3 of 4"; reel 40 marked "4 of 4"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_047_05</head>
+         <item>Original cassette number: SLR 256A</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Mimetics (Metapiece)(1961)</title>
+         </item>
+         <item>Performers: Fredric Myrow, piano</item>
+         <item>Note: Performed simultaneously with Sextet and Metapiece. Reel 39 marked "3 of 4"; reel 40 marked "4 of 4"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_047_03</head>
+         <item>Original cassette number: SLR 254</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Metapiece (Mimetics) (1961)</title>
+         </item>
+         <item>Performers: Fredric Myrow, piano</item>
+         <item>Duration: 18:32</item>
+         <item>Note: Reel 39 marked "3 of 4"; reel 40 marked "4 of 4"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_047_02</head>
+         <item>Original cassette number: SLR 253</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Anagrama (1957-58)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 18:33</item>
+         <item>Note: Reel 39 marked "3 of 4"; reel 40 marked "4 of 4"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_047_01</head>
+         <item>Original cassette number: SLR 252</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: About certain relationships between language and musical composition</title>
+         </item>
+         <item>Performers: Mauricio Kagel, lecturer</item>
+         <item>Note: Program inserted. Reel 37 is marked "1 of 4"; Reel 38 is marked "2 of 4"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_047_06</head>
+         <item>Original cassette number: SLR 256B</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Sextet, 2 violins,  2 violas,  2 violoncellos (1953)</title>
+         </item>
+         <item>Performers: Paul Zukofsky, Rivka Mandelkern, violins; Jean Dupouy, Inti Marshall, violas; Jay Humeston, Howard Colf, violoncellos</item>
+         <item>Note: Performed simultaneously with Mimetics and Metapiece.  Reel 39 marked "3 of 4"; reel 40 marked "4 of 4"</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">4</container>
+      <container type="reel">041-042</container>
+      <unittitle>Slee Lecture Recital no. 48, April 3, 1965                                 
+            , <unitdate type="inclusive">1965-04-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 10 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_048_01.wav, ubmu0062_048_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_048_01</head>
+         <item>Original cassette number: SLR 257</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: About the musical theatre</title>
+         </item>
+         <item>Performers: Mauricio Kagel, lecturer</item>
+         <item>Note: Reel 41 is marked on container spine as ½; Reel 42 is marked 2/2. But Reel 41 container is also marked Pandora's box and Reel 42 Lecture. Check content and reverse order if necessary.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_048_02</head>
+         <item>Original cassette number: SLR 258</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Antithese (1962)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Note: Tape recording realized at the Siemens Studio for Electronic Music, Munich</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_048_03</head>
+         <item>Original cassette number: SLR 259</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Pandorasbox (1964)</title>
+         </item>
+         <item>Performers: David Tudor, bandoneon</item>
+         <item>Duration: 22:16</item>
+         <item>Note: U.S. premiere ; Reel 41 is marked "Pandora's Box" but is also marked ½ so the content and order is not clear.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">4</container>
+      <container type="reel">043</container>
+      <unittitle>Slee Lecture Recital no. 49, October 11, 1965                                 
+            , <unitdate type="inclusive">1965-10-11</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 7 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_049_01.wav, ubmu0062_049_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_049_01</head>
+         <item>Original cassette number: SLR 261</item>
+         <item>
+            <persname>Sapp, Allen, 1922-1000</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Music and language</title>
+         </item>
+         <item>Performers: Allen Sapp, lecturer</item>
+         <item>Note: "Head out; use left channel"</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">4</container>
+      <container type="reel">044-045</container>
+      <unittitle>Slee Lecture Recital no. 50, December 13, 1965                                 
+            , <unitdate type="inclusive">1965-12-13</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_050_01_01.wav, ubmu0062_050_01_02.wav, ubmu0062_050_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_050_02</head>
+         <item>Original cassette number: SLR 263</item>
+         <item>
+            <persname>Berio, Luciano, 1925-2003</persname>
+         </item>
+         <item>
+            <title render="italic">Circles (1960)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 18:29</item>
+         <item>Note: Reel 44 marked 1 of 2; Reel 45 marked 2 of 2; contents not marked on containers : title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_050_01</head>
+         <item>Original cassette number: SLR 262</item>
+         <item>
+            <persname>Berio, Luciano, 1925-2003</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: A few aspects of vocal music</title>
+         </item>
+         <item>Performers: Luciano Berio, lecturer</item>
+         <item>Note: Reel 44 marked 1 of 2; Reel 45 marked 2 of 2; contents not marked on containers</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_050_03</head>
+         <item>Original cassette number: SLR 264</item>
+         <item>
+            <persname>Berio, Luciano, 1925-2003</persname>
+         </item>
+         <item>
+            <title render="italic">Laborintus II (1965). Excerpt</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 21:13</item>
+         <item>Note: Reel 44 marked 1 of 2; Reel 45 marked 2 of 2; contents not marked on containers : title of work from cassette catalog</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">4</container>
+      <container type="reel">046-047</container>
+      <unittitle>Slee Lecture Recital no. 51, December 16, 1965                                 
+            , <unitdate type="inclusive">1965-12-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_051_01.wav, ubmu0062_051_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_051_04</head>
+         <item>Original cassette number: SLR 268</item>
+         <item>
+            <persname>Pinkham, Daniel</persname>
+         </item>
+         <item>
+            <title render="italic">Concerto for celesta and harpsichord soli</title>
+         </item>
+         <item>Performers: Daniel Pinkham, celesta; Helen Keaney, harpsichord</item>
+         <item>Duration: 9:27</item>
+         <item>Note: Reel 46 marked 1 of 2; Reel 47 marked 2 of 2; contents not marked on containers : title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_051_05</head>
+         <item>Original cassette number: SLR 269</item>
+         <item>
+            <persname>Pinkham, Daniel</persname>
+         </item>
+         <item>
+            <title render="italic">Song of Jephthah's daughter</title>
+         </item>
+         <item>Performers: Barbara Wallace, soprano; Daniel Pinkham, piano</item>
+         <item>Duration: 12:25</item>
+         <item>Note: Reel 46 marked 1 of 2; Reel 47 marked 2 of 2; contents not marked on containers : title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_051_01</head>
+         <item>Original cassette number: SLR 265</item>
+         <item>
+            <persname>Pinkham, Daniel</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: A twelve-tone approach to tonal vocal music</title>
+         </item>
+         <item>Performers: Daniel Pinkham, lecturer</item>
+         <item>Note: Reel 46 marked 1 of 2; Reel 47 marked 2 of 2; contents not marked on containers. Cassette catalog marked "Second part of lecture missing (not recorded? /erased?)"</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">4</container>
+      <container type="reel">048-051</container>
+      <unittitle>Slee Lecture Recital no. 52, February 28, 1966                                 
+            , <unitdate type="inclusive">1966-02-28</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>4 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_052_01.wav, ubmu0062_052_02.wav, ubmu0062_052_03.wav, ubmu0062_052_04.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_052_05</head>
+         <item>Original cassette number: SLR 274</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Trois visages de Liege (1961)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 20:31</item>
+         <item>Note: Tape realized at SME, Brussels. Reels marked 1 of 4 through 4 of 4 with no indication of contents on each reel. Title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_052_03</head>
+         <item>Original cassette number: SLR 272</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Rimes pour differentes sources sonores (1958-59). Part II</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 9:14</item>
+         <item>Note: Tape realized by the composer at SME, Brussels. Reels marked 1 of 4 through 4 of 4 with no indication of contents on each reel. Title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_052_02</head>
+         <item>Original cassette number: SLR 271</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Scambi (1957)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 6:27</item>
+         <item>Note: Tape realized by the composer at RAI, Milan. Reels marked 1 of 4 through 4 of 4 with no indication of contents on each reel. Title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_052_01</head>
+         <item>Original cassette number: SLR 270</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Calculation and imagination in electronic music</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer</item>
+         <item>Note: Reels marked 1 of 4 through 4 of 4 with no indication of contents on each reel. "Half tk. Mono. L ch. Only"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_052_04</head>
+         <item>Original cassette number: SLR 273</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Electre (1960). Excerpt</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 8:08</item>
+         <item>Note: Tape realized by the composer at SME, Brussels. Reels marked 1 of 4 through 4 of 4 with no indication of contents on each reel. Title of work from cassette catalog</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">4</container>
+      <container type="reel">052-055</container>
+      <unittitle>Slee Lecture Recital no. 53, March 14, 1966                                 
+            , <unitdate type="inclusive">1966-03-14</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>4 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_053_01.wav, ubmu0062_053_02.wav, ubmu0062_053_03.wav, ubmu0062_053_04.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_053_02</head>
+         <item>Original cassette number: SLR 276</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Miroir de Votre Faust</title>
+         </item>
+         <item>Performers: Sylvia Brigham-Dimiziani, soprano; Frederic Rzewski, piano</item>
+         <item>Duration: 29:31</item>
+         <item>Note: Program inserted in Reel 52. Reels marked 1 of 4 through 4 of 4. Specific content not noted. Title of work from cassette catalog and program</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_053_01</head>
+         <item>Original cassette number: SLR 275</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Harmony, a renewed question</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer; Frederic Rzewski, piano</item>
+         <item>Note: Program inserted in Reel 52. Reels marked 1 of 4 through 4 of 4. Specific content not noted.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">4</container>
+      <container type="reel">056-058</container>
+      <unittitle>Slee Lecture Recital no. 54, May 2, 1966                                 
+            , <unitdate type="inclusive">1966-05-02</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>3 7 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_054_01.wav, ubmu0062_054_02.wav, ubmu0062_054_03.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_054_01</head>
+         <item>Original cassette number: SLR 277</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Webern and silence</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer</item>
+         <item>Note: Reels marked 1 of 3 through 3 of 3. Program inserted in Reel 56. Contents of each reel not specified.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_054_02</head>
+         <item>Original cassette number: SLR 278</item>
+         <item>
+            <persname>Webern, Anton, 1883-1945</persname>
+         </item>
+         <item>
+            <title render="italic">Funf Satze, op. 5</title>
+         </item>
+         <item>Performers: Lasalle Quartet: Walter Levin, Henry Meyer, violins; Peter Kamnitzer, viola; Jack Kirstein, violoncello</item>
+         <item>Duration: 11:34</item>
+         <item>Note: Reels marked 1 of 3 through 3 of 3. Program inserted in Reel 56. Contents of each reel not specified. Title of work from program</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_054_03</head>
+         <item>Original cassette number: SLR 279</item>
+         <item>
+            <persname>Webern, Anton, 1883-1945</persname>
+         </item>
+         <item>
+            <title render="italic">Bagatelles, string, op.9</title>
+         </item>
+         <item>Performers: Lasalle Quartet: Walter Levin, Henry Meyer, violins; Peter Kamnitzer, viola; Jack Kirstein, violoncello</item>
+         <item>Duration: 4:20</item>
+         <item>Note: Reels marked 1 of 3 through 3 of 3. Program inserted in Reel 56. Contents of each reel not specified. Title of work from program</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_054_04</head>
+         <item>Original cassette number: SLR 280</item>
+         <item>
+            <persname>Webern, Anton, 1883-1945</persname>
+         </item>
+         <item>
+            <title render="italic">Quartet, strings, op. 28</title>
+         </item>
+         <item>Performers: Lasalle Quartet: Walter Levin, Henry Meyer, violins, Peter Kamnitzer, viola; Jack Kirstein, violoncello</item>
+         <item>Duration: 8:50</item>
+         <item>Note: Reels marked 1 of 3 through 3 of 3. Program inserted in Reel 56. Contents of each reel not specified. Title of work from program</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">5</container>
+      <container type="reel">059-060</container>
+      <unittitle>Slee Lecture Recital no. 55, October 15, 1966                                 
+            , <unitdate type="inclusive">1966-10-15</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 10 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_055_01.wav, ubmu0062_055_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_055_05</head>
+         <item>Original cassette number: SLR 284</item>
+         <item>
+            <persname>Berio, Luciano, 1925-2003</persname>
+         </item>
+         <item>
+            <title render="italic">Sequenza III (1966)</title>
+         </item>
+         <item>Performers: Cathy Berberian, soprano</item>
+         <item>Duration: 8:41</item>
+         <item>Note: On hub with no reel. Reel 1 of 2 through reel 2 of 2 with contents on each reel not specified. Title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_055_04</head>
+         <item>Original cassette number: SLR 283</item>
+         <item>
+            <persname>Bussotti, Sylvano</persname>
+         </item>
+         <item>
+            <title render="italic">Torso (Letture di Braibanti) (1960-63)</title>
+         </item>
+         <item>Performers: Cathy Berberian, soprano</item>
+         <item>Duration: 4:06</item>
+         <item>Note: On hub with no reel. Reel 1 of 2 through reel 2 of 2 with contents on each reel not specified. Title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_055_06</head>
+         <item>Original cassette number: SLR 285</item>
+         <item>
+            <persname>Berberian, Cathy</persname>
+         </item>
+         <item>
+            <title render="italic">Stripsody (1966)</title>
+         </item>
+         <item>Performers: Cathy Berberian, soprano</item>
+         <item>Duration: 4:43</item>
+         <item>Note: On hub with no reel. Reel 1 of 2 through reel 2 of 2 with contents on each reel not specified. Title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_055_02</head>
+         <item>Original cassette number: SLR 282A</item>
+         <item>
+            <persname>Cage, John</persname>
+         </item>
+         <item>
+            <title render="italic">Aria   (performed simultaneously with the following work)</title>
+         </item>
+         <item>Performers: Cathy Berberian, soprano</item>
+         <item>Note: On hub with no reel. Reel 1 of 2 through reel 2 of 2 with contents on each reel not specified. Title of work from cassette catalog</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_055_01</head>
+         <item>Original cassette number: SLR 281</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Chance in new music [part I]</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer</item>
+         <item>Note: On hub with no reel. Reel 1 of 2 through reel 2 of 2 with contents on each reel not specified</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_055_03</head>
+         <item>Original cassette number: SLR 282B</item>
+         <item>
+            <persname>Cage, John</persname>
+         </item>
+         <item>
+            <title render="italic">Fontana mix   (performed simultaneously with the preceding work)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 8:08</item>
+         <item>Note: Tape realized by the composer ; On hub with no reel. Reel 1 of 2 through reel 2 of 2 with contents on each reel not specified. Title of work from cassette catalog</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">5</container>
+      <container type="reel">061-062</container>
+      <unittitle>Slee Lecture Recital no. 56, November 21, 1966                                 
+            , <unitdate type="inclusive">1966-11-21</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 10 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_056_01.wav, ubmu0062_056_02_01.wav, ubmu0062_056_02_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_056_01</head>
+         <item>Original cassette number: SLR 286</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Chance in new music [part II]</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer</item>
+         <item>Note: Reels marked 1 of 2 and 2 of 2; program inserted in both reels. On back of reel 062: "What is this tape? (certainly not "Telemusik")." Contains Schumann and Hindemith?? Check contents before reformatting</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">5</container>
+      <container type="reel">063</container>
+      <unittitle>Slee Lecture Recital no. 57, December 18, 1966                                 
+            , <unitdate type="inclusive">1966-12-18</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_057_01.wav, ubmu0062_057_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_057_01</head>
+         <item>Original cassette number: SLR 288</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Chance in new music [part III]</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer</item>
+         <item>Note: Program inserted in container. "Scrap tape" written on the front cover.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_057_02</head>
+         <item>Original cassette number: SLR 289</item>
+         <item>
+            <persname>Mumma, Gordon, 1935-</persname>
+         </item>
+         <item>
+            <title render="italic">Horn (1965)</title>
+         </item>
+         <item>Performers: Gordon Mumma, horn; Robert Ashley, David Behrman, cybersonic consoles</item>
+         <item>Duration: 10:10</item>
+         <item>Note: Program inserted in container. "Scrap tape" written on the front cover.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_057_03</head>
+         <item>Original cassette number: SLR 290</item>
+         <item>
+            <persname>Behrman, David</persname>
+         </item>
+         <item>
+            <title render="italic">Players with circuits (1966)</title>
+         </item>
+         <item>Performers: Robert Ashley, zither; Gordon Mumma, piano; David Behrman, Alvin Lucier, circuits</item>
+         <item>Duration: 10:00</item>
+         <item>Note: Program inserted in container. "Scrap tape" written on the front cover.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_057_04</head>
+         <item>Original cassette number: SLR 291</item>
+         <item>
+            <persname>Lucier, Alvin</persname>
+         </item>
+         <item>
+            <title render="italic">Mafia (1965)</title>
+         </item>
+         <item>Performers: Recording played</item>
+         <item>Duration: 11:26</item>
+         <item>Note: Program inserted in container. "Scrap tape" written on the front cover.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_057_05</head>
+         <item>Original cassette number: SLR 292</item>
+         <item>
+            <persname>Ashley, Robert, 1930-</persname>
+         </item>
+         <item>
+            <title render="italic">The wolf man (1964)</title>
+         </item>
+         <item>Performers: Robert Ashley, voice</item>
+         <item>Duration: 6:45</item>
+         <item>Note: Tape realized by the composer. Program inserted in container. "Scrap tape" written on the front cover.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">5</container>
+      <container type="reel">064-065</container>
+      <unittitle>Slee Lecture Recital no. 58, January 23, 1967                                 
+            , <unitdate type="inclusive">1967-01-23</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 10 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Norton Conference Theater</p>
+         <p>Preservation files: ubmu0062_058_01.wav, ubmu0062_058_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_058_01</head>
+         <item>Original cassette number: SLR 293</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Chance in new music [part IV]</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer</item>
+         <item>Note: Tapes are marked Slee Lecture ½1/67 2/3 and 3/3 on spine - check content to see if they match the lecture content. Presumably at least one reel is missing.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">5</container>
+      <container type="reel">066-067</container>
+      <unittitle>Slee Lecture Recital no. 59, March 13, 1967                                 
+            , <unitdate type="inclusive">1967-03-13</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 10 inch reels             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Norton Conference Theater</p>
+         <p>Preservation files: ubmu0062_059_01_01.wav, ubmu0062_059_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_059_01</head>
+         <item>Original cassette number: SLR 294</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Chance in new music [part V]</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer, Carlos Alsina, piano</item>
+         <item>Note: Reels marked 1 of 2 and 2 of 2. Program inserted in container of both containers. Content on each reel not specified.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">5</container>
+      <container type="reel">068-069</container>
+      <unittitle>Slee Lecture Recital no. 60, April 10, 1967                                 
+            , <unitdate type="inclusive">1967-04-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 10 inch reels</extent>
+      </physdesc>
+     
+      <note>
+         <p>Norton Conference Theater</p>
+         <p>Preservation files: ubmu0062_060_01_01.wav, ubmu0062_060_01_02.wav, ubmu0062_060_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_060_03</head>
+         <item>Original cassette number: SLR 297</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Votre Faust. Excerpt</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 14:58</item>
+         <item>Note: Reels marked 1 of 2 and 2 of 2. Program inserted in container of both containers. Content on each reel not specified. Written on the back of reel 067: "A senior recital, William Courtial, classical guitar-April 1967 Baird Hall." - check content</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_060_01</head>
+         <item>Original cassette number: SLR 295</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Chance in new music [part VI]</title>
+         </item>
+         <item>Performers: Henri Pousseur, lecturer</item>
+         <item>Note: Reels marked 1 of 2 and 2 of 2. Program inserted in container of both containers. Content on each reel not specified. Written on the back of reel 067: "A senior recital, William Courtial, classical guitar-April 1967 Baird Hall." - check content</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_060_02</head>
+         <item>Original cassette number: SLR 296</item>
+         <item>
+            <persname>Pousseur, Henri</persname>
+         </item>
+         <item>
+            <title render="italic">Votre Faust. Prologue, The fair, Interlude, Cabaret.</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 21:13</item>
+         <item>Note: Reels marked 1 of 2 and 2 of 2. Program inserted in container of both containers. Content on each reel not specified. Written on the back of reel 067: "A senior recital, William Courtial, classical guitar-April 1967 Baird Hall." - check content</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">070</container>
+      <unittitle>Slee Lecture Recital no. 61, October 11, 1968                                 
+            , <unitdate type="inclusive">1968-10-11</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_061.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_061_01</head>
+         <item>Original cassette number: SLR 298</item>
+         <item>
+            <persname>Hiller, Lejaren Arthur, 1924-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The composer's uses of modern technology, part I</title>
+         </item>
+         <item>Performers: Lejaren Hiller, lecturer</item>
+         <item>Note: Container spine labeled ½ so end of program is possibly missing.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">071</container>
+      <unittitle>Slee Lecture Recital no. 62, November 12, 1968                                 
+            , <unitdate type="inclusive">1968-11-12</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_062_01.wav, ubmu0062_062_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_062_01</head>
+         <item>Original cassette number: SLR 301</item>
+         <item>
+            <persname>Hiller, Lejaren Arthur, 1924-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The composer's uses of modern technology, part II</title>
+         </item>
+         <item>Performers: Lejaren Hiller, lecturer</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">072</container>
+      <unittitle>Slee Lecture Recital no. 63, February 7, 1969                                 
+            , <unitdate type="inclusive">1969-02-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_063_01.wav, ubmu0062_063_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_063_01</head>
+         <item>Original cassette number: SLR 302</item>
+         <item>
+            <persname>Hiller, Lejaren Arthur, 1924-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The composer's uses of modern technology, part III</title>
+         </item>
+         <item>Performers: Lejaren Hiller, lecturer</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">073</container>
+      <unittitle>Slee Lecture Recital no. 64, February 14, 1969                                 
+            , <unitdate type="inclusive">1969-02-14</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_064.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_064_01</head>
+         <item>Original cassette number: SLR 303</item>
+         <item>
+            <persname>Kagel, Mauricio</persname>
+         </item>
+         <item>
+            <title render="italic">Transicion II (1958-59)</title>
+         </item>
+         <item>Performers: Yuji Takahashi, piano; Jan Williams, percussion</item>
+         <item>Duration: 11:59</item>
+         <item>Note: Buffalo premiere; Tape realized by the composer. Concert program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_064_02</head>
+         <item>Original cassette number: SLR 304</item>
+         <item>
+            <persname>Takahashi, Yuji, 1938-</persname>
+         </item>
+         <item>
+            <title render="italic">Nekuia (1966)</title>
+         </item>
+         <item>Performers: Robert Cram, bamboo flute</item>
+         <item>Duration: 4:52</item>
+         <item>Note: Premiere performance. Concert program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_064_03</head>
+         <item>Original cassette number: SLR 305</item>
+         <item>
+            <persname>Brün, Herbert, 1918-2000</persname>
+         </item>
+         <item>
+            <title render="italic">Plot for percussion (1966)</title>
+         </item>
+         <item>Performers: Ed Burnham, percussion</item>
+         <item>Duration: 5:23</item>
+         <item>Note: Buffalo premiere. Concert program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_064_04</head>
+         <item>Original cassette number: SLR 306</item>
+         <item>
+            <persname>Grossman, Gary</persname>
+         </item>
+         <item>
+            <title render="italic">Four studies for Illiac II (1965)</title>
+         </item>
+         <item>Performers: Lejaren Hiller, projections</item>
+         <item>Duration: 0:57</item>
+         <item>Note: Buffalo premiere; Recording tapers off at approx. 57 and rest of tape is blank; Tape realized by the composer. Concert program inserted in container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">074</container>
+      <unittitle>Slee Lecture Recital no. 65, March 3, 1969                                 
+            , <unitdate type="inclusive">1969-03-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_065_01.wav, ubmu0062_065_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_065_01</head>
+         <item>Original cassette number: SLR 308</item>
+         <item>
+            <persname>Hiller, Lejaren Arthur, 1924-1994</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The composer's uses of modern technology, part V</title>
+         </item>
+         <item>Performers: Lejaren Hiller, lecturer</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">075</container>
+      <unittitle>Slee Lecture Recital no. 66, December 9, 1969                                 
+            , <unitdate type="inclusive">1969-12-09</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_066_01.wav, ubmu0062_066_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_066_01</head>
+         <item>Original cassette number: SLR 309</item>
+         <item>
+            <persname>Anhalt, István</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Your voice, my voice, her voice, their voices …Vo(I)</title>
+         </item>
+         <item>Performers: István Anhalt, lecturer</item>
+         <item>Note: Program inserted in container. Water damaged and reel over-full.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_066_02</head>
+         <item>Original cassette number: SLR 310</item>
+         <item>
+            <persname>Anhalt, István</persname>
+         </item>
+         <item>
+            <title render="italic">Cento (1967)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 8:01</item>
+         <item>Note: Check to see if it was recorded</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">076-077</container>
+      <unittitle>Slee Lecture Recital no. 67, November 11, 1970                                 
+            , <unitdate type="inclusive">1970-11-11</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_067_01_01.wav, ubmu0062_067_01_02.wav, ubmu0062_067_02_01.wav, ubmu0062_067_02_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_067_01</head>
+         <item>Original cassette number: SLR 311</item>
+         <item>
+            <persname>Nabokov, Nicolas, 1903-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Rasputin, myth, mystery, history, music</title>
+         </item>
+         <item>Performers: Nicolas Nabokov, lecturer</item>
+         <item>Note: Note inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_067_02</head>
+         <item>Original cassette number: SLR 312</item>
+         <item>
+            <persname>Nabokov, Nicolas, 1903-1978</persname>
+         </item>
+         <item>
+            <title render="italic">The holy devil. Excerpts</title>
+         </item>
+         <item>Performers: Recording played</item>
+         <item>Duration: 31:01</item>
+         <item>Note: Note inserted in container. Check to see if this was recorded - it looks like a cassette exists.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">078-079</container>
+      <unittitle>Slee Lecture Recital no. 68, December 2, 1970                                 
+            , <unitdate type="inclusive">1970-12-02</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_068_01_01.wav, ubmu0062_068_01_02.wav, ubmu0062_068_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_068_01</head>
+         <item>Original cassette number: SLR 313</item>
+         <item>
+            <persname>Nabokov, Nicolas, 1903-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Symbolism in music</title>
+         </item>
+         <item>Performers: Nicolas Nabokov, lecturer</item>
+         <item>Note: Index card inserted: "Spoken portion of lecture"</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_068_02</head>
+         <item>Original cassette number: SLR 314</item>
+         <item>
+            <persname>Nabokov, Nicolas, 1903-1978</persname>
+         </item>
+         <item>
+            <title render="italic">Symboli chrestiani (1956)</title>
+         </item>
+         <item>Performers: Recording played</item>
+         <item>Duration: 18:34</item>
+         <item>Note: Index card in container: "Music portion of lecture"</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">080-081</container>
+      <unittitle>Slee Lecture Recital no. 69, November 20, 1972                                 
+            , <unitdate type="inclusive">1972-11-20</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_069_01_01.wav, ubmu0062_069_01_02.wav, ubmu0062_069_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_069_03</head>
+         <item>Original cassette number: SLR 317</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Swallows of Salangan (1961)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 5:17</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_069_04</head>
+         <item>Original cassette number: SLR 318</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">False relationships and the extended ending (1968)</title>
+         </item>
+         <item>Performers: William Appleby, Stephen Manes, James Whitman, pianos; Henry Rubin, violin; David Gibson, violoncello; Unnamed performer, trombone; Jan Williams, chimes</item>
+         <item>Duration: 21:24</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_069_02</head>
+         <item>Original cassette number: SLR 316</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Two pianos (1957)</title>
+         </item>
+         <item>Performers: Morton Feldman, William Appleby, pianos</item>
+         <item>Duration: 9:03</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_069_01</head>
+         <item>Original cassette number: SLR 315</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Untitled</title>
+         </item>
+         <item>Performers: Morton Feldman, lecturer</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_069_05</head>
+         <item>Original cassette number: SLR 319</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Morton Feldman answers questions from the  audience.</title>
+         </item>
+         <item>Performers: Morton Feldman, lecturer</item>
+         <item>Note: Program inserted in container. Discussion probably starts on Reel 078.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">6</container>
+      <container type="reel">082-083</container>
+      <unittitle>Slee Lecture Recital no. 70, February 2, 1973                                 
+            , <unitdate type="inclusive">1973-02-02</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_070_01_01.wav, ubmu0062_070_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_070_01</head>
+         <item>Original cassette number: SLR 320</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Untitled</title>
+         </item>
+         <item>Performers: Morton Feldman, lecturer</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_070_02</head>
+         <item>Original cassette number: SLR 321</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Madame Press died last week at ninety (1971)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 5:09</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_070_03</head>
+         <item>Original cassette number: SLR 322</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Viola in my life I</title>
+         </item>
+         <item>Performers: Eiko Ito, flute; Henry Rubin, violin;  Jesse Levine, viola; David Gibson, violoncello; Richard Trythall, piano;  Dennis Kahle, percussion; Jan Williams, conductor</item>
+         <item>Duration: 14:42</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_070_04</head>
+         <item>Original cassette number: SLR 323</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Viola in my life II</title>
+         </item>
+         <item>Performers: Jesse Levine, viola; Eiko Ito, flute; Amron Chodos, clarinet; Richard Trythall, celesta; Dennis Kahle, percussion; Henry Rubin, violin; David Gibson, violoncello; Jan Williams, conductor</item>
+         <item>Duration: 14:58</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_070_05</head>
+         <item>Original cassette number: SLR 324</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Viola in my life III</title>
+         </item>
+         <item>Performers: Jesse Levine, viola; Richard Trythall, piano</item>
+         <item>Duration: 7:26</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_070_06</head>
+         <item>Original cassette number: SLR 325</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Morton Feldman answers questions from the audience.</title>
+         </item>
+         <item>Performers: Morton Feldman, lecturer</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">7</container>
+      <container type="reel">084-085</container>
+      <unittitle>Slee Lecture Recital no. 71, April 15, 1973                                 
+            , <unitdate type="inclusive">1973-04-15</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_071_01_01.wav, ubmu0062_071_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_071_04</head>
+         <item>Original cassette number: SLR 329</item>
+         <item>
+            <persname>Wolff, Christian, 1934-</persname>
+         </item>
+         <item>
+            <title render="italic">For piano 1 (1952)</title>
+         </item>
+         <item>Performers: Barbara Warren, piano</item>
+         <item>Duration: 9:58</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_071_07</head>
+         <item>Original cassette number: SLR 332</item>
+         <item>
+            <persname>Wolff, Christian, 1934-</persname>
+         </item>
+         <item>
+            <title render="italic">Burdocks (1970-71)</title>
+         </item>
+         <item>Performers: Members of Mr. Feldman's Music 608 Class; Members of the Center of the Creative and Performing Arts</item>
+         <item>Duration: 29:40</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_071_05</head>
+         <item>Original cassette number: SLR 330</item>
+         <item>
+            <persname>Wolff, Christian, 1934-</persname>
+         </item>
+         <item>
+            <title render="italic">Nine (1951)</title>
+         </item>
+         <item>Performers: Gerald Soffer, trumpet; William Lane, horn; Donald Miller, trombone; Petr Kotik, flute; Amron Chodos, clarinet; Wendel Haver, violoncello; David Gibson, violoncello; Jeffery Kowalsky, celesta; Peter Gena, piano; Jesse Levine, conductor</item>
+         <item>Duration: 4:21</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_071_02</head>
+         <item>Original cassette number: SLR 327</item>
+         <item>
+            <persname>Wolff, Christian, 1934-</persname>
+         </item>
+         <item>
+            <title render="italic">Suite I (1954)</title>
+         </item>
+         <item>Performers: William Appleby, prepared piano</item>
+         <item>Duration: 16:45</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_071_01</head>
+         <item>Original cassette number: SLR 326</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Opening remarks for concert of music by Christian Wolff</title>
+         </item>
+         <item>Performers: Morton Feldman, lecturer</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_071_06</head>
+         <item>Original cassette number: SLR 331</item>
+         <item>
+            <persname>Wolff, Christian, 1934-</persname>
+         </item>
+         <item>
+            <title render="italic">Lines (1972)</title>
+         </item>
+         <item>Performers: Jacquelynne Leonard, Loren Pearson, violins; Delmar Stewart, viola; Wendel Haver, violoncello</item>
+         <item>Duration: 24:90</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_071_03</head>
+         <item>Original cassette number: SLR 328</item>
+         <item>
+            <persname>Wolff, Christian, 1934-</persname>
+         </item>
+         <item>
+            <title render="italic">Duo for violins (1950)</title>
+         </item>
+         <item>Performers: Jacquelynne Leonard, Loren Pearson, violins</item>
+         <item>Duration: 5:13</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">7</container>
+      <container type="reel">086-087</container>
+      <unittitle>Slee Lecture Recital no. 72, September 29, 1973                                 
+            , <unitdate type="inclusive">1973-09-29</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_072_01_01.wav, ubmu0062_072_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_072_01</head>
+         <item>Original cassette number: SLR 333</item>
+         <item>
+            <persname>Feldman, Morton, 1926-1987</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Introduction by Morton Feldman followed by introduction by Luis De Pablo</title>
+         </item>
+         <item>Performers: Morton Feldman, lecturer, with Luis de Pablo</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_072_02</head>
+         <item>Original cassette number: SLR 334</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Imaginario II</title>
+         </item>
+         <item>Performers: Tape played: Sudwestfunk Orchestra, Baden-Baden, Ernest Bour, conductor</item>
+         <item>Duration: 13:14</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_072_03</head>
+         <item>Original cassette number: SLR 335</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Yo lo vi</title>
+         </item>
+         <item>Performers: Tape played: O.R.T.F. Chamber Choir, Marcel Courand, conductor</item>
+         <item>Duration: 17:33</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_072_04</head>
+         <item>Original cassette number: SLR 336</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Quasi una fantasia</title>
+         </item>
+         <item>Performers: Tape played: Philharmonic Orchestra, O.R.T.F., Richard Dufallo, conductor</item>
+         <item>Duration: 24:36</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_072_05</head>
+         <item>Original cassette number: SLR 337</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Condicionado</title>
+         </item>
+         <item>Performers: Eberhard Blum, alto flute</item>
+         <item>Duration: 4:06</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_072_06</head>
+         <item>Original cassette number: SLR 338</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Reciproco</title>
+         </item>
+         <item>Performers: Eberhard Blum, flute; Thorkell Sigurbjornsson, piano; Andrew Ziemba, percussion</item>
+         <item>Duration: 5:38</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">7</container>
+      <container type="reel">088</container>
+      <unittitle>Slee Lecture Recital no. 73, December 14, 1973                                 
+            , <unitdate type="inclusive">1973-12-14</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 10 inch reel             
+            </extent>
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_073_01.wav, ubmu0062_073_02.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_073_02</head>
+         <item>Original cassette number: SLR 340</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Symphonies for seventeen brass instruments</title>
+         </item>
+         <item>Performers: Tape played: Ars Nova Ensemble, Marius Constant, conductor</item>
+         <item>Duration: 12:10</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_073_03</head>
+         <item>Original cassette number: SLR 341</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Soledad interrumpida, electronic music (1971)</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Note: Tape realized by the composer. Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_073_01</head>
+         <item>Original cassette number: SLR 339</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Introduction to concert of music by Luis de Pablo</title>
+         </item>
+         <item>Performers: Luis de Pablo, lecturer</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_073_04</head>
+         <item>Original cassette number: SLR 342</item>
+         <item>
+            <persname>Pablo, Luis de</persname>
+         </item>
+         <item>
+            <title render="italic">Por diversos motivos (1968)</title>
+         </item>
+         <item>Performers: Kai-Ning Chiang, soprano; Yvar Mikhashoff, piano; Nils Vigeland, Claudia Hoca, piano duo; Winifred Black, Jane Bane, Jan Mack, Yong Sook Won, sopranos; Claudia Kelly, Ann Stimson, altos; Leslie Kleen, Norbert Osterreich, tenors; Peter Gena, Andrew Stiller</item>
+         <item>Duration: 22:20</item>
+         <item>Note: Program inserted in container indicates Luis De Pablo provided a spoken introduction to this piece.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">7</container>
+      <container type="reel">089-090</container>
+      <unittitle>Slee Lecture Recital no. 74, February 19, 1975                                 
+            , <unitdate type="inclusive">1975-02-19</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_074_01_01.wav, ubmu0062_074_01_02.wav, ubmu0062_074_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_074_01</head>
+         <item>Original cassette number: SLR 343</item>
+         <item>
+            <persname>Birtwistle, Harrison</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Introduction to concert of music by Harrison Birtwistle</title>
+         </item>
+         <item>Performers: Harrison Birtwistle, lecturer</item>
+         <item>Duration: 18:10</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_074_02</head>
+         <item>Original cassette number: SLR 344</item>
+         <item>
+            <persname>Birtwistle, Harrison</persname>
+         </item>
+         <item>
+            <title render="italic">Refrains and choruses (1957)</title>
+         </item>
+         <item>Performers: Judy Kaufman, flute; Paul Schlossman, oboe; Andrew Stiller, clarinet; Beye Fyfe, horn; Bruno Eberspacher, bassoon</item>
+         <item>Duration: 8:33</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_074_04</head>
+         <item>Original cassette number: SLR 345</item>
+         <item>
+            <persname>Birtwistle, Harrison</persname>
+         </item>
+         <item>
+            <title render="italic">La plage: Eight arias of remembrance (1972)</title>
+         </item>
+         <item>Performers: Isabelle Ganz, voice; James Pyne, Edward Yadzinski, Heather Johnson, clarinets; Joseph Kubera, piano; Donald Knaack, marimba</item>
+         <item>Duration: 16:45</item>
+         <item>Note: Program inserted in container.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">7</container>
+      <container type="reel">091-092</container>
+      <unittitle>Slee Lecture Recital no. 75, March 23, 1975                                 
+            , <unitdate type="inclusive">1975-03-23</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_075_01_01.wav, ubmu0062_075_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_075_01</head>
+         <item>Original cassette number: SLR 346</item>
+         <item>
+            <persname>Birtwistle, Harrison</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: Untitled</title>
+         </item>
+         <item>Performers: Harrison Birtwistle, lecturer, with Morton Feldman</item>
+         <item>Note: Index cards inserted in containers.</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_075_02</head>
+         <item>Original cassette number: SLR 347</item>
+         <item>
+            <persname>Birtwistle, Harrison</persname>
+         </item>
+         <item>
+            <title render="italic">Triumph of time</title>
+         </item>
+         <item>Performers: Recording played</item>
+         <item>Duration: 27:10</item>
+         <item>Note: Index cards inserted in containers.</item>
+      </list>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">7</container>
+      <container type="reel">093-094</container>
+      <unittitle>Slee Lecture Recital no. 76, October 14, 1975                                 
+            , <unitdate type="inclusive">1975-10-14</unitdate>
+      </unittitle>
+      <physdesc>
+<extent>2 10 inch reels</extent>         
+      </physdesc>
+     
+      <note>
+         <p>Baird Recital Hall</p>
+         <p>Preservation files: ubmu0062_076_01_01.wav, ubmu0062_076_01_02.wav, ubmu0062_076_02_01.wav</p>
+      </note>
+   </did>
+   <scopecontent>
+      <list>
+         <head>Work number: ubmu0062_076_04</head>
+         <item>Original cassette number: SLR 351</item>
+         <item>
+            <persname>Jolas, Betsy</persname>
+         </item>
+         <item>
+            <title render="italic">Mots (1961, rev. 1963). First section</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 2:44</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_076_01</head>
+         <item>Original cassette number: SLR 348</item>
+         <item>
+            <persname>Jolas, Betsy</persname>
+         </item>
+         <item>
+            <title render="italic">Lecture: The voice and its function</title>
+         </item>
+         <item>Performers: Betsy Jolas, lecturer</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_076_02</head>
+         <item>Original cassette number: SLR 349</item>
+         <item>
+            <persname>Jolas, Betsy</persname>
+         </item>
+         <item>
+            <title render="italic">L'oeil egare dans les plis de l'obeissance au vent (1961). Sleep</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 2:11</item>
+      </list>
+      <list>
+         <head>Work number: ubmu0062_076_03</head>
+         <item>Original cassette number: SLR 350</item>
+         <item>
+            <persname>Jolas, Betsy</persname>
+         </item>
+         <item>
+            <title render="italic">Dans la chaleur vacante (1963). Excerpt</title>
+         </item>
+         <item>Performers: Tape played</item>
+         <item>Duration: 5:37</item>
+      </list>
+   </scopecontent>
+</c01>
+		
+</dsc>			 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Music--20th
+			 century</subject> 
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+ <genreform encodinganalog="655" source="aat">Lectures</genreform> 	  
+		  <genreform encodinganalog="655" source="aat">Sound
+			 recordings</genreform> 
+		  <genreform encodinganalog="655" source="aat">Audiotapes</genreform>
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		
+		<relatedmaterial encodinganalog="544 1"> <!-- Optional - delete entire tag if not needed -->
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+
+					 <archref href="http://libweb1.lib.buffalo.edu:8080/findingaids/data/html/music/concerts/ubmu_html_sleelect/ubmu_html_sleelect.html" show="new" actuate="onrequest" role="text/html">Slee Lecture Recitals Catalog, 1957-1976
+					 </archref>Mus. Arc. 62
+				  </label> 
+				  <item>This is the HTML inventory of the cassette collection but includes all programmed works, even if not recorded. Currently there is a link to summaries of some of the lectures.
+				  </item> 
+				</defitem> 
+<defitem>				
+<label> 
+
+					 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0072.xml " show="new" actuate="onrequest" role="text/html">Slee Visiting Professor in Music Papers, 1957-1993
+					 </archref>Mus. Arc. 22
+				  </label> 
+				  <item>The collection chiefly consists of correspondence between thirty-two composers being considered or invited to fill the position of Slee Visiting Professor in Music at the State University of New York at Buffalo. It also contains clippings pertaining to the composers. 
+				  </item> 
+				</defitem>				
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

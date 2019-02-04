@@ -1,0 +1,3820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 81::Irene Haupt Photographs of June in Buffalo 2018)//EN" encodinganalog="identifier">ubmu0081</eadid> 
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Irene Haupt
+		Photographs of June in Buffalo, 
+		<date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="2018-06">2018</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay"> Haupt (Irene)
+		Photographs of June in Buffalo 2018</titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date encodinganalog="date" type="publication">2018</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley, October 2018.</creation> 
+	 <langusage>Finding aid is in
+	   <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>). </descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Irene Haupt Photographs
+	   of June in Buffalo, 
+	   <unitdate encodinganalog="245$f" normal="2018-06" type="inclusive" datechar="creation">2018</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 81</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf">Haupt,
+		Irene </persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="USB flash drive" encodinganalog="300$a">1 USB flash drive</extent> <extent unit="image-file" encodinganalog="300$a"> (250 digital
+	   images in tiff format) </extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">No
+	   textual content in the collection.</langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a"> Contains 250 digital
+	   images of musicians who participated in the June in Buffalo 2018 at the
+	   University at Buffalo, including guest composers John Harbison, Roger Reynolds, Hilda Paredes, Hans Thomalla, and Louis Karchin.
+	   </abstract> 
+	 <note encodinganalog="500"> 
+	   <p>All files in the collection were renamed to reflect chronological
+		sequence. Original filenames stated in the container list are transcribed as
+		stated on the flash drive as received. Renamed files are stored in the Institutional
+		Repository. </p> 
+	 </note> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Irene Haupt Photographs of June in Buffalo, 2018,
+		Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Purchased from Irene Haupt, 2018.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	 <altformavail encodinganalog="530"> 
+	   <head>Alternate Forms</head> 
+	   <p>The entire collection of images from June in Buffalo 2018 is
+		available in 
+		<extref href="http://digital.lib.buffalo.edu/collection/LIB-MUS009/" show="new" actuate="onrequest">University at Buffalo Libraries Digital Collections</extref>. </p> 
+	 </altformavail> 
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by Julia Cordani.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Irene Haupt, a graduate of the State University of New York at
+	   Buffalo, has been documenting the Buffalo arts scene through her photography
+	   since 1976. During that time she has worked for, or with, some of the most
+	   notable institutions in Buffalo, including the Irish Classical Theatre, Studio
+	   Arena Theater, the Kavinoky Theatre, the Buffalo Philharmonic Orchestra, the
+	   Theatre of Youth, the Albright-Knox Art Gallery, and the State University of
+	   New York at Buffalo. In addition to her specialty of theater photography, Irene
+	   Haupt has also devoted much of her career to the photography of musicians and
+	   musical events. Most notable is her documentation of the contemporary music
+	   scene in Buffalo, including coverage of the University at Buffalo's June in
+	   Buffalo festival of new music, 1982-1987, and 2000 to the present. Over the
+	   course of those years, she has created a visual record that contains images of
+	   some of the most significant composers and performers of the last quarter
+	   century. The list of names is impressive: Aaron Copland, Morton Feldman, Leo
+	   Smit, Virgil Thomson, Steve Reich, Ralph Shapey, Henry Brant, Earle Brown,
+	   Ursula Oppens, Jan Williams, Lukas Foss, Philip Glass, Otto Luening, Conlon
+	   Nancarrow, Ernst Krenek, Larry Austin, Lejaren Hiller, Elliott Carter, Milton
+	   Babbitt, John Cage, Charles Wuorinen, Jacob Druckman, and Yvar Mikhashoff,
+	   among others. </p> 
+	 <p>The June in Buffalo festival of contemporary music was begun at the
+	   University at Buffalo in 1975 by composer Morton Feldman. He directed the
+	   festival 1975-1978 and in 1980. The festival was dormant from 1981 through
+	   1985. David Felder revived the festival in 1986 and has been its director since
+	   that time.</p> 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection of Irene Haupt Photographs of June in Buffalo 2018
+	   contains 250 digital images of participants in the festival for 2018. The list
+	   of musicians includes faculty composers David Felder, John Harbison, Roger Reynolds, Hilda Paredes, Hans Thomalla, and Louis Karchin. Performers include Brad Lubman, Irvine Arditti, Moon Young Ha, Matthew Chamberlain, Tiffany DuMouchelle, and JoAnn Falletta. Ensembles include the Mivos Ensemble, Ensemble Mise-En, Ensemble Signal, Slee Sinfonietta, and the Buffalo Philharmonic Orchestra. </p> 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>One series chiefly arranged chronologically.</p> 
+    </arrangement> 
+    <dsc type="in-depth"> 
+	 <head>Container List</head> 
+
+ <c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_001.tif</container>
+      <unittitle>Composer Louis Karchin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9480.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_002.tif</container>
+      <unittitle>Composer Louis Karchin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9480BW.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_003.tif</container>
+      <unittitle>Composer Louis Karchin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9481.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_004.tif</container>
+      <unittitle>Composer Louis Karchin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9483.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_005.tif</container>
+      <unittitle>Composer Louis Karchin coaching Matthew Chamberlain, conductor as Slee Sinfonietta member Hanna Hurwitz, violin looks on in rehearsal of Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9486.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_006.tif</container>
+      <unittitle>Composer Louis Karchin coaching Matthew Chamberlain, conductor as Slee Sinfonietta member Hanna Hurwitz, violin looks on in rehearsal of Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9487.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_007.tif</container>
+      <unittitle>Composer Louis Karchin coaching Matthew Chamberlain, conductor in rehearsal of Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9492.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_008.tif</container>
+      <unittitle>Composer Louis Karchin coaching Matthew Chamberlain, conductor as Slee Sinfonietta members Daniel Brottman, horn and Will Knuth, violin look on in rehearsal of Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9493.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_009.tif</container>
+      <unittitle>June in Buffalo managing director Robert Phillips speaks to Matthew Chamberlain, conductor as Slee Sinfonietta members Daniel Brottman, horn, Jonathan Golove, violoncello, Thomas Meglioranza, baritone, and Hanna Hurwitz and Will Knuth, violin look on in rehearsal of Louis Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9495.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_010.tif</container>
+      <unittitle>June in Buffalo managing director Robert Phillips speaks to Matthew Chamberlain, conductor as Slee Sinfonietta members Daniel Brottman, horn, Jonathan Golove, violoncello, Thomas Meglioranza, baritone, and Hanna Hurwitz and Will Knuth, violin look on in rehearsal of Louis Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9496.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_011.tif</container>
+      <unittitle>Matthew Chamberlain, conductor rehearses Louis Karchin's Gods of Winter with Slee Sinfonietta members Tom Kolor, percussion, Jonathan Golove, violoncello, Thomas Meglioranza, baritone, and Will Knuth and Hanna Hurwitz, violin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9500.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_012.tif</container>
+      <unittitle>Matthew Chamberlain, conductor rehearses Louis Karchin's Gods of Winter with Slee Sinfonietta members Tom Kolor, percussion, Jonathan Golove, violoncello, Thomas Meglioranza, baritone, and Will Knuth and Hanna Hurwitz, violin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9501.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_013.tif</container>
+      <unittitle>Composer Louis Karchin coaches Matthew Chamberlain, conductor, and Slee Sinfonietta members Will Knuth, violin, Jonathan Golove, violoncello, Daniel Brottman, horn, Hanna Hurwitz, violin, Jean Kopperud, clarinet, Michael Matsuno, flute, and Thomas Meglioranza, baritone on his piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9510.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_014.tif</container>
+      <unittitle>Composer Louis Karchin coaches Matthew Chamberlain, conductor, and Slee Sinfonietta members Will Knuth, violin, Jonathan Golove, violoncello, Daniel Brottman, horn, Hanna Hurwitz, violin, Jean Kopperud, clarinet, Michael Matsuno, flute, and Thomas Meglioranza, baritone on his piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9511.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_015.tif</container>
+      <unittitle>Slee Sinfonietta members Will Knuth and Hanna Hurwitz, violin, Jonathan Golove, violoncello, and Daniel Brottman, horn rehearse Louis Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9514.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_016.tif</container>
+      <unittitle>Composer Louis Karchin coaches Matthew Chamberlain, conductor, and Slee Sinfonietta members Daniel Brottman, horn, Jean Kopperud, clarinet, Thomas Meglioranza, baritone, and Michal Matsuno, flute on his piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9522.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_017.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Thomas Meglioranza, baritone talk and laugh as Slee Sinfonietta members Jonathan Golove, violoncello and Will Knuth, violin look on in rehearsal of Louis Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9523.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_018.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Michael Matsuno, flute and Daniel Brottman, horn look at a piece of music and smile in rehearsal of Louis Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9528.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_019.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Michael Matsuno, flute and Daniel Brottman, horn look at a piece of music in rehearsal of Louis Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9531.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_020.tif</container>
+      <unittitle>Composer Louis Karchin talks with Slee Sinfonietta member Jean Kopperud, clarinet on a break from rehearsing Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9532.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_021.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Daniel Brottman, horn and Michael Matsuno, flute look at a piece of music in rehearsal of Louis Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9534.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_022.tif</container>
+      <unittitle>June in Buffalo managing director Robert Phillips and Slee Sinfonietta members Daniel Brottman, horn, Michael Matsuno, flute, and Will Knuth, violin on break from rehearsing Louis Karchin's pieces as Slee Sinfonietta member Jean Kopperud, clarinet speaks with Karchin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9538.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_023.tif</container>
+      <unittitle>Composer Louis Karchin prepares Matthew Chamberlain, conductor and Slee Sinfonietta members Tiffany DuMouchelle, soprano and Will Knuth, violin to rehearse Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9539.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_024.tif</container>
+      <unittitle>Composer Louis Karchin prepares Matthew Chamberlain, conductor and Slee Sinfonietta members Daniel Brottman, horn, Tiffany DuMouchelle, soprano, and Will Knuth, violin to rehearse Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9540.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_025.tif</container>
+      <unittitle>Composer Louis Karchin prepares Matthew Chamberlain, conductor and Slee Sinfonietta members Daniel Brottman, horn, Tiffany DuMouchelle, soprano, and Will Knuth, violin to rehearse Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9542.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_026.tif</container>
+      <unittitle>Composer Louis Karchin prepares Matthew Chamberlain, conductor and Slee Sinfonietta members Daniel Brottman, horn, Tiffany DuMouchelle, soprano, and Will Knuth, violin to rehearse Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9543.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_027.tif</container>
+      <unittitle>Tiffany DuMouchelle, soprano rehearses composer Louis Karchin's Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9545.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_028.tif</container>
+      <unittitle>Matthew Chamberlain, conductor rehearses composer Louis Karchin's Four Songs on Poems of Seamus Heaney with Slee Sinfonietta members Tiffany DuMouchelle, soprano, Christopher Guzman, piano, Will Knuth, violin, Jonathan Golove, violoncello, Tom Kolor, percussion, Jean Kopperud, clarinet, and Michael Matsuno, flute at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9549.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_029.tif</container>
+      <unittitle>Composer Louis Karchin coaches Slee Sinfonietta member Tiffany DuMouchelle, soprano as Matthew Chamberlain, conductor and other Slee Sinfonietta members Will Knuth, violin, Jonathan Golove, violoncello, Jean Kopperud, clarinet, and Michael Matsuno flute on Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9550composer Louis Karchin.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_030.tif</container>
+      <unittitle>Matthew Chamberlain rehearses composer Louis Karchin's Gods of Winter with Slee Sinfonietta members Michael Matsuno, flute, Jean Kopperud, clarinet, Daniel Brottman, horn, Thomas Meglioranza, baritone, Jonathan Golove, violoncello, Tom Kolor, percussion, and Christopher Guzman, piano at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name Untitled-1 copy.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_031.tif</container>
+      <unittitle>Matthew Chamberlain rehearses composer Louis Karchin's Gods of Winter with Slee Sinfonietta members Michael Matsuno, flute, Jean Kopperud, clarinet, Daniel Brottman, horn, Thomas Meglioranza, baritone, Jonathan Golove, violoncello, Will Knuth, violin, Tom Kolor, percussion, and Christopher Guzman, piano at June in Buffalo 2018, <unitdate type="inclusive">2018-06-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name UntiSlee.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_032.tif</container>
+      <unittitle>Composer Louis Karchin poses with student composers William David Cooper, Weijun Chen, Clay Mettens, Reilly Spitzfaden, Alon Nechushtan, and Kai-Young Chan at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9555.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_033.tif</container>
+      <unittitle>Student composers Fernando Munizaga, Seong Ae Kim, Ioannis Mitsialis, Yi-Hsien Chen, Kyle Puebla Dubin, Reilly Spitzfaden, and Angel Jochi Hernandez-Camen at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9557.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_034.tif</container>
+      <unittitle>Student composers Fernando Munizaga, Seong Ae Kim, xxx, Kyle Puebla Dubin, Ioannis Mitsialis, Yi-Hsien Chen, Angel Jochi Hernandez-Camen, Reilly Spitzfaden, Dylan Findley, Kurt Nelson, Kezia Yap, and Yotam Haber at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9559.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_035.tif</container>
+      <unittitle>Composer David Felder poses with student composers Fernando Munizaga, Seong Ae Kim, xxx, Kyle Puebla Dubin, Ioannis Mitsialis, Yi-Hsien Chen, Angel Jochi Hernandez-Camen, Reilly Spitzfaden, Dylan Findley, Kurt Nelson, Kezia Yap, and Yotam Haber at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9561.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_036.tif</container>
+      <unittitle>Irvine Arditti, violin and David Felder, composer chat outside June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name Arditti.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_037.tif</container>
+      <unittitle>Video plays during the student composer introduction at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00476.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_038.tif</container>
+      <unittitle>Video plays during the student composer introduction at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00477.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_039.tif</container>
+      <unittitle>Composer David Felder addresses student composers at an introduction to June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00478.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_040.tif</container>
+      <unittitle>Thomas Meglioranza rehearses Louis Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9577.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_041.tif</container>
+      <unittitle>Composer Louis Karchin coaches Matthew Chamberlain, conductor and Slee Sinfonietta members Hanna Hurwitz, Will Knuth, Jonathan Golove, Thomas Meglioranza, voice, Daniel Brottman, horn, Jean Kopperud, clarinet, and Michael Matsuno, flute at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9579.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_042.tif</container>
+      <unittitle>Thomas Meglioranza rehearses Louis Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9583.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_043.tif</container>
+      <unittitle>Thomas Meglioranza rehearses Louis Karchin's Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9586.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_044.tif</container>
+      <unittitle>Composer Louis Karchin coaches Thomas Meglioranza, baritone on Karchin's piece Gods of Winter as Matthew Chamberlain, conductor and Slee Sinfonietta members Will Knuth, violin, Daniel Brottman, horn, and Michael Matsuno, flute look on at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name baritone.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_045.tif</container>
+      <unittitle>Thomas Meglioranza, baritone and Tiffany DuMouchelle, soprano pose at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9591.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_046.tif</container>
+      <unittitle>Composer Louis Karchin poses with Thomas Meglioranza, baritone and Tiffany DuMouchelle, soprano at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9597.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_047.tif</container>
+      <unittitle>Slee Sinfonietta members Will Knuth, violin and Alyssa Roggow, viola rehearsing composer John Harbison's piece Mirabai Songs at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9599.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_048.tif</container>
+      <unittitle>Matthew Chamberlain, conductor rehearses John Harbison's piece Mirabai Songs with Slee Sinfonietta members Tristan Kasten-Krause, double bass, Michael Matsuno, flute, Michael Tumiel, clarinet, Tiffany DuMouchelle, soprano, Will Knuth, violin, Jonathan Golove, violoncello, Alyssa Roggow, viola, and Kristen Theriault, harp at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9606.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_049.tif</container>
+      <unittitle>Matthew Chamberlain, conductor rehearses John Harbison's piece Mirabai Songs with Slee Sinfonietta members Tristan Kasten-Krause, double bass, Michael Matsuno, flute, Michael Tumiel, clarinet, Tiffany DuMouchelle, soprano, Will Knuth, violin, Jonathan Golove, violoncello, Alyssa Roggow, viola, Kristen Theriault, harp, and Stephen Solook, percussion at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9614.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_050.tif</container>
+      <unittitle>Slee Sinfonietta members Michael Tumiel, clarinet, Tiffany DuMouchelle, soprano, Will Knuth, violin, Jonathan Golove, violoncello, Alyssa Roggow, viola, Kristen Theriault, harp, and Stephen Solook, percussion rehearse John Harbison's piece Mirabai Songs at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9616.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_051.tif</container>
+      <unittitle>Composer Hans Thomalla coaches student composer Seong Ae Kim at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9623.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_052.tif</container>
+      <unittitle>Composer Hans Thomalla coaches student composers Igor Coelho A.S. Marques, Reilly Spitzfaden, and Seong Ae Kim at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9624.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_053.tif</container>
+      <unittitle>Lucy Hatem, clarinet rehearsing Flannery Cunningham's piece We are the same as we have always been at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9626.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_054.tif</container>
+      <unittitle>Flannery Cunningham coaches Lucy Hatem, clarinet on Cunningham's piece We are the same as we have always been at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9636.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_055.tif</container>
+      <unittitle>Matthew Chamberlain, conductor rehearses Fernando Munizaga's Ondas Primarias with Slee Sinfonietta members Jade Conlee, piano, Tristan Kasten-Krause, double bass, Michael Matsuno, bass flute, Stephen Solook, percussion, Kristen Theriault, harp, Lucy Hatem, clarinet, and Michael Tumiel, bass clarinet at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9640.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_056.tif</container>
+      <unittitle>Fernando Munizaga coaches Matthew Chamberlain, conductor and Slee Sinfonietta members Tristan Kasten-Krause, double bass, Michael Matsuno, bass flute, Stephen Solook, percussion, and Kristen Theriault, harp on Munizaga's piece Ondas Primarias at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9641.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_057.tif</container>
+      <unittitle>Fernando Munizaga coaches Slee Sinfonietta member Kristen Theriault, harp on Munizaga's piece Ondas Primarias as Slee Sinfonietta member Stephen Solook, percussion looks on at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9642.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_058.tif</container>
+      <unittitle>Slee Sinfonietta member Michael Matsuno, flute rehearses at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9645.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_059.tif</container>
+      <unittitle>Fernando Munizaga coaches Slee Sinfonietta member Kristen Theriault, harp on Munizaga's piece Ondas Primarias as Slee Sinfonietta member Michael Tumiel, bass clarinet looks on at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9647.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_060.tif</container>
+      <unittitle>Fernando Munizaga coaches Slee Sinfonietta member Kristen Theriault, harp on Munizaga's piece Ondas Primarias as Matthew Chamberlain, conductor and Slee Sinfonietta members Michael Tumiel, bass clarinet, and Michael Matsuno, bass flute look on at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9648.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_061.tif</container>
+      <unittitle>Fernando Munizaga coaches Slee Sinfonietta member Kristen Theriault, harp on Munizaga's piece Ondas Primarias as Matthew Chamberlain, conductor and Slee Sinfonietta members Tristan Kasten-Krause, double bass, Stephen Solook, percussion, Michael Matsuno, bass flute, and Michael Tumiel, bass clarinet look on at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9649.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_062.tif</container>
+      <unittitle>Fernando Munizaga coaches Slee Sinfonietta member Kristen Theriault, harp on Munizaga's piece Ondas Primarias as Matthew Chamberlain, conductor and Slee Sinfonietta members Tristan Kasten-Krause, double bass and Michael Matsuno, bass flute look on at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9651.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_063.tif</container>
+      <unittitle>Kezia Yap coaching Michael Matsuno, flute on Yap's piece A structure of silence: an exploration of Ma at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9656.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_064.tif</container>
+      <unittitle>Michael Matsuno, flute rehearsing Kezia Yap's piece A structure of silence: an exploration of Ma at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9659.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_065.tif</container>
+      <unittitle>Michael Matsuno, flute rehearsing Kezia Yap's piece A structure of silence: an exploration of Ma at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name Michael.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_066.tif</container>
+      <unittitle>Michael Matsuno, flute rehearsing Kezia Yap's piece A structure of silence: an exploration of Ma at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9664.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_067.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Christopher Guzman, piano, Hanna Hurwitz, violin, Will Knuth, violin, Thomas Meglioranza, baritone, Jonathan Golove, violoncello, Daniel Brottman, horn, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00483.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_068.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Christopher Guzman, piano, Hanna Hurwitz, violin, Will Knuth, violin, Thomas Meglioranza, baritone, Jonathan Golove, violoncello, Daniel Brottman, horn, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00484.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_069.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Hanna Hurwitz, violin, Will Knuth, violin, Tom Kolor, percussion, Thomas Meglioranza, baritone, Jonathan Golove, violoncello, Daniel Brottman, horn, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00486.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_070.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Kristen Theriault, harp, Tiffany DuMouchelle, soprano, Will Knuth, violin, Stephen Solook, percussion, Alyssa Roggow, viola, Jonathan Golove, violoncello, Michael Tumiel, bass clarinet, Michael Matsuno, flute, and Tristan Kasten-Krause, double bass in a performance of John Harbison's Mirabai Songs at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00489.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_071.tif</container>
+      <unittitle>Slee Sinfonietta member Tom Kolor, percussion performs Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9665.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_072.tif</container>
+      <unittitle>Slee Sinfonietta member Tom Kolor, percussion performs Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9666.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_073.tif</container>
+      <unittitle>Slee Sinfonietta member Tom Kolor, percussion performs Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9668.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_074.tif</container>
+      <unittitle>Slee Sinfonietta member Tom Kolor, percussion performs Louis Karchin's piece Four Songs on Poems of Seamus Heaney as composer David Felder looks on at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9671.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_075.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Christopher Guzman, piano, Tiffany DuMouchelle, soprano, Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9673.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_076.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Christopher Guzman, piano, Tiffany DuMouchelle, soprano, Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9674.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_077.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Christopher Guzman, piano, Tiffany DuMouchelle, soprano, Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9675.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_078.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Christopher Guzman, piano, Tiffany DuMouchelle, soprano, Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9676.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_079.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Christopher Guzman, piano, Tiffany DuMouchelle, soprano, Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9677.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_080.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Christopher Guzman, piano, Tiffany DuMouchelle, soprano, Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Jean Kopperud, clarinet, and Michael Matsuno, flute acknowledge applause after a performance of Louis Karchin's piece Four Songs on Poems of Seamus Heaney at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9680.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_081.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Christopher Guzman, piano, Thomas Meglioranza, baritone, Hanna Hurwitz and Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Daniel Brottman, horn, Jean Kopperud, clarinet, and Michael Matsuno, flute in performance of Louis Karchin's piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9683.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_082.tif</container>
+      <unittitle>Composer Louis Karchin shakes the hand of Matthew Chamberlain, conductor and acknowledges Slee Sinfonietta members Thomas Meglioranza, voice, Hanna Hurwitz and Will Knuth, violin, Tom Kolor, percussion, Jonathan Golove, violoncello, Daniel Brottman, horn, Jean Kopperud, clarinet, and Michael Matsuno, flute after a performance of Karchin's piece Gods of Winter at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9684.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_083.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Kristen Theriault, harp, Tiffany DuMouchelle, soprano, Will Knuth, violin, Alyssa Roggow, viola, Jonathan Golove, violoncello, Stephen Solook, percussion, Michael Tumiel, clarinet, Tristan Kasten-Krause, double bass, and Michael Matsuno, flute before a performance of John Harbison's piece Mirabai songs at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9686.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_084.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Kristen Theriault, harp, Tiffany DuMouchelle, soprano, Will Knuth, violin, Alyssa Roggow, viola, Jonathan Golove, violoncello, Stephen Solook, percussion, Michael Tumiel, clarinet, Michael Matsuno, flute, and Tristan Kasten-Krause, double bass in a performance of John Harbison's piece Mirabai songs at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9688.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_085.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Tiffany DuMouchelle, soprano, Kristen Theriault, harp, Will Knuth, violin, Stephen Solook, percussion, Alyssa Roggow, viola, Jonathan Golove, violoncello, Michael Tumiel, clarinet, Michael Matsuno, flute, and Tristan Kasten-Krause, double bass in a performance of John Harbison's piece Mirabai songs at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9691.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_086.tif</container>
+      <unittitle>Composer Louis Karchin and Tiffany DuMouchelle, soprano after a performance of Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9698.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_087.tif</container>
+      <unittitle>Composer Louis Karchin and Tiffany DuMouchelle, soprano after a performance of Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9703.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_088.tif</container>
+      <unittitle>Composer Louis Karchin and Tiffany DuMouchelle, soprano after a performance of Karchin's pieces at June in Buffalo 2018, <unitdate type="inclusive">2018-06-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name Louis Ka.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_089.tif</container>
+      <unittitle>Composer Roger Reynolds at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name Roger Reynold.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_090.tif</container>
+      <unittitle>Irvine Arditti, violin rehearsing Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00500.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_091.tif</container>
+      <unittitle>Irvine Arditti, violin rehearsing Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00502.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_092.tif</container>
+      <unittitle>Composer Roger Reynolds watches Irvine Arditti, violin rehearsing Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00504.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_093.tif</container>
+      <unittitle>Paul Hembree, computer musician rehearsing Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00505Paul H.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_094.tif</container>
+      <unittitle>Paul Hembree, computer musician rehearsing Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00509.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_095.tif</container>
+      <unittitle>Su Lee, organist and composer, Jade Conlee, piano, and Tom Kolor, percussion rehearsing Lee's piece Nachruf für Nr. 503, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9770SU Lee.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_096.tif</container>
+      <unittitle>Tom Kolor, percussion, Roberto Azaretto, and Christopher Guzman, piano talking during a rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9776.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_097.tif</container>
+      <unittitle>Composer Alon Nechushtan looking at his piece Three places in New York at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9781.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_098.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Jade Conlee, piano, Kristen Theriault, harp, Emlyn Johnson, flute, Hanna Hurwitz and Will Knuth, violin, Erin Lensing, oboe, Stephen Solook, percussion, Michael Tumiel, clarinet, Jessica Wooldridge, bassoon, Alyssa Roggow, viola, Daniel Brottman, horn, Katie Weissman, violoncello, Sycil Mathai, trumpet, Mark Broschinsky, trombone, and Tristan Kasten-Krause, double bass in a performance of William David Cooper's piece Epilogue at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9792.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_099.tif</container>
+      <unittitle>Matthew Chamberlain, conductor and Slee Sinfonietta members Jade Conlee, piano, Kristen Theriault, harp, Emlyn Johnson, flute, Hanna Hurwitz and Will Knuth, violin, Stephen Solook, percussion, Michael Tumiel, clarinet, Erin Lensing, oboe, Jessica Wooldridge, bassoon, Alyssa Roggow, viola, Daniel Brottman, horn, Katie Weissman, violoncello, Sycil Mathai, trumpet, Mark Broschinsky, trombone, and Tristan Kasten-Krause, double bass in a performance of William David Cooper's piece Epilogue at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9794.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_100.tif</container>
+      <unittitle>Matthew Chamberlain, conductor, leads Slee Sinfonietta members Christopher Guzman, piano, Kristen Theriault, harp, Emlyn Johnson, flute, Hanna Hurwitz and Will Knuth violin, Stephen Solook, percussion, Erin Lensing, oboe, Michael Tumiel, clarinet, Jessica Wooldridge, bassoon, Alyssa Roggow, viola, Daniel Brottman, horn, Katie Weissman, violoncello, Tomek Arnold, percussion, Megan McDevitt, double bass, and Tom Kolor, percussion in a performance of Weijun Chen's piece Watercolors at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9797.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_101.tif</container>
+      <unittitle>Composer Weijun Chen acknowledges Matthew Chamberlain, conductor and Slee Sinfonietta members Christopher Guzman, piano, Kristen Theriault, harp, Emlyn Johnson, flute, Hanna Hurwitz and Will Knuth violin, Stephen Solook, percussion, Erin Lensing, oboe, Michael Tumiel, clarinet, Jessica Wooldridge, bassoon, Alyssa Roggow, viola, Daniel Brottman, horn, Katie Weissman, violoncello, Tomek Arnold, percussion, Megan McDevitt, double bass, and Tom Kolor, percussion after a performance of Chen's piece Watercolors at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9799.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_102.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Jade Conlee, piano, Kristen Theriault, harp, Emlyn Johnson, flute, Hanna Hurwitz and Will Knuth, violin, Erin Lensing, oboe, Stephen Solook, percussion, Michael Tumiel, clarinet, Jessica Wooldridge, bassoon, Alyssa Roggow, viola, Daniel Brottman, horn, Katie Weissman, violoncello, Sycil Mathai, trumpet, Mark Broschinsky, trombone, and Tristan Kasten-Krause, double bass in a performance of William David Cooper's piece Epilogue at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9802.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_103.tif</container>
+      <unittitle>Composer William David Cooper acknowledges Matthew Chamberlain, conductor and Slee Sinfonietta members Jade Conlee, piano, Kristen Theriault, harp, Emlyn Johnson, flute, Hanna Hurwitz and Will Knuth, violin, Erin Lensing, oboe, Stephen Solook, percussion, Michael Tumiel, clarinet, Jessica Wooldridge, bassoon, Alyssa Roggow, viola, Daniel Brottman, horn, Katie Weissman, violoncello, Sycil Mathai, trumpet, Mark Broschinsky, trombone, and Tristan Kasten-Krause, double bass after a performance of Cooper's piece Epilogue at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9804.tif</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_104.tif</container>
+      <unittitle>Matthew Chamberlain leads Slee Sinfonietta members Michael Matsuno, flute, Tristan Kasten-Krause, double bass, Kristen Theriault, harp, Stephen Solook, percussion, and Michael Tumiel, clarinet in a performance of Fernando Munizaga's piece Ondas Primarias at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9805David Mettens.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_105.tif</container>
+      <unittitle>Composer Yotam Haber acknowledges Matthew Chamberlain, conductor and Slee Sinfonietta members Will Knuth, violin, Katie Weissman, violoncello, Christopher Guzman, piano, Michael Tumiel, clarinet, and Emlyn Johnson, flute after a performance of Haber's piece Estro poetico-armonico II at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9807.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_106.tif</container>
+      <unittitle>Matthew Chamberlain, conductor leads Slee Sinfonietta members Alyssa Roggow, viola, Kristen Theriault, harp, Tomek Arnold, percussion, Emlyn Johnson, flute, and Katie Weissman, violoncello in a performance of David Mettens' piece Without Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9808.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_107.tif</container>
+      <unittitle>Mivos Quartet members Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, viola, Mariel Roberts, violoncello, and Olivia De Prato, violin performing John Harbison's piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC0051Harbison.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_108.tif</container>
+      <unittitle>Mivos Quartet members Victor Lowrie Tafoya, viola, Mariel Roberts, violoncello, and Lauren Cauley Kalal and Olivia De Prato, violin with composer John Harbison rehearsing Harbison's piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9818.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_109.tif</container>
+      <unittitle>Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, viola, and Mariel Roberts, violoncello performing John Harbison's piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00518.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_110.tif</container>
+      <unittitle>Mivos Quartet members Mariel Roberts, violoncello and Lauren Cauley Kalal and Olivia De Prato, violin with composer John Harbison rehearsing Harbison's piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9821John Harbison.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_111.tif</container>
+      <unittitle>Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, viola, and Mariel Roberts, violoncello performing John Harbison's piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00519.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_112.tif</container>
+      <unittitle>Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, viola, and Mariel Roberts, violoncello performing John Harbison's piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00521.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_113.tif</container>
+      <unittitle>Composer John Harbison coaching Mivos Quartet member Olivia De Prato, violin on Harbison's piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9828John Harbison.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_114.tif</container>
+      <unittitle>Composer John Harbison listening to the Mivos Quartet rehearse his piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9835.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_115.tif</container>
+      <unittitle>Composer John Harbison listening to the Mivos Quartet rehearse his piece String Quartet No. 6 at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9836John H.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_116.tif</container>
+      <unittitle>Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, viola, and Mariel Roberts, violoncello acknowledge applause after a performance of Hilda Paredes' piece Cuerdas del Destino at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00522Mivos Quartet.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_117.tif</container>
+      <unittitle>Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin and Victor Lowrie Tafoya, viola acknowledge applause as composer Hilda Paredes hugs Mariel Roberts, violoncello after a performance of Paredes' piece Cuerdas del Destino at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00523Hilda Paredes.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_118.tif</container>
+      <unittitle>Composer Hilda Paredes acknowledges Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, and Mariel Roberts, violoncello after a performance of Paredes' piece Cuerdas del Destino at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00524Hilda Paredes.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_119.tif</container>
+      <unittitle>June in Buffalo staff composers John Harbison, Louis Karchin, and Roger Reynolds talk with Irvine Arditti, violin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00533.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_120.tif</container>
+      <unittitle>Composer David Felder acknowledges Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, viola, and Mariel Roberts, violoncello after a performance of Felder's piece Third Face at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00540David Felder.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_121.tif</container>
+      <unittitle>Composers Louis Karchin and John Harbison at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00545.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_122.tif</container>
+      <unittitle>Composers Louis Karchin and John Harbison at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00549.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_123.tif</container>
+      <unittitle>Composer David Felder talks with composer Roger Reynolds and Irvine Arditti, violin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00551.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_124.tif</container>
+      <unittitle>Composer David Felder and Jonathan Golove, violoncello at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00554.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_125.tif</container>
+      <unittitle>Composers Hans Thomalla and Louis Karchin talk at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00556.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_126.tif</container>
+      <unittitle>Composers Hans Thomalla and Louis Karchin talk at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00557.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_127.tif</container>
+      <unittitle>Composer Louis Karchin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00558.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_128.tif</container>
+      <unittitle>Brad Lubman, conductor rehearses with Ensemble Mise-En members Kelley Barnett, flute, Maria Hadge, violoncello, Victor Lowrie Tafoya, viola, Tristan Kasten-Krause, double bass, Hajnal Pivnick, violin, and Josh Perry, percussion at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9843.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_129.tif</container>
+      <unittitle>Composer David Felder and xxx coaching Ensemble Mise-En with Ensemble Mise-En guest Lauren Radnofsky, violoncello in view at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9845.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_130.tif</container>
+      <unittitle>Composer David Felder and xxx coaching Ensemble Mise-En at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9847.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_131.tif</container>
+      <unittitle>Composer David Felder coaching Ensemble Mise-En at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9849.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_132.tif</container>
+      <unittitle>Composer David Felder coaches Brad Lubman, conductor and Ensemble Mise-En guests Lauren Radnofsky, violoncello and Irvine Arditti, violin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9850.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_133.tif</container>
+      <unittitle>Composer David Felder coaches Brad Lubman, conductor and Ensemble Mise-En guest Irvine Arditti, violin at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9852.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_134.tif</container>
+      <unittitle>Composer David Felder coaches Brad Lubman, conductor in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9854.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_135.tif</container>
+      <unittitle>Composer David Felder coaches Brad Lubman, conductor in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9856.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_136.tif</container>
+      <unittitle>Composer David Felder coaches Brad Lubman, conductor and Ensemble Mise-En guest Irvine Arditti, violin in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9859.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_137.tif</container>
+      <unittitle>J. T. Rinker at the sound board at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9863.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_138.tif</container>
+      <unittitle>J. T. Rinker at the sound board at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9865.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_139.tif</container>
+      <unittitle>J. T. Rinker at the sound board at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9867.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_140.tif</container>
+      <unittitle>Composer Roger Reynolds leading a seminar with composers Fernando Munizaga, Flannery Cunningham, Yi-Hsien Chan, and Igor Coelho A. S. Marques at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9872.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_141.tif</container>
+      <unittitle>Composer Roger Reynolds leading a seminar with composers Fernando Munizaga, Flannery Cunningham, Yi-Hsien Chan, and Igor Coelho A. S. Marques at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9873Roger Re.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_142.tif</container>
+      <unittitle>Composer Reilly Spitzfaden coaches Hannah Levinson, viola on his piece Touch at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9875Reilly S.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_143.tif</container>
+      <unittitle>Composer Reilly Spitzfaden coaches Hannah Levinson, viola on his piece Touch at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9876.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_144.tif</container>
+      <unittitle>Composer Dylan Findley coaches Ensemble Mise-En members xxx and Josh Perry, percussion on his piece In the Mind of Energy at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9883Dylan Fi.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_145.tif</container>
+      <unittitle>Ensemble Mise-En members Yumi Ito, bass clarinet, and Josh Perry, percussion rehearse Dylan Findley's piece In the Mind of Energy at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9887 Seong A.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_146.tif</container>
+      <unittitle>Ensemble Mise-En members Yumi Ito, bass clarinet, and Josh Perry, percussion rehearse Dylan Findley's piece In the Mind of Energy at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9890.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_147.tif</container>
+      <unittitle>Composer Seong Ae Kim coaches Ensemble Mise-En members Yumi Ito, bass clarinet and Josh Perry, percussion on her piece #metoo at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name Seong Ae Kim mwr.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_148.tif</container>
+      <unittitle>Eric Huebner, piano rehearses Angel Jochi Hernandez-Camen's piece Apanahuiayan at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9904Eric Hue.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_149.tif</container>
+      <unittitle>Composer Angel Jochi Hernandez-Camen coaches Eric Huebner, piano on Camen's piece Apanahuiayan at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9910AngelJoc.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_150.tif</container>
+      <unittitle>Composer Angel Jochi Hernandez-Camen coaches Eric Huebner, piano on Camen's piece Apanahuiayan at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9911.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_151.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Hannah Levinson, viola, Maria Hadge, violoncello, Josh Perry, percussion, and Kelley Barnett, flute in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9917 Moon Yo.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_152.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Hannah Levinson, viola, Maria Hadge, violoncello, Josh Perry, percussion, and Kelley Barnett, flute in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9919.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_153.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Hannah Levinson, viola, Maria Hadge, violoncello, Josh Perry, percussion, and Kelley Barnett, flute in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9920.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_154.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Maria Im, violin, Maria Hadge, violoncello, Yumi Ito, clarinet, and Kelley Barnett, flute in rehearsal of Kai-Young Chan's piece Shimmers in the Shivery Moon at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9929Jai Youn.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_155.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Maria Im, violin, Maria Hadge, violoncello, Vasko Dukovski, clarinet, Josh Perry, percussion, and Kelley Barnett, flute in rehearsal of Ioannis Mitsialis' piece Saturn, the Son of Uranus at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9932.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_156.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Maria Im, violin, Maria Hadge, violoncello, Vasko Dukovski, clarinet, Josh Perry, percussion, and Kelley Barnett, flute in rehearsal of Ioannis Mitsialis' piece Saturn, the Son of Uranus at June in Buffalo 2018, <unitdate type="inclusive">2018-06-06</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9933 Ioannis.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_157.tif</container>
+      <unittitle>Brad Lubman, conductor leads Signal Ensemble members and guests Irvine Arditti, violin, Kelli Kathman, flute, Olivia De Prato, violin, Vasko Dukovski, clarinet, Oliver Hagen, piano, Victor Lowrie Tafoya, viola, and Lauren Radnofsky, violoncello in rehearsal of David Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00562.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_158.tif</container>
+      <unittitle>Signal Ensemble guest Irvine Arditti, violin marking his music as Signal Ensemble member Olivia De Prato, violin looks on in rehearsal of David Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00563.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_159.tif</container>
+      <unittitle>Brad Lubman, conductor leads the Signal Ensemble members and guests Irvine Arditti and Olivia De Prato, violin, Kelli Kathman, flute, Victor Lowrie Tafoya, viola, Vasko Dukovski, clarinet, Lauren Radnofsky, violoncello, and Greg Chudzik, double bass in rehearsal of David Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00564.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_160.tif</container>
+      <unittitle>Composer David Felder coaches Brad Lubman, conductor, and Signal Ensemble members and guests Irvine Arditti and Olivia De Prato, violin, Kelli Kathman, flute, and Victor Lowrie Tafoya, viola on Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00569.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_161.tif</container>
+      <unittitle>Brad Lubman, conductor leads Signal Ensemble members and guests Kelli Kathman, flute, Victor Lowrie Tafoya, viola, Vasko Dukovski, clarinet, Lauren Radnofsky, violoncello, and Greg Chudzik, double bass in rehearsal of David Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00574.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_162.tif</container>
+      <unittitle>Signal Ensemble members and guests Rosanna Moore, harp, Bill Solomon, percussion, and Irvine Arditti and Olivia De Prato, violin in rehearsal of David Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00576.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_163.tif</container>
+      <unittitle>Signal Ensemble members and guests Irvine Arditti, violin, Kelli Kathman, flute, Olivia De Prato, violin, Vasko Dukovski, clarinet, and Victor Lowrie Tafoya, viola in rehearsal of David Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00577.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_164.tif</container>
+      <unittitle>Brad Lubman, conductor leads Signal Ensemble members and guests Olivia De Prato and Irvine Arditti, violin, Oliver Hagen, piano, Victor Lowrie Tafoya, viola, and Lauren Radnofsky, violoncello in rehearsal of David Felder's Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00581.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_165.tif</container>
+      <unittitle>Brad Lubman, conductor speaks with Greg Chudzik, double bass and xxx speaks with composer David Felder after rehearsal of David Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9935.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_166.tif</container>
+      <unittitle>Brad Lubman, conductor speaks with composer David Felder after a rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9938.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_167.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer rehearse Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00584.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_168.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer rehearse Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00585.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_169.tif</container>
+      <unittitle>Composer David Felder speaks with Signal Ensemble member Greg Chudzik, double bass as Brad Lubman, conductor and other Signal Ensemble members and guests Irvine Arditti, violin and Lauren Radnofsky, violoncello look on after a rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9940.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_170.tif</container>
+      <unittitle>Aaron Holloway-Nahum, sound engineer adjusts a microphone above Irvine Arditti, violin during rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9942.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_171.tif</container>
+      <unittitle>Aaron Holloway-Nahum, sound engineer adjusts a microphone above Irvine Arditti, violin during rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9943.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_172.tif</container>
+      <unittitle>Close up of a double bass microphone with Signal Ensemble members Olivia De Prato, violin, Kelli Kathman, flute, and Victor Lowrie Tafoya, viola in the background during rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9945.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_173.tif</container>
+      <unittitle>Paul Hembree, computer rehearsing Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9946.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_174.tif</container>
+      <unittitle>Paul Hembree, computer rehearsing Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9951.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_175.tif</container>
+      <unittitle>Paul Hembree, computer rehearsing Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9954.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_176.tif</container>
+      <unittitle>Composer Roger Reynolds speaks with Paul Hembree, computer during rehearsal of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9957Roger Reynolds.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_177.tif</container>
+      <unittitle>Composer Roger Reynolds speaks with Paul Hembree, computer during rehearsal of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9958.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_178.tif</container>
+      <unittitle>Composer Roger Reynolds speaks with Paul Hembree, computer during rehearsal of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9959.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_179.tif</container>
+      <unittitle>Composer Roger Reynolds speaks with Paul Hembree, computer during rehearsal of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9963.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_180.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer rehearse Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9965.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_181.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer rehearse Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9966.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_182.tif</container>
+      <unittitle>Composer Hilda Paredes at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9971 copy.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_183.tif</container>
+      <unittitle>Composer Hilda Paredes at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9971.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_184.tif</container>
+      <unittitle>Composer John Harbison giving a seminar to student composers at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9972.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_185.tif</container>
+      <unittitle>Composer John Harbison giving a seminar to student composers at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9974.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_186.tif</container>
+      <unittitle>Composer John Harbison giving a seminar to student composers at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9975John Harbison.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_187.tif</container>
+      <unittitle>Composer John Harbison giving a seminar to student composers at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9976.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_188.tif</container>
+      <unittitle>Composer John Harbison giving a seminar to student composers at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9977.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_189.tif</container>
+      <unittitle>Composer John Harbison giving a seminar to student composers at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9978.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_190.tif</container>
+      <unittitle>Mivos Quartet members Olivia De Prato and Lauren Cauley Kalal, violin, Victor Lowrie Tafoya, and Mariel Roberts, violoncello in rehearsal of Mathew Arrellin's Cacodemonic at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9979.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_191.tif</container>
+      <unittitle>Irvine Arditti, violin performing Hilda Paredes' piece In Memoriam Thomas Kakuska at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00587.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_192.tif</container>
+      <unittitle>Composers Roger Reynolds, Hilda Paredes, and Hans Thomalla posing at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9981.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_193.tif</container>
+      <unittitle>Composers Roger Reynolds, Hilda Paredes, and Hans Thomalla posing at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9985.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_194.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer perform Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9988.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_195.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer perform Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9992.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_196.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer perform Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9994.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_197.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer perform Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9995.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_198.tif</container>
+      <unittitle>Composer Hans Thomalla coaches Irvine Arditti violin, on Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9998.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_199.tif</container>
+      <unittitle>Composer Hans Thomalla coaches Irvine Arditti violin, on Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_9999.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_200.tif</container>
+      <unittitle>Irvine Arditti, violin performs Hans Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0002.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_201.tif</container>
+      <unittitle>Irvine Arditti, violin performs Hans Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0005.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_202.tif</container>
+      <unittitle>Composer Hilda Paredes acknowledges Irvine Arditti, violin after a performance of Paredes' piece In Memoriam Thomas Kakuska at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0011Hilda Paredes.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_203.tif</container>
+      <unittitle>Composer Hilda Paredes acknowledges Irvine Arditti, violin after a performance of Paredes' piece In Memoriam Thomas Kakuska at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0012Hilda Paredes.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_204.tif</container>
+      <unittitle>Composer Hilda Paredes acknowledges Irvine Arditti, violin after a performance of Paredes' piece In Memoriam Thomas Kakuska at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0013.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_205.tif</container>
+      <unittitle>Composer Hans Thomalla acknowledges Irvine Arditti, violin after a performance of Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0015.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_206.tif</container>
+      <unittitle>Composer Hans Thomalla acknowledges Irvine Arditti, violin after a performance of Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0016.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_207.tif</container>
+      <unittitle>Composer Hans Thomalla acknowledges Irvine Arditti, violin after a performance of Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0017.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_208.tif</container>
+      <unittitle>Composer Hans Thomalla acknowledges Irvine Arditti, violin after a performance of Thomalla's piece Air at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0018Hans Thomalla.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_209.tif</container>
+      <unittitle>Irvine Arditti, violin and Paul Hembree, computer acknowledge applause after a performance of Roger Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0019Paul  Hembree.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_210.tif</container>
+      <unittitle>Composer Roger Reynolds acknowledges Irvine Arditti, violin and Paul Hembree, computer after a performance of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0024.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_211.tif</container>
+      <unittitle>Composer Roger Reynolds acknowledges Irvine Arditti, violin and Paul Hembree, computer after a performance of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0025.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_212.tif</container>
+      <unittitle>Composer Roger Reynolds acknowledges Irvine Arditti, violin and Paul Hembree, computer after a performance of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0028.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_213.tif</container>
+      <unittitle>Composer Roger Reynolds acknowledges Irvine Arditti, violin and Paul Hembree, computer after a performance of Reynolds' piece Shifting/Drifting at June in Buffalo 2018, <unitdate type="inclusive">2018-06-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0031.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_214.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Hannah Levinson, viola, Maria Hadge, violoncello, Yumi Ito, clarinet, and Kelley Barnett, flute in rehearsal of Hans Thomalla's piece Momentsmusicaux at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00595.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_215.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Seuhiro, piano, Maria Im, violin, Maria Hadge, violoncello, and Yumi Ito, bass clarinet in rehearsal of Roger Reynolds' piece Shadowed Narrative at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00605.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_216.tif</container>
+      <unittitle>Composer Roger Reynolds coaches Moon Young Ha, conductor and Ensemble Mise-En members Maria Im, violin and Yumi Ito, bass clarinet at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00606Roger Reynolds.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_217.tif</container>
+      <unittitle>Composer Hans Thomalla and Moon Young Ha, conductor pose at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0045.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_218.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Maria Im, violin, Maria Hadge, violoncello, Yumi Suehiro, piano, Mark Broschinsky, trombone, Yumi Ito, clarinet, Kelley Barnett, flute, and Josh Perry, percussion in a performance of Louis Karchin's piece As the Circle Opens to Infinity... at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00610.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_219.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Maria Im, violin, Maria Hadge, violoncello, Yumi Suehiro, piano, Kelley Barnett, flute, Mark Broschinsky, trombone, Yumi Ito, clarinet, and Josh Perry, percussion in a performance of Louis Karchin's piece As the Circle Opens to Infinity... at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00615.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_220.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Maria Im, violin, Maria Hadge, violoncello, and Yumi Ito, clarinet in a performance of Roger Reynolds' piece Shadowed Narrative at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00627.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_221.tif</container>
+      <unittitle>Composer Roger Reynolds acknowledges Moon Young Ha, conductor and Ensemble Mise-En members Yumi Suehiro, piano, Maria Im, violin, and Maria Hadge, violoncello after a performance of Reynolds' piece Shadowed Narrative at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00630 Roger Reynolds.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_222.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Hannah Levinson, viola, Maria Im, violin, Maria Hadge, violoncello, Yumi Ito, clarinet, and Kelley Barnett, flute in a performance of Hilda Paredes' piece Siphonophorae at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00631 Hilda Paredes.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_223.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Hannah Levinson, viola, Maria Im, violin, Maria Hadge, violoncello, Yumi Ito, clarinet, and Kelley Barnett, flute in a performance of Hilda Paredes' piece Siphonophorae at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00631.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_224.tif</container>
+      <unittitle>Composer Hilda Paredes acknowledges Moon Young Ha, conductor and Ensemble Mise-En members Yumi Suehiro, piano, Hannah Levinson, viola, Maria Im, violin, Maria Hadge, violoncello, Yumi Ito, clarinet, and Kelley Barnett, flute after a performance of Paredes' piece Siphonophorae at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00632.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_225.tif</container>
+      <unittitle>Moon Young Ha, conductor leads Ensemble Mise-En members Yumi Suehiro, piano, Maria Hadge, violoncello, Maria Im, violin, Mark Broschinsky, trombone, Yumi Ito, clarinet, Josh Perry, percussion, and Kelley Barnett in a performance of Louis Karchin's piece As the Circle Opens to Infinity... at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00633.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_226.tif</container>
+      <unittitle>Composer Louis Karchin acknowledges Moon Young Ha, conductor and Ensemble Mise-En members Maria Im, violin, Maria Hadge, violoncello, Mark Broschinsky, trombone, Yumi Ito, clarinet, Josh Perry, percussion, and Kelley Barnett, flute after a performance of Karchin's piece As the Circle Opens to Infinity... at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00634.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_227.tif</container>
+      <unittitle>Moon Young Ha, conductor and Ensemble Mise-En members Maria Im, violin, Hannah Levinson, viola, Yumi Ito, clarinet, Kelley Barnett, flute, Maria Hadge, violoncello, Yumi Suehiro, piano, Josh Perry, percussion, and Mark Broschinsky, trombone pose with composers Louis Karchin, Roger Reynolds, and Hans Thomalla after a performance of their works at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00637.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_228.tif</container>
+      <unittitle>Moon Young Ha, conductor and Ensemble Mise-En members Maria Im, violin, Hannah Levinson, viola, Yumi Ito, clarinet, Kelley Barnett, flute, Maria Hadge, violoncello, Yumi Suehiro, piano, Josh Perry, percussion, and Mark Broschinsky, trombone pose with composers Louis Karchin, Roger Reynolds, and Hans Thomalla after a performance of their works at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name DSC00638.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_229.tif</container>
+      <unittitle>Moon Young Ha, conductor and Ensemble Mise-En members Maria Im, violin, Hannah Levinson, viola, Yumi Ito, clarinet, Kelley Barnett, flute, Maria Hadge, violoncello, Yumi Suehiro, piano, Josh Perry, percussion, and Mark Broschinsky, trombone pose with composers Louis Karchin and Roger Reynolds after a performance of their works at June in Buffalo 2018, <unitdate type="inclusive">2018-06-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0062.tif</p>
+         <p>Venue: Frank B. and Cameron Baird Music Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_230.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0133.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_231.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0136.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_232.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0137.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_233.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0139.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_234.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0140.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_235.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0141.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_236.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0142.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_237.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0145.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_238.tif</container>
+      <unittitle>JoAnn Falletta, conductor leads the Buffalo Philharmonic Orchestra in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0149.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_239.tif</container>
+      <unittitle>JoAnn Falletta, conductor leads the Buffalo Philharmonic Orchestra in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0153.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_240.tif</container>
+      <unittitle>JoAnn Falletta, conductor leads the Buffalo Philharmonic Orchestra in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0156.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_241.tif</container>
+      <unittitle>JoAnn Falletta, conductor leads the Buffalo Philharmonic Orchestra in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0163.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_242.tif</container>
+      <unittitle>JoAnn Falletta, conductor leads the Buffalo Philharmonic Orchestra in rehearsal at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0165.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_243.tif</container>
+      <unittitle>Composer David Felder speaks with JoAnn Falletta, conductor during rehearsal of Felder's piece Jeu de Tarot at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0166.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_244.tif</container>
+      <unittitle>Composer John Harbison speaks with JoAnn Falletta, conductor during rehearsal of Harbison's pieces Darkbloom: Overture for an Imagined Opera and Remembering Gatsby (Foxtrot for Orchestra) at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0169.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_245.tif</container>
+      <unittitle>Composer John Harbison speaks with JoAnn Falletta, conductor during rehearsal of Harbison's pieces Darkbloom: Overture for an Imagined Opera and Remembering Gatsby (Foxtrot for Orchestra) at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0174.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_246.tif</container>
+      <unittitle>Composer John Harbison speaks with JoAnn Falletta, conductor during rehearsal of Harbison's pieces Darkbloom: Overture for an Imagined Opera and Remembering Gatsby (Foxtrot for Orchestra) at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0175.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_247.tif</container>
+      <unittitle>Composer John Harbison speaks with JoAnn Falletta, conductor during rehearsal of Harbison's pieces Darkbloom: Overture for an Imagined Opera and Remembering Gatsby (Foxtrot for Orchestra) at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0176.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_248.tif</container>
+      <unittitle>Composer John Harbison speaks with JoAnn Falletta, conductor during rehearsal of Harbison's pieces Darkbloom: Overture for an Imagined Opera and Remembering Gatsby (Foxtrot for Orchestra) at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0177.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_249.tif</container>
+      <unittitle>Composer John Harbison speaks with JoAnn Falletta, conductor during rehearsal of Harbison's pieces Darkbloom: Overture for an Imagined Opera and Remembering Gatsby (Foxtrot for Orchestra) at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0178.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="image-file">ubmu0081_250.tif</container>
+      <unittitle>Composer John Harbison speaks with JoAnn Falletta, conductor during rehearsal of Harbison's pieces Darkbloom: Overture for an Imagined Opera and Remembering Gatsby (Foxtrot for Orchestra) at June in Buffalo 2018, <unitdate type="inclusive">2018-06-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 color digital image (tiff format)</extent>
+      </physdesc>
+      <note>
+         <p>Original file name _MG_0179.tif</p>
+         <p>Venue: Frederick C. and Alice Slee Chamber Hall (State University of New York at Buffalo)</p>
+      </note>
+   </did>
+</c01>
+
+
+	 
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <corpname source="lcnaf" encodinganalog="611">June in
+		Buffalo (Festival) (Buffalo, N.Y.)--Photographs</corpname> 
+	   <subject source="lcsh" encodinganalog="650">Composers--Photographs</subject> 
+	   <subject source="lcsh" encodinganalog="650">Music festivals--New York
+		(State)--Buffalo--Photographs</subject> 
+	   <subject source="lcsh" encodinganalog="650">Musicians--Photographs</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="gmgpc">Digital
+		photographs</genreform> 
+	   <genreform encodinganalog="655" source="gmgpc">Portrait
+		photographs</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+    <descgrp type="add"> 
+	 <head>Associated Material</head> 
+	 <relatedmaterial encodinganalog="544 1"> 
+	   <head>Related Resources</head> 
+	   <relatedmaterial> 
+		<head>Related Resources in the Music Library</head> 
+		<list type="deflist"> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0018.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2000 </archref> Mus. Arc. 18 </label> 
+		    <item>Finding aid for collection of photographs for 2000 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0019.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2001 </archref> Mus. Arc. 19</label> 
+		    <item>Finding aid for collection of photographs for 2001 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0020.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2002 </archref> Mus. Arc. 20</label> 
+		    <item>Finding aid for collection of photographs for 2002 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0021.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2003 </archref> Mus. Arc. 21 </label> 
+		    <item>Finding aid for collection of photographs for 2003 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0025.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2004 </archref> Mus. Arc. 25 </label> 
+		    <item>Finding aid for collection of photographs for 2004 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2005 </archref> Mus. Arc. 27 </label> 
+		    <item>Finding aid for collection of photographs for 2005 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0027.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2006 </archref> Mus. Arc. 29 </label> 
+		    <item>Finding aid for collection of photographs for 2006 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0038.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2007 </archref> Mus. Arc. 38 </label> 
+		    <item>Finding aid for collection of photographs for 2007 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0039.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2008</archref> Mus. Arc. 39 </label> 
+		    <item>Finding aid for collection of photographs for 2008 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0050.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2009</archref> Mus. Arc. 50 </label> 
+		    <item>Finding aid for collection of photographs for 2009 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0055.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2010</archref> Mus. Arc. 55 </label> 
+		    <item>Finding aid for collection of photographs for 2010 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0056.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2011</archref> Mus. Arc. 56</label> 
+		    <item>Finding aid for collection of photographs for 2011 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0060.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2012</archref> Mus. Arc. 60</label> 
+		    <item>Finding aid for collection of photographs for 2012 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0066.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2013</archref> Mus. Arc. 66</label> 
+		    <item>Finding aid for collection of photographs for 2013 June in
+			 Buffalo. </item> 
+		  </defitem> 
+		
+		  <defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0066.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2014</archref> Mus. Arc. 67</label> 
+		    <item>Finding aid for collection of photographs for 2014 June in
+			 Buffalo. </item> 
+		  </defitem> 
+<defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0074.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2015</archref> Mus. Arc. 74</label> 
+		    <item>Finding aid for collection of photographs for 2015 June in
+			 Buffalo. </item> 
+		  </defitem>
+<defitem> 
+		    <label> 
+			 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0079.xml" show="new" actuate="onrequest" role="text/html">Irene Haupt Photographs of June
+			   in Buffalo 2016</archref> Mus. Arc. 79</label> 
+		    <item>Finding aid for collection of photographs for 2016 June in
+			 Buffalo. </item> 
+		  </defitem>		  	  
+		  <defitem> 
+		    <label> 
+			 <archref href="http://digital.lib.buffalo.edu/cdm/landingpage/collection/LIB-MUS009" show="new" actuate="onrequest" role="text/html">June in Buffalo Photograph
+			   Collection</archref> </label> 
+		    <item>A selection of images from the June in Buffalo festivals
+			 are available through University at Buffalo Libraries Digital
+			 Collections.</item> 
+		  </defitem> 
+		</list> 
+	   </relatedmaterial> 
+	 </relatedmaterial> 
+    </descgrp> 
+  </archdesc> 
+</ead> 

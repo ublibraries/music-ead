@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 42::Carl Winning Collection of Scores)//EN">ubmu0042
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Carl Winning
+			 Collection of Scores, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1891/1922"> 1891-1922 </date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay"> Winning (Carl)
+			 Collection of Scores </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, December 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a"> Carl Winning Collection
+		  of Scores, 
+		  <unitdate encodinganalog="245$f" normal="1891/1922" type="inclusive"
+			datechar="creation">1891-1922 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 42</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" rules="aacr2">Winning,
+			 Carl, 1872-1924</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+		  boxes</extent>
+		  <extent unit="folder" encodinganalog="300$a">(60 folders)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> Includes
+		  song lyrics in <language encodinganalog="041" langcode="eng">English</language>
+		  and <language langcode="ger">German</language>.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Contains 45 manuscript
+		  compositions, 4 manuscript arrangements, and 5 published compositions. It also
+		  contains an article written by Winning and two programs for concerts in
+		  Buffalo, New York.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Carl Winning Collection of Scores, 1891-1922,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Diane Genco, 2007.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Julia Cordani.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head>
+		<p>The following biography is quoted in full from the English translation
+		  of the entry for Winning in 
+		<title render="italic">Buffalo und sein Deutschtum</title>
+		(Deutsch-Amerikanische Historische und Biographische Gesellschaft, 1911-12. The
+		English translation by Susan Kriegbaum-Hanks, titled 
+		<title render="italic">Buffalo and its German Community</title>, is
+		available online at 
+		<extref href="http://www.archivaria.com/BusDbios/BusDbios18.html"
+		 show="new" actuate="onrequest"
+		 role="text/html">http://www.archivaria.com/BusDbios/BusDbios18.html</extref></p>
+		
+		<p> Among the Germans of Buffalo Mr. Karl Georg Winning, PhD. of 17
+		  Crescent Avenue, is celebrated as a personality of great learning especially in
+		  the philosophy of music. His reputation for profound understanding of art and
+		  strong musical aptitude precede him. Dr. Winning was born on March 15, 1872 in
+		  Frankfurt on the Oder. He was the son of the respected school director Karl
+		  Winning and his wife Rosa R., daughter of the Prussian General Music Director
+		  G. Pieske. After passing his exams at the academic high school in Frankfurt he
+		  went to the universities in Halle, Jena, and Berlin as well as the Royal
+		  Academy of Berlin to study music, the history of art, and the natural sciences.
+		  He received his doctorate in the Department of Philosophy. He fulfilled his
+		  military obligation in the Prussian Regiment of the Prince's Grenadiers No. 8
+		  in Frankfurt on the Oder. He advanced to the rank of Reserve Officer.</p>
+		<p>In 1897 he became a correspondent for the North German Press Corps. In
+		  1900 he became a member of the International Geographic Society in Paris, and a
+		  contributor to the journals published at Globus and Physikalische Forschungen
+		  (Physical Research). In 1893 he was musical director for the Bismarck Festival
+		  in Dresden. In 1896 he was choir master of the "Christus" performances in
+		  Bremen. From 1898 to 1900 he conducted concert and research tours through
+		  Russia, the Caucasus Mountains, and Persia. He published many compositions for
+		  orchestra, voice, piano and organ. He produced long scientific works on
+		  acoustics, tone formation, Slavic folksongs, Persian and Islamic tonality
+		  systems, audio acuteness and hearing thresholds of humans and animals, and
+		  other subjects. Most of these works are published through E. Trowitz,
+		  Bruckmann, Ries, and Erler Publishers.</p>
+		<p>In September 1907 Dr. Winning came to Buffalo to assume the baton for
+		  the Buffalo Sängerbund. He's been musical conductor ever since. The Sängerbund,
+		  Buffalo's oldest singing society, owes much of its reputation as one of the
+		  largest complex tone-producing groups in this part of the country to Dr.
+		  Winning's ability and untiring effort.</p> 
+		<p>In December 1901 Dr. Winning married Miss Gussie Walldorf in Berlin.
+		  She was the youngest daughter of apothecary Dr. H. Walldorf of New York. One
+		  son, Wolfgang Karl Günther born on September 20, 1904, is the pride and joy of
+		  his parents. </p> 
+		<p>According to an entry in the November 21, 1924 <title render="italic">Buffalo Courier</title>, Karl Winning died in Buffalo, November 19, 1924. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Contains 45 manuscript compositions, 4 manuscript arrangements, and 5
+		  published compositions by Carl Winning. It also contains an article written by
+		  Winning and two programs for concerts in Buffalo, New York. Three published
+		  scores of music by other composers and two manuscript scores by unidentified
+		  composers are also included. Many of the works titled in German have been left
+		  as unidentified for the time being until a more thorough examination of
+		  Winning's handwriting can be used to decipher the titles accurately. The
+		  collection has been dated according to the content related directly to Winning,
+		  not including the published scores he owned by other composers. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in four series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				Compositions by Carl Winning</ref></item>
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				Arrangements by Carl Winning</ref></item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				Compositions by other composers</ref></item>
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV.
+				Papers</ref></item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Compositions by Carl Winning, 
+				<unitdate type="inclusive" normal="1891/1922">1891-1922 </unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 1-50</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains manuscript and published works</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Arranged into two subseries:</p>
+			 <list> 
+				<item> 
+				  <ref actuate="onrequest" show="replace" target="series1a">I.A
+					 Manuscript scores by Carl Winning</ref></item>
+				<item> 
+				  <ref actuate="onrequest" show="replace" target="series1b">IB.
+					 Published scores by Carl Winning</ref></item> 
+			 </list> 
+		  </arrangement> 
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series1a">I.A</unitid>
+				<unittitle>Manuscript scores by Carl Winning, 
+				  <unitdate type="inclusive"
+				  normal="1891/1922">1891-1922</unitdate> </unittitle>
+				<physdesc><extent>Folder 1-45</extent></physdesc>
+			 </did>
+			 
+			 <arrangement>
+				<p>Alphabetically arranged by title.</p>
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">01</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">2 Ballade für Clavier, op. 79</title>, 
+					 <unitdate type="inclusive">1916</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (12 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>For Miss Mary Howard. The "2" in the title may indicate it is
+					 the 2nd of two ballades since there appears to only be a single work.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">02</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Ballet music for a New York
+						festival</title>, 
+					 <unitdate type="inclusive">1902 or 1903</unitdate> </unittitle>
+				  
+				  <physdesc> <extent>1 manuscript score (6 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Title transcribed from pencil note in caption.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">03</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Canon</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (1 leaf)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Unspecified instrumentation</p> 
+				  <p>Trick canon performable right side up or upside down.
+					 Remainder of title illegible.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">04</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Carnevalschwank für Pianoforte, op.
+						14</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (9 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">05</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Clavierauszug zum Manfred, symphonische
+						Dichtung, op. VII</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (8 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Unable to establish connection between this work and Schumann
+					 or Tchaikovsky Manfred compositions.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">06</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Dance-Caprice, op. 89, no. 6</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (10 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">07</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Drei Lieder für gemischten Chor, op.
+						82</title>, 
+					 <unitdate type="inclusive">1910</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For SATB choir</p> 
+				  <p>Words in German. Includes a 2nd copy of the 3rd piece.</p> 
+				  <p>Schlummerlied -- Untitled, without words --Erwacht.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">08</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Humoreske, op. 89, no. 3</title>, 
+					 <unitdate type="inclusive">undated</unitdate></unittitle> 
+				  <physdesc> <extent>1 manuscript score (4 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">09</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">In sonnigen Hain</title>, 
+					 <unitdate type="inclusive">1916</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (2 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Caption: Niagara Falls, August 1916. Words in German.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">10</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">In vino veritas</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (2 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">11</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Koenig Lear: symphonische Dichtung,
+						Clavierauszug</title>, 
+					 <unitdate type="inclusive">1890</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (33 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Additional illegible text on title page may indicate dates of
+					 performances.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">12</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Malven blüte</title>, 
+					 <unitdate type="inclusive">1916</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (1 leaf)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano.</p> 
+				  <p>Words in German.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">13</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Novellette, op. 89, no. 4</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (11 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">14</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Our highest joys succeed our
+						griefs</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score and separate parts for
+					 treble and bass</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For 4-voice choir</p> 
+				  <p>Text from Methodist Hymnal, 1905 (page 377).</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">15</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Rätselcanon</title>, 
+					 <unitdate type="inclusive">1922</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (1 leaf)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Unspecified instrumentation</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">16</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Scherzo, op. 89, no. 5</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (8 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">17</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Scherzo und Finale: 2 Clavierstücke für
+						Pianoforte, op. 17</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (5 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">18</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Scherzo no. 2</title>, 
+					 <unitdate type="inclusive">1893?</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (13 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>"Dresden" -- title page.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">19</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Schlaf mein Jesulein</title>, 
+					 <unitdate type="inclusive">1914?</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score and 6 parts</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo voice, two sopranos, and alto</p> 
+				  <p>Words in German.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">20</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Sehnsucht? Eifersucht?</title>, 
+					 <unitdate type="inclusive">1916</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (2 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Words in German.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">21</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Solstice (Sonnenwende): First American
+						suite for piano, op. 86. No. 1: Prelude alla toccata</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">22</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Solstice (Sonnenwende): First American
+						suite for piano, op. 86. No. 2: Impromptu</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (6 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">23</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Solstice (Sonnenwende): First American
+						suite for piano, op. 86. No. 3: Notturno</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (8 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">24</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Solstice (Sonnenwende): First American
+						suite for piano, op. 86. No. 4: Caprice</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (8 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Includes first 2 pages of a second copy.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">25</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Solstice (Sonnenwende): First American
+						suite for piano, op. 86. No. 5: Intermezzo</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (4 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">26</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Solstice (Sonnenwende): First American
+						suite for piano, op. 86. No. 6: Soaring</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (11 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">27</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Spinn! Spinn!</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (3 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For 4-part vocal ensemble</p> 
+				  <p>Words in German.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">28</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Tatenfest</title>, 
+					 <unitdate type="inclusive">1914</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (2 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For 2 sopranos</p> 
+				  <p>Words in German. First line of text: Was macht irh lass.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">29</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Thema zur Tarandelle
+						(incomplete)</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (12 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Chiefly sketches, includes a portion with heading Allegro
+					 molto agitato.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">30</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Valsette</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (4 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For violin and piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">31</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Weihnacht: soprano solo</title>, 
+					 <unitdate type="inclusive">1914</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (1 leaf)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo soprano</p> 
+				  <p>Words in German.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">32</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Wir weiss wie das wird</title>, 
+					 <unitdate type="inclusive">1914</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (2 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For SATB choir</p> 
+				  <p>Words in German.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">33</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified piano composition, C
+						minor</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (7 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">34</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified piano composition, D
+						major</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (3 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">35</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified piano composition: In
+						…</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (2 parts: 12 and 17
+					 pages)</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Title illegible, begins with "In". Two scores grouped together
+					 based on recognizably common thematic material.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">36</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified piano composition, no.
+						2-3</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (4 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Work captioned No. 3 is incomplete.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">37</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified piano composition</title>, 
+					 <unitdate type="inclusive">1891</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (8 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Pencil inscription at end of score: Berlin 1891.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">38</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified piano and violin
+						composition</title>, 
+					 <unitdate type="inclusive">1913</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (3 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For violin and piano</p> 
+				  <p>Caption title illegible.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">39</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified song in German, op. 10, no.
+						2</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (3 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Caption title illegible.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">40</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified song in German, op. 12, no.
+						2</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (6 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Caption title illegible.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">41</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified song in German, L…</title>,
+					 
+					 <unitdate type="inclusive">1891</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (4 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Caption title illegible but may begin with "L".
+					 Incomplete.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">42</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified song in German</title>, 
+					 <unitdate type="inclusive">1895</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (2 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Caption title illegible.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">43</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified song in German, Z…</title>,
+					 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 manuscript score (21 pages)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Caption title illegible but may begin with "Z".</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">44</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified sketches</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 folder (circa 31 manuscript leaves)</extent>
+					 </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Chiefly unspecified instrumentation</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">45</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Unidentified sketches grouped by letter
+						designations</title>, 
+					 <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				  <physdesc> <extent>1 folder (10 groupings of manuscript
+					 leaves)</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Chiefly unspecified instrumentation.</p> 
+				  <p>Grouped by Winnings markings of lettering.</p> 
+				</scopecontent>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series1b">I.B</unitid>
+				<unittitle>Published scores by Carl Winning, 
+				  <unitdate type="inclusive" normal="1894/1898">circa
+					 1894-1898</unitdate> </unittitle>
+				<physdesc><extent>Folder 46-50</extent></physdesc>
+			 </did>
+			 <scopecontent>
+				<p>Four scores published by Verlag von Ries und Erler, Berlin. </p>
+			 </scopecontent>
+			 <arrangement>
+				<p>Alphabetically arranged by title.</p>
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">46</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Drei Lieder für eine Singstimme mit
+						Clavierbegleitung, op. 15</title>, 
+					 <unitdate type="inclusive">circa 1898</unitdate> </unittitle> 
+				  <physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Verlag von Ries und Erler</p> 
+				  <p>Wie der Mond kam es gegangen (H. Seidel) -- Unterm
+					 Machandelbaum (E. v. Wildenbruch) -- Liebeslied (Schnadahüpfl).</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">47</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Intermezzi, op. 14, no. 3-6</title>, 
+					 <unitdate type="inclusive">circa 1897</unitdate> </unittitle> 
+				  <physdesc> <extent>1 score (11 pages)</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Verlag von Ries und Erler</p> 
+				  <p>Heft II.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">48</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Sonnenstäubchen: 8 Lieder aus dem Serre
+						von Feisi für eine Singstimme mit Klavierbegleitung, op. 4</title>, 
+					 <unitdate type="inclusive">circa 1895</unitdate> </unittitle> 
+				  <physdesc> <extent>1 score (11 pages)</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For voice and piano</p> 
+				  <p>Verlag von Ries und Erler</p> 
+				  <p>Dem Seelenkranken -- Der Sonne -- Meiner Seele -- Dem Ewigen
+					 -- Mir -- Dem All -- Den Pilgern -- Dem Licht.</p> 
+				</scopecontent>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">49</container> 
+				  <unittitle> 
+					 <persname>Winning, Carl</persname>: 
+					 <title render="italic">Valse brillante pour piano, op.
+						5</title>, 
+					 <unitdate type="inclusive">circa 1894</unitdate> </unittitle> 
+				  <physdesc> <extent>1 score (13 pages)</extent> </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano</p> 
+				  <p>Verlag von Ries und Erler</p> 
+				  <p>Name stated as Charles Winning on cover, Carl Winning in
+					 caption.</p> 
+				</scopecontent>
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2"> II.</unitid> 
+			 <unittitle>Arrangements by Carl Winning, 
+				<unitdate type="inclusive" normal="1911/1912">1911-1912 </unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 51-54</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains manuscript arrangements of works by other composers.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Alphabetically arranged by composer surname.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">51</container> 
+				<unittitle> 
+				  <persname>Brahms, Johannes</persname>: 
+				  <title render="italic">Lieder, op. 49. Wiegenlied,
+					 arranged</title>, 
+				  <unitdate type="inclusive">1911</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (2 pages)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Arranged by Carl Winning.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>For 4-voice men's choir</p> 
+				<p>Words in German.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">52</container> 
+				<unittitle> 
+				  <persname>Gabriel, Charles Hutchinson</persname>: 
+				  <title render="italic">Only a contrite sinner</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (1 leaf)</extent> </physdesc>
+				
+				<note> 
+				  <p>Arranged by Carl Winning.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>For 4-voice choir.</p> 
+				<p>Words in English by Ida Reed.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">53</container> 
+				<unittitle> 
+				  <persname>Grieg, Edvard</persname>: 
+				  <title render="italic">Peer Gynt. Morgenstemning,
+					 arranged</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>1 manuscript score (4 pages)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Arranged by Carl Winning.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>For organ</p> 
+				<p>Lacking title.</p> 
+				<p>Followed by a setting of Bach's 
+				<title render="italic">Ein feste Burg ist unser Gott</title> (2
+				pages)</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">54</container> 
+				<unittitle> 
+				  <persname>Weber, Carl Maria</persname>: 
+				  <title render="italic">Webers op. 65 mit canonsichen
+					 Veranderungen für 2 Claviere</title>, 
+				  <unitdate type="inclusive">1912</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript parts (24, 14 pages)</extent>
+				  </physdesc> 
+				<note> 
+				  <p>Arranged by Carl Winning.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>For 2 pianos</p> 
+				<p>Arrangement of Weber's 
+				<title render="italic">Aufforderung zum Tanze</title>.</p> 
+			 </scopecontent>
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Compositions by other composers, 
+				<unitdate type="inclusive" normal="1837/1905">1837-1905 </unitdate>
+				</unittitle> 
+			 <physdesc><extent> Folder 55-58</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains scores by other composers.</p>
+		  </scopecontent>
+		  <arrangement>
+			 <p>Alphabetically arranged by composer surname.</p>
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">55</container> 
+				<unittitle> 
+				  <persname>Mason, William</persname>: 
+				  <title render="italic">System of fundamental technic for modern
+					 piano playing</title>, 
+				  <unitdate type="inclusive">1905</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (189 pages)</extent> </physdesc>
+				<note>
+				  <p>Edited by W.S.B. Mathews.</p>
+				</note> 
+			 </did>
+			 <scopecontent>
+				<p>Oliver Ditson Company.</p>
+			 </scopecontent> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">56</container> 
+				<unittitle> 
+				  <title render="italic">Bound volume containing piano etudes by
+					 Kessler, Kreutzer, Czerny, and Rubinstein</title>, 
+				  <unitdate type="inclusive">1837-1887</unitdate> </unittitle> 
+				<physdesc> <extent>1 volume containing five works</extent>
+				  </physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>For solo piano</p>
+				<p>Some works marked with performance/study markings.</p> 
+				<p>20 ausgewählte Etuden für Pianoforte op. 100 Heft II / Joseph
+				  Christoph Kessler (Julius Engelmann, 1887) -- Die Schule des Fugenspiels und
+				  des Vortrags mehrstimiger Sätze und deren besonderer Schwierigkeiten (Diabelli,
+				  circa 1837) ; Schule des Virtuosen, op. 365 (C.F. Peters, 1887) / Czerny -- 20
+				  ausgewählte Etuden für Pianoforte op. 100 Heft I / Joseph Christoph Kessler
+				  (Julius Engelmann, 1887) -- 6 Etudes pour le piano, op. 23 / Anton Rubinstein
+				  (C.F. Peters, circa 1880).</p>
+			 </scopecontent> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">57</container> 
+				<unittitle> 
+				  <persname>Rudorff, Ernst</persname>: 
+				  <title render="italic">Sechs vierhändige Clavier-Stücke, op.
+					 4</title>, 
+				  <unitdate type="inclusive">circa 1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (pages 5-33)</extent> </physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>For piano, 4 hands</p>
+				<p>Includes markings. Caption of page 5: "Carl Winning, op. 18 no.
+				  2, 1892".</p>
+				<p>Breitkopf und Härtel</p>
+				<p>Lacking cover, title page, and pages 1-4. Identified as
+				  Rudorff's work through comparison.</p> 
+			 </scopecontent> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">58</container> 
+				<unittitle> Unidentified composers: 
+				  <title render="italic">Fallen star ; I'm getting older</title>, 
+				  <unitdate type="inclusive">undated</unitdate> </unittitle> 
+				<physdesc> <extent>2 manuscript scores</extent> </physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>For voice and piano</p>
+				<p>On verso of I'm getting older: I'm living in hopes / words and
+				  music by Victor Marcy.</p>
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Papers, 
+				<unitdate type="inclusive" normal="1900/1922">1900-1922
+				</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 59-60</extent></physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Contains concert programs and an article by Winning.</p>
+		  </scopecontent>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">59</container> 
+				<unittitle> 
+				  <persname>Winning, Carl</persname>: 
+				  <title render="italic">Bilder aus Russland</title>, 
+				  <unitdate type="inclusive">1900</unitdate> </unittitle> 
+				<physdesc> <extent>1 bound volume</extent> </physdesc>
+				<note>
+				  <p>In German.</p>
+				</note> 
+			 </did>
+			 <scopecontent>
+				<p>Contains Winning's serially published article as clipped from a
+				  journal and pasted onto pages.</p>
+			 </scopecontent> 
+		  </c02>
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="folder">60</container> 
+				<unittitle>Concert programs, 
+				  <unitdate type="inclusive">1912</unitdate>, <unitdate type="inclusive">1922</unitdate> </unittitle> 
+				<physdesc> <extent>2 programs</extent> </physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Sunday April 14 1912: 139th free organ concert at the City
+				  Convention Hall, Buffalo, N.Y. given by Dr. Carl Winning -- April 20 1922
+				  Schwaebischer Saengerbund, Dr. Carl Winning, Director. Zweites Saison Konzert,
+				  Elmwood Music Halle.</p>
+			 </scopecontent> 
+		  </c02> 
+		</c01>
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Music--Manuscripts</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Winning, Carl, 1872-1924--Archives</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="rbgenr">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<separatedmaterial encodinganalog="544 0">
+		  <head>Separated Material</head> 
+		  <p>Some standard editions of piano literture received with the collection were discarded due to very poor condition. </p> 
+		</separatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

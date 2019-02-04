@@ -59,8 +59,8 @@
 					1941-1993</persname>
 			</origination>
 			<physdesc label="Extent">
-				<extent unit="box" encodinganalog="300$a">50 boxes</extent>
-				<extent unit="item" encodinganalog="300$a"> (1218 folders)</extent>
+				<extent unit="box" encodinganalog="300$a">57 boxes</extent>
+				<extent unit="item" encodinganalog="300$a"> (1353 folders)</extent>
 			</physdesc>
 			<langmaterial label="Language of Material" encodinganalog="546">Collection contains
 				material, including song texts, in multiple languages, including <language
@@ -73,7 +73,7 @@
 					Library</subarea></corpname>
 			</repository>
 			<abstract label="Abstract" encodinganalog="520$a"> The collection contains approximately
-				1200 scores, half of which bear markings entered by Mikhashoff or his colleagues in
+				1300 scores, half of which bear markings entered by Mikhashoff or his colleagues in
 				preparation for performance. The collection includes manuscripts and print
 				publications, both originals and reproductions. </abstract>
 		</did>
@@ -100,7 +100,7 @@
 			</userestrict>
 			<acqinfo encodinganalog="541">
 				<head>Acquisition Information</head>
-				<p>Gift of the estate of Yvar Mikhashoff, 1993.</p>
+				<p>Gift of the estate of Yvar Mikhashoff, 1993. Additions in 2016 from Amy Williams.</p>
 			</acqinfo>
 			<accruals encodinganalog="584">
 				<head>Accruals and Additions</head>
@@ -222,6 +222,12 @@
 					<ref actuate="onrequest" show="replace" target="series7">VII. Program and
 						thematic groupings</ref>
 				</item>
+<item>
+					<ref actuate="onrequest" show="replace" target="series8">VIII. Additional annotated scores received 2016 </ref>
+				</item>	
+<item>
+					<ref actuate="onrequest" show="replace" target="series9">IX. Additional unmarked scores received 2016 </ref>
+				</item>									
 			</list>
 		</arrangement>
 		<dsc type="combined">
@@ -26998,6 +27004,2879 @@
 					</c03>
 				</c02>
 			</c01>
+<c01 level="series">
+				<did>
+					<unitid id="series8">VIII.</unitid>
+					<unittitle>Additional annotated scores received 2016, <unitdate type="inclusive"
+							normal="1916/1994">1916-1994</unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Folder 1219-1337</extent>
+					</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains scores with performance markings and/or inscriptions from composers.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Chiefly arranged in alphabetical order by composer surname and then alphabetically by
+						title.</p>
+				</arrangement>
+
+
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1219</container>
+      <unittitle>
+         <persname>Amy, Gilbert</persname>
+         <title>Épigrammes, 
+            </title>
+         <unitdate type="inclusive">1968</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (4 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from the composer to Mikhashoff on title page.</p>
+         <p>Publisher: Heugel</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1220</container>
+      <unittitle>
+         <persname>Beeson, Jack, 1921-2000</persname>
+         <title>Fourth sonata for piano, 
+            </title>
+         <unitdate type="inclusive">1951</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (17 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Beeson to Mikhashoff on cover.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1221</container>
+      <unittitle>
+         <persname>Beeson, Jack, 1921-2000</persname>
+         <title>Fourth piano sonata, 
+            </title>
+         <unitdate type="inclusive">1984</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (16 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Beeson to Mikhashoff on cover.</p>
+         <p>Publisher: Theodore Presser</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1222</container>
+      <unittitle>
+         <persname>Bennett, Mark (Composer)</persname>
+         <title>Drunken boat, 
+            </title>
+         <unitdate type="inclusive">1988</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (31 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For tape, piano, and narrator</p>
+         <p>Inscription from Bennett to Mikhashoff in caption. Pencil markings of check marks and several renotations included.</p>
+         <p>Text by Arthur Rimbaud; translation by Paul Schmidt.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1223</container>
+      <unittitle>
+         <persname>Biscardi, Chester</persname>
+         <title>Piano sonata, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (24 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Biscardi to Mikhashoff on title page, dated 1990.</p>
+         <p>Publisher: C. F. Peters</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1224</container>
+      <unittitle>
+         <persname>Biscardi, Chester</persname>
+         <title>Trio for violin, cello and piano, 
+            </title>
+         <unitdate type="inclusive">1977</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>3 scores (39 pages each)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For violin, violoncello, and piano</p>
+         <p>Inscription from Biscardi to Mikhashoff inside front cover.</p>
+         <p>Publisher: Merion Music</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1225</container>
+      <unittitle>
+         <persname>Bohlen, Donald</persname>
+         <title>Transmutational etudes, 
+            </title>
+         <unitdate type="inclusive">1979</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (48 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Bohlen and Mikhashoff. Includes time signature markings in red pen throughout score, correction of one marking in blue pen on p. 39, and several pencil performance markings by composer.</p>
+         <p>Various textual excerpts placed throughout the score by the composer.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Adjacent -- Image -- Superimposed -- Christopher alone -- Prolation -- Soliloquy -- Miniature -- Image -- Dispersed.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1226</container>
+      <unittitle>
+         <persname>Bowles, Paul, 1910-1999</persname>
+         <title>Concerto for two pianos, winds and percussion, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (184 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (reproduction of manuscript)</p>
+         <p>For two pianos, winds, and percussion</p>
+         <p>Inscription from Bowles to Mikhashoff on prefatory page. Includes many pencil performance markings.</p>
+         <p>Publisher: Soundings Press</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1227</container>
+      <unittitle>
+         <persname>Bowles, Paul, 1910-1999</persname>
+         <title>Selected songs, 
+            </title>
+         <unitdate type="inclusive">1984</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (169 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For voice and piano</p>
+         <p>Inscription from Bowles to Mikhashoff on title page, dted 1990.  Includes various pencil performance markings.</p>
+         <p>Publisher: Soundings Press</p>
+         <p>Includes both reproductions of manuscripts and engraved works.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1228</container>
+      <unittitle>
+         <persname>Brewaeys, Luc</persname>
+         <title>Intervals, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (9 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Holograph</p>
+         <p>For solo piano</p>
+         <p>Inscription from Brewaeys to Mikhashoff in caption.</p>
+         <p>Analysis of the work by the composer follows the composition.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1229</container>
+      <unittitle>
+         <persname>Campo, Alberto de, 1964-</persname>
+         <title>Untitled work for solo piano, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (13 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by de Campo.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">51</container>
+      <container type="folder">1230</container>
+      <unittitle>
+         <persname>Colding-Jørgensen, Henrik</persname>
+         <title>Emanzipierte Klavier, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Colding-Jørgensen to Mikhashoff on title page.</p>
+         <p>Publisher: Edition Egtved</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1231</container>
+      <unittitle>
+         <persname>Costantini, Andreina</persname>
+         <title>Mouvement per pianoforte, 
+            </title>
+         <unitdate type="inclusive">1992</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (13 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Costantini to Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1232</container>
+      <unittitle>
+         <persname>Diemente, Edward</persname>
+         <title>Eleven : a Homage to Art Tatum, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (10 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Diemente from Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1233</container>
+      <unittitle>
+         <persname>Dutilleux, Henri, 1916-</persname>
+         <title>Sonate, 
+            </title>
+         <unitdate type="inclusive">1949</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (55 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Dutilleux to Mikhashoff on cover, dated 1985. Includes small number of piano fingerings and other performance markings.</p>
+         <p>Publisher: Durand S. A.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1234</container>
+      <unittitle>
+         <persname>Fariñas, Carlos, 1934-</persname>
+         <title>Alta-gracia, 
+            </title>
+         <unitdate type="inclusive">1988</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (8 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (Reproduction of manuscript)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Fariñas to Mikhashoff in caption, dated 1993.</p>
+         <p>Publisher: Editora Musical de Cuba</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1235</container>
+      <unittitle>
+         <persname>Febel, Reinhard, 1952-</persname>
+         <title>Vier etüden für Klavier, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (23 Pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Febel to Mikhashoff on title page.</p>
+         <p>Publisher: Moeck Verlag</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1236</container>
+      <unittitle>
+         <persname>Fennimore, Joseph</persname>
+         <title>Armistice : three pieces, 
+            </title>
+         <unitdate type="inclusive">1977</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (30 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Fennimore to Mikhashoff on cover verso.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Марш (March) -- Sans souci -- Ebenholz und Elfenbein.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1237</container>
+      <unittitle>
+         <persname>Finney, Ross Lee, 1906-</persname>
+         <title>Piano sonata no. 4 in E major (Christmastime, 1945), 
+            </title>
+         <unitdate type="inclusive">1947</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (18 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Finney to Mikhashoff on cover. Includes some textual performance markings in blue pen by Mikhashoff.</p>
+         <p>Publisher: Mercury Music</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Hymn -- Invention -- Nocturne -- Toccata -- Hymn.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1238</container>
+      <unittitle>
+         <persname>Fisher, Alfred, 1942-</persname>
+         <title>Six Fantasy Pieces, 
+            </title>
+         <unitdate type="inclusive">1982</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (32 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Reproduction)</p>
+         <p>For solo piano</p>
+         <p>Signed by Fisher.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Arik -- Reminiscenses de Turandot -- There is my people sleeping -- An Etude of Chopin -- Quicksilver -- Fallen Angel.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1239</container>
+      <unittitle>
+         <persname>Fox, Christopher, 1955-</persname>
+         <title>Worthless leather : a song from Louisiana, 
+            </title>
+         <unitdate type="inclusive">1992</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (2 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Fox to Mikhashoff on verso. Includes performance markings in blue and black pen.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1240</container>
+      <unittitle>
+         <persname>Francesconi, Luca, 1956-</persname>
+         <title>Mambo, 
+            </title>
+         <unitdate type="inclusive">1987</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (12 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Francesconi.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1241</container>
+      <unittitle>
+         <persname>Franke, Daniël</persname>
+         <title>Dark crane is dancing under a pine tree, 
+            </title>
+         <unitdate type="inclusive">1990</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (1 page)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Franke.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1242</container>
+      <unittitle>
+         <persname>Garuti, Mario, 1957-</persname>
+         <title>Geometriche amnesie : fantasia, 
+            </title>
+         <unitdate type="inclusive">1992</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (16 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Garuti to Mikhashoff on cover.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1243</container>
+      <unittitle>
+         <persname>Gena, Peter</persname>
+         <title>John Henry, 
+            </title>
+         <unitdate type="inclusive">1986</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (8 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Gena to Mikhashoff on title page. Includes several pencil performance markings.</p>
+         <p>Publisher: Edition Verlag pläne</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1244</container>
+      <unittitle>
+         <persname>Griffith, Colin</persname>
+         <title>Calles de Madrid, 
+            </title>
+         <unitdate type="inclusive">1986</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (9 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript</p>
+         <p>For solo piano</p>
+         <p>Signed by Griffith.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1245</container>
+      <unittitle>
+         <persname>Guarnieri, Camargo, 1907-1993</persname>
+         <title>Sonata para piano, 
+            </title>
+         <unitdate type="inclusive">1972</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (21 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Guarnieri to Mikhashoff on title page, dated 1980. Measure numbers and other performance markings added.</p>
+         <p> Includes pamphlet entitled "Carta aberta aos músicos e críticos do Brasil".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1246</container>
+      <unittitle>
+         <persname>Gugel, Alexander, 1961-</persname>
+         <title>To flying away birds, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (1 page)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (reproduction)</p>
+         <p>For solo piano</p>
+         <p>Includes translations and title in pen from composer.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1247</container>
+      <unittitle>
+         <persname>Haene, Frédéric d', 1961-</persname>
+         <title>For declining times, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (20 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from d'Haene to Mikhashoff on inserted pages.</p>
+         <p>"Commissioned by and dedicated to Yvar Mikhashoff".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1248</container>
+      <unittitle>
+         <persname>Harrison, Lou, 1917-2003</persname>
+         <title>Gending-Gending California, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (40 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For gamelan ensemble</p>
+         <p>Inscription from Harrison to Mikhashoff on title page.</p>
+         <p>"Compiled by Lou Harrison and Trish Neilson 1981 in Aptos, California".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1249</container>
+      <unittitle>
+         <persname>Hill, Jackson, 1941-</persname>
+         <title>Sonata : by the waters of Babylon or super flumina Babylonis, 
+            </title>
+         <unitdate type="inclusive">1976</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (22 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Hill to Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1250</container>
+      <unittitle>
+         <persname>Hiller, Lejaren, 1924-1994</persname>
+         <title>Sonata No. 1 for piano : "opus one", 
+            </title>
+         <unitdate type="inclusive">1968</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (38 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Signed by Hiller.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1251</container>
+      <unittitle>
+         <persname>Jaggard, David</persname>
+         <title>Folk dance #3, 
+            </title>
+         <unitdate type="inclusive">1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (6 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Jaggard and dated "Dec. 1985".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1252</container>
+      <unittitle>
+         <persname>Jolas, Betsy</persname>
+         <title>Autour, 
+            </title>
+         <unitdate type="inclusive">1973</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano
+For solo piano</p>
+         <p>Inscription from Jolas to Mikhashoff on title page.</p>
+         <p>Publisher: Heugel</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1253</container>
+      <unittitle>
+         <persname>Kleiman, Stephen R.</persname>
+         <title>Landors cottage II, 
+            </title>
+         <unitdate type="inclusive">1977</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (26 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Kleiman to Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1254</container>
+      <unittitle>
+         <persname>Knussen, Oliver</persname>
+         <title>Hums and songs of Winnie-the-Pooh after A. A. Milne, 
+            </title>
+         <unitdate type="inclusive">1987</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (31 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For high soprano and five instrumentalists (flute doubling piccolo, English horn, clarinet and bass clarinet, percussion, violoncello)</p>
+         <p>Inscription from Knussen to Mikhashoff on cover verso.</p>
+         <p>Publisher: Faber Music</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1255</container>
+      <unittitle>
+         <persname>Koppel, Herman David, 1908-</persname>
+         <title>15 Miniaturer, 
+            </title>
+         <unitdate type="inclusive">1978</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (23 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Koppel to Mikhashoff on title page, dated 1980.</p>
+         <p>Publisher: Samfundet til Udgivelse af Dansk Musik</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1256</container>
+      <unittitle>
+         <persname>Koppel, Herman David, 1908-</persname>
+         <title>Suite für Klaver, 
+            </title>
+         <unitdate type="inclusive">1978</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Koppel to Mikhashoff on title page, dated 1980.</p>
+         <p>Publisher: Samfundet til Udgivelse af Dansk Musik</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">52</container>
+      <container type="folder">1257</container>
+      <unittitle>
+         <persname>Kramer, Jonathan D., 1942-2004</persname>
+         <title>Music for piano, no. 5, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (24 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Signed by Kramer.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1258</container>
+      <unittitle>
+         <persname>Kryszak, Alan, 1961-</persname>
+         <title>Evil twin, 
+            </title>
+         <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (17 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For electric guitar and piano</p>
+         <p>Includes some pencil emendations.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1259</container>
+      <unittitle>
+         <persname>Kryszak, Alan, 1961-</persname>
+         <title>Preludes I-III, 
+            </title>
+         <unitdate type="inclusive">1992</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Kryszak to Mikhashoff on cover verso.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1260</container>
+      <unittitle>
+         <persname>Kubik, Gail, 1914-1984</persname>
+         <title>Sonatina, 
+            </title>
+         <unitdate type="inclusive">1942</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (12 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Kubik to "Kent" on cover.</p>
+         <p>Publisher: Mercury Music</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1261</container>
+      <unittitle>
+         <persname>Kurtz, Eugene, 1923-2006</persname>
+         <title>Animations, 
+            </title>
+         <unitdate type="inclusive">1969</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (24 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (Reproduction of manuscript)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Kurtz to Mikhashoff on title page, dated 1980. Includes separate page of photocopied performance instructions from composer.</p>
+         <p>Publisher: Jobert</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1262</container>
+      <unittitle>
+         <persname>Kurtz, Eugene, 1923-2006</persname>
+         <title>Motivations. Livre, no. 1-2, 
+            </title>
+         <unitdate type="inclusive">1964, 1966</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 scores (26 pages, 29 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Kurtz to Mikhashoff  on title page of Livre 1, dated 1980.</p>
+         <p>Publisher: Jobert</p>
+         <p>"En hommage à Charles Ives".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1263</container>
+      <unittitle>
+         <persname>Kurtz, Eugene, 1923-2006</persname>
+         <title>Quatre mouvements, 
+            </title>
+         <unitdate type="inclusive">1963</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (22 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Kurtz to Mikhashoff  on title page, dated 1980.</p>
+         <p>Publisher: Jobert</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Prélude -- Capriccio -- Interlude -- Allegro martellato.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1264</container>
+      <unittitle>
+         <persname>Kwon Lie, Jäe</persname>
+         <title>Sonate, 
+            </title>
+         <unitdate type="inclusive">1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (14 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Kwon Lie to Mikhashoff on prefatory page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1265</container>
+      <unittitle>
+         <persname>Kyllönen, Timo-Juhani, 1955-</persname>
+         <title>Elegia "quasi una sonata", 
+            </title>
+         <unitdate type="inclusive">1990</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (35 pages) and 1 part (10 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For violin and piano</p>
+         <p>Inscription from Kyllönen to Mikhashoff on title page.</p>
+         <p>Publisher: Edition Pan</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1266</container>
+      <unittitle>
+         <persname>Landy, Leigh, 1951-</persname>
+         <title>Cedar Tavern, 
+            </title>
+         <unitdate type="inclusive">1979</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (12 pages) and 3 sketches (2 pages, 10 pages, 7 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Landy to Mikhashoff on title page, dated 1987.</p>
+         <p>"The Cedar Tavern is Part I of 'Trilogy' for cello and piano for Frances-Marie Uitti and Yvar Mikhashoff".</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: The Hamptons -- The Rabbi -- The Mystic.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1267</container>
+      <unittitle>
+         <persname>Lindroth, Scott.</persname>
+         <title>Pieces of piano, 
+            </title>
+         <unitdate type="inclusive">1982</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 scores (23 pages each)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Lindroth to Mikhashoff on title page.</p>
+         <p>Includes two copies of the piece, one smaller and stapled together and the other larger and threaded into blue binding. Larger copy contains the annotations.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1268</container>
+      <unittitle>
+         <persname>Ludtke, William</persname>
+         <title>Chorale and rondo: hommage to Carl Nielson, 
+            </title>
+         <unitdate type="inclusive">1977</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>3 scores (5 pages, 12 pages, 19 pages) and 15 parts</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript</p>
+         <p>For piano, flute, oboe, Bb clarinet, French horn, and bassoon</p>
+         <p>Signed by the composer and placed and dated in Austria and Illinois in 1977. Contains several blue pen performance markings and corrections by the composer.</p>
+         <p>"Dedicated to Yvar Mikhashoff and the Lierance Quintet".</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Chorale -- Rondo Capricioso -- Perpetuum Mobile.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1269</container>
+      <unittitle>
+         <persname>Mack, Dieter, 1954-</persname>
+         <title>Klavierstück I: chateau, 
+            </title>
+         <unitdate type="inclusive">1988</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (9 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Mack to Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1270</container>
+      <unittitle>
+         <persname>Marchetti, Mauro</persname>
+         <title>Divertimenti, op. 33, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (3 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Pencil)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Marchetti to Mikhashoff on title page.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Il soldatino -- Tramonto -- La sveglia.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1271</container>
+      <unittitle>
+         <persname>Mather, Bruce, 1939-</persname>
+         <title>Fantasy, 
+            </title>
+         <unitdate type="inclusive">1964</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (6 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Mather to Mikhashoff on verso of page 1, dated 1988.</p>
+         <p>Printed on a single sheet.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1272</container>
+      <unittitle>
+         <persname>Mather, Bruce, 1939-</persname>
+         <title>In memoriam Alexandre Uninsky, 
+            </title>
+         <unitdate type="inclusive">1974</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (14 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Mather to Mikhashoff on title page, dated 1988.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1273</container>
+      <unittitle>
+         <persname>Mihalovici, Marcel, 1898-1985</persname>
+         <title>Sonate pour piano, 
+            </title>
+         <unitdate type="inclusive">1965</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (18 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Mihalovici to Mikhashoff, dated 1977.</p>
+         <p>Publisher: Alphonse Leduc</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1274</container>
+      <unittitle>
+         <persname>Mirishli, Nazim</persname>
+         <title>Sonata no. 1, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (32 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Included with piece are a set of Azerbaijani color illustrated postcards (miniatjury azerbajdzhana).</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1275</container>
+      <unittitle>
+         <persname>Mokrejs, John</persname>
+         <title>Legend of Winona, 
+            </title>
+         <unitdate type="inclusive">1916</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Mokrejs to Mary Bell, dated Jan. 1945.</p>
+         <p>Publisher: Odowan Publishing</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1276</container>
+      <unittitle>
+         <persname>Montague, Stephen</persname>
+         <title>Haiku, 
+            </title>
+         <unitdate type="inclusive">1987</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (8 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (Reproduction of manuscript)</p>
+         <p>For piano, electronics, and tape</p>
+         <p>Inscription from Montague to Mikhashoff on title page.</p>
+         <p>Publisher: United Music Publishers</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1277</container>
+      <unittitle>
+         <persname>Muñoz, Óscar Enrique, 1960-</persname>
+         <title>Recordanda a Ivar, 
+            </title>
+         <unitdate type="inclusive">1994</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (2 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Holograph</p>
+         <p>For solo piano</p>
+         <p>Inscription by Muñoz: "Avia, enero-febrero de 1994. A la memoria de mi maestro y amigo Ivar".</p>
+         <p>"In memoriam Ivar Mikhashoff"--Caption.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1278</container>
+      <unittitle>
+         <persname>Muñoz, Óscar Enrique, 1960-</persname>
+         <title>Sanduleak - 69° 212, 
+            </title>
+         <unitdate type="inclusive">1988</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (3 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription by Muñoz: "Avila 19 de Junio de 1988".</p>
+         <p>"A Ivar Mikhashoff".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1279</container>
+      <unittitle>
+         <persname>Myhill, John</persname>
+         <title>Dentures du rossignol, 
+            </title>
+         <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (7 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Holograph (Pencil)</p>
+         <p>For solo piano</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Les dentures du rossignol -- Mazurka.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1280</container>
+      <unittitle>
+         <persname>Nichifor, Șerban</persname>
+         <title>Isola di Euthanasius : Sonata sopra acqua e pietra, 
+            </title>
+         <unitdate type="inclusive">1988</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (10 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Nichifor to Mikhashoff on title page.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Preludio -- Improvisazione -- Canto.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">53</container>
+      <container type="folder">1281</container>
+      <unittitle>
+         <persname>Nichifor, Șerban</persname>
+         <title>Schițe pentru o barcarolǎ (esquisses pour une barcarolle), 
+            </title>
+         <unitdate type="inclusive">1978</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (7 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Nichifor to Mikhashoff in caption, dated 1980.</p>
+         <p>Includes pamphlet with information about composer.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Praeludium -- Recitativo I -- Barcarola -- Recitativo II -- Interludium -- Barcarola -- Postludium.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1282</container>
+      <unittitle>
+         <persname>Nørholm, Ib</persname>
+         <title>Discourse on time, op. 84, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Typescript note from composer to Mikhashoff, dated 1981 attached. Includes pencil performance markings and fingerings. Includes one red pen marking and several blue pen dynamic markings.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1283</container>
+      <unittitle>
+         <persname>Nørholm, Ib</persname>
+         <title>Strofer og Marker, op. 33, 
+            </title>
+         <unitdate type="inclusive">1966</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (17 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Nørholm to Mikhashoff on cover verso, dated 1978.</p>
+         <p>Publisher: Engstrøm &amp; Sødring</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: 1. Cyklus (I -- II -- III -- IV -- V -- VI) -- 2. Cyklus (I -- II --III -- IV -- V -- VI).</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1284</container>
+      <unittitle>
+         <persname>Ohana, Maurice, 1913-1992</persname>
+         <title>Lys de madrigaux, 
+            </title>
+         <unitdate type="inclusive">1977</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (65 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For 24 female voices, percussion, zither, piano, and organ</p>
+         <p>Inscription from Ohana to Mikhashoff on prefatory page.</p>
+         <p>Publisher: Jobert</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Calypso -- Circé -- Star Mad Blues -- Parques -- Tropique de la Vierge -- Miroir de Sapho.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1285</container>
+      <unittitle>
+         <persname>Olsen, Poul Rovsing, 1922-1982</persname>
+         <title>Fem inventioner, op. 38, 
+            </title>
+         <unitdate type="inclusive">1957</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (8 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Olsen to Mikhashoff on title page. Includes some fingerings.</p>
+         <p>Publisher: Engstrøm &amp; Sødring Musikforlag</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1286</container>
+      <unittitle>
+         <persname>Olsen, Poul Rovsing, 1922-1982</persname>
+         <title>Images, op. 51, 
+            </title>
+         <unitdate type="inclusive">1967</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (20 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Olsen to Mikhashoff on title page.</p>
+         <p>Publisher: Edition Moeck</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Pour Svara Mandala -- Jhap-Tal -- Maya -- La danse de Radha.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1287</container>
+      <unittitle>
+         <persname>Olsen, Poul Rovsing, 1922-1982</persname>
+         <title>Many happy returns, op. 70, 
+            </title>
+         <unitdate type="inclusive">1974</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (12 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Olsen to Mikhashoff on title page.</p>
+         <p>Publisher: Edition Wilhelm Hansen</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Dedication -- Bells -- Messiaen -- Indian dancing -- Exotic birds -- Arabesque -- Forty-four -- Epilogue.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1288</container>
+      <unittitle>
+         <persname>Olsen, Poul Rovsing, 1922-1982</persname>
+         <title>Medardus: suite for klaver, op. 35, 
+            </title>
+         <unitdate type="inclusive">1966</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (20 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Typescript note from composer to Mikhashoff, dated 1980, inserted.</p>
+         <p>Publisher: Engstrøm &amp; Sødring Musikforlag</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Impromptu -- Danse barbare -- Meditation -- Marche Interrompue.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1289</container>
+      <unittitle>
+         <persname>Olsen, Poul Rovsing, 1922-1982</persname>
+         <title>Sonate for violoncel og klaver opus 34, 
+            </title>
+         <unitdate type="inclusive">1956</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (30 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For violoncello and piano</p>
+         <p>Includes several performance markings.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Prologo -- Scherzo -- Poema -- Quasi una marcia -- Epilogo.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1290</container>
+      <unittitle>
+         <persname>Pablo, Luis de</persname>
+         <title>Cuaderno: cinque pezzi, 
+            </title>
+         <unitdate type="inclusive">1993</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (31 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Red pen circling print inscription "para mi querido amigo Yvar Mikhashoff, 1993: a su memoria".</p>
+         <p>Publisher: Edizioni Suvini Zerboni</p>
+         <p>Accompanied by note to Jan Williams concerning Mikhashoff's death.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1291</container>
+      <unittitle>
+         <persname>Pablo, Luis de</persname>
+         <title>Cuatro fragmentos de "Kiu", 
+            </title>
+         <unitdate type="inclusive">1986</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (29 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (Reproduction of manuscript)</p>
+         <p>For violin and piano</p>
+         <p>Inscription from de Pablo to Mikhashoff on title page. Includes pencil and red pen performance markings.</p>
+         <p>Publisher: Edizioni Suvini Zerboni</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Fantasia -- Aria -- Burletta -- Andante, Adagio, Finale.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1292</container>
+      <unittitle>
+         <persname>Palmer, Robert, 1915-2010</persname>
+         <title>Second piano sonata, 
+            </title>
+         <unitdate type="inclusive">1948</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (12 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid production)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Palmer to Mikhashoff on cover verso, dated 1980. Includes pencil performance markings and fingerings. Includes a biographical sketch of Robert Palmer clipped and pasted to inside front cover.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1293</container>
+      <unittitle>
+         <persname>Patrick-Andersen, Flemming, 1966-</persname>
+         <title>Øst-Vest (East-West). Op. 11 nr. 2, 
+            </title>
+         <unitdate type="inclusive">1984</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (7 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Possibly signed by the composer.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Angst (Fear) -- Krigen (The War) -- Fred (Peace).</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1294</container>
+      <unittitle>
+         <persname>Patrick-Andersen, Flemming, 1966-</persname>
+         <title>Untitled work for solo piano, 
+            </title>
+         <unitdate type="inclusive">1984</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (12 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Flemming Patrick-Andersen. Inscription by Patrick-Andersen to Mikhashoff: "Composed for Yvar Mikhashoff".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1295</container>
+      <unittitle>
+         <persname>Picker, Tobias, 1954-</persname>
+         <title>Keys to the city: piano concerto no. 2, 
+            </title>
+         <unitdate type="inclusive">1983</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (128 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano and orchestra</p>
+         <p>Inscription from Picker to Mikhashoff on title page, dated 1987.</p>
+         <p>Publisher: Helicon Music</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1296</container>
+      <unittitle>
+         <persname>Plush, Vincent, 1950-</persname>
+         <title>Franz Liszt sleeps alone, 
+            </title>
+         <unitdate type="inclusive">1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (5 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Plush to Mikhashoff in caption, dated 1987.</p>
+         <p>Publisher: Magpie Music</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1297</container>
+      <unittitle>
+         <persname>Principe, Gian Paolo</persname>
+         <title>Autoritutto in piano, 
+            </title>
+         <unitdate type="inclusive">1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Principe.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">54</container>
+      <container type="folder">1298</container>
+      <unittitle>
+         <persname>Principe, Gian Paolo</persname>
+         <title>Piano e per 39, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Letter from Principe to Mikhashoff, handwritten on separate page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1299</container>
+      <unittitle>
+         <persname>Ranieri, Salvador, 1930-</persname>
+         <title>Tre elementi, 
+            </title>
+         <unitdate type="inclusive">1991</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (10 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Ranieri to Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1300</container>
+      <unittitle>
+         <persname>Raphael, Günter, 1903-1960</persname>
+         <title>Kleine sonate, op. 2, 
+            </title>
+         <unitdate type="inclusive">1924</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (21 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Raphael to unknown recipient, dated 1924.</p>
+         <p>Publisher: Breitkopf &amp; Härtel</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1301</container>
+      <unittitle>
+         <persname>Raskatov, A.  (Aleksandr)</persname>
+         <title>Consolation, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (22 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Includes several blue pen and pencil markings.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1302</container>
+      <unittitle>
+         <persname>Rea, John, 1944-</persname>
+         <title>Meninas, 
+            </title>
+         <unitdate type="inclusive">1991</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (52 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Rea to Mikhashoff on title page.</p>
+         <p>Publisher: Musigraphe Èditions</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1303</container>
+      <unittitle>
+         <persname>Rodrigo, Joaquín</persname>
+         <title>Ombre de "Torre Bermeja", 
+            </title>
+         <unitdate type="inclusive">1947</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (9 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Rodrigo to Mikhashoff in caption.</p>
+         <p>Publisher: Joaquin Rodrigo</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1304</container>
+      <unittitle>
+         <persname>Samuel, Virginia</persname>
+         <title>Impromptu, 
+            </title>
+         <unitdate type="inclusive">1991</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Samuel.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1305</container>
+      <unittitle>
+         <persname>Scolari, Henri, 1923-</persname>
+         <title>Eoliennes, 
+            </title>
+         <unitdate type="inclusive">1975</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (26 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Includes small number of performance markings.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1306</container>
+      <unittitle>
+         <persname>Sellars, James, 1943-2017</persname>
+         <title>Amor brujo, 
+            </title>
+         <unitdate type="inclusive">1979</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (5 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Sellars to Mikhashoff on title page.</p>
+         <p>Text by Harold Norse.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1307</container>
+      <unittitle>
+         <persname>Sellars, James, 1943-2017</persname>
+         <title>Separate ways, 
+            </title>
+         <unitdate type="inclusive">1978</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (25 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For violoncello and piano</p>
+         <p>Inscription from Sellars to Mikhashoff on title page. Includes many blue pen, red pen, and pencil performance markings.</p>
+         <p>"For Frances Marie-Uitti and Yvar Mikhashoff".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1308</container>
+      <unittitle>
+         <persname>Shim, Kunsu</persname>
+         <title>Konzentration, 
+            </title>
+         <unitdate type="inclusive">1984</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (7 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Shim to Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1309</container>
+      <unittitle>
+         <persname>Shim, Kunsu</persname>
+         <title>Tendenz, 
+            </title>
+         <unitdate type="inclusive">1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (9 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For oboe, violin, and piano</p>
+         <p>Inscription from Shim to Mikhashoff on prefatory page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1310</container>
+      <unittitle>
+         <persname>Shohl, David</persname>
+         <title>Dynamophone, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent> 1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Shohl to Mikhashoff on cover, dated 1990.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1311</container>
+      <unittitle>
+         <persname>Slettholm, Yngve, 1955-</persname>
+         <title>Magma, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (13 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Slettholm to Mikhashoff on cover verso, dated 1984.</p>
+         <p>Publisher: Harald Lyche and Co. A. S. Musikkforlag</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1312</container>
+      <unittitle>
+         <persname>Slonimsky, Nicholas, 1894-1995</persname>
+         <title>Anti-Dodecaphonic declaration, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (1 page)</extent>
+      </physdesc>
+      <note>
+         <p>Holograph</p>
+         <p>For two voices or alternating violins and piano</p>
+         <p>Signed by Sloninsky. Includes dynamic and expression markings in pen from composer.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1313</container>
+      <unittitle>
+         <persname>Smit, Leo, 1921-1999</persname>
+         <title>Mountain eulogy, 
+            </title>
+         <unitdate type="inclusive">1975</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (29 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For speaker and piano</p>
+         <p>Inscription from Smit to Mikhashoff on title page.</p>
+         <p>"Commissioned by the Studio Arena Theatre for Paul Schmidt and Yvar Mikhashoff in memory of Vera Brynner".  From Peer Gynt by Henrik Ibsen.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1314</container>
+      <unittitle>
+         <persname>Smit, Leo, 1921-1999</persname>
+         <title>Sonata in one movement, 
+            </title>
+         <unitdate type="inclusive">1967</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score(19 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Smit to Mikhashoff on title page, dated 1976.</p>
+         <p>Publisher: Mills Music</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1315</container>
+      <unittitle>
+         <persname>Smit, Leo, 1921-1999</persname>
+         <title>Transient view, 
+            </title>
+         <unitdate type="inclusive">1976</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For mixed voices (unison, two, three and four equal parts) a cappella</p>
+         <p>Inscription from Smit to Mikhashoff: in caption.</p>
+         <p>Publisher: Carl Fischer</p>
+         <p>On texts by Katie Louchheim.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1316</container>
+      <unittitle>
+         <persname>Smith, Stuart, 1948-</persname>
+         <title>Pinetop, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (8 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (Reproduction of manuscript)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Smith to Mikhashoff on cover.</p>
+         <p>Publisher: Lingua Press</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1317</container>
+      <unittitle>
+         <persname>Stäbler, Gerhard</persname>
+         <title>Traum 1/9/92 - Klavier, 
+            </title>
+         <unitdate type="inclusive">1992</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Stabler to Mikhashoff on cover, dated 1993. Includes several red pen markings.</p>
+         <p>Publisher: Ricordi</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1318</container>
+      <unittitle>
+         <persname>Terzian, Barbara A.</persname>
+         <title>Toccata, 
+            </title>
+         <unitdate type="inclusive">1955</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Terzian to Mikhashoff on title page.</p>
+         <p>Publisher: Ricordi Americana</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1319</container>
+      <unittitle>
+         <persname>Theobald, James C. (James Chester), 1950-</persname>
+         <title>Three places in New York, 
+            </title>
+         <unitdate type="inclusive">1975</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (16 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from James A. Theobald to Mikhashoff on wrapper.</p>
+         <p>Folder includes newspaper article about the composer.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Harlem -- Red Hook --Brownsville - East New York (Variations of "We Shall Overcome").</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">55</container>
+      <container type="folder">1320</container>
+      <unittitle>
+         <persname>Thomas, John Patrick</persname>
+         <title>145 West 85th Street, 
+            </title>
+         <unitdate type="inclusive">1971</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (17 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Thomas to Mikhashoff on title page.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1321</container>
+      <unittitle>
+         <persname>Tzeng, Shing-Kwei</persname>
+         <title>Variations, 
+            </title>
+         <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Tzeng to Mikhashoff in caption.</p>
+         <p>Includes a biography and works list of the composer.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1322</container>
+      <unittitle>
+         <persname>Ulehla, Ludmila, 1923-2009</persname>
+         <title>Harlequinade, 
+            </title>
+         <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (9 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Ulehla to Mikhashoff in caption.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1323</container>
+      <unittitle>
+         <persname>Vigeland, Nils</persname>
+         <title>Brinks!, 
+            </title>
+         <unitdate type="inclusive">1982</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 scores (12 pages, 10 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For violoncello and piano</p>
+         <p>Includes several pencil performance markings and white-out corrections.</p>
+         <p>For Jan Williams and Yvar Mikhashoff.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1324</container>
+      <unittitle>
+         <persname>Vigeland, Nils</persname>
+         <title>London nocturne, 
+            </title>
+         <unitdate type="inclusive">1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (3 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Holograph</p>
+         <p>For solo piano</p>
+         <p>Includes several white-out corrections.</p>
+         <p>For Yvar Mikhashoff.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1325</container>
+      <unittitle>
+         <persname>Vigeland, Nils</persname>
+         <title>Piano sonata, 
+            </title>
+         <unitdate type="inclusive">1979</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (28 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Vigeland to Mikhashoff on title page. Includes several pencil performance markings and white-out corrections.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1326</container>
+      <unittitle>
+         <persname>Vigeland, Nils</persname>
+         <title>Second piano sonata, 
+            </title>
+         <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (5 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Signed by Vigeland.</p>
+         <p>For Yvar Mikhashoff.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Probably incomplete.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1327</container>
+      <unittitle>
+         <persname>Viinholt Nielsen, Bendt</persname>
+         <title>Little waltz: tired of tangoes!, 
+            </title>
+         <unitdate type="inclusive">1986</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (2 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Holograph</p>
+         <p>For solo piano</p>
+         <p>Inscription from Viinholt Nielsen to Mikhashoff on verso of page 1, dated 1986.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1328</container>
+      <unittitle>
+         <persname>Villeneuve, André W.</persname>
+         <title>Troisième terre - sonitor, 
+            </title>
+         <unitdate type="inclusive">1991</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (12 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Villeneuve to Mikhashoff on title page. Includes several pencil performance markings.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1329</container>
+      <unittitle>
+         <persname>Ware, Peter, 1951-</persname>
+         <title>Piscataway: 'on looking deeper into the water', 
+            </title>
+         <unitdate type="inclusive">1979</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Ware to Mikhashoff on title page verso. Includes several pencil performance markings. Includes two errata pages.</p>
+         <p>Revised 1982. "Composed for Yvar Mikhashoff, Adam Felligi". "Dedicated to Yvar Mikhashoff, Adam Fellegi, Gary Smart, Naomi Oliphant, Alison Ball".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1330</container>
+      <unittitle>
+         <persname>Ware, Peter, 1951-</persname>
+         <title>Piscataway I: 'on looking deeper into the water', 
+            </title>
+         <unitdate type="inclusive">1982</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from Ware to Mikhashoff on dedication page.</p>
+         <p>Publisher: Acoma Composer's Edition</p>
+         <p>"Composed for Yvar Mikhashoff, Adam Felligi". "Dedicated to Yvar Mikhashoff, Adam Fellegi, Gary Smart, Naomi Oliphant, Alison Ball".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1331</container>
+      <unittitle>
+         <persname>Ware, Peter, 1951-</persname>
+         <title>Piscataway II: 'the hibiscus on the water', 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (5 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Photocopy)</p>
+         <p>For solo piano</p>
+         <p> Inscription from Ware to Mikhashoff on title page. Includes several performance markings.</p>
+         <p>"Composed for : Yvar Mikhashoff, Adam Felligi". "Dedicated to : Deborah Dunning, Yvar Mikhashoff, Adam Felligi, Scott Huston, Florence Robertson".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1332</container>
+      <unittitle>
+         <persname>Weiner-Dillmann, Hans</persname>
+         <title>Je t'aime : kleines französisches Walzerrondo, 
+            </title>
+         <unitdate type="inclusive">1982</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (2 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Inscription from "Hanna" (unknown) to Mikhashoff on cover.</p>
+         <p>Publisher: Edition Standart</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1333</container>
+      <unittitle>
+         <persname>Weinzweig, John, 1913-</persname>
+         <title>3 pieces for piano, 
+            </title>
+         <unitdate type="inclusive">1989</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (18 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Weinzweig to Mikhashoff on title page, dated 1990.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Pentad -- Aeolian -- Élan.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1334</container>
+      <unittitle>
+         <persname>Wiéner, Jean</persname>
+         <title>3 moments de musique, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (21 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Inscription from Wiéner to Mikhashoff on cover.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1335</container>
+      <unittitle>
+         <persname>Willey, James, 1939-</persname>
+         <title>Prayer after all!, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 scores (24 pages each)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (Ozalid reproduction)</p>
+         <p>For solo piano</p>
+         <p>A letter from Willey to Mikhashoff attached. Includes several pencil performance markings. Includes poem by John Berryman.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1336</container>
+      <unittitle>
+         <persname>Winkler, Stephan, 1967-</persname>
+         <title>Tasten, 
+            </title>
+         <unitdate type="inclusive">1990</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (1 page)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Includes a letter from Winkler to Mikhashoff. Includes an analysis by the composer.</p>
+         <p>"Dedicated to Yvar Mikhashoff.".</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">56</container>
+      <container type="folder">1337</container>
+      <unittitle>
+         <persname>Yannay, Yehuda, 1937-</persname>
+         <title>Seven late spring pieces, 
+            </title>
+         <unitdate type="inclusive">1981</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (15 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Includes a letter from Yannay to Mikhashoff and an inscription from Yannay to Mikhashoff dated 1981.</p>
+         <p>Publisher: Israel Music Institute</p>
+      </note>
+   </did>
+</c02>
+				
+</c01>
+<c01 level="series">
+				<did>
+					<unitid id="series9">IX.</unitid>
+					<unittitle>Additional unmarked scores received 2016, <unitdate type="inclusive"
+							normal="1964/1988">1964-1988</unitdate>
+					</unittitle>
+					<physdesc>
+						<extent>Folder 1338-1353</extent>
+					</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains scores without substantive markings.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Chiefly arranged in alphabetical order by composer surname and then alphabetically by
+						title.</p>
+				</arrangement>
+
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1338</container>
+      <unittitle>
+         <persname>Baltin, A. (Aleksandr)</persname>
+         <title>Dve p'esy, 
+            </title>
+         <unitdate type="inclusive">1969</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 scores (19 and 8 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For piano and violin</p>
+         <p>Publisher: Vsesoyuznoye Izdatel'stvo</p>
+         <p>First score is a complete score, with piano and violin music. Second score is violin part only.</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Melodija -- Skerco.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1339</container>
+      <unittitle>
+         <persname>Belimov, S. (Sergeĭ)</persname>
+         <title>Sonata una corda, 
+            </title>
+         <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (8 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1340</container>
+      <unittitle>
+         <persname>Greenberg, Alexander</persname>
+         <title>Polyphonic games, 
+            </title>
+         <unitdate type="inclusive"/>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (77 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Manuscript (photocopy)</p>
+         <p>For solo piano</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Preludio -- Canone per inversio -- Ciaccona -- Recitativi -- Fuga -- Inventio -- Canone d'altezza -- Passacaglia -- Canone di misura -- Poco tranquillo -- Chorale -- Ricercar per tre teme.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1341</container>
+      <unittitle>
+         <persname>Knaĭfelʹ, Aleksandr Aronovich</persname>
+         <title>Klassicheskaya syuita, 
+            </title>
+         <unitdate type="inclusive">1976</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (11 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Vsesoyuznoye Izdatel'stvo Sovetskiy Kompozitor</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1342</container>
+      <unittitle>
+         <persname>Knaĭfelʹ, Aleksandr Aronovich</persname>
+         <title>Musique militaire, 
+            </title>
+         <unitdate type="inclusive">1964</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (14 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Izdatel'stvo muzyka</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1343</container>
+      <unittitle>
+         <persname>Knaĭfelʹ, Aleksandr Aronovich</persname>
+         <title>Spor istin, 
+            </title>
+         <unitdate type="inclusive">1976</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (2 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Izdatel'stvo muzyka</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1344</container>
+      <unittitle>
+         <persname>Rääts, Jaan, 1932-</persname>
+         <title>Sonaat No. 5, 
+            </title>
+         <unitdate type="inclusive">1980</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (19 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Muzyka Moscow</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1345</container>
+      <unittitle>
+         <persname>Rääts, Jaan, 1932-</persname>
+         <title>Toccata, 
+            </title>
+         <unitdate type="inclusive">1977</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (14 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Associated Music Publishers</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1346</container>
+      <unittitle>
+         <persname>Rakov, Nikolai Petrovich, 1908-</persname>
+         <title>Sonata in the classical style, 
+            </title>
+         <unitdate type="inclusive">1965</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (20 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Muzyka Moscow</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1347</container>
+      <unittitle>
+         <persname>Shchedrin, Rodion Konstantinovich, 1932-</persname>
+         <title>Sonata, 
+            </title>
+         <unitdate type="inclusive">1976</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (33 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: G. Schirmer</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1348</container>
+      <unittitle>
+         <persname>Smirnov, Dmitrii  (Dmitrii Nikolaevich)</persname>
+         <title>Seven angels of William Blake, 
+            </title>
+         <unitdate type="inclusive">1988</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (33 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Prelude -- Lucifer, the Morning Star -- Molech, the Executioner -- Elohim creating Adam, Adam creating Elohim -- Shaddai's Anger -- Pachad's Fear -- Jehovah appealing to Eternity -- Jesus the Lamb.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1349</container>
+      <unittitle>
+         <persname>Smirnov, Dmitrii  (Dmitrii Nikolaevich)</persname>
+         <title>Sonata no. 2, 
+            </title>
+         <unitdate type="inclusive">1983</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (13 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print (photocopy)</p>
+         <p>For solo piano</p>
+         <p>Publisher: Boosey and Hawkes Music Archives</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1350-1351</container>
+      <unittitle>
+         <persname/>
+         <title>Kontsertnye proizvedeniya sovetskikh kompozitorov = Concert pieces by Soviet composers, 11, 13, 
+            </title>
+         <unitdate type="inclusive">1984, 1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>2 scores (79 pages and 120 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Vsesoyuznoye Izdatel'stvo Sovetskiy Kompozitor</p>
+         <p>Contains a number of works by Society composers.</p>
+      </note>
+   </did>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1352</container>
+      <unittitle>
+         <persname/>
+         <title>Large-scale compositions of young Muscovites for piano = Molodye kompozitory Moskvy proizvedeniya krupnoi formy dlya fortepiano, 
+            </title>
+         <unitdate type="inclusive">1985</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (78 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Moscow "Muzyka"</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p> Contents: Fantazii︠a︡ do minor pami︠a︡ti M.V. I︠U︡dinoĭ : op. 21 (1983) / V. Ri︠a︡bov -- Sonata, kompozit︠s︡ii︠a︡ 33 (1981) / V. Ekimovskiĭ -- Sonata no. 2 (1980) / V. Lobanov -- Sonata no. 2 : fantasia quasi una sonata : 1981 / S. Pavlenko.</p>
+   </scopecontent>
+</c02>
+<c02 level="file">
+   <did>
+      <container type="box">57</container>
+      <container type="folder">1353</container>
+      <unittitle>
+         <persname/>
+         <title>Piesi za piano ot bulgarski kompozitori, 
+            </title>
+         <unitdate type="inclusive">1988</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 score (67 pages)</extent>
+      </physdesc>
+      <note>
+         <p>Print</p>
+         <p>For solo piano</p>
+         <p>Publisher: Izdatelstvo muzkya</p>
+      </note>
+   </did>
+</c02>
+				
+</c01>							
 		</dsc>
 		<controlaccess>
 			<head>Search Terms</head>

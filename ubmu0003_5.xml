@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 3.5::J. Warren Perry Lyric Opera Papers and Music-Related Clippings)//EN">ubmu0003_5</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the J. Warren Perry
+			 Lyric Opera Papers and Music-Related Clippings, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1955/1997">circa 1955-1997</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Perry (J. Warren)
+			 Lyric Opera Papers and Music-Related Clippings</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, December 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard ).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">J. Warren Perry Lyric
+		  Opera Papers and Music-Related Clippings, 
+		  <unitdate encodinganalog="245$f" normal="1955/1997" type="inclusive"
+			datechar="creation">circa 1955-1997</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 3.5</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Perry, J.
+			 Warren </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="folder" encodinganalog="300">(55 folders)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English</language>.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Collection contains 6
+		  folders of papers related to Perry's association with the Chicago Lyric Opera
+		  and 48 folders of clippings he compiled about vocalists, instrumentalists,
+		  conductors, and music halls.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], J. Warren Perry Lyric Opera Papers and
+			 Music-Related Clippings, circa 1955-1997, Music Library, The State University
+			 of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Dr. J. Warren Perry, 2004.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Dr. J. Warren Perry was born in Richmond, Indiana in 1921. He earned
+		  his B.A. at DePauw University in 1944, his Master's at Northwestern University
+		  in 1952, and his Ph.D. at Northwestern in 1955. Dr. Perry has been on the
+		  faculties at the University of Illinois at Chicago, Northwestern Medical
+		  School, and the University of Chicago. He was also employed as deputy assistant
+		  commissioner for research and training in the Vocational Rehabilitation
+		  Administration at the Department of Health, Education and Welfare in
+		  Washington, D.C. Dr. Perry is the founder of the School of Health Related
+		  Professions (now the School of Public Health and Health Professions) at the
+		  University at Buffalo, The State University of New York. He served as dean of
+		  the school from its founding in 1967 until 1977.</p> 
+		<p>Dr. Perry devoted much of his life to supporting the arts. Before
+		  moving to Buffalo he was one of the founders of the Lyric Opera Company in
+		  Chicago. Since arriving in Buffalo Dr. Perry has served as chairman or board
+		  member for several local organizations, including the Buffalo Philharmonic,
+		  Community Music School, Theodore Roosevelt Inaugural National Historic Site,
+		  Artpark, and Friends of the Center for the Arts. The numerous awards granted to
+		  honor Dr. Perry's contributions to the community include the Buffalo Arts
+		  Councils' Supporter of the Arts award, the Buffalo Distinguished Citizen Award,
+		  and national Outstanding Philanthropist Award. Dr. Perry died August 5, 2010 in
+		  Buffalo.</p>
+		<p>J. Warren Perry was an avid collector of photographs and other
+		  artifacts related to music, especially opera and ballet. He worked for the
+		  Lyric Opera in Chicago as Director of the Committee on Education. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Collection contains 6 folders of papers related to Perry's association
+		  with the Chicago Lyric Opera and 48 folders of clippings he compiled about
+		  vocalists, instrumentalists, conductors, and music halls.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in two series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				</ref>Lyric Opera papers</item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				</ref>Subject files</item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1"> I.</unitid> 
+			 <unittitle>Lyric Opera Papers, 
+				<unitdate type="inclusive" normal="1955/1981" datechar="creation"
+				certainty="approximate"> circa 1955-1981</unitdate> </unittitle> 
+			 <physdesc><extent>Folder 1-6</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged by subject subdivisions. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>Lyric Opera clippings, 
+				  <unitdate type="inclusive">1955-1981</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle>Lyric Opera Committee on Education, 
+				  <unitdate type="inclusive">1957-1960</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">3</container> 
+				<unittitle>Lyric Opera Correspondence, 
+				  <unitdate type="inclusive">1957-1961</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Correspondence to and from J. Warren Perry.</p>
+			 </scopecontent> 
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">4</container> 
+				<unittitle>Lyric Opera lecture series, 
+				  <unitdate type="inclusive">1957-1960</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">5</container> 
+				<unittitle>Lyric Opera lecture series notes, 
+				  <unitdate type="inclusive">1957-1960</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did>
+			 <scopecontent>
+				<p>Notes prepared for lectures by J. Warren Perry.</p>
+			 </scopecontent> 
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="folder">6</container> 
+				<unittitle>Lyric Opera publications, 
+				  <unitdate type="inclusive">1955-1960</unitdate></unittitle> 
+				<physdesc><extent>1 folder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Subject files, 
+				<unitdate type="inclusive" normal="1957/1995"
+				datechar="creation">1957-1995 </unitdate> </unittitle> 
+			 <physdesc><extent>Folder 7-XX</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by subject into the following
+				subseries:</p> 
+			 <p>
+				<list>
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2a">A.
+						Ballet</ref></item>
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2b">B.
+						Buildings</ref></item>
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2c">C.
+						Conductors</ref></item>
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2d">D.
+						Instrumentalists</ref></item>
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2e">E.
+						Obituaries</ref></item>
+				  <item> 
+					 <ref actuate="onrequest" show="replace" target="series2f">F.
+						Operatic vocalists</ref></item>
+<item> 
+					 <ref actuate="onrequest" show="replace" target="series2g">G.
+						Musical cartoons</ref></item>						
+				</list>
+			 </p> 
+		  </arrangement>
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series2a">II.A</unitid>
+				<unittitle>Ballet, 
+				  <unitdate type="inclusive"
+				  normal="1954/1958">1954-1958</unitdate> </unittitle>
+				<physdesc><extent>Folder 7</extent></physdesc>
+			 </did>
+			
+		  </c02> 
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series2b">II.B</unitid>
+				<unittitle>Buildings, 
+				  <unitdate type="inclusive" normal="1955/1960">undated</unitdate>
+				  </unittitle>
+				<physdesc><extent>Folder 8-9</extent></physdesc>
+			 </did> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">8</container> 
+				  <unittitle>Metropolitan Opera (New York, N.Y.), 
+					 <unitdate>1966</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did>
+				<scopecontent>
+				  <p>Articles about transition from old to new building.</p>
+				</scopecontent> 
+			 </c03>
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">9</container> 
+				  <unittitle>Multiple buildings, 
+					 <unitdate>1955-1960</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did>
+				<scopecontent>
+				  <p>Articles about transition from old to new building.</p>
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series2c">II.C</unitid>
+				<unittitle>Conductors, 
+				  <unitdate type="inclusive"
+				  normal="1955/1967">1955-1967</unitdate> </unittitle>
+				<physdesc><extent>Folder 10-20</extent></physdesc>
+			 </did>
+			 <arrangement>
+				<p>Alphabetically arranged by surname.</p>
+			 </arrangement>
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">10</container> 
+				  <unittitle>Beecham, Thomas, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">11</container> 
+				  <unittitle>Bernstein, Leonard, 
+					 <unitdate>1957</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">12</container> 
+				  <unittitle>Cleva, Fausto, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">13</container> 
+				  <unittitle>Karajan, Herbert von, 
+					 <unitdate>1961</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">14</container> 
+				  <unittitle>Krips, Josef, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">15</container> 
+				  <unittitle>Reiner, Fritz, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">16</container> 
+				  <unittitle>Serafin, Tulio, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">17</container> 
+				  <unittitle>Stravinsky, Igor, 
+					 <unitdate>1957</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">18</container> 
+				  <unittitle>Thomas, Theodore, 
+					 <unitdate>1955</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">19</container> 
+				  <unittitle>Toscanini, Arturo, 
+					 <unitdate>1957</unitdate>, 
+					 <unitdate>1967</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">20</container> 
+				  <unittitle>Walter, Bruno, 
+					 <unitdate>1956</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series2d">II.D</unitid>
+				<unittitle>Instrumentalists, 
+				  <unitdate type="inclusive"
+				  normal="1956/1978">1956-1978</unitdate> </unittitle>
+				<physdesc><extent>Folder 21-28</extent></physdesc>
+			 </did>
+			 <arrangement>
+				<p>Alphabetically arranged by surname.</p>
+			 </arrangement> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">21</container> 
+				  <unittitle>Casals, Pablo 
+					 <unitdate>1956-1971</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">22</container> 
+				  <unittitle>Cliburn, Van, 
+					 <unitdate>1958-1959</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">23</container> 
+				  <unittitle>Ganz, Rudolph, 
+					 <unitdate>1966</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">24</container> 
+				  <unittitle>Horowitz, Vladimir, 
+					 <unitdate>circa 1963-1978</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">25</container> 
+				  <unittitle>Kreisler, Fritz, 
+					 <unitdate>1967</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">26</container> 
+				  <unittitle>Rubinstein, Artur, 
+					 <unitdate>1956-1958</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">27</container> 
+				  <unittitle>Schweitzer, Albert, 
+					 <unitdate>1957</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">28</container> 
+				  <unittitle>Segovia, Andrés, 
+					 <unitdate>1959</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series2e">II.E</unitid>
+				<unittitle>Obituaries, 
+				  <unitdate type="inclusive"
+				  normal="1956/1997">1956-1997</unitdate> </unittitle>
+				<physdesc><extent>Folder 29-41</extent></physdesc>
+			 </did>
+			 <arrangement>
+				<p>Alphabetically arranged by surname.</p>
+			 </arrangement> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">29</container> 
+				  <unittitle>Anderson, Marian, 
+					 <unitdate>1993</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">30</container> 
+				  <unittitle>B, 
+					 <unitdate>1960-1997</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">31</container> 
+				  <unittitle>Cantelli, Guido, 
+					 <unitdate>1956</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">32</container> 
+				  <unittitle>F, 
+					 <unitdate>1962-1981</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">33</container> 
+				  <unittitle>G, 
+					 <unitdate>1956-1963</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">34</container> 
+				  <unittitle>H-L, 
+					 <unitdate>1959-1976</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">35</container> 
+				  <unittitle>M, 
+					 <unitdate>1960-1964</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">36</container> 
+				  <unittitle>P, 
+					 <unitdate>1957-1960</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">37</container> 
+				  <unittitle>R, 
+					 <unitdate>1958-1963</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">38</container> 
+				  <unittitle>S, 
+					 <unitdate>1957-1965</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">39</container> 
+				  <unittitle>T, 
+					 <unitdate>1957-1960</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">40</container> 
+				  <unittitle>Toscanini, Arturo, 
+					 <unitdate>1957</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">41</container> 
+				  <unittitle>V-W, 
+					 <unitdate>1957-1984</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries">
+			 <did>
+				<unitid id="series2f">II.F</unitid>
+				<unittitle>Operatic vocalists, 
+				  <unitdate type="inclusive"
+				  normal="1956/1994">1956-1994</unitdate> </unittitle>
+				<physdesc><extent>Folder 42-54</extent></physdesc>
+			 </did>
+			 <arrangement>
+				<p>Alphabetically arranged by surname.</p>
+			 </arrangement>
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">42</container> 
+				  <unittitle>General articles about multiple vocalists, 
+					 <unitdate>1956-circa 1994</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">43</container> 
+				  <unittitle>A-D, 
+					 <unitdate>circa 1960-1982</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">44</container> 
+				  <unittitle>F-G, 
+					 <unitdate>circa 1956-1958</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">45</container> 
+				  <unittitle>London, George, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">46</container> 
+				  <unittitle>Lehmann, Lotte, 
+					 <unitdate>1968</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">47</container> 
+				  <unittitle>M, 
+					 <unitdate>1960-1961</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">48</container> 
+				  <unittitle>Nilsson, Birgit, 
+					 <unitdate>1959-1961</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">49</container> 
+				  <unittitle>Price, Leontyne, 
+					 <unitdate>1960-1961</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">50</container> 
+				  <unittitle>R, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">51</container> 
+				  <unittitle>S, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">52</container> 
+				  <unittitle>Simionato, Giulietta, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">53</container> 
+				  <unittitle>T, 
+					 <unitdate>1957-1958</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="folder">54</container> 
+				  <unittitle>V-W, 
+					 <unitdate>undated</unitdate></unittitle>
+				  <physdesc><extent>1 folder</extent></physdesc>
+				</did> 
+			 </c03> 
+		  </c02>
+<c02 level="subseries">
+			 <did>
+				<unitid id="series2g">II.G</unitid>
+				<unittitle>Musical cartoons, 
+				  <unitdate type="inclusive"
+				  normal="1956/1994">undated</unitdate> </unittitle>
+				<physdesc><extent>Folder 55</extent></physdesc>
+			 </did>
+<scopecontent><p>Musical cartoons from the popular press, including comic strips such as <title render="italic">Peanuts</title> and <title render="italic">The Girls</title>.</p></scopecontent>			 
+</c02>			 		   
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		   <corpname encodinganalog="610" source="lcnaf" role="subject">Lyric Opera of Chicago</corpname> 
+			 <subject source="lcsh" encodinganalog="650">Musicians--20th century</subject>
+<subject source="lcsh" encodinganalog="650">Musicians--Caricatures and cartoons</subject> 			 
+		 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">clippings (information artifacts)</genreform>
+<genreform encodinganalog="655" source="rbgenr">Cartoons</genreform> 			 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0003_1.xml "
+					  show="new" actuate="onrequest" role="text/html"> J. Warren Perry Collection of
+						Photographs, ca. 1910-1971</archref> Mus. Arc. 3.1 </label> 
+				  <item>A collection of 2110 photographs, chiefly of opera singers
+					 and productions, with additional photographs of conductors, performers,
+					 ensembles, and concert halls. </item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

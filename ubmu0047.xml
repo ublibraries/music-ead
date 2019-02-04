@@ -116,7 +116,11 @@
 		  <head>Processing Information</head> 
 		  <p>Processed by Julia Cordani, 2018.</p> 
 		</processinfo> 
-	 </descgrp> 
+	 </descgrp>
+<bioghist encodinganalog="545"> 
+<head>Historical Note</head>
+<p>The collection was compiled by staff of the University at Buffalo Music Library, drawing on both gifts and purchased acquisitions. </p>	
+</bioghist> 
 	 <scopecontent encodinganalog="520"> 
 		<head>Scope and Content Note</head> 
 		<p>The collection contains 92 pieces of sheet music, 77 of which were
@@ -125,7 +129,7 @@
 		  vocal music with piano accompaniment. The piano music includes works in dance
 		  forms, including galops, waltzes, polkas, marches, Schottisches, quadrilles,
 		  and mazurkas. The topical subjects of the music and illustrations (43 of which
-		  are in color) American Civil War battles and persons, the transatlantic cable,
+		  are in color) includes American Civil War battles and persons, the transatlantic cable,
 		  and celebrities of the stage.</p> 
 	 </scopecontent> 
 	 <arrangement encodinganalog="351"> 
@@ -1186,7 +1190,7 @@
 				<title type="uniform">Tangled tunes</title> 
 				<title type="transcribed">Tangled tunes: a pot-pourri of 106
 				  favourite melodies humorously entangled,</title> 
-				<unitdate>1915, 1918</unitdate> </unittitle> 
+				<unitdate>1915</unitdate>, <unitdate>1918</unitdate> </unittitle> 
 			 <physdesc> <extent>1 score (17 pages) and 1 part (9 pages)</extent>
 				</physdesc> 
 			 <note> 

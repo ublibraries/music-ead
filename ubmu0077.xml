@@ -1,0 +1,2078 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 77::University at Buffalo Music Department Oral History Recordings)//EN">ubmu0077</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for University at Buffalo Music Department Oral History Recordings, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1980/1996" certainty="definite">1980-1996</date>
+			 </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">University at Buffalo Music Department Oral History Recordings</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, September 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">University at Buffalo Music Department Oral History Recordings, 
+		  <unitdate encodinganalog="245$f" normal="1980/1996" type="inclusive" datechar="creation" certainty="definite">1980-1996</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 77</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="creator" source="lcnaf">State University of New York at Buffalo. Music Library</corpname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2
+		  boxes</extent> (<extent unit="audiocassette" encodinganalog="300$a">61 audiocassettes</extent>) </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">Spoken
+		  word content in <language encodinganalog="041" langcode="eng">English</language>. </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library.</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Oral history interviews with 24 interviewees compiled by the University at Buffalo Music Library related to local and university music history.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], University at Buffalo Music Department Oral History Recordings, 1980-1996, Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	 </descgrp> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of interviewers represented in the collection.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>The collection was digitally reformatted in 2016 resulting in preservation master and service copy files that match cassette sides. The files were received on a Hard drive.</p> 
+		</altformavail> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>The collection was compiled by the University at Buffalo Music Library from multiple oral history projects with central themes of the history of music in Buffalo, and chiefly the history of the University at Buffalo Music Department. The recordings were created for projects that included the following:
+		<list type="simple">
+		<item>Sharon G. Almquist's research for her master's thesis, <title render="italic">A history of the State University of New York at Buffalo Music Department to 1968</title> (12 tapes). The text is available online at: <extref href="http://hdl.handle.net/10477/2652" actuate="onrequest" show="new" role="text/html">http://hdl.handle.net/10477/2652</extref></item> 
+<item>Alan Green's research for her master's thesis, <title render="italic">Allen Sapp : composer, teacher, and administrator</title> and later publication, <title render="italic">Allen Sapp : a bio-bibliography</title> (32 tapes) </item>
+<item>Music faculty member James Patrick's MUS 515 class project about the history of jazz in Buffalo (3 tapes)</item>
+		</list> </p> 
+<p>There is considerable overlap in the contents. For example, Allen Sapp was Chair of the Music Department and a faculty member 1961-1975. Interviews with him as the subject of a biography also contain content about the history of the Music Department. Conversations between James Coover and Carol June Bradley about the Music Library also contain information about the Music Department.</p>		
+		
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Oral history interviews with 24 interviewees compiled by the University at Buffalo Music Library related to local and university music history. Interviewees include former faculty members of the University at Buffalo Music Department, David Fuller, Livingston Gearhart, Robert Mols, Carlo Pinto, Oswald Rantucci, Fred Ressel, Ronald Richards, Leo Smit. Other Music faculty members specifically associated with the Center of the Creative and Performing Arts include Allen Sapp, Lukas Foss, Lejaren Hiller, and Jan Williams, as well as the coordinator managing director (1965-1978), Renée Levine-Packer.   </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>Arranged in one series in alphabetical order by interviewee.</p> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Cassettes, 
+				<unitdate type="inclusive" normal="1980/1996" era="ce" calendar="gregorian">1980-1996</unitdate> </unittitle> 
+			 <physdesc> <extent>Cassette 1-61</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p> Arranged alphabetically by surname of interviewee.</p> 
+		  </arrangement> 
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">1</container>
+      <unittitle>
+         <persname>Bradley, Carol June</persname> and <persname>Coover, James, 1925-2004</persname>, 
+            <unitdate type="inclusive">1985-04-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Steinzor, Curt Efram</persname></p>
+         <p>Spine title: Bradley-Coover interview 4-3-85</p>
+         <p>Duration: 00:31:39</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Library History</p>
+         <p>Type of tape: Maxell UD-XL II 60</p>
+         <p>mono.</p>
+         <p>Side 2 is blank.</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_01_01_am.wav</item>
+            <item>Service copy files: ubmu0077_01_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">2</container>
+      <unittitle>
+         <persname>Bradley, Carol June</persname> and <persname>Coover, James, 1925-2004</persname>, 
+            <unitdate type="inclusive">1996-08-20</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: None - it is a conversation between Bradley and Coover.</p>
+         <p>Spine title: Coover-Bradley 8/20/96 I</p>
+         <p>Duration: 00:58:10</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Library History</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_02_01_am.wav, ubmu0077_02_02_am.wav</item>
+            <item>Service copy files: ubmu0077_02_01_sc.mp3, ubmu0077_02_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">3</container>
+      <unittitle>
+         <persname>Bradley, Carol June</persname> and <persname>Coover, James, 1925-2004</persname>, 
+            <unitdate type="inclusive">1996-08-20, 1996-08-22</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: None - it is a conversation between Bradley and Coover.</p>
+         <p>Spine title: Coover-Bradley 8/20/96 II</p>
+         <p>Duration: 00:43:46</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Library History</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_03_01_am.wav, ubmu0077_03_02_am.wav</item>
+            <item>Service copy files: ubmu0077_03_01_sc.mp3, ubmu0077_03_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">4</container>
+      <unittitle>
+         <persname>Bradley, Carol June</persname> and <persname>Coover, James, 1925-2004</persname>, 
+            <unitdate type="inclusive">1996-08-22</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: None - it is a conversation between Bradley and Coover.</p>
+         <p>Spine title: Coover-Bradley III</p>
+         <p>Duration: 00:51:21</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Library History</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_04_01_am.wav, ubmu0077_04_02_am.wav</item>
+            <item>Service copy files: ubmu0077_04_01_sc.mp3, ubmu0077_04_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">5</container>
+      <unittitle>
+         <persname>Bradley, Carol June</persname> and <persname>Coover, James, 1925-2004</persname>, 
+            <unitdate type="inclusive">1996-08-23</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: None - it is a conversation between Bradley and Coover.</p>
+         <p>Spine title: Coover-Bradley 8/23/96</p>
+         <p>Duration: 00:55:32</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Library History</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_05_01_am.wav, ubmu0077_05_02_am.wav</item>
+            <item>Service copy files: ubmu0077_05_01_sc.mp3, ubmu0077_05_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">6</container>
+      <unittitle>
+         <persname>Bradley, Carol June</persname> and <persname>Coover, James, 1925-2004</persname>,
+            <unitdate type="inclusive">1996-09-09</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: None - it is a conversation between Bradley and Coover.</p>
+         <p>Spine title: Coover-Bradley V</p>
+         <p>Duration: 00:47:03</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Library History</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_06_01_am.wav, ubmu0077_06_02_am.wav</item>
+            <item>Service copy files: ubmu0077_06_01_sc.mp3, ubmu0077_06_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">7</container>
+      <unittitle>
+         <persname>Commanday, Robert</persname> and <persname>Dawson, Christopher</persname>, 
+            <unitdate type="inclusive">1993-02-06</unitdate>, <unitdate type="inclusive">1993-02-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Robert Commanday 6 Feb. 1993, Christopher Dawson 3 Feb. 1993</p>
+         <p>Duration: 01:24:46</p>
+         <p>Location of recording: San Francisco (Calif.)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: Maxell XLII 90</p>
+         <p>stereo.</p>
+         <p>Side B is Dawson ; Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_07_01_am.wav, ubmu0077_07_02_am.wav</item>
+            <item>Service copy files: ubmu0077_07_01_sc.mp3, ubmu0077_07_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">8</container>
+      <unittitle>
+         <persname>Foss, Lukas, 1922-2009</persname>, 
+            <unitdate type="inclusive">1994-03-21</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Lukas Foss, 21 March 1994</p>
+         <p>Duration: 00:06:04</p>
+         <p>Location of recording: by telephone</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK SA90</p>
+         <p>stereo.</p>
+         <p>Marked Dub. Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_08_01_am.wav</item>
+            <item>Service copy files: ubmu0077_08_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">9</container>
+      <unittitle>
+         <persname>Foss, Lukas, 1922-2009</persname>, 
+            <unitdate type="inclusive">1994-04-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Lukas Foss, 16 April 1994</p>
+         <p>Duration: 00:14:56</p>
+         <p>Location of recording: by telephone</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+         <p>Marked Dub. Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_09_01_am.wav</item>
+            <item>Service copy files: ubmu0077_09_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">10</container>
+      <unittitle>
+         <persname>Fuller, David R.</persname>, 
+            <unitdate type="inclusive">1993-02-17</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: David Fuller 17 Feb. 1993</p>
+         <p>Duration: 00:15:35</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: Maxell XLII 90</p>
+         <p>stereo.</p>
+         <p>Marked Dub. Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_10_01_am.wav</item>
+            <item>Service copy files: ubmu0077_10_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">11</container>
+      <unittitle>
+         <persname>Gearhart, Livingston</persname>, 
+            <unitdate type="inclusive">1981-11-15</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Livingston Gearhart 11/15/81</p>
+         <p>Duration: 01:00:28</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Certron 60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_11_01_am.wav, ubmu0077_11_02_am.wav</item>
+            <item>Service copy files: ubmu0077_11_01_sc.mp3, ubmu0077_11_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">12</container>
+      <unittitle>
+         <persname>Gearhart, Livingston</persname>, 
+            <unitdate type="inclusive">1981-11-15</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Livingston Gearhart (cont'd) 11/15/81</p>
+         <p>Duration: 01:00:20</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Certron 60</p>
+         <p>stereo.</p>
+         <p>Side 1 ends with 19 minutes of background noise. Side 2 contains only background noise.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_12_01_am.wav, ubmu0077_12_02_am.wav</item>
+            <item>Service copy files: ubmu0077_12_01_sc.mp3, ubmu0077_12_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">13</container>
+      <unittitle>
+         <persname>Gearhart, Livingston</persname>, 
+            <unitdate type="inclusive">1984-07-26</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Bradley, Carol June</persname>
+         </p>
+         <p>Spine title: Gearhart, Livingston - 1</p>
+         <p>Duration: 00:54:51</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>mono.</p>
+         <p>Marked as Preservation.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_13_01_am.wav, ubmu0077_13_02_am.wav</item>
+            <item>Service copy files: ubmu0077_13_01_sc.mp3, ubmu0077_13_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">14</container>
+      <unittitle>
+         <persname>Gearhart, Livingston</persname>, 
+            <unitdate type="inclusive">1984-07-26</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Bradley, Carol June</persname>
+         </p>
+         <p>Spine title: Gearhart, Livingston - 2</p>
+         <p>Duration: 01:00:34</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>mono.</p>
+         <p>Marked as Preservation.</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_14_01_am.wav, ubmu0077_14_02_am.wav</item>
+            <item>Service copy files: ubmu0077_14_01_sc.mp3, ubmu0077_14_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">15</container>
+      <unittitle>
+         <persname>Gearhart, Livingston</persname>, 
+            <unitdate type="inclusive">1984-07-26--1984-07-27</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Bradley, Carol June</persname>
+         </p>
+         <p>Spine title: Gearhart, Livingston - 3</p>
+         <p>Duration: 01:03:11</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>mono.</p>
+         <p>Marked as Preservation.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_15_01_am.wav, ubmu0077_15_02_am.wav</item>
+            <item>Service copy files: ubmu0077_15_01_sc.mp3, ubmu0077_15_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">16</container>
+      <unittitle>
+         <persname>Gearhart, Livingston</persname>, 
+            <unitdate type="inclusive">1984-07-27</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Bradley, Carol June</persname>
+         </p>
+         <p>Spine title: Gearhart, Livingston - 4</p>
+         <p>Duration: 00:49:59</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>mono.</p>
+         <p>Marked as Preservation.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_16_01_am.wav, ubmu0077_16_02_am.wav</item>
+            <item>Service copy files: ubmu0077_16_01_sc.mp3, ubmu0077_16_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">17</container>
+      <unittitle>
+         <persname>Hiller, Lejaren, 1924-1994</persname>, 
+            <unitdate type="inclusive">1981-10-21</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Dr. Lejaren Hiller 10/21/81</p>
+         <p>Duration: 00:49:11</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_17_01_am.wav, ubmu0077_17_02_am.wav</item>
+            <item>Service copy files: ubmu0077_17_01_sc.mp3, ubmu0077_17_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">18</container>
+      <unittitle>
+         <persname>Laster, Hal</persname>, 
+            <unitdate type="inclusive">1994-03-22</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Hal Laster, 22 March 1994</p>
+         <p>Duration: 00:14:55</p>
+         <p>Location of recording: by telephone</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK SA90</p>
+         <p>stereo.</p>
+         <p>Marked Dub. Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_18_01_am.wav</item>
+            <item>Service copy files: ubmu0077_18_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">19</container>
+      <unittitle>
+         <persname>Law, Rosemarie Cornelissen</persname>, 
+            <unitdate type="inclusive">1996-05-31</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Bradley, Carol June</persname>
+         </p>
+         <p>Spine title: Law, Rosemarie Cornelissen</p>
+         <p>Duration: 00:45:19</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Buffalo Music History and Arnold Cornelissen</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_19_01_am.wav, ubmu0077_19_02_am.wav</item>
+            <item>Service copy files: ubmu0077_19_01_sc.mp3, ubmu0077_19_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">20</container>
+      <unittitle>
+         <persname>Levine-Packer, Renee</persname>, 
+            <unitdate type="inclusive">1994-03-23</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Renee Levine, 23 March 1994</p>
+         <p>Duration: 01:02:49</p>
+         <p>Location of recording: by telephone</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_20_01_am.wav, ubmu0077_20_02_am.wav</item>
+            <item>Service copy files: ubmu0077_20_01_sc.mp3, ubmu0077_20_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">21</container>
+      <unittitle>
+         <persname>Middleton, Robert, 1920-</persname>, 
+            <unitdate type="inclusive">1994-01-19</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Robert Middleton 19 January 1994</p>
+         <p>Duration: 00:49:07</p>
+         <p>Location of recording: Lebanon (N.H.)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_21_01_am.wav, ubmu0077_21_02_am.wav</item>
+            <item>Service copy files: ubmu0077_21_01_sc.mp3, ubmu0077_21_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">22</container>
+      <unittitle>
+         <persname>Mols, Robert W.</persname>, 
+            <unitdate type="inclusive">1981-10-22</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Dr. Robert Mols, 10/22/81</p>
+         <p>Duration: 00:47:24</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_22_01_am.wav, ubmu0077_22_02_am.wav</item>
+            <item>Service copy files: ubmu0077_22_01_sc.mp3, ubmu0077_22_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">23</container>
+      <unittitle>
+         <persname>Pinto, Carlo, 1925-</persname>, 
+            <unitdate type="inclusive">1981-10-20</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Mr. Carlo Pinto 10/20/81</p>
+         <p>Duration: 00:54:54</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_23_01_am.wav, ubmu0077_23_02_am.wav</item>
+            <item>Service copy files: ubmu0077_23_01_sc.mp3, ubmu0077_23_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">24</container>
+      <unittitle>
+         <persname>Rantucci, Oswald</persname>, 
+            <unitdate type="inclusive">1981-12-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Mr. Oswald Rantucci, December 16, 1981</p>
+         <p>Duration: 00:30:23</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+         <p>Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_24_01_am.wav</item>
+            <item>Service copy files: ubmu0077_24_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">25</container>
+      <unittitle>
+         <persname>Ressel, Fred</persname>, 
+            <unitdate type="inclusive">1983-03-04</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview: Fred Ressel 3/4/83</p>
+         <p>Duration: 00:25:58</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+         <p>Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_25_01_am.wav</item>
+            <item>Service copy files: ubmu0077_25_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">26</container>
+      <unittitle>
+         <persname>Richards, Ronald</persname>, 
+            <unitdate type="inclusive">1981-10-28</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Ronald Richards 10/28/81</p>
+         <p>Duration: 01:00:26</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_26_01_am.wav, ubmu0077_26_02_am.wav</item>
+            <item>Service copy files: ubmu0077_26_01_sc.mp3, ubmu0077_26_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">27</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1981-11-23</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Mr. Allen Sapp 11/23/81 Tape 1</p>
+         <p>Duration: 01:03:26</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_27_01_am.wav, ubmu0077_27_02_am.wav</item>
+            <item>Service copy files: ubmu0077_27_01_sc.mp3, ubmu0077_27_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">28</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1981-11-23</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Mr. Allen Sapp 11/23/81 Tape 2</p>
+         <p>Duration: 00:15:54</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII 60</p>
+         <p>stereo.</p>
+         <p>Side 2 is blank.</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_28_01_am.wav</item>
+            <item>Service copy files: ubmu0077_28_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">29</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 5 Jan. 1991) 1/4</p>
+         <p>Duration: 01:34:18</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_29_01_am.wav, ubmu0077_29_02_am.wav</item>
+            <item>Service copy files: ubmu0077_29_01_sc.mp3, ubmu0077_29_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">30</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 5 Jan. 1991) 2/4</p>
+         <p>Duration: 01:34:30</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_30_01_am.wav, ubmu0077_30_02_am.wav</item>
+            <item>Service copy files: ubmu0077_30_01_sc.mp3, ubmu0077_30_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">31</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 5 Jan. 1991) 3/4</p>
+         <p>Duration: 01:34:44</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_31_01_am.wav, ubmu0077_31_02_am.wav</item>
+            <item>Service copy files: ubmu0077_31_01_sc.mp3, ubmu0077_31_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">32</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-05</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 5 Jan. 1991) 4/4</p>
+         <p>Duration: 01:27:46</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_32_01_am.wav, ubmu0077_32_02_am.wav</item>
+            <item>Service copy files: ubmu0077_32_01_sc.mp3, ubmu0077_32_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">33</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-12</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 12 Jan. 1991) 1/4</p>
+         <p>Duration: 01:33:07</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_33_01_am.wav, ubmu0077_33_02_am.wav</item>
+            <item>Service copy files: ubmu0077_33_01_sc.mp3, ubmu0077_33_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">34</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-12</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 12 Jan. 1991) 2/4</p>
+         <p>Duration: 01:30:33</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_34_01_am.wav, ubmu0077_34_02_am.wav</item>
+            <item>Service copy files: ubmu0077_34_01_sc.mp3, ubmu0077_34_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">35</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-12</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 12 Jan. 1991) 3/4</p>
+         <p>Duration: 01:34:41</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_35_01_am.wav, ubmu0077_35_02_am.wav</item>
+            <item>Service copy files: ubmu0077_35_01_sc.mp3, ubmu0077_35_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">36</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-12</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 12 Jan. 1991) 4/4</p>
+         <p>Duration: 00:58:18</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_36_01_am.wav, ubmu0077_36_02_am.wav</item>
+            <item>Service copy files: ubmu0077_36_01_sc.mp3, ubmu0077_36_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">37</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 16 Jan. 1991) Tape 1 of 2</p>
+         <p>Duration: 01:34:54</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK AD90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_37_01_am.wav, ubmu0077_37_02_am.wav</item>
+            <item>Service copy files: ubmu0077_37_01_sc.mp3, ubmu0077_37_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">38</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-01-16</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp (interview 16 Jan. 1991) Tape 2 of 2</p>
+         <p>Duration: 01:25:03</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK SA90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_38_01_am.wav, ubmu0077_38_02_am.wav</item>
+            <item>Service copy files: ubmu0077_38_01_sc.mp3, ubmu0077_38_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">39</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-03-25</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 25 March 1991 Sides 1 and 2</p>
+         <p>Duration: 01:34:59</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+        
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_39_01_am.wav, ubmu0077_39_02_am.wav</item>
+            <item>Service copy files: ubmu0077_39_01_sc.mp3, ubmu0077_39_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">40</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-03-25</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 25 March 1991 Sides 3 and 4</p>
+         <p>Duration: 01:34:32</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_40_01_am.wav, ubmu0077_40_02_am.wav</item>
+            <item>Service copy files: ubmu0077_40_01_sc.mp3, ubmu0077_40_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">41</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-03-25--1991-03-26</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 25-26 March 1991 Sides 5-6</p>
+         <p>Duration: 01:23:10</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_41_01_am.wav, ubmu0077_41_02_am.wav</item>
+            <item>Service copy files: ubmu0077_41_01_sc.mp3, ubmu0077_41_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">42</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-03-26</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 26 March 1991 Sides 7 and 8</p>
+         <p>Duration: 01:34:59</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_42_01_am.wav, ubmu0077_42_02_am.wav</item>
+            <item>Service copy files: ubmu0077_42_01_sc.mp3, ubmu0077_42_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">43</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-03-26</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 26 March 1991 Side 9</p>
+         <p>Duration: 01:34:32</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Includes Side B (Side 10 in series) ; Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_43_01_am.wav, ubmu0077_43_02_am.wav</item>
+            <item>Service copy files: ubmu0077_43_01_sc.mp3, ubmu0077_43_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">44</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-03-26</unitdate>, <unitdate type="inclusive">1991-12-14</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 26 March 1991, Side 11 of 11, 14 December 1991 Side 3 of 3</p>
+         <p>Duration: 00:03:46</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Side B is Side 3 of interview started on Tape 51 ; Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_44_01_am.wav, ubmu0077_44_02_am.wav</item>
+            <item>Service copy files: ubmu0077_44_01_sc.mp3, ubmu0077_44_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">45</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-12-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 7 Dec. 1991 Sides 1 and 2</p>
+         <p>Duration: 01:03:32</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_45_01_am.wav, ubmu0077_45_02_am.wav</item>
+            <item>Service copy files: ubmu0077_45_01_sc.mp3, ubmu0077_45_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">46</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-12-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 7 Dec. 1991 Sides 3 and 4</p>
+         <p>Duration: 01:36:24</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: JVC GI-90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_46_01_am.wav, ubmu0077_46_02_am.wav</item>
+            <item>Service copy files: ubmu0077_46_01_sc.mp3, ubmu0077_46_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="audiocassette">47</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-12-07</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 7 Dec. 1991 Sides 5 and 6</p>
+         <p>Duration: 00:33:48</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_47_01_am.wav, ubmu0077_47_02_am.wav</item>
+            <item>Service copy files: ubmu0077_47_01_sc.mp3, ubmu0077_47_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">48</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-12-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 8 December 1991 Sides 1 and 2</p>
+         <p>Duration: 01:21:34</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: JVC GI-90</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_48_01_am.wav, ubmu0077_48_02_am.wav</item>
+            <item>Service copy files: ubmu0077_48_01_sc.mp3, ubmu0077_48_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">49</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-12-08</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 8 December 1991 Sides 3 and 4</p>
+         <p>Duration: 01:38:09</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: Maxell XLII 100</p>
+         <p>stereo.</p>
+         <p>Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_49_01_am.wav, ubmu0077_49_02_am.wav</item>
+            <item>Service copy files: ubmu0077_49_01_sc.mp3, ubmu0077_49_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">50</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1991-12-14</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 14 December 1991 Sides 1 and 2</p>
+         <p>Duration: 01:44:44</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: Maxell XLII 100</p>
+         <p>stereo.</p>
+         <p>Side 3 of this interview is on Tape 44 Side B ; Marked Dub</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_50_01_am.wav, ubmu0077_50_02_am.wav</item>
+            <item>Service copy files: ubmu0077_50_01_sc.mp3, ubmu0077_50_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">51</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1994-04-03</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Allen Sapp 3 April 1994</p>
+         <p>Duration: 00:22:11</p>
+         <p>Location of recording: Columbus (Ohio)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: TDK D60</p>
+         <p>stereo.</p>
+         <p>Marked Dub. Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_51_01_am.wav</item>
+            <item>Service copy files: ubmu0077_51_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">52</container>
+      <unittitle>
+         <persname>Sapp, Allen, 1922-1999</persname>, 
+            <unitdate type="inclusive">1981-10-27</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Mr. Allen Sigel 10/27/81</p>
+         <p>Duration: 00:29:26</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII C60</p>
+         <p>stereo.</p>
+         <p>Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_52_01_am.wav</item>
+            <item>Service copy files: ubmu0077_52_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">53</container>
+      <unittitle>
+         <persname>Slatin, Myles</persname>, 
+            <unitdate type="inclusive">1994-01-17</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Myles Slatin 17 January 1994</p>
+         <p>Duration: 00:52:40</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: Maxell XLII 90</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_53_01_am.wav, ubmu0077_53_02_am.wav</item>
+            <item>Service copy files: ubmu0077_53_01_sc.mp3, ubmu0077_53_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">54</container>
+      <unittitle>
+         <persname>Smit, Leo, 1921-1999</persname>, 
+            <unitdate type="inclusive">1981-11-19</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Almquist, Sharon G.</persname>
+         </p>
+         <p>Spine title: Interview with Mr. Leo Smit 11/19/81</p>
+         <p>Duration: 00:26:30</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: University at Buffalo Music Department History</p>
+         <p>Type of tape: Maxell UDXLII C60</p>
+         <p>stereo.</p>
+         <p>Side 2 is blank.</p>
+      
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_54_01_am.wav</item>
+            <item>Service copy files: ubmu0077_54_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">55</container>
+      <unittitle>
+         <persname>Tinney, Al</persname>, 
+            <unitdate type="inclusive">1980-04-11</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Music 515 class  directed by James Patrick</persname>
+         </p>
+         <p>Spine title: Tinney, Allen #1</p>
+         <p>Duration: 00:59:39</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Buffalo Music History</p>
+         <p>Type of tape: Maxell UDXLII C60</p>
+         <p>stereo.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_55_01_am.wav, ubmu0077_55_02_am.wav</item>
+            <item>Service copy files: ubmu0077_55_01_sc.mp3, ubmu0077_55_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">56</container>
+      <unittitle>
+         <persname>Tinney, Al</persname>, 
+            <unitdate type="inclusive">1980-04-11</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Music 515 class  directed by James Patrick</persname>
+         </p>
+         <p>Spine title: Tinney, Allen #2</p>
+         <p>Duration: 01:02:25</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Buffalo Music History</p>
+         <p>Type of tape: Maxell UDXLII C60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_56_01_am.wav, ubmu0077_56_02_am.wav</item>
+            <item>Service copy files: ubmu0077_56_01_sc.mp3, ubmu0077_56_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">57</container>
+      <unittitle>
+         <persname>Tinney, Al</persname>, 
+            <unitdate type="inclusive">1980-04-11</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Music 515 class  directed by James Patrick</persname>
+         </p>
+         <p>Spine title: Tinney, Allen #3</p>
+         <p>Duration: 00:36:34</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Buffalo Music History</p>
+         <p>Type of tape: Maxell UDXLII C60</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_57_01_am.wav, ubmu0077_57_02_am.wav</item>
+            <item>Service copy files: ubmu0077_57_01_sc.mp3, ubmu0077_57_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">58</container>
+      <unittitle>
+         <persname>Turner, Hazel</persname>, 
+            <unitdate type="inclusive">1980-02-21</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Vine, Rita</persname>
+         </p>
+         <p>Spine title: Turner, Hazel Feb. 21 1980</p>
+         <p>Duration: 01:11:59</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Buffalo Music History</p>
+         <p>Type of tape: Maxell UDXLII C90</p>
+         <p>stereo.</p>
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_58_01_am.wav, ubmu0077_58_02_am.wav</item>
+            <item>Service copy files: ubmu0077_58_01_sc.mp3, ubmu0077_58_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">59</container>
+      <unittitle>
+         <persname>Van Arsdale, Jane</persname>, 
+            <unitdate type="inclusive">1980-01-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Vine, Rita</persname>
+         </p>
+         <p>Spine title: Van Arsdale, Jane Tape #1</p>
+         <p>Duration: 00:57:10</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Buffalo Music History</p>
+         <p>Type of tape: Maxell UDXLII C60</p>
+         <p>stereo.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_59_01_am.wav, ubmu0077_59_02_am.wav</item>
+            <item>Service copy files: ubmu0077_59_01_sc.mp3, ubmu0077_59_02_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">60</container>
+      <unittitle>
+         <persname>Van Arsdale, Jane</persname>, 
+            <unitdate type="inclusive">1980-01-10</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Vine, Rita</persname>
+         </p>
+         <p>Spine title: Van Arsdale, Jane Tape #2</p>
+         <p>Duration: 00:08:27</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Buffalo Music History</p>
+         <p>Type of tape: Maxell UDXLII C60</p>
+         <p>stereo.</p>
+         <p>Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_60_01_am.wav</item>
+            <item>Service copy files: ubmu0077_60_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>
+<c02 level="item">
+   <did>
+      <container type="box">2</container>
+      <container type="audiocassette">61</container>
+      <unittitle>
+         <persname>Williams, Jan, 1939-</persname>, 
+            <unitdate type="inclusive">1993-02-17</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 audiocassette</extent>
+      </physdesc>
+      <note>
+         <p>Interviewer: <persname>Green, Alan, 1962-</persname>
+         </p>
+         <p>Spine title: Jan Williams 17 Feb. 93</p>
+         <p>Duration: 00:39:39</p>
+         <p>Location of recording: Buffalo (N.Y.)</p>
+         <p>Context: Allen Sapp Biography</p>
+         <p>Type of tape: Maxell XLII 90</p>
+         <p>stereo.</p>
+         <p>Side 2 is blank.</p>
+         
+      </note>
+   </did>
+   <altformavail>
+      <p>Digitized copies: <list type="simple">
+            <item>Preservation archival master files: ubmu0077_61_01_am.wav</item>
+            <item>Service copy files: ubmu0077_61_01_sc.mp3</item>
+         </list>
+      </p>
+   </altformavail>
+</c02>		 
+		 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note>
+<controlaccess> 
+<head>Contributors</head>
+<persname source="lcnaf" encodinganalog="700">Almquist, Sharon G.</persname>
+<persname source="lcnaf" encodinganalog="700">Bradley, Carol June</persname>
+<persname source="lcnaf" encodinganalog="700">Green, Alan, 1962- </persname> 
+<persname source="lcnaf" encodinganalog="700">Steinzor, Curt Efram</persname> 
+<persname source="lcnaf" encodinganalog="700">Vine, Rita</persname> 
+</controlaccess> 
+		
+		<controlaccess> 
+		  <head>Subjects</head>
+<persname source="lcnaf" encodinganalog="600" role="subject">Sapp, Allen, 1922-1999</persname>
+<persname source="lcnaf" encodinganalog="600" role="subject">Tinney, Al</persname>
+<persname source="lcnaf" encodinganalog="600" role="subject">Cornelissen, Arnold</persname>
+<persname source="lcnaf" encodinganalog="600" role="subject">Gearhart, Livingston</persname>
+<persname source="lcnaf" encodinganalog="600" role="subject">Foss, Lukas, 1922-2009</persname>
+<corpname source="lcnaf" encodinganalog="610" role="subject">State University of New York at Buffalo. Music Department</corpname> 
+<corpname source="lcnaf" encodinganalog="610" role="subject">State University of New York at Buffalo. Music Library</corpname>  
+		  <subject source="lcsh" encodinganalog="650">Music
+			 librarians--Interviews</subject> 
+<subject source="lcsh" encodinganalog="650">Music -- New York (State) -- Buffalo -- History</subject>
+<subject source="lcsh" encodinganalog="650">Music -- Instruction and study -- New York (State) -- Buffalo -- History</subject>  			 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">audiocassettes</genreform>
+		  
+		  <genreform encodinganalog="655" source="aat">oral histories (document
+			 genres)</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 3.6::J. Warren Perry Interview Tapes)//EN">ubmu0003_6</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the J. Warren Perry Interview Tapes, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1995/2002">1995-2002</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Perry (J. Warren) Interview Tapes</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, December 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard ).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">J. Warren Perry Interview Tapes, 
+		  <unitdate encodinganalog="245$f" normal="1995/2002" type="inclusive" datechar="creation">1995-2002</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 3.6</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Perry, J.
+			 Warren </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="item" encodinganalog="300">(6 audio cassettes, 2 video cassettes)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material recorded in <language encodinganalog="041" langcode="eng">English</language>.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Contains 6 cassette recordings of interviews conducted with collector J. Warren Perry and 2 VHS tapes of events in which he was featured.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], J. Warren Perry Interview Tapes, 1995-2002, Music Library, The State University
+			 of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Cassettes created by Music Library staff and students.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2018.</p> 
+		</processinfo> 
+<note><p>Two copies of each cassette have been retained until it can be determined which copy is the original and preferred for digitizing.</p></note>		
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Dr. J. Warren Perry was born in Richmond, Indiana in 1921. He earned
+		  his B.A. at DePauw University in 1944, his Master's at Northwestern University
+		  in 1952, and his Ph.D. at Northwestern in 1955. Dr. Perry has been on the
+		  faculties at the University of Illinois at Chicago, Northwestern Medical
+		  School, and the University of Chicago. He was also employed as deputy assistant
+		  commissioner for research and training in the Vocational Rehabilitation
+		  Administration at the Department of Health, Education and Welfare in
+		  Washington, D.C. Dr. Perry is the founder of the School of Health Related
+		  Professions (now the School of Public Health and Health Professions) at the
+		  University at Buffalo, The State University of New York. He served as dean of
+		  the school from its founding in 1967 until 1977.</p> 
+		<p>Dr. Perry devoted much of his life to supporting the arts. Before
+		  moving to Buffalo he was one of the founders of the Lyric Opera Company in
+		  Chicago. Since arriving in Buffalo Dr. Perry has served as chairman or board
+		  member for several local organizations, including the Buffalo Philharmonic,
+		  Community Music School, Theodore Roosevelt Inaugural National Historic Site,
+		  Artpark, and Friends of the Center for the Arts. The numerous awards granted to
+		  honor Dr. Perry's contributions to the community include the Buffalo Arts
+		  Councils' Supporter of the Arts award, the Buffalo Distinguished Citizen Award,
+		  and national Outstanding Philanthropist Award. Dr. Perry died August 5, 2010 in
+		  Buffalo.</p>
+		<p>J. Warren Perry was an avid collector of photographs and other
+		  artifacts related to music, especially opera and ballet. He worked for the
+		  Lyric Opera in Chicago as Director of the Committee on Education. He was interviewed in 1995 by Music Library students, Leah Maragliano and Kathy Blough.  </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Contains 6 cassette recordings of interviews conducted with collector J. Warren Perry and 2 VHS tapes of events in which he was featured.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in two series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				</ref>Cassette tapes</item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				</ref>VHS tapes</item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1"> I.</unitid> 
+			 <unittitle>Cassette tapes, 
+				<unitdate type="inclusive" normal="1995" datechar="creation">1995</unitdate> </unittitle> 
+			 <physdesc><extent>Cassette 1-6</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chronologically arranged. </p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">1</container> 
+				<unittitle>Interview with J. Warren Perry tape 1, 
+				  <unitdate type="inclusive">10 May 1995</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+			 </did> 
+		  </c02>
+<c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">2</container> 
+				<unittitle>Interview with J. Warren Perry tape 2, 
+				  <unitdate type="inclusive">17 May 1995</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+			 </did> 
+		  </c02>
+<c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">3</container> 
+				<unittitle>Interview with J. Warren Perry tape 3, 
+				  <unitdate type="inclusive">17 May 1995</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+			 </did> 
+		  </c02>
+<c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">4</container> 
+				<unittitle>Interview with J. Warren Perry tape 4, 
+				  <unitdate type="inclusive">24 May 1995</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+			 </did> 
+		  </c02>
+<c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">5</container> 
+				<unittitle>Interview with J. Warren Perry tape 5, 
+				  <unitdate type="inclusive">24 May 1995</unitdate>, <unitdate type="inclusive">31 May 1995</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+			 </did> 
+		  </c02>
+<c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">6</container> 
+				<unittitle>Interview with J. Warren Perry tape 6, 
+				  <unitdate type="inclusive">31 May 1995</unitdate></unittitle> 
+				<physdesc><extent>1 cassette</extent></physdesc> 
+			 </did> 
+		  </c02>		  		  		  		  		  
+		  
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>VHS tapes, 
+				<unitdate type="inclusive" normal="2000/2002" datechar="creation">2000-2002</unitdate> </unittitle> 
+			 <physdesc><extent>Item 7-8</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chronologically arranged. </p>
+</arrangement>			 
+			 
+		 
+			 <c02 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="item">7</container> 
+				  <unittitle>Arts Council Awards, 
+					 <unitdate>2000</unitdate></unittitle>
+				  <physdesc><extent>1 VHS cassette</extent></physdesc>
+<note><p>From WKBW-TV.</p></note>				  
+				</did>
+				
+			 </c02>		 
+			 <c02 level="item">
+				<did> 
+				  <container type="box">1</container> 
+				  <container type="item">8</container> 
+				  <unittitle>J. Warren Perry interview, 
+					 <unitdate>16 August 2002</unitdate></unittitle>
+				  <physdesc><extent>1 VHS cassette</extent></physdesc>
+				</did>
+				
+			 </c02>
+</c01>			  
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+<controlaccess><head>Contributors</head>
+<persname encodinganalog="700" source="lcnaf" role="creator">Blough, Kathryn M., 1960-</persname>
+<persname encodinganalog="700" rules="aacr2" role="creator">Maragliano, Leah </persname>
+
+<corpname encodinganalog="710" source="lcnaf" role="creator">State University of New York at Buffalo. Music Library</corpname></controlaccess>		
+		<controlaccess> 
+		  <head>Subjects</head> 
+		   <persname encodinganalog="600" source="lcnaf" role="subject">Perry, J. Warren</persname> 
+			 <subject source="lcsh" encodinganalog="650">Opera--20th century</subject>
+
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">interviews</genreform>
+<genreform encodinganalog="655" source="aat">audiocassettes</genreform> 			 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0003_1.xml " show="new" actuate="onrequest" role="text/html"> J. Warren Perry Collection of
+						Photographs, ca. 1910-1971</archref> Mus. Arc. 3.1 </label> 
+				  <item>A collection of 2110 photographs, chiefly of opera singers
+					 and productions, with additional photographs of conductors, performers,
+					 ensembles, and concert halls. </item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 82::Friedrich Otto Trautmann Collection of Manuscript Scores)//EN"
+	  encodinganalog="identifier">ubmu0082</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Friedrich Otto
+			 Trautmann Collection of Manuscript Scores, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1880/1918" certainty="approximate">circa
+				1880-1918</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Trautmann (Friedrich
+			 Otto) Collection of Manuscript Scores </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date encodinganalog="date" type="publication">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, September 2018.
+		  </creation> 
+		<langusage>Finding aid is in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>). </descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Friedrich Otto Trautmann
+		  Collection of Manuscript Scores, 
+		  <unitdate encodinganalog="245$f" normal="1880/1918" type="inclusive"
+			datechar="creation" certainty="approximate">circa
+			 1880-1918</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 82</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" rules="aacr2">Trautmann,
+			 F. O. (Friedrich Otto)</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent><extent encodinganalog="300$a" unit="item"> (19 items)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">Lyrics in
+		  one work in <language langcode="eng" encodinganalog="041">English</language>.
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">The collection contains
+		  scores and parts of twenty original compositions by Friedrich Otto Trautmann, a
+		  composer and organist who lived in Germany and England in the late nineteenth
+		  to early twentieth century.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Friedrich Otto Trautmann Collection of Manuscript
+			 Scores, circa 1880-1918, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Material is in the public domain.</p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of John Myhill, September 1988.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Friedrich Otto Trautmann was a composer and organist who was born in
+		  Silesia in Germany and later emigrated to Ratcliffe, England. According to some
+		  genealogical discourse, he was married to a woman named Anna and they had a son
+		  either named Friedrich Otto or Frederick Oswald Trautmann, born in Ratcliffe,
+		  England in 1882. The son married pianist Thyrza Barrs in 1909. The British
+		  Library holds seven works by Trautmann, published between 1886 and 1907. Beyond
+		  those facts, little has been discovered about Trautmann's biography. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains scores and parts of twenty original
+		  compositions by Friedrich Otto Trautmann. Some works are represented by
+		  multiple versions or copies, and some folios hold multiple works. The
+		  composer's name is signed chiefly as F. O. Trautmann, but also signed as Fried.
+		  Otto Trautmann, Fr. Otto Trautmann, and Frd. Otto Trautmann. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is chiefly arranged alphabetically by title. </p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Container List</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">01</container> 
+			 <unittitle> 
+				<title type="transcribed">Andante con variazioni</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (6 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>For piano.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">02</container> 
+			 <unittitle> 
+				<title type="transcribed">Andante religioso con variazioni</title>,
+				
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (4 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>For piano. </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">03</container> 
+			 <unittitle> 
+				<title type="transcribed">Andante espessivo</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (2 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>For piano.</p> 
+			 <p>This version is in 3-8 meter.</p> 
+			 <p>Followed by 
+			 <title render="italic">Andante con moto</title> (2 pages), for
+			 piano.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">04</container> 
+			 <unittitle> 
+				<title type="transcribed">Andante espessivo</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (4 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>For piano.</p> 
+			 <p>This version is in 12-8 meter.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">05</container> 
+			 <unittitle> 
+				<title type="transcribed">Fantasie de concert pour violon &amp;
+				  piano</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (14 pages)</extent>
+				</physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">06</container> 
+			 <unittitle> 
+				<title type="transcribed">Grande marche militaire</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (8 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>For piano.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">07</container> 
+			 <unittitle> 
+				<title type="transcribed">Grande marche solennelle [for
+				  piano]</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (5 pages)</extent>
+				</physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">08</container> 
+			 <unittitle> 
+				<title type="transcribed">Grande marche solennelle [for violin and
+				  piano]</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (8 pages)</extent>
+				</physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">09</container> 
+			 <unittitle> 
+				<title type="transcribed">Marche funèbre</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (4 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>For piano.</p> 
+			 <p>"Sur la mort des héros tombés dans la guerre de 1914 à
+				1918"--Caption.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">10</container> 
+			 <unittitle> 
+				<title type="transcribed">Romance pour violon avec l'accompagnemt
+				  de piano</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (7 pages) and 1 ink
+				manuscript part (2 pages)</extent> </physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">11</container> 
+			 <unittitle> 
+				<title type="transcribed">Selections within one folio</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (22 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Sonate 1 [for piano] -- Sonate 2 [for piano] -- Sonate 3 [for
+				piano] -- The Great mogul [operetta, with English words].</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">12</container> 
+			 <unittitle> 
+				<title type="transcribed">Sonate für das Pianoforte</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (14 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>In A major.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">13</container> 
+			 <unittitle> 
+				<title type="transcribed">Sonata in B minor for violin and
+				  piano</title>, 
+				<unitdate>undated</unitdate></unittitle> 
+			 <physdesc><extent>1 ink manuscript part (11 pages)</extent>
+				</physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">14</container> 
+			 <unittitle> 
+				<title type="transcribed">Sonata in D minor [for violin and piano.
+				  First movement]</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (9 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Followed by separately paginated score (33 pages) of
+			 <title render="italic">Sonata for violin and piano in B
+				minor</title>, which matches the content of the violin part in Item 13.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">15</container> 
+			 <unittitle> 
+				<title type="transcribed">Sonata (violin &amp; piano) [in D
+				  minor]</title> 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (23 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Complete work for which first movement is in Item 14.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">16 </container> 
+			 <unittitle> 
+				<title type="transcribed">Sonata for piano &amp; violin [in C
+				  major]</title> 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (21 pages) and 1 ink
+				manuscript part (8 pages)</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Part stamped "F. Sharpe".</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">17 </container> 
+			 <unittitle> 
+				<title type="transcribed">Sonate für Geige und Flügel</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (16 pages) and 1 ink
+				manuscript part (6 pages)</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>In C major.</p> 
+			 <p>Grove Music Online: "Flügel: A term used for wing-shaped stringed
+				keyboard instruments. During the 18th and early 19th centuries it was applied
+				to the Harpsichord. Later in the 19th century the term came to denote the Grand
+				pianoforte."</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">18</container> 
+			 <unittitle> 
+				<title type="transcribed">Sonata in D major, scored at present for
+				  violin and piano</title>, 
+				<unitdate>1917</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (20 pages) and 1 ink
+				manuscript part (6 pages)</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Score is incomplete compared to the part.</p> 
+			 <p>Title on part: Fugal sonata in D major.</p> 
+			 <p>"Begun in May 1917, Finished July 14th 1917"--Title page.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">19</container> 
+			 <unittitle> 
+				<title type="transcribed">Wolkenbilder (Cloud pictures)</title>, 
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 ink manuscript score (5 pages)</extent>
+				</physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>For violin and piano</p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog:</p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head>
+<persname rules="aacr2" role="subject" encodinganalog="600">Trautmann, F. O. (Friedrich Otto) -- Manuscripts</persname>		  
+		  <subject source="lcsh"
+			encodinganalog="650">Music--Manuscripts</subject> 
+<subject source="lcsh" encodinganalog="650">Piano music</subject>
+<subject source="lcsh" encodinganalog="650">Violin and piano music--Scores and parts</subject>			
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Manuscripts</genreform> 
+		  <genreform source="aat" encodinganalog="655">Scores</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc> 
+</ead> 

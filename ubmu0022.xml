@@ -14,7 +14,7 @@
 		  <titleproper encodinganalog="title">Finding Aid for the Yvar Mikhashoff
 			 Trust for New Music Records, 
 			 <date encodinganalog="date" era="ce" calendar="gregorian"
-			  type="inclusive" normal="1996/2011"> 1996-2011</date> </titleproper> 
+			  type="inclusive" normal="1996/2017">1996-2017</date> </titleproper> 
 		  <titleproper type="filing" altrender="nodisplay"> Mikhashoff (Yvar)
 			 Trust for New Music Records </titleproper> 
 		  <author encodinganalog="contributor">Finding aid prepared by John
@@ -59,14 +59,14 @@
 		<head>Collection Overview</head> 
 		<unittitle label="Title" encodinganalog="245$a">Yvar Mikhashoff Trust for
 		  New Music Records, 
-		  <unitdate encodinganalog="245$f" normal="1996/2011" type="inclusive"
-			datechar="creation"> 1996-2011 </unitdate></unittitle> 
+		  <unitdate encodinganalog="245$f" normal="1996/2017" type="inclusive"
+			datechar="creation"> 1996-2017</unitdate></unittitle> 
 		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
 		 label="Collection Number">Mus. Arc. 22</unitid> 
 		<origination label="Creator"> 
 		  <corpname encodinganalog="110" role="creator" rules="aacr2">Yvar
 			 Mikhashoff Trust for New Music </corpname> </origination> 
-		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">93
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">94
 		  boxes</extent> </physdesc> 
 		<langmaterial label="Language of Material" encodinganalog="546">
 		  Collection material in <language encodinganalog="041"
@@ -84,7 +84,7 @@
 		<prefercite encodinganalog="524"> 
 		  <head>Preferred Citation</head> 
 		  <p>[Specified item], Yvar Mikhashoff Trust for New Music Records,
-			 1996-2011, Music Library, The State University of New York at Buffalo.</p> 
+			 1996-2017, Music Library, The State University of New York at Buffalo.</p> 
 		</prefercite> 
 		<accessrestrict encodinganalog="506"> 
 		  <head>Terms of Access</head> 
@@ -254,7 +254,8 @@
 				recording</item> 
 		  </list> </p> 
 		<p>Correspondence between applicant and trust may also be included,
-		  including follow up materials. Some include samples of press materials. </p> 
+		  including follow up materials. Some include samples of press materials. </p>
+<p>Note that starting in 2013 all applications and accompanying materials were received in electronic form. These files are currently stored with other Trust files on the local Y drive as well as in the local instance of Box.</p>		   
 	 </scopecontent> 
 	 <arrangement encodinganalog="351"> 
 		<head>Arrangement</head> 
@@ -306,6 +307,9 @@
 		  <item> 
 			 <ref actuate="onrequest" show="replace" target="series15">XV. 2011
 				</ref></item> 
+<item> 
+			 <ref actuate="onrequest" show="replace" target="series16">XVI. 2012-2017
+				</ref></item> 				
 		</list> 
 	 </arrangement> 
 	 <dsc type="combined"> 
@@ -18783,6 +18787,21 @@
 				  <p>For string quartet.</p> 
 				</scopecontent> 
 			 </c03> 
+ <c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2011-193a</container> 
+				  <unittitle> 
+					 <persname rules="AACR2">Wang, Ashley Fu-Tsun</persname> 
+					 <title render="italic">Current</title>, 
+					 <unitdate normal="2011"
+					  type="inclusive">2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (27 p.) ; 28 cm.</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano.</p> 
+				</scopecontent> 
+			 </c03> 			 
 			 <c03 level="item"> 
 				<did> 
 				  <container type="box">93</container> 
@@ -18814,7 +18833,558 @@
 				</scopecontent> 
 			 </c03> 
 		  </c02> 
-		</c01> 
+		</c01>
+<c01 level="series"> 
+		  <did> 
+			 <unitid id="series16">XVI.</unitid> 
+			 <unittitle> 
+				<unitdate type="inclusive" normal="2012">2012</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Item 2012-001-2012-066</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged into three subseries: </p> 
+			 <list> 
+				
+				<item> 
+				  <ref target="series16a" show="replace" actuate="onrequest">A.
+					 Applicants (Pianist and Composer)</ref></item> 
+				<item> 
+				  <ref target="series16b" show="replace" actuate="onrequest">B.
+					 Audio and video recordings</ref></item> 
+				<item> 
+				  <ref target="series16c" show="replace" actuate="onrequest">C.
+					 Scores</ref></item> 
+			 </list> 
+		  </arrangement> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series16a">A.</unitid> 
+				<unittitle>Applicants (Pianist and Composer), 
+				  <unitdate type="inclusive" normal="2012"
+				  datechar="creation">2012</unitdate></unittitle> 
+				<physdesc><extent>Item 2012-001-2012-011</extent></physdesc> 
+			 </did> 
+<arrangement> 
+	<p>Arranged alphabetically by the pianist's last name.</p> 
+</arrangement> 			 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-001</container> 
+				  <unittitle> 
+					 <persname>Antoniadis, Pavlos, 1978-</persname>, 
+					 <persname>Noble, Andrew R.</persname></unittitle> 
+				</did> 
+			 </c03>
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-002</container> 
+				  <unittitle> 
+					 <persname>Chow, Vicky</persname>, 
+					 <persname>Wohl, Daniel</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-003</container> 
+				  <unittitle> 
+					 <persname>Clark, Eric</persname>, 
+					 <persname>Kriegeskotte, Christian</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-004</container> 
+				  <unittitle> 
+					 <persname>Costello, Andy</persname>, 
+					 <persname>Larrain, Daniel</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-005</container> 
+				  <unittitle> 
+					 <persname>Digkas, Chris</persname>, 
+					 <persname>Kourti-Papamoustou, Vasiliki</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-006</container> 
+				  <unittitle> 
+					 <persname>Faliks, Inna</persname>, 
+					 <persname>Cooper, William David</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-007</container> 
+				  <unittitle> 
+					 <persname>Huebner, Eric</persname>, 
+					 <persname>Wubbels, Eric</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-008</container> 
+				  <unittitle> 
+					<persname>Kirchoff, Keith</persname>, 
+					 <persname>Chandler, Christopher</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-009</container> 
+				  <unittitle> 
+					 <persname>Kirkendoll, Michael</persname>, 
+					 <persname>Omiccioli, Nicholas S.</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-010</container> 
+				  <unittitle> 
+					 <persname>Ye, Sisi</persname>, 
+					 <persname>Chen, Yeung-ping</persname></unittitle> 
+				</did>
+<scopecontent><p>Accompanied by DVD containing application form data.</p></scopecontent>				 
+			 </c03> 
+<c03 level="file"> 
+				<did> 
+				  <container type="box">88</container> 
+				  <container type="item">2012-011</container> 
+				  <unittitle> 
+					 <persname>Zhou, Andrew</persname>, 
+					 <persname>Adams, Samuel Carl, 1985-</persname></unittitle> 
+				</did> 
+			 </c03> 
+ 			 			 			 			 			 			 			 			 			 				 		 
+</c02>
+<c02 level="subseries"> 
+			 <did> 
+				<unitid id="series16b">B.</unitid> 
+				<unittitle>Audio and video recordings, 
+				  <unitdate type="inclusive" normal="2012"
+				  datechar="creation">2012</unitdate></unittitle> 
+				<physdesc><extent>Item 2012-012-2012-053</extent></physdesc> 
+			 </did>
+<arrangement>
+	<p>Alphabetically arranged by surname. Some headings have multiple entries.</p> 
+</arrangement>
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-012</container> 
+				  <unittitle> 
+					 <persname>Adams, Samuel Carl, 1985-</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-013-2012-014</container> 
+				  <unittitle> 
+					 <persname>Antoniadis, Pavlos</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-015</container> 
+				  <unittitle> 
+					 <persname>Chandler, Christopher</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-016-2012-018</container> 
+				  <unittitle> 
+					 <persname>Chow, Vicky</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-019-2012-021</container> 
+				  <unittitle> 
+					 <persname>Clark, Eric</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-022</container> 
+				  <unittitle> 
+					 <persname>Cooper, William David</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-023</container> 
+				  <unittitle> 
+					 <persname>Costello, Andy</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-024</container> 
+				  <unittitle> 
+					 <persname>Den Boer, Julia</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-025-2012-028</container> 
+				  <unittitle> 
+					 <persname>Digkas, Chris</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-029</container> 
+				  <unittitle> 
+					 <persname>Faliks, Inna</persname></unittitle> 
+				</did> 
+			 </c03> 
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-030-2012-031</container> 
+				  <unittitle> 
+					 <persname>Ho, Jocelyn</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-032-2012-033</container> 
+				  <unittitle> 
+					 <persname>Huebner, Eric</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-034-2012-036</container> 
+				  <unittitle> 
+					 <persname>Kirchoff, Keith</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-037-2012-038</container> 
+				  <unittitle> 
+					 <persname>Kirkendoll, Michael</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-039</container> 
+				  <unittitle> 
+					 <persname>Kourti-Papamoustou, Vasiliki</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-040</container> 
+				  <unittitle> 
+					 <persname>Kriegeskotte, Christian</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-041-2012-044</container> 
+				  <unittitle> 
+					 <persname>Mizrahi, Michael</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-045</container> 
+				  <unittitle> 
+					 <persname>Noble, Andrew R.</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-046-2012-047</container> 
+				  <unittitle> 
+					 <persname>Ono, Tomoko</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-048-2012-049</container> 
+				  <unittitle> 
+					 <persname>Rosenkranz, Thomas</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-050</container> 
+				  <unittitle> 
+					 <persname>Wohl, Daniel</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-051</container> 
+				  <unittitle> 
+					 <persname>Yang, Amy</persname></unittitle> 
+				</did> 
+			 </c03> 		
+<c03 level="item"> 
+				<did> 
+				  <container type="box">94</container> 
+				  <container type="item">2012-052-2012-053</container> 
+				  <unittitle> 
+					 <persname>Zhou, Andrew</persname></unittitle> 
+				</did> 
+			 </c03> 		
+			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			 			
+</c02>
+<c02 level="subseries"> 
+			 <did> 
+				<unitid id="series16c">C.</unitid> 
+				<unittitle>Scores, 
+				  <unitdate type="inclusive" normal="2012"
+				  datechar="creation">2012</unitdate></unittitle> 
+				<physdesc><extent>Item 2012-054-2012-066</extent></physdesc> 
+			 </did>
+<arrangement> 
+<p>Arranged alphabetically by the composer's last name.</p> 
+</arrangement> 
+ <c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-054</container> 
+				  <unittitle> 
+					 <persname>Adams, Samuel Carl, 1985-</persname> 
+					 <title render="italic">Piano trio</title>, 
+					 <unitdate normal="2011"
+					 type="inclusive">2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (22 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For violin, cello, and piano.</p> 
+				</scopecontent> 
+			 </c03> 	
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-055</container> 
+				  <unittitle> 
+					 <persname>Akiho, Andy</persname> 
+					 <title render="italic">Ligneous</title>, 
+					 <unitdate normal="2010"
+					 type="inclusive">2010</unitdate></unittitle> 
+				  <physdesc><extent>1 score (36 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For marimba and string quartet. </p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-056</container> 
+				  <unittitle> 
+					 <persname>Akiho, Andy</persname> 
+					 <title render="italic">Stream of conscious machinery</title>, 
+					 <unitdate normal="2011"
+					 type="inclusive">2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (53 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For flute, clarinet, violin, cello, percussion, and piano.</p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-057</container> 
+				  <unittitle> 
+					 <persname>Chandler, Christopher</persname> 
+					 <title render="italic">Resonance after ...</title>, 
+					 <unitdate normal="2008"
+					 type="inclusive">2008</unitdate></unittitle> 
+				  <physdesc><extent>1 score (8 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For flute, clarinet, violin, cello, percussion, piano, and optional electroacoustic sounds.</p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-058</container> 
+				  <unittitle> 
+					 <persname>Cooper, William David</persname> 
+					 <title render="italic">Violin sonata</title>, 
+					 <unitdate normal="2006"
+					 type="inclusive">2006</unitdate></unittitle> 
+				  <physdesc><extent>1 score (25 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For violin and piano.</p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-059</container> 
+				  <unittitle> 
+					 <persname>Kourti-Papamoustou</persname> 
+					 <title render="italic">Danse suite</title>, 
+					 <unitdate normal="2011"
+					 type="inclusive">circa 2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (22 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano. </p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-060</container> 
+				  <unittitle> 
+					 <persname>Kriegeskotte, Christian</persname> 
+					 <title render="italic">Bateleur</title>, 
+					 <unitdate normal="2011"
+					 type="inclusive">circa 2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (5 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano.</p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-061</container> 
+				  <unittitle> 
+					 <persname>Noble, Andrew R.</persname> 
+					 <title render="italic">57 of 65 studies for the left hand</title>, 
+					 <unitdate normal="2011"
+					 type="inclusive">2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (20 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano.</p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-062</container> 
+				  <unittitle> 
+					 <persname>Noble, Andrew R.</persname> 
+					 <title render="italic">Accusations in the first person plural</title>, 
+					 <unitdate normal="2009/2011"
+					 type="inclusive">2009-2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (13 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For contrabass clarinet and percussion. </p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-063</container> 
+				  <unittitle> 
+					 <persname>Noble, Andrew R.</persname> 
+					 <title render="italic">Beauty of the dream vanished</title>, 
+					 <unitdate normal="2011"
+					 type="inclusive">2011</unitdate></unittitle> 
+				  <physdesc><extent>1 score (16 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For chamber ensemble.</p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-064</container> 
+				  <unittitle> 
+					 <persname>Wohl, Daniel</persname> 
+					 <title render="italic">Glitch</title>, 
+					 <unitdate normal="2009"
+					 type="inclusive">2009</unitdate></unittitle> 
+				  <physdesc><extent>1 score (35 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For amplified string quartet and electronics.</p> 
+				</scopecontent> 
+			 </c03> 
+
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-065</container> 
+				  <unittitle> 
+<persname>Wohl, Daniel</persname>					  
+					 <title render="italic">Pixelated</title>, 
+					 <unitdate normal="2010"
+					 type="inclusive">2010</unitdate></unittitle> 
+				  <physdesc><extent>1 score (16 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For piano/toy piano, glockenspiel, and electronics. </p> 
+				</scopecontent> 
+			 </c03>
+<c03 level="item"> 
+				<did> 
+				  <container type="box">93</container> 
+				  <container type="item">2012-066</container> 
+				  <unittitle> 
+<persname>Wubbels, Eric</persname>					  
+					 <title render="italic">Psychomechanochronometer</title>, 
+					 <unitdate normal="2013"
+					 type="inclusive">2013</unitdate></unittitle> 
+				  <physdesc><extent>1 score (18 pages)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>For solo piano.</p> 
+				</scopecontent> 
+			 </c03> 						 			 			 			 			 			 			 			 			 			 			 				 		 
+</c02>
+</c01>			 		
 	 </dsc> 
 	 <controlaccess> 
 		<head>Search Terms</head> 

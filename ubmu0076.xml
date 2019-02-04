@@ -1,0 +1,3688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 76::Carol June Bradley Music Librarianship Oral History Recordings)//EN">ubmu0076</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for Carol June Bradley
+			 Music Librarianship Oral History Recordings, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1973/1988" certainty="definite">1973-1988</date>
+			 </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Bradley (Carol June)
+			 Music Librarianship Oral History Recordings</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, September 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Carol June Bradley Music
+		  Librarianship Oral History Recordings, 
+		  <unitdate encodinganalog="245$f" normal="1973/1988" type="inclusive"
+			datechar="creation" certainty="definite">1973-1988</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 76</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Bradley,
+			 Carol June</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">3
+		  boxes</extent> (<extent unit="audiocassette" encodinganalog="300$a">135
+		  audiocassettes</extent>) </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">Spoken
+		  word content in <language encodinganalog="041"
+		  langcode="eng">English</language>. </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library.</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Music librarian Carol
+		  June Bradley conducted interviews with 37 music Librarians from various
+		  institutions in the United States to research the history and practices of
+		  music librarianship.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Carol June Bradley Music Librarianship Oral
+			 History Recordings, 1973-1988, Music Library, The State University of New York
+			 at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	 </descgrp> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Carol June Bradley.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+		<altformavail encodinganalog="530"> 
+		  <head>Alternate Forms</head> 
+		  <p>The collection was digitally reformatted in 2016 resulting in
+			 preservation master and service copy files that match cassette sides. The files were received on a Hard drive.</p> 
+		</altformavail> 
+	 </descgrp> 
+ <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Carol June Bradley was born 12 August 1934 to George and Alice (Bolinger) Bradley in the central Pennsylvania town of Huntingdon. Her family later relocated to Carlisle, Pennsylvania. Bradley demonstrated her writing ability while still a high school student when she won first prize in the Lamberton Essay contest with her essay about the Irving Female College. She attended Lebanon Valley College in Annville, Pennsylvania to major in music education, graduating in 1956. However, she did not have a positive reaction to her student teaching experience, and with advice from a school librarian in Carlisle, decided to attend library school at Western Reserve University. She earned her M.S. degree there in 1957. During her college years Bradley also studied violin, attending summer sessions at Chautauqua Institute where she studied with Hortense and Mischa Mischakoff. She continued her education with a Ph.D. program in Library Science, earning the degree in 1978.</p>
+
+<p>
+Bradley began her career as a music librarian in 1957 at the Free Library in Philadelphia where she was responsible for the Drinker Library of Choral Music. She wrote a history of the Edwin A. Fleisher Music Collection at the Free Library that served as her M.S. thesis in library science at Western Reserve University. Bradley left Philadelphia in 1959 to accept a new position at West Point Military Academy. Her tour of duty at the academy was brief but distinguished. She established a music library and also conducted a regular series of recorded concerts and pre-opera seminars. She left in 1960 to join the staff of the music library at nearby Vassar College. This began her long association with James B. Coover and provided her with the years of experience in technical services that shaped much of her later scholarly work.</p>
+
+<p>The George Sherman Dickinson Music Library at Vassar College used Dickinson’s own classification scheme for its music collection. Bradley became the leading authority on this classification system and later adopted it for use at the University at Buffalo. She wrote and published the chief guide to the system in 1968: <title render="italic">The Dickinson Classification: A Cataloguing and Classification Manual for Music</title>. </p>
+
+<p>Bradley moved to Buffalo in 1968 to begin work as the associate director of the newly established University at Buffalo Music Library, reporting once again to James B. Coover who was hired as director. Both Coover and Bradley remained in their
+ positions until retirement in 1999. As adjunct professor at the University at Buffalo, Bradley, with James B. Coover, co-founded and co-directed a double master's program in music librarianship. She was instrumental in designing and administering the rigorous program that successfully trained a new generation of skilled music librarians. </p>	
+
+<p>Carol June Bradley conducted groundbreaking and extensive research into the history of music libraries and music librarinship in the United States. Her first work based on this was her doctoral dissertation, 
+		<title render="italic">The genesis of American music librarianship,
+		  1902-1942</title> (1978). Other works about music librarianship included 
+		<title render="italic">American music librarianship : a biographical and
+		  historical survey</title> (1990) and 
+		<title render="italic">American music librarianship : a research and
+		  information guide</title> (2005).</p> 
+
+<p>The excellence of Carol June Bradley's work as researcher and teacher was recognized by the State University of New York when she was awarded the Chancellor's Award for Excellence in Librarianship in 1977. The Music Library Association presented its highest award, the MLA Citation, in recognition of Bradley's many contributions to music librarianship in 2001. At its 2003 annual meeting, MLA announced the establishment of the Carol June Bradley Award for Historical Research in Music Librarianship, an annual award to support studies that involve the history of music libraries or special collections; biographies of music librarians; studies of specific aspects of music librarianship; and studies of music library patrons' activities. The first award was granted in 2004. </p>
+
+<p>In retirement, Bradley completed two life-long projects, an annotated bibliography of the field of American music librarianship (American Music Librarianship: A Research and Information Guide [New York: Routledge, 2005]) and her 1,008-page index to song collections (Index to Poetry in Music: A Guide to the Poetry Set as Solo Songs by 125 Composers [New York: Routledge, 2003]). Carol June Bradley died in Buffalo, New York, 27 July 2009. </p>		  
+	 </bioghist> 	
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Interviews with 37 music librarians, many of whom were among the first
+		  generation of specialized music librarians in the United States. The
+		  institutions represented include both academic and public libraries. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>Arranged in one series in alphabetical order by interviewee.</p> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Cassettes, 
+				<unitdate type="inclusive" normal="1973/1988" era="ce"
+				 calendar="gregorian">1973-1988</unitdate> </unittitle> 
+			 <physdesc> <extent>Cassette 1-135</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p> Arranged alphabetically by surname of interviewee.</p> 
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">1</container> 
+				<unittitle> 
+				  <persname>Albrecht, Otto E. (Otto Edwin), 1899-1984</persname>:
+				  Part 1, 
+				  <unitdate type="inclusive">1978-05-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:10</p> 
+				  <p>Location of recording: Philadelphia (Pa.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_001_01_am.wav, ubmu0076_001_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_001_01_sc.mp3,
+						ubmu0076_001_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">2</container> 
+				<unittitle> 
+				  <persname>Albrecht, Otto E. (Otto Edwin), 1899-1984</persname>:
+				  Part 2, 
+				  <unitdate type="inclusive">1978-05-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:22</p> 
+				  <p>Location of recording: Philadelphia (Pa.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_002_01_am.wav, ubmu0076_002_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_002_01_sc.mp3,
+						ubmu0076_002_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">3</container> 
+				<unittitle> 
+				  <persname>Albrecht, Otto E. (Otto Edwin), 1899-1984</persname>:
+				  Part 3, 
+				  <unitdate type="inclusive">1978-05-12--1978-05-13</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:20</p> 
+				  <p>Location of recording: Philadelphia (Pa.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_003_01_am.wav, ubmu0076_003_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_003_01_sc.mp3,
+						ubmu0076_003_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">4</container> 
+				<unittitle> 
+				  <persname>Albrecht, Otto E. (Otto Edwin), 1899-1984</persname>:
+				  Part 4, 
+				  <unitdate type="inclusive">1978-05-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:17</p> 
+				  <p>Location of recording: Philadelphia (Pa.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_004_01_am.wav, ubmu0076_004_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_004_01_sc.mp3,
+						ubmu0076_004_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">5</container> 
+				<unittitle> 
+				  <persname>Albrecht, Otto E. (Otto Edwin), 1899-1984</persname>:
+				  Part 5, and 
+				  <persname>Beveridge, Lowell P. (Lowell Pierson),
+					 1930-</persname>: Part 1, 
+				  <unitdate type="inclusive">1978-05-13</unitdate>, 
+				  <unitdate type="inclusive">1979-01-04</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:34:46</p> 
+				  <p>Location of recording: Philadelphia (Pa.) ; Washington
+					 (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Side B is Lowell Pierson Beveridge</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_005_01_am.wav, ubmu0076_005_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_005_01_sc.mp3,
+						ubmu0076_005_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">6</container> 
+				<unittitle> 
+				  <persname>Andrews, Margaret</persname>, 
+				  <unitdate type="inclusive">1985-08-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:34:13</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_006_01_am.wav, ubmu0076_006_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_006_01_sc.mp3,
+						ubmu0076_006_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">7</container> 
+				<unittitle> 
+				  <persname>Angell, Richard S. (Richard Sloane)</persname>: Part 1,
+				  
+				  <unitdate type="inclusive">1973-05-07</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:47</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_007_01_am.wav, ubmu0076_007_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_007_01_sc.mp3,
+						ubmu0076_007_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">8</container> 
+				<unittitle> 
+				  <persname>Angell, Richard S. (Richard Sloane)</persname>: Part 2,
+				  
+				  <unitdate type="inclusive">1973-05-08</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:39:07</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_008_01_am.wav, ubmu0076_008_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_008_01_sc.mp3,
+						ubmu0076_008_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">9</container> 
+				<unittitle> 
+				  <persname>Angell, Richard S. (Richard Sloane)</persname>: Part 3,
+				  
+				  <unitdate type="inclusive">1973-05-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:38:44</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_009_01_am.wav, ubmu0076_009_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_009_01_sc.mp3,
+						ubmu0076_009_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">10</container> 
+				<unittitle> 
+				  <persname>Angell, Richard S. (Richard Sloane)</persname>: Part 4,
+				  
+				  <unitdate type="inclusive">1981-02-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:45:44</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Recorded at Music Library Association 50th anniversary
+					 meeting</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_010_01_am.wav, ubmu0076_010_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_010_01_sc.mp3,
+						ubmu0076_010_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">11</container> 
+				<unittitle> 
+				  <persname>Ankudowich, Mary</persname>: Part 1, 
+				  <unitdate type="inclusive">1983-10-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:49:17</p> 
+				  <p>Location of recording: Northampton (Mass.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_011_01_am.wav, ubmu0076_011_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_011_01_sc.mp3,
+						ubmu0076_011_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">12</container> 
+				<unittitle> 
+				  <persname>Ankudowich, Mary</persname>: Part 2, 
+				  <unitdate type="inclusive">1983-10-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:31</p> 
+				  <p>Location of recording: Northampton (Mass.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_012_01_am.wav, ubmu0076_012_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_012_01_sc.mp3,
+						ubmu0076_012_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">13</container> 
+				<unittitle> 
+				  <persname>Ankudowich, Mary</persname>: Part 3, 
+				  <unitdate type="inclusive">1983-10-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:19:13</p> 
+				  <p>Location of recording: Northampton (Mass.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p> Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_013_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_013_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">14</container> 
+				<unittitle> 
+				  <persname>Appel, Richard G. (Richard Gilmore)</persname>: Part 1,
+				  
+				  <unitdate type="inclusive">1973-10-04</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:04</p> 
+				  <p>Location of recording: Cambridge (Mass.)</p> 
+				  <p>Type of tape: TDK C-60SD</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_014_01_am.wav, ubmu0076_014_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_014_01_sc.mp3,
+						ubmu0076_014_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">15</container> 
+				<unittitle> 
+				  <persname>Appel, Richard G. (Richard Gilmore)</persname>: Part 2,
+				  
+				  <unitdate type="inclusive">1974-10-04</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:35:41</p> 
+				  <p>Location of recording: Cambridge (Mass.)</p> 
+				  <p>Type of tape: TDK C-60LN</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_015_01_am.wav, ubmu0076_015_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_015_01_sc.mp3,
+						ubmu0076_015_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">16</container> 
+				<unittitle> 
+				  <persname>Beveridge, Lowell P. (Lowell Pierson),
+					 1930-</persname>: Part 2, 
+				  <unitdate type="inclusive">1979-01-04</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:40:12</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Continuation of Tape 5 Side B</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_016_01_am.wav, ubmu0076_016_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_016_01_sc.mp3,
+						ubmu0076_016_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">17</container> 
+				<unittitle> 
+				  <persname>Campbell, Frank, 1916-1993</persname>: Part 1, 
+				  <unitdate type="inclusive">1986-12-02</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:05</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_017_01_am.wav, ubmu0076_017_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_017_01_sc.mp3,
+						ubmu0076_017_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">18</container> 
+				<unittitle> 
+				  <persname>Campbell, Frank, 1916-1993</persname>: Part 2, 
+				  <unitdate type="inclusive">1986-12-02</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:36:40</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII-S 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_018_01_am.wav, ubmu0076_018_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_018_01_sc.mp3,
+						ubmu0076_018_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">19</container> 
+				<unittitle> 
+				  <persname>Campbell, Frank, 1916-1993</persname>: Part 3, 
+				  <unitdate type="inclusive">1986-12-03</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:40</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII-S 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_019_01_am.wav, ubmu0076_019_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_019_01_sc.mp3,
+						ubmu0076_019_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">20</container> 
+				<unittitle> 
+				  <persname>Campbell, Frank, 1916-1993</persname>: Part 4, 
+				  <unitdate type="inclusive">1986-12-03</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:39:24</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII-S 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_020_01_am.wav, ubmu0076_020_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_020_01_sc.mp3,
+						ubmu0076_020_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">21</container> 
+				<unittitle> 
+				  <persname>Chamberlain, Gladys E.</persname>: Part 1, 
+				  <unitdate type="inclusive">1974-07-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:30</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_021_01_am.wav, ubmu0076_021_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_021_01_sc.mp3,
+						ubmu0076_021_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">22</container> 
+				<unittitle> 
+				  <persname>Chamberlain, Gladys E.</persname>: Part 2, 
+				  <unitdate type="inclusive">1974-07-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:51:57</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_022_01_am.wav, ubmu0076_022_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_022_01_sc.mp3,
+						ubmu0076_022_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">23</container> 
+				<unittitle> 
+				  <persname>Colby, Edward E. (Edward Eugene)</persname>: Part 1, 
+				  <unitdate type="inclusive">1981-02-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:56</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_023_01_am.wav, ubmu0076_023_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_023_01_sc.mp3,
+						ubmu0076_023_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">24</container> 
+				<unittitle> 
+				  <persname>Colby, Edward E. (Edward Eugene)</persname>: Part 2, 
+				  <unitdate type="inclusive">1981-02-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:52:33</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_024_01_am.wav, ubmu0076_024_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_024_01_sc.mp3,
+						ubmu0076_024_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">25</container> 
+				<unittitle> 
+				  <persname>Colby, Edward E. (Edward Eugene)</persname>: Part 3, 
+				  <unitdate type="inclusive">1981-02-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:32:24</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_025_01_am.wav, ubmu0076_025_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_025_01_sc.mp3,
+						ubmu0076_025_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">26</container> 
+				<unittitle> 
+				  <persname>Coulton, M. Louise</persname>: Part 1, 
+				  <unitdate type="inclusive">1985-08-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:28</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_026_01_am.wav, ubmu0076_026_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_026_01_sc.mp3,
+						ubmu0076_026_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">27</container> 
+				<unittitle> 
+				  <persname>Coulton, M. Louise</persname>: Part 2, 
+				  <unitdate type="inclusive">1985-08-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:06:19</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_027_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_027_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">28</container> 
+				<unittitle> 
+				  <persname>Cunningham, Virginia, 1910-1996</persname>: Part 1, 
+				  <unitdate type="inclusive">1979-01-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:38</p> 
+				  <p>Location of recording: Chapel Hill (N.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_028_01_am.wav, ubmu0076_028_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_028_01_sc.mp3,
+						ubmu0076_028_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">29</container> 
+				<unittitle> 
+				  <persname>Cunningham, Virginia, 1910-1996</persname>: Part 2, 
+				  <unitdate type="inclusive">1979-01-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:56</p> 
+				  <p>Location of recording: Chapel Hill (N.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_029_01_am.wav, ubmu0076_029_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_029_01_sc.mp3,
+						ubmu0076_029_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">30</container> 
+				<unittitle> 
+				  <persname>Cunningham, Virginia, 1910-1996</persname>: Part 3, 
+				  <unitdate type="inclusive">1979-01-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:17</p> 
+				  <p>Location of recording: Chapel Hill (N.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_030_01_am.wav, ubmu0076_030_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_030_01_sc.mp3,
+						ubmu0076_030_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">31</container> 
+				<unittitle> 
+				  <persname>Cunningham, Virginia, 1910-1996</persname>: Part 4, 
+				  <unitdate type="inclusive">1979-01-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:46</p> 
+				  <p>Location of recording: Chapel Hill (N.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_031_01_am.wav, ubmu0076_031_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_031_01_sc.mp3,
+						ubmu0076_031_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">32</container> 
+				<unittitle> 
+				  <persname>Cunningham, Virginia, 1910-1996</persname>: Part 5, 
+				  <unitdate type="inclusive">1979-01-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:09:34</p> 
+				  <p>Location of recording: Chapel Hill (N.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_032_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_032_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">33</container> 
+				<unittitle> 
+				  <persname>Dickinson, Bessie McClure</persname>: Part 1, 
+				  <unitdate type="inclusive">1971-05-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:58</p> 
+				  <p>Location of recording: Dunedin (Fla.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_033_01_am.wav, ubmu0076_033_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_033_01_sc.mp3,
+						ubmu0076_033_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">34</container> 
+				<unittitle> 
+				  <persname>Dickinson, Bessie McClure</persname>: Part 2, 
+				  <unitdate type="inclusive">1971-05-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:46</p> 
+				  <p>Location of recording: Dunedin (Fla.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_034_01_am.wav, ubmu0076_034_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_034_01_sc.mp3,
+						ubmu0076_034_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">35</container> 
+				<unittitle> 
+				  <persname>Dickinson, Bessie McClure</persname>: Part 3, 
+				  <unitdate type="inclusive">1971-05-14--1971-05-15</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:04</p> 
+				  <p>Location of recording: Dunedin (Fla.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_035_01_am.wav, ubmu0076_035_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_035_01_sc.mp3,
+						ubmu0076_035_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">36</container> 
+				<unittitle> 
+				  <persname>Dickinson, Bessie McClure</persname>: Part 4, 
+				  <unitdate type="inclusive">1971-05-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:35:27</p> 
+				  <p>Location of recording: Dunedin (Fla.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_036_01_am.wav, ubmu0076_036_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_036_01_sc.mp3,
+						ubmu0076_036_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">37</container> 
+				<unittitle> 
+				  <persname>Ellinwood, Leonard, 1905-1994</persname>: Part 1, 
+				  <unitdate type="inclusive">1981-10-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:32</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_037_01_am.wav, ubmu0076_037_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_037_01_sc.mp3,
+						ubmu0076_037_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">38</container> 
+				<unittitle> 
+				  <persname>Ellinwood, Leonard, 1905-1994</persname>: Part 2, 
+				  <unitdate type="inclusive">1981-10-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:20</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_038_01_am.wav, ubmu0076_038_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_038_01_sc.mp3,
+						ubmu0076_038_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">39</container> 
+				<unittitle> 
+				  <persname>Ellinwood, Leonard, 1905-1994</persname>: Part 3, 
+				  <unitdate type="inclusive">1981-10-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:36:41</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_039_01_am.wav, ubmu0076_039_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_039_01_sc.mp3,
+						ubmu0076_039_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">40</container> 
+				<unittitle> 
+				  <persname>Epstein, Dena J., 1916-2013</persname>: Part 1, 
+				  <unitdate type="inclusive">1988-07-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:03</p> 
+				  <p>Location of recording: Chicago (Ill.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_040_01_am.wav, ubmu0076_040_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_040_01_sc.mp3,
+						ubmu0076_040_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">41</container> 
+				<unittitle> 
+				  <persname>Epstein, Dena J., 1916-2013</persname>: Part 2, 
+				  <unitdate type="inclusive">1988-06-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:55:19</p> 
+				  <p>Location of recording: Chicago (Ill.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_041_01_am.wav, ubmu0076_041_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_041_01_sc.mp3,
+						ubmu0076_041_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">42</container> 
+				<unittitle> 
+				  <persname>Epstein, Dena J., 1916-2013</persname>: Part 3, 
+				  <unitdate type="inclusive">1988-06-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:18</p> 
+				  <p>Location of recording: Chicago (Ill.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_042_01_am.wav, ubmu0076_042_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_042_01_sc.mp3,
+						ubmu0076_042_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">43</container> 
+				<unittitle> 
+				  <persname>Epstein, Dena J., 1916-2013</persname>: Part 4, 
+				  <unitdate type="inclusive">1988-06-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:07</p> 
+				  <p>Location of recording: Chicago (Ill.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_043_01_am.wav, ubmu0076_043_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_043_01_sc.mp3,
+						ubmu0076_043_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">44</container> 
+				<unittitle> 
+				  <persname>Epstein, Dena J., 1916-2013</persname>: Part 5, 
+				  <unitdate type="inclusive">1988-06-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:12</p> 
+				  <p>Location of recording: Chicago (Ill.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_044_01_am.wav, ubmu0076_044_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_044_01_sc.mp3,
+						ubmu0076_044_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="audiocassette">45</container> 
+				<unittitle> 
+				  <persname>Epstein, Dena J., 1916-2013</persname>: Part 6, 
+				  <unitdate type="inclusive">1988-06-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:14:57</p> 
+				  <p>Location of recording: Chicago (Ill.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank. Copyright and literary rights belong to the
+					 Music Library Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_045_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_045_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">46</container> 
+				<unittitle> 
+				  <persname>Fox, Charles Warren</persname>: Part 1, 
+				  <unitdate type="inclusive">1981-05-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:53:19</p> 
+				  <p>Location of recording: Gloversville (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_046_01_am.wav, ubmu0076_046_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_046_01_sc.mp3,
+						ubmu0076_046_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">47</container> 
+				<unittitle> 
+				  <persname>Fox, Charles Warren</persname>: Part 2, 
+				  <unitdate type="inclusive">1981-05-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:16</p> 
+				  <p>Location of recording: Gloversville (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_047_01_am.wav, ubmu0076_047_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_047_01_sc.mp3,
+						ubmu0076_047_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">48</container> 
+				<unittitle> 
+				  <persname>Fox, Charles Warren</persname>: Part 3, 
+				  <unitdate type="inclusive">1981-05-12--1981-05-13</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:24:15</p> 
+				  <p>Location of recording: Gloversville (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_048_01_am.wav, ubmu0076_048_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_048_01_sc.mp3,
+						ubmu0076_048_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">49</container> 
+				<unittitle> 
+				  <persname>Heyer, Anna Harriet, 1909-2002</persname>: Part 1, 
+				  <unitdate type="inclusive">1980-03-23</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:19</p> 
+				  <p>Location of recording: Fort Worth (Tex.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_049_01_am.wav, ubmu0076_049_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_049_01_sc.mp3,
+						ubmu0076_049_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">50</container> 
+				<unittitle> 
+				  <persname>Heyer, Anna Harriet, 1909-2002</persname>: Part 2, 
+				  <unitdate type="inclusive">1980-03-23</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:22:09</p> 
+				  <p>Location of recording: Fort Worth (Tex.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_050_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_050_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">51</container> 
+				<unittitle> 
+				  <persname>Heyer, Anna Harriet, 1909-2002</persname>: Part 3, 
+				  <unitdate type="inclusive">1980-03-23</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:37</p> 
+				  <p>Location of recording: Fort Worth (Tex.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_051_01_am.wav, ubmu0076_051_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_051_01_sc.mp3,
+						ubmu0076_051_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">52</container> 
+				<unittitle> 
+				  <persname>Hinrichsen, Evelyn Merrell</persname>, 
+				  <unitdate type="inclusive">1981-10-28</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:32</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_052_01_am.wav, ubmu0076_052_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_052_01_sc.mp3,
+						ubmu0076_052_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">53</container> 
+				<unittitle> 
+				  <persname>Hoch, Marian Hill</persname>: Part 1, 
+				  <unitdate type="inclusive">1981-06-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:49</p> 
+				  <p>Location of recording: Elyria (Ohio)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_053_01_am.wav, ubmu0076_053_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_053_01_sc.mp3,
+						ubmu0076_053_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">54</container> 
+				<unittitle> 
+				  <persname>Hoch, Marian Hill</persname>: Part 2, 
+				  <unitdate type="inclusive">1981-06-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:24</p> 
+				  <p>Location of recording: Elyria (Ohio)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_054_01_am.wav, ubmu0076_054_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_054_01_sc.mp3,
+						ubmu0076_054_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">55</container> 
+				<unittitle> 
+				  <persname>Hoch, Marian Hill</persname>: Part 3, 
+				  <unitdate type="inclusive">1981-06-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:22</p> 
+				  <p>Location of recording: Elyria (Ohio)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_055_01_am.wav, ubmu0076_055_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_055_01_sc.mp3,
+						ubmu0076_055_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">56</container> 
+				<unittitle> 
+				  <persname>Hoch, Marian Hill</persname>: Part 4, 
+				  <unitdate type="inclusive">1981-06-09--1981-06-10</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:51:45</p> 
+				  <p>Location of recording: Elyria (Ohio)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_056_01_am.wav, ubmu0076_056_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_056_01_sc.mp3,
+						ubmu0076_056_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">57</container> 
+				<unittitle> 
+				  <persname>Hoch, Marian Hill</persname>: Part 5, 
+				  <unitdate type="inclusive">1981-06-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:37:27</p> 
+				  <p>Location of recording: Elyria (Ohio)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_057_01_am.wav, ubmu0076_057_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_057_01_sc.mp3,
+						ubmu0076_057_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">58</container> 
+				<unittitle> 
+				  <persname>Kownatsky, Harry L.</persname>: Part 1, 
+				  <unitdate type="inclusive">1986-12-04</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:21</p> 
+				  <p>Location of recording: Philadelphia (Pa.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_058_01_am.wav, ubmu0076_058_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_058_01_sc.mp3,
+						ubmu0076_058_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">59</container> 
+				<unittitle> 
+				  <persname>Kownatsky, Harry L.</persname>: Part 2, 
+				  <unitdate type="inclusive">1986-12-04</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:15:19</p> 
+				  <p>Location of recording: Philadelphia (Pa.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_059_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_059_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">60</container> 
+				<unittitle> 
+				  <persname>Kretzschmar, Florence</persname> and 
+				  <persname>McCullough Helena Gervais</persname>: Part 1, 
+				  <unitdate type="inclusive">1982-08-17--1982-08-18</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:58:02</p> 
+				  <p>Location of recording: Detroit (Mich.); Oak Park (Ill.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>McCullough (Side B) continued on Tape 81. Side 2 is blank.</p>
+				  
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_060_01_am.wav, ubmu0076_060_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_060_01_sc.mp3,
+						ubmu0076_060_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">61</container> 
+				<unittitle> 
+				  <persname>Lay, Catherine Nimitz</persname>: Part 1, 
+				  <unitdate type="inclusive">1978-06-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:31</p> 
+				  <p>Location of recording: Wellfleet (Mass.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Numbering from insert</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_061_01_am.wav, ubmu0076_061_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_061_01_sc.mp3,
+						ubmu0076_061_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">62</container> 
+				<unittitle> 
+				  <persname>Lay, Catherine Nimitz</persname>: Part 2, 
+				  <unitdate type="inclusive">1978-06-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:13</p> 
+				  <p>Location of recording: Wellfleet (Mass.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Numbering from insert</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_062_01_am.wav, ubmu0076_062_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_062_01_sc.mp3,
+						ubmu0076_062_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">63</container> 
+				<unittitle> 
+				  <persname>Lay, Catherine Nimitz</persname>: Part 3, 
+				  <unitdate type="inclusive">1978-06-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:23:20</p> 
+				  <p>Location of recording: Wellfleet (Mass.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Numbering from insert. Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_063_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_063_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">64</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 1, 
+				  <unitdate type="inclusive">1981-03-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:03</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_064_01_am.wav, ubmu0076_064_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_064_01_sc.mp3,
+						ubmu0076_064_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">65</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 2, 
+				  <unitdate type="inclusive">1981-03-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:55:35</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_065_01_am.wav, ubmu0076_065_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_065_01_sc.mp3,
+						ubmu0076_065_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">66</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 3, 
+				  <unitdate type="inclusive">1981-03-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:49:56</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_066_01_am.wav, ubmu0076_066_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_066_01_sc.mp3,
+						ubmu0076_066_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">67</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 4, 
+				  <unitdate type="inclusive">1981-03-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:55:49</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_067_01_am.wav, ubmu0076_067_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_067_01_sc.mp3,
+						ubmu0076_067_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">68</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 5, 
+				  <unitdate type="inclusive">1981-03-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:09</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_068_01_am.wav, ubmu0076_068_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_068_01_sc.mp3,
+						ubmu0076_068_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">69</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 6, 
+				  <unitdate type="inclusive">1981-03-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:52:03</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_069_01_am.wav, ubmu0076_069_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_069_01_sc.mp3,
+						ubmu0076_069_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">70</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 7, 
+				  <unitdate type="inclusive">1981-03-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:11</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_070_01_am.wav, ubmu0076_070_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_070_01_sc.mp3,
+						ubmu0076_070_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">71</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 8, 
+				  <unitdate type="inclusive">1981-03-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:40</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Note on case: Can't hear ... try other cassette</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_071_01_am.wav, ubmu0076_071_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_071_01_sc.mp3,
+						ubmu0076_071_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">72</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 9, 
+				  <unitdate type="inclusive">1981-03-16</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:11</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_072_01_am.wav, ubmu0076_072_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_072_01_sc.mp3,
+						ubmu0076_072_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">73</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 10, 
+				  <unitdate type="inclusive">1981-03-16--1981-03-17</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:37</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_073_01_am.wav, ubmu0076_073_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_073_01_sc.mp3,
+						ubmu0076_073_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">74</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 11, 
+				  <unitdate type="inclusive">1981-03-17</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:55:19</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_074_01_am.wav, ubmu0076_074_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_074_01_sc.mp3,
+						ubmu0076_074_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">75</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 12, 
+				  <unitdate type="inclusive">1981-03-17</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:53:30</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_075_01_am.wav, ubmu0076_075_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_075_01_sc.mp3,
+						ubmu0076_075_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">76</container> 
+				<unittitle> 
+				  <persname>Lichtenwanger, William, 1915-2000</persname>: Part 13, 
+				  <unitdate type="inclusive">1981-03-17</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:13:31</p> 
+				  <p>Location of recording: Berkeley Springs (W. Va.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_076_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_076_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">77</container> 
+				<unittitle> 
+				  <persname>Ludden, Bennet</persname>: Part 1, 
+				  <unitdate type="inclusive">1985-12-06</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:03</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_077_01_am.wav, ubmu0076_077_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_077_01_sc.mp3,
+						ubmu0076_077_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">78</container> 
+				<unittitle> 
+				  <persname>Ludden, Bennet</persname>: Part 2, 
+				  <unitdate type="inclusive">1985-12-06</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:17</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_078_01_am.wav, ubmu0076_078_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_078_01_sc.mp3,
+						ubmu0076_078_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">79</container> 
+				<unittitle> 
+				  <persname>Ludden, Bennet</persname>: Part 3, 
+				  <unitdate type="inclusive">1985-12-06--1985-12-07</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:50:21</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_079_01_am.wav, ubmu0076_079_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_079_01_sc.mp3,
+						ubmu0076_079_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">80</container> 
+				<unittitle> 
+				  <persname>Ludden, Bennet</persname>: Part 4, 
+				  <unitdate type="inclusive">1985-12-07</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:44</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_080_01_am.wav, ubmu0076_080_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_080_01_sc.mp3,
+						ubmu0076_080_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">81</container> 
+				<unittitle> 
+				  <persname>McCullough, Helena Gervais</persname>: Part 2, 
+				  <unitdate type="inclusive">1982-08-18</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:08</p> 
+				  <p>Location of recording: Oak Park (Ill.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Continuation of Tape 60 Side B</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_081_01_am.wav, ubmu0076_081_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_081_01_sc.mp3,
+						ubmu0076_081_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">82</container> 
+				<unittitle> 
+				  <persname>Mestechin, Natalie</persname> and 
+				  <persname>Schmitter, Elizabeth</persname>, 
+				  <unitdate type="inclusive">1973-06-30</unitdate>, 
+				  <unitdate type="inclusive">1973-10-02</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:29</p> 
+				  <p>Location of recording: San Francisco (Calif.); Northampton
+					 (Mass.)</p> 
+				  <p>Type of tape: TDK C-60SD</p> 
+				  <p>mono.</p> 
+				  <p>Schmitter continued on Tape 106 ; Unclear if both interviews
+					 are on Side A or split between both sides</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_082_01_am.wav, ubmu0076_082_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_082_01_sc.mp3,
+						ubmu0076_082_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">83</container> 
+				<unittitle> 
+				  <persname>Miller, Philip Lieson, 1906-1996</persname>: Part 1, 
+				  <unitdate type="inclusive">1974-06-08</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:12</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK SD C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_083_01_am.wav, ubmu0076_083_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_083_01_sc.mp3,
+						ubmu0076_083_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">84</container> 
+				<unittitle> 
+				  <persname>Miller, Philip Lieson, 1906-1996</persname>: Part 2, 
+				  <unitdate type="inclusive">1974-06-08</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:44</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK SD C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_084_01_am.wav, ubmu0076_084_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_084_01_sc.mp3,
+						ubmu0076_084_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">85</container> 
+				<unittitle> 
+				  <persname>Miller, Philip Lieson, 1906-1996</persname>: Part 3, 
+				  <unitdate type="inclusive">1974-06-08</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:14:35</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>stereo.</p> 
+				  <p> Side 2 is blank</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_085_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_085_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">86</container> 
+				<unittitle> 
+				  <persname>Miller, Philip Lieson, 1906-1996</persname>: Part 4, 
+				  <unitdate type="inclusive">1986-12-02</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:01</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLIIS 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_086_01_am.wav, ubmu0076_086_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_086_01_sc.mp3,
+						ubmu0076_086_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">87</container> 
+				<unittitle> 
+				  <persname>Miller, Philip Lieson, 1906-1996</persname>: Part 5, 
+				  <unitdate type="inclusive">1986-12-02</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:46:27</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_087_01_am.wav, ubmu0076_087_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_087_01_sc.mp3,
+						ubmu0076_087_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">88</container> 
+				<unittitle> 
+				  <persname>Miller, Philip Lieson, 1906-1996</persname>: Part 6, 
+				  <unitdate type="inclusive">1986-12-03</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:43:56</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_088_01_am.wav, ubmu0076_088_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_088_01_sc.mp3,
+						ubmu0076_088_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">89</container> 
+				<unittitle> 
+				  <persname>Myers, Kurtz</persname>: Part 1, 
+				  <unitdate type="inclusive">1981-02-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:53:29</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Recorded in New Haven Hotel, MLA 50th anniversary</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_089_01_am.wav, ubmu0076_089_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_089_01_sc.mp3,
+						ubmu0076_089_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">90</container> 
+				<unittitle> 
+				  <persname>Myers, Kurtz</persname>: Part 2, 
+				  <unitdate type="inclusive">1981-02-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:45</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Recorded in New Haven Hotel, MLA 50th anniversary</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_090_01_am.wav, ubmu0076_090_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_090_01_sc.mp3,
+						ubmu0076_090_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">91</container> 
+				<unittitle> 
+				  <persname>Myers, Kurtz</persname>: Part 3, 
+				  <unitdate type="inclusive">1981-02-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:31:46</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank. Recorded in New Haven Hotel, MLA 50th
+					 anniversary</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_091_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_091_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">92</container> 
+				<unittitle> 
+				  <persname>O'Meara, Eva Judd</persname>: Part 1, 
+				  <unitdate type="inclusive">1973-06-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:18</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_092_01_am.wav, ubmu0076_092_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_092_01_sc.mp3,
+						ubmu0076_092_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">93</container> 
+				<unittitle> 
+				  <persname>O'Meara, Eva Judd</persname>: Part 2, 
+				  <unitdate type="inclusive">1973-06-11--1973-06-12</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:45</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_093_01_am.wav, ubmu0076_093_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_093_01_sc.mp3,
+						ubmu0076_093_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">94</container> 
+				<unittitle> 
+				  <persname>O'Meara, Eva Judd</persname>: Part 3, 
+				  <unitdate type="inclusive">1973-06-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:19</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_094_01_am.wav, ubmu0076_094_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_094_01_sc.mp3,
+						ubmu0076_094_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">95</container> 
+				<unittitle> 
+				  <persname>O'Meara, Eva Judd</persname>: Part 4, 
+				  <unitdate type="inclusive">1973-06-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:36</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_095_01_am.wav, ubmu0076_095_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_095_01_sc.mp3,
+						ubmu0076_095_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="audiocassette">96</container> 
+				<unittitle> 
+				  <persname>O'Meara, Eva Judd</persname>: Part 5, 
+				  <unitdate type="inclusive">1973-06-12</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:18:45</p> 
+				  <p>Location of recording: New Haven (Conn.)</p> 
+				  <p>Type of tape: BASF C60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_096_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_096_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">97</container> 
+				<unittitle> 
+				  <persname>Peterson, Melva</persname>: Part 1, 
+				  <unitdate type="inclusive">1988-07-21</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:32</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_097_01_am.wav, ubmu0076_097_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_097_01_sc.mp3,
+						ubmu0076_097_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">98</container> 
+				<unittitle> 
+				  <persname>Peterson, Melva</persname>: Part 2, 
+				  <unitdate type="inclusive">1988-07-21</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:43</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_098_01_am.wav, ubmu0076_098_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_098_01_sc.mp3,
+						ubmu0076_098_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">99</container> 
+				<unittitle> 
+				  <persname>Peterson, Melva</persname>: Part 3, 
+				  <unitdate type="inclusive">1988-07-21</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:35</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_099_01_am.wav, ubmu0076_099_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_099_01_sc.mp3,
+						ubmu0076_099_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">100</container> 
+				<unittitle> 
+				  <persname>Peterson, Melva</persname>: Part 4, 
+				  <unitdate type="inclusive">1988-07-21--1988-07-22</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:58:02</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_100_01_am.wav, ubmu0076_100_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_100_01_sc.mp3,
+						ubmu0076_100_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">101</container> 
+				<unittitle> 
+				  <persname>Peterson, Melva</persname>: Part 5, 
+				  <unitdate type="inclusive">1988-07-22</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:26</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_101_01_am.wav, ubmu0076_101_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_101_01_sc.mp3,
+						ubmu0076_101_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">102</container> 
+				<unittitle> 
+				  <persname>Peterson, Melva</persname>: Part 6, 
+				  <unitdate type="inclusive">1988-07-22</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:23:20</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: Maxell XLII S 60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank. Copyright and literary rights belong to the
+					 Music Library Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_102_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_102_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">103</container> 
+				<unittitle> 
+				  <persname>Rogers, Mary</persname>: Part 1 
+				  <unitdate type="inclusive">1981-10-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:32</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_103_01_am.wav, ubmu0076_103_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_103_01_sc.mp3,
+						ubmu0076_103_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">104</container> 
+				<unittitle> 
+				  <persname>Rogers, Mary</persname>: Part 2, 
+				  <unitdate type="inclusive">1981-10-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:23</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_104_01_am.wav, ubmu0076_104_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_104_01_sc.mp3,
+						ubmu0076_104_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">105</container> 
+				<unittitle> 
+				  <persname>Rogers, Mary</persname>: Part 3, 
+				  <unitdate type="inclusive">1981-10-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:18:06</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_105_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_105_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">106</container> 
+				<unittitle> 
+				  <persname>Schmitter, Elizabeth</persname>: Part 2, 
+				  <unitdate type="inclusive">1973-10-02</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:28</p> 
+				  <p>Location of recording: Northampton (Mass.)</p> 
+				  <p>Type of tape: TDK C-60SD</p> 
+				  <p>mono.</p> 
+				  <p>Continuation of Tape 82. Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_106_01_am.wav, ubmu0076_106_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_106_01_sc.mp3,
+						ubmu0076_106_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">107</container> 
+				<unittitle> 
+				  <persname>Smith, Carleton Sprague, 1905-1994</persname>: Part 1, 
+				  <unitdate type="inclusive">1974-07-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:36</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK SD C60</p> 
+				  <p>mono.</p> 
+				  <p>Numbering from cassette label</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_107_01_am.wav, ubmu0076_107_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_107_01_sc.mp3,
+						ubmu0076_107_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">108</container> 
+				<unittitle> 
+				  <persname>Smith, Carleton Sprague, 1905-1994</persname>: Part 2, 
+				  <unitdate type="inclusive">1974-07-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:21</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>stereo.</p> 
+				  <p>Numbering from cassette label</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_108_01_am.wav, ubmu0076_108_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_108_01_sc.mp3,
+						ubmu0076_108_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">109</container> 
+				<unittitle> 
+				  <persname>Smith, Carleton Sprague, 1905-1994</persname>: Part 3, 
+				  <unitdate type="inclusive">1974-07-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:36</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>mono.</p> 
+				  <p>Bobst Library, NYU</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_109_01_am.wav, ubmu0076_109_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_109_01_sc.mp3,
+						ubmu0076_109_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">110</container> 
+				<unittitle> 
+				  <persname>Smith, Carleton Sprague, 1905-1994</persname>: Part 4, 
+				  <unitdate type="inclusive">1974-07-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:25</p> 
+				  <p>Location of recording: New York (N.Y.)</p> 
+				  <p>Type of tape: TDK SD C60</p> 
+				  <p>mono.</p> 
+				  <p>Bobst Library, NYU</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_110_01_am.wav, ubmu0076_110_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_110_01_sc.mp3,
+						ubmu0076_110_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">111</container> 
+				<unittitle> 
+				  <persname>Spivacke, Harold, 1904-1977</persname>: Part 1, 
+				  <unitdate type="inclusive">1974-04-09</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:23</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: TDK C-60LN</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_111_01_am.wav, ubmu0076_111_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_111_01_sc.mp3,
+						ubmu0076_111_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">112</container> 
+				<unittitle> 
+				  <persname>Spivacke, Harold, 1904-1977</persname>: Part 2, 
+				  <unitdate type="inclusive">1974-04-09--1974-04-10</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:19</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: TDK C-60LN</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_112_01_am.wav, ubmu0076_112_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_112_01_sc.mp3,
+						ubmu0076_112_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">113</container> 
+				<unittitle> 
+				  <persname>Spivacke, Harold, 1904-1977</persname>: Part 3, 
+				  <unitdate type="inclusive">1974-04-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:28:21</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: TDK C-60LN</p> 
+				  <p>stereo.</p> 
+				  <p> Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_113_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_113_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">114</container> 
+				<unittitle> 
+				  <persname>Spivacke, Harold, 1904-1977</persname>: Part 4, 
+				  <unitdate type="inclusive">1974-04-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:54</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: TDK C-60LN</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_114_01_am.wav, ubmu0076_114_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_114_01_sc.mp3,
+						ubmu0076_114_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">115</container> 
+				<unittitle> 
+				  <persname>Spivacke, Harold, 1904-1977</persname>: Part 5, 
+				  <unitdate type="inclusive">1974-04-10--1974-04-11</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:24</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_115_01_am.wav, ubmu0076_115_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_115_01_sc.mp3,
+						ubmu0076_115_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">116</container> 
+				<unittitle> 
+				  <persname>Spivacke, Harold, 1904-1977</persname>: Part 6, 
+				  <unitdate type="inclusive">1974-04-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:31</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_116_01_am.wav, ubmu0076_116_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_116_01_sc.mp3,
+						ubmu0076_116_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">117</container> 
+				<unittitle> 
+				  <persname>Spivacke, Harold, 1904-1977</persname>: Part 7, 
+				  <unitdate type="inclusive">1974-04-11</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:24:27</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: TDK D C60</p> 
+				  <p>mono.</p> 
+				  <p>Side 2 is blank.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_117_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_117_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">118</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 1, 
+				  <unitdate type="inclusive">1984-10-31</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:42</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_118_01_am.wav, ubmu0076_118_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_118_01_sc.mp3,
+						ubmu0076_118_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">119</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 2, 
+				  <unitdate type="inclusive">1984-10-31</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:10</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_119_01_am.wav, ubmu0076_119_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_119_01_sc.mp3,
+						ubmu0076_119_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">120</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 3, 
+				  <unitdate type="inclusive">1984-10-31</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:47:09</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_120_01_am.wav, ubmu0076_120_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_120_01_sc.mp3,
+						ubmu0076_120_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">121</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 4, 
+				  <unitdate type="inclusive">1984-11-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:03:26</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_121_01_am.wav, ubmu0076_121_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_121_01_sc.mp3,
+						ubmu0076_121_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">122</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 5, 
+				  <unitdate type="inclusive">1984-11-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:00:02</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_122_01_am.wav, ubmu0076_122_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_122_01_sc.mp3,
+						ubmu0076_122_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">123</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 6, 
+				  <unitdate type="inclusive">1984-11-10</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:54:47</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_123_01_am.wav, ubmu0076_123_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_123_01_sc.mp3,
+						ubmu0076_123_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">124</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 7, 
+				  <unitdate type="inclusive">1984-12-01</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:57:27</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_124_01_am.wav, ubmu0076_124_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_124_01_sc.mp3,
+						ubmu0076_124_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">125</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 8, 
+				  <unitdate type="inclusive">1984-12-01</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:59:00</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_125_01_am.wav, ubmu0076_125_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_125_01_sc.mp3,
+						ubmu0076_125_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">126</container> 
+				<unittitle> 
+				  <persname>Watanabe, Ruth T. (Ruth Taiko)</persname>: Part 9, 
+				  <unitdate type="inclusive">1984-12-01</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:44:25</p> 
+				  <p>Location of recording: Rochester (N.Y.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>mono.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_126_01_am.wav, ubmu0076_126_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_126_01_sc.mp3,
+						ubmu0076_126_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">127</container> 
+				<unittitle> 
+				  <persname>Waters, Edward N. (Edward Neighbor),
+					 1906-1991</persname>: Part 1, 
+				  <unitdate type="inclusive">1978-01-03</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:01:18</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Realistic C-60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_127_01_am.wav, ubmu0076_127_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_127_01_sc.mp3,
+						ubmu0076_127_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">128</container> 
+				<unittitle> 
+				  <persname>Waters, Edward N. (Edward Neighbor),
+					 1906-1991</persname>: Part 2, 
+				  <unitdate type="inclusive">1978-01-03</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:32</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Realistic C-60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_128_01_am.wav, ubmu0076_128_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_128_01_sc.mp3,
+						ubmu0076_128_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">129</container> 
+				<unittitle> 
+				  <persname>Waters, Edward N. (Edward Neighbor),
+					 1906-1991</persname>: Part 3, 
+				  <unitdate type="inclusive">1978-01-03</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:52:38</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Realistic C-60</p> 
+				  <p>stereo.</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_129_01_am.wav, ubmu0076_129_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_129_01_sc.mp3,
+						ubmu0076_129_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">130</container> 
+				<unittitle> 
+				  <persname>Waters, Edward N. (Edward Neighbor),
+					 1906-1991</persname>: Part 4, 
+				  <unitdate type="inclusive">1979-01-05</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:58:45</p> 
+				  <p>Location of recording: Washington (D.C.)</p> 
+				  <p>Type of tape: Maxell UDXLII C60</p> 
+				  <p>stereo.</p> 
+				  <p>Marked "Conversational, private"</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_130_01_am.wav, ubmu0076_130_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_130_01_sc.mp3,
+						ubmu0076_130_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">131</container> 
+				<unittitle> 
+				  <persname>Weichlein, William J. (William Jesset),
+					 1917-1988</persname>: Part 1, 
+				  <unitdate type="inclusive">1985-12-13</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 01:02:47</p> 
+				  <p>Location of recording: Ann Arbor (Mich.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_131_01_am.wav, ubmu0076_131_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_131_01_sc.mp3,
+						ubmu0076_131_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">132</container> 
+				<unittitle> 
+				  <persname>Weichlein, William J. (William Jesset),
+					 1917-1988</persname>: Part 2, 
+				  <unitdate type="inclusive">1985-12-13--1985-12-14</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:37:38</p> 
+				  <p>Location of recording: Ann Arbor (Mich.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_132_01_am.wav, ubmu0076_132_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_132_01_sc.mp3,
+						ubmu0076_132_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">133</container> 
+				<unittitle> 
+				  <persname>Weichlein, William J. (William Jesset),
+					 1917-1988</persname>: Part 3, 
+				  <unitdate type="inclusive">1985-12-14</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:47</p> 
+				  <p>Location of recording: Ann Arbor (Mich.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_133_01_am.wav, ubmu0076_133_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_133_01_sc.mp3,
+						ubmu0076_133_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">134</container> 
+				<unittitle> 
+				  <persname>Weichlein, William J. (William Jesset),
+					 1917-1988</persname>: Part 4, 
+				  <unitdate type="inclusive">1985-12-14--1985-12-15</unitdate>
+				  </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:56:57</p> 
+				  <p>Location of recording: Ann Arbor (Mich.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p>Copyright and literary rights belong to the Music Library
+					 Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_134_01_am.wav, ubmu0076_134_02_am.wav</item> 
+					 <item>Service copy files: ubmu0076_134_01_sc.mp3,
+						ubmu0076_134_02_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="audiocassette">135</container> 
+				<unittitle> 
+				  <persname>Weichlein, William J. (William Jesset),
+					 1917-1988</persname>: Part 5, 
+				  <unitdate type="inclusive">1985-12-15</unitdate> </unittitle> 
+				<physdesc> <extent>1 audiocassette</extent> </physdesc> 
+				<note> 
+				  <p>Duration: 00:26:36</p> 
+				  <p>Location of recording: Ann Arbor (Mich.)</p> 
+				  <p>Type of tape: Maxell UDXLII 60</p> 
+				  <p>stereo.</p> 
+				  <p> Side 2 is blank. Copyright and literary rights belong to the
+					 Music Library Association</p> 
+				</note> 
+			 </did> 
+			 <altformavail> 
+				<p>Digitized copies: 
+				  <list type="simple"> 
+					 <item>Preservation archival master files:
+						ubmu0076_135_01_am.wav</item> 
+					 <item>Service copy files: ubmu0076_135_01_sc.mp3</item> 
+				  </list> </p> 
+			 </altformavail> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Music
+			 librarians--Interviews</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music librarianship --
+			 United States -- 20th century</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">audiocassettes</genreform>
+		  
+		  <genreform encodinganalog="655" source="aat">oral histories (document
+			 genres)</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

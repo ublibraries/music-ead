@@ -201,6 +201,9 @@
 				<item>
 					<ref actuate="onrequest" show="replace" target="series6">VI. Miscellaneous</ref>
 				</item>
+<item>
+					<ref actuate="onrequest" show="replace" target="series7">VII. Additions</ref>
+				</item>				
 			</list>
 		</arrangement>
 		<dsc type="combined">
@@ -1870,6 +1873,22 @@
 					</c03>
 				</c02>
 			</c01>
+<c01 level="series">
+				<did>
+					<unitid id="series7">VII.</unitid>
+
+					<unittitle>Additions, <unitdate type="inclusive" normal="1966/1999">undated</unitdate>
+					</unittitle>
+					<physdesc>
+						
+						<extent>Box 30-32</extent>
+					</physdesc>
+				</did>				
+					<scopecontent>
+<p>Box 30 contains images of people. Images of people in Boxes 31-32 have been marked with post-it notes. Full description is lacking.</p>						
+					</scopecontent>
+			
+			</c01>			
 		</dsc>
 		<controlaccess>
 			<head>Search Terms</head>

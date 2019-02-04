@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 87::Bode Sound Company Document Collection)//EN">ubmu0087</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Bode Sound
+			 Company Document Collection, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1965/1981">1965-1981</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Bode Sound Company
+			 Document Collection</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, December 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard ).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Bode Sound Company Document Collection, 
+		  <unitdate encodinganalog="245$f" normal="1965/1981" type="inclusive" datechar="creation">1965-1981</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 87</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="creator" rules="aacr2">Bode Sound Company</corpname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="folder" encodinganalog="300">(6 folders)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041" langcode="eng">English</language>.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Collection contains
+		  folders of documents pertaining to Bode Sound Company products, including the
+		  Barberpole Phaser, Frequency shifters, and Vocoder. It also contains material
+		  from R. A. Moog, Inc. about its model of a vocoder.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Bode Sound Company Document Collection, 1965-1981,
+			 Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Cort Lippe from the Lejaren Hiller Electronic Music Studio,
+			 University at Buffalo, 2014.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Harald Bode (1909-1987) was an electrical engineer who made several
+		  innovative developments in the design of electronic music instruments. His
+		  early work led to the creation of his Warbo Formant-Orgel in 1937, and his
+		  Melodium in 1938. He emigrated from Germany to Brattleboro, Vermont in 1954 to
+		  work as director of research and development for the Estey Organ Company. In
+		  1960 he moved to North Tonawanda, New York, where he designed a new model of an
+		  electronic piano for Wurlitzer and founded his own company, Bode Sound Company.
+		  He later worked as chief engineer for Bell Aerospace.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Collection contains folders of documents pertaining to Bode Sound
+		  Company products, including the Barberpole Phaser, Frequency shifters, and
+		  Vocoder. It also contains a folder of material from R. A. Moog, Inc. about its
+		  Vocoder. Moog developed one of the first solid-state musical vocoders for the
+		  electronic music studio established by Lejaren Hiller at the University at
+		  Buffalo in 1968.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is alphaebtically arranged by document title. </p> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">1</container> 
+			 <unittitle>Barberpole Phaser, 
+				<unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 <physdesc> <extent>1 leaf</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Full title: Introducing the Barberpole Phaser.</p> 
+			 <p>Produced by Bode Sound Company.</p> 
+		  </scopecontent>
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">2</container> 
+			 <unittitle>Bode frequency shifter model no. 735 Mark II, 
+				<unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 <physdesc> <extent>10 pages</extent> </physdesc> 
+		  </did> 
+		  <scopecontent>
+			 <p>Produced by Bode Sound Company.</p> 
+			 <p>Includes schematics.</p> 
+		  </scopecontent>
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">3</container> 
+			 <unittitle>Bode frequency shifter model no. 741XR: short form
+				operating instructions, 
+				<unitdate type="inclusive">1978</unitdate> </unittitle> 
+			 <physdesc> <extent>5 pages</extent> </physdesc> 
+		  </did> 
+		  <scopecontent>
+			 <p>Produced by Bode Sound Company.</p> 
+			 <p>Includes leaf on Bode feedback stabilizer model no. 741XR and
+				schematics.</p> 
+		  </scopecontent>
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">4</container> 
+			 <unittitle>Bode frequency shifter model no. 750, 
+				<unitdate type="inclusive">1981</unitdate> </unittitle> 
+			 <physdesc> <extent>11 pages</extent> </physdesc> 
+		  </did> 
+		  <scopecontent>
+			 <p>Produced by Bode Sound Company.</p> 
+			 <p>Includes schematics.</p> 
+		  </scopecontent>
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">5</container> 
+			 <unittitle>Bode Vocoder model no. 7702 : 16 channel model of the Bode Vocoder, 
+				<unitdate type="inclusive">1977?</unitdate> </unittitle> 
+			 <physdesc> <extent>16 pages</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Produced by Bode Sound Company.</p>
+			 <p>Includes schematics.</p> 
+		  </scopecontent>
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="item">6</container> 
+			 <unittitle>The Vocoder: theory, description and operation, 
+				<unitdate type="inclusive">1965-1970</unitdate> </unittitle> 
+			 <physdesc> <extent>1 folder (20 pages)</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Produced by R. A. Moog, Inc., Trumansburg, New York.</p> 
+			 <p>Includes document about Moog Model 912 Envelope Follower, Moog
+				Model 902 Voltage-controlled amplifier, and schematics.</p> 
+		  </scopecontent>
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+<controlaccess>
+<head>Contributors</head>
+<corpname encodinganalog="710" rules="aacr2" role="creator">R. A. Moog,
+			 Inc.</corpname> 
+</controlaccess>		
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Bode, Harald</persname>
+<persname encodinganalog="600" source="lcnaf" role="subject">Moog, Bob (Robert)</persname>			 
+		  <corpname encodinganalog="610" rules="aacr2" role="subject">Bode Sound
+			 Company</corpname> 
+		  <corpname encodinganalog="610" rules="aacr2" role="subject">R. A. Moog,
+			 Inc.</corpname>
+<subject source="lcsh" encodinganalog="650">Electronic musical instruments</subject>
+<subject source="lcsh" encodinganalog="650">Vocoder</subject> 		  			 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		   <genreform encodinganalog="655" source="aat">schematic drawings</genreform> 
+			<genreform encodinganalog="655" source="aat">technical manuals</genreform> 
+		 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

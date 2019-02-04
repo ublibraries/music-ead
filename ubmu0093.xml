@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+   scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+   countryencoding="iso3166-1" dateencoding="iso8601"> 
+    <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	encodinganalog="identifier"
+	publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 93::Carol Plantamura Collection of Photographs)//EN">ubmu0093</eadid>
+    
+    <filedesc> 
+	 <titlestmt> 
+	   <titleproper encodinganalog="title">Finding Aid for the Carol Plantamura Collection of Photographs, 
+		<date encodinganalog="date" era="ce" calendar="gregorian"
+		 type="inclusive" normal="1964/1986">1964-1986</date> </titleproper> 
+	   <titleproper type="filing" altrender="nodisplay">Plantamura (Carol) Collection of Photographs</titleproper> 
+	   <author encodinganalog="contributor">Finding aid prepared by John
+		Bewley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	   <publisher encodinganalog="publisher">State University of New York at
+		Buffalo. Music Library</publisher> 
+	   <address> 
+		<addressline>112 Baird Hall</addressline> 
+		<addressline>Buffalo, New York 14260-4750</addressline> 
+		<addressline>United States</addressline> 
+		<addressline>Phone: 716 645-2924</addressline> 
+		<addressline>Fax: 716 645-3906</addressline> 
+		<addressline>Email:<emph render="bold"> 
+		  <extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+		   show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+		<addressline>URL:<emph render="bold"> 
+		  <extref href="http://library.buffalo.edu/music/"
+		   actuate="onrequest" show="new"
+		   role="text/html">http://library.buffalo.edu/music/</extref></emph>
+		  </addressline> 
+	   </address> 
+	   <p>© 
+		<date type="publication" encodinganalog="date">2019</date>. State
+		University of New York at Buffalo. All rights reserved.</p> 
+	 </publicationstmt> 
+    </filedesc> 
+    <profiledesc> 
+	 <creation>Finding aid encoded in EAD by John Bewley January 2019. </creation> 
+	 <langusage>Finding aid written in
+	   <language encodinganalog="language"
+	    langcode="eng">English.</language></langusage> 
+	 <descrules>Finding aid prepared using DACS ( 
+	   <title render="italic">Describing Archives: A Content Standard
+		</title>).</descrules> 
+    </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+    <did> 
+	 <head>Collection Overview</head> 
+	 <unittitle label="Title" encodinganalog="245$a">Carol Plantamura Collection of Photographs, 
+	   <unitdate encodinganalog="245$f" normal="1964/1986" type="inclusive"
+	    datechar="creation">1964-1986</unitdate></unittitle> 
+	 <unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+	  label="Collection Number">Mus. Arc. 93</unitid> 
+	 <origination label="Creator"> 
+	   <persname encodinganalog="100" role="creator" source="lcnaf">Plantamura, Carol</persname> </origination> 
+	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+	   box</extent> <extent unit="folder" encodinganalog="300$a">(18
+	   photographs)</extent> </physdesc> 
+	 <langmaterial label="Language of Material" encodinganalog="546">No
+	   textual materials are included in the collection.</langmaterial> 
+	 <repository label="Repository" encodinganalog="852"> 
+	   <corpname>State University of New York at Buffalo. <subarea>Music
+		Library</subarea></corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">Contains eighteen photographs of Carol Plantamura with musicians associated with her time in Buffalo, including John Bergamo, Karl Kraber, Gregory Ketchum, Robert Dick, Yvar Mikhashoff, Buell Neidlinger, David Fuller, and Jeremy Noble. </abstract> 
+    </did> 
+    <descgrp type="admininfo"> 
+	 <head>Administrative Information</head> 
+	 <prefercite encodinganalog="524"> 
+	   <head>Preferred Citation</head> 
+	   <p>[Specified item], Carol Plantamura Collection of Photographs, 1964-1986, Music Library, The State University of New York at Buffalo.</p> 
+	 </prefercite> 
+	 <accessrestrict encodinganalog="506"> 
+	   <head>Terms of Access</head> 
+	   <p>Materials can be examined by qualified researchers in the Music
+		Library during hours of operation during which Music Librarians are present. In
+		order to insure access, researchers are advised to contact the Music Library in
+		advance of visits. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	   <head>Copyright</head> 
+	   <p>Copyright for the materials in the collection does not reside with
+		the Music Library. Therefore, patrons wishing to publish any item, or part of
+		an item from this collection for any purpose, are responsible for securing
+		requisite permissions. </p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+	   <head>Acquisition Information</head> 
+	   <p>Gift of Carol Plantamura, 2015.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+	   <head>Accruals and Additions</head> 
+	   <p>No further accruals are expected to this collection. </p> 
+	 </accruals> 
+	
+	 <processinfo encodinganalog="583"> 
+	   <head>Processing Information</head> 
+	   <p>Processed by John Bewley, 2019.</p> 
+	 </processinfo> 
+    </descgrp> 
+    <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Carol Plantamura was born in Los Angeles 8 February 1941. She earned her undergaruate degree from Occidental College and a master's degree from University at Buffalo. She moved to Buffalo in 1964 to join the first class of Creative Associates in the Center of the Creative and Performing Arts. She moved to Rome, Italy in 1966 where she was a member of Musica Elettronica Viva, an electronic music and improvisational ensemble. In 1971 Plantamura was a founding member of the Five Centuries Ensemble, along with John Patrick Thomas, Marijke Verberne, and William Christie. The ensemble toured widley and made six recordings of 17th century music for the Fonit Cetra/Italia recording label. </p>
+<p>Plantamura joined the music faculty at the University of California, San Diego in 1978, and is currently an emeritus faculty member. She is also the author of a children's book, <title render="italic">Woman Composer</title>, as well as <title render="italic">The Opera Lover's Guide to Europe</title>.</p>	 
+	 
+    </bioghist> 
+    <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Contains eighteen photographs of Carol Plantamura with musicians associated with her time in Buffalo, including John Bergamo, Karl Kraber, Gregory Ketchum, Robert Dick, Yvar Mikhashoff, Buell Neidlinger, David Fuller, and Jeremy Noble. </p> 
+	 
+    </scopecontent> 
+    <arrangement encodinganalog="351"> 
+	 <head>Arrangement</head> 
+	 <p>The collection is chiefly arranged in chronological order. </p> 
+	
+    </arrangement> 
+    <dsc type="combined"> 
+	 <head>Container List</head> 
+	 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">1</container> 
+		  <unittitle>Double bass player Buell Neidlinger, 
+		    <unitdate type="inclusive">October 1964</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">2</container> 
+		  <unittitle>Double bass player Buell Neidlinger in rehearsal, 
+		    <unitdate type="inclusive">May 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">3</container> 
+		  <unittitle>Percussionist John Bergamo, 
+		    <unitdate type="inclusive">May 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+			   </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">4</container> 
+			<unittitle>Carol Plantamura with fellow members of the Ars Nova Consort, Karl Kraber, 
+				John Bergamo, and Buell Neidlinger, rehearsing in the auditorium of the downtown Buffalo and Erie County Public Library 
+		    <unitdate type="inclusive">spring 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		
+	   </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">5</container> 
+			<unittitle>Carol Plantamura, John Bergamo, Nuell Neidlinger, and Elizabeth Crumb, in the Buffalo apartment of George Crumb, 
+				with score of his <title render="italic">Madrigal I</title> on the table,
+		    <unitdate type="inclusive">1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent> </physdesc> 
+		  <note> 
+		    <p>Photographer: George Crumb</p> 
+		  </note> 
+		</did> 
+		 </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">6</container> 
+			<unittitle>Carol Plantamura, John Bergamo, and Nuell Neidlinger rehearsing George Crumb's 
+				<title render="italic">Madrigal I</title> in the auditorium of the downtown Buffalo and Erie County Public Library, 
+		    <unitdate type="inclusive">spring 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		</c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">7</container> 
+			<unittitle>Carol Plantamura rehearsing with Buell Niedlinger, 
+		    <unitdate type="inclusive">May 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		 </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">8</container> 
+			<unittitle>Carol Plantamura rehearsing with Buell Niedlinger, 
+				<unitdate type="inclusive">May 1965</unitdate> </unittitle> 
+			<physdesc> <extent>1 black and white photograph</extent>
+			</physdesc> 
+			<note> 
+				<p>Photographer: Unidentified</p> 
+			</note> 
+		</did> 
+		</c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">9</container> 
+			<unittitle>Carol Plantamura rehearsing with John Bergamo, 
+		    <unitdate type="inclusive">May 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		</c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">10</container> 
+			<unittitle>Double bass player Buell Neidling on a snow-covered street in Buffalo, 
+		    <unitdate type="inclusive">April 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		 </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">11</container> 
+			<unittitle>Carol Plantamura and John Bergamo, 
+		    <unitdate type="inclusive">spring 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+	   </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">12</container> 
+			<unittitle>Percussionist John Bergamo on a snow-covered street in Buffalo, 
+		    <unitdate type="inclusive">April 1965</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		  </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">13</container> 
+			<unittitle>Carol Plantamura in performance with David Fuller in old Baird (now Allen) Hall at the University at Buffalo, 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 black and white photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		 </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">14</container> 
+			<unittitle>Carol Plantamura performing with flutist Robert Dick and percussionist Gregory Ketchum, 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p>
+		  	 </note> 
+		</did> 
+		 </c01> 
+    	<c01 level="item"> 
+    		<did> 
+    			<container type="box">1</container> 
+    			<container type="item">15</container> 
+    			<unittitle>Carol Plantamura performing with flutist Robert Dick and percussionist Gregory Ketchum, 
+    				<unitdate type="inclusive">1978</unitdate> </unittitle> 
+    			<physdesc> <extent>1 color photograph</extent>
+    			</physdesc> 
+    			<note> 
+    				<p>Photographer: Unidentified</p>
+    							</note> 
+    		</did> 
+    	</c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">16</container> 
+			<unittitle>Carol Plantamura after a performance in Buffalo, 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		 </c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">17</container> 
+			<unittitle>Carol Plantamura with unidentified female after a performance in Buffalo, 
+		    <unitdate type="inclusive">1978</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		</c01> 
+	   <c01 level="item"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="item">18</container> 
+			<unittitle>Carol Plantamura with pianist Yvar Mikhashoff and musicologist Jeremy Noble
+				in the Buffalo apartment of Sheldon Berlow, 
+		    <unitdate type="inclusive">1986</unitdate> </unittitle> 
+		  <physdesc> <extent>1 color photograph</extent>
+		    </physdesc> 
+		  <note> 
+		    <p>Photographer: Unidentified</p> 
+		  </note> 
+		</did> 
+		 </c01> 
+	  
+	  
+    </dsc> 
+    <controlaccess> 
+	 <head>Search Terms</head> 
+	 <note> 
+	   <p>The following terms have been used to index the description of this
+		collection in the Library's online catalog. </p> 
+	 </note> 
+	 <controlaccess> 
+	   <head>Subjects</head> 
+	   <subject source="lcsh" encodinganalog="650">Musicians--New York (State)--Buffalo--Photographs</subject> 
+	   <subject source="lcsh" encodinganalog="650">Sopranos (Singers)--New York (State)--Buffalo--Photographs</subject> 
+	   <subject source="lcsh"
+	    encodinganalog="650">Musicians--Photographs</subject> 
+	   <persname encodinganalog="600" source="lcnaf" role="subject">Plantamura, Carol--Photographs</persname> 
+	  
+	 </controlaccess> 
+	 <controlaccess> 
+	   <head>Genres</head> 
+	   <genreform encodinganalog="655" source="aat">Photographs</genreform> 
+	 </controlaccess> 
+    </controlaccess> 
+   
+  </archdesc>
+</ead> 

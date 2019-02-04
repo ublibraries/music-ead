@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 84::Diane Williams Collection of Papers and Photographs)//EN">ubmu0084
+	 </eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Diane Williams Collection of Papers and Photographs, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1966/1991"> 1966-1991
+			 </date> 
+			 </titleproper>
+
+		  <titleproper type="filing" altrender="nodisplay"> Williams (Diane) Collection of Papers and Photographs
+		  </titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John Bewley.</author>
+		  
+		  
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p>
+
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, November 2018.
+		</creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language" langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (<title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+	  
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Diane Williams Collection of Papers and Photographs,
+		  
+		  <unitdate encodinganalog="245$f" normal="1966/1991" type="inclusive" datechar="creation"> 1966-1991
+		  </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Mus. Arc. 84</unitid>
+		
+		<origination label="Creator">
+		  <persname encodinganalog="100" role="creator" rules="aacr2">
+Williams, Diane, 1940- </persname> </origination> 
+		<physdesc label="Extent"> 
+<extent unit="box" encodinganalog="300$a">1 box</extent>
+<extent unit="folder" encodinganalog="300$a">(16 folders, </extent>
+<extent unit="photograph" encodinganalog="300$a">34 photographs)</extent>
+		  
+		</physdesc> 	 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		Collection
+		  material in <language encodinganalog="041" langcode="eng">English.</language>
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> 
+		   
+		</repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> The collection contains a small amount of correspondence, concert programs and advertisements, clippings, and photographs.</abstract>
+		
+		 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head>  
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Diane Williams Collection of Papers and Photographs, 1966-1991, Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In order to insure access, researchers are advised to contact the Music Library in advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of an item from this collection for any purpose, are responsible for securing requisite permissions. </p> 
+		</userestrict> 
+	  
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Diane Williams, 2017.</p>
+		  
+		</acqinfo> 
+		 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.
+				</p>
+		  
+		</accruals> 
+		 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2018.</p>
+		  
+		</processinfo> 
+		 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Diane Wiens Williams was born 22 November 1940 in Kansas City, Missouri. She earned her Bachelor's Degree in Music from Oberlin, with studies in viola with William Berman and in voice with Robert Fountain. She continued her studies at the Manhattan School of Music where she studied viola with William Lincer and Lillian Fuchs. Later, she earned a Master's Degree in School Counseling at the University at Buffalo. 
+</p>
+<p>Diane Williams moved to Buffalo with her husband, percussionist Jan Williams, in 1964. The couple met while attending the Manhattan School of Music and married in 1962. She was hired as a member of the viola section in the Buffalo Philharmonic Orchestra in 1964 and remained in the position until 1996. Williams has also performed at the Ojai Music Festival in California, the Cayuga Chamber Orchestra, the Western New York Chamber Orchestra, the Erie Philharmonic, the SONOR ensemble at the University of California at San Diego. She often performed with various chamber ensembles in Buffalo, including the Custer and Taub string quartets, and the Camenae String Quartet of which she was a founding member.</p> 
+<p>Diane Williams is a member and officer of the Wednesday Morning Musicale, an organization of women musicians in Western New York founded in 1925. She has served as a New York State certified Ombudsman at a Buffalo inner city nursing home and is a professional music engraver. </p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains a small amount of correspondence, concert programs and advertisements, clippings, and photographs.
+</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+
+		<p>The collection is arranged in two series: </p> 
+		<list>
+		  <item>
+			 <ref actuate="onrequest" show="replace" target="series1">I. Papers</ref></item>
+		  <item>
+			 <ref actuate="onrequest" show="replace" target="series2">II. Photographs</ref></item>
+	</list>
+	 </arrangement>
+
+<dsc type="combined">
+
+<head>Container List</head> 
+<c01 level="series">
+			  <did> 
+			 <unitid id="series1">
+I.</unitid> 
+			 <unittitle>Papers, 
+				<unitdate type="inclusive" normal="1966/1991">
+1966-1991</unitdate>
+				</unittitle> 
+			 <physdesc><extent>
+Folder 1-16</extent></physdesc> 
+		  </did>
+<scopecontent><p>Contains correspondence, programs, and clippings.</p></scopecontent>
+
+
+<c02 level="file">
+			 <did>
+			 <container type="box">1</container>
+			 <container type="item">1</container>
+			 <unittitle>Correspondence,
+			 <unitdate>1974-1991</unitdate></unittitle>
+<physdesc><extent>5 pieces</extent></physdesc>
+</did>				 
+		  </c02>
+
+<c02 level="file">
+			 <did>
+			 <container type="box">1</container>
+			 <container type="folder">2</container>
+			 <unittitle>Camenae String Quartet business cards,
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>2 cards</extent></physdesc>
+</did>	
+		  </c02>
+
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">3</container>
+			 <unittitle>Programs,
+			 <unitdate>1972-1975</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>			 
+		  </c02>
+
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">4</container>
+			 <unittitle>Programs,
+			 <unitdate>1977-1979</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>				 
+		  </c02>
+
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">5</container>
+			 <unittitle>Programs,
+			 <unitdate>1980-1981</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>				 
+		  </c02>
+
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">6</container>
+			 <unittitle>Programs,
+			 <unitdate>1982-1983</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>				 
+		  </c02>
+
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">7</container>
+			 <unittitle>Programs,
+			 <unitdate>1984-1985</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>				 
+		  </c02>
+
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">8</container>
+			 <unittitle>Programs,
+			 <unitdate>1988-1990</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>				 
+		  </c02>
+
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">9</container>
+			 <unittitle>Clippings,
+			 <unitdate>1966</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>	
+ </c02>
+		  		  		  		  		  		  		  
+		  
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">10</container>
+			 <unittitle>Clippings,
+			 <unitdate>1974-1977</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>	
+ </c02>
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">11</container>
+			 <unittitle>Clippings,
+			 <unitdate>1978-1979</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>	
+ </c02>
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">12</container>
+			 <unittitle>Clippings,
+			 <unitdate>1980</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>	
+ </c02>
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">13</container>
+			 <unittitle>Clippings,
+			 <unitdate>1981</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>	
+ </c02>
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">14</container>
+			 <unittitle>Clippings,
+			 <unitdate>1982-1983</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+</did>	
+ </c02>
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">15</container>
+			 <unittitle>Clippings,
+			 <unitdate>1984-1985</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+ </did>	
+ </c02>
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">16</container>
+			 <unittitle>Programs and clippings,
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>1 folder</extent></physdesc>
+ </did>	
+ </c02>
+       	  		  		  		  		  		  		  		  		  		  		  		  		  
+</c01>
+
+
+<c01 level="series">
+			  <did> 
+			 <unitid id="series2">
+I.</unitid> 
+			 <unittitle>Photographs, 
+				<unitdate type="inclusive" normal="1967/1985">
+1967-1985</unitdate>
+				</unittitle> 
+			 <physdesc><extent>
+Item 17-40</extent></physdesc> 
+		  </did>
+<scopecontent><p>Contains 34 photographs and several strips of negatives.</p></scopecontent>
+<arrangement><p>Chiefly arranged in chronological order.</p></arrangement>
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">17</container>
+			 <unittitle>Buffalo Philharmonic Orchestra at Kleinhans Hall, with conductor Michael Tilson Thomas,
+			 <unitdate>1971</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did>	
+ </c02>
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">18</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02> 
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">19</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">20</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">21</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">22</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">23</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">24</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">25</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">26</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">27</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">28</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">29</container>
+			 <unittitle>Camenae String Quartet on stage: Diane Williams, viola, Marie Yadzinski and Sue Harbison, violin, Mary Sue Wells, violoncello,
+			 <unitdate>circa 1976</unitdate></unittitle>
+<physdesc><extent>1 black and white photographic proof sheet</extent></physdesc>
+<note><p>Photograph by Jay Wells</p></note>
+ </did>	
+ </c02>  
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">30</container>
+			 <unittitle>Camenae String Quartet proof sheet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photographic proof sheet</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02> 
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">31</container>
+			 <unittitle>Camenae String Quartet proof sheet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photographic proof sheet</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02> 
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">32</container>
+			 <unittitle>Camenae String Quartet proof sheet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photographic proof sheet</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">33</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>      
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">34</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">35</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">36</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">37</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">38</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">39</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">40</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02> 
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">41</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Sheryl Krohn and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1981</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Don Harry</p></note>
+ </did>	
+ </c02>  
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">42</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Diana Aylward and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1983</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Ansgarius Aylward</p></note>
+ </did>	
+ </c02>   
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">43</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Diana Aylward and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1983</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Ansgarius Aylward</p></note>
+ </did>	
+ </c02>   
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">44</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Diana Aylward and Donald McCrorey, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1983</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did>	
+ </c02> 
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">45</container>
+			 <unittitle>Nils Vigeland at performance by the Camenae String Quartet at the Burchfield Center,
+			 <unitdate>21 April 1980</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did>	
+ </c02> 
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">46</container>
+			 <unittitle>Nils Vigeland at performance by the Camenae String Quartet at the Burchfield Center, with Diane Williams, Mary Sue Wells, and Igor Prince,
+			 <unitdate>21 April 1980</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did>	
+ </c02> 
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">47</container>
+			 <unittitle>Nils Vigeland at performance by the Camenae String Quartet at the Burchfield Center, with Diane Williams, Mary Sue Wells, and Igor Prince,
+			 <unitdate>21 April 1980</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did>	
+ </c02>
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">48</container>
+			 <unittitle>Jan Williams conducting at performance by the Camenae String Quartet at the Burchfield Center, with Bruce Penner, percussion, Edward Yadzinski, clarinet, and Mary Sue Wells, violoncello,
+			 <unitdate>21 April 1980</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did>	
+ </c02>
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">49</container>
+			 <unittitle>Camenae String Quartet: Diane Williams, viola, Diana Aylward and Robert Prokes, violin, Robert Hausmann, violoncello,
+			 <unitdate>circa 1984</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Photograph by Ansgarius Aylward</p></note>
+ </did>	
+ </c02> 
+<c02 level="item">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="item">50</container>
+			 <unittitle>Conductor Joseph Wincenc with the Camenae String Quartet: Diane Williams, viola, Melanie Gugala Haas and Robert Prokes, violin, Robert Hausmann, violoncello,
+			 <unitdate>17 February 1985</unitdate></unittitle>
+<physdesc><extent>1 black and white photograph</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did><scopecontent><p>Signed by Wincenc in appreciation of performance with the Amherst Symphony.</p></scopecontent>	
+ </c02> 
+<c02 level="file">
+			 <did>			 
+			 <container type="box">1</container>
+			 <container type="folder">51-53</container>
+			 <unittitle>Negative strips,
+			 <unitdate>undated</unitdate></unittitle>
+<physdesc><extent>3 pockets of strips</extent></physdesc>
+<note><p>Unidentified photographer</p></note>
+ </did>	
+ </c02>                                                   
+</c01>
+
+</dsc>	  
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <persname encodinganalog="600" role="subject" rules="aacr2">Williams, Diane, 1940-</persname> 
+<corpname encodinganalog="610" role="subject" rules="aacr2">Camenae String Quartet</corpname>
+<subject source="lcsh" encodinganalog="650">Women musicians--New York (State)--Buffalo</subject>
+<subject source="lcsh" encodinganalog="650">Women violists--New York (State)--Buffalo</subject>
+<subject source="lcsh" encodinganalog="650">String quartets (Musical groups)--New York (State)--Buffalo</subject>  		  
+		  		  
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Correspondence</genreform> 
+ <genreform encodinganalog="655" source="aat">Concert programs</genreform>
+ <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
+ <genreform encodinganalog="655" source="aat">Photographs</genreform>  		  
+		</controlaccess> 
+	 </controlaccess> 
+	  
+  </archdesc>
+</ead> 

@@ -56,17 +56,17 @@
   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
 	 <did> 
 		<head>Collection Overview</head> 
-		<unittitle label="Title" encodinganalog="245$a"> J. Warren Perry
+		<unittitle label="Title" encodinganalog="245$a">J. Warren Perry
 		  Correspondence and Autograph Collection, 
 		  <unitdate encodinganalog="245$f" normal="1840/1995" type="inclusive"
-			datechar="creation"> 1840-1995 </unitdate></unittitle> 
+			datechar="creation">1840-1995 </unitdate></unittitle> 
 		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
 		 label="Collection Number">Mus. Arc. 3.3</unitid> 
 		<origination label="Creator"> 
-		  <persname encodinganalog="100" role="creator" source="lcnaf"> Perry, J.
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Perry, J.
 			 Warren </persname> </origination> 
-		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
-		  box</extent> <extent unit="item" encodinganalog="300">(83 items)</extent>
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">2 boxes</extent> 
+		<extent unit="item" encodinganalog="300">(86 items)</extent>
 		  </physdesc> 
 		<langmaterial label="Language of Material" encodinganalog="546">
 		  Collection material in <language encodinganalog="041"
@@ -77,8 +77,8 @@
 		<repository label="Repository" encodinganalog="852"> 
 		  <corpname>State University of New York at Buffalo. <subarea>Music
 			 Library</subarea></corpname> </repository> 
-		<abstract label="Abstract" encodinganalog="520$a"> 83 items, including
-		  letters to Dr. Perry, autographed programs, and autographed cards. </abstract> 
+		<abstract label="Abstract" encodinganalog="520$a">Collection contains 85 items, including
+		  letters to Dr. Perry, autographed programs, and autographed cards. It also includes the collection, <title render="italic">Following a Star</title> that consists of mimeographed copies of letters written by May Higgens to members of the Claudia Muzio Fan Club. </abstract> 
 	 </did> 
 	 <descgrp type="admininfo"> 
 		<head>Administrative Information</head>  
@@ -141,25 +141,28 @@
 	 </bioghist> 
 	 <scopecontent encodinganalog="520"> 
 		<head>Scope and Content Note</head> 
-		<p>The collection contains 83 items, including signed correspondence,
+		<p>The collection contains 85 items, including signed correspondence,
 		  autographed cards, programs, and music, and musical inscriptions. The
 		  correspondents and signatees are chiefly musicians and dancers. Included among
 		  them are Aaron Copland, Anna Moffo, Artur Rubinstein, Artur Rodzinski, Walter
-		  Damrosch, Maria Tallchief, Renata Tebaldi, Fritz Reiner, and Maria Callas. </p>
+		  Damrosch, Maria Tallchief, Renata Tebaldi, Fritz Reiner, and Maria Callas. Also included is the collection, <title render="italic">Following a Star</title> that consists of mimeographed copies of letters written by May Higgins to members of the Claudia Muzio Fan Club. </p>
 		
 	 </scopecontent> 
 	 <arrangement encodinganalog="351"> 
 		<head>Arrangement</head> 
-		<p>The collection is arranged in three series: </p> 
+		<p>The collection is arranged in four series: </p> 
 		<list> 
 		  <item> 
 			 <ref actuate="onrequest" show="replace" target="series1">I.
 				</ref>Correspondence and autographs</item> 
 		  <item> 
 			 <ref actuate="onrequest" show="replace" target="series2">II.
-				</ref>Autographs and inscriptions, 9 x 14 cm. or smaller</item> 
-		  <item> 
+				</ref>Autographs and inscriptions, 9 x 14 cm. or smaller</item>
+<item> 
 			 <ref actuate="onrequest" show="replace" target="series3">III.
+				</ref>Following a star</item> 				
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series4">IV.
 				</ref>Autographs and correspondence in framed items</item> 
 		</list> 
 	 </arrangement> 
@@ -1165,14 +1168,59 @@
 				  2, C minor </p>
 			 </note>
 		  </c02> 
-		</c01> 
-		<c01 level="series"> 
+<c02 level="item">
+			 <did>
+				<container type="box">1</container>
+				<container type="item">84</container>
+				<unittitle>
+				  <persname source="lcnaf"> Strauss, Richard, 1864-1949</persname>
+				  <unitdate type="inclusive">1895?</unitdate></unittitle>
+				<physdesc><extent>1 ms. leaf</extent></physdesc>
+			 </did>
+			 
+		  </c02>
+<c02 level="item">
+			 <did>
+				<container type="box">1</container>
+				<container type="item">85</container>
+				<unittitle>
+				  Unidentified author,
+				  <unitdate type="inclusive">1847</unitdate></unittitle>
+				<physdesc><extent>1 ms. leaf</extent></physdesc>
+			 </did>
+			 
+		  </c02>		  
+		  		</c01> 
+<c01 level="series"> 
 		  <did> 
 			 <unitid id="series3">III.</unitid> 
-			 <unittitle>Autographs and correspondence in framed items, 
-				<unitdate type="inclusive" normal="1840/1995"> 1840-1995</unitdate>
+			 <unittitle>Following a star, 
+				<unitdate type="inclusive" normal="1929/1935">1929-1935</unitdate>
 				</unittitle> 
-			 <physdesc><extent> Item 84-</extent></physdesc> 
+			 <physdesc><extent>Item 86</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>In folder as received. Letters are in chronological order.</p> 
+		  </arrangement> 
+<scopecontent><p>This folder bears a label, <title render="italic">Following a star</title>. The contents are the mimeographed copiesof letters written by May Higgins while on tour with soprano, Claudia Muzio, 1929-1936. Higgins (born 1888) worked as personal assistant to Muzio and wrote the letters to members of the Claudia Muzio Fan Club.</p></scopecontent>
+<c02 level="item">
+			 <did>
+				<container type="box">2</container>
+				<container type="item">86</container>
+				<unittitle>Following a star,
+				  <unitdate type="inclusive">1929-1935</unitdate></unittitle>
+				<physdesc><extent>1 folder (approximately 86 leaves)</extent></physdesc>
+			 </did>
+<scopecontent><p>Also contains a photograph of Muzio, a 1957 review of a recording, and a brief biography within a booklet that accompanied a Columbia Records release.</p></scopecontent>			 
+		  </c02>			  
+		</c01> 				
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>Autographs and correspondence in framed items, 
+				<unitdate type="inclusive" normal="1840/1995">1840-1995</unitdate>
+				</unittitle> 
+			 <physdesc><extent> Item 87-</extent></physdesc> 
 		  </did> 
 		  <arrangement> 
 			 <p>Framed items awaiting inventory.</p> 
@@ -1185,14 +1233,17 @@
 		  <p>The following terms have been used to index the description of this
 			 collection in the Library's online catalog. </p> 
 		</note> 
+<controlaccess><head>Contributors</head>
+<persname encodinganalog="700" rules="aacr2" role="creator">Higgins, May, b. 1888</persname></controlaccess>		
 		<controlaccess> 
 		  <head>Subjects</head> 
 		  <subject source="lcsh" encodinganalog="650">Musicians--Correspondence</subject> 
-		  <persname encodinganalog="600" source="lcnaf" role="subject">Perry, J. Warren--Correspondence</persname> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Perry, J. Warren--Correspondence</persname>
+<persname encodinganalog="600" source="lcnaf" role="subject">Muzio, Claudia, 1889-1936</persname>		  
 		</controlaccess> 
 		<controlaccess> 
 		  <head>Genres</head> 
-		  <genreform encodinganalog="655" source="gmgpc">Portraits</genreform> 
+		  <genreform encodinganalog="655" source="aat">Correspondence</genreform> 
 		</controlaccess> 
 	 </controlaccess> 
 	 <descgrp type="add"> 

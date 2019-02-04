@@ -66,7 +66,7 @@
 			normal="Williams, Jan, 1939- " source="lcnaf">Williams, Jan, 1939- </persname>
 		  </origination> 
 		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">15
-		  boxes</extent> <extent unit="item" encodinganalog="300$a">(219 items)</extent>
+		  boxes</extent> <extent unit="item" encodinganalog="300$a">(224 items)</extent>
 		  </physdesc> 
 		<langmaterial label="Language of Material" encodinganalog="546">Some
 		  collection material in <language encodinganalog="041"
@@ -4250,6 +4250,84 @@
 				performance by ensemble conducted by Jan Williams. </p> 
 		  </note> 
 		</c01> 
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">220</container> 
+			 <unittitle> 
+				<persname role="composer">Cage, John</persname> 
+				<title type="transcribed">But what about the noise of crumpling paper ... </title>
+				<imprint>New York : Henmar Press : C. F. Peters,
+				</imprint> 
+				<unitdate>c1985. </unitdate> </unittitle> 
+			 <physdesc><extent>13 leaves ; 29 cm. </extent> </physdesc> 
+		  </did> 
+		  
+<scopecontent><p>Includes 2 manuscript leaves of performance instructions by Jan Williams.</p></scopecontent>		  
+		</c01>
+
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">221</container> 
+			 <unittitle> 
+				<persname role="composer">MacBride, David</persname> 
+				<title type="transcribed">Face : for two drummers</title>
+				<imprint>New York : American Composers Alliance,
+				</imprint> 
+				<unitdate>1986. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (ii, 6 pages) ; 39 cm. </extent> </physdesc> 
+		  </did> 
+		  
+<scopecontent><p>Marked for performance by Jan Williams.</p></scopecontent>		  
+		</c01> 
+
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">222</container> 
+			 <unittitle> 
+				<persname role="composer">Roqué Alsina, Carlos, 1941-</persname> 
+				<title type="transcribed">Themen : per una percussionista, op. 34</title>
+				<imprint>Milan : Edizioni Suvini Zerboni,
+				</imprint> 
+				<unitdate>1974. </unitdate> </unittitle> 
+			 <physdesc><extent>1 score (8 pages) ; 34 x 50 cm. </extent> </physdesc> 
+		  </did> 
+		  
+<scopecontent><p>Marked for performance by Jan Williams.</p></scopecontent>		  
+		</c01>
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">223</container> 
+			 <unittitle> 
+				<persname role="composer">Bergamo, John</persname> 
+				<title type="transcribed">Duet</title>
+				
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>1 manuscript score (5 pages) ; 33 cm. </extent> </physdesc> 
+		  </did> 
+		  
+<scopecontent><p>Second copy of first movement marked for performance.</p></scopecontent>		  
+		</c01> 	
+
+<c01 level="item"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <container type="item">224</container> 
+			 <unittitle> 
+				<persname role="composer">Williams, Jan, 1939-</persname> 
+				<title type="transcribed">Varitations for four kettledrums</title>
+				
+				<unitdate>undated</unitdate> </unittitle> 
+			 <physdesc><extent>2 pages of performance instructions, 10 leaves of music ; 32 cm. </extent> </physdesc> 
+		  </did> 
+		  
+<scopecontent><p>Pencil holograph, includes some sketch material.</p></scopecontent>		  
+		</c01> 	
+
+									 		
 	 </dsc> 
 	 <controlaccess> 
 		<head>Search Terms</head> 

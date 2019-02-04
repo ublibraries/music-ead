@@ -1,0 +1,3365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 48::Collection of 19th-century European Sheet Music)//EN">ubmu0048</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Collection of
+			 19th-century European Sheet Music, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1791/1900" certainty="approximate">circa 1791-1900
+				</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Collection of
+			 19th-century European Sheet Music</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, September 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Collection of
+			 19th-century European Sheet Music, 
+		  <unitdate encodinganalog="245$f" normal="1791/1900" type="inclusive"
+			datechar="creation" certainty="approximate">circa 1791-1900
+			 </unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 48</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="compiler" source="lcnaf">State
+			 University of New York at Buffalo. Music Library</corpname> </origination> 
+		<physdesc label="Extent">
+		  <extent unit="linear foot" encodinganalog="300$a">3 linear feet</extent>
+		  (<extent unit="box" encodinganalog="300$a">4 boxes</extent>,
+		  <extent unit="item" encodinganalog="300$a">149 items</extent>) </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546"> Texts of
+		  songs are in <language encodinganalog="041" langcode="eng">English</language>,
+		  <language encodinganalog="041" langcode="fre">French</language>,
+		  <language encodinganalog="041" langcode="ger">German</language>, and
+		  <language encodinganalog="041" langcode="ita">Italian</language>.
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Collection of 125
+		  complete pieces of sheet music from European countries: Austria (5), Belgium
+		  (6), England (54), France (9), Germany (31), Italy (14), and the Netherlands
+		  (5). Most of these include title page illustrations, about 30 of which are in
+		  color. The collection includes an additional 24 partial works, most of which
+		  consist only of their title pages. The musical content consists of 44 works for
+		  solo piano and approximately 75 works for some combination of voice and piano.
+		  </abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Collection of 19th-century European Sheet Music,
+			 circa 1791-1900, Music Library, The State University of New York at
+			 Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Materials are in the public domain.</p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Collection compiled by the Music Library from a combination of
+			 purchases and gifts.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by Julia Cordani, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head>
+		<p>The collection was compiled by staff of the University at Buffalo
+		  Music Library, drawing on both gifts and purchased acquisitions. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Collection of 125 complete pieces of sheet music from European
+		  countries: Austria (5), Belgium (6), England (54), France (9), Germany (31),
+		  Italy (14), and the Netherlands (5). Most of these include title page
+		  illustrations, about 30 of which are in color. The collection includes an
+		  additional 24 partial works, most of which consist only of their title pages.
+		  The musical content consists of 44 works for solo piano and approximately 75
+		  works for some combination of voice and piano. Overall, the collection provides
+		  a representative sample of sheet music publishing practices in European markets
+		  during the 19th century as well as lithographic art and some of the
+		  extra-musical topics treated as subjects for music during the period. Very few
+		  of the works bear copyright or publisher dates. As a result, dates have been
+		  supplied from various sources or estimated. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in two series:</p>
+		<list type="simple">
+		  <item>
+			 <ref target="series1" actuate="onrequest" show="replace">I. Complete
+				works</ref>
+		  </item>
+		  <item>
+			 <ref target="series2" actuate="onrequest" show="replace">II. Partial
+				works</ref>
+		  </item>
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined">
+		<head>Container List</head>
+		<c01 level="series">
+		  <did> 
+			 <unitid id="series1">I.</unitid>
+			 <unittitle>Complete works, 
+				<unitdate type="inclusive" normal="1791/1900">circa 1791-1900</unitdate>
+			 </unittitle>
+			 <physdesc><extent>Items 1-125</extent></physdesc> 
+		  </did>
+		  <arrangement>
+			 <p>Arranged alphabetically by surname of composer and then by
+				preferred title of the composition.</p>
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">001</container> 
+				<unittitle> 
+				  <persname>Abt, Franz, 1819-1885</persname> 
+				  <title type="uniform">Lieder, op. 39. No. 1-2</title> 
+				  <title type="transcribed">Agathe - Irene : zwei Lieder aus dem
+					 Buch der Liebe,</title> 
+				  <unitdate>1846</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Stuttgart (Germany): Karl Göpel</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Herlosssohn, C. (Carl), 1804-1849</p> 
+				  <p>Title page notes "Ausgabe für Sopran oder Tenor".</p> 
+				  <p> English translation of text for Agathe by John Henry Gordon;
+					 for Irene by E.A. Moriarty. Bound together with "Der Alpengruss Schweizerlied"
+					 by Adolf Hofmeister. Orpheon, Album fur Gesang mit Pianoforte, no. 28 and no.
+					 47.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">002</container> 
+				<unittitle> 
+				  <persname>Adams, Stephen, 1844-1913</persname> 
+				  <title type="uniform">Nancy Lee waltz; arranged</title> 
+				  <title type="transcribed">Nancy Lee waltz,</title> 
+				  <unitdate>between 1875 and 1880</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (8 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Boosey and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Arranger: Löffler, Fred</p> 
+				  <p>Color title page illustration: a ship at sea / lithographed by
+					 Stannard and Son.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">003</container> 
+				<unittitle> 
+				  <persname>Adams, Thomas, 1785-1858</persname> 
+				  <title type="uniform">Melross Abbey</title> 
+				  <title type="transcribed">Melross Abbey : a Scotish [sic]
+					 divertimento,</title> 
+				  <unitdate>circa 1815</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (8 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): G. Walker</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: a view of the Melross Abbey.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">004</container> 
+				<unittitle> 
+				  <persname>Albert, Charles d', 1809-1886</persname> 
+				  <title type="uniform">Edinburgh quadrille</title> 
+				  <title type="transcribed">Edinburgh quadrille : upon Scotch
+					 airs,</title> 
+				  <unitdate>1852</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: Highland soldiers in red
+					 uniforms overlooking the city of Edinburgh from the top of Edinburgh
+					 Castle.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>No. 1. Pantalon. The MacGregor's march ; Jenny put the kettle on
+				  -- No. 2. Ètè. Annie Laurie -- No. 3. Poule. Kinloch of Kinloch ; Ye banks and
+				  braes o' Bonnie Doon -- No. 4. Trenise. My love is like the red, red rose --
+				  No. 5. Finale. Hazeldean ; Maggie Lauder ; The blue bells of Scotland.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">005</container> 
+				<unittitle> 
+				  <persname>Albert, Charles d', 1809-1886</persname> 
+				  <title type="uniform">National Schottisch</title> 
+				  <title type="transcribed">National Schottisch,</title> 
+				  <unitdate>circa 1850</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell</p> 
+				  <p>For piano.</p> 
+				  <p>First page notes "not to be played so fast as the polka".</p> 
+				  <p>Color title page illustration: green leaves and a brown wooden
+					 border surrounding the title / lithographed by Ford and George.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">006</container> 
+				<unittitle> 
+				  <persname>Albert, Charles d', 1809-1886</persname> 
+				  <title type="uniform">Queen of roses</title> 
+				  <title type="transcribed">Queen of roses : valse,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: portrait of a young woman holding
+					 flowers, with flowers also in her hair and in a basket at her side.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">007</container> 
+				<unittitle> 
+				  <persname>Albert, Charles d', 1809-1886</persname> 
+				  <title type="uniform">Reaper's polka</title> 
+				  <title type="transcribed">Reapers : polka,</title> 
+				  <unitdate>1858</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: two children in dresses with
+					 flowers in their hair picking produce and harvesting wheat. / M and N. Hanhart,
+					 Imp.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">008</container> 
+				<unittitle> 
+				  <persname>Albert, Charles d', 1809-1886</persname> 
+				  <title type="uniform">Sardinian polka</title> 
+				  <title type="transcribed">Sardinian polka,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Library copy trimmed, missing bottom portion of title
+					 page.</p> 
+				  <p>Color title page illustration: portrait of Victor Emanuel II
+					 in military uniform on a white horse.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">009</container> 
+				<unittitle> 
+				  <persname>Auber, D. F. E. (Daniel François Esprit),
+					 1782-1871</persname> 
+				  <title type="uniform">Muette de Portici. Amis, la matinée est
+					 belle ; arranged</title> 
+				  <title type="transcribed">Morn breaks all beautiful and bright :
+					 the celebrated barcarolle in Auber's opera of Masaniello : Performing at the
+					 Theatre Royal Drury Lane, adapted to English words by Richard Ryan and arranged
+					 for the piano forte by John Barnett,</title> 
+				  <unitdate>1828</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Goulding and D'Almaine</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Ryan, Richard, 1796-1849</p> 
+				  <p>Arranger: Barnett, John, 1802-1890</p> 
+				  <p>Other title: Morn breaks</p> 
+				  <p>Title page illustration: portrait of three characters and
+					 their actors from the opera, Moreno (Mr. Yarnold), Masaniello (Mr. Braham), and
+					 Ruffino (Mr. Bland) with people dancing in the background / drawn by J.W. Gear
+					 ; lithographed by W. Day.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">010</container> 
+				<unittitle> 
+				  <persname>Auber, D. F. E. (Daniel François Esprit),
+					 1782-1871</persname> 
+				  <title type="uniform">Muette de Portici. Selections ;
+					 arranged</title> 
+				  <title type="transcribed">Six of the most favorite airs from
+					 Auber's celebrated opera of Masaniello,</title> 
+				  <unitdate>circa 1835</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (13 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): G. Shade</p> 
+				  <p>For piano.</p> 
+				  <p>Arranger: Smith, H.</p> 
+				  <p>Color title page illustration: people in blue dress fighting
+					 one another with axes at a marketplace.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>The Market Chorus -- Triumphal March -- The Barcarolle -- The
+				  Tarantella -- The Guaracha -- The Fishermen's Chorus.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">011</container> 
+				<unittitle> 
+				  <persname>Banck, Carl, 1809-1889</persname> 
+				  <title type="uniform">Fahrt nach Sicilien</title> 
+				  <title type="transcribed">Fahrt nach Sicilien : Lied,</title> 
+				  <unitdate>circa 1836</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Leipzig (Germany): F. Hofmeister</p> 
+				  <p>For voice and piano.</p> 
+				  <p>"Lithorama no. 9".</p> 
+				  <p>Title page illustration: several men on a boat accompanied by
+					 two dolphins and another boat.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">012</container> 
+				<unittitle> 
+				  <persname>Banck, Carl, 1809-1889</persname> 
+				  <title type="uniform">Matrosenabschied</title> 
+				  <title type="transcribed">Matrosenabschied : Lied,</title> 
+				  <unitdate>circa 1836</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Leipzig (Germany): F. Hofmeister</p> 
+				  <p>For voice and piano.</p> 
+				  <p>"Lithorama no. 3".</p> 
+				  <p>Title page illustration: a person paddling a boat with two
+					 boats in the background.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">013</container> 
+				<unittitle> 
+				  <persname>Blamphin, Charles, -1895</persname> 
+				  <title type="uniform">Death of Stonewall Jackson</title> 
+				  <title type="transcribed">Stonewall Jackson : recitative and
+					 air,</title> 
+				  <unitdate>1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Brewer and Co.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>5th edition.</p> 
+				  <p>Title page illustration: a portrait of Stonewall Jackson in
+					 military uniform / J. Brandard ; M. and N. Hanhart, Imp.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">014</container> 
+				<unittitle> 
+				  <persname>Blockley, John</persname> 
+				  <title type="uniform">Jessie's dream</title> 
+				  <title type="transcribed">Jessie's dream : a story of the "Relief
+					 of lucknow",</title> 
+				  <unitdate>between 1861 and 1863</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): John Blockley</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Campbell, Grace</p> 
+				  <p>Score preceded by an excerpt "from a letter written by M. de
+					 Banneroi, a French physician in the service of Mussur Rajah, and published in
+					 Le Pays (Paris paper), dated Calcutta, Oct. 8/[18]57."</p> 
+				  <p>Title page illustration: two women sitting on a decrepit
+					 wooden structure speaking with one another, with soldiers in background.
+					 Captioned: Dinna ye hear it, dinna ye hear it?</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">015</container> 
+				<unittitle> 
+				  <persname>Blockley, T.</persname> 
+				  <title type="uniform">Just as I am</title> 
+				  <title type="transcribed">Just as I am : sacred song,</title> 
+				  <unitdate>1863</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Addison and Co.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>"Inscribed to The Revd. Norman Macleod, D. D."--Caption
+					 title.</p> 
+				  <p>Title page illustration: a male figure, accompanied by a
+					 broken sword, dice, and coins, kneeling at prayer beneath a crown of thorns and
+					 a lamb / A. Laby.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>First page contains text to the first verse of music written as
+				  a poem.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">016</container> 
+				<unittitle> 
+				  <persname>Blockley, T.</persname> 
+				  <title type="uniform">Sun of my soul</title> 
+				  <title type="transcribed">Sun of my soul,</title> 
+				  <unitdate>1863</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): John Blockley</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Keble, John, 1792-1866</p> 
+				  <p>Title page illustration: Jesus Christ standing in front of a
+					 cross in the clouds / A. Laby.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Title page contains text to the first verse of music written as
+				  a poem.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">017</container> 
+				<unittitle> 
+				  <persname>Bohlman-Sauzeau, Henri</persname> 
+				  <title type="uniform">Palais enchanté</title> 
+				  <title type="transcribed">Palais enchanté : quadrille
+					 caracteristique,</title> 
+				  <unitdate>1855</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): D'Almaine and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: a couple through a window or mirror
+					 at another couple in the distance / E. Noyce ; lithographed by Stannard and
+					 Co.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>1. Pantalon: Arrivée du Chevalier maudit -- 1. Ètè: Serments
+				  d'amour -- 3. Poule: La chasse infernale -- 4. Pastourelle: Bal au Palais
+				  enchanté -- 5. L'enfer.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">018</container> 
+				<unittitle> 
+				  <persname>Campana, F. (Fabio), 1819-1882</persname> 
+				  <title type="uniform">Bella Lituana</title> 
+				  <title type="transcribed">Souvenir del lago di Como : melodie
+					 italiane : La bella Lituana : duettino,</title> 
+				  <unitdate>1871</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): Edizioni ricordi</p> 
+				  <p>For soprano and contralto, with piano and chorus ad
+					 libitum.</p> 
+				  <p>Dedicated to Miss Iarvis and Miss Louisa Iarvis [Jarvis?].</p>
+				  
+				  <p>Title page illustration: filigree illuminating title.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">019</container> 
+				<unittitle> 
+				  <persname>Campana, F. (Fabio), 1819-1882</persname> 
+				  <title type="uniform">Potenza d'amore</title> 
+				  <title type="transcribed">Alla moda : album vocale : Potenza
+					 d'amore : duetto,</title> 
+				  <unitdate>1856</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): G. Ricordi</p> 
+				  <p>For soprano and contralto, with piano.</p> 
+				  <p>Lyricist: Pepoli, Carlo, conte, 1796-1881</p> 
+				  <p>Title page illustration: filigree with sheets of music
+					 illuminating title.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">020</container> 
+				<unittitle> 
+				  <persname>Campana, F. (Fabio), 1819-1882</persname> 
+				  <title type="uniform">Povero Tonio!</title> 
+				  <title type="transcribed">Sospiri d'Italia : album per canto :
+					 Povero Tonio! : duettino comico,</title> 
+				  <unitdate>1868</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (8 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): G. Ricordi</p> 
+				  <p>For soprano and bass with piano.</p> 
+				  <p>Dedicated to Mrs. Brook.</p> 
+				  <p>Title page illustration: filigree illuminating title.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">021</container> 
+				<unittitle> 
+				  <persname>Campana, F. (Fabio), 1819-1882</persname> 
+				  <title type="uniform">Speranza</title> 
+				  <title type="transcribed">Canzoni Napoletane : Omaggio a Venezia
+					 album per canto : La speranza : duettino,</title> 
+				  <unitdate>1867</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): G. Ricordi</p> 
+				  <p>For two voices and piano.</p> 
+				  <p>Dedicated to Maggior William Palliser and Capitano Wrav
+					 Palliser.</p> 
+				  <p>Title page illustration: people dancing with mountains in the
+					 background.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">022</container> 
+				<unittitle> 
+				  <persname>Carulli, Gustavo, 1801-1876</persname> 
+				  <title type="uniform">Ètoile chèrie</title> 
+				  <title type="transcribed">Dilettante : Ètoile chèrie :
+					 romance,</title> 
+				  <unitdate>1842</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Brussels (Belgium): J. E. Libau</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Barateau, Émile</p> 
+				  <p>Other title: Dilettante. No. 30</p> 
+				  <p>Title page erroneously spells composer's last name as
+					 "Corulli".</p> 
+				  <p>Title page illustration: a man sitting on a rocky outcropping
+					 underneath a tree looking over a lake.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">023</container> 
+				<unittitle> 
+				  <persname>Clapisson, L. (Louis), 1808-1866</persname> 
+				  <title type="uniform">Je ne suis qu'une femme!</title> 
+				  <title type="transcribed">Dilettante : je ne suis qu'une femme! :
+					 romance,</title> 
+				  <unitdate>1842</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Brussels (Belgium): J. E. Libau</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Humbert, Auguste</p> 
+				  <p>Other title: Dilettante. No. 28</p> 
+				  <p>Title page illustration: a man and a woman sitting on a couch
+					 holding hands. A dog with a bird in its mouth sits at their feet.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">024</container> 
+				<unittitle> 
+				  <persname>David, Félicien, 1810-1876</persname> 
+				  <title type="uniform">Fleurs d'été</title> 
+				  <title type="transcribed">Fleurs d'été : trois valses
+					 expresives,</title> 
+				  <unitdate>1846</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): B. Schott</p> 
+				  <p>For piano.</p> 
+				  <p>Distributed by J. Meifsonnier and Fils, Paris.</p> 
+				  <p>Color title page illustration: flowers in bright colors
+					 illuminating title.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>No. 1. Souvenir -- No. 2. Babillage -- No. 3. L'aveu.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">025</container> 
+				<unittitle> 
+				  <persname>Davie</persname> 
+				  <title type="uniform">Occasional collection of popular dances.
+					 No. 33</title> 
+				  <title type="transcribed">Davie's occasional collection of
+					 popular dances : arranged for the piano forte, harp, or violin, with proper
+					 figures : No. 33,</title> 
+				  <unitdate>circa 1813</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Bland and Weller's Music Warehouse</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: people dancing outside a house.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Harlequin hoax (the rondo in the overture) / Parry -- The Isle
+				  of Elba -- Calder fair -- Dennis O'Larry / Parry -- National blunders -- Mrs.
+				  George Dering's waltz -- Fair cheating (from the Overture) / Parry -- The Lily
+				  of Limmington -- The Corsair.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">026</container> 
+				<unittitle> 
+				  <persname>Delaseurie, Arthur</persname> 
+				  <title type="uniform">Polka des demoiselles</title> 
+				  <title type="transcribed">Polka des demoiselles,</title> 
+				  <unitdate>1864</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: a woman playing piano and other women
+					 dancing in pairs / Stannard and Dixon, Imp.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">027</container> 
+				<unittitle> 
+				  <persname>Dorn, Edouard, 1838-1923</persname> 
+				  <title type="uniform">Murmure du Ruisseau</title> 
+				  <title type="transcribed">Murmure de Ruisseau : caprice, op.
+					 44,</title> 
+				  <unitdate>circa 1870</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (11 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Offenbach am Main (Germany): Jean André</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: woodland stream with a mill in
+					 the background and two people on a bridge overlooking the scene.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">028</container> 
+				<unittitle> 
+				  <persname>Fahrbach, Philipp, 1815-1885</persname> 
+				  <title type="uniform">Pepita polka</title> 
+				  <title type="transcribed">Pepita-polka, op. 152,</title> 
+				  <unitdate>1857</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Vienna (Austria): C. A. Spina</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: portrait of Pepita de Oliva (Josefa
+					 Durán y Ortega) dancing, with castanets in hands.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">029</container> 
+				<unittitle> 
+				  <persname>Faust, Carl, 1825-1892</persname> 
+				  <title type="uniform">Früh am Morgen</title> 
+				  <title type="transcribed">Früh 'am Morgen : Marsch, op.
+					 311,</title> 
+				  <unitdate>1879</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Breslau (Germany): Julius Hainauer</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: a couple with supplies in
+					 traditional dress walking down a path.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">030</container> 
+				<unittitle> 
+				  <persname>Faust, Carl, 1825-1892</persname> 
+				  <title type="uniform">Jubiläums Marsch</title> 
+				  <title type="transcribed">Jubiläums Marsch : op. 108,</title> 
+				  <unitdate>1863</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Breslau (Germany): Julius Hainauer</p> 
+				  <p>For piano.</p> 
+				  <p>Composed for "dem Königlichen Musìk-Director Herrn W.
+					 Wieprecht". Dates on title page: 17 Maerz 1813 and 18 Octb. 1813 refer to the
+					 German Campaign against Napoleon.</p> 
+				  <p>Title page illustration: portraits of King Friedrich William
+					 III of Prussia and Queen Louise of Mecklenburg-Strelitz above vignettes of two
+					 men on battle horses with a filigree border.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">031</container> 
+				<unittitle> 
+				  <persname>Gernlein, Rudolph</persname> 
+				  <title type="uniform">Morgenständchen</title> 
+				  <title type="transcribed">Morgenständchen : "Sei mein du Liebchen
+					 rosenroth",</title> 
+				  <unitdate>circa 1828</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): Bechtold and Hartje</p> 
+				  <p>For voice, with piano or guitar.</p> 
+				  <p>Lyricist: Gerhard, Wilhelm, 1780-1858</p> 
+				  <p>Includes separate guitar line.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">032</container> 
+				<unittitle> 
+				  <persname>Giorza, Paolo, 1832-1914</persname> 
+				  <title type="uniform">Conte di Monte Cristo. Galopp ;
+					 arranged</title> 
+				  <title type="transcribed">Galoppo : nel ballo il Conte di Monte
+					 Cristo,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Naples (Italy): Carteria e copisteria di musica</p> 
+				  <p>For piano.</p> 
+				  <p>Reduced for piano.</p> 
+				  <p>Color title page illustration: filigree border surrounding
+					 hand-written title text.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">033</container> 
+				<unittitle> 
+				  <persname>Glover, Stephen, 1813-1870</persname> 
+				  <title type="uniform">My father's hand</title> 
+				  <title type="transcribed">My father's hand : sacred song,</title>
+				  
+				  <unitdate>circa 1868</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): C. Jefferys</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Marian</p> 
+				  <p>At head of title: Noonday song.</p> 
+				  <p>Color title page illustration: an angel dropping flowers
+					 bordered by gold filigree / M. and N. Hanhart.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">034</container> 
+				<unittitle> 
+				  <persname>Glover, Stephen, 1813-1870</persname> 
+				  <title type="uniform">National divertimentos, no. 2</title> 
+				  <title type="transcribed">National divertimentos, no. 2 :
+					 Ireland,</title> 
+				  <unitdate>circa 1840</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Jefferys and Nelson</p> 
+				  <p>For piano.</p> 
+				  <p>Other title: Picturesque divertimentos, no. 2</p> 
+				  <p>Caption title. Title page title is Picturesque
+					 divertimentos.</p> 
+				  <p>Color title page illustration: people launching a sailboat on
+					 the Lake of Killarney in Ireland bordered by gold filigree / J. Brandard ;
+					 lithographed by M. and N. Hanhart.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>[Fanfare] -- Savoureen deelish -- Rory O'More.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">035</container> 
+				<unittitle> 
+				  <persname>Glover, Stephen, 1813-1870</persname> 
+				  <title type="uniform">Osborne quadrilles</title> 
+				  <title type="transcribed">Osborne quadrilles,</title> 
+				  <unitdate>circa 1850</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>"Composed in honor of the birth-day of Her Royal Highness, The
+					 Princess Royal".</p> 
+				  <p>Color title page illustration: portrait of the Princess Royal
+					 (Victoria Adelaide Mary Louisa) sitting on a red pillow / lithographed by
+					 Stannard and Dixon.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">036</container> 
+				<unittitle> 
+				  <persname>Glover, Stephen, 1813-1870</persname> 
+				  <title type="uniform">Prince Albert's march</title> 
+				  <title type="transcribed">Prince Albert band march : Ninety-ninth
+					 thousand,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): C. Jefferys</p> 
+				  <p>For piano.</p> 
+				  <p>Other title: Prince Albert's band march</p> 
+				  <p>Title page illustration: a portrait of Prince Albert in
+					 military uniform on horseback / lithographed by R. Brandon and So.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">037</container> 
+				<unittitle> 
+				  <persname>Gounod, Charles, 1818-1893</persname> 
+				  <title type="uniform">Faust. Si le bonheur à sourire t'invite ;
+					 arranged</title> 
+				  <title type="transcribed">L'Age d'or : Collection chant et piano.
+					 A une sœur,</title> 
+				  <unitdate>circa 1859</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Choudens Fils</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Pradère, O.</p> 
+				  <p>Other title: A une sœur</p> 
+				  <p>Each page is bordered by a filigree frame.</p> 
+				  <p>Title page illustration: a vignette of a castle overlooking a
+					 waterfall and filigree illuminating title.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">038</container> 
+				<unittitle> 
+				  <persname>Grisar, Albert, 1808-1869</persname> 
+				  <title type="uniform">Bonsoir, Monsieur Pantalon. Selections ;
+					 arranged</title> 
+				  <title type="transcribed">Bonsoir, Mr. Pantalon! : polka,</title>
+				  
+				  <unitdate>1853</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): B. Schott</p> 
+				  <p>For piano.</p> 
+				  <p>Arranger: Pasdeloup, Jules, 1819-1887</p> 
+				  <p>Piece is a piano arrangement of a theme from the opera
+					 Bonsoir, Mr. Pantalon! by Alfred Grisar.</p> 
+				  <p>Title page illustration: a man with a sorrowful look carrying
+					 three bottles.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">039</container> 
+				<unittitle> 
+				  <persname>Handel, George Frideric, 1685-1759</persname> 
+				  <title type="uniform">Messiah. But thou didst not leave his soul
+					 in hell ; arranged</title> 
+				  <title type="transcribed">But thou didst not leave from the
+					 Mesiah [sic],</title> 
+				  <unitdate>circa 1821</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): G. Walker</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Interlinear text.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">040</container> 
+				<unittitle> 
+				  <persname>Handl, Jacob, 1550-1591</persname> 
+				  <title type="uniform">O salutaris hostia</title> 
+				  <title type="transcribed">O salutaris hostia = O gnadenreiche
+					 Glaubenskraft,</title> 
+				  <unitdate>circa 1840</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): Ed. Bote and G. Bock</p> 
+				  <p>For four-part choir.</p> 
+				  <p>Other title: Musica sacra, Tomus quintus. No. 15</p> 
+				  <p>Caption title. Title page notes "zum bestimmten Gebrauch fur
+					 den Königlichen Berliner Domchor" [for specific use by the Royal Berlin
+					 Domchor].</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">041</container> 
+				<unittitle> 
+				  <persname>Hart, Joseph Binns, 1794-1844</persname> 
+				  <title type="uniform">Royal gallopades and waltzes, 1st
+					 set</title> 
+				  <title type="transcribed">Royal gallopades : as danced at His
+					 Majesty's Grand ball,</title> 
+				  <unitdate>1829</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Mayhew and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Other title: Hart's First set of gallopades</p> 
+				  <p>First page notes "the Music of the Gallopades is so arranged
+					 by Mr. Hart that the figures of his celebrated Quadrilles, The Lancers, 7.10.13
+					 and indeed all his Sets may be introduced with good effect. See engraving on
+					 the title page.".</p> 
+				  <p>Title page illustration: couples dancing in a ballroom /
+					 printed by Engelmann, Graf, Coindet and Co.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Gallopades no. 1-5.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">042</container> 
+				<unittitle> 
+				  <persname>Hartog, Édouard de, 1825-1909</persname> 
+				  <title type="uniform">Avril</title> 
+				  <title type="transcribed">Avril : chant de printemps,</title> 
+				  <unitdate>circa 1852</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Au Ménestrel</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Constantin, Marc, 1809?-1888</p> 
+				  <p>Other title: Esquisses pastorales :Mars et Avril</p> 
+				  <p>Interlinear text.</p> 
+				  <p>Caption title. Dedicated to Mlle. Léonie de Mergy.</p> 
+				  <p>Title page illustration: floral filigree illuminating title /
+					 lithographed by A. Barbizet.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">043</container> 
+				<unittitle> 
+				  <persname>Hauptmann, Lorenz</persname> 
+				  <title type="uniform">Geheime Thräne</title> 
+				  <title type="transcribed">Geheime Thräne : Lied,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Vienna (Austria): F. Gloggl</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Componist und dem Herrn Ignate Küss Beamter der
+					 oesterreichischen Nationalbank".</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">044</container> 
+				<unittitle> 
+				  <persname>Haydn, Joseph, 1732-1809</persname> 
+				  <title type="uniform">Schöpfung. Mit Würd' und Hoheit angetan ;
+					 arranged</title> 
+				  <title type="transcribed">In native worth and honor clad : a
+					 favorite air sung by Mr. Nield in the oratorio of The Creation,</title> 
+				  <unitdate>1820</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): G. Walker</p> 
+				  <p>For voice and piano.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">045</container> 
+				<unittitle> 
+				  <persname>Hayes, Sarah Ann</persname> 
+				  <title type="uniform">Princesses of England</title> 
+				  <title type="transcribed">Princesses of England :
+					 waltzes,</title> 
+				  <unitdate>circa 1854</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (16 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): T. C. Bates and Son</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: portraits of the five
+					 princesses of England captioned with their names / lithographed by J.
+					 Brandard.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Invitation -- Princess Royal -- Princess Alice -- Princess
+				  Helena -- Princess Louisa.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">046</container> 
+				<unittitle> 
+				  <persname>Heinze, Gustav Adolph, 1821-1904</persname> 
+				  <title type="uniform">Veilchen</title> 
+				  <title type="transcribed">Veilchen : Lied,</title> 
+				  <unitdate>1850</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Amsterdam (Netherlands): Theune and Co.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Title page notes this is a for "Alt- oder Bariton-Stimme".</p>
+				  
+				  <p>Title page notes "komponist und seine Schülerin Fräulein
+					 Louise Bunge" [composed and dedicated to his student Fräulein Louise
+					 Bunge].</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">047</container> 
+				<unittitle> 
+				  <persname>Heiser, Wilhelm, 1816-1897</persname> 
+				  <title type="uniform">Musik</title> 
+				  <title type="transcribed">Musik : op. 6 : Gedicht von Helene,
+					 Herzogin von Orleans,</title> 
+				  <unitdate>circa 1890</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): C. A. Challier and Co.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Orléans, Hélène d', Princess of France,
+					 1871-1951</p> 
+				  <p>Title page illustration: filigree with a cherub at the bottom
+					 illuminating the title.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>First page contains text of poem by itself.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">048</container> 
+				<unittitle> 
+				  <persname>Henrion, Paul</persname> 
+				  <title type="uniform">Ah! Je suis ben embarrassé!</title> 
+				  <title type="transcribed">Ah! Je suis ben embarrassé! :
+					 chansonnette,</title> 
+				  <unitdate>1845</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Brussels (Belgium): J. E. Libau</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Sauvage, Elie, 1814-1871</p> 
+				  <p>Other title: Lemonde musical</p> 
+				  <p>On title page: Lemonde musical. No. 21.</p> 
+				  <p>Title page illustration: two women outside of a small house /
+					 Singelis.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">049</container> 
+				<unittitle> 
+				  <persname>Henrion, Paul</persname> 
+				  <title type="uniform">Ne pars point, mon fils!</title> 
+				  <title type="transcribed">Ne pars point, mon fils! :
+					 romance,</title> 
+				  <unitdate>1843</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Brussels (Belgium): J. E. Libau</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Barateau, Émile</p> 
+				  <p>Other title: Lemonde musical</p> 
+				  <p>On title page: Lemonde musical. No. 25.</p> 
+				  <p>Title page illustration: a man and a woman outside of a small
+					 house with a church steeple in the background / Singelis.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">050</container> 
+				<unittitle> 
+				  <persname>Hérold, Ferdinand, 1791-1833</persname> 
+				  <title type="uniform">Clochette. Selections ; arranged</title> 
+				  <title type="transcribed">Clochette, ou Le diable-page : couplets
+					 chantés par Madame Boulanger,</title> 
+				  <unitdate>1817</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Hague (Netherlands): F. J. Weygand</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Théaulon, Emmanuel, 1787-1841</p> 
+				  <p>At head of title: No. 4.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Pages bound out of order. Additional verses notated without
+				  music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">051</container> 
+				<unittitle> 
+				  <persname>Hérold, Ferdinand, 1791-1833</persname> 
+				  <title type="uniform">Pré aux clercs. À la fleur du bel âge ;
+					 arranged</title> 
+				  <title type="transcribed">Pré aux clercs : ronde chantée par
+					 Melle. Massi [À la fleur du bel âge],</title> 
+				  <unitdate>1833</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Hague (Netherlands): F. J. Weygand</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Music notes the voice part is for the role of Nicette.</p> 
+				  <p>At head of title: No. 8.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">052</container> 
+				<unittitle> 
+				  <persname>Hérold, Ferdinand, 1791-1833</persname> 
+				  <title type="uniform">Pré aux clercs. Souvenirs du jeune âge ;
+					 arranged</title> 
+				  <title type="transcribed">Souvenir du jeune âge : romance le
+					 l'opera Pré aux clercs,</title> 
+				  <unitdate>1834</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Hague (Netherlands): F. L. Dony</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Music notes the voice part is for the role of Isabelle. Title
+					 page notes this is a for "la même avec accompt. de guitare".</p> 
+				  <p>3rd edition.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.
+				  Alternate ornamental ending notated on final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">053</container> 
+				<unittitle> 
+				  <persname>Holst, M. (Matthias), 1767-1854</persname> 
+				  <title type="uniform">Julia's cottage</title> 
+				  <title type="transcribed">Julia's cottage : march and
+					 rondo,</title> 
+				  <unitdate>1811</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Bland and Weller's Music Warehouse</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: a cottage with a small shed /
+					 lithographed Jones Scrips.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">054</container> 
+				<unittitle> 
+				  <persname>Hurka, Friedrich Franz, 1762-1805</persname> 
+				  <title type="uniform">Maedchen an ihren Geliebten</title> 
+				  <title type="transcribed">Maedchen an ihren Geliebten : eine
+					 Antwort auf Overbecks Schiffahrt,</title> 
+				  <unitdate>circa 1800</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Hamburg (Germany): Joh. Aug. Böhme</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Werder, Friedrich, 1783-1858</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">055</container> 
+				<unittitle> 
+				  <persname>Hurka, Friedrich Franz, 1762-1805</persname> 
+				  <title type="uniform">Saenger</title> 
+				  <title type="transcribed">Saenger,</title> 
+				  <unitdate>circa 1800</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Hamburg (Germany): Joh. Aug. Böhme</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Becker</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">056</container> 
+				<unittitle> 
+				  <persname>Ingle, Charles</persname> 
+				  <title type="uniform">Our little nipper</title> 
+				  <title type="transcribed">Our little nipper : humorous
+					 song,</title> 
+				  <unitdate>1892</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Reynolds and Co.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Chevalier, Albert, 1861-1923</p> 
+				  <p>"Dedicated to Colin Grattan Esq, (aged 5)".</p> 
+				  <p>Title page illustration: various vignettes of a little boy
+					 with several captions / Henderson and Spalding, Limtd.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">057</container> 
+				<unittitle> 
+				  <persname>Jähns, Friedrich Wilhelm, 1809-1888</persname> 
+				  <title type="uniform">Zweistimmige Lieder, op. 48</title> 
+				  <title type="transcribed">Drei zweistimmige Lieder,</title> 
+				  <unitdate>1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (15 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): Schlesinger</p> 
+				  <p>For mezzo-soprano and baritone with piano.</p> 
+				  <p>First page notes this edition is for "Alt und Bass
+					 (Mezzo-sopran und Bariton)".</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>No. 1. Ich stand in dunklen Träumen -- No. 2. Ich bin die Rose
+				  auf der Au -- No. 3. Es schlief ein Keim unnennbar klein.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">058</container> 
+				<unittitle> 
+				  <persname>Jourdan, Philippe</persname> 
+				  <title type="uniform">Rose verte</title> 
+				  <title type="transcribed">Rose verte : schottisch,</title> 
+				  <unitdate>1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Mme. Vve. Launer</p> 
+				  <p>For piano.</p> 
+				  <p>"À sa Majesté Isabelle II, Reine d'Espagne".</p> 
+				  <p>Color title page illustration: a green rose / A. Forget.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">059</container> 
+				<unittitle> 
+				  <persname>Keller, Karl, 1784-1855</persname> 
+				  <title type="uniform">Dances, flute, piano, op. 35</title> 
+				  <title type="transcribed">Six danses : quatre walses et deux
+					 ländler, op. 35,</title> 
+				  <unitdate>circa 1833</unitdate> </unittitle> 
+				<physdesc> <extent>2 parts (2 and 5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): N. Simrock</p> 
+				  <p>For piano and flute.</p> 
+				  <p>Separate piano and flute parts (the flute part does not appear
+					 on the piano part).</p> 
+				  <p>Dedicated to "amateurs de musique agréable". *date could not
+					 be determined</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Pages 3-8 missing in piano part. Flute part appears complete.
+				  Piano part has one movement labelled in the score as No. 1. Ländler. Flute part
+				  has six movements labelled in the score as the following: No. 1. Ländler, No.
+				  2. Walzer, No. 3. Walzer, No. 4. Ländler, No. 5. Walzer, and No. 6. Walzer.</p>
+				
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">060</container> 
+				<unittitle> 
+				  <persname>Köhler, Louis, 1820-1886</persname> 
+				  <title type="uniform">Gesänge, op. 6</title> 
+				  <title type="transcribed">Gesänge, op. 6,</title> 
+				  <unitdate>circa 1847</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): Schlesinger</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Other title: 3 Lieder für Sopran oder Tenor, op. 6</p> 
+				  <p>"Begleitung des Piano Herrn Friedrich Schmezer".</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Zum Liebchen / Dichtung von B. Gledock -- Ständchen / Dichtung
+				  von Roswitha Kind -- Spanische Serenade / Dichtung von R. Gottschall.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">061</container> 
+				<unittitle> 
+				  <persname>Lafitte, A.</persname> 
+				  <title type="uniform">Chanson bachique</title> 
+				  <title type="transcribed">Chanson Bachique : tirée du Capitaine
+					 Fracasse,</title> 
+				  <unitdate>1864</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (2 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Au Ménestrel</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Gautier, Théophile, 1811-1872</p> 
+				  <p>First page notes that there are two editions available, "No.
+					 1. Baryton" and "No. 2. Ténor". This edition is for "No. 2. Ténor".</p> 
+				  <p>Title page illustration: a grape vine, a cup, and a sword
+					 illuminating the title / Imp. Maucelot.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">062</container> 
+				<unittitle> 
+				  <persname>Lefébure-Wély, Louis James Alfred, 1817-1870</persname>
+				  
+				  <title type="uniform">Études de salon. Veillée au chateau</title>
+				  
+				  <title type="transcribed">Veillée au chateau,</title> 
+				  <unitdate>circa 1846</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): L. Grus</p> 
+				  <p>For piano.</p> 
+				  <p>"Extrait des Etudes de salon"--bottom margin.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Music bound from tops of the pages.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">063</container> 
+				<unittitle> 
+				  <persname>Linter, Ricardo, approximately 1818-1886</persname> 
+				  <title type="uniform">Black bird quadrilles</title> 
+				  <title type="transcribed">Black-bird quadrilles,</title> 
+				  <unitdate>1853</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Other title: Blackbird quadrilles</p> 
+				  <p>Color title page illustration: a black bird sitting on a
+					 branch with red berries / lithographed by Stannard and Dixon.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">064</container> 
+				<unittitle> 
+				  <persname>Lloyd, Arthur, 1840-1904</persname> 
+				  <title type="uniform">Song of songs</title> 
+				  <title type="transcribed">Arthur Lloyd's Song of songs,</title> 
+				  <unitdate>1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): H. D'Alcorn</p> 
+				  <p>For voice and piano.</p> 
+				  <p>"Written, composed, and sung by the author at the Oxford and
+					 Canterbury music halls".</p> 
+				  <p>Color title page illustration: portrait of Arthur Lloyd, the
+					 composer and singer / Concanen, Lee, and Siebe.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">065</container> 
+				<unittitle> 
+				  <persname>Loewe, Carl, 1796-1869</persname> 
+				  <title type="uniform">Heinzelmännchen</title> 
+				  <title type="transcribed">Heinzelmännchen, op. 83,</title> 
+				  <unitdate>1842</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (15 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): Ed. Bote and G. Bock</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Kopisch, August, 1799-1853</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">066</container> 
+				<unittitle> 
+				  <persname>Loewe, Carl, 1796-1869</persname> 
+				  <title type="uniform">In die Ferne</title> 
+				  <title type="transcribed">In die Ferne,</title> 
+				  <unitdate>1844</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Leipzig (Germany): Fr. Hofmeister</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Kletke, H. (Hermann), 1813-1886</p> 
+				  <p>First page notes that there are two editions available, "Für
+					 Sopran oder Tenor" and "Für Alt oder Bariton". First page notes this edition is
+					 "Für Sopran oder Tenor".</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>First page contains text of poem by itself.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">067</container> 
+				<unittitle> 
+				  <persname>Lombardini, G.</persname> 
+				  <title type="uniform">Fidanzata</title> 
+				  <title type="transcribed">Fidanzata : romanza,</title> 
+				  <unitdate>1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Naples (Italy): R. Stabilimento Ricordi</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Jadelli, Luigi</p> 
+				  <p>"Alla gentile Signora Emma Jannazzi". *date undetermined</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">068</container> 
+				<unittitle> 
+				  <persname>Lombardini, G.</persname> 
+				  <title type="uniform">Fraschetta</title> 
+				  <title type="transcribed">Musica per camera : la
+					 fraschetta,</title> 
+				  <unitdate>between 1860-1888</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Naples (Italy): R. Stabilimento Ricordi</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Indelli, L.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Title page contains contents of the "Musica per camera"
+				  collection, broken into two sections labelled "Pezzi a soli" [pieces for solo
+				  voice] and "Pezzi a più voci" [pieces for more voices]. This selection is from
+				  "Pezzi a soli" [pieces for solo voice].</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">069</container> 
+				<unittitle> 
+				  <persname>Lombardini, G.</persname> 
+				  <title type="uniform">Sorriso</title> 
+				  <title type="transcribed">Sorriso : melodia,</title> 
+				  <unitdate>1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): Tito di G. Ricordi</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Oddone, Pietro</p> 
+				  <p>"Al distintissimo Francesco Oliva Barone di Ragusa".</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">070</container> 
+				<unittitle> 
+				  <persname>Majocchi, Antonio</persname> 
+				  <title type="uniform">Anacreontica</title> 
+				  <title type="transcribed">Anacreontica,</title> 
+				  <unitdate>1888</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): Edizioni ricordi</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Vittorelli, Jacopo, 1749-1835</p> 
+				  <p>Title page notes this edition is for "soprano o tenore".</p> 
+				  <p>2nd edition. "All'Illusa. Signora Contessa Emilia Scribani
+					 Affatticati Distinta Dilettante di musica".</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">071</container> 
+				<unittitle> 
+				  <persname>Majocchi, Luigi</persname> 
+				  <title type="uniform">Cieca che vende fiori</title> 
+				  <title type="transcribed">Cieca che vende fiori :
+					 arietta,</title> 
+				  <unitdate>between 1808 and 1853</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): Giovanni Ricordi</p> 
+				  <p>For voice and piano.</p> 
+				  <p>"Alla Signora Marchesa Carolina d'Adda nata Marchesa
+					 Cusani".</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">2</container> 
+				<container type="item">072</container> 
+				<unittitle> 
+				  <persname>Malipiero, Francesco, 1824-1887</persname> 
+				  <title type="uniform">Romanza</title> 
+				  <title type="transcribed">Romanza,</title> 
+				  <unitdate>1848</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): R. Stabilimento Musicale Ricordi</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Other title: Si, amici, noi partiam</p> 
+				  <p>"All'Egregio Tenore Antonio Palma" and "Offre l'Amico Giovanni
+					 Durazzo".</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">073</container> 
+				<unittitle> 
+				  <persname>Malipiero, Francesco, 1824-1887</persname> 
+				  <title type="uniform">Serenata</title> 
+				  <title type="transcribed">Serenata,</title> 
+				  <unitdate>1842</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Naples (Italy): Stabilimento Ricordi</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Other title: A quel raggio increato che brilla</p> 
+				  <p>Title page notes "Per voce di Soprano".</p> 
+				  <p>"Dedicate all'Esimia Dilettante La Nobile Signora Bianca
+					 Caffi". *date undetermined</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">074</container> 
+				<unittitle> 
+				  <persname>Marschner, Heinrich, 1795-1861</persname> 
+				  <title type="uniform">Junge Lieder, op. 129. Den Zweig an den
+					 Hut</title> 
+				  <title type="transcribed">Junge Lieder : den Zweig an den Hut,
+					 op. 129 no. 1,</title> 
+				  <unitdate>circa 1850</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Dresden (Germany): Wilhelm Paul</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Müller, Wolfgang</p> 
+				  <p>Other title: Den Zweig an den Hut</p> 
+				  <p>Title page notes this edition is for "Tenor oder Sopran".</p> 
+				  <p>Title page illustration: floral filigree illuminating
+					 title.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Five other titles of op. 129 listed on title page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">075</container> 
+				<unittitle> 
+				  <persname>Masini, F. (Francesco), 1804-1863</persname> 
+				  <title type="uniform">Novice du carmel</title> 
+				  <title type="transcribed">Dilettante : la novice du carmel :
+					 romance,</title> 
+				  <unitdate>1842</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Brussels (Belgium): J. E. Libau</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Jourdain, Laure</p> 
+				  <p>Other title: Dilettante, no. 29</p> 
+				  <p>Title page illustration: a young woman in plainclothes being
+					 welcomed into a convent by nuns.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verse notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">076</container> 
+				<unittitle> 
+				  <persname>Masini, F. (Francesco), 1804-1863</persname> 
+				  <title type="uniform">Papillon</title> 
+				  <title type="transcribed">Papillon : chansonnette,</title> 
+				  <unitdate>circa 1820</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Hague (Netherlands): F. J. Weygand</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Crevel de Charlemagne, Louis, 1806-</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">077</container> 
+				<unittitle> 
+				  <persname>Masini, F. (Francesco), 1804-1863</persname> 
+				  <title type="uniform">Silvio Pellico</title> 
+				  <title type="transcribed">Silvio Pellico au Spielberg,</title> 
+				  <unitdate>1858</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): B. Schott</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Barateau, Emile</p> 
+				  <p>Other title: Lyre française, no. 166</p> 
+				  <p>Title page illustration: a portrait of Silvio Pellico in
+					 prison at Speilberg.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verse notated without music on the final page. Bound
+				  with: Brutus : chant pour voix de basse / paroles de E. Plouvier ; musique de
+				  J. Concone.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">078</container> 
+				<unittitle> 
+				  <persname>Masini, F. (Francesco), 1804-1863</persname> 
+				  <title type="uniform">Vent d'orage</title> 
+				  <title type="transcribed">Dilettante : le vent d'orage :
+					 romance,</title> 
+				  <unitdate>1842</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Brussels (Belgium): J. E. Libau</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Carrié, Aricie</p> 
+				  <p>Other title: Dilettante, no. 26</p> 
+				  <p>Title page illustration: a man waving his hat and getting off
+					 of a small boat onto shore.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verse notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">079</container> 
+				<unittitle> 
+				  <persname>Mendelssohn-Bartholdy, Felix, 1809-1847</persname> 
+				  <title type="uniform">Lieder, men's voices, op. 50. Jäger
+					 Abschied ; arranged</title> 
+				  <title type="transcribed">Jägers Abschied,</title> 
+				  <unitdate>circa 1870</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Unidentified: Unidentified</p> 
+				  <p>For piano.</p> 
+				  <p>Arranger: Friedrich, F.</p> 
+				  <p>Arranged by F. Friedrich and listed as his op. 82. Plate
+					 number E.B. 72.</p> 
+				  <p>"Dem Fräulein Ida Jafée". *no date, publisher, or country
+					 info</p> 
+				  <p>Title page illustration: a portrait of Felix
+					 Mendelssohn-Bartholdy.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">080</container> 
+				<unittitle> 
+				  <persname>Meyerbeer, Giacomo, 1791-1864</persname> 
+				  <title type="uniform">Prophète. Donnez pour une pauvre âme ;
+					 arranged</title> 
+				  <title type="transcribed">Prophète : opéra en cinq acts :
+					 Complainte de la mendiante,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Brandus et Cie.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Scribe, Eugène, 1791-1861</p> 
+				  <p>Arranger: Garaudé, Alexis de, 1821-1854</p> 
+				  <p>Other title: No. 17 bis Le Prophète</p> 
+				  <p>Title page notes the opera was arranged for piano. First page
+					 notes the piece is "transposée pour voix de soprano".</p> 
+				  <p>"Chantée par Mme. Viardot".</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Thematic index of the sections of the opera on title page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">081</container> 
+				<unittitle> 
+				  <persname>Morasca, Benedetto</persname> 
+				  <title type="uniform">Rosa</title> 
+				  <title type="transcribed">Rosa : Siciliana,</title> 
+				  <unitdate>1891</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Palermo (Italy): Edizioni Giorgio Sulli</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Pelaez, A.</p> 
+				  <p>"Alle Mie Sorelle Fanny e Ninetta".</p> 
+				  <p>Title page illustration: floral filigree illuminating title,
+					 with a vignette of a woman in traditional dress.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>First page contains text of poem by itself, with the Sicilian
+				  text by A. Pelaez and "traduzione ritmica italiana" by Cav. F. De Beaumont.</p>
+				
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">082</container> 
+				<unittitle> 
+				  <persname>Mullen, Alfred</persname> 
+				  <title type="uniform">Pet of the family</title> 
+				  <title type="transcribed">Pet of the family : valse
+					 facile,</title> 
+				  <unitdate>circa 1890</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (2 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): B. Williams</p> 
+				  <p>For piano.</p> 
+				  <p>Possibly incomplete. The music is marked as No. 1. Jenny
+					 Jones.</p> 
+				  <p>Color title page illustration: a little girl in a red dress
+					 and bonnet hugging a lamb with a red bandana around its neck.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">083</container> 
+				<unittitle> 
+				  <persname>Nägeli, Hans Georg, 1773-1836</persname> 
+				  <title type="uniform">Freut euch des Lebens</title> 
+				  <title type="transcribed">Gesellschaftslied,</title> 
+				  <unitdate>circa 1800</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): J. J. Hummel</p> 
+				  <p>For choir and piano.</p> 
+				  <p>The song setting (attributed to Nägeli)--is followed by a set
+					 of theme and variations for piano by Mozart (Variationen über Freut euch des
+					 Lebens) based on the same tune.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the first page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">084</container> 
+				<unittitle> 
+				  <persname>Nelson, S. (Sydney), 1800-1862</persname> 
+				  <title type="uniform">Lass o' Gowrie</title> 
+				  <title type="transcribed">Lass of Gowrie,</title> 
+				  <unitdate>between 1836-1840</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Jefferys and Co.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Title page illustration: a couple in traditional Scottish
+					 dress / J. Graf.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Title page contains text of the chorus written as a poem.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">085</container> 
+				<unittitle> 
+				  <persname>Paisiello, Giovanni, 1740-1816</persname> 
+				  <title type="uniform">Locanda. Tutto da voi dipende ;
+					 arranged</title> 
+				  <title type="transcribed">Tutto da voi dipende : the celebrated
+					 duetto sung with universal applause by Sigr. Lazzarini and Sigr. Casentini at
+					 the King's Theatre, Pantheon in the comic opera of La Locanda,</title> 
+				  <unitdate>1791</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (8 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Goulding and Co.</p> 
+				  <p>For two voices and piano.</p> 
+				  <p>Lyricist: Bertati, Giovanni, 1735-1815</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">086</container> 
+				<unittitle> 
+				  <persname>Paisiello, Giovanni, 1740-1816</persname> 
+				  <title type="uniform">Nina. Son gia tuo bell'idol mio ;
+					 arranged</title> 
+				  <title type="transcribed">Son gia tuo bell'idol mio : terzetto in
+					 the opera of Nina, and sung by Sigra. Banti, Sigr. Viganoni, and Sigr.
+					 Rovedino,</title> 
+				  <unitdate>1791</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Rt. Birchall</p> 
+				  <p>For three voices and piano.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">087</container> 
+				<unittitle> 
+				  <persname>Parry, John, 1776-1851</persname> 
+				  <title type="uniform">Royal Cambrian quadrilles</title> 
+				  <title type="transcribed">Royal Cambrian quadrilles,</title> 
+				  <unitdate>1822</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (11 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): J. Power</p> 
+				  <p>For flute and piano.</p> 
+				  <p>"Respectfully dedicated to Lady H. Williams Wynn". First page
+					 is an advertisement for other pieces from the same publisher. Dance
+					 instructions are included.</p> 
+				  <p>Title page illustration: a crown with feathers coming up
+					 through it / engraved by R. and E. Williamson.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>No. 1 Arthur -- No. 2 Caradog -- No. 3 Madog -- No. 4 Glyndwr --
+				  No. 5 Llywelyn.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">088</container> 
+				<unittitle> 
+				  <persname>Perronnet, Amélie, 1838-1901</persname> 
+				  <title type="uniform">C'était bon dans l'ancien temps</title> 
+				  <title type="transcribed">C'était bon dans l'ancien
+					 temps,</title> 
+				  <unitdate>1856</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Au Ménestrel</p> 
+				  <p>For voice and piano.</p> 
+				  <p>First page notes that there are two editions available, "No.
+					 1. Baryton ou contralto" and "No. 2. Ténor ou soprano". First page notes this
+					 edition is for "No. 2. Ténor ou soprano".</p> 
+				  <p>"A Mme. Wekerlin Damoreau".</p> 
+				  <p>Title page illustration: two women, one in a black cloak and
+					 head covering and one in a white dress with hair decorations, stand outside /
+					 A. Jorel.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">089</container> 
+				<unittitle> 
+				  <persname>Pohlenz, August</persname> 
+				  <title type="uniform">Kleine Tambour</title> 
+				  <title type="transcribed">Kleine Tambour,</title> 
+				  <unitdate>circa 1830</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): Self published</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Gerhard, Wilhelm, 1780-1858</p> 
+				  <p>Title page notes the piece is dedicated to "seinem Freunde
+					 Albert Hering". *published "auf Kosten des Komponisten" [at the expense of the
+					 composer] - how do we list publisher and location for these pieces?</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">1</container> 
+				<container type="item">090</container> 
+				<unittitle> 
+				  <persname>Portugal, Marcos Antônio da Fonseca,
+					 1762-1830</persname> 
+				  <title type="uniform">Fernando nel Messico. Rendimi il figlio o
+					 barbaro ; arranged</title> 
+				  <title type="transcribed">Rendimi il figlio o barbaro : the
+					 favorite duet sung by Mrs. Billington and Sigr. Viganoni in the opera of
+					 Fernando in Mexico,</title> 
+				  <unitdate>circa 1800</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (10 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Rt. Birchall</p> 
+				  <p>For two voices and piano.</p> 
+				  <p>Lyricist: Diodati, Giuseppe Maria</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">091</container> 
+				<unittitle> 
+				  <persname>Pridham, John, 1818-1896</persname> 
+				  <title type="uniform">Wayside sketches. Cottage by the
+					 stream</title> 
+				  <title type="transcribed">Wayside sketches, no. 11 : the cottage
+					 by the stream : valsette,</title> 
+				  <unitdate>1877</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Evans and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: a cottage on a river with a
+					 bridge in the background / R. J. Hamerton.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">092</container> 
+				<unittitle> 
+				  <persname>Pridham, John, 1818-1896</persname> 
+				  <title type="uniform">Wayside sketches. Rustic porch</title> 
+				  <title type="transcribed">Wayside sketches, no. 10 : the rustic
+					 porch : melody,</title> 
+				  <unitdate>1877</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Evans and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: a family and small dog outside
+					 on the porch of a house / R. J. Hamerton.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">093</container> 
+				<unittitle> 
+				  <persname>Pridham, John, 1818-1896</persname> 
+				  <title type="uniform">When Johnny comes marching home</title> 
+				  <title type="transcribed">When Johnny comes marching home :
+					 polka,</title> 
+				  <unitdate>1867</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Brewer and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: a town welcoming home several
+					 soldiers on horseback / J. W. Lee.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">094</container> 
+				<unittitle> 
+				  <persname>Proch, Heinrich</persname> 
+				  <title type="uniform">Liebesbothe</title> 
+				  <title type="transcribed">Liebesbothe,</title> 
+				  <unitdate>1839</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Vienna (Austria): Ant. Diabelli und Comp.</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Markbreiter, Moritz</p> 
+				  <p>Title page illustration: filigree illuminating title with a
+					 star above the text.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>First page contains text of poem by itself.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">095</container> 
+				<unittitle> 
+				  <persname>Proch, Heinrich</persname> 
+				  <title type="uniform">Wanderlied</title> 
+				  <title type="transcribed">Wanderlied an Sie!,</title> 
+				  <unitdate>1839</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (11 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Vienna (Austria): A. Diabelli</p> 
+				  <p>For voice, with piano and waldhorns.</p> 
+				  <p>Lyricist: Saphir, Moritz Gottlieb, 1795-1858</p> 
+				  <p>First page notes that there are two editions available, "f.
+					 Alt od. Bariton m. Pforte allein" and "f. Sopr. od. Tenor m. Pf. all.". First
+					 page notes this edition is "f. Sopr. Od. Tenor m. Pf. all.".</p> 
+				  <p>Title page: or for viola, or violoncello, or piano alone.</p> 
+				  <p>Title page illustration: filigree illuminating title.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">096</container> 
+				<unittitle> 
+				  <persname>Puget, Loïsa, 1810-1889</persname> 
+				  <title type="uniform">Épis d'or</title> 
+				  <title type="transcribed">Épis d'or : recueil de chant : six
+					 mélodies,</title> 
+				  <unitdate>1848</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (12 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Bureau de la France Musicale</p> 
+				  <p>For voice, and 2 voices and piano.</p> 
+				  <p>At head of title: 1848. Aux abonnés de La France musicale.
+					 Additional verses are notated without piano music on the final page of each
+					 selection.</p> 
+				  <p>Title page illustration: filigree illuminating title / A.
+					 Lafont.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>No. 1. Marie -- No. 2. L'Enfant -- No. 3. Pied d'amour -- No. 4.
+				  La touriere -- No. 5. Tous ne m'aimee plus -- No. 6. Les joutes sur l'eau.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">097</container> 
+				<unittitle> 
+				  <persname>Purcell, Henry, 1659-1695</persname> 
+				  <title type="uniform">Tempest. Full fathom five ;
+					 arranged</title> 
+				  <title type="transcribed">Full fathom five : sung in The
+					 Tempest,</title> 
+				  <unitdate>circa 1800</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (2 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Unidentified: Unidentified</p> 
+				  <p>For voice and piano and for chorus.</p> 
+				  <p>Lyricist: Shakespeare, William, 1564-1616</p> 
+				  <p>Keyboard part includes figures.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">098</container> 
+				<unittitle> 
+				  <persname>Quidant, A. (Alfred), 1815-1893</persname> 
+				  <title type="uniform">Grande Etude-Galop</title> 
+				  <title type="transcribed">Grande Etude-Galop : morceau de
+					 concert, op. 21,</title> 
+				  <unitdate>circa 1851</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Milan (Italy): Jean Ricordi</p> 
+				  <p>For piano.</p> 
+				  <p>"A son ami E. Prudent." "Executee par Adolphe Fumagalli dans
+					 ses concerts".</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Piece is bound in a blue cover labelled "Grande Galoppo di
+				  Quidant." in handwriting, and signed with an illegible name.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">099</container> 
+				<unittitle> 
+				  <persname>Read, Ezra, 1862-1922</persname> 
+				  <title type="uniform">Don't tease</title> 
+				  <title type="transcribed">Don't tease : schottische,</title> 
+				  <unitdate>1897</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): J. Williams</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: a young boy and girl sit on a couch
+					 with a small dog / Stannard and Son.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">100</container> 
+				<unittitle> 
+				  <persname>Reed, Thomas German, 1817-1888</persname> 
+				  <title type="uniform">I'm a young man from the country ;
+					 arranged</title> 
+				  <title type="transcribed">I'm a young man from the country - but
+					 you don't get over me,</title> 
+				  <unitdate>circa 1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): H. D'Alcorn</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Arranger: Sydney, Harry</p> 
+				  <p>"The original melody of this song is known as The Young man
+					 from the country, composed by German Reed."</p> 
+				  <p>Pages cropped causing loss of publisher statement.
+					 Identification based on plate number: H. D. 267. "Written and sung by Mr. Harry
+					 Sydney at the London and provincial concerts, also by Mr. W. Randall".</p> 
+				  <p>Color title page illustration: a portrait of a Harry Sydney
+					 standing in a green coat with riding crop / fm. Photo by Hobcraft ; Concanen
+					 and Lee.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">101</container> 
+				<unittitle> 
+				  <persname>Reissiger, Friedrich August, 1809-1883</persname> 
+				  <title type="uniform">Lieder, op. 48</title> 
+				  <title type="transcribed">Zwei Lieder, op. 48: Entschuldigung ;
+					 Liebessuchen,</title> 
+				  <unitdate>circa 1841</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Leipzig (Germany): Friedrich Hofmeister</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Reinick, Robert, 1805-1852 and Keil, Johann Georg,
+					 1781-1857</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Entschuldigung (with lyrics by Robert Reinick) -- Liebessuchen
+				  (with lyrics by Johann Georg Keil).</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">102</container> 
+				<unittitle> 
+				  <persname>Rossini, Gioacchino, 1792-1868</persname> 
+				  <title type="uniform">Barbiere di Siviglia. Voce poco fa;
+					 arranged</title> 
+				  <title type="transcribed">Erinnerung an Sabina Heinefetter:
+					 Cavatine A. D. Oper der Barbier von Sevilla,</title> 
+				  <unitdate>1816</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Heidelberg (Germany): Wilh. Thiese</p> 
+				  <p>For piano.</p> 
+				  <p>Arranger: Faulhaber, K.</p> 
+				  <p>Title page illustration: a portrait of Sabina Heinefetter.</p>
+				  
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">103</container> 
+				<unittitle> 
+				  <persname>Rubinstein, Anton, 1829-1894</persname> 
+				  <title type="uniform">Mädchens Abendgedanken</title> 
+				  <title type="transcribed">Mädchens Abendgedanken,</title> 
+				  <unitdate>1882</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Berlin (Germany): Ed. Bote and G. Bock</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Vischer, Friedrich Theodor, 1807-1887</p> 
+				  <p>Dedicated to Fräulein Ottilie Otticker.</p> 
+				  <p>Color title page illustration: vignettes of flowers, cherubim,
+					 and a couple dancing and getting married / C. G. Röder.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">3</container> 
+				<container type="item">104</container> 
+				<unittitle> 
+				  <persname>Rummel, Joseph, 1818-1880</persname> 
+				  <title type="uniform">Schwalbacher-Polka</title> 
+				  <title type="transcribed">Rheinlaender : Sammlung beliebter
+					 Polkas, Galoppen für das Pianoforte. No. 132: Schwalbacher-Polka,</title> 
+				  <unitdate>1852</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): B. Schott's Söhnen</p> 
+				  <p>For piano.</p> 
+				  <p>Title page illustration: countryside scene with trees, fields,
+					 and various people.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Title page contains the contents of the Die Rheinlaender
+				  collection, numbered 121 through 132.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">105</container> 
+				<unittitle> 
+				  <persname>Russell, Henry, 1812-1900</persname> 
+				  <title type="uniform">I'm afloat, I'm afloat</title> 
+				  <title type="transcribed">I'm afloat, I'm afloat : No. [1] of Two
+					 sea songs,</title> 
+				  <unitdate>1842</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Duff and Hodgson</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Cook, Eliza, 1818-1889</p> 
+				  <p>Title page illustration: a sailboat at sea / C. Graf.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">106</container> 
+				<unittitle> 
+				  <persname>Schubert, Camille, 1810-1889</persname> 
+				  <title type="uniform">Lancers</title> 
+				  <title type="transcribed">Lancers = Lanciers : célèbre quadrille
+					 anglais pour piano,</title> 
+				  <unitdate>between 1857 and 1885</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): B. Schott's Söhne</p> 
+				  <p>For piano.</p> 
+				  <p>Directions for the dances in French included on cover verso.
+					 "Edition avec theorie d'apres les plus celebres professeurs de Londres".</p> 
+				  <p>Title page illustration: mounted lancers riding towards right
+					 in a field.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>No. 1. La dorset ou Les tiroirs -- No. 2. Les lignes ou Lodoïska
+				  --No. 3. Les moulinets ou La native -- No. 4. Les visites -- No. 5. Les
+				  lanciers -- No. 4bis. Les graces.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">107</container> 
+				<unittitle> 
+				  <persname>Scott, Bennett, 1875-1930</persname> 
+				  <title type="uniform">Lot 99</title> 
+				  <title type="transcribed">Lot 99,</title> 
+				  <unitdate>1898</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Francis, Day and Hunter</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Cotes, C. G.</p> 
+				  <p>"Sung by Miss Rose Harvey".</p> 
+				  <p>Color title page illustration: vignettes of a woman on a
+					 lounge chair, a woman at a podium, and a man with a cane captioned with various
+					 text / H. G. Banks.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">108</container> 
+				<unittitle> 
+				  <persname>Smallwood, William</persname> 
+				  <title type="uniform">Little Bo-Peep</title> 
+				  <title type="transcribed">Little Bo-Peep : polka,</title> 
+				  <unitdate>1874</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Brewer and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: a woman with a red scarf around
+					 her waist and a picnic basket sitting on a bench and smiling at a child in the
+					 forest / Stannard and Co.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">109</container> 
+				<unittitle> 
+				  <persname>Smallwood, William</persname> 
+				  <title type="uniform">Sea shells polka</title> 
+				  <title type="transcribed">Sea shells polka,</title> 
+				  <unitdate>between 1880 and 1889</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): B. Williams</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: various brightly colored
+					 seashells with the sea and night in the background / Tracker.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">110</container> 
+				<unittitle> 
+				  <persname>Smallwood, William</persname> 
+				  <title type="uniform">Village féte polka</title> 
+				  <title type="transcribed">Village féte polka,</title> 
+				  <unitdate>circa 1880</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Brewer and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: people dancing in a village
+					 center / J. A. Jennings.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">111</container> 
+				<unittitle> 
+				  <persname>Suppé, Franz von, 1819-1895</persname> 
+				  <title type="uniform">Gedichte in der österreichischen
+					 Volksmundart, op. 32</title> 
+				  <title type="transcribed">Zwei Gedichte in der österreichischen
+					 Volksmundart,</title> 
+				  <unitdate>1847</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Vienna (Austria): Tobias Haslinger's Witwe und Sohn</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Klesheim, Anton, Freiherr von, 1816?-1884</p> 
+				  <p>Title page notes the piece was originally performed by "der
+					 Künstlerin Mathilde Helwig".</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>'s Deanderl ám Bach -- Was is á Wundá?.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">112</container> 
+				<unittitle> 
+				  <persname>Sydney, Harry</persname> 
+				  <title type="uniform">Free and easy</title> 
+				  <title type="transcribed">Free and easy,</title> 
+				  <unitdate>circa 1870</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): B. Williams</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Color title page illustration: a portrait of Harry Sydney with
+					 colorful clothes sitting on a chair.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">113</container> 
+				<unittitle> 
+				  <persname>Széchényi, Imre, gróf, 1825-1898</persname> 
+				  <title type="uniform">Tulipe</title> 
+				  <title type="transcribed">Tulipe = Die Tulpe : mazurka,</title> 
+				  <unitdate>1855</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): B. Schott</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: a red and blue striped tulip on
+					 a green stem.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">114</container> 
+				<unittitle> 
+				  <persname>Thomas, J. R. (John Rogers), 1830-1896</persname> 
+				  <title type="uniform">Cottage by the sea</title> 
+				  <title type="transcribed">No. 67 of Christy's Minstrels songs as
+					 sung by them : The cottage by the sea,</title> 
+				  <unitdate>circa 1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (5 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): B. Williams</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Title page illustration: signatures of the Christy's Minstrels
+					 (captioned "All the genuine Editions bear their Signatures").</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Title page lists contents of the Christy's Minstrels songs
+				  collection, number 1 through 86.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">115</container> 
+				<unittitle> 
+				  <persname>Unidentified</persname> 
+				  <title type="uniform">Five favorite dances</title> 
+				  <title type="transcribed">Five favorite dances. No. 38,</title> 
+				  <unitdate>between 1810 and 1812</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (2 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): W. Andrews</p> 
+				  <p>For piano.</p> 
+				  <p>Caption title specifies that the piece is for piano or
+					 violin.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>The Bath Waltz -- Lord St. Orville -- Le Bourbon -- L'Angouleme
+				  -- The Legacy.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">116</container> 
+				<unittitle> 
+				  <persname>Vandervell, Willem</persname> 
+				  <title type="uniform">Immer wieder ; arranged</title> 
+				  <title type="transcribed">Immer wieder = Always again :
+					 gavotte,</title> 
+				  <unitdate>circa 1900</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Bayley and Ferguson</p> 
+				  <p>For piano 4-hands.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">117</container> 
+				<unittitle> 
+				  <persname>Voss, Charles, 1815-1882</persname> 
+				  <title type="uniform">Chansons anglaises, piano, op. 238. Annie
+					 Laurie</title> 
+				  <title type="transcribed">Chansons anglaises, op. 238. No. 3 :
+					 Annie Laurie,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Offenbach am Main (Germany): Jean André</p> 
+				  <p>For piano.</p> 
+				  <p>Color title page illustration: a red, white, and blue flag
+					 being held the figure of Britannia.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Title page lists the contents of the Op. 238 collection.</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">118</container> 
+				<unittitle> 
+				  <persname>Wallace, William Vincent, 1812-1865</persname> 
+				  <title type="uniform">Grande mazurka guerrière</title> 
+				  <title type="transcribed">Grande mazurka guerrière,</title> 
+				  <unitdate>1856</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (9 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				  <p>For piano.</p> 
+				  <p>At head of title: "À Sa Majesté l'Impératrice des Français".
+					 American publications used the title Eugenie, grande mazurka guerriere.</p> 
+				  <p>Title page illustration: the crown and heraldic symbols of
+					 Empress Eugenie, wife of Napoleon / Stannard and Dixon.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">119</container> 
+				<unittitle> 
+				  <persname>Wallerstein, A. (Anton), 1813-1892</persname> 
+				  <title type="uniform">Garde mobile polka ; arranged</title> 
+				  <title type="transcribed">Danses Élégantes, no. 2 : La garde
+					 mobile : polka,</title> 
+				  <unitdate>1869</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (7 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): B. Schott</p> 
+				  <p>For piano 4-hands.</p> 
+				  <p>Other title: Sieges-polka, op. 37</p> 
+				  <p>Title page illustration: vignettes illustrating the titles of
+					 the three dances: a woman in formal dress, La garde mobile troops, and people
+					 riding on a steam engine.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Title page contains the contents of the Danses Élégantes
+				  collection, labelled as "No. 1. La coquette, polka (priska-polka)" [No. 1. The
+				  coquette (priska-polka)], "No. 2. La garde mobile, polka (sieges-polka)" [No.
+				  2. The mobile guard, polka (sieges-polka)], and "No. 3. Le train de plaisir,
+				  polka de carneval (jahrmarkts-polka)" [No. 3. The train of pleasure, polka
+				  (jahrmarkts-polka)].</p> 
+			 </scopecontent>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">120</container> 
+				<unittitle> 
+				  <persname>West, W.</persname> 
+				  <title type="uniform">Pet of the family polka</title> 
+				  <title type="transcribed">Pet of the family : polka,</title> 
+				  <unitdate>between 1847 and 1868</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (4 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Londond (England): B. Williams</p> 
+				  <p>For voice and piano.</p> 
+				  <p>"As performed with the greatest success at the Theatres Royal
+					 Haymarket and Adelphi" and "dedicated to his friend Benjn. Webster Esqr.".</p> 
+				  <p>Color title page illustration: a little girl in a red dress
+					 and bonnet hugging a lamb with a red bandana around its neck.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">121</container> 
+				<unittitle> 
+				  <persname>Westenholtz, Friedrich, 1778-1840</persname> 
+				  <title type="uniform">König Ankäos</title> 
+				  <title type="transcribed">König Ankäos : ballade aus
+					 Natalia,</title> 
+				  <unitdate>circa 1800</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (12 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Hamburg (Germany): I. A. Böhme</p> 
+				  <p>For voice and piano.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">122</container> 
+				<unittitle> 
+				  <persname>Winter, Peter von, 1754-1825</persname> 
+				  <title type="uniform">Ratto di Proserpina. Lieti fiori, ombrose
+					 piante ; arranged</title> 
+				  <title type="transcribed">Lieti fiori : a favorite air and glee
+					 as sung by Signora Grassini in the serious opera of Il Ratto di
+					 Proserpina,</title> 
+				  <unitdate>1804</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): M. Kelly</p> 
+				  <p>For three voices and piano.</p> 
+				  <p>Lyricist: Da Ponte, Lorenzo, 1749-1838</p> 
+				  <p>Arranger: Mortellari, M. C.</p> 
+				  <p>Engraved by J. Balls.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">123</container> 
+				<unittitle> 
+				  <persname>Winter, Peter von, 1754-1825</persname> 
+				  <title type="uniform">Ratto di Proserpina. Mi lasci, o madre
+					 amata ; arranged</title> 
+				  <title type="transcribed">Mi lasci o madre amata : the much
+					 admir'd trio sung at the King's Theatre by Mrs. Billington, Sigr. Viganoni and
+					 Sigra. Grassini in the opera of Il Ratto di Proserpina,</title> 
+				  <unitdate>1804</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (6 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): M. Kelly</p> 
+				  <p>For three voices and piano.</p> 
+				  <p>Lyricist: Da Ponte, Lorenzo, 1749-1838</p> 
+				  <p>Arranger: Mortellari, M. C.</p> 
+				  <p>Engraved by J. Balls.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">124</container> 
+				<unittitle> 
+				  <persname>Winter, Peter von, 1754-1825</persname> 
+				  <title type="uniform">Ratto di Proserpina. Ti veggo t'abbraccio ;
+					 arranged</title> 
+				  <title type="transcribed">Ti veggo t'abbraccio : the favorite
+					 duett sung at the King's Theatre by Mrs. Billington and Sigra. Grassini in the
+					 opera of Il Ratto di Proserpina,</title> 
+				  <unitdate>1804</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (8 pages)</extent> </physdesc> 
+				<note> 
+				  <p>London (England): M. Kelly</p> 
+				  <p>For two voices and piano.</p> 
+				  <p>Lyricist: Da Ponte, Lorenzo, 1749-1838</p> 
+				  <p>Arranger: Mortellari, M. C.</p> 
+				  <p>Engraved by J. Balls.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">125</container> 
+				<unittitle> 
+				  <persname>Yradier, Sebastián, 1809-1865</persname> 
+				  <title type="uniform">Aÿ chiquita</title> 
+				  <title type="transcribed">Aÿ chiquita : chanson espagnole chanter
+					 par Melle. Juliette Beau,</title> 
+				  <unitdate>1875</unitdate> </unittitle> 
+				<physdesc> <extent>1 score (3 pages)</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): Au Ménestrel</p> 
+				  <p>For voice and piano.</p> 
+				  <p>Lyricist: Bernard, Paul, 1827-1879</p> 
+				  <p>First page notes that there are two editions available, "No.
+					 1. baryton ou contralto" and "No. 2. tenor ou soprano". This edition is for
+					 "ténor ou soprano".</p> 
+				  <p>Composer's last name spelled "Iradier" various places on the
+					 music.</p> 
+				  <p>Title page illustration: a decorated archway with a cross at
+					 the top surrounding the title / A. Barbizet.</p> 
+				</note> 
+			 </did> 
+			 <scopecontent> 
+				<p>Additional verses notated without music on the final page.</p> 
+			 </scopecontent>
+		  </c02> 
+		</c01> 
+		<c01 level="series">
+		  <did> 
+			 <unitid id="series2">II.</unitid>
+			 <unittitle>Partial works, 
+				<unitdate type="inclusive" normal="1801/1895">1801-1895</unitdate>
+			 </unittitle>
+			 <physdesc><extent>Items 126-149</extent></physdesc> 
+		  </did>
+		  <arrangement>
+			 <p>Arranged alphabetically by surname of composer and then by
+				preferred title of the composition.</p>
+		  </arrangement> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">126</container> 
+				<unittitle> 
+				  <persname>Albert, Charles d', 1809-1886</persname> 
+				  <title type="uniform">Sultan's polka</title> 
+				  <title type="transcribed">Sultan's polka by Chas.
+					 D'Albert,</title> 
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page and page 5 of music</extent>
+				  </physdesc> 
+				<note> 
+				  <p>London (England): Chappell</p> 
+				  <p>Color title page illustration: A sultan next to his horse,
+					 before a background of tents, and turbanned figures on horseback (possibly as a
+					 part of the Crimean War) / J. Brandard.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">127</container> 
+				<unittitle> 
+				  <persname>Arditi, Luigi, 1822-1903</persname> 
+				  <title type="uniform">Nearest way home</title> 
+				  <title type="transcribed">Nearest way home : ballad, written by
+					 H. B. Farnie, composed by L. Arditi,</title> 
+				  <unitdate>1868</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Duff and Stewart</p> 
+				  <p>"Sung by Mlle. Liebhart."</p> 
+				  <p>Color title page illustration: A couple walking on a path near
+					 a water mill / Stannard and Dixon.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">128</container> 
+				<unittitle> 
+				  <persname>Azote</persname> 
+				  <title type="uniform">Titania waltz</title> 
+				  <title type="transcribed">Titania waltz, by Azote,</title> 
+				  <unitdate>1895</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Orpheus Music Publishing</p> 
+				  <p>Color title page illustration: Titania reclining on a bough
+					 within a floral frame.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">129</container> 
+				<unittitle> 
+				  <persname>Balfe, M. W. (Michael William), 1808-1870</persname> 
+				  <title type="uniform">Bohemian girl. I dreamt that I dwelt in
+					 marble halls ; arranged</title> 
+				  <title type="transcribed">I dreamt that I dwelt in marble halls :
+					 song, sung by Miss Rainforth at the Theatre Royal Drury Lane in the opera of
+					 The Bohemian girl, written by Alfred Bunn, composed by M. W. Balfe,</title> 
+				  <unitdate>1869</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell and Co.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">130</container> 
+				<unittitle> 
+				  <persname>Blumenthal, Jacques</persname> 
+				  <title type="uniform">Fleurs emblématiques. Primevère</title> 
+				  <title type="transcribed">Primevère : no. 1 des Fleurs
+					 emblématiques, op. 21, pour le piano, par Jacques Blumenthal,</title> 
+				  <unitdate>circa 1850</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>Offenbach am Main (Germany): Jean André</p> 
+				  <p>"A Madame la Baronne Lionel de Rothschild."</p> 
+				  <p>Color title page illustration: oval wreath of flowers framing
+					 title.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">131</container> 
+				<unittitle> 
+				  <persname>Coote, Charles, 1809-1880</persname> 
+				  <title type="uniform">Stirrup cup quadrille</title> 
+				  <title type="transcribed">Stirrup cup : quadrille, composed by
+					 Charles Coote,</title> 
+				  <unitdate>circa 1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell and Co.</p> 
+				  <p>Color title page illustration: a man on horseback accepting a
+					 goblet from a woman / Concanen, Lee, and Siebe, Lith.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">132</container> 
+				<unittitle> 
+				  <persname>Coote, Charles, Jr.</persname> 
+				  <title type="uniform">Pretty bird</title> 
+				  <title type="transcribed">Pretty bird : valse … by C. Coote
+					 Junr.,</title> 
+				  <unitdate>1866</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Hopwood and Crew</p> 
+				  <p>Color title page illustration: portrait of a lady with a
+					 canary / Stannard and Dixon.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">133</container> 
+				<unittitle> 
+				  <persname>Foster, Stephen Collins, 1826-1864</persname> 
+				  <title type="uniform">Willie we have missed you</title> 
+				  <title type="transcribed">Illustrated American edition of
+					 Christy's Minstrels songs : Willie we have miss'd you, solo and chorus,</title>
+				  
+				  <unitdate>circa 1860</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page and page 5 of music</extent>
+				  </physdesc> 
+				<note> 
+				  <p>London (England): Foster and L'Enfant</p> 
+				  <p>Title page illustration: soldier in uniform entering a house
+					 and taking the hand of a waiting woman.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">134</container> 
+				<unittitle> 
+				  <persname>Fricker, Anne, 1820-</persname> 
+				  <title type="uniform">I built a bridge of fancies</title> 
+				  <title type="transcribed">I built a bridge of fancies : song,
+					 written by Miss Mylne, the music composed by Anne Fricker,</title> 
+				  <unitdate>1855</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">135</container> 
+				<unittitle> 
+				  <persname>Gantier, Felix</persname> 
+				  <title type="uniform">Zampa</title> 
+				  <title type="transcribed">Operatic gems, no. 27 : Zampa,</title> 
+				  <unitdate>circa 1867</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Charles Jefferys</p> 
+				  <p>Gantier (possibly a pseudonym) composed a series of fantasias
+					 on opera themes. This one is probably on Hérold's opera, Zampa.</p> 
+				  <p>Color title page illustration: ship with broken mast in the
+					 Bay of Genoa with full moon in background / Packer and Griffin, Lith. ;
+					 Stannard and Son.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">136</container> 
+				<unittitle> 
+				  <persname>Godfrey, Dan. (Daniel), 1831-1903</persname> 
+				  <title type="uniform">Hilda waltz</title> 
+				  <title type="transcribed">Hilda : waltz composed &amp; dedicated
+					 to the Baroness Ferdinand de Rothschild, by Dan. Godfrey. B. M. Grenadier
+					 Guards,</title> 
+				  <unitdate>circa 1865</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell and Co.</p> 
+				  <p>Color title page illustration: a woman holding a locket with a
+					 portrait within / M. and N. Hanhart, Lith.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">137</container> 
+				<unittitle> 
+				  <persname>Harvey, R. F. (Richard Frederick)</persname> 
+				  <title type="uniform">Build me a home of sparkling shells</title>
+				  
+				  <title type="transcribed">Build me a home of sparkling shells,
+					 written by S. Elrington, composed by Richard F. Harvey,</title> 
+				  <unitdate>1869</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): John Blockley</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">138</container> 
+				<unittitle> 
+				  <persname>Lindsay, M., Miss</persname> 
+				  <title type="uniform">Bridge</title> 
+				  <title type="transcribed">Bridge, words by H. W. Longfellow, esq.
+					 ; music by Miss M. Lindsay (Mrs. J. Worthington Bliss),</title> 
+				  <unitdate>1867</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				  <p>Color title page illustration: a bridge with cityscape in
+					 background with full moon.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">139</container> 
+				<unittitle> 
+				  <persname>Lindsay, M., Miss</persname> 
+				  <title type="uniform">Toilette de Constance</title> 
+				  <title type="transcribed">Toilette de Constance, words by Casimir
+					 Delavigne, music by Miss M. Lindsay (Mrs. J. Worthington Bliss),</title> 
+				  <unitdate>1869</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				  <p>Color title page illustration: frame around title.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">140</container> 
+				<unittitle> 
+				  <persname>Offenbach, Jacques, 1819-1880</persname> 
+				  <title type="uniform">Belle Hélène. Mari sage ; arranged</title> 
+				  <title type="transcribed">Mari sage = When on his jaunts a
+					 husband wants : (no. 16) : ballad, sung by Mlle. Schneider in the comic opera
+					 La belle Hélène ; the English version by Charles Lamb Kenney ; composed by J.
+					 Offenbach.,</title> 
+				  <unitdate>1868</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Chappell and Co.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">141</container> 
+				<unittitle> 
+				  <persname>Offenbach, Jacques, 1819-1880</persname> 
+				  <title type="uniform">Grand duchesse de Gerolstein. Selections ;
+					 arranged</title> 
+				  <title type="transcribed">Two selections from The Grand Duchess
+					 of Gerolstein": Lo! Here the sabre of my sire (song) and Oh! I dote on the
+					 military (rondo),</title> 
+				  <unitdate>1869</unitdate> </unittitle> 
+				<physdesc> <extent>2 title pages</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Boosey and Co.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">142</container> 
+				<unittitle> 
+				  <persname>Paladilhe, Emile, 1844-1926</persname> 
+				  <title type="uniform">Mandolita</title> 
+				  <title type="transcribed">Mandolita : souvenir de Rome, E.
+					 Paladilhe,</title> 
+				  <unitdate>1871</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>Paris (France): G. Hartmann</p> 
+				  <p>2nd edition.</p> 
+				  <p>Title page illustration: three men, one playing a mandolin,
+					 another a guitar / Stop.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">143</container> 
+				<unittitle> 
+				  <persname>Rossini, Gioacchino, 1792-1868</persname> 
+				  <title type="uniform">Chœurs religieux. Charité ;
+					 arranged</title> 
+				  <title type="transcribed">Charité, musique de G. Rossini,</title>
+				  
+				  <unitdate>circa 1850</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>Mainz (Germany): Fils de B. Schott</p> 
+				  <p>Possibly for an edition of Liszt's arrangement for piano.</p> 
+				  <p>Title page illustration: a nun assisting two children outside
+					 a house with a graveyard in the background.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">144</container> 
+				<unittitle> 
+				  <persname>Salaman, Charles (Charles Kensington),
+					 1814-1901</persname> 
+				  <title type="uniform">I arise from dreams of thee</title> 
+				  <title type="transcribed">I arise from dreams of thee : serenade,
+					 in B flat, the poetry by Shelley ; the music by Charles Salaman,</title> 
+				  <unitdate>1869</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page and page 2 of music</extent>
+				  </physdesc> 
+				<note> 
+				  <p>London (England): Ashdown and Parry</p> 
+				  <p>Plate number: A &amp; P. No. 3168.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">145</container> 
+				<unittitle> 
+				  <persname>Smallwood, William</persname> 
+				  <title type="uniform">Evensong</title> 
+				  <title type="transcribed">Even song : for the piano forte,
+					 composed by W. Smallwood,</title> 
+				  <unitdate>1863</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page and page 5 of music</extent>
+				  </physdesc> 
+				<note> 
+				  <p>London (England): B. Williams</p> 
+				  <p>Color title page illustration: waterfront with church and full
+					 moon in background / T. Packer, Lith.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">146</container> 
+				<unittitle> 
+				  <persname>Stigelli, G. (Giorgio), 1815-1868</persname> 
+				  <title type="uniform">Schoensten Augen</title> 
+				  <title type="transcribed">Schoensten Augen = The brightest eyes,
+					 von Heine, the translation by Mrs. Elde Darby, composed and dedicated to the
+					 Contesse Olga Poniatowska by G. Stigelli,</title> 
+				  <unitdate>1867</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Charles Jefferys</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">147</container> 
+				<unittitle> 
+				  <persname>Sullivan, Arthur, Sir, 1842-1900</persname> 
+				  <title type="uniform">O fair dove! O fond dove!</title> 
+				  <title type="transcribed">O fair dove! O fond dove! : song, words
+					 by Jean Ingelow ; music by Arthur S. Sullivan,</title> 
+				  <unitdate>1868</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Ashdown and Parry</p> 
+				  <p>"To Miss Rachel Scott Russell."</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">148</container> 
+				<unittitle> 
+				  <persname>Woodward, G. M. (George Moutard), approximately
+					 1760-1809</persname> 
+				  <title type="uniform">Olio of good breeding</title> 
+				  <title type="transcribed">Olio of good breeding: with sketches
+					 illustrative of the modern graces!! , by G.M. Woodward,</title> 
+				  <unitdate>1801</unitdate> </unittitle> 
+				<physdesc> <extent>1 title page</extent> </physdesc> 
+				<note> 
+				  <p>London (England): R. Ackermann</p> 
+				  <p>Color title page illustration: a gentleman bowing to a
+					 lady.</p> 
+				</note> 
+			 </did>
+		  </c02>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">4</container> 
+				<container type="item">149</container> 
+				<unittitle> 
+				  <persname>Wrighton, W. T. (William Thomas), 1816-1880</persname> 
+				  <title type="uniform">Songs. Selections</title> 
+				  <title type="transcribed">Three songs : Grieve not for me ; Her
+					 bright smile haunts me still ; Liquid gem,</title> 
+				  <unitdate>1867-1871</unitdate> </unittitle> 
+				<physdesc> <extent>3 title pages</extent> </physdesc> 
+				<note> 
+				  <p>London (England): Robert Cocks and Co.</p> 
+				  <p>Title pages are impressed with decorative patterns.</p> 
+				</note> 
+			 </did>
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Piano music</subject> 
+		  <subject source="lcsh" encodinganalog="650">Songs with piano</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">sheet music</genreform> 
+		  <genreform encodinganalog="655" source="aat">sheet music
+			 covers</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead> 

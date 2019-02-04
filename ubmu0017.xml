@@ -100,10 +100,10 @@
          </origination> 
 		
          <physdesc label="Extent"> 
-            <extent unit="box" encodinganalog="300$a">2
+            <extent unit="box" encodinganalog="300$a">3
 		  boxes</extent> 
             <extent encodinganalog="300$a" unit="photograph">(193
-		  photographs)</extent> 
+		  photographs</extent>, <extent encodinganalog="300$a" unit="CD-ROM">18 CD-ROMS</extent>)
          </physdesc> 
 		
          <langmaterial label="Language of Material" encodinganalog="546">No
@@ -251,8 +251,15 @@
 		
          <head>Arrangement</head> 
 		
-         <p>One sequence of images in alphabetical order by principal subject of
-		  the image.</p> 
+         <p>Arranged in two series: </p>
+<list type="simple">
+<item>
+<ref target="series1" actuate="onrequest" show="replace">I. Print photographs</ref>
+</item>
+<item>
+<ref target="series2" actuate="onrequest" show="replace">II. Additional digital images</ref>
+</item>
+</list>			
 	 
       </arrangement> 
 	 
@@ -260,18 +267,18 @@
 		
          <head>Container List</head> 
 		
-         <c01 level="file"> 
+         <c01 level="series"> 
 		  
             <did> 
 			 
                <unitid id="series1">I.</unitid> 
 			 
-               <unittitle>Photographs, 
+               <unittitle>Print photographs, 
 				<unitdate type="inclusive" normal="1978/1999" certainty="approximate" era="ce" calendar="gregorian">circa 1978-1999</unitdate> 
                </unittitle> 
-		  
+<physdesc><extent>Box 1-2 (193 photographs)</extent></physdesc>		  
             </did> 
-		  
+<arrangement><p>Arranged in alphabetical order by principal subject of image.</p></arrangement>		  
             <c02 level="item"> 
 			 
                <did> 
@@ -4242,7 +4249,42 @@
             </c02> 
 		
          </c01> 
-	 
+<c01 level="series"> 
+		  
+            <did> 
+			 
+               <unitid id="series2">II.</unitid> 
+			 
+               <unittitle>Additional digital images, 
+				<unitdate type="inclusive" normal="2013/2017" era="ce" calendar="gregorian">2013-2017</unitdate> 
+               </unittitle> 
+<physdesc><extent>Box 3 (18 CD-ROMS)</extent></physdesc>		  
+            </did> 
+<arrangement><p>Arranged in chronological order.</p></arrangement>		  
+<scopecontent>
+<p>
+<list>
+<item>Slee April 23 2013: 1</item>
+<item>Slee [April] 23 2013: 2</item>
+<item>Slee April 23 2013: 3</item>
+<item>Slee photos [2014?]</item>
+<item>Roger Reynolds Buffalo 2014</item>
+<item>Jan Williams 2014</item>
+<item>Slee Oct. 7 2014</item>
+<item>Pentchev 2014</item>
+<item>Gotlib 2014</item>
+<item>Dan Bassin 2014</item>
+<item>Isherwood 2015</item>
+<item>Ensemble Signal 10-6 2015</item>
+<item>2015</item>
+<item>Slee 4-19-2016</item>
+<item>Slee Sept. 20 2016</item>
+<item>Slee Oct. 25 2016</item>
+<item>Slee 2017</item>
+<item>Oct. 24 2017</item>
+
+</list></p></scopecontent>            
+</c01>					 
       </dsc> 
 	 
       <controlaccess> 

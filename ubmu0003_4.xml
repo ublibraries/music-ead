@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 3.4::J. Warren Perry Collection of Maria Callas Clippings and Programs)//EN">ubmu0003_4</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the J. Warren Perry
+			 Collection of Maria Callas Clippings and Programs, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1955/1995">circa 1955-1995</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Perry (J. Warren)
+			 Collection of Maria Callas Clippings and Programs</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, December 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS (Describing Archives: A
+		  Content Standard ).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">J. Warren Perry
+		  Collection of Maria Callas Clippings and Programs, 
+		  <unitdate encodinganalog="245$f" normal="1955/1995" type="inclusive"
+			datechar="creation">circa 1955-1995</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 3.4</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Perry, J.
+			 Warren </persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1
+		  box</extent> <extent unit="folder" encodinganalog="300">(31 folders)</extent>
+		  </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Collection material in <language encodinganalog="041"
+		  langcode="eng">English</language>.</langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Collection contains 23
+		  folders of newspaper and magazine articles about singer Maria Callas. It also
+		  includes 7 folders of concert programs and Dr. Perry's bound scrapbook of
+		  Callas clippings.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], J. Warren Perry Collection of Maria Callas
+			 Clippings and Programs, circa 1955-1995, Music Library, The State University of
+			 New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Dr. J. Warren Perry, 2004.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Dr. J. Warren Perry was born in Richmond, Indiana in 1921. He earned
+		  his B.A. at DePauw University in 1944, his Master's at Northwestern University
+		  in 1952, and his Ph.D. at Northwestern in 1955. Dr. Perry has been on the
+		  faculties at the University of Illinois at Chicago, Northwestern Medical
+		  School, and the University of Chicago. He was also employed as deputy assistant
+		  commissioner for research and training in the Vocational Rehabilitation
+		  Administration at the Department of Health, Education and Welfare in
+		  Washington, D.C. Dr. Perry is the founder of the School of Health Related
+		  Professions (now the School of Public Health and Health Professions) at the
+		  University at Buffalo, The State University of New York. He served as dean of
+		  the school from its founding in 1967 until 1977.</p> 
+		<p>Dr. Perry devoted much of his life to supporting the arts. Before
+		  moving to Buffalo he was one of the founders of the Lyric Opera Company in
+		  Chicago. Since arriving in Buffalo Dr. Perry has served as chairman or board
+		  member for several local organizations, including the Buffalo Philharmonic,
+		  Community Music School, Theodore Roosevelt Inaugural National Historic Site,
+		  Artpark, and Friends of the Center for the Arts. The numerous awards granted to
+		  honor Dr. Perry's contributions to the community include the Buffalo Arts
+		  Councils' Supporter of the Arts award, the Buffalo Distinguished Citizen Award,
+		  and national Outstanding Philanthropist Award. Dr. Perry died August 5, 2010 in
+		  Buffalo.</p>
+		<p>J. Warren Perry was an avid collector of photographs and other
+		  artifacts related to music, especially opera and ballet. He had the opportunity
+		  to meet Maria Callas during his time at the Lyric Opera in Chicago. Through the
+		  years he compiled a substantial collection of clippings documenting her
+		  tumultuous career. Callas (1923-1977) was born in New York City to Greek
+		  parents. At age 13 she moved to Greece where she received most of her musical
+		  training. Callas's first performance in a leading role occurred in August 1942
+		  when she sang the role of Tosca. Her stellar and influential career is well
+		  documented through recordings, biographies, and contemporaneous accounts. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Collection contains 23 folders of newspaper and magazine articles
+		  about singer Maria Callas. It also includes 7 folders of concert programs and
+		  Dr. Perry's bound scrapbook of Callas clippings. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in three series: </p> 
+		<list> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series1">I.
+				</ref>Clippings</item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series2">II.
+				</ref>Concert programs</item> 
+		  <item> 
+			 <ref actuate="onrequest" show="replace" target="series3">III.
+				</ref>Scrapbook</item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1"> I.</unitid> 
+			 <unittitle>Clippings, 
+				<unitdate type="inclusive" normal="1955/1995" datechar="creation"
+				 certainty="approximate"> circa 1955-1995</unitdate> </unittitle> 
+			 <physdesc><extent> Folder 1-23</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p> Chronologically arranged with 3 folders of undated and unsorted
+				clippings at the end of the sequence. </p> 
+		  </arrangement> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2"> II.</unitid> 
+			 <unittitle>Concert programs, 
+				<unitdate type="inclusive" normal="1957/1995"
+				 datechar="creation">1957-1995 </unitdate> </unittitle> 
+			 <physdesc><extent>Folder 24-30</extent></physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chronologically arranged.</p> 
+		  </arrangement>
+		  <scopecontent>
+			 <p>Includes program for master class with Giuseppe Di Stefano (1974),
+				with photographs and clippings. Also includes Playbill program for 1995
+				performances of the Terrence McNally play, 
+			 <title render="italic">Master Class</title>. </p>
+		  </scopecontent> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Scrapbook, 
+				<unitdate type="inclusive" normal="1955/1995">undated</unitdate>
+				</unittitle> 
+			 <physdesc><extent>Folder 31</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Scrapbook of clippings about Maria Callas compiled by J. Warren
+				Perry, titled Maria Callas, at the Lyric, at the Met, and now.</p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Sopranos (Singers)--20th
+			 century</subject> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Callas,
+			 Maria, 1923-1977</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">clippings (information
+			 artifacts)</genreform> 
+		  <genreform encodinganalog="655" source="aat">concert
+			 programs</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0003_1.xml "
+					 show="new" actuate="onrequest" role="text/html"> J. Warren Perry Collection of
+						Photographs, ca. 1910-1971</archref> Mus. Arc. 3.1 </label> 
+				  <item>A collection of 2110 photographs, chiefly of opera singers
+					 and productions, with additional photographs of conductors, performers,
+					 ensembles, and concert halls. The collection contains 80 photographs of Maria
+					 Callas.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					 href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0003_3.xml"
+					 show="new" actuate="onrequest" role="text/html">J. Warren Perry Correspondence
+						and Autograph Collection, 1840-1995 </archref> Mus. Arc. 3.3</label> 
+				  <item>A collection of autograph letters, including some by Maria
+					 Callas (Note: framed items, not yet included in that inventory).</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead> 

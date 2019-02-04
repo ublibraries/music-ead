@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../../../../EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 86::Collection of 78 rpm 10-inch Records)//EN">ubmu0086</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for the Collection of 78 rpm 10-inch Records, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1908/1950" certainty="approximate">approximately 1908-1950</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Collection of 78 rpm 10-inch Records</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2018</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, December 2018.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Collection of 78 rpm 10-inch Records, 
+		  <unitdate encodinganalog="245$f" normal="1908/1950" type="inclusive"
+			datechar="creation" certainty="approximate">approximately 1908-1950</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 86</unitid> 
+		<origination label="Creator"> 
+		  <corpname encodinganalog="110" role="creator" source="lcnaf">State University of New York at Buffalo. Music Library</corpname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">1 box</extent> (<extent unit="soundrecording" encodinganalog="300$a">40 sound recordings</extent>)
+		 </physdesc> 
+		<langmaterial label="Language of Material" encodinganalog="546">Spoken and sung
+		  material in collection in <language encodinganalog="041"
+		  langcode="eng">English</language>, <language encodinganalog="041"
+		  langcode="fre">French</language>, <language encodinganalog="041"
+		  langcode="ger">German</language>, <language encodinganalog="041"
+		  langcode="ita">Italian</language>, and <language encodinganalog="041"
+		  langcode="spa">Spanish</language>. </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">The collection contains 37 78 rpm 10-inch recordings, 1 7-inch 78 rpm recording, 1 5-inch 78 rpm recording, and 1 7-inch 45 rpm recording. The recordings are all commercial releases consisting of classical, ethnic, and popular music.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Collection of 78 rpm 10-inch Records, approximately 1908-1950, Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Compiled by staff of the State University of New York at Buffalo, Music Library.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley, 2018.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>The rationale for compiling this collection has been lost. The Music Library holds numerous 78 rpm records as historical examples of the labels available and repertoire issued on them. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains 37 78 rpm 10-inch recordings, 1 7-inch 78 rpm recording, 1 5-inch 78 rpm recording, and 1 7-inch 45 rpm recording. The recordings are all commercial releases consisting of classical, ethnic, and popular music.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is arranged in alphabetical order by recording company and then in numerical order by label number.</p> 
+		
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		
+
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">01a</container>
+      <unittitle>Brunswick: 8189,
+            <unitdate type="inclusive">1938</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1938-03-24</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: LA1608A</p>
+      <p>Berlin, Irving, 1888-1989: </p>
+      <p>
+         <title render="italic">Change partners, from Carefree</title>
+      </p>
+      <p>Performer(s): Fred Astaire, vocalist; Ray Noble Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">01b</container>
+      <unittitle>Brunswick: 8189,
+            <unitdate type="inclusive">1938</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1938-03-24</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: LA1609</p>
+      <p>Berlin, Irving, 1888-1989: </p>
+      <p>
+         <title render="italic">I used to be color blind, from Carefree</title>
+      </p>
+      <p>Performer(s): Fred Astaire, vocalist; Ray Noble Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">02a</container>
+      <unittitle>Brunswick: 8190,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+    
+   </did>
+   <scopecontent>
+      <p>Matrix number: LA 1610 A</p>
+      <p>Berlin, Irving, 1888-1989: </p>
+      <p>
+         <title render="italic">Yam, from Carefree</title>
+      </p>
+      <p>Performer(s): Fred Astaire, vocalist; Ray Noble and his orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">02b</container>
+      <unittitle>Brunswick: 8190,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+
+   </did>
+   <scopecontent>
+      <p>Matrix number: LA 1611-A</p>
+      <p>Berlin, Irving, 1888-1989: </p>
+      <p>
+         <title render="italic">Yam Step (As explained by Fred Astaire) from Carefree</title>
+      </p>
+      <p>Performer(s): Fred Astaire, vocalist; Ray Noble and his orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">03a-b</container>
+      <unittitle>Capitol: none,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Most likely conductor William Steinberg</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 9658?</p>
+      <p>
+         <title render="italic">Interview with Mr. William Steinberge [sic]</title>
+      </p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">04a</container>
+      <unittitle>Columbia Graphophone Company: E2935,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>A possible translation of the rest of the label is: Singing Serbian Pavacko Society "Gusle" of New York. For the benefit of the Serbian Red Cross in New York</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 43884</p>
+      <p>
+         <title render="italic">Smesa srpskih narodnih pesama (Funny Serbian folk songs)</title>
+      </p>
+      <p>Performer(s): Servian Chorus, piano accompaniment</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">04b</container>
+      <unittitle>Columbia Graphophone Company: E2935,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>A possible translation of the rest of the label is: Singing Serbian Pavacko Society "Gusle" of New York. For the benefit of the Serbian Red Cross in New York</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 43885</p>
+      <p>
+         <title render="italic">Ranjenici zvece (something like Wounded rattle) [The first letters of the title are only partially intact due to a label that was attached)</title>
+      </p>
+      <p>Performer(s): Servian Chorus, piano accompaniment</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">05a</container>
+      <unittitle>Columbia Phonograph Co.: 4209-M,
+            <unitdate type="inclusive">1937</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: CL 6333</p>
+      <p>Rouget de Lisle, Claude Joseph, 1760-1836: </p>
+      <p>
+         <title render="italic">La Marseillaise</title>
+      </p>
+      <p>Performer(s): Choir of the Red Army of the U.S.S.R., directed by A.V. Alexandroff</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">05b</container>
+      <unittitle>Columbia Phonograph Co.: 4209-M,
+            <unitdate type="inclusive">1937</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: CL 6334</p>
+      <p>Méhul, Etienne Nicolas, 1763-1817: </p>
+      <p>
+         <title render="italic">Le Chant du Départ</title>
+      </p>
+      <p>Performer(s): Choir of the Red Army of the U.S.S.R., directed by A.V. Alexandroff</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">06a</container>
+      <unittitle>Columbia Phonograph Co.: 7007-F,
+            <unitdate type="inclusive">1925?</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Main title in Greek characters</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 89608</p>
+      <p>
+         <title render="italic">Trelenome Yia Korte</title>
+      </p>
+      <p>Performer(s): M. Papagika, soprano, with orchestral accompaniment</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">06b</container>
+      <unittitle>Columbia Phonograph Co.: 7007-F,
+            <unitdate type="inclusive">1925?</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Main title in Greek characters</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 89612</p>
+      <p>
+         <title render="italic">M'Ena Fili Sou</title>
+      </p>
+      <p>Performer(s): M. Papagika, soprano, with orchestral accompaniment</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">07a</container>
+      <unittitle>Columbia Phonograph Co.: 36260,
+            <unitdate type="inclusive">1941?</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Crack in record</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: E-63 CO 29874</p>
+      <p>
+         <title render="italic">Masterpieces of Literature: Volume II: Our American Heritage: Album I: Prose: Selections from the farewell address of George Washington</title>
+      </p>
+      <p>Performer(s): Wesley Addy, narrator</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">07b</container>
+      <unittitle>Columbia Phonograph Co.: 36260,
+            <unitdate type="inclusive">1941?</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Crack in record</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: E-64 CO 29877</p>
+      <p>
+         <title render="italic">Masterpieces of Literature: Volume II: Our American Heritage: Album I: Prose: From the first inaugural address of Thomas Jefferson</title>
+      </p>
+      <p>Performer(s): Wesley Addy, narrator</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">08a</container>
+      <unittitle>Columbia Phonograph Co.: A 3449,
+            <unitdate type="inclusive">1921</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1921-06-21</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 79898</p>
+      <p>Grieg, Edvard, 1843-1907: </p>
+      <p>
+         <title render="italic">Solveig's Song from "Peer Gynt Suite No. 11" / Arranged by Eddy Brown</title>
+      </p>
+      <p>Arranger or co-composer: 
+            Brown, Eddy, 1895-1974</p>
+      <p>Performer(s): Eddy Brown, violin; Josef Bonime, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">08b</container>
+      <unittitle>Columbia Phonograph Co.: A 3449,
+            <unitdate type="inclusive">1921</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1921-06-24</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 79912</p>
+      <p>Chaminade, Cécile, 1857-1944: </p>
+      <p>
+         <title render="italic">Serenade Espagnole (Spanish Serenade) / transcription by Kreisler</title>
+      </p>
+      <p>Arranger or co-composer: 
+            Kreisler, Fritz, 1875-1962</p>
+      <p>Performer(s): Eddy Brown, violin; Josef Bonime, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">09a</container>
+      <unittitle>Continental: C 2004-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: S80</p>
+      <p>Monti, Vittorio, 1868-1922: </p>
+      <p>
+         <title render="italic">Monty czardas</title>
+      </p>
+      <p>Performer(s): Arno Levitch, violin</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">09b</container>
+      <unittitle>Continental: C-2004-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: S81</p>
+      <p>Boulanger, Georges: </p>
+      <p>
+         <title render="italic">Avant de Mourier</title>
+      </p>
+      <p>Performer(s): Arno Levitch, violin</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">10a</container>
+      <unittitle>Csardas: MR-38-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: 731</p>
+      <p>Pali, Pertis, 1906-1947: </p>
+      <p>
+         <title render="italic">Pertis Pali Keringöje</title>
+      </p>
+      <p>Performer(s): Pertis Pali, violin and his band from the Hotel Vadaszkurt, Budapest</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">10b</container>
+      <unittitle>Csardas: MR-38-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 732</p>
+      <p>Radics, Béla: </p>
+      <p>
+         <title render="italic">Tatiana keringo</title>
+      </p>
+      <p>Performer(s): Pertis Pali, violin and his band from the Hotel Vadaszkurt, Budapest</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">11a</container>
+      <unittitle>Emerson Record: 5117,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 5 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1108-1-11</p>
+      <p>Dillon, William A., 1877-: </p>
+      <p>
+         <title render="italic">My Grandfather's Girl: Baritone solo</title>
+      </p>
+      <p>Performer(s): Morton Harvey, baritone</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">12a</container>
+      <unittitle>Emerson Record: No. 7273,
+            <unitdate type="inclusive">1916</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 7 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: 2740</p>
+      <p>Jacobs-Bond, Carrie, 1862-1946: </p>
+      <p>
+         <title render="italic">I love you truly</title>
+      </p>
+      <p>Performer(s): Alice Louise Mertens, vocalist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">12b</container>
+      <unittitle>Emerson Record: No. 7273,
+            <unitdate type="inclusive">1916</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 7 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 2748-2</p>
+      <p>Barth, Con: </p>
+      <p>
+         <title render="italic">Just you</title>
+      </p>
+      <p>Performer(s): Frank Woods, vocalist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">13a</container>
+      <unittitle>Golden Star Radio Company: GS-2338-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: GS-2338-A</p>
+      <p>
+         <title render="italic">Wind in May</title>
+      </p>
+      <p>Performer(s): Zhou Xuan, vocalist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">13b</container>
+      <unittitle>Golden Star Radio Company: GS-2338-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: GS-2338-B</p>
+      <p>
+         <title render="italic">Spring at Zhongshan</title>
+      </p>
+      <p>Performer(s): Zhou Xuan</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">14a</container>
+      <unittitle>Golden Star Radio Company: M 16A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: A-5300</p>
+      <p>
+         <title render="italic">Autumn Moon over the Placid West Lake</title>
+      </p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">14b</container>
+      <unittitle>Golden Star Radio Company: M 16 B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+
+   </did>
+   <scopecontent>
+      <p>Matrix number: A-5301</p>
+      <p>
+         <title render="italic">Return Yan</title>
+      </p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">15a</container>
+      <unittitle>Good Time Jazz: EP 1004,
+            <unitdate type="inclusive">1953</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 45 rpm sound disc ; 7 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Extended Play, 45 RPM</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: LKX-7-D-1</p>
+      <p>Ory, Kid, 1886-1973: </p>
+      <p>
+         <title render="italic">Muskrat Ramble by Kid Ory; Rumpus Rag by Don Ewell</title>
+      </p>
+      <p>Performer(s): Don Ewell, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">15b</container>
+      <unittitle>Good Time Jazz: EP 1004,
+            <unitdate type="inclusive">1953</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 45 rpm sound disc ; 7 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Extended Play, 45 RPM</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: LKX 8</p>
+      <p>Ewell, Don: </p>
+      <p>
+         <title render="italic">Parlor Social by Don Ewell; Wild Man Blues by Morton &amp; Armstrong</title>
+      </p>
+      <p>Arranger or co-composer: 
+            Morton, Jelly Roll, -1941; Armstrong, Louis, 1901-1971-Co-composers</p>
+      <p>Performer(s): Don Ewell, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">16a</container>
+      <unittitle>Gramophone Co.: DA-4905,
+            <unitdate type="inclusive">1925</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: OLA 1438-1</p>
+      <p>Fauré, Gabriel, 1845-1924: </p>
+      <p>
+         <title render="italic">Soir</title>
+      </p>
+      <p>Lyricist: Samain, Albert, 1858-1900</p>
+      <p>Performer(s): Charles Panzéra, baritone; Magdeleine Panzéra-Baillot, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">16b</container>
+      <unittitle>Gramophone Co.: DA-4905,
+            <unitdate type="inclusive">1925</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: OLA 1439-1</p>
+      <p>Fauré, Gabriel, 1845-1924: </p>
+      <p>
+         <title render="italic">Nocturne</title>
+      </p>
+      <p>Lyricist: Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889</p>
+      <p>Performer(s): Charles Panzéra, baritone; Magdeleine Panzéra-Baillot, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">17a</container>
+      <unittitle>His Master's Voice (Austria): BA 701,
+            <unitdate type="inclusive">1929?</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1929-05-23</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: BLR 5403</p>
+      <p>Gruber, Franz Xaver, 1787-1863: </p>
+      <p>
+         <title render="italic">Stille Nacht, heilige Nacht</title>
+      </p>
+      <p>Performer(s): St. Gabriel-Chor [with organ, bells and orchestra]</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">17b</container>
+      <unittitle>His Master's Voice (Austria): BA 701,
+            <unitdate type="inclusive">1929?</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1929-11-29</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: BN 867</p>
+      <p>
+         <title render="italic">Glocken der Erzabtei Beuron</title>
+      </p>
+      <p>Performer(s): Church bells cast by Georg Wolfart in Lauigen, Bavaria</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">18a</container>
+      <unittitle>His Master's Voice (Berliner Gramophone Co.): 397,
+            <unitdate type="inclusive">1908</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Beneath His Master's Voice on label: "Victor"</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 18752-A</p>
+      <p>Sousa, John Philip, 1854-1932: </p>
+      <p>
+         <title render="italic">On the Campus-March</title>
+      </p>
+      <p>Performer(s): Sousa's Band</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">18b</container>
+      <unittitle>His Master's Voice (Berliner Gramophone Co.): 397,
+            <unitdate type="inclusive">1908</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Beneath His Master's Voice on label: "Victor"</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 18752-B</p>
+      <p>Sousa, John Philip, 1854-1932: </p>
+      <p>
+         <title render="italic">Bullets and Bayonets-March</title>
+      </p>
+      <p>Performer(s): Sousa's Band</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">19a</container>
+      <unittitle>His Master's Voice (Gramophone Co.): D.A. 1929,
+            <unitdate type="inclusive">1949</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>The lyricist is stated as Victoria Gomez Cima, the given name for Victoria De los Angeles</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: OEA 13829-1</p>
+      <p>Alvarez Quintero, Serafín,  1871-1938: </p>
+      <p>
+         <title render="italic">Saeta</title>
+      </p>
+      <p>Lyricist: Angeles, Victoria de los</p>
+      <p>Performer(s): Victoria De los Angeles, soprano; Philharmonia Orchestra; Walter Susskind, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">19b</container>
+      <unittitle>His Master's Voice (Gramophone Co.): D.A. 1929,
+            <unitdate type="inclusive">1949</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: OEA 13830-2</p>
+      <p>Campoamor, Manuel: </p>
+      <p>
+         <title render="italic">Cantares (No. 3 of "Poema en forma de canciones")</title>
+      </p>
+      <p>Arranger or co-composer: 
+            Turina, Joaquín, 1882-1949</p>
+      <p>Performer(s): Victoria de los angeles, soprano; Philharmonia Orchestra; Walter Susskind, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">20a</container>
+      <unittitle>His Master's Voice (Gramophone Co.): E.G. 3687,
+            <unitdate type="inclusive">1935</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: ORA 1075</p>
+      <p>Schubert, Franz, 1797-1828: </p>
+      <p>
+         <title render="italic">An Sylvia</title>
+      </p>
+      <p>Performer(s): Karl Erb, tenor; Bruno Seidler-Winkler, pianist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">20b</container>
+      <unittitle>His Master's Voice (Gramophone Co.): E.G. 3687,
+            <unitdate type="inclusive">1935</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>From  Gesänge, op. 70</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: ORA 1080</p>
+      <p>Brahms, Johannes, 1833-1897: </p>
+      <p>
+         <title render="italic">Lerchengesang</title>
+      </p>
+      <p>Performer(s): Karl Erb, tenor; Bruno Seidler-Winkler, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">21a</container>
+      <unittitle>His Master's Voice (Gramophone Co.): HE 2272,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: BLR 5828</p>
+      <p>Strauss, Johann, 1825-1899: </p>
+      <p>
+         <title render="italic">Morgenblätter Walzer</title>
+      </p>
+      <p>Performer(s): Marek Weber Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">21b</container>
+      <unittitle>His Master's Voice (Gramophone Co.): HE 2272,
+            <unitdate type="inclusive">1900</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: BLR 5829</p>
+      <p>Strauss, Johann, 1825-1899: </p>
+      <p>
+         <title render="italic">Du und du (Walzer aust "Die Fledermaus")</title>
+      </p>
+      <p>Performer(s): Marek Weber Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">22a</container>
+      <unittitle>Howell Recording Studio: HTT-101 A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: HTT 101 A</p>
+      <p>Houghton College Trio: </p>
+      <p>
+         <title render="italic">He Keeps Me Smiling</title>
+      </p>
+      <p>Performer(s): Houghton College Trumpet Trio: Ronald Kerr, Robert Mackenzie, and Robert Vogan, trumpets; David Childs, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">22b</container>
+      <unittitle>Howell Recording Studio: HTT-101 B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: HTT 101 B</p>
+      <p>Clayton, Norman J.: </p>
+      <p>
+         <title render="italic">Now I Belong to Jesus</title>
+      </p>
+      <p>Performer(s): Houghton College Trumpet Trio: Ronald Kerr, Robert Mackenzie, and Robert Vogan, trumpets; David Childs, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">23a</container>
+      <unittitle>London: W. 7148,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>From Piano concerto no. 1</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: DR 7920-2</p>
+      <p>Tchaikovsky, Peter Ilich, 1840-1893: </p>
+      <p>
+         <title render="italic">Theme from the Concerto in B minor (Tchaikovsky, arr. King Palmer)</title>
+      </p>
+      <p>Arranger or co-composer: 
+            Palmer, King</p>
+      <p>Performer(s): Richard Crean and his Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">23b</container>
+      <unittitle>London: W. 7148,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: DR 7921-2</p>
+      <p>Provost, Heinz, 1891-1959: </p>
+      <p>
+         <title render="italic">Intermezzo from "Escape to Happiness"</title>
+      </p>
+      <p>Performer(s): Richard Crean and his Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">24a</container>
+      <unittitle>Masterpiece (Musicraft Records): 8531-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1592-1</p>
+      <p>Strauss, Johann, 1825-1899: </p>
+      <p>
+         <title render="italic">Southern Roses</title>
+      </p>
+      <p>Performer(s): Concert Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">24b</container>
+      <unittitle>Masterpiece (Musicraft Records): 8531-A,
+            <unitdate type="inclusive">1900</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: O8-1588-1</p>
+      <p>Strauss, Johann, 1825-1899: </p>
+      <p>
+         <title render="italic">Voices of Spring</title>
+      </p>
+      <p>Performer(s): Concert Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">25a</container>
+      <unittitle>Paraclete: 14 A,
+            <unitdate type="inclusive">1942</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 14A</p>
+      <p>Scriabin, Aleksandr Nikolayevich, 1872-1915: </p>
+      <p>
+         <title render="italic">Preludes opp. 33 (4) ; 45 (3) ; 74 (5)</title>
+      </p>
+      <p>Performer(s): Samuel Yaffe, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">25b</container>
+      <unittitle>Paraclete: 14 B,
+            <unitdate type="inclusive">1942</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: 14B</p>
+      <p>Scriabin, Aleksandr Nikolayevich, 1872-1915: </p>
+      <p><title render="italic">Preludes opp. 67 (2) ; 31 (4) Etude in Fifths</title>
+      </p>
+      <p>Performer(s): Samuel Yaffe, piano</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">26a</container>
+      <unittitle>Parlophone (Odeon Series): P.O. 157,
+            <unitdate type="inclusive">19--</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1932-04</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: Be 9905</p>
+      <p>Mozart, Wolfgang Amadeus, 1756-1791: </p>
+      <p>
+         <title render="italic">Magic Flute: Act 2, Pamina's Aria: "Ach ich fühl’s, es ist Verschwunden"</title>
+      </p>
+      <p>Lyricist: Schikaneder, Emanuel, 1751-1812</p>
+      <p>Performer(s): Lotte Lehmann, soprano; Orchestra, ensemble; Manfred Gurlitt, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">26b</container>
+      <unittitle>Parlophone (Odeon Series): P.O. 157,
+            <unitdate type="inclusive">19--</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+     
+         <p>*second lyricist Giacosa, Giuseppe, 1847-1906</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: Be 9908</p>
+      <p>Puccini, Giacomo, 1858-1924: </p>
+      <p>
+         <title render="italic">Madame Butterfly: Act 1, Entrance of Butterfly</title>
+      </p>
+      <p>Lyricist: Illica, Luigi, 1857-1919</p>
+      <p>Performer(s): Lotte Lehmann, soprano; chorus and orchestra, ensemble; Manfred Gurlitt, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">27a</container>
+      <unittitle>Parlophone (Odeon Series): P.O. 158,
+            <unitdate type="inclusive">1900</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: Be 10388</p>
+      <p>Albert, Eugen, 1864-1932: </p>
+      <p>
+         <title render="italic">Toten Augen "Psyche wandelt durch säulenhallen"</title>
+      </p>
+      <p>Performer(s): Lotte Lehmann, soprano; orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">27b</container>
+      <unittitle>Parlophone (Odeon Series): P.O. 158,
+            <unitdate type="inclusive">1933</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: Be 10389</p>
+      <p>Mozart, Wolfgang Amadeus, 1756-1791: </p>
+      <p>
+         <title render="italic">Marriage of Figaro. Act 4 "O Why so long delay"</title>
+      </p>
+      <p>Lyricist: Da Ponte, Lorenzo, 1749-1838</p>
+      <p>Performer(s): Lotte Lehmann, soprano; orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">28a</container>
+      <unittitle>Parlophone (Odeon Series): P.O. 163,
+            <unitdate type="inclusive">1950</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: Be 94952</p>
+      <p>Strauss, Johann, 1825-1899: </p>
+      <p>
+         <title render="italic">Fledermaus. Act 2. Czardas: "Klänge der Heimat"</title>
+      </p>
+      <p>Lyricist: Haffner, Karl, 1804-1874 and Genée, Richard, 1823-1895</p>
+      <p>Performer(s): Lotte Lehmann, soprano, with Orchestra, Dr. Weissmann, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">28b</container>
+      <unittitle>Parlophone (Odeon Series): P.O. 163,
+            <unitdate type="inclusive">1950</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: Be 9496</p>
+      <p>Strauss, Johann, 1825-1899: </p>
+      <p>
+         <title render="italic">Fledermaus. Act I Couplet: "Mein Herr was dachten Sie von mir?"</title>
+      </p>
+      <p>Lyricist: Haffner, Karl, 1804-1874 and Genée, Richard, 1823-1895</p>
+      <p>Performer(s): Lotte Lehmann, soprano, with Orchestra, Dr. Weissmann conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">29a</container>
+      <unittitle>RCA Victor: 1616-A,
+            <unitdate type="inclusive">1933</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1616-A</p>
+      <p>Di Capua, Eduardo, 1864-1917: </p>
+      <p>
+         <title render="italic">O Sole Mio</title>
+      </p>
+      <p>Performer(s): Enrico Caruso, tenor; Victor Symphony Orchestra [conducted by Nathaniel Shilkret?]</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">29b</container>
+      <unittitle>RCA Victor: 1616-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1616-B</p>
+      <p>Verdi, Giuseppe, 1813-1901: </p>
+      <p>
+         <title render="italic">Rigoletto-La donna é mobile</title>
+      </p>
+      <p>Lyricist: Piave, Francesco Maria, 1810-1876</p>
+      <p>Performer(s): Enrico Caruso, tenor; Victor Symphony Orchestra [conducted by Nathaniel Shilkret?]</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">30a</container>
+      <unittitle>RCA Victor: 1901-A,
+            <unitdate type="inclusive">1938</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1937-10-17</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1901A</p>
+      <p>Wagner, Richard, 1813-1883: </p>
+      <p>
+         <title render="italic">Walküre-Du Bist Der Lenz (The Valkyrie-Thou Art the Spring) Act 1</title>
+      </p>
+      <p>Lyricist: Wagner, Richard, 1813-1883</p>
+      <p>Performer(s): Kirsten Flagstad, soprano; Philadelphia Orchestra; Eugene Ormandy, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">30b</container>
+      <unittitle>RCA Victor: 1901-B,
+            <unitdate type="inclusive">1938</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1937-10-17</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1901-B</p>
+      <p>Wagner, Richard, 1813-1883: </p>
+      <p>
+         <title render="italic">Lohengrin-Euch lüften die mein klagen (Ye Wandering Breeze)</title>
+      </p>
+      <p>Lyricist: Wagner, Richard, 1813-1883</p>
+      <p>Performer(s): Kirsten Flagstad, soprano; Philadelphia Orchestra; Eugene Ormandy, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">31a</container>
+      <unittitle>RCA Victor: 1738-A,
+            <unitdate type="inclusive">1936</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1930-04-28</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: BLR 6302</p>
+      <p>Mozart, Wolfgang Amadeus, 1756-1791: </p>
+      <p>
+         <title render="italic">Zauberflöte-O Isis und Osiris (The Magic Flute-O Osis and Osiris) (Act 2)</title>
+      </p>
+      <p>Lyricist: Schikaneder, Emanuel,  1751-1812</p>
+      <p>Performer(s): Alexander Kipnis, bass; Berlin State Opera Orchestra; Clemens Schmalstich, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">31b</container>
+      <unittitle>RCA Victor: 1738-B,
+            <unitdate type="inclusive">1936</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1931-04-10</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: OD 297</p>
+      <p>Mozart, Wolfgang Amadeus, 1756-1791: </p>
+      <p>
+         <title render="italic">Entfuhrung aus Dem Serail-Wer Ein Liebchen Hat Gefunden (If a sweetheart one has met with) Act 1</title>
+      </p>
+      <p>Lyricist: Stephanie, Gottlieb,  1741-1800</p>
+      <p>Performer(s): Alexander Kipnis, bass; Berlin State Opera Orchestra; Erich Orthmann, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">32a</container>
+      <unittitle>RCA Victor: 1906-A,
+            <unitdate type="inclusive">1939</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1906-A</p>
+      <p>Schumann, Robert, 1810-1856: </p>
+      <p>
+         <title render="italic">Er und sie (He and she) (op. 78, no. 2) (Orchestrated by Bruno Reibold)</title>
+      </p>
+      <p>Lyricist: Kerner, Justinus</p>
+      <p>Performer(s): Lotte Lehmann, soprano; Lauritz Melchior, tenor; Orchestra conducted by Bruno Reibold</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">32b</container>
+      <unittitle>RCA Victor: 1906-B,
+            <unitdate type="inclusive">1939</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: 1906-B</p>
+      <p>Schumann, Robert, 1810-1856: </p>
+      <p>
+         <title render="italic">Ich denke dein (I think of thee) (op. 78, no. 3)</title>
+      </p>
+      <p>Performer(s): Lotte Lehmann, soprano; Lauritz Melchior, tenor; Orchestra conducted by Bruno Reibold</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">33a</container>
+      <unittitle>RCA Victor: 1907-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Orchestrated by Bruno Reibold</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: M 560-3</p>
+      <p>Schumann, Robert, 1810-1856: </p>
+      <p>
+         <title render="italic">Familien-Gemalde (Family Portrait)</title>
+      </p>
+      <p>Arranger or co-composer: Reibold, Bruno</p>
+      <p>Performer(s): Lotte Lehmann, soprano; Lauritz Melchior, tenor; with orchestra conducted by Bruno Reibold</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">33b</container>
+      <unittitle>RCA Victor: 1907-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+        
+         <p>Orchestrated by Bruno Reibold</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: M 560-4</p>
+      <p>Schumann, Robert, 1810-1856: </p>
+      <p>
+         <title render="italic">1. So Wahr die Sonne Scheinet (Op. 37, No. 12) (True as the Sun Shines)
+2. Unterm Fenster (Op. 34, No. 3) (Under the Window)</title>
+      </p>
+      <p>Arranger or co-composer: 
+            Reibold, Bruno</p>
+      <p>Performer(s): Lotte Lehmann, soprano; Lauritz Melchior, tenor; with orchestra conducted by Bruno Reibold</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">34a</container>
+      <unittitle>RCA Victor: 2109-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1940-02-26</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: M 692-3</p>
+      <p>Schubert, Franz, 1797-1828: </p>
+      <p>
+         <title render="italic">Winterreise (The Winter Journey) : 15. Die Krähe (The Raven)</title>
+      </p>
+      <p>Lyricist: Müller, Wilhelm,  1794-1827</p>
+      <p>Performer(s): Lotte Lehmann, soprano; Paul Ulanowsky, pianist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">34b</container>
+      <unittitle>RCA Victor: 2109-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1940-02-26</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: M 692-4</p>
+      <p>Schubert, Franz, 1797-1828: </p>
+      <p>
+         <title render="italic">Winterreise (The Winter Journey): 19. Taüschung (Illusion) ; 22. Mut (Courage)</title>
+      </p>
+      <p>Lyricist: Müller, Wilhelm,  1794-1827</p>
+      <p>Performer(s): Lotte Lehmann, soprano; Paul Ulanowsky, pianist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">35a</container>
+      <unittitle>RCA Victor: 2110-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: M 702-1</p>
+      <p>Mozart, Wolfgang Amadeus, 1756-1791: </p>
+      <p>
+         <title render="italic">Il Seraglio-Act II: Blondine's Aria-Avec de la tendresse 
+(With Tenderness and Coaxing)</title>
+      </p>
+      <p>Performer(s): Lily Pons, soprano; Victor Symphony Orchestra</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">35b</container>
+      <unittitle>RCA Victor: 2110-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: M 702-2</p>
+      <p>Paradies, Pietro Domenico, 1707-1791: </p>
+      <p>
+         <title render="italic">Arietta-Quel Ruscelletto (That Little Brook)</title>
+      </p>
+      <p>Performer(s): Lily Pons, soprano; Renaissance Quintet, ensemble</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">36a</container>
+      <unittitle>RCA Victor: M 986,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1941-07-01</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 10-1122-A</p>
+      <p>Massenet, Jules, 1842-1912: </p>
+      <p>
+         <title render="italic">Élegie (Song of the Mourning)</title>
+      </p>
+      <p>Performer(s): Marian Anderson, contralto; William Primrose, violist; Franz Rupp, pianist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">36b</container>
+      <unittitle>RCA Victor: M 986,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1941-07-01</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 10-1122-B</p>
+      <p>Rachmaninoff, Sergei, 1873-1943: </p>
+      <p>
+         <title render="italic">When Night Descends, Op. 4, No. 3</title>
+      </p>
+      <p>Performer(s): Marian Anderson, contralto; William Primrose, violist; Franz Rupp, pianist</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">37a</container>
+      <unittitle>RCA Victor: 10-1200-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: 10-1200-A</p>
+      <p>Verdi, Giuseppe, 1813-1901: </p>
+      <p>
+         <title render="italic">Rigoletto Act 1 : Questa o quella (The One is as Fair as the Other)</title>
+      </p>
+      <p>Performer(s): Jussi Björling, vocalist; Nils Grevillius, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">37b</container>
+      <unittitle>RCA Victor: 10-1200-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: 10-1200-B</p>
+      <p>Puccini, Giacomo, 1858-1924: </p>
+      <p>
+         <title render="italic">Turandot: Act III
+NESSUN DORMA
+(None Shall Sleep)</title>
+      </p>
+      <p>Performer(s): Jussi Björling, vocalist; Nils Grevillius, conductor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">38a</container>
+      <unittitle>Royale: 1742,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: BT 2123</p>
+      <p>Schumann, Robert, 1810-1856: </p>
+      <p>
+         <title render="italic">Träumerei</title>
+      </p>
+      <p>Performer(s): Fred Hartley Quintet</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">38b</container>
+      <unittitle>Royale: 1742,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+     
+   </did>
+   <scopecontent>
+      <p>Matrix number: BT 2129</p>
+      <p>Rubinstein, Anton, 1829-1894: </p>
+      <p>
+         <title render="italic">Romance</title>
+      </p>
+      <p>Performer(s): Fred Hartley Quintet</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">39a</container>
+      <unittitle>Victrola: 502-A,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: 502-A</p>
+      <p>Cottrau, Teodoro, 1827-1879: </p>
+      <p>
+         <title render="italic">L'Addio a Napoli (Farewell to Naples)</title>
+      </p>
+      <p>Performer(s): Enrico Caruso, tenor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">39b</container>
+      <unittitle>Victrola: 502-B,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      
+   </did>
+   <scopecontent>
+      <p>Matrix number: 502-B</p>
+      <p>De Curtis, Ernesto, 1875-1937: </p>
+      <p>
+         <title render="italic">Canta pe' me (Sing for Me)</title>
+      </p>
+      <p>Lyricist: Bovio, Libero, 1883-1942</p>
+      <p>Performer(s): Enrico Caruso, tenor</p>
+   </scopecontent>
+</c01>
+<c01 level="item">
+   <did>
+      <container type="box">1</container>
+      <container type="item">40a</container>
+      <unittitle>RCA Victor: 64758,
+            <unitdate type="inclusive">undated</unitdate>
+      </unittitle>
+      <physdesc>
+         <extent>1 side of 1 78 rpm sound disc ; 10 inches </extent>
+      </physdesc>
+      <note>
+         <p>Recorded: 1917-11-09</p>
+      </note>
+   </did>
+   <scopecontent>
+      <p>Matrix number: 64758</p>
+      <p>Drigo, Riccardo, 1846-1930: </p>
+      <p><title render="italic">Valse Bluette (Air de ballet)</title>
+      </p>
+      <p>Arranger or co-composer: 
+            Auer, Leopold, 1845-1930</p>
+      <p>Performer(s): Jascha Heifetz, violinist; André Benoist, pianist</p>
+   </scopecontent>
+</c01>
+			 
+			 
+				
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" encodinganalog="650">Popular music</subject> 
+<subject source="lcsh" encodinganalog="650">Music--20th century</subject>		  
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">Sound
+			 recordings</genreform> 
+		  <genreform encodinganalog="655" source="aat">Interviews</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

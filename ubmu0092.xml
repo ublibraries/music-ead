@@ -1,0 +1,2666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu"
+	  encodinganalog="identifier"
+	  publicid="-//State University of New York at Buffalo::Music Library//TEXT
+		(US::NBuU-Mu::Mus. Arc. 92::Carol June Bradley Papers)//EN">ubmu0092</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Finding Aid for Carol June Bradley
+			 Papers, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian"
+			  type="inclusive" normal="1900/2010" certainty="approximate">circa
+				1900-2010</date> 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="bulk"
+			  normal="1960/1999">(bulk, 1960-1999)</date> </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Bradley (Carol June)
+			 Papers</titleproper> 
+		  <author encodinganalog="contributor">Finding aid prepared by John
+			 Bewley.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">State University of New York at
+			 Buffalo. Music Library</publisher> 
+		  <address> 
+			 <addressline>112 Baird Hall</addressline> 
+			 <addressline>Buffalo, New York 14260-4750</addressline> 
+			 <addressline>United States</addressline> 
+			 <addressline>Phone: 716 645-2924</addressline> 
+			 <addressline>Fax: 716 645-3906</addressline> 
+			 <addressline>Email:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest"
+				 show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>URL:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/"
+				 actuate="onrequest" show="new"
+				 role="text/html">http://library.buffalo.edu/music/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>© 
+			 <date type="publication" encodinganalog="date">2019</date>. State
+			 University of New York at Buffalo. All rights reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD by John Bewley, January 2019.
+		  </creation> 
+		<langusage>Finding aid written in
+		  <language encodinganalog="language"
+			langcode="eng">English.</language></langusage> 
+		<descrules>Finding aid prepared using DACS ( 
+		  <title render="italic">Describing Archives: A Content Standard
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Collection Overview</head> 
+		<unittitle label="Title" encodinganalog="245$a">Carol June Bradley
+		  Papers, 
+		  <unitdate encodinganalog="245$f" normal="1973/1988" type="inclusive"
+			datechar="creation" certainty="approximate">circa 1900-2010</unitdate> 
+		  <unitdate encodinganalog="245$g" era="ce" calendar="gregorian"
+			type="bulk" normal="1960/1999">(bulk, 1960-1999)</unitdate> </unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu"
+		 label="Collection Number">Mus. Arc. 92</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Bradley,
+			 Carol June</persname> </origination> 
+		<physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">69
+		  boxes</extent> </physdesc> 
+		<langmaterial label="Language of Material"
+		 encodinganalog="546">Collection material chiefly in
+		  <language encodinganalog="041" langcode="eng">English</language>.
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>State University of New York at Buffalo. <subarea>Music
+			 Library.</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a">Contains the extensive
+		  research papers of music librarian Carol June Bradley, including biographical
+		  information about fifteen American music librarians, files compiled in
+		  preparation of her history of music libraries in the United States, documents
+		  pertaining to the history of the Music Library Association, teaching materials
+		  used in courses in the Music Librarianship graduate program at the University
+		  at Buffalo, collected writings by other authors about librarianship, a
+		  bibliography of song literature for singers, her research about song
+		  literature, and her personal, business-related correspondence.</abstract> 
+	 </did> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Preferred Citation</head> 
+		  <p>[Specified item], Carol June Bradley Papers, circa 1900-2010 (bulk,
+			 1960-1999), Music Library, The State University of New York at Buffalo.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Terms of Access</head> 
+		  <p>Materials can be examined by qualified researchers in the Music
+			 Library during hours of operation during which Music Librarians are present. In
+			 order to insure access, researchers are advised to contact the Music Library in
+			 advance of visits. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>Copyright for the materials in the collection does not reside with
+			 the Music Library. Therefore, patrons wishing to publish any item, or part of
+			 an item from this collection for any purpose, are responsible for securing
+			 requisite permissions. </p> 
+		</userestrict> 
+	 </descgrp> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Acquisition Information</head> 
+		  <p>Gift of Carol June Bradley. The bulk of the collection was donated
+			 in 1978 but additions continued until Bradley's death. </p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Accruals and Additions</head> 
+		  <p>No further accruals are expected to this collection.</p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Information</head> 
+		  <p>Processed by John Bewley.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Carol June Bradley was born 12 August 1934 to George and Alice
+		  (Bolinger) Bradley in the central Pennsylvania town of Huntingdon. Her family
+		  later relocated to Carlisle, Pennsylvania. Bradley demonstrated her writing
+		  ability while still a high school student when she won first prize in the
+		  Lamberton Essay contest with her essay about the Irving Female College. She
+		  attended Lebanon Valley College in Annville, Pennsylvania to major in music
+		  education, graduating in 1956. However, she did not have a positive reaction to
+		  her student teaching experience, and with advice from a school librarian in
+		  Carlisle, decided to attend library school at Western Reserve University. She
+		  earned her M.S. degree there in 1957. During her college years Bradley also
+		  studied violin, attending summer sessions at Chautauqua Institute where she
+		  studied with Hortense and Mischa Mischakoff. She continued her education with a
+		  Ph.D. program in Library Science, earning the degree in 1978.</p> 
+		<p> Bradley began her career as a music librarian in 1957 at the Free
+		  Library in Philadelphia where she was responsible for the Drinker Library of
+		  Choral Music. She wrote a history of the Edwin A. Fleisher Music Collection at
+		  the Free Library that served as her M.S. thesis in library science at Western
+		  Reserve University. Bradley left Philadelphia in 1959 to accept a new position
+		  at West Point Military Academy. Her tour of duty at the academy was brief but
+		  distinguished. She established a music library and also conducted a regular
+		  series of recorded concerts and pre-opera seminars. She left in 1960 to join
+		  the staff of the music library at nearby Vassar College. This began her long
+		  association with James B. Coover and provided her with the years of experience
+		  in technical services that shaped much of her later scholarly work.</p> 
+		<p>The George Sherman Dickinson Music Library at Vassar College used
+		  Dickinson’s own classification scheme for its music collection. Bradley became
+		  the leading authority on this classification system and later adopted it for
+		  use at the University at Buffalo. She wrote and published the chief guide to
+		  the system in 1968: 
+		<title render="italic">The Dickinson Classification: A Cataloguing and
+		  Classification Manual for Music</title>. </p> 
+		<p>Bradley moved to Buffalo in 1968 to begin work as the associate
+		  director of the newly established University at Buffalo Music Library,
+		  reporting once again to James B. Coover who was hired as director. Both Coover
+		  and Bradley remained in their positions until retirement in 1999. As adjunct
+		  professor at the University at Buffalo, Bradley, with James B. Coover,
+		  co-founded and co-directed a double master's program in music librarianship.
+		  She was instrumental in designing and administering the rigorous program that
+		  successfully trained a new generation of skilled music librarians. </p> 
+		<p>Carol June Bradley conducted groundbreaking and extensive research
+		  into the history of music libraries and music librarianship in the United
+		  States. Her first work based on this was her doctoral dissertation, 
+		<title render="italic">The genesis of American music librarianship,
+		  1902-1942</title> (1978). Other works about music librarianship included 
+		<title render="italic">American music librarianship : a biographical and
+		  historical survey</title> (1990) and 
+		<title render="italic">American music librarianship : a research and
+		  information guide</title> (2005).</p> 
+		<p>The excellence of Carol June Bradley's work as researcher and teacher
+		  was recognized by the State University of New York when she was awarded the
+		  Chancellor's Award for Excellence in Librarianship in 1977. The Music Library
+		  Association presented its highest award, the MLA Citation, in recognition of
+		  Bradley's many contributions to music librarianship in 2001. At its 2003 annual
+		  meeting, MLA announced the establishment of the Carol June Bradley Award for
+		  Historical Research in Music Librarianship, an annual award to support studies
+		  that involve the history of music libraries or special collections; biographies
+		  of music librarians; studies of specific aspects of music librarianship; and
+		  studies of music library patrons' activities. The first award was granted in
+		  2004. </p> 
+		<p>In retirement, Bradley completed two life-long projects, an annotated
+		  bibliography of the field of American music librarianship (American Music
+		  Librarianship: A Research and Information Guide [New York: Routledge, 2005])
+		  and her 1,008-page index to song collections (Index to Poetry in Music: A Guide
+		  to the Poetry Set as Solo Songs by 125 Composers [New York: Routledge, 2003]).
+		  Carol June Bradley died in Buffalo, New York, 27 July 2009. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Contains the extensive research papers of music librarian Carol June
+		  Bradley, including biographical information about fifteen American music
+		  librarians, files compiled in preparation of her history of music libraries in
+		  the United States, documents pertaining to the history of the Music Library
+		  Association, teaching materials used in courses in the Music Librarianship
+		  graduate program at the University at Buffalo, collected writings by other
+		  authors about librarianship, a bibliography of song literature for singers, her
+		  research about song literature, and her personal, business-related
+		  correspondence. The collections consists of manuscript, print and photocopied
+		  content, with photocopies constituting approximately one half of the
+		  material.</p> 
+		<p>The collection includes a series of papers from librarian Richard
+		  Sloane Angell regarding the Music Library Association and his unpublished text,
+		  
+		<title render="italic">Music Library Organization</title>. Bradley also
+		assembled a collection of correspondence concerning Otto Kinkeldey.</p> 
+		<p>The original catalog description of the collection was stated as:
+		  "Collected correspondence, memoranda, writings and other papers, of American
+		  music librarians; together with research notes, tapes and transcripts of
+		  interviews, and photos, document1ng the history of American music librarianship
+		  and the activities of the Music Library Association. Persons represented
+		  include Otto Edwin Albrecht, Richard Sloane Angell, Richard Gilmore Appel,
+		  Lowell Pierson Beveridge, Gladys Chamberlain, Virginia Meeks Cunningham, George
+		  Shennan Dickinson, Carl Engel, Jessica Fredricks, Otto Kinkeldey, Catherine
+		  Nimitz Lay, Natalie Mestechin, Philip Lieson Miller, Eva Judd O'Meara,
+		  Elizabeth Schmitter, Carleton Sprague Smith, Oscar George Theodore Sonneck,
+		  Harold Spivacke, and Edward Neighbor Waters."</p> 
+		<p>The bulk of the collection was received in 1978. A description entry
+		  was created for the National Union Catalog of Manuscript Collections under the
+		  title 
+		<title render="italic">Collection of source materials documenting the
+		  history of music librarianship in the United States, 1901-1979, Carol Bradley,
+		  collector</title>. The same title was used for an entry in 
+		<title render="italic">Resources of American Music History</title>.
+		Access to the collection content was provided through an inventory, 
+		<title render="italic">Guide to the Collection of source materials
+		  documenting the history of music librarianship in the United States</title>.
+		That guide is now obsolete, replaced by the current finding aid. The order
+		presented in that guide, along with its descriptions, has largely been
+		maintained.</p> 
+		<p> As originally constituted, the collection also contained the cassette
+		  sound recordings of the interviews conducted by Carol June Bradley. These
+		  recordings now form a separate collection, Carol June Bradley Music
+		  Librarianship Oral History Recordings, 1973-1988.</p> 
+		<p>Over the remainder of the course of Carol June Bradley's career at the
+		  University at Buffalo Music Library (until her retirement in 1999), more
+		  material was added to the collection, and due to the vagaries of shifting the
+		  materials multiple times, it became more difficult to maintain the original
+		  source materials as a collection distinct from Bradley's other research
+		  materials. Therefore, all of Carol June Bradley's papers are now combined
+		  within this single collection. The original order of the collection was chiefly
+		  maintained even when it resulted in similar content, such as writings by other
+		  authors, being treated in separate series. Folder titles assigned by Bradley
+		  were also retained. Dating of materials at the series and box levels will be
+		  supplied at a later date.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>Arranged in fifteen series:</p> 
+		<list type="simple"> 
+		  <item> 
+			 <ref target="series1" actuate="onrequest" show="replace">I. Personal
+				documents and correspondence </ref> </item> 
+		  <item> 
+			 <ref target="series2" actuate="onrequest" show="replace">II. Personal
+				writings</ref> </item> 
+		  <item> 
+			 <ref target="series3" actuate="onrequest" show="replace">III. Music
+				librarians and librarianship</ref> </item> 
+		  <item> 
+			 <ref target="series4" actuate="onrequest" show="replace">IV. History
+				of music libraries in the United States</ref> </item> 
+		  <item> 
+			 <ref target="series5" actuate="onrequest" show="replace">V. Library
+				and music organizations</ref> </item> 
+		  <item> 
+			 <ref target="series6" actuate="onrequest" show="replace">VI. Music
+				librarianship articles by others</ref> </item> 
+		  <item> 
+			 <ref target="series7" actuate="onrequest" show="replace">VII. Music
+				librarianship subject folders</ref> </item> 
+		  <item> 
+			 <ref target="series8" actuate="onrequest" show="replace">VIII.
+				Teaching materials</ref> </item> 
+		  <item> 
+			 <ref target="series9" actuate="onrequest" show="replace">IX.
+				Supplemental librarianship research folders</ref> </item> 
+		  <item> 
+			 <ref target="series10" actuate="onrequest" show="replace">X. Song
+				literature research</ref> </item> 
+		  <item> 
+			 <ref target="series11" actuate="onrequest" show="replace">XI.
+				Collected publications and research sources</ref> </item> 
+		  <item> 
+			 <ref target="series12" actuate="onrequest" show="replace">XII.
+				Photographs</ref> </item> 
+		  <item> 
+			 <ref target="series13" actuate="onrequest" show="replace">XIII.
+				Richard Sloane Angell papers</ref> </item> 
+		  <item> 
+			 <ref target="series14" actuate="onrequest" show="replace">XIV. Otto
+				Kinkeldey papers</ref> </item> 
+		  <item> 
+			 <ref target="series15" actuate="onrequest" show="replace">XV. Related
+				materials</ref> </item> 
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series1">I.</unitid> 
+			 <unittitle>Personal documents and correspondence, </unittitle> 
+			 <physdesc> <extent>10 folders</extent> </physdesc> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Personal documents and correspondence, 
+				  <unitdate>1967-2009</unitdate></unittitle> 
+				<physdesc><extent>10 folders</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes vitae, obituaries, business correspondence (most of it
+				  written on her behalf for work issues), awards, and clippings.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series2">II.</unitid> 
+			 <unittitle>Personal writings, </unittitle> 
+			 <physdesc> <extent>5 boxes</extent> </physdesc> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Personal writings, part 1</unittitle> 
+				<physdesc><extent>10 folders</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Contains: 
+				  <list type="simple"> 
+					 <item>Authority and democracy, responsibility and
+						professionalism: an outline</item> 
+					 <item>Bibliography for singers (with notes and search
+						results)</item> 
+					 <item>Cataloging and classifying music</item> 
+					 <item>Genesis of American music librarianship, 1902-1942: a
+						prospectus</item> 
+					 <item>Music in American libraries: outline</item> 
+					 <item>Music libraries, in Women in music in America since
+						1900</item> 
+					 <item>The Music Library Association, 1931-1981</item> 
+					 <item>Oscar G. T Sonneck, architect of the National Music
+						Collection, in Libraries and culture (1981)</item> 
+					 <item>Reader in music librarianship: original
+						bibliography</item> 
+					 <item>Towards an automated record catalogue: a description of
+						the system used at The State University of New York at Buffalo</item> 
+				  </list> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Personal writings, part 2</unittitle> 
+				<physdesc><extent>6 items</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Contains: 
+				  <list type="simple"> 
+					 <item>Documentation: Bibliographic development in music</item> 
+					 <item>Manual of music librarianship (annotated copy with
+						typescript index, accompanied by folder of reviews)</item> 
+					 <item>Music Library Association's Manual of music librarianship
+						(typescript with editing marks)</item> 
+					 <item>Manual of music librarianship</item> 
+					 <item>Music libraries in North America (photocopy of typescript
+						with corrections)</item> 
+					 <item>Music libraries in North America (photocopy of pages
+						356-426 in Encyclopedia of library and information science, v. 18</item> 
+				  </list> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>Personal writings, part 3</unittitle> 
+				<physdesc><extent>3 items</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Contains: 
+				  <list type="simple"> 
+					 <item>Compilation of cataloging guidelines for University at
+						Buffalo Music Library</item> 
+					 <item>Dickinson classification: a cataloging and classification
+						manual for music (with annotations)</item> 
+					 <item>State University of New York at Buffalo Music Library
+						Subject headings (unattributed but presumably compiled by Bradley)</item> 
+				  </list> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4-5</container> 
+				<unittitle>Personal writings, part 4: research and writings on the
+				  Edwin A. Fleisher Music Collection</unittitle> 
+				<physdesc><extent>6 folders and 1 binder</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes Carol June Bradley's 1957 paper, 
+				<title render="italic">A history of the Edwin A. Fleisher Music
+				  Collection of the Free Library of Philadelphia</title>, multiple versions of
+				Harry L. Kownatsky's 
+				<title render="italic">The Edwin A. Fleisher Collection of
+				  Orchestral Music: a history</title>, documents from the Free Library of
+				Philadelphia, photographs, and Bradley's editing copy of Kownatsky's text. </p>
+				
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series3">III.</unitid> 
+			 <unittitle>Music librarians and librarianship</unittitle> 
+			 <physdesc> <extent>Box 6-32</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged into four subseries:</p> 
+			 <list type="simple"> 
+				<item> 
+				  <ref target="series3a" actuate="onrequest" show="replace">A.
+					 Music librarians</ref> </item> 
+				<item> 
+				  <ref target="series3b" actuate="onrequest" show="replace">B.
+					 Correspondence</ref> </item> 
+				<item> 
+				  <ref target="series3c" actuate="onrequest" show="replace">C.
+					 Research notes</ref> </item> 
+				<item> 
+				  <ref target="series3d" actuate="onrequest" show="replace">D.
+					 Supplementary materials</ref> </item> 
+			 </list> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Contains folders of content pertaining to the history of music
+				librarianship in the United States. It has been treated as received, using the
+				original organization and folder titles.</p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series3a">III.A</unitid> 
+				<unittitle>Music librarians </unittitle> 
+				<physdesc><extent>Box 6-26</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by surname.</p> 
+			 </arrangement> 
+			 <scopecontent>
+				<p>Content includes correspondence, material related to interviews
+				  conducted with the subjects, and supporting materials.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">6</container> 
+				  <unittitle>Albrecht, Otto to Dickinson, George
+					 Sherman</unittitle> 
+				  <physdesc><extent>15 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>ALBRECHT, OTTO EDWIN, 1899-1984.</head> 
+						<item>Fd. 1. Correspondence with Carol Bradley.</item> 
+						<item>Fd. 2. Partial transcription of taped interviews, May
+						  12 and 13, 1978, Philadelphia, PA.</item> 
+						<item>Fd. 3. Course notes, Music bibliography, Music 524,
+						  University of Pennsylvania, 1957/58.</item> 
+						<item>Fd. 4. Albrecht correspondence with various
+						  parties.</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>ANGELL, RICHARD SLOANE, 1905-1985.</head> 
+						<item>Fd. 1. Correspondence with CJB, 1973; biographical
+						  information; abstracts and partial transcription of taped interviews, May 7 and
+						  9, 1973, Washington, D.C. Correspondence between CJB and Thomas Watkins about
+						  Angell’s courses at Columbia.</item> 
+						<item>Fd. 2. Positive photocopies of papers and
+						  correspondence re Music Library Association, 1938-44; originals in the MLA
+						  Archives, University of Maryland, College Park.</item> 
+						<item>Fd. 3. Positive photocopies of Angell’s published
+						  writings: articles and reviews; laid chronologically.</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>CALDWELL, GLADYS, d. 1979.</head> 
+						<item>Fd. 1. Biographical information.</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>DICKINSON, GEORGE SHERMAN, 1888-1964.</head> 
+						<item>Fd. 1. Correspondence between Mrs. Bessie McClure
+						  Dickinson and CJB 1968-75. Partial transcription of taped interview with Mrs.
+						  Dickinson, May 13-15, 1971, Dunedin, Florida. Correspondence between CJB and
+						  Mrs. Mary McClure Miller, Dickinson's sister-in-law, 1978.</item> 
+						<item>Fd. 2. Correspondence between CJB and Ms Natalie
+						  Mestechin, 1973-75. Notes of interview in San Francisco, June 29 and 30, 1973.
+						  (Mestechin was Assistant Music Librarian, Vassar College, 1931-53.</item> 
+						<item>Fd. 3. Correspondence between Dickinson and .James B.
+						  Coover, 1960-64.</item> 
+						<item>Fd. 4. Positive photocopies of correspondence between
+						  Dickinson and Otto Kinkeldey, 1928-42; originals in Olin Library, Cornell
+						  University. Laid chronologically.</item> 
+						<item>Fd. 5. Positive photocopies of correspondence re Vassar
+						  College and the Music Library Association catalog code, 1935; originals in the
+						  MLA Archive, University of Maryland, College Park.</item> 
+						<item>Fd. 6. Positive photocopies of Dickinson's published
+						  writings: articles and reviews; laid chronologically.</item> 
+						<item>Fd. 7. Offprints of Dickinson's published
+						  writings.</item> 
+						<item>Fd. 7A. Offprints of Dickinson's published
+						  writings.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">7</container> 
+				  <unittitle>Dickinson, George Sherman (continued) - Vassar
+					 College</unittitle> 
+				  <physdesc><extent>14 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>DICKINSON, GEORGE SHERMAN, 1888-1964
+						  (continued).</head> 
+						<item>Fd. 8. The original edition of Dickinson's
+						  Classification of Musical Compositions, 1938.</item> 
+						<item>Fd. 9. Bulletins of summer sessions at various
+						  universities where Dickinson was a visiting professor. Programs of the first
+						  two George Sherman Dickinson Memorial Events, Vassar College. Miscellaneous
+						  offprints.</item> 
+						<item>Fd. 10. Biographical information, George Sherman
+						  Dickinson.</item> 
+						<item>Fd. 11. "Writings of G.S. Dickinson" (typescript).
+						  Curriculum vita, G.S. Dickinson, dated 12/24/52 (typescript). Typewritten lists
+						  of the books in Dickinson’s library at the time of his death. [All given by
+						  Mrs. Miller after Mrs. Dickinson’s death, 1978]</item> 
+						<item>Fd. 12. Correspondence with Mrs. Dickinson, 1967-72;
+						  from James B. Coover and CJB.</item> 
+					 </list> 
+					 <list> 
+						<head>VASSAR COLLEGE. MUSIC LIBRARY.</head> 
+						<item>Fd. 1. Positive photocopy, G.S. Dickinson “0ut1ine of
+						  the history of the Department of Music, Vassar College, 1863-1953”, dated April
+						  25, 1957.</item> 
+						<item>Fd. 2. Typescript histories of the Music Library, 1971,
+						  1979.</item> 
+						<item>Fd. 3. Photos of the Music Library.</item> 
+						<item>Fd. 4. Research notes re history of the Music Library.
+						  </item> 
+						<item>Fd. 4A. Packet of 5 x 8 cards. </item> 
+						<item>Fd. 5. Research notes and correspondence re the
+						  Darlington Collection. </item> 
+						<item>Fd. 6. Correspondence and notes re 1979 history,
+						  “Vassar’s Music Library--The first hundred years.” [Notes 35 (1978-79):
+						  819-41]</item> 
+						<item>Fd. 7. Positive photocopies of annual reports and
+						  related documents, 1953-61 with gaps. [James B. Coover]</item> 
+						<item>Fd. 8. Cataloguing statistics, 1960-67.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Vassar College (continued)</unittitle> 
+				  <physdesc><extent>5 folders, 2 printed texts, 1
+					 binder</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list> 
+						<head>VASSAR COLLEGE. MUSIC LIBRARY.</head> 
+						<item>Fd. 9. Positive photocopy of the Circulation Desk
+						  Manual, post-1953.</item> 
+						<item>Fd. 10. Positive photocopy of in-house index to the
+						  Vivaldi Collected Works, to 1967.</item> 
+						<item>Fd. 11 (1 and 2). Two versions of the cataloguing and
+						  classification manual used by the music cataloguer, to 1967. </item> 
+						<item>Fd. 11A. Packet of sample catalogue cards.</item> 
+						<item>[12]. Dickinson, G. S. Classification of Musical
+						  Compositions, 1938. Annotated to reflect the classification as used at Vassar
+						  College (2 copies).</item> 
+						<item>[13]. Binder: 
+						  <title render="italic">A guide to the thematic catalogue
+							 numbers used in the Library, as, or in place of, opus numbers</title>.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Vassar College (continued) - Duncan,
+					 Barbara</unittitle> 
+				  <physdesc><extent>12 folders and 2 binders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list> 
+						<head>VASSAR COLLEGE. MUSIC LIBRARY.</head> 
+						<item>[14]. Binder: A2, A3 contents: Composer's catalogues
+						  and Denkmäler at Vassar.</item> 
+						<item>[15]. Binder: Sample catalog cards for autograph
+						  letters at Vassar.</item> 
+					 </list> 
+					 <list> 
+						<head>DUNCAN, BARBARA, 188.2-1965.</head> 
+						<item>Fd. 1. Biographical information.</item> 
+						<item>Fd. 2. Positive photocopies of Duncan's published
+						  writings.</item> 
+						<item>Fd. 3. Positive photocopies of correspondence between
+						  Duncan and Otto Kinkeldey, 1931-38; originals in Olin Library, Cornell
+						  University. Includes Kinkeldey's description of the New York Musicological
+						  Society.</item> 
+						<item>Fd. 4. Positive photocopies of Duncan--MLA
+						  correspondence, 1933; originals in the Sibley Music Library.</item> 
+						<item>Fd. 5. Positive photocopies of Duncan--MLA
+						  correspondence, 1938; originals in the Sibley Music Library. Includes P.L.
+						  Miller's sample catalogue cards for records; typescript minutes, November
+						  19-20, 1937, MLA meeting, Smith College; typescript for Notes 1st series, no.
+						  6.</item> 
+						<item>Fd. 6. Positive photocopies of Duncan--MLA
+						  correspondence, 1939; originals in the Sibley Music Library. Includes
+						  correspondence preliminary to Eastman MLA meeting, November 1939.</item> 
+						<item>Fd. 7. Positive photocopies of Duncan--MLA
+						  correspondence, 1940-41; originals in the Sibley Music Library.</item> 
+						<item>Fd. 8. Correspondence between CJB and Charles
+						  Lindahl.</item> 
+						<item>Fd. 9. Positive photocopy of Duncan's outline for the
+						  development of the Brown Collection, Boston Public Library, 1925; original in
+						  the Sibley Music Library.</item> 
+						<item>Fd. 10. Positive photocopies of Duncan--H.C. Colles
+						  correspondence re ''---- rarities in the Brown Collection, 19 4; originals in
+						  the Sibley Music Library.</item> 
+						<item>Fd. 11. Positive photocopies of Duncan--George Eastman
+						  correspondence, 1922-28; originals in the Sibley Music Library.</item> 
+						<item>Fd. 12. Positive photocopies of Duncan--Kinkeldey
+						  correspondence, 1932-34; originals in the Sibley Music Library.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Duncan, Barbara (continued) - Engel, Carl</unittitle> 
+				  <physdesc><extent>13 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list> 
+						<head>DUNCAN, BARBARA, 1882-1965 (continued).</head> 
+						<item>Fd. 13. Positive photocopies of Duncan--Carleton
+						  Sprague Smith correspondence, 1931-37; originals in the Sibley Music
+						  Library.</item> 
+						<item>Fd. 14. Correspondence and notes from interview with
+						  Margaret Andrews re Barbara Duncan.</item> 
+						<item>Fd. 15. Correspondence to M. Louise Coulton following
+						  interview re Barbara Duncan.</item> 
+						<item>Fd. 15A. Correspondence with Mary Wallace Davidson re
+						  Duncan.</item> 
+					 </list> 
+					 <list> 
+						<head>ENGEL, CARL, 1883-1944.</head> 
+						<item>Fd. 1. Biographical information: positive photocopies
+						  of encyclopedia articles, biographies and obituaries.</item> 
+						<item>Fd. 1A. American National Biography entry.</item> 
+						<item>Fd. 2. Positive photocopy of the biographical sections
+						  of the Engel Festschrift by Harold Spivacke.</item> 
+						<item>Fd. 3. Research notes re Elizabeth Sprague
+						  Coolidge.</item> 
+						<item>Fd. 4, 4A, 5-7. Positive photocopies of Engel’s
+						  writings: articles, reviews, “Views and Reviews” for The Musical
+						  Quarterly.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">11</container> 
+				  <unittitle>Engel, Carl (continued) - Hill, Richard
+					 Snyder</unittitle> 
+				  <physdesc><extent>12 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list> 
+						<head>ENGEL, CARL, 1883-1944 (continued).</head> 
+						<item>Fd. 8-11. Positive photocopies of Engel’s writings:
+						  articles, reviews (continued).</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>HILL, RICHARD SNYDER, 1901-1961.</head> 
+						<item>Fd. 1. General information: genealogy, obituaries,
+						  Cornell and Phillips Exeter files. Notes made from Library of Congress
+						  documents, 1981. </item> 
+						<item>Fd. 2. Bio-bibliography.</item> 
+						<item>Fd. 3-4. Positive photocopies of his writings.</item> 
+						<item>Fd. 5. Positive photocopies of Library of Congress
+						  Quarterly Journal of Recent Acquisitions, i.e., annual reports of the Music
+						  Division. </item> 
+						<item>Fd. 6. Correspondence re Hill documents.</item> 
+						<item>Fd. 7. Research Notes re 1946 Library of Congress
+						  acquisitions mission.</item> 
+						<item>Fd. 8. Information re American Council of Learned
+						  Societies. </item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">12</container> 
+				  <unittitle>Hill, Richard Snyder (continued)</unittitle> 
+				  <physdesc><extent>18 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>HILL, RICHARD SNYDER, 1901-1961 (continued).</head> 
+						<item>Fd. 9. Research notes re Hill bibliography of
+						  songsters.</item> 
+						<item>Fd. 10. Research notes re The Star-spangled
+						  Banner.</item> 
+						<item>Fd. 11. International Association of Music Libraries.
+						  </item> 
+						<item>Fd. 12. Thais research.</item> 
+						<item>Fd. 13. Positive photocopies of Hill's correspondence
+						  with James B. Coover, 1952-61.</item> 
+						<item>Fd. 14. Research notes re Mrs. Crosby Adams.</item> 
+						<item>Fd. 15. Correspondence between CJB and Leonard
+						  Ellinwood. Partial transcription of Ellinwood interview, October 12,
+						  1981.</item> 
+						<item>Fd. 16. Correspondence between CJB and Lee
+						  Fairley.</item> 
+						<item>Fd. 17. Correspondence between CJB and Charles Warren
+						  Fox. Partial transcription of Fox interview, May 12 and 13, 1981.</item> 
+						<item>Fd. 18. Research notes re Harry Futterman.</item> 
+						<item>Fd. 19. Correspondence between CJB and Evelyn
+						  Hinrichsen. Partial transcription of Hinrichsen interview, October 28,
+						  1981.</item> 
+						<item>Fd. 20. Information re Edith Hill. Includes
+						  documentation from Smith College.</item> 
+						<item>Fd. 21. Correspondence between CJB and Henry
+						  Hill.</item> 
+						<item>Fd. 22. Correspondence between CJB and Norman
+						  Hill.</item> 
+						<item>Fd. 23. Correspondence between CJB and Warren Phillip
+						  Hill.</item> 
+						<item>Fd. 24. Correspondence between CJB and Marian Hill
+						  Hoch. Includes partial transcription of Hoch interview, June 9 and 10,
+						  1981.</item> 
+						<item>Fd. 25. Correspondence between CJB and Harold
+						  Johnson.</item> 
+						<item>Fd. 26. Correspondence between CJB and Florence
+						  Kretzschmar. Includes partial transcription of Kretzschmar interview, August
+						  17, 1982. Interview re Music Index and Richard S. Hill.</item> 
+						<item>Fd. 27. Correspondence between CJB and William
+						  Lichtenwanger. Includes partial transcription of Lichtenwanger interview, March
+						  15-17, 1981.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">13</container> 
+				  <unittitle>Hill, Richard Snyder (continued)</unittitle> 
+				  <physdesc><extent>16 folders and 2 sound recording discs (78
+					 rpm)</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>HILL, RICHARD SNYDER, 1901-1961 (continued).</head> 
+						<item>Fd. 27A. Lichtenwanger bibliography.</item> 
+						<item>Fd. 27B. Lichtenwanger biographies.</item> 
+						<item>Fd. 27C. Oral interviews.</item> 
+						<item>Fd. 27D. Lichtenwanger. </item> 
+						<item>Fd. 27E. Foss, Ruth</item> 
+						<item>Fd. 27E. Lichtenwanger biography and
+						  bibliography</item> 
+						<item>Fd. 28. Correspondence between CJB and Helena Gervais
+						  McCullough.</item> 
+						<item>Fd. 29. Partial transcription of McCullough interview,
+						  August 18, 1981. Positive photocopies of R.S. Hill letters to Pete Gervais,
+						  1926-60. Originals in the possession of Helena McCullough, Oak Park,
+						  Illinois.</item> 
+						<item>Fd. 30. Positive photocopies of correspondence between
+						  Irene Millen and R.S. Hill, 1948-60.</item> 
+						<item>Fd. 31. Correspondence between Kurtz Myers and R.S.
+						  Hill, 1951-57.</item> 
+						<item>Fd. 32. Correspondence between CJB and Roberta Savler,
+						  1981.</item> 
+						<item>Fd. 33. Correspondence between CJB and Mary Hill
+						  Strobel.</item> 
+						<item>Fd. 34. Positive photocopies of correspondence between
+						  H. Dorothy Tilly and R.S. Hill, 1944-48.</item> 
+						<item>Fd. 35. Original printing of Hill's proposal for an
+						  international inventory of music, RISM. </item> 
+						<item>[36]. 78 rpm recording: Christmas sonatine for 2 flutes
+						  and triangles by R.S. Hill. 1st and 3rd movements.</item> 
+						<item>[37]. 3 x 5 cards indexing information on the history
+						  of MLA, Notes, and R.S. Hill.</item> 
+						<item>[38]. Some miscellaneous Hill research notes received
+						  from his sister, Marian Hill Hoch.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">14</container> 
+				  <unittitle>Hill, Richard Snyder (continued)</unittitle> 
+				  <physdesc><extent>1 binder</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>HILL, RICHARD SNYDER, 1901-1961 (continued).</head> 
+						<item>[39]. Notebook containing positive photocopy of
+						  microfilm: MLA/Dick Hill Correspondence. Includes Hill's Cornell University
+						  transcript.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">15</container> 
+				  <unittitle>Kinkeldey, Otto</unittitle> 
+				  <physdesc><extent>13 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>KINKELDEY, OTTO, 1878-1966.</head> 
+						<item>Fd. 1. Biographical information: encyclopedia articles,
+						  news items, articles.</item> 
+						<item>Fd. 1A. Bibliography of his writings.</item> 
+						<item>Fd. 2. Positive photocopy of transcript of recorded
+						  interview with Otto Kinkeldey conducted by Donald J. Grout, July 22, 1965;
+						  original in Olin Library, Cornell University.</item> 
+						<item>Fd. 3. Handwritten copies of some Kinkeldey manuscripts
+						  in Special Collections, Library-Museum of the Performing Arts, Lincoln Center,
+						  New York City.</item> 
+						<item>Fd. 4. Positive photocopies of papers relating to
+						  library decisions, Cornell University; originals in Olin Library, Cornell
+						  University.</item> 
+						<item>Fd. 5. Positive photocopies of Kinkeldey
+						  correspondence; originals in Olin Library, Cornell University.</item> 
+						<item>Fd. 6. Positive photocopies of correspondence between
+						  Carl Engel and Otto Kinkeldey, 1939-43; originals in Olin Library, Cornell
+						  University.</item> 
+						<item>Fd. 7. Positive photocopies of published annual
+						  reports, Cornell University Library, 1930-46.</item> 
+						<item>Fd. 8. Research notes re Columbia University Studies in
+						  Musicology; Wolffheim auction; Edward Silsky, 1843-1937; NYPL Staff News,
+						  1915-38.</item> 
+						<item>Fd. 9. CJB's correspondence re Kinkeldey, 1974.</item> 
+						<item>Fd. 10. Miscellanea from the part of the Kinkeldey
+						  estate purchased by SUNYAB.</item> 
+						<item>Fd. 11. Offprints of Kinkeldey's published
+						  writings.</item> 
+						<item>Fd. 12-13. Positive photocopies of Kinkeldey's
+						  writings, articles, pamphlets, and reviews. </item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">16</container> 
+				  <unittitle>Miller, Catherine Keyes - O'Meara, Eva</unittitle> 
+				  <physdesc><extent>12 folders and 1 binder</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>MILLER, CATHARINE KEYES, 1905-1966. </head> 
+						<item>Fd. 1. Biographical information.</item> 
+						<item>Fd. 2. Positive photocopy of class outline, Music 201,
+						  Columbia University, 1950 (Music bibliography).</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>MILLER, PHILIP LIESON, 1906-1996</head> 
+						<item>Fd. 1. Correspondence with CJB.</item> 
+						<item>Fd. 1A. Bibliography of his writings</item> 
+						<item>Fd. 2. Partial transcription of taped interview, June
+						  8, 1974, New York City. Abstract of interview, December 2 and 3, 1986, New York
+						  City.</item> 
+						<item>Fd. 3. Positive photocopy of the Music Library
+						  Association Phonograph Code, October 1940, and related information and
+						  correspondence. </item> 
+						<item>Fd. 4. Research notes re "Carnegie Music Sets."</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>0’MEARA, EVA JUDD, 1884-1979</head> 
+						<item>Fd. 1. Correspondence with CJB 1973; positive
+						  photocopies of O'Meara's published writings.</item> 
+						<item>Fd. 2. Correspondence between Eva Judd O'Meara and
+						  James B. Coover, 1971.</item> 
+						<item>Fd. 3 Partial transcription of taped interviews, June
+						  11 and 12, 1973, New Haven, Connecticut; positive photocopy of 0'Meara's
+						  course, Music Bibliography [green notebook]</item> 
+						<item>Fd. 4. Historical information by O'Meara about the
+						  School of Music Library, Yale University.</item> 
+						<item>Fd. 5. Positive photocopies of correspondence between
+						  O’Meara and Otto Kinkeldey, 1931-43; originals in the Yale Music
+						  Library.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">17</container> 
+				  <unittitle>O'Meara (continued) - Smith, Carleton
+					 Sprague</unittitle> 
+				  <physdesc><extent>14 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>0’MEARA, EVA JUDD, 1884-1979 (continued)</head> 
+						<item>Fd. 6.1--Fd. 6.8. Positive photocopies of O'Meara's
+						  Papers originally at Yale, now in the Music Library Association Archive.
+						  Includes documents re MLA Cataloguing Code. NB: This is a printout of many of
+						  the items on a microfilm. </item> 
+						<item>Fd. 7. Positive photocopy of articles from Keogh
+						  Festschrift about the card catalogue and classification at Yale: Monrad, Anna
+						  Marie.</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head> SMITH, CARLETON SPRAGUE, 1905-1994.</head> 
+						<item>Fd. 1. Correspondence with CJB, 1974- ; biographical
+						  information.</item> 
+						<item>Fd. 2. Abstracts and partial transcription of taped
+						  interviews, July 9 and 10, 1974, New York City.</item> 
+						<item>Fd. 3. Research notes re Crosby-Brown Collection of
+						  Musical Instruments, Metropolitan Museum of Art, New York City.</item> 
+						<item>Fd. 4. Research notes re Composers 1 -Forum Laboratory,
+						  New York City. Fd. 5. Research notes re Music in America records.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">18</container> 
+				  <unittitle>Smith, Carleton Sprague (continued) - Sonneck, Oscar
+					 George Theodore</unittitle> 
+				  <physdesc><extent>18 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head> SMITH, CARLETON SPRAGUE, 1905-1994 (continued).</head>
+						
+						<item>Fd. 5. Research notes re Music in America
+						  records.</item> 
+						<item>Fd. 6. Research notes re radio programs,
+						  miscellaneous.</item> 
+						<item>Fd. 7. Positive photocopies of correspondence between
+						  E. H. Anderson, Director of The NYPL and Otto Kinkeldey, 1930-31; Kinkeldey and
+						  CSS, 1931-38; originals in Olin Library, Cornell University.</item> 
+						<item>Fd. 8. Positive photocopy of CSS 1 report to the
+						  Lincoln Center Library­Museum of the Performing Arts Committee, 1957.</item> 
+						<item>Fd. 9-10. Positive photocopies of Smith’s published
+						  writings; articles and reviews.</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928.</head> 
+						<item>Fd. 1. Biographical information: positive photocopies
+						  of published notices, articles, obituaries, etc.</item> 
+						<item>Fd. 2. Positive photocopy of Hitchcock 11 After 100 [!]
+						  Years: the editorial side of Sonneck,11 typescript.</item> 
+						<item>Fd. 3. Positive photocopy of 2 Sonneck letters to Otto
+						  Kinkeldey, 1925 and 1927.</item> 
+						<item>Fd. 4. Positive photocopy of Sonneck's “Special
+						  Memorandum on the Music Division,” July 25, 1917.</item> 
+						<item>Fd. 5. Positive photocopies of memoranda re Sonneck’s
+						  1904 European trip.</item> 
+						<item>Fd. 6. Research notes re Archive of American Folksong.
+						  </item> 
+						<item>Fd. 7. Research notes re Beethoven Association.</item> 
+						<item>Fd. 8. Research notes re Bibliographical Society of
+						  America. </item> 
+						<item>Fd. 9. Research notes re Franklin Peale
+						  Patterson.</item> 
+						<item>Fd. 10. Research notes re Herbert Putnam.</item> 
+						<item>Fd. 11. Research notes re Society for the Publication
+						  of American Music.</item> 
+						<item>Fd. 12. Positive photocopies of Sonneck’s published
+						  writings: articles, reviews.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">19</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued)</unittitle>
+				  
+				  <physdesc><extent>7 folders and 2 binders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928.</head> 
+						<item>Fd. 13-14. Positive photocopies of Sonneck’s published
+						  writings: articles, reviews.</item> 
+						<item>Fd. 15. Chase, Gilbert “The significance of Oscar
+						  Sonneck (1873-1928): A centennial tribute.”</item> 
+						<item>Fd. 16. Anderson, Gillian B. 11 Putting the experience
+						  of the world at the Nation 1 s command: Music at the Library of Congress,
+						  1800-1917,11 Journal of the American Musicological Society 42 {1989):
+						  108-49.</item> 
+						<item>Fd. 17. Unpublished periodical indexes at the Library
+						  of Congress and elsewhere in the United States of America,11 Fontes artis
+						  musicae 31 (1984): 54-60.</item> 
+						<item>[18]. Notebook: Positive photocopies of memoranda re LC
+						  Classification for music materials, 1902.</item> 
+						<item>[19]. Spring binder: Positive photocopies of undated
+						  manuals and histories of the Music Division.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">20</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued)</unittitle>
+				  
+				  <physdesc><extent>5 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928 (continued):
+						  Library of Congress documents.</head> 
+						<item>[20-24]. Positive photocopies of published annual
+						  reports, LC, Music Division pages, 1901-1942.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">21</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued), Library of
+					 Congress documentation</unittitle> 
+				  <physdesc><extent>3 folders, 2 print
+					 publications</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928 (continued):
+						  Library of Congress documents.</head> 
+						<item>[25]. LC publication: Music Division, 1950.</item> 
+						<item>[26]. The Music Division in the Library of Congress,
+						  1960. </item> 
+						<item>[27-29]. “ Music” photocopies from the LC Quarterly
+						  Journal of Recent Acquisitions, 1943-74, January 1975, April 1975, April 1976.
+						  </item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">22</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued), Library of
+					 Congress documentation</unittitle> 
+				  <physdesc><extent>10 print publications</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928 (continued):
+						  Library of Congress documents.</head> 
+						<item>[30]. LC Festival of Chamber Music, 1935.
+						  Programs.</item> 
+						<item>[31]. Berkshire Festivals of Chamber Music,
+						  1918-1938.</item> 
+						<item>[32]. "Report of the Committee on Folksong..•of the
+						  Modern Language Society," Southern Folklore Quarterly (June 1937).</item> 
+						<item>[33-37]. LC: Elson lectures delivered by Hoboken,
+						  Kunst, Pincherle, Wellesz, Westrup.</item> 
+						<item>[38]. LC: Cooperative cataloging manual .., 1944.
+						  Positive photocopy.</item> 
+						<item>[39]. LC: For Congress and the nation.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">23</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued), Library of
+					 Congress documentation</unittitle> 
+				  <physdesc><extent>4 print publications</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928 (continued):
+						  Library of Congress documents.</head> 
+						<item>[40]. LC: Rules for descriptive cataloging. Preliminary
+						  edition, 1947. Annotations by E. J. O'Meara. Positive photocopy.</item> 
+						<item>[41]. LC: Final report on the rules for descriptive
+						  cataloging... 1948. Photocopy.</item> 
+						<item>[42]. Rules for descriptive cataloging in the Library
+						  of Congress (adopted by the American Library Association), 1949. 2
+						  copies</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">24</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued), Library of
+					 Congress documentation</unittitle> 
+				  <physdesc><extent>6 print publications</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928 (continued):
+						  Library of Congress documents.</head> 
+						<item>[43]. LC: Class M..., 1904 edition. Photocopy and a
+						  presentation copy inscribed by Sonneck, signed by Kinkeldey.</item> 
+						<item>[44]. LC: Class M. 2nd ed.: 1963.</item> 
+						<item>[45]. LC: Class M. 2nd ed.: 1968.</item> 
+						<item>[46]. LC: Music subject headings. 1952.
+						  Photocopy.</item> 
+						<item>[47]. LC: "Music: A MARC format. Draft, 1973"</item> 
+						<item>[48]. LC: The MARC II format, 1968.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">25</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued), Library of
+					 Congress documentation</unittitle> 
+				  <physdesc><extent>1 print publication and 1
+					 binder</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928 (continued):
+						  Library of Congress documents.</head> 
+						<item>[50]. Buyck, Betty B. "Oscar George Theodore Sonneck:
+						  The man and his work." MSLS thesis, Drexel Institute of Technology,
+						  1954.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">26</container> 
+				  <unittitle>Sonneck, Oscar George Theodore (continued), Library of
+					 Congress documentation - Spivacke, Harold</unittitle> 
+				  <physdesc><extent>3 print publications and 13
+					 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<head>SONNECK, OSCAR GEORGE THEODORE, 1873-1928 (continued):
+						  Library of Congress documents.</head> 
+						<item>[51]. Moore, Daniel T. "Oscar G. Sonneck and his
+						  contribution to music 1ibrarianship and bibliography." MLS thesis, Southern
+						  Connecticut State College, 1973.</item> 
+						<item>[52]. MLA. Subject headings for music, 1933.</item> 
+						<item>[53]. MLA. Subject headings for the literature of
+						  music, 1935.</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>SPIVACKE, HAROLD, 1904-1977. </head> 
+						<item>Fd. 1. Correspondence between CJB and Harold Spivacke,
+						  1971-75. Partial transcription of taped interviews, April 9-11, 1974, in
+						  Washington, D. c.</item> 
+						<item>Fd. 2. Biographical information: positive photocopies
+						  of publ1shed notices, news items, obituaries.</item> 
+						<item>Fd. 3. Positive photocopies of Spivacke's published
+						  writings: articles, reviews.</item> 
+					 </list> 
+					 <list type="simple"> 
+						<head>WHITTLESEY, WALTER ROSE, 1961-1936.</head> 
+						<item>Fd. 1. Biographical information.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series3b">III.B</unitid> 
+				<unittitle>Librarianship correspondence</unittitle> 
+				<physdesc><extent>Box 26-31</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>In order as stated in original inventory.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Correspondence conducted by Carol June Bradley, chiefly with
+				  subjects of her interviews, with accompanying research material.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">26</container> 
+				  <unittitle>Librarianship correspondence, part 1</unittitle> 
+				  <physdesc><extent>9 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 1. Correspondence between Gladys E. Chamberlain and
+						  CJB, 1974; partial transcription of taped interview, July 13, 1974, New York
+						  City.</item> 
+						<item>Fd. 2. Correspondence re papers of Mary Salome Cutler
+						  Fairchild, 1974.</item> 
+						<item>Fd. 3. Correspondence between Jessica Fredricks (Mrs.
+						  Harry Schaff) and CJB, 1973-75.</item> 
+						<item>Fd. 4. Correspondence between Lowell Pierson Beveridge
+						  and CJB, 1978; partial transcription of taped interview, January 4, 1979,
+						  Washington, D.C. Includes information about Richard Sloane Angell and Columbia
+						  University.</item> 
+						<item>Fd. 5. Correspondence between Catherine Nimitz Lay and
+						  CJB; partial transcription of taped interview, June 16, 1978, Wellfleet,
+						  Mass.</item> 
+						<item>Fd. 6. Correspondence between Theodore Front and CJB,
+						  1975.</item> 
+						<item>Fd. 7. Correspondence between H. Earle Johnson and CJB,
+						  1974-75; includes his reminiscences of Kinkeldey and O'Meara. </item> 
+						<item>Fd. 8. Correspondence between Donald L. Leavitt and
+						  CJB.</item> 
+						<item>Fd. 9. Correspondence between George Mayer and CJB,
+						  1974.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">27</container> 
+				  <unittitle>Librarianship correspondence, part 2</unittitle> 
+				  <physdesc><extent>11 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 10. Research notes re Helen Joy Sleeper.</item> 
+						<item>Fd. 11. Biographical information about Gretta Smith.
+						  Includes positive photocopy of her MLA publication The public library music
+						  department.</item> 
+						<item>Fd. 12. Correspondence between Richard Gilmore Appel
+						  and CJB, 1973-85.</item> 
+						<item>Fd. 13-14. Publications of Richard Gilmore Appel, some
+						  as positive photocopies.. Seminar Room cabinet 7: Boston Public Library. Annual
+						  reports (typescript), 1922-53, 1959. Photocopies.</item> 
+						<item>Fd. 15. Correspondence between Ruth Bleecker and CJB,
+						  1973-86.</item> 
+						<item>Fd. 16. Sample copies of Appel's Aids to Study
+						  appropriate to 1929 and 1933 seasons, Boston, Mass.</item> 
+						<item>Fd. 17 Correspondence between Edward N. Waters and CJB.
+						  Partia1 transcription of taped interviews, January 3, 1978 and January 5, 1979,
+						  Washington, D.C.</item> 
+						<item>Fd. 17A. Documents re Waters biography. </item> 
+						<item>Fd. 17B. Draft of Waters biography.</item> 
+						<item>Fd. 17C. Bibliography of Waters’s writings.</item> 
+						<item>Fd. 18. Positive photocopies of Waters' published
+						  writings.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">28</container> 
+				  <unittitle>Librarianship correspondence, part 3</unittitle> 
+				  <physdesc><extent>15 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 19. Research notes re Water's proposed "Musical
+						  encyclopedia" to be sponsored by the MLA, published by Macmillan in New
+						  York.</item> 
+						<item>Fd. 19A. Research notes re Council of National Library
+						  Associations. </item> 
+						<item>Fd. 19B. Research notes re National Music
+						  Council.</item> 
+						<item>Fd. 19C. Research notes re U. S. Book Exchange.</item> 
+						<item>Fd. 20. Correspondence between Mary Rogers and CJB.
+						  Partial transcription of taped interview, October 11, 1981, Washington,
+						  D.C.</item> 
+						<item>Fd. 21. Correspondence between Elizabeth Schmitter and
+						  CJB. Partial transcription of taped interview, October 2, 1973, Northampton,
+						  Mass.</item> 
+						<item>Fd. 21A. Positive photocopies of correspondence leading
+						  to Elizabeth Schmitter's appointment at Sibley Music Library; mostly between
+						  she and Dona1d B. Gilchrist, 1920-28. Originals in Sibley Music Library.
+						  </item> 
+						<item>Fd. 22. Music Library Association citations.</item> 
+						<item>Fd. 23. Correspondence with Ruth Cubbage Dorsey re
+						  Smith College. </item> 
+						<item>Fd. 24. Correspondence between Edward Colby and CJB.
+						  Partial transcription of taped interview, February 14, 1981, New Haven,
+						  Conn.</item> 
+						<item>Fd. 24A. Music Library Association, Northern California
+						  Chapter, Newsletter, 1985-</item> 
+						<item>Fd. 25. Correspondence between Kurtz Myers and CJB.
+						  Partial transcription of taped interview, February 13, 1981, New Haven,
+						  Conn.</item> 
+						<item>Fd. 26. Correspondence between Irene Millen and CJB.
+						  (two folders)</item> 
+						<item>Fd. 26A. Additional correspondence between Irene Millen
+						  and CJB. </item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">29</container> 
+				  <unittitle>Librarianship correspondence, part 4</unittitle> 
+				  <physdesc><extent>17 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 27. Correspondence between Anna Harriet Heyer and
+						  CJB. Includes positive photocopy of Heyer's documentary responses to pre-oral
+						  history interview questions. Partial transcription of taped interview, March
+						  23, 1980, Ft. Worth, Texas.</item> 
+						<item>Fd. 28. Correspondence between Virginia Cunningham and
+						  CJB. Partial transcription of taped interview, January 14, 1979, Chapel Hill,
+						  N.C.</item> 
+						<item>Fd. 29. Correspondence between Mary Ankudovich and CJB.
+						  Partial transcription of taped interview, October 11, 1983, Northampton,
+						  Mass.</item> 
+						<item>Fd. 30. Correspondence between Bernard E. Wilson and
+						  CJB.</item> 
+						<item>Fd. 31. Correspondence re MLA history for Notes, June
+						  1981. </item> 
+						<item>Fd. 32. Photo permissions for MLA history, Notes, June
+						  1981.</item> 
+						<item>Fd. 33. Correspondence re MLA panel, February 13, 1981,
+						  New Haven, Conn.</item> 
+						<item>Fd. 34. Correspondence between John T. Windle and
+						  CJB.</item> 
+						<item>Fd. 35. Correspondence re interview with Ruth T.
+						  Watanabe. </item> 
+						<item>Fd. 35A. Ruth T. Watanabe biography (Notes, June 2006).
+						  </item> 
+						<item>Fd. 35B. Ruth T. Watanabe bibliography. </item> 
+						<item>Fd. 35C. Correspondence with David Peter Coppen
+						  regarding Ruth T. Watanabe. </item> 
+						<item>Fd. 35D. Correspondence with Karen Hagberg regarding
+						  Ruth T. Watanabe. </item> 
+						<item>Fd. 35E. Correspondence with Jon Engberg regarding Ruth
+						  T. Watanabe. </item> 
+						<item>Fd. 36. Correspondence re projected interview with
+						  Brooks Shepard.</item> 
+						<item>Fd. 37. Correspondence re interview with Sen Ludden.
+						  Includes abstract of the interview, December 6 and 7, 1985, New York
+						  City.</item> 
+						<item>Fd. 38. Correspondence re interview with William
+						  Weichlein. Includes abstract of the interview, December 13-15, 1985.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">30</container> 
+				  <unittitle>Librarianship correspondence, part 5</unittitle> 
+				  <physdesc><extent>10 folders and 5 binders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 38A. Research notes re Thor Johnson. </item> 
+						<item>Fd. 388. Research notes re American Ballet Theatre,
+						  Chicago. </item> 
+						<item>Fd. 38C. Draft of Weichlein biography.</item> 
+						<item>Binders containing: Hitchcock and Weichlein An outline
+						  of the history of music, 3d printing, 1962. Weichlein An introduction to the
+						  bibliography of music, 1957; 2nd ed. 1959; 3rd ed. 1960; 4th ed. 1961. </item> 
+						<item>Fd. 39. Correspondence to Dika Newlin.</item> 
+						<item>Fd. 40. Correspondence re interview with Frank
+						  Campbell. Includes abstract of the interview, December 2 and 3, 1986, New York
+						  City.</item> 
+						<item>Fd. 41. Abstract of Harry Kownatsky interview. </item> 
+						<item>Fd. 42. Correspondence with Harriet Nicewonger.</item> 
+						<item>Fd. 43. Correspondence with Dena Epstein. Includes
+						  partial abstract of interview, June 11 and 12, 1988, Chicago, Illinois. </item>
+						
+						<item>Fd. 44. Correspondence with Melva Peterson.</item> 
+						<item>Fd. 45. MLA Archive. Documents of MLA committee which
+						  set up the Archive at the University of Maryland.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">31</container> 
+				  <unittitle>Librarianship correspondence, part 6</unittitle> 
+				  <physdesc><extent>8 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 46. MLA Archive. CJB’s correspondence with Bruce
+						  Wilson and CJB's evaluation of the Archive, 1985.</item> 
+						<item>Ratliff, Neil</item> 
+						<item>Fd. 47. Program from memorial service for Virginia
+						  (June) Snodgrass Gifford.</item> 
+						<item>Fd. 48. Tashiro, Mimi.</item> 
+						<item>Fd. 49. Goldthwaite, Scott.</item> 
+						<item>Fd. 50. Henderson, George.</item> 
+						<item>Fd. 51. Bacon, Ethel.</item> 
+						<item>Fd. 52. Meyer-Baer. Kathi. </item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series3c">III.C</unitid> 
+				<unittitle>Research notes</unittitle> 
+				<physdesc><extent>Box 31-32</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>In order as stated in original inventory.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Accompanying research material compiled by Carol June Bradley
+				  concerning the history of music librarianship.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">31</container> 
+				  <unittitle>Research notes, part 1</unittitle> 
+				  <physdesc><extent>16 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 1. WPA and Music.</item> 
+						<item>Fd. 2. Music bibliography course outline, Guy A. Marco.
+						  </item> 
+						<item>Fd. 3. Empty</item> 
+						<item>Fd. 4. MLA: Gordon Stevenson criticism of MLA published
+						  in Library Journal.</item> 
+						<item>Fd. 5. Photocopy of MLA cataloguing code.</item> 
+						<item>Fd. 6. Positive photocopies of drafts of the MLA
+						  cataloguing code, 1937-39. Originals in Music Library Association Archive.
+						  </item> 
+						<item>Fd. 7. Positive photocopies of shared cataloging
+						  questionnaire, summary of responses, 1936; originals in Music Library
+						  Association Archive.</item> 
+						<item>Fd. 8. Positive photocopies of miscellaneous
+						  correspondence re the Music Library Association; originals in Music Library
+						  Association Archive. </item> 
+						<item>Fd. 9. Inventory of photocopies of MLA documents filmed
+						  by the Library of Congress, 1973. Includes miscellaneous notes.</item> 
+						<item>Fd. 10. Documents of the MLA Information and
+						  Organization Committee, 1965-66. NB: All previous correspondence destroyed,
+						  1967. </item> 
+						<item>Fd. 11. Positive photocopies of Smith College MLA
+						  documents.</item> 
+						<item>Fd. 12. Documentation re MLA Membership Campaign,
+						  1940.</item> 
+						<item>Fd. 13. Miscellaneous MLA documents.</item> 
+						<item>Fd. 14. Positive photocopies of MLA meetings and their
+						  minutes, 1931-42. Collected from various sources.</item> 
+						<item>Fd. 14A. Carbon copy of original minutes of founding
+						  MLA meetings, 1931.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">32</container> 
+				  <unittitle>Research notes, part 2</unittitle> 
+				  <physdesc><extent>16 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Fd. 15. Documentation re MLA Periodical Index.</item> 
+						<item>Fd. 16. Research notes made in the MLA Archive,
+						  University of Maryland, 1985. </item> 
+						<item>Fd. 17. Positive photocopies of extracts from
+						  Publishers' Weekly, 1872, 1876-1880.</item> 
+						<item>Fd. 18. Positive photocopy of New England Conservatory
+						  music bibliography course, 1934, prepared by Clifton Joseph Furness.</item> 
+						<item>Fd. 19. Positive photocopy of Elizabeth Olmsted MLA
+						  Midwest Chapter, a Brief History.</item> 
+						<item>Fd. 20. Research notes re MLA American Recordings
+						  Project. </item> 
+						<item>Fd. 21. Outline and chart for MLA history for Notes,
+						  1981.</item> 
+						<item>Fd. 22. Program, etc. of MLA 50th anniversary meeting,
+						  February 1981, New Haven, Conn. Includes a capsule history of MLA by
+						  CJB.</item> 
+						<item>Fd. 23. Biographical information re Inger
+						  Christensen.</item> 
+						<item>Fd. 24. Biographical information re Louisa Hooper.
+						  Hooper Music and books about music, 1909. Positive photocopy.</item> 
+						<item>Fd. 25. Biographical information re Dorothy
+						  Lawton.</item> 
+						<item>Fd. 26. Biographical information re Amy Meyer Sinclair.
+						  </item> 
+						<item>Fd. 27. Biographical information re Julius
+						  Mattfeld.</item> 
+						<item>Fd. 28. Memorial tribute, Vincent Harris
+						  Duckles.</item> 
+						<item>Fd. 29. Biographical information re Gertrude
+						  Whittall.</item> 
+						<item>Fd. 30. Music librarians, 19th century. </item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series3d">III.D</unitid> 
+				<unittitle>Supplementary materials</unittitle> 
+				<physdesc><extent>Box 32</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>In order as stated in original inventory.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Accompanying research material compiled by Carol June Bradley
+				  concerning the history of music librarianship.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">32</container> 
+				  <unittitle>Supplementary materials</unittitle> 
+				  <physdesc><extent>2 folders and 3 print items</extent></physdesc>
+				  
+				</did> 
+				<scopecontent> 
+				  <p> 
+					 <list type="simple"> 
+						<item>Albrecht, Otto. Galleys for Grove article, Collections,
+						  private</item> 
+						<item>Hixon, Donald L. A directory of special music
+						  collections in Southern California libraries : and in the libraries of the
+						  University of California and the California State Universities and Colleges.
+						  1976.</item> 
+						<item>McClellan, William M. Profiles of twelve music
+						  libraries at academic institutions offering graduate degrees in music (a
+						  working draft). 1977.</item> 
+						<item>Williams, Richard G. A service to music: the
+						  exploitation of musical resources in libraries in Austria, Great Britain and
+						  the United States of America. College of Librarianship Wales. 1972.</item> 
+						<item>Dictionary of American Biographies. Entries for George
+						  Sherman Dickinson, Oscar Sonneck, and Otto Kinkeldey.</item> 
+					 </list> </p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series4">IV.</unitid> 
+			 <unittitle>History of music libraries in the United
+				States</unittitle> 
+			 <physdesc> <extent>Box 33-39</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged in three subseries:</p> 
+			 <list type="simple"> 
+				<item> 
+				  <ref target="series4a" actuate="onrequest" show="replace">A.
+					 Preliminary notes</ref> </item> 
+				<item> 
+				  <ref target="series4b" actuate="onrequest" show="replace">B.
+					 Music libraries in the United States</ref> </item> 
+				<item> 
+				  <ref target="series4c" actuate="onrequest" show="replace">C.
+					 Music libraries elsewhere in North America</ref> </item> 
+			 </list> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Contains folders of content pertaining to the history of music
+				libraries in the United States and North America. It has been treated as
+				received, using the original organization and folder titles.</p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series4a">IV.A</unitid> 
+				<unittitle>Preliminary notes</unittitle> 
+				<physdesc><extent>Box 33</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Chiefly in order as received.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">33</container> 
+				  <unittitle>Preliminary notes</unittitle> 
+				  <physdesc><extent>18 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Includes chronologies, bibliographies, and photocopied
+					 articles. </p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series4b">IV.B</unitid> 
+				<unittitle>Music Libraries in the United States</unittitle> 
+				<physdesc><extent>Box 34-38</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by institution name.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">34</container> 
+				  <unittitle>American Congregational Association - Cornell
+					 University</unittitle> 
+				  <physdesc><extent>24 folders and 1 binder</extent></physdesc> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">35</container> 
+				  <unittitle>Curtis Institute of Music - Library of Congress
+					 (chronology)</unittitle> 
+				  <physdesc><extent>20 folders</extent></physdesc> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">36</container> 
+				  <unittitle>Library of Congress - Oberlin</unittitle> 
+				  <physdesc><extent>20 folders and 6 print
+					 items</extent></physdesc> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">37</container> 
+				  <unittitle>Philadelphia Free Library - Yale
+					 University</unittitle> 
+				  <physdesc><extent>38 folders</extent></physdesc> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">38</container> 
+				  <unittitle>Towards a chronology of the establishment of music
+					 collections in American libraries, 
+					 <unitdate>June 11, 1971</unitdate> </unittitle> 
+				  <physdesc><extent>2 binders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Two binders containing alphabetically-arranged entries for
+					 music libraries in the United States.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid id="series4c">IV.C</unitid> 
+				<unittitle>Music libraries elsewhere in North America</unittitle> 
+				<physdesc><extent>Box 39</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by country or area.</p> 
+			 </arrangement> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">39</container> 
+				  <unittitle>Music libraries elsewhere in North America</unittitle>
+				  
+				  <physdesc><extent>8 folders</extent></physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains content on music libraries in Canada, Central
+					 America, Cuba, and Latin America.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series5">V.</unitid> 
+			 <unittitle>Library and music organizations</unittitle> 
+			 <physdesc> <extent>Box 39-41</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chiefly arranged as received.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Meeting notes and announcements for the American Library
+				Association, the International Association of Music Libraries, and the Music
+				Library Association</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">39</container> 
+				<unittitle>Library and music organizations, part 1</unittitle> 
+				<physdesc><extent>13 folders</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Content from the American Library Association, Canadian
+				  Association of Music Libraries, and the International Association of Music
+				  Libraries (IAML).</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">40</container> 
+				<unittitle>Library and music organizations, part 2</unittitle> 
+				<physdesc><extent>23 folders</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Content from the Music Library Association, chiefly meeting
+				  publications.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">41</container> 
+				<unittitle>Library and music organizations, part 3</unittitle> 
+				<physdesc><extent>17 folders</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Content from the Music Library Association, including: 
+				  <list type="simple"> 
+					 <item>Handbook of American Music</item> 
+					 <item>Periodical indexing committee</item> 
+					 <item>Self-study questionnaire (1974)</item> 
+					 <item>Directory of library school offerings in music</item> 
+					 <item>Repertoire Internationale d'Iconographie Musicale
+						(RIdIM)</item> 
+					 <item>Repertoire Internationale de la Litterature Musicale
+						(RILM) </item> 
+					 <item>Repertoire Internationale de Sources Musicales (RISM)
+						</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series6">VI.</unitid> 
+			 <unittitle>Music librarianship articles by others</unittitle> 
+			 <physdesc> <extent>Box 42-43</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by surname of author, or by title.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">42</container> 
+				<unittitle>Armstrong - Perspectives in Musicology</unittitle> 
+				<physdesc><extent>37 folders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">43</container> 
+				<unittitle>Pettis - Winger</unittitle> 
+				<physdesc><extent>18 folders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series7">VII.</unitid> 
+			 <unittitle>Music librarianship subject folders</unittitle> 
+			 <physdesc> <extent>Box 43-44</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chiefly arranged alphabetically by topic.</p> 
+		  </arrangement> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">43</container> 
+				<unittitle>ALA - Community music center</unittitle> 
+				<physdesc><extent>6 folders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">44</container> 
+				<unittitle>Dickinson - Thematic catalogs</unittitle> 
+				<physdesc><extent>14 folders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series8">VIII.</unitid> 
+			 <unittitle>Teaching materials</unittitle> 
+			 <physdesc> <extent>Box 45-49</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p> Arranged alphabetically by topic.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Material collected in support of teaching music librarianship
+				courses at the University at Buffalo.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">45</container> 
+				<unittitle>Acquisitions - LI 582 prospectus</unittitle> 
+				<physdesc><extent>28 folders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">46</container> 
+				<unittitle>LI 588 - Mus 618 (Music bibliography)</unittitle> 
+				<physdesc><extent>3 folders and 1 binder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">47</container> 
+				<unittitle>Library binding report - Subject headings, jazz, pop,
+				  ethnic</unittitle> 
+				<physdesc><extent>23 folders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">48</container> 
+				<unittitle>Tape presentation - Thematic catalogue guide, Music
+				  printing</unittitle> 
+				<physdesc><extent>11 folders and 2 binders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">49</container> 
+				<unittitle>Music printing</unittitle> 
+				<physdesc><extent>1 binder</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series9">IX.</unitid> 
+			 <unittitle>Supplemental librarianship research folders</unittitle> 
+			 <physdesc> <extent>Box 50</extent> </physdesc> 
+		  </did>
+		  <scopecontent>
+			 <p>Additional research material compiled by Carol June Bradley
+				received outside the other major series.</p>
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">50</container> 
+				<unittitle>Supplemental librarianship research folders</unittitle> 
+				<physdesc><extent>20 folders</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by topic.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Topics include organizations, periodical indexing, oral history,
+				  music collections, and professionalism. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series10">X.</unitid> 
+			 <unittitle>Song literature research</unittitle> 
+			 <physdesc> <extent>Box 51-52 </extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains correspondence with composers and a bibliographic
+				compilation of song literature.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">51</container> 
+				<unittitle>Correspondence with fourteen composers</unittitle> 
+				<physdesc><extent>14 folders</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by composer surname.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Carter, Elliott</item> 
+					 <item>Copland, Aaron</item> 
+					 <item>Diamond, David</item> 
+					 <item>Diemer, Emma Lou</item> 
+					 <item>Gideon, Miriam</item> 
+					 <item>Hoiby, Lee</item> 
+					 <item>Krenek, Ernst</item> 
+					 <item>Luening, Otto</item> 
+					 <item>Rieti, Vittorio</item> 
+					 <item>Rivier, Jean</item> 
+					 <item>Rodrigo, Joaquin</item> 
+					 <item>Sauguet, Henri</item> 
+					 <item>Stravinsky, Igor</item> 
+					 <item>Thomson, Virgil</item> 
+				  </list> </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">52</container> 
+				<unittitle>Song literature bibliography</unittitle> 
+				<physdesc><extent>3 binders</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by composer surname.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Binders contain correspondence, photocopies of works lists from
+				  various sources, and photocopies of typescript lists of songs.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series11">XI.</unitid> 
+			 <unittitle>Collected publications and research sources</unittitle> 
+			 <physdesc> <extent>Box 53-62</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Chiefly arranged alphabetically by title.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Writings collected by Carol June Bradley in support of her various
+				research and teaching projects, including photocopied articles and print
+				publications, many of which are annotated.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">53</container> 
+				<unittitle>Binder of photocopied articles</unittitle> 
+				<physdesc><extent>2 binders</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">54</container> 
+				<unittitle>Accademia - American Library Handbook</unittitle> 
+				<physdesc><extent>5 items</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by topic.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Accademia dei dilettanti di musica, 1930-1960</item> 
+					 <item>ALA catalog rules (1941)</item> 
+					 <item>ALA cataloging rules correlated with Anglo-American
+						cataloging rules</item> 
+					 <item>ALA rules for filing catalog cards</item> 
+					 <item>American library history</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">55</container> 
+				<unittitle>Advances - Catalogue</unittitle> 
+				<physdesc><extent>10 items</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Chiefly alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Advances in librarianship</item> 
+					 <item>Avocations</item> 
+					 <item>Bibliographical handbook of American music</item> 
+					 <item>Black music: a checklist of books</item> 
+					 <item>Bulletin no. 1, Free Library Commission of
+						Pennsylvania</item> 
+					 <item>Bulletin of the American Musicological Society, no. 2
+						(June 1937)</item> 
+					 <item>C. F. Peters publishing tradition 1800-1975</item> 
+					 <item>Catalog rules: author and title entries</item> 
+					 <item>Manual for the cataloging of recordings in public
+						libraries</item> 
+					 <item>Catalogue of early books on music</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">56</container> 
+				<unittitle>Catalogue - Code for cataloging phonograph
+				  records</unittitle> 
+				<physdesc><extent>4 items, 1 folder, and 1
+				  binder</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Catalogue thematique des oeuvres de Jean-Baptiste, John
+						and Jacques Loeillet</item> 
+					 <item>Check list of thematic catalogues, with additional
+						content</item> 
+					 <item>Classification and cataloging of music scores in
+						libraries</item> 
+					 <item>Classification: Class M, music ...</item> 
+					 <item>Code for cataloging music, 1941-1942</item> 
+					 <item>Code for cataloging phonograph records (1942)</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">57</container> 
+				<unittitle>Expandable classification - Music in the library
+				  school</unittitle> 
+				<physdesc><extent>5 binders and 2 items</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Expandable classification scheme for phonorecord
+						libraries</item> 
+					 <item>Katalog muzei︠a imeni Antona Grigorevicha Rubinshteĭna
+						</item> 
+					 <item>Library classification of music: description and critique
+						of selected systems</item> 
+					 <item>Library Science Update, April 1976-April 1978</item> 
+					 <item>Manual of form and procedure for typewritten catalog
+						cards ...</item> 
+					 <item>Music in relation to intellectual life: Romanticism in
+						music</item> 
+					 <item>Music in the library school</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">58</container> 
+				<unittitle>Music departments in libraries - Notes used on music and
+				  phonorecord catalog cards</unittitle> 
+				<physdesc><extent>3 items and 1 binder</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Music departments of libraries (1922)</item> 
+					 <item>Music librarianship in the United States 1876-1955: an
+						annotated classified bibliography</item> 
+					 <item>Music schedules of the decimal classification, a
+						historical and critical study</item> 
+					 <item>Music subject heading system: the outline of an expansive
+						decimal system for a logical classification of music literature</item> 
+					 <item>Musikalien-Katalogisierun: Ein Beitrag zur Losung ihrer
+						Probleme</item> 
+					 <item>Non-book materials: the organization of integrated
+						collections</item> 
+					 <item>Notes used on catalog cards</item> 
+					 <item>Notes used on music and phonorecord catalog cards</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">59</container> 
+				<unittitle>Announcement of the School of Library Service - Verner
+				  Warren Clapp</unittitle> 
+				<physdesc><extent>18 items</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by title.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Announcement of the School of Library Service for the
+						summer session of 1944 .... Columbia University</item> 
+					 <item>Drinker Library of Choral Music: Catalogue</item> 
+					 <item>Evidence and inference in bibliography</item> 
+					 <item>First editions of music</item> 
+					 <item>History of music printing in Italy, France, Germany and
+						the Low countries, 1473-1600</item> 
+					 <item>Issues in library education</item> 
+					 <item>Librarianship: essays on applied bibliography</item> 
+					 <item>Libraries and culture</item> 
+					 <item>Library resources and technical services, Winter
+						1968</item> 
+					 <item>Musical treasures in the Morgan Library</item> 
+					 <item>Organizing music in libraries</item> 
+					 <item>Reference articles on American composers: an index</item>
+					 
+					 <item>Selected annotated bibliography for the phonorecord
+						librarian book, pamphlet and periodical literature in the English language
+						published since 1955</item> 
+					 <item>Sound recordings: protection under state law and under
+						the recent amendment to the copyright code (1973)</item> 
+					 <item>Structuralism, linguistics, and musicology</item> 
+					 <item>Truth, beauty, love, and music librarianship: the Ida
+						Rosen Prize of the School of Library Service, Columbia University</item> 
+					 <item>Teaching bibliography</item> 
+					 <item>Verner Warren Clapp: a memorial tribute</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Notes for Notes, v. 1-34</unittitle> 
+				<physdesc><extent>3 binders</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Chronologically arranged.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Photocopies of the Notes for Notes section of the journal of the
+				  Music Library Association, 
+				<title render="italic">Notes</title> Accompanied by MLA membership
+				directory, 1993. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">61</container> 
+				<unittitle>International Association of Music Libraries and Music
+				  Library Association directories</unittitle> 
+				<physdesc><extent>17 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Directory of music research libraries: Canada and the
+						United States</item> 
+					 <item>IAML: List of members, 1969, 1973, 1978, 1986,
+						1989</item> 
+					 <item>MLA: Membership list, 1975</item> 
+					 <item>MLA: Directory of music librarians in the United States
+						and Canada: preliminary edition (1976)</item> 
+					 <item>MLA: Membership list 1977, 1979</item> 
+					 <item>MLA: Membership directory 1982, 1984, 1987, 1989, 1990,
+						1991, 1992</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">62</container> 
+				<unittitle>Music Library Association membership handbook and Music
+				  Library Association Notes supplement for members</unittitle> 
+				<physdesc><extent>5 items</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>MLA: Membership handbooks 1994-1997</item> 
+					 <item>Notes: Supplement for members, nos. 1-36,
+						1947-1964</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series12">XII.</unitid> 
+			 <unittitle>Photographs</unittitle> 
+			 <physdesc> <extent>Box 63</extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged alphabetically by surname of subject.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Photographs of fifteen music librarians collected by Carol June
+				Bradley for use in publications.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">63</container> 
+				<unittitle>Photographs of fifteen music librarians</unittitle> 
+				<physdesc><extent>1 binder</extent></physdesc> 
+			 </did> 
+			 <arrangement> 
+				<p>Alphabetically arranged by surname.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Photographs of fifteen music librarians, with multiple
+				  duplicates and negatives.</p> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Angell, Richard Sloane</item> 
+					 <item>Cunningham, Virginia</item> 
+					 <item>Dickinson, George Sherman</item> 
+					 <item>Duncan, Barbara</item> 
+					 <item>Engel, Carl</item> 
+					 <item>Hill, Richard Snyder (including childhood and family
+						photographs)</item> 
+					 <item>Kinkeldey, Otto</item> 
+					 <item>Miller, Catherine Keyes</item> 
+					 <item>Miller, Philip Lieson</item> 
+					 <item>O'Meara, Eva Judd</item> 
+					 <item>Rogers, Mary</item> 
+					 <item>Smith, Carleton Sprague</item> 
+					 <item>Sonneck, Oscar George Theodore</item> 
+					 <item>Spivacke, Harold</item> 
+					 <item>Waters, Edward Neighbor</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series13">XIII.</unitid> 
+			 <unittitle>Richard Sloane Angell papers</unittitle> 
+			 <physdesc> <extent>Box 64-66 </extent> </physdesc> 
+		  </did> 
+		  <arrangement> 
+			 <p>In order as received with original folder labels retained.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>Papers from his Estate regarding the Music Library Association,
+				his text "Music Library Organization," and related correspondence. </p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">64</container> 
+				<unittitle>Richard Sloane Angell papers, part 1</unittitle> 
+				<physdesc><extent>25 folders</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Fd. 1. Photographs of Richard Sloane Angell, 1959.
+						</item> 
+					 <item>Fd. 2. Richard Sloane Angell vita, 1969.</item> 
+					 <item>Fd. 3. Richard Sloane Angell Bio-bibliography emended by
+						him, May 1973.</item> 
+					 <item>Fd. 4. Richard Sloane Angell bibliography emended by him,
+						1981.</item> 
+					 <item>Fd. 5. Enrollments of Richard Sloane Angell's Columbia
+						University courses, 1937-1946. </item> 
+					 <item>Fd. 6. Education for music librarianship,
+						1937-1939.</item> 
+					 <item>Fd. 7. MacDowell Exhibition, 1938: Catalogue, article by
+						Richard Sloane Angell in Columbia University Quarterly, letter from Roger
+						Howson, University Librarian.</item> 
+					 <item>Fd. 8. Columbia University: Proposal for expansion of the
+						Music Library, 17 March 1939.</item> 
+					 <item>Fd. 9. Typescript of 1940 article, "Functions of the
+						college and university music library"</item> 
+					 <item>Fd. 10. Printed documents relating to the MLA 50th
+						meeting, Feb. 1981.</item> 
+					 <item>Fd. 11. Correspondence between Richard Sloane Angell and
+						Paul Kebabian, 1981.</item> 
+					 <item>Fd. 12. Correspondence between Richard Sloane Angell and
+						Irene Millen, 1981.</item> 
+					 <item>Fd. 13. Correspondence between Richard Sloane Angell and
+						Tom Watkins, 1981 and 1962.</item> 
+					 <item>Fd. 14.Correspondence with Carol Bradley prior to May
+						1973 interview. </item> 
+					 <item>Fd. 15. Correspondence with Carol Bradley,
+						1981-82.</item> 
+					 <item>Fd. 16. Richard Sloane Angell's comments on Carol
+						Bradley's dissertation text about him, 1981.</item> 
+					 <item>Fd. 17. Richard Sloane Angell notes re "Music Library
+						Organization," 1981. </item> 
+					 <item>Fd. 18. Correspondence re Richard Sloane Angell MLA
+						citation, 1984.</item> 
+					 <item>Fd. 19. MLA Newsletter issues marked by Richard Sloane
+						Angell.</item> 
+					 <item>Fd. 20. Miscellaneous notes in Richard Sloane Angell's
+						autograph, etc.</item> 
+					 <item>Fd. 21. Richard Sloane Angell typescript, "Music Library
+						Organization," 1959 draft, Chapters 1-5.</item> 
+					 <item>Fd. 22. Richard Sloane Angell typescript, "Music Library
+						Organization," Chapter 3, revised 1960. </item> 
+					 <item>Fd. 23. Richard Sloane Angell typescript, "Music Library
+						Organization," Chapter 6.</item> 
+					 <item>Fd. 24. Richard Sloane Angell typescript, "Music Library
+						Organization," Chapter 6, revised.</item> 
+					 <item>Fd. 25. Richard Sloane Angell typescript, "Music Library
+						Organization," Chapters 7-10.</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">65</container> 
+				<unittitle>Richard Sloane Angell papers, part 2</unittitle> 
+				<physdesc><extent>2 items and 2 folders</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Brook, Barry S., ed. A programmatic history, 1935-1965
+						[of theJ American Musicological Society Greater New York Chapter.</item> 
+					 <item>Columbia University School of Library Service course:
+						notes.</item> 
+					 <item>Haydon, Glen. "The Lateran Codex 61" Sonderdruck: Bericht
+						uber den Siebenten Internationalen Musikwissenschaftlichen Kongress Koln
+						1958.</item> 
+					 <item>Richard Sloane Angell typescript, "Music Library
+						Organization,".</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">66</container> 
+				<unittitle>Richard Sloane Angell papers, part 3</unittitle> 
+				<physdesc><extent>1 folder and 3 binders</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Richard Sloane Angell photocopy of typescript, "Music
+						Library Organization," Chapter 3: Development of the collection. With
+						annotations.</item> 
+					 <item>Richard Sloane Angell, "Music Library Organization,".
+						Three binders of versions with annotations by Carol June Bradley. </item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series14">XIV.</unitid> 
+			 <unittitle>Otto Kinkeldey papers</unittitle> 
+			 <physdesc> <extent>Box 67</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Photocopies of correspondence held in the Kinkeldey collection at
+				Cornell University.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">67</container> 
+				<unittitle>Otto Kinkeldey papers</unittitle> 
+				<physdesc><extent>1 item and packet of loose leaf
+				  photocopies</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Music and music printing incunabula.</item> 
+					 <item>Cornell University. Department of Manuscripts and
+						University Archives. Otto Kinkeldey, 1878-1966. Papers, 1902-1966. Guide.
+						</item> 
+					 <item>Correspondence.</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid id="series15">XV.</unitid> 
+			 <unittitle>Related materials</unittitle> 
+			 <physdesc> <extent>Box 68-69</extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains sets of research index cards, audiocassettes, reels of
+				tape, and microfilms.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">68</container> 
+				<unittitle>Research index cards</unittitle> 
+				<physdesc><extent>2 boxes of index cards</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Index cards for Bradley dissertation.</item> 
+					 <item>Index cards for chronology of music librarians. </item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">69</container> 
+				<unittitle>Assorted related materials</unittitle> 
+				<physdesc><extent>1 box of index cards, 1 envelope of index cards
+				  for bibliography entries, 4 audiocassettes, 3 7-inch reels of tape, 4 reels of
+				  microfilm</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list type="simple"> 
+					 <item>Box of index cards for research into song
+						literature.</item> 
+					 <item>Index cards bibliographical entries.</item> 
+					 <item>Recording of interview with Kleinfeldt (2
+						cassettes).</item> 
+					 <item>Recording of interview with A. Cohn (1 cassette).</item> 
+					 <item>Recording of Carol June Bradley, Oscar G.T. Sonneck:
+						Architect of the National Music Collection (1 cassette).</item> 
+					 <item>Recording of Eve O'Meara, June 27, 1969 (3 reels)</item> 
+					 <item>Microfilm. Waters, Edward. Papers and correspondence
+						relating to his work within the MLA ...</item> 
+					 <item>Microfilm. San Francisco Public Library Music Department.
+						Scrapbook of clippings documenting the history of the Music Dept.
+						1908-51.</item> 
+					 <item>Microfilm. New England Conservatory Bibliography course,
+						1934.</item> 
+					 <item>Microfilm. Richard Hill documents.</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Search Terms</head> 
+		<note> 
+		  <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Contributors</head> 
+		  <persname role="creator" source="lcnaf" encodinganalog="700">Angell,
+			 Richard S. (Richard Sloane)</persname> 
+		  <persname role="creator" source="lcnaf" encodinganalog="700">Kinkeldey,
+			 Otto, 1878-1966</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <persname role="subject" source="lcnaf" encodinganalog="600">Bradley,
+			 Carol June--Archives</persname> 
+		  <persname role="subject" source="lcnaf" encodinganalog="600">Angell,
+			 Richard S. (Richard Sloane)--Archives</persname> 
+		  <persname role="subject" source="lcnaf" encodinganalog="600">Kinkeldey,
+			 Otto, 1878-1966--Archives</persname> 
+		  <persname role="subject" source="lcnaf" encodinganalog="600">Hill,
+			 Richard S. (Richard Snyder), 1901-1961</persname> 
+		  <corpname role="subject" source="lcnaf" encodinganalog="610">Music
+			 Library Association</corpname> 
+		  <subject source="lcsh" encodinganalog="650">Music librarians--United
+			 States</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music librarianship--United
+			 States--20th century</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music
+			 librarianship--Instruction and study</subject> 
+		  <subject source="lcsh" encodinganalog="650">Music libraries--United
+			 States--History</subject> 
+		  <subject source="lcsh"
+		  encodinganalog="650">Songs--Bibliography</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Genres</head> 
+		  <genreform encodinganalog="655" source="aat">papers
+			 (documents)</genreform> 
+		  <genreform encodinganalog="655" source="aat">correspondence</genreform>
+		  
+		  <genreform encodinganalog="655" source="aat">black and white
+			 photographs</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<bibliography> 
+		  <head>Bibliography</head> 
+		  <list type="simple"> 
+			 <head>Works by Carol June Bradley</head> 
+			 <item> 
+				<title render="italic">American Music Librarianship: a Biographical
+				  and Historical Survey</title>. New York: Greenwood, 1990</item> 
+			 <item> 
+				<title render="italic">American Music Librarianship: a Research and
+				  Information Guide</title>. New York: Routledge, 2005.</item> 
+			 <item>Anna Harriet Heyer: An Isolated Pioneer. In 
+				<title render="italic">Notes</title> 63.4 (2007): 798-805.</item> 
+			 <item> 
+				<title render="italic">Documentation: Bibliographic Development in
+				  Music</title>, 1970.</item> 
+			 <item>Biography of George Sherman Dickinson ; Biography of Otto
+				Kinkeldey ; Biography of Oscar George Theodore Sonneck. In 
+				<title render="italic">Dictionary of American Library
+				  Biography</title>. Littleton, Colo.: Libraries Unlimited, 1978.</item> 
+			 <item>Classifying and Cataloguing Music in American Libraries: A
+				Historical Overview. In 
+				<title render="italic">Cataloging and Classification
+				  Quarterly</title> 35.4/5 (2003): 467-481. And In 
+				<title render="italic">Historical Aspects of Cataloging and
+				  Classification</title>. The Haworth Press, Inc. 2003: 467-481.</item> 
+			 <item> 
+				<title render="italic">The Dickinson Classification: A Cataloguing
+				  and Classification Manual for Music</title>. Including a Reprint of the George
+				Sherman Dickinson Classification of Musical Compositions. Carlisle, Pa.:
+				Carlisle Books, 1968.</item> 
+			 <item>The Dickinson Classification for Music: An Introduction. In 
+				<title render="italic">Fontes Artis Musicae</title> 19 (1971/72):
+				13-22.</item> 
+			 <item>Eastman's Ruth Watanabe. In 
+				<title render="italic">Notes</title> 62.4 (June 2006):
+				904-925.</item> 
+			 <item>Edward N. Waters, notes of a career. In 
+				<title render="italic">Notes</title> 50.2 (1993): 485.</item> 
+			 <item>The Genesis of a Music Library: SUNY at Buffalo. (with James
+				Coover) In 
+				<title render="italic">Notes</title> 57.1 (Sept. 2000).</item> 
+			 <item> 
+				<title render="italic">The Genesis of American Music Librarianship:
+				  1902-1942</title>. Thesis (Ph.D.). Florida State University, 1978.</item> 
+			 <item> 
+				<title render="italic">A golden celebration: the Music Library
+				  Association, 1931-1981</title>, The Music Library Association, 1981.</item> 
+			 <item> 
+				<title render="italic">A History of the Edwin A. Fleisher Music
+				  Collection of the Free Library of Philadelphia</title>. Thesis. Western Reserve
+				University, 1957. </item> 
+			 <item> 
+				<title render="italic">Index to Poetry in Music: A Guide to the
+				  Poetry Set as Solo Songs by 125 Major Song Composers</title>. New York:
+				Routledge, 2003.</item> 
+			 <item> 
+				<title render="italic">Irving Female College</title>, 1953.</item> 
+			 <item>Kownatsky, Harry L. 
+				<title render="italic">The Edwin A. Fleisher Collection of
+				  Orchestral Music: A History</title>. (Manuscript edited by Carol June Bradley),
+				2008.</item> 
+			 <item> 
+				<title render="italic">Manual of Music Librarianship</title>.
+				(Edited by Carol June Bradley) Ann Arbor: Music Library Association,
+				1966.</item> 
+			 <item>MLA Summer Meeting of 1949? 
+				<title render="italic">Notes</title> 36.3 (March 1980).</item> 
+			 <item> 
+				<title render="italic">Music Collections in American Libraries: a
+				  Chronology</title>. (Compiled by Carol June Bradley.) Detroit: Information
+				Coordinators, 1981.</item> 
+			 <item>Music libraries in North America. In 
+				<title render="italic">Encyclopedia of Library and Information
+				  Science</title>, v.18. New York: M. Dekker, 1976: 358-425.</item> 
+			 <item>The Music Library Association: the Founding Generation and its
+				Work. In 
+				<title render="italic">Notes</title>37.4 (1981): 763.</item> 
+			 <item>Notes of some pioneers: America's first music librarians. In 
+				<title render="italic">Notes</title>. 43.2 (1986).</item> 
+			 <item>Organising music in libraries. II: Cataloguing. In 
+				<title render="italic">Cataloging and classification
+				  quarterly</title>. 1.2-3 (1982): 141.</item> 
+			 <item> 
+				<title render="italic">Reader in Music Librarianship</title>.
+				Washington: Microcard Editions Books, 1973.</item> 
+			 <item> 
+				<title render="italic">Richard S. Hill: Tributes from
+				  Friends</title>. (Co-editor with James Coover) Detroit: Information
+				Coordinators, 1987.</item> 
+			 <item> 
+				<title render="italic">Towards an Automated Record Catalog: A
+				  Description of the System Used at the State University of New York at Buffalo:
+				  Exhibits Illustrative of the outline</title>. (Prepared by Carol June Bradley
+				for June 28, 1973, Music Library Association, Las Vegas, Nevada), 1973.</item> 
+			 <item>Vassar's Music Library: the First Hundred Years. 
+				<title render="italic">Notes</title> 35.4 (1979): 819-846. </item> 
+			 <item>William Lichtenwanger, reference librarian. 
+				<title render="italic">Notes</title> 62 (Dec. 2005):
+				299-321.</item> 
+			 <item>William J. Weichlein: an appreciation. In 
+				<title render="italic">Notes</title> 51.4 (1995): 1254.</item> 
+		  </list> 
+		</bibliography> 
+		<separatedmaterial encodinganalog="544 0"> 
+		  <head>Separated Material</head> 
+		  <p>The following titles were removed from the collection: 
+			 <list type="simple"> 
+				<item>Brook, Barry S., editor. 
+				  <title render="italic">Musicology and the Computer: Musicology
+					 1966-2000: A Practical Program</title>. New York: City University of New York
+				  Press, 1970.</item> 
+				<item>Bryant, E. T. 
+				  <title render="italic">Music Librarianship: A Practical
+					 Guide</title>. London: James Clarke, 1959.</item> 
+				<item>Coover, James. Basic concepts and practical steps in building
+				  a college music library. In 
+				  <title render="italic">College Music Association, Ninth Annual
+					 Meeting, 1955</title>.</item> 
+				<item>Coover, James. A bibliography of East European music
+				  periodicals. In 
+				  <title render="italic">Fontes musicae</title>, 1956-1962.</item> 
+				<item>Coover, James. 
+				  <title render="italic">Gesamtausgaben, a checklist</title>.
+				  Distant Press, 1970.</item> 
+				<item>Coover, James. 
+				  <title render="italic">Medieval and Renaissance Music on
+					 Long-Playing Records</title>. Detroit: Information Service, 1964.</item> 
+				<item>Coover, James. Reference Bibliography in the Music Library.
+				  In 
+				  <title render="italic">Library Trends</title>, Aril 1960.</item> 
+				<item>Crawford, Richard, and Wiley Hitchcock. 
+				  <title render="italic">The Papers of Andrew Law in the William L.
+					 Clements Library</title>. Ann Arbor, 1961.</item> 
+				<item>Davis, Donald G., editor. 
+				  <title render="italic">Libraries and culture</title>. University
+				  of Texas Press, 1981.</item> 
+				<item>Hopkinson, Cecil. 
+				  <title render="italic">A Dictionary of Parisian Music Publishers,
+					 1700-1950</title>. London, 1954.</item> 
+				<item>Kent, Allan, editor. 
+				  <title render="italic">Encyclopedia of Library and Information
+					 Science, volume 18</title>. New York: Marcel Dekker, 1976.</item> 
+				<item>Library of Congress. Manuscript Division. 
+				  <title render="italic">Hugh Lafayette Black: A Register of His
+					 Papers in the Library of Congress</title>. 1982.</item> 
+				<item>Library of Congress. Manuscript Division. 
+				  <title render="italic">The La Follette Family: A Register of the
+					 Papers in the La Follette Family Collection in the Library of Congress</title>.
+				  1981.</item> 
+			 </list> </p> 
+		</separatedmaterial> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Related Resources</head> 
+		  <relatedmaterial> 
+			 <head>Related Resources in the Music Library</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0076.xml"
+					  show="new" actuate="onrequest" role="text/html">Carol June Bradley Music
+						Librarianship Oral History Recordings, 1973-1988</archref>Mus. Arc. 76</label> 
+				  <item>Recordings of interviews with 37 music Librarians from
+					 various institutions in the United States to research the history and practices
+					 of music librarianship.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref
+					  href="http://purl.org/net/findingaids/view?docId=ead/music/ubmu0054.xml"
+					  show="new" actuate="onrequest" role="text/html">Otto Kinkeldey Papers,
+						1898-1962</archref>Mus. Arc. 54</label> 
+				  <item>Contains offprints of articles by Otto Kinkeldey and
+					 others, correspondence, documents related to the Committee on Graduate Study in
+					 Music (1938), Kinkeldey's transcriptions of musical works, and one of his own
+					 compositions. </item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead>
