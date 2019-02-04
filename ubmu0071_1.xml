@@ -66,7 +66,7 @@
 	   <persname encodinganalog="100" role="creator" source="lcnaf">
 		Chouinard, Joseph Jerod, 1926-2014 </persname> </origination> 
 	 <physdesc label="Extent"> <extent unit="box" encodinganalog="300$a">6
-	   boxes</extent> <extent unit="folder" encodinganalog="300$a">(309
+	   boxes</extent> <extent unit="folder" encodinganalog="300$a">(311
 	   folders)</extent> </physdesc> 
 	 <langmaterial label="Language of Material" encodinganalog="546">
 	   Collection material in <language encodinganalog="041"
@@ -395,11 +395,11 @@
 		  <container type="box">1</container> 
 		  <container type="folder">12</container> 
 		  <unittitle>Curriculum vitae 
-		    <unitdate type="inclusive" normal="1926-07-19">1973-circa
-			 1981</unitdate></unittitle> 
-		  <physdesc><extent>4 items</extent></physdesc> 
+		    <unitdate type="inclusive" normal="1973/1981">1973-circa
+			 1981</unitdate>></unittitle> 
+		  <physdesc><extent>1 envelope</extent></physdesc> 
 		</did> 
-		<scopecontent> 
+<scopecontent> 
 		  <p> 
 		    <list> 
 			 <item>6 August 1973</item> 
@@ -407,8 +407,22 @@
 			 <item>circa 1975</item> 
 			 <item>circa 1981</item> 
 		    </list></p> 
-		</scopecontent> 
-	   </c02> 
+		</scopecontent> 		
+		
+	   </c02>
+<c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">12a</container> 
+		  <unittitle>Additional personal documents,
+<unitdate type="inclusive" normal="1945/1970">1945-1970</unitdate></unittitle> 		  
+		  
+		  <physdesc><extent>4 items</extent></physdesc> 
+		</did> 
+<scopecontent> 
+		  <p>Contains several personal identification cards, commencement program, and copy of birth certificate.</p> 
+		</scopecontent> 		
+	   </c02> 		
 	 </c01> 
 	 <c01 level="series"> 
 	   <did> 
@@ -1131,6 +1145,16 @@
 		  <p>Includes photograph.</p> 
 		</note> 
 	   </c02> 
+ <c02 level="file"> 
+		<did> 
+		  <container type="box">1</container> 
+		  <container type="folder">66a</container> 
+		  <unittitle>Unsorted additional correspondence, 
+		    <unitdate type="inclusive">undated</unitdate> </unittitle> 
+		  <physdesc> <extent>1 folder</extent> </physdesc> 
+		</did> 
+		
+	   </c02> 		
 	 </c01> 
 	 <c01 level="series"> 
 	   <did> 
